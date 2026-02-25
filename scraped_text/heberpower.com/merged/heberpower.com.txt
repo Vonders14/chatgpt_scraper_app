@@ -1,0 +1,1287 @@
+ROOT: https://heberpower.com/
+SCRAPED_AT_UTC: 2026-02-11T20:12:17.293018Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://heberpower.com/
+
+November 2025 Newsletter
+See how HL&P celebrated Public Power Week with our community and find tips on keeping your home energy efficient and warm this winter in this month’s issue of our newsletter.
+See how HL&P celebrated Public Power Week with our community and find tips on keeping your home energy efficient and warm this winter in this month’s issue of our newsletter.
+Discover how Heber Light & Power is making reliable and sustainable decisions about our energy future and how you can help!
+Find out what is the most cost-effective energy-saving measure you can make today in this month’s Newsletter.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+* Indicates a Required Field *
+If you are moving out of the Heber Light & Power Service area you must contact the
+business office at 435-654-1581.
+Safari not supported for form submissions. Please use Chrome, Firefox or Edge browsers.
+This application confirms your consent to receive important
+text or phone notifications related to utility services, public safety, and
+community well-being from Heber Light & Power.
+Msg & Data rates may apply. Message frequency varies based on service
+updates and emergencies.
+• To opt-out: Text STOP to 435-654-2913 or call 435-654-1581.
+• For help: Text HELP to 435-654-2913 or call 435-654-1581
+Thank You
+* Indicates a Required Field *
+If you are moving out of the Heber Light & Power Service area you must contact the
+business office at 435-654-1581.
+Safari is not supported for form submissions. Please use Chrome, Firefox or Edge browsers.
+This application confirms your consent to receive important
+text or phone notifications related to utility services, public safety, and
+community well-being from Heber Light & Power.
+Msg & Data rates may apply. Message frequency varies based on service
+updates and emergencies.
+• To opt-out: Text STOP to 435-654-2913 or call 435-654-1581.
+• For help: Text HELP to 435-654-2913 or call 435-654-1581
+Thank You
+
+--------------------------------------------------------------------------------
+
+URL: https://heberpower.com/company-information/rates
+
+Rates & Fees
+Residential Rate – Includes Residential Pumping.
+Monthly Base Customer Charge (Service size 400 amps or less) – 18.40
+Monthly Base Customer Charge (service size over 400 amps) – 35.40
+Energy Charge Block 1 (0-1000 kWh) – 0.11823/kWh
+Energy Charge Block 1 (> 1000 kWh) – 0.14134/kWh
+Demand Charge Below 400 amps – 0.25
+Demand Charge 400 amps and Greater – 0.75
+Residential Time-Of-Use (TOU) Rate – Contact Customer Service to Opt-in
+Mandatory rate for Net Metering Customers. Opt-In rate for other Residential customers.
+Monthly Base Customer Charge (service size 400 amps or less) – 18.40
+Monthly Base Customer Charge (service size over 400 amps) – 35.40
+Energy Charge:
+Non-Summer (October thru May):
+On-Peak (M-F / 3PM – 10PM) – 0.18984
+Off-Peak (All other hours including Weekends & Holidays) – 0.08629
+Summer (June thru September):
+On-Peak (M-F / 3PM – 10PM) – 0.24207
+Off-Peak (All other hours including Weekends & Holidays) – 0.10525
+Demand Charge Below 400 amps – 0.25
+Demand Charge 400 amps and Greater – 0.75
+Residential Net Metering Buy Back at April 1st True-Up: All Energy – 0.09
+Small General Service
+<= 30 kW Demand
+Monthly Base Customer Charge – Single Phase – 26.00
+Monthly Base Customer Charge – Three Phase – 35.00
+Demand Charge (All kW) – 12.10
+Energy Charge Block 1 (0-500 kWh) – 0.08549
+Energy Charge Block 2 (> 500 kWh) – 0.06839
+Small General Service Pumping Rate
+<= 30 kW Demand
+Monthly Base Customer Charge – 41.00
+Energy Charge:
+Non-Summer (October thru May):
+On-Peak (M-F / 3PM – 10PM) – 0.11397
+Off-Peak (All other hours including Weekends & Holidays) – 0.05698
+Summer (June thru September):
+On-Peak (M-F / 3PM – 10PM) – 0.13901
+Off-Peak (All other hours including Weekends & Holidays) – 0.06950
+Demand Charge (All Demand) – 9.85
+Small General Service Net Metering Buy Back at April 1st True-Up – 0.09
+Medium General Service
+> 30 kW & <= 250 kW Demand
+Monthly Base Customer Charge – 150.00
+Demand Charge (All Demand) – 14.45 / kW
+Energy Charge (All kWh) – 0.06841
+Medium General Service Pumping Rate
+> 30 & <= 250 kW Demand
+Monthly Base Customer Charge – 150.00
+Energy Charge:
+Non-Summer (October thru May):
+On-Peak (M-F / 3PM – 10PM) – 0.11397
+Off-Peak (All other hours including Weekends & Holidays) – 0.05698
+Summer (June thru September):
+On-Peak (M-F / 3PM – 10PM) – 0.13901
+Off-Peak (All other hours including Weekends & Holidays) – 0.06950
+Demand Charge (All Demand) – 9.85
+Large General Service Rate
+> 250 kW Demand
+Monthly Base Customer Charge – 357.00
+Energy Charge (All Energy) – 0.06541
+Demand Charge (All Demand) – 15.35
+Optional Rate for 100% Renewable Energy
+Monthly Base Charge- Charged according to Rate Class
+Energy Charge (All kWh) – .90/100 kWh Block
+| Fee Description | Amount | Comments |
+| Billing/Office Fees | ||
+| • Late Payment Charge (Compounded) | 1.50% | Applied on any past due amounts |
+| • Returned Payment Charge | $15.00 | Included in current schedule |
+| • Reconnect Fee | $20.00 | Included in current schedule |
+| • Service Application Fee | $20.00 | Included in current schedule |
+| • Seasonal Disconnect Fee | $50.00 | Included in current schedule |
+| Construction Fees | ||
+| • Impact Fee | Amperage Calc. | Included in current schedule |
+| • Line Extension/New Development – Installation/Additional Design | Bid Estimate | Estimate for Labor, Materials, and Overhead provided upon request |
+| • Initiation/Will Serve Fee | $200.00 | Check only |
+| • Design Fee | $300.00 | This is a per development phase fee |
+| • Design Fee (resubmit) | $20.00 | Per residential/commercial unit |
+| • Truck Roll Fee | $50.00 | Set fee for extra vehicle trips, i.e. reinspection, meter verification, troubleshooting customer side, etc. |
+| • Temporary Meter Connection | $500.00 | Fee for new services that desire a temporary meter set |
+| Meter Related Fees | ||
+| • Wire Pull (up to 400 amps) | $300.00 plus meter | Customer responsible for wire on services larger than 400 amps |
+| • Meter Installation Fee – Single Phase | $235.00 | All new meter issuances regardless of reason, does not include replacement meters. |
+| • Meter Installation Fee – Three Phase | $470.00 | All new meter issuances regardless of reason, does not include replacement meters. |
+| • Meter Fee | Meter Cost Plus | Cost of Meter rounded up to nearest $10.00 |
+| • Meter – Nonstandard Meter – Monthly Meter Reading Charge | $20.00 | Typically those meters that must be manually read |
+| • Net Metering – Application Fee | $300.00 | Included in current schedule. |
+| Device Fees | ||
+| • Generation Transfer Switch – Preliminary Inspection Fee | $100.00 | Verification trip for sizing and device appropriateness |
+| • Generation Transfer Switch – Installation Fee | $100.00 | Installation and meter re-installation |
+| • Outside Lighting (Yard Lights) | $9.30/Month | Set fee regardless of consumption levels |
+| • Outside Lighting Maintenance | $25.00 plus parts |
+Residential Time of Use Rates
+Time-of-use (TOU) electric rates are a pricing structure for electricity where the cost varies depending on the time of day and season. Instead of a fixed rate for all hours, TOU rates encourage customers to use electricity during off-peak periods where demand for electricity is lower, and wholesale power prices are typically cheaper, while discouraging usage during peak periods when utility demand is higher and wholesale energy prices are peaking for the day. This aligns customer savings with utility savings.
+Summer TOU Rates
+June - September
+On Peak
+3:00 pm – 10:00 pm
+Weekdays
+$.24207 / kWh
+————
+Off Peak
+All other hours including Weekends & Holidays
+$0.10525/ kWh
+Winter TOU Rates
+October - May
+On Peak
+3:00 pm – 10:00 pm
+Weekdays
+$.18984 / kWh
+————
+Off Peak
+All other hours including Weekends & Holidays
+$0.08629/ kWh
+Shift your usage to Off-Peak hours to save on your bill over the course of a year.
+Frequently Asked Questions
+HL&P’s rate consultant used historical wholesale power pricing and market power futures along with the company’s historical energy demands to determine the true cost of power over the course of a day and seasonally. Market power supply and transmission costs are driven by supply and demand. Utility power supply costs are higher in the late afternoon and evening when people return home. HL&P’s wholesale power portfolio includes up to 15% market power when demand exceeds planned resources.
+The TOU rate is not mandatory for all customers with the exception of net metering customers and general service pumping customers. In 2025, residential customers can opt to be billed with the TOU rate by calling (435)654-1581. In 2026, all residential customers will be moved to a TOU rate.
+You can view your energy usage in your Smarthub account or call a customer service representative to help you determine if the TOU rate is a good fit. Generally, customers with electric heat or electric vehicles and no air conditioning usage would be able to benefit from the current TOU rate.
+Customers opting in to the TOU rate will be required to stay on the rate for a year. This ensure the full benefit of the TOU rate is realized, customers will be required to remain on the rate for 12 months.
+TOU rates benefit utility companies and customers alike because they encourage more energy conservation while reducing overall operating costs.
+What is Demand?
+Demand refers to the maximum amount of energy usage at any one time, while energy is the total amount of power you use. It’s measured in kilowatts (kW) during a 15-minute interval and shows your impact on the grid to deliver that power. The higher the demand the more impact on the electrical grid to supply power. The demand charge covers a share of the costs to maintain the grid including poles, wires and substations in your area. By separating your maximum rate of electricity used (kW) from your total electricity used (kWh), you can now see when you use the most energy (demand) and how you can manage it.
+Rate Studies & Adjustments
+HL&P contracts with outside parties every two years to study existing rate structures, revenue requirements, and cost of service. These studies are used for financial projections to determine what rate adjustments, if any, should be recommended. All studies are presented to the public and the board of directors for evaluation and input. When projections warrant rate adjustments, management will make a recommendation to the board of directors to adjust rates schedules in order to maintain the good financial health of the company. These recommendations are presented to our customers in public hearings for public comment prior to the board of directors voting on the rate adjustment.
+Impact Fees
+An impact fee is a one-time charge imposed to mitigate the impact on infrastructure caused by new development. Growth in the form of new homes and businesses require expansion or enlargement of facilities to maintain the same level of service for all customers. Impact fees help fund expansion of facilities necessary to accommodate new growth.
+Electric Service Rules
+Electric Service Rules establish uniform rules for the safe and efficient delivery of electric service to our customers in a manner consistent with utility practices. The electric service rules are subject to change or modification from time to time by the board of directors.
+Power Cost Adjustment
+A power cost adjustment (PCA) is a mechanism used in some electricity markets and by utilities to account for fluctuations in the cost of generating and purchasing electricity. It is designed to allow utilities to adjust their rates to reflect changes in the wholesale cost of power.
+Frequently Asked Questions
+The purpose of the power cost adjustment (PCA) is to ensure that the utility can recover its costs in a timely manner and maintain financial stability, especially when there are significant variations in the cost of fuel and market power caused by a lack of electricity supply.
+The utility tracks its actual costs of purchasing and generating electricity, including the cost of fuel, transmission charges, wholesale market prices, and other relevant factors. The costs vary over time due to changes in wholesale power prices. The baseline rate is set through our cost of service studies.
+The adjustment calculation takes into account the difference from the actual cost of power and the baseline cost of power in the rate. It uses the rolling six month average difference and adjusts the baseline rate to recover the actual cost of power.
+Depending on which billing cycle you are in, you could see the PCA applied to your bill beginning in July 2023.
+A Power Cost Adjustment (PCA) protects the company from market volatility and ensures we can continue to provide safe and reliable power for our customers.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/company-information/service-territory/
+
+Heber Light & Power operates a transmission and distribution system spanning 172 square miles in Wasatch County. The utility’s service area spans east to the top of Timber Lakes, west to Swiss Mountain Estates and Oak Haven in Midway City, south to Daniel’s Canyon, and north to the Jordanelle Reservoir.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/company-information/meeting-and-agendas/
+
+Up Next
+Meeting Schedule
+Heber Light & Power board meetings are typically held on the fourth Wednesday of every month at 4:00 pm in the boardroom at the Heber Light & Power Business Office: 31 S 100 W, Heber.
+Special meetings and any changes to regular meetings will be publicly noticed at least 24 hours in advance of the meeting.
+Stay informed by signing up for email alerts of meetings and notices through the Utah Public Notice Website: www.pmn.utah.gov.
+Meeting Packets & Recordings
+For questions about past or upcoming board meetings, contact Rylee Allen at 435-654-1581 or rallen@heberpower.com.
+Click on a meeting title below to view board meeting video, agenda, minutes, and related documents.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/company-information/documents-policy-library/
+
+2026 Operating and Capital Budgets and Fee Schedule
+2025 Operating and Capital Budgets and Fee Schedule
+2024 Operating and Capital Budgets and Fee Schedule
+2023 Amended Operating and Capital Budgets
+2023 Operating and Capital Budgets
+2022 Operating and Capital Budgets
+2021 Operating and Capital Budgets
+2020 Operating and Capital Budgets
+2019 Operating and Capital Budgets
+2018 Operating and Capital Budgets
+2024 Audited Financial Statements
+2023 Audited Financial Statements
+2022 Audited Financial Statements
+2021 Audited Financial Statements
+2020 Audited Financial Statements
+2019 Audited Financial Statements
+Updated Impact Fee Analysis – Report 2025 Final
+HLP Electric COS Report 2025 – Final
+HLP Electric Rate Design 2025 v1.1
+HLP ECOS Executive Summary v1.2
+2024 Impact Fee Analysis Summary
+2023 Resolution Adopting Impact Fees
+2023 Impact Fee Summary Presentation
+2023 Impact Fee Facilities Plan
+2021 Building and Site Analysis
+2018-07 UFS Econometric Model for HLP
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/company-profile/
+
+A Proud History of Service Since 1909
+Heber Light & Power Mission Statement
+The Company's mission is to provide its customers with safe, reliable energy, in an open, responsible and environmentally sound manner while undertaking a commitment to the values of integrity, innovation, accountability and community service, and to promote an internal culture that fosters safety, loyalty and creativity as well as maintaining a highly skilled, motivated workforce.
+Public Power
+Heber Light & Power is a community owned Utah Energy Services Interlocal Agency providing service to nearly 16,000 customers in the beautiful Heber Valley. Formed in 1909 by the communities of Heber City, Midway City, and Charleston Town, the company continues to operate the transmission and distribution system spanning 100 square miles in Wasatch County.
+Values
+Heber Light & Power is driven by five key values that define the character of the Company.
+Integrity
+We have integrity and honesty in all that we do.
+Responsibility
+We are responsible for our actions, our resources, and the financial integrity of the company.
+Teamwork
+We look out for each other and achieve results by working together as a team toward common goals.
+Respect
+We have respect for each individual and consider the impact of our actions.
+Safety
+We work to ensure safety for ourselves, our co-workers, and the public.
+Meet Our Board
+Heber City Mayor
+Heidi Franco
+Board Chair
+Midway City Council Rep.
+Kevin Payne
+Charleston Town Mayor
+Brenda Kozlowski
+Heber City Council Rep.
+Sid Ostergaard
+Heber City Council Rep.
+Aaron Cheatwood
+Wasatch County Council Rep.
+Kendall Crittenden
+Looking to the Future
+Strategic Planning
+We strive to be proactive in meeting the growing energy and infrastructure requirements of Heber Valley by studying and planning years in advance. As the population within the Heber Valley grows, we work to find cost effective solutions to fulfill growing needs. Integrating distributed generation, energy conservation and efficiency with future planning helps us ensure that we can continue to provide reliable affordable service to keep our community strong.
+Our Strategic Plan is developed with the guidance of our Board of Directors. The plan is a living document that provides direction for operating decisions and serves as a road map into the future. Planning meetings are held on a regular basis to benchmark and refine strategies and objectives.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/company-information/meeting-and-agendas
+
+Up Next
+Meeting Schedule
+Heber Light & Power board meetings are typically held on the fourth Wednesday of every month at 4:00 pm in the boardroom at the Heber Light & Power Business Office: 31 S 100 W, Heber.
+Special meetings and any changes to regular meetings will be publicly noticed at least 24 hours in advance of the meeting.
+Stay informed by signing up for email alerts of meetings and notices through the Utah Public Notice Website: www.pmn.utah.gov.
+Meeting Packets & Recordings
+For questions about past or upcoming board meetings, contact Rylee Allen at 435-654-1581 or rallen@heberpower.com.
+Click on a meeting title below to view board meeting video, agenda, minutes, and related documents.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/construction-process/company-projects/
+
+We are working on some network repairs that may be affecting our internet connection and phones, intermittently.
+If you cannot reach us, please email customerservicesupport@heberpower.com. Thank you for your patience.
+Company projects include ongoing maintenance, line extensions, and system improvements to make sure that the lights stay on for our customers. Projects are planned and budgeted for based on age of equipment and system requirements. Timelines are developed based on priority levels and risk assessments. Project justifications, descriptions, and budgets may be found within the following documents:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+* Indicates a Required Field *
+If you are moving out of the Heber Light & Power Service area you must contact the
+business office at 435-654-1581.
+Safari not supported for form submissions. Please use Chrome, Firefox or Edge browsers.
+This application confirms your consent to receive important
+text or phone notifications related to utility services, public safety, and
+community well-being from Heber Light & Power.
+Msg & Data rates may apply. Message frequency varies based on service
+updates and emergencies.
+• To opt-out: Text STOP to 435-654-2913 or call 435-654-1581.
+• For help: Text HELP to 435-654-2913 or call 435-654-1581
+Thank You
+* Indicates a Required Field *
+If you are moving out of the Heber Light & Power Service area you must contact the
+business office at 435-654-1581.
+Safari is not supported for form submissions. Please use Chrome, Firefox or Edge browsers.
+This application confirms your consent to receive important
+text or phone notifications related to utility services, public safety, and
+community well-being from Heber Light & Power.
+Msg & Data rates may apply. Message frequency varies based on service
+updates and emergencies.
+• To opt-out: Text STOP to 435-654-2913 or call 435-654-1581.
+• For help: Text HELP to 435-654-2913 or call 435-654-1581
+Thank You
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/company-profile
+
+A Proud History of Service Since 1909
+Heber Light & Power Mission Statement
+The Company's mission is to provide its customers with safe, reliable energy, in an open, responsible and environmentally sound manner while undertaking a commitment to the values of integrity, innovation, accountability and community service, and to promote an internal culture that fosters safety, loyalty and creativity as well as maintaining a highly skilled, motivated workforce.
+Public Power
+Heber Light & Power is a community owned Utah Energy Services Interlocal Agency providing service to nearly 16,000 customers in the beautiful Heber Valley. Formed in 1909 by the communities of Heber City, Midway City, and Charleston Town, the company continues to operate the transmission and distribution system spanning 100 square miles in Wasatch County.
+Values
+Heber Light & Power is driven by five key values that define the character of the Company.
+Integrity
+We have integrity and honesty in all that we do.
+Responsibility
+We are responsible for our actions, our resources, and the financial integrity of the company.
+Teamwork
+We look out for each other and achieve results by working together as a team toward common goals.
+Respect
+We have respect for each individual and consider the impact of our actions.
+Safety
+We work to ensure safety for ourselves, our co-workers, and the public.
+Meet Our Board
+Heber City Mayor
+Heidi Franco
+Board Chair
+Midway City Council Rep.
+Kevin Payne
+Charleston Town Mayor
+Brenda Kozlowski
+Heber City Council Rep.
+Sid Ostergaard
+Heber City Council Rep.
+Aaron Cheatwood
+Wasatch County Council Rep.
+Kendall Crittenden
+Looking to the Future
+Strategic Planning
+We strive to be proactive in meeting the growing energy and infrastructure requirements of Heber Valley by studying and planning years in advance. As the population within the Heber Valley grows, we work to find cost effective solutions to fulfill growing needs. Integrating distributed generation, energy conservation and efficiency with future planning helps us ensure that we can continue to provide reliable affordable service to keep our community strong.
+Our Strategic Plan is developed with the guidance of our Board of Directors. The plan is a living document that provides direction for operating decisions and serves as a road map into the future. Planning meetings are held on a regular basis to benchmark and refine strategies and objectives.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/investing-in-a-stronger-future/
+
+We are working on some network repairs that may be affecting our internet connection and phones, intermittently.If you cannot reach us, please email customerservicesupport@heberpower.com. Thank you for your patience.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+Commercial Electric Service Application Form
+* Indicates a Required Field * If you are moving out of the Heber Light & Power Service area you must contact the business office at 435-654-1581.
+Safari not supported for form submissions. Please use Chrome, Firefox or Edge browsers.
+This application confirms your consent to receive important text or phone notifications related to utility services, public safety, and community well-being from Heber Light & Power. Msg & Data rates may apply. Message frequency varies based on service updates and emergencies. • To opt-out: Text STOP to 435-654-2913 or call 435-654-1581. • For help: Text HELP to 435-654-2913 or call 435-654-1581
+Thank You
+Residential Electric Service Application Form
+* Indicates a Required Field * If you are moving out of the Heber Light & Power Service area you must contact the business office at 435-654-1581.
+Safari is not supported for form submissions. Please use Chrome, Firefox or Edge browsers.
+This application confirms your consent to receive important text or phone notifications related to utility services, public safety, and community well-being from Heber Light & Power. Msg & Data rates may apply. Message frequency varies based on service updates and emergencies. • To opt-out: Text STOP to 435-654-2913 or call 435-654-1581. • For help: Text HELP to 435-654-2913 or call 435-654-1581
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/about-us/
+
+We are working on some network repairs that may be affecting our internet connection and phones, intermittently.
+If you cannot reach us, please email customerservicesupport@heberpower.com. Thank you for your patience.
+Home » About Us
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+* Indicates a Required Field *
+If you are moving out of the Heber Light & Power Service area you must contact the
+business office at 435-654-1581.
+Safari not supported for form submissions. Please use Chrome, Firefox or Edge browsers.
+This application confirms your consent to receive important
+text or phone notifications related to utility services, public safety, and
+community well-being from Heber Light & Power.
+Msg & Data rates may apply. Message frequency varies based on service
+updates and emergencies.
+• To opt-out: Text STOP to 435-654-2913 or call 435-654-1581.
+• For help: Text HELP to 435-654-2913 or call 435-654-1581
+Thank You
+* Indicates a Required Field *
+If you are moving out of the Heber Light & Power Service area you must contact the
+business office at 435-654-1581.
+Safari is not supported for form submissions. Please use Chrome, Firefox or Edge browsers.
+This application confirms your consent to receive important
+text or phone notifications related to utility services, public safety, and
+community well-being from Heber Light & Power.
+Msg & Data rates may apply. Message frequency varies based on service
+updates and emergencies.
+• To opt-out: Text STOP to 435-654-2913 or call 435-654-1581.
+• For help: Text HELP to 435-654-2913 or call 435-654-1581
+Thank You
+
+--------------------------------------------------------------------------------
+
+URL: http://www.heberpower.com/
+
+November 2025 Newsletter
+See how HL&P celebrated Public Power Week with our community and find tips on keeping your home energy efficient and warm this winter in this month’s issue of our newsletter.
+See how HL&P celebrated Public Power Week with our community and find tips on keeping your home energy efficient and warm this winter in this month’s issue of our newsletter.
+Discover how Heber Light & Power is making reliable and sustainable decisions about our energy future and how you can help!
+Find out what is the most cost-effective energy-saving measure you can make today in this month’s Newsletter.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+* Indicates a Required Field *
+If you are moving out of the Heber Light & Power Service area you must contact the
+business office at 435-654-1581.
+Safari not supported for form submissions. Please use Chrome, Firefox or Edge browsers.
+This application confirms your consent to receive important
+text or phone notifications related to utility services, public safety, and
+community well-being from Heber Light & Power.
+Msg & Data rates may apply. Message frequency varies based on service
+updates and emergencies.
+• To opt-out: Text STOP to 435-654-2913 or call 435-654-1581.
+• For help: Text HELP to 435-654-2913 or call 435-654-1581
+Thank You
+* Indicates a Required Field *
+If you are moving out of the Heber Light & Power Service area you must contact the
+business office at 435-654-1581.
+Safari is not supported for form submissions. Please use Chrome, Firefox or Edge browsers.
+This application confirms your consent to receive important
+text or phone notifications related to utility services, public safety, and
+community well-being from Heber Light & Power.
+Msg & Data rates may apply. Message frequency varies based on service
+updates and emergencies.
+• To opt-out: Text STOP to 435-654-2913 or call 435-654-1581.
+• For help: Text HELP to 435-654-2913 or call 435-654-1581
+Thank You
+
+--------------------------------------------------------------------------------
+
+URL: http://www.heberpower.com/company-information/rates
+
+Rates & Fees
+Residential Rate – Includes Residential Pumping.
+Monthly Base Customer Charge (Service size 400 amps or less) – 18.40
+Monthly Base Customer Charge (service size over 400 amps) – 35.40
+Energy Charge Block 1 (0-1000 kWh) – 0.11823/kWh
+Energy Charge Block 1 (> 1000 kWh) – 0.14134/kWh
+Demand Charge Below 400 amps – 0.25
+Demand Charge 400 amps and Greater – 0.75
+Residential Time-Of-Use (TOU) Rate – Contact Customer Service to Opt-in
+Mandatory rate for Net Metering Customers. Opt-In rate for other Residential customers.
+Monthly Base Customer Charge (service size 400 amps or less) – 18.40
+Monthly Base Customer Charge (service size over 400 amps) – 35.40
+Energy Charge:
+Non-Summer (October thru May):
+On-Peak (M-F / 3PM – 10PM) – 0.18984
+Off-Peak (All other hours including Weekends & Holidays) – 0.08629
+Summer (June thru September):
+On-Peak (M-F / 3PM – 10PM) – 0.24207
+Off-Peak (All other hours including Weekends & Holidays) – 0.10525
+Demand Charge Below 400 amps – 0.25
+Demand Charge 400 amps and Greater – 0.75
+Residential Net Metering Buy Back at April 1st True-Up: All Energy – 0.09
+Small General Service
+<= 30 kW Demand
+Monthly Base Customer Charge – Single Phase – 26.00
+Monthly Base Customer Charge – Three Phase – 35.00
+Demand Charge (All kW) – 12.10
+Energy Charge Block 1 (0-500 kWh) – 0.08549
+Energy Charge Block 2 (> 500 kWh) – 0.06839
+Small General Service Pumping Rate
+<= 30 kW Demand
+Monthly Base Customer Charge – 41.00
+Energy Charge:
+Non-Summer (October thru May):
+On-Peak (M-F / 3PM – 10PM) – 0.11397
+Off-Peak (All other hours including Weekends & Holidays) – 0.05698
+Summer (June thru September):
+On-Peak (M-F / 3PM – 10PM) – 0.13901
+Off-Peak (All other hours including Weekends & Holidays) – 0.06950
+Demand Charge (All Demand) – 9.85
+Small General Service Net Metering Buy Back at April 1st True-Up – 0.09
+Medium General Service
+> 30 kW & <= 250 kW Demand
+Monthly Base Customer Charge – 150.00
+Demand Charge (All Demand) – 14.45 / kW
+Energy Charge (All kWh) – 0.06841
+Medium General Service Pumping Rate
+> 30 & <= 250 kW Demand
+Monthly Base Customer Charge – 150.00
+Energy Charge:
+Non-Summer (October thru May):
+On-Peak (M-F / 3PM – 10PM) – 0.11397
+Off-Peak (All other hours including Weekends & Holidays) – 0.05698
+Summer (June thru September):
+On-Peak (M-F / 3PM – 10PM) – 0.13901
+Off-Peak (All other hours including Weekends & Holidays) – 0.06950
+Demand Charge (All Demand) – 9.85
+Large General Service Rate
+> 250 kW Demand
+Monthly Base Customer Charge – 357.00
+Energy Charge (All Energy) – 0.06541
+Demand Charge (All Demand) – 15.35
+Optional Rate for 100% Renewable Energy
+Monthly Base Charge- Charged according to Rate Class
+Energy Charge (All kWh) – .90/100 kWh Block
+| Fee Description | Amount | Comments |
+| Billing/Office Fees | ||
+| • Late Payment Charge (Compounded) | 1.50% | Applied on any past due amounts |
+| • Returned Payment Charge | $15.00 | Included in current schedule |
+| • Reconnect Fee | $20.00 | Included in current schedule |
+| • Service Application Fee | $20.00 | Included in current schedule |
+| • Seasonal Disconnect Fee | $50.00 | Included in current schedule |
+| Construction Fees | ||
+| • Impact Fee | Amperage Calc. | Included in current schedule |
+| • Line Extension/New Development – Installation/Additional Design | Bid Estimate | Estimate for Labor, Materials, and Overhead provided upon request |
+| • Initiation/Will Serve Fee | $200.00 | Check only |
+| • Design Fee | $300.00 | This is a per development phase fee |
+| • Design Fee (resubmit) | $20.00 | Per residential/commercial unit |
+| • Truck Roll Fee | $50.00 | Set fee for extra vehicle trips, i.e. reinspection, meter verification, troubleshooting customer side, etc. |
+| • Temporary Meter Connection | $500.00 | Fee for new services that desire a temporary meter set |
+| Meter Related Fees | ||
+| • Wire Pull (up to 400 amps) | $300.00 plus meter | Customer responsible for wire on services larger than 400 amps |
+| • Meter Installation Fee – Single Phase | $235.00 | All new meter issuances regardless of reason, does not include replacement meters. |
+| • Meter Installation Fee – Three Phase | $470.00 | All new meter issuances regardless of reason, does not include replacement meters. |
+| • Meter Fee | Meter Cost Plus | Cost of Meter rounded up to nearest $10.00 |
+| • Meter – Nonstandard Meter – Monthly Meter Reading Charge | $20.00 | Typically those meters that must be manually read |
+| • Net Metering – Application Fee | $300.00 | Included in current schedule. |
+| Device Fees | ||
+| • Generation Transfer Switch – Preliminary Inspection Fee | $100.00 | Verification trip for sizing and device appropriateness |
+| • Generation Transfer Switch – Installation Fee | $100.00 | Installation and meter re-installation |
+| • Outside Lighting (Yard Lights) | $9.30/Month | Set fee regardless of consumption levels |
+| • Outside Lighting Maintenance | $25.00 plus parts |
+Residential Time of Use Rates
+Time-of-use (TOU) electric rates are a pricing structure for electricity where the cost varies depending on the time of day and season. Instead of a fixed rate for all hours, TOU rates encourage customers to use electricity during off-peak periods where demand for electricity is lower, and wholesale power prices are typically cheaper, while discouraging usage during peak periods when utility demand is higher and wholesale energy prices are peaking for the day. This aligns customer savings with utility savings.
+Summer TOU Rates
+June - September
+On Peak
+3:00 pm – 10:00 pm
+Weekdays
+$.24207 / kWh
+————
+Off Peak
+All other hours including Weekends & Holidays
+$0.10525/ kWh
+Winter TOU Rates
+October - May
+On Peak
+3:00 pm – 10:00 pm
+Weekdays
+$.18984 / kWh
+————
+Off Peak
+All other hours including Weekends & Holidays
+$0.08629/ kWh
+Shift your usage to Off-Peak hours to save on your bill over the course of a year.
+Frequently Asked Questions
+HL&P’s rate consultant used historical wholesale power pricing and market power futures along with the company’s historical energy demands to determine the true cost of power over the course of a day and seasonally. Market power supply and transmission costs are driven by supply and demand. Utility power supply costs are higher in the late afternoon and evening when people return home. HL&P’s wholesale power portfolio includes up to 15% market power when demand exceeds planned resources.
+The TOU rate is not mandatory for all customers with the exception of net metering customers and general service pumping customers. In 2025, residential customers can opt to be billed with the TOU rate by calling (435)654-1581. In 2026, all residential customers will be moved to a TOU rate.
+You can view your energy usage in your Smarthub account or call a customer service representative to help you determine if the TOU rate is a good fit. Generally, customers with electric heat or electric vehicles and no air conditioning usage would be able to benefit from the current TOU rate.
+Customers opting in to the TOU rate will be required to stay on the rate for a year. This ensure the full benefit of the TOU rate is realized, customers will be required to remain on the rate for 12 months.
+TOU rates benefit utility companies and customers alike because they encourage more energy conservation while reducing overall operating costs.
+What is Demand?
+Demand refers to the maximum amount of energy usage at any one time, while energy is the total amount of power you use. It’s measured in kilowatts (kW) during a 15-minute interval and shows your impact on the grid to deliver that power. The higher the demand the more impact on the electrical grid to supply power. The demand charge covers a share of the costs to maintain the grid including poles, wires and substations in your area. By separating your maximum rate of electricity used (kW) from your total electricity used (kWh), you can now see when you use the most energy (demand) and how you can manage it.
+Rate Studies & Adjustments
+HL&P contracts with outside parties every two years to study existing rate structures, revenue requirements, and cost of service. These studies are used for financial projections to determine what rate adjustments, if any, should be recommended. All studies are presented to the public and the board of directors for evaluation and input. When projections warrant rate adjustments, management will make a recommendation to the board of directors to adjust rates schedules in order to maintain the good financial health of the company. These recommendations are presented to our customers in public hearings for public comment prior to the board of directors voting on the rate adjustment.
+Impact Fees
+An impact fee is a one-time charge imposed to mitigate the impact on infrastructure caused by new development. Growth in the form of new homes and businesses require expansion or enlargement of facilities to maintain the same level of service for all customers. Impact fees help fund expansion of facilities necessary to accommodate new growth.
+Electric Service Rules
+Electric Service Rules establish uniform rules for the safe and efficient delivery of electric service to our customers in a manner consistent with utility practices. The electric service rules are subject to change or modification from time to time by the board of directors.
+Power Cost Adjustment
+A power cost adjustment (PCA) is a mechanism used in some electricity markets and by utilities to account for fluctuations in the cost of generating and purchasing electricity. It is designed to allow utilities to adjust their rates to reflect changes in the wholesale cost of power.
+Frequently Asked Questions
+The purpose of the power cost adjustment (PCA) is to ensure that the utility can recover its costs in a timely manner and maintain financial stability, especially when there are significant variations in the cost of fuel and market power caused by a lack of electricity supply.
+The utility tracks its actual costs of purchasing and generating electricity, including the cost of fuel, transmission charges, wholesale market prices, and other relevant factors. The costs vary over time due to changes in wholesale power prices. The baseline rate is set through our cost of service studies.
+The adjustment calculation takes into account the difference from the actual cost of power and the baseline cost of power in the rate. It uses the rolling six month average difference and adjusts the baseline rate to recover the actual cost of power.
+Depending on which billing cycle you are in, you could see the PCA applied to your bill beginning in July 2023.
+A Power Cost Adjustment (PCA) protects the company from market volatility and ensures we can continue to provide safe and reliable power for our customers.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/my-account/
+
+We are working on some network repairs that may be affecting our internet connection and phones, intermittently.
+If you cannot reach us, please email customerservicesupport@heberpower.com. Thank you for your patience.
+Home » My Account
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+* Indicates a Required Field *
+If you are moving out of the Heber Light & Power Service area you must contact the
+business office at 435-654-1581.
+Safari not supported for form submissions. Please use Chrome, Firefox or Edge browsers.
+This application confirms your consent to receive important
+text or phone notifications related to utility services, public safety, and
+community well-being from Heber Light & Power.
+Msg & Data rates may apply. Message frequency varies based on service
+updates and emergencies.
+• To opt-out: Text STOP to 435-654-2913 or call 435-654-1581.
+• For help: Text HELP to 435-654-2913 or call 435-654-1581
+Thank You
+* Indicates a Required Field *
+If you are moving out of the Heber Light & Power Service area you must contact the
+business office at 435-654-1581.
+Safari is not supported for form submissions. Please use Chrome, Firefox or Edge browsers.
+This application confirms your consent to receive important
+text or phone notifications related to utility services, public safety, and
+community well-being from Heber Light & Power.
+Msg & Data rates may apply. Message frequency varies based on service
+updates and emergencies.
+• To opt-out: Text STOP to 435-654-2913 or call 435-654-1581.
+• For help: Text HELP to 435-654-2913 or call 435-654-1581
+Thank You
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/company-information/rates
+
+Rates & Fees
+Residential Rate – Includes Residential Pumping.
+Monthly Base Customer Charge (Service size 400 amps or less) – 18.40
+Monthly Base Customer Charge (service size over 400 amps) – 35.40
+Energy Charge Block 1 (0-1000 kWh) – 0.11823/kWh
+Energy Charge Block 1 (> 1000 kWh) – 0.14134/kWh
+Demand Charge Below 400 amps – 0.25
+Demand Charge 400 amps and Greater – 0.75
+Residential Time-Of-Use (TOU) Rate – Contact Customer Service to Opt-in
+Mandatory rate for Net Metering Customers. Opt-In rate for other Residential customers.
+Monthly Base Customer Charge (service size 400 amps or less) – 18.40
+Monthly Base Customer Charge (service size over 400 amps) – 35.40
+Energy Charge:
+Non-Summer (October thru May):
+On-Peak (M-F / 3PM – 10PM) – 0.18984
+Off-Peak (All other hours including Weekends & Holidays) – 0.08629
+Summer (June thru September):
+On-Peak (M-F / 3PM – 10PM) – 0.24207
+Off-Peak (All other hours including Weekends & Holidays) – 0.10525
+Demand Charge Below 400 amps – 0.25
+Demand Charge 400 amps and Greater – 0.75
+Residential Net Metering Buy Back at April 1st True-Up: All Energy – 0.09
+Small General Service
+<= 30 kW Demand
+Monthly Base Customer Charge – Single Phase – 26.00
+Monthly Base Customer Charge – Three Phase – 35.00
+Demand Charge (All kW) – 12.10
+Energy Charge Block 1 (0-500 kWh) – 0.08549
+Energy Charge Block 2 (> 500 kWh) – 0.06839
+Small General Service Pumping Rate
+<= 30 kW Demand
+Monthly Base Customer Charge – 41.00
+Energy Charge:
+Non-Summer (October thru May):
+On-Peak (M-F / 3PM – 10PM) – 0.11397
+Off-Peak (All other hours including Weekends & Holidays) – 0.05698
+Summer (June thru September):
+On-Peak (M-F / 3PM – 10PM) – 0.13901
+Off-Peak (All other hours including Weekends & Holidays) – 0.06950
+Demand Charge (All Demand) – 9.85
+Small General Service Net Metering Buy Back at April 1st True-Up – 0.09
+Medium General Service
+> 30 kW & <= 250 kW Demand
+Monthly Base Customer Charge – 150.00
+Demand Charge (All Demand) – 14.45 / kW
+Energy Charge (All kWh) – 0.06841
+Medium General Service Pumping Rate
+> 30 & <= 250 kW Demand
+Monthly Base Customer Charge – 150.00
+Energy Charge:
+Non-Summer (October thru May):
+On-Peak (M-F / 3PM – 10PM) – 0.11397
+Off-Peak (All other hours including Weekends & Holidays) – 0.05698
+Summer (June thru September):
+On-Peak (M-F / 3PM – 10PM) – 0.13901
+Off-Peak (All other hours including Weekends & Holidays) – 0.06950
+Demand Charge (All Demand) – 9.85
+Large General Service Rate
+> 250 kW Demand
+Monthly Base Customer Charge – 357.00
+Energy Charge (All Energy) – 0.06541
+Demand Charge (All Demand) – 15.35
+Optional Rate for 100% Renewable Energy
+Monthly Base Charge- Charged according to Rate Class
+Energy Charge (All kWh) – .90/100 kWh Block
+| Fee Description | Amount | Comments |
+| Billing/Office Fees | ||
+| • Late Payment Charge (Compounded) | 1.50% | Applied on any past due amounts |
+| • Returned Payment Charge | $15.00 | Included in current schedule |
+| • Reconnect Fee | $20.00 | Included in current schedule |
+| • Service Application Fee | $20.00 | Included in current schedule |
+| • Seasonal Disconnect Fee | $50.00 | Included in current schedule |
+| Construction Fees | ||
+| • Impact Fee | Amperage Calc. | Included in current schedule |
+| • Line Extension/New Development – Installation/Additional Design | Bid Estimate | Estimate for Labor, Materials, and Overhead provided upon request |
+| • Initiation/Will Serve Fee | $200.00 | Check only |
+| • Design Fee | $300.00 | This is a per development phase fee |
+| • Design Fee (resubmit) | $20.00 | Per residential/commercial unit |
+| • Truck Roll Fee | $50.00 | Set fee for extra vehicle trips, i.e. reinspection, meter verification, troubleshooting customer side, etc. |
+| • Temporary Meter Connection | $500.00 | Fee for new services that desire a temporary meter set |
+| Meter Related Fees | ||
+| • Wire Pull (up to 400 amps) | $300.00 plus meter | Customer responsible for wire on services larger than 400 amps |
+| • Meter Installation Fee – Single Phase | $235.00 | All new meter issuances regardless of reason, does not include replacement meters. |
+| • Meter Installation Fee – Three Phase | $470.00 | All new meter issuances regardless of reason, does not include replacement meters. |
+| • Meter Fee | Meter Cost Plus | Cost of Meter rounded up to nearest $10.00 |
+| • Meter – Nonstandard Meter – Monthly Meter Reading Charge | $20.00 | Typically those meters that must be manually read |
+| • Net Metering – Application Fee | $300.00 | Included in current schedule. |
+| Device Fees | ||
+| • Generation Transfer Switch – Preliminary Inspection Fee | $100.00 | Verification trip for sizing and device appropriateness |
+| • Generation Transfer Switch – Installation Fee | $100.00 | Installation and meter re-installation |
+| • Outside Lighting (Yard Lights) | $9.30/Month | Set fee regardless of consumption levels |
+| • Outside Lighting Maintenance | $25.00 plus parts |
+Residential Time of Use Rates
+Time-of-use (TOU) electric rates are a pricing structure for electricity where the cost varies depending on the time of day and season. Instead of a fixed rate for all hours, TOU rates encourage customers to use electricity during off-peak periods where demand for electricity is lower, and wholesale power prices are typically cheaper, while discouraging usage during peak periods when utility demand is higher and wholesale energy prices are peaking for the day. This aligns customer savings with utility savings.
+Summer TOU Rates
+June - September
+On Peak
+3:00 pm – 10:00 pm
+Weekdays
+$.24207 / kWh
+————
+Off Peak
+All other hours including Weekends & Holidays
+$0.10525/ kWh
+Winter TOU Rates
+October - May
+On Peak
+3:00 pm – 10:00 pm
+Weekdays
+$.18984 / kWh
+————
+Off Peak
+All other hours including Weekends & Holidays
+$0.08629/ kWh
+Shift your usage to Off-Peak hours to save on your bill over the course of a year.
+Frequently Asked Questions
+HL&P’s rate consultant used historical wholesale power pricing and market power futures along with the company’s historical energy demands to determine the true cost of power over the course of a day and seasonally. Market power supply and transmission costs are driven by supply and demand. Utility power supply costs are higher in the late afternoon and evening when people return home. HL&P’s wholesale power portfolio includes up to 15% market power when demand exceeds planned resources.
+The TOU rate is not mandatory for all customers with the exception of net metering customers and general service pumping customers. In 2025, residential customers can opt to be billed with the TOU rate by calling (435)654-1581. In 2026, all residential customers will be moved to a TOU rate.
+You can view your energy usage in your Smarthub account or call a customer service representative to help you determine if the TOU rate is a good fit. Generally, customers with electric heat or electric vehicles and no air conditioning usage would be able to benefit from the current TOU rate.
+Customers opting in to the TOU rate will be required to stay on the rate for a year. This ensure the full benefit of the TOU rate is realized, customers will be required to remain on the rate for 12 months.
+TOU rates benefit utility companies and customers alike because they encourage more energy conservation while reducing overall operating costs.
+What is Demand?
+Demand refers to the maximum amount of energy usage at any one time, while energy is the total amount of power you use. It’s measured in kilowatts (kW) during a 15-minute interval and shows your impact on the grid to deliver that power. The higher the demand the more impact on the electrical grid to supply power. The demand charge covers a share of the costs to maintain the grid including poles, wires and substations in your area. By separating your maximum rate of electricity used (kW) from your total electricity used (kWh), you can now see when you use the most energy (demand) and how you can manage it.
+Rate Studies & Adjustments
+HL&P contracts with outside parties every two years to study existing rate structures, revenue requirements, and cost of service. These studies are used for financial projections to determine what rate adjustments, if any, should be recommended. All studies are presented to the public and the board of directors for evaluation and input. When projections warrant rate adjustments, management will make a recommendation to the board of directors to adjust rates schedules in order to maintain the good financial health of the company. These recommendations are presented to our customers in public hearings for public comment prior to the board of directors voting on the rate adjustment.
+Impact Fees
+An impact fee is a one-time charge imposed to mitigate the impact on infrastructure caused by new development. Growth in the form of new homes and businesses require expansion or enlargement of facilities to maintain the same level of service for all customers. Impact fees help fund expansion of facilities necessary to accommodate new growth.
+Electric Service Rules
+Electric Service Rules establish uniform rules for the safe and efficient delivery of electric service to our customers in a manner consistent with utility practices. The electric service rules are subject to change or modification from time to time by the board of directors.
+Power Cost Adjustment
+A power cost adjustment (PCA) is a mechanism used in some electricity markets and by utilities to account for fluctuations in the cost of generating and purchasing electricity. It is designed to allow utilities to adjust their rates to reflect changes in the wholesale cost of power.
+Frequently Asked Questions
+The purpose of the power cost adjustment (PCA) is to ensure that the utility can recover its costs in a timely manner and maintain financial stability, especially when there are significant variations in the cost of fuel and market power caused by a lack of electricity supply.
+The utility tracks its actual costs of purchasing and generating electricity, including the cost of fuel, transmission charges, wholesale market prices, and other relevant factors. The costs vary over time due to changes in wholesale power prices. The baseline rate is set through our cost of service studies.
+The adjustment calculation takes into account the difference from the actual cost of power and the baseline cost of power in the rate. It uses the rolling six month average difference and adjusts the baseline rate to recover the actual cost of power.
+Depending on which billing cycle you are in, you could see the PCA applied to your bill beginning in July 2023.
+A Power Cost Adjustment (PCA) protects the company from market volatility and ensures we can continue to provide safe and reliable power for our customers.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/bill-payment-explanation/
+
+Payment Options
+Paying your bill is easy!
+Pay Online
+Pay Online using our SmartHub Portal
+Walk In & Pay
+Come to our office and pay inside between 8 am & 5 pm Monday - Friday, excluding holidays.
+Pay by Phone
+Have your account number ready when you call (855) 957-3880 to pay over the phone.
+Drive Up & Pay
+During business hours, pay at the drive-thru window or, after hours, use the drop box on the south side of the building at 31 South 100 West in Heber City.
+Billing Options
+How to make it even easier!
+Paperless Billing
+If you are looking for a way to get one less bill in the mail each month, we have you covered! It is as simple as checking a box to switch to paperless billing in our SmartHub portal.
+Auto Payment
+Enrolling in our Auto Pay program has never been easier! Our SmartHub system makes the process quick and painless.
+Budget Billing
+If you are looking to avoid those summer spikes in your power bill, our Budget Billing program can help you out. This program enables customers to pay a consistent monthly amount based on your previous year's monthly average power usage. Call our office to enroll now.
+Bill Explanation
+This is the beginning and ending meter read for the billing period.
+Total energy consumption for billing period (kilowatt-hours).
+Demand is the highest recorded kilowatt use during a 15-minute period in the billing cycle. It is only billed to commercial customers.
+Important Communications
+13-month usage comparison chart (this does not apply to net metering customers).
+The average kilowatt-hours used each day during the billing period.
+Billing period (meter read dates).
+Power Cost Adjustment
+learn more here
+Last payment received.
+Time-of-use kilowatt-hour usage (only billed to net metering customers or opt-in customers).
+Learn more here.
+Current Charges
+Billing address (may be different than service address).
+This is the amount due after the due date.
+Service address is the meter location and not always the same as the billing address.
+This is the customer's billed rate schedule.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/company-information/rates/
+
+Rates & Fees
+Residential Rate – Includes Residential Pumping.
+Monthly Base Customer Charge (Service size 400 amps or less) – 18.40
+Monthly Base Customer Charge (service size over 400 amps) – 35.40
+Energy Charge Block 1 (0-1000 kWh) – 0.11823/kWh
+Energy Charge Block 1 (> 1000 kWh) – 0.14134/kWh
+Demand Charge Below 400 amps – 0.25
+Demand Charge 400 amps and Greater – 0.75
+Residential Time-Of-Use (TOU) Rate – Contact Customer Service to Opt-in
+Mandatory rate for Net Metering Customers. Opt-In rate for other Residential customers.
+Monthly Base Customer Charge (service size 400 amps or less) – 18.40
+Monthly Base Customer Charge (service size over 400 amps) – 35.40
+Energy Charge:
+Non-Summer (October thru May):
+On-Peak (M-F / 3PM – 10PM) – 0.18984
+Off-Peak (All other hours including Weekends & Holidays) – 0.08629
+Summer (June thru September):
+On-Peak (M-F / 3PM – 10PM) – 0.24207
+Off-Peak (All other hours including Weekends & Holidays) – 0.10525
+Demand Charge Below 400 amps – 0.25
+Demand Charge 400 amps and Greater – 0.75
+Residential Net Metering Buy Back at April 1st True-Up: All Energy – 0.09
+Small General Service
+<= 30 kW Demand
+Monthly Base Customer Charge – Single Phase – 26.00
+Monthly Base Customer Charge – Three Phase – 35.00
+Demand Charge (All kW) – 12.10
+Energy Charge Block 1 (0-500 kWh) – 0.08549
+Energy Charge Block 2 (> 500 kWh) – 0.06839
+Small General Service Pumping Rate
+<= 30 kW Demand
+Monthly Base Customer Charge – 41.00
+Energy Charge:
+Non-Summer (October thru May):
+On-Peak (M-F / 3PM – 10PM) – 0.11397
+Off-Peak (All other hours including Weekends & Holidays) – 0.05698
+Summer (June thru September):
+On-Peak (M-F / 3PM – 10PM) – 0.13901
+Off-Peak (All other hours including Weekends & Holidays) – 0.06950
+Demand Charge (All Demand) – 9.85
+Small General Service Net Metering Buy Back at April 1st True-Up – 0.09
+Medium General Service
+> 30 kW & <= 250 kW Demand
+Monthly Base Customer Charge – 150.00
+Demand Charge (All Demand) – 14.45 / kW
+Energy Charge (All kWh) – 0.06841
+Medium General Service Pumping Rate
+> 30 & <= 250 kW Demand
+Monthly Base Customer Charge – 150.00
+Energy Charge:
+Non-Summer (October thru May):
+On-Peak (M-F / 3PM – 10PM) – 0.11397
+Off-Peak (All other hours including Weekends & Holidays) – 0.05698
+Summer (June thru September):
+On-Peak (M-F / 3PM – 10PM) – 0.13901
+Off-Peak (All other hours including Weekends & Holidays) – 0.06950
+Demand Charge (All Demand) – 9.85
+Large General Service Rate
+> 250 kW Demand
+Monthly Base Customer Charge – 357.00
+Energy Charge (All Energy) – 0.06541
+Demand Charge (All Demand) – 15.35
+Optional Rate for 100% Renewable Energy
+Monthly Base Charge- Charged according to Rate Class
+Energy Charge (All kWh) – .90/100 kWh Block
+| Fee Description | Amount | Comments |
+| Billing/Office Fees | ||
+| • Late Payment Charge (Compounded) | 1.50% | Applied on any past due amounts |
+| • Returned Payment Charge | $15.00 | Included in current schedule |
+| • Reconnect Fee | $20.00 | Included in current schedule |
+| • Service Application Fee | $20.00 | Included in current schedule |
+| • Seasonal Disconnect Fee | $50.00 | Included in current schedule |
+| Construction Fees | ||
+| • Impact Fee | Amperage Calc. | Included in current schedule |
+| • Line Extension/New Development – Installation/Additional Design | Bid Estimate | Estimate for Labor, Materials, and Overhead provided upon request |
+| • Initiation/Will Serve Fee | $200.00 | Check only |
+| • Design Fee | $300.00 | This is a per development phase fee |
+| • Design Fee (resubmit) | $20.00 | Per residential/commercial unit |
+| • Truck Roll Fee | $50.00 | Set fee for extra vehicle trips, i.e. reinspection, meter verification, troubleshooting customer side, etc. |
+| • Temporary Meter Connection | $500.00 | Fee for new services that desire a temporary meter set |
+| Meter Related Fees | ||
+| • Wire Pull (up to 400 amps) | $300.00 plus meter | Customer responsible for wire on services larger than 400 amps |
+| • Meter Installation Fee – Single Phase | $235.00 | All new meter issuances regardless of reason, does not include replacement meters. |
+| • Meter Installation Fee – Three Phase | $470.00 | All new meter issuances regardless of reason, does not include replacement meters. |
+| • Meter Fee | Meter Cost Plus | Cost of Meter rounded up to nearest $10.00 |
+| • Meter – Nonstandard Meter – Monthly Meter Reading Charge | $20.00 | Typically those meters that must be manually read |
+| • Net Metering – Application Fee | $300.00 | Included in current schedule. |
+| Device Fees | ||
+| • Generation Transfer Switch – Preliminary Inspection Fee | $100.00 | Verification trip for sizing and device appropriateness |
+| • Generation Transfer Switch – Installation Fee | $100.00 | Installation and meter re-installation |
+| • Outside Lighting (Yard Lights) | $9.30/Month | Set fee regardless of consumption levels |
+| • Outside Lighting Maintenance | $25.00 plus parts |
+Residential Time of Use Rates
+Time-of-use (TOU) electric rates are a pricing structure for electricity where the cost varies depending on the time of day and season. Instead of a fixed rate for all hours, TOU rates encourage customers to use electricity during off-peak periods where demand for electricity is lower, and wholesale power prices are typically cheaper, while discouraging usage during peak periods when utility demand is higher and wholesale energy prices are peaking for the day. This aligns customer savings with utility savings.
+Summer TOU Rates
+June - September
+On Peak
+3:00 pm – 10:00 pm
+Weekdays
+$.24207 / kWh
+————
+Off Peak
+All other hours including Weekends & Holidays
+$0.10525/ kWh
+Winter TOU Rates
+October - May
+On Peak
+3:00 pm – 10:00 pm
+Weekdays
+$.18984 / kWh
+————
+Off Peak
+All other hours including Weekends & Holidays
+$0.08629/ kWh
+Shift your usage to Off-Peak hours to save on your bill over the course of a year.
+Frequently Asked Questions
+HL&P’s rate consultant used historical wholesale power pricing and market power futures along with the company’s historical energy demands to determine the true cost of power over the course of a day and seasonally. Market power supply and transmission costs are driven by supply and demand. Utility power supply costs are higher in the late afternoon and evening when people return home. HL&P’s wholesale power portfolio includes up to 15% market power when demand exceeds planned resources.
+The TOU rate is not mandatory for all customers with the exception of net metering customers and general service pumping customers. In 2025, residential customers can opt to be billed with the TOU rate by calling (435)654-1581. In 2026, all residential customers will be moved to a TOU rate.
+You can view your energy usage in your Smarthub account or call a customer service representative to help you determine if the TOU rate is a good fit. Generally, customers with electric heat or electric vehicles and no air conditioning usage would be able to benefit from the current TOU rate.
+Customers opting in to the TOU rate will be required to stay on the rate for a year. This ensure the full benefit of the TOU rate is realized, customers will be required to remain on the rate for 12 months.
+TOU rates benefit utility companies and customers alike because they encourage more energy conservation while reducing overall operating costs.
+What is Demand?
+Demand refers to the maximum amount of energy usage at any one time, while energy is the total amount of power you use. It’s measured in kilowatts (kW) during a 15-minute interval and shows your impact on the grid to deliver that power. The higher the demand the more impact on the electrical grid to supply power. The demand charge covers a share of the costs to maintain the grid including poles, wires and substations in your area. By separating your maximum rate of electricity used (kW) from your total electricity used (kWh), you can now see when you use the most energy (demand) and how you can manage it.
+Rate Studies & Adjustments
+HL&P contracts with outside parties every two years to study existing rate structures, revenue requirements, and cost of service. These studies are used for financial projections to determine what rate adjustments, if any, should be recommended. All studies are presented to the public and the board of directors for evaluation and input. When projections warrant rate adjustments, management will make a recommendation to the board of directors to adjust rates schedules in order to maintain the good financial health of the company. These recommendations are presented to our customers in public hearings for public comment prior to the board of directors voting on the rate adjustment.
+Impact Fees
+An impact fee is a one-time charge imposed to mitigate the impact on infrastructure caused by new development. Growth in the form of new homes and businesses require expansion or enlargement of facilities to maintain the same level of service for all customers. Impact fees help fund expansion of facilities necessary to accommodate new growth.
+Electric Service Rules
+Electric Service Rules establish uniform rules for the safe and efficient delivery of electric service to our customers in a manner consistent with utility practices. The electric service rules are subject to change or modification from time to time by the board of directors.
+Power Cost Adjustment
+A power cost adjustment (PCA) is a mechanism used in some electricity markets and by utilities to account for fluctuations in the cost of generating and purchasing electricity. It is designed to allow utilities to adjust their rates to reflect changes in the wholesale cost of power.
+Frequently Asked Questions
+The purpose of the power cost adjustment (PCA) is to ensure that the utility can recover its costs in a timely manner and maintain financial stability, especially when there are significant variations in the cost of fuel and market power caused by a lack of electricity supply.
+The utility tracks its actual costs of purchasing and generating electricity, including the cost of fuel, transmission charges, wholesale market prices, and other relevant factors. The costs vary over time due to changes in wholesale power prices. The baseline rate is set through our cost of service studies.
+The adjustment calculation takes into account the difference from the actual cost of power and the baseline cost of power in the rate. It uses the rolling six month average difference and adjusts the baseline rate to recover the actual cost of power.
+Depending on which billing cycle you are in, you could see the PCA applied to your bill beginning in July 2023.
+A Power Cost Adjustment (PCA) protects the company from market volatility and ensures we can continue to provide safe and reliable power for our customers.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/my-account/rates/
+
+Rates & Fees
+Residential Rate – Includes Residential Pumping.
+Monthly Base Customer Charge (Service size 400 amps or less) – 18.40
+Monthly Base Customer Charge (service size over 400 amps) – 35.40
+Energy Charge Block 1 (0-1000 kWh) – 0.11823/kWh
+Energy Charge Block 1 (> 1000 kWh) – 0.14134/kWh
+Demand Charge Below 400 amps – 0.25
+Demand Charge 400 amps and Greater – 0.75
+Residential Time-Of-Use (TOU) Rate – Contact Customer Service to Opt-in
+Mandatory rate for Net Metering Customers. Opt-In rate for other Residential customers.
+Monthly Base Customer Charge (service size 400 amps or less) – 18.40
+Monthly Base Customer Charge (service size over 400 amps) – 35.40
+Energy Charge:
+Non-Summer (October thru May):
+On-Peak (M-F / 3PM – 10PM) – 0.18984
+Off-Peak (All other hours including Weekends & Holidays) – 0.08629
+Summer (June thru September):
+On-Peak (M-F / 3PM – 10PM) – 0.24207
+Off-Peak (All other hours including Weekends & Holidays) – 0.10525
+Demand Charge Below 400 amps – 0.25
+Demand Charge 400 amps and Greater – 0.75
+Residential Net Metering Buy Back at April 1st True-Up: All Energy – 0.09
+Small General Service
+<= 30 kW Demand
+Monthly Base Customer Charge – Single Phase – 26.00
+Monthly Base Customer Charge – Three Phase – 35.00
+Demand Charge (All kW) – 12.10
+Energy Charge Block 1 (0-500 kWh) – 0.08549
+Energy Charge Block 2 (> 500 kWh) – 0.06839
+Small General Service Pumping Rate
+<= 30 kW Demand
+Monthly Base Customer Charge – 41.00
+Energy Charge:
+Non-Summer (October thru May):
+On-Peak (M-F / 3PM – 10PM) – 0.11397
+Off-Peak (All other hours including Weekends & Holidays) – 0.05698
+Summer (June thru September):
+On-Peak (M-F / 3PM – 10PM) – 0.13901
+Off-Peak (All other hours including Weekends & Holidays) – 0.06950
+Demand Charge (All Demand) – 9.85
+Small General Service Net Metering Buy Back at April 1st True-Up – 0.09
+Medium General Service
+> 30 kW & <= 250 kW Demand
+Monthly Base Customer Charge – 150.00
+Demand Charge (All Demand) – 14.45 / kW
+Energy Charge (All kWh) – 0.06841
+Medium General Service Pumping Rate
+> 30 & <= 250 kW Demand
+Monthly Base Customer Charge – 150.00
+Energy Charge:
+Non-Summer (October thru May):
+On-Peak (M-F / 3PM – 10PM) – 0.11397
+Off-Peak (All other hours including Weekends & Holidays) – 0.05698
+Summer (June thru September):
+On-Peak (M-F / 3PM – 10PM) – 0.13901
+Off-Peak (All other hours including Weekends & Holidays) – 0.06950
+Demand Charge (All Demand) – 9.85
+Large General Service Rate
+> 250 kW Demand
+Monthly Base Customer Charge – 357.00
+Energy Charge (All Energy) – 0.06541
+Demand Charge (All Demand) – 15.35
+Optional Rate for 100% Renewable Energy
+Monthly Base Charge- Charged according to Rate Class
+Energy Charge (All kWh) – .90/100 kWh Block
+| Fee Description | Amount | Comments |
+| Billing/Office Fees | ||
+| • Late Payment Charge (Compounded) | 1.50% | Applied on any past due amounts |
+| • Returned Payment Charge | $15.00 | Included in current schedule |
+| • Reconnect Fee | $20.00 | Included in current schedule |
+| • Service Application Fee | $20.00 | Included in current schedule |
+| • Seasonal Disconnect Fee | $50.00 | Included in current schedule |
+| Construction Fees | ||
+| • Impact Fee | Amperage Calc. | Included in current schedule |
+| • Line Extension/New Development – Installation/Additional Design | Bid Estimate | Estimate for Labor, Materials, and Overhead provided upon request |
+| • Initiation/Will Serve Fee | $200.00 | Check only |
+| • Design Fee | $300.00 | This is a per development phase fee |
+| • Design Fee (resubmit) | $20.00 | Per residential/commercial unit |
+| • Truck Roll Fee | $50.00 | Set fee for extra vehicle trips, i.e. reinspection, meter verification, troubleshooting customer side, etc. |
+| • Temporary Meter Connection | $500.00 | Fee for new services that desire a temporary meter set |
+| Meter Related Fees | ||
+| • Wire Pull (up to 400 amps) | $300.00 plus meter | Customer responsible for wire on services larger than 400 amps |
+| • Meter Installation Fee – Single Phase | $235.00 | All new meter issuances regardless of reason, does not include replacement meters. |
+| • Meter Installation Fee – Three Phase | $470.00 | All new meter issuances regardless of reason, does not include replacement meters. |
+| • Meter Fee | Meter Cost Plus | Cost of Meter rounded up to nearest $10.00 |
+| • Meter – Nonstandard Meter – Monthly Meter Reading Charge | $20.00 | Typically those meters that must be manually read |
+| • Net Metering – Application Fee | $300.00 | Included in current schedule. |
+| Device Fees | ||
+| • Generation Transfer Switch – Preliminary Inspection Fee | $100.00 | Verification trip for sizing and device appropriateness |
+| • Generation Transfer Switch – Installation Fee | $100.00 | Installation and meter re-installation |
+| • Outside Lighting (Yard Lights) | $9.30/Month | Set fee regardless of consumption levels |
+| • Outside Lighting Maintenance | $25.00 plus parts |
+Residential Time of Use Rates
+Time-of-use (TOU) electric rates are a pricing structure for electricity where the cost varies depending on the time of day and season. Instead of a fixed rate for all hours, TOU rates encourage customers to use electricity during off-peak periods where demand for electricity is lower, and wholesale power prices are typically cheaper, while discouraging usage during peak periods when utility demand is higher and wholesale energy prices are peaking for the day. This aligns customer savings with utility savings.
+Summer TOU Rates
+June - September
+On Peak
+3:00 pm – 10:00 pm
+Weekdays
+$.24207 / kWh
+————
+Off Peak
+All other hours including Weekends & Holidays
+$0.10525/ kWh
+Winter TOU Rates
+October - May
+On Peak
+3:00 pm – 10:00 pm
+Weekdays
+$.18984 / kWh
+————
+Off Peak
+All other hours including Weekends & Holidays
+$0.08629/ kWh
+Shift your usage to Off-Peak hours to save on your bill over the course of a year.
+Frequently Asked Questions
+HL&P’s rate consultant used historical wholesale power pricing and market power futures along with the company’s historical energy demands to determine the true cost of power over the course of a day and seasonally. Market power supply and transmission costs are driven by supply and demand. Utility power supply costs are higher in the late afternoon and evening when people return home. HL&P’s wholesale power portfolio includes up to 15% market power when demand exceeds planned resources.
+The TOU rate is not mandatory for all customers with the exception of net metering customers and general service pumping customers. In 2025, residential customers can opt to be billed with the TOU rate by calling (435)654-1581. In 2026, all residential customers will be moved to a TOU rate.
+You can view your energy usage in your Smarthub account or call a customer service representative to help you determine if the TOU rate is a good fit. Generally, customers with electric heat or electric vehicles and no air conditioning usage would be able to benefit from the current TOU rate.
+Customers opting in to the TOU rate will be required to stay on the rate for a year. This ensure the full benefit of the TOU rate is realized, customers will be required to remain on the rate for 12 months.
+TOU rates benefit utility companies and customers alike because they encourage more energy conservation while reducing overall operating costs.
+What is Demand?
+Demand refers to the maximum amount of energy usage at any one time, while energy is the total amount of power you use. It’s measured in kilowatts (kW) during a 15-minute interval and shows your impact on the grid to deliver that power. The higher the demand the more impact on the electrical grid to supply power. The demand charge covers a share of the costs to maintain the grid including poles, wires and substations in your area. By separating your maximum rate of electricity used (kW) from your total electricity used (kWh), you can now see when you use the most energy (demand) and how you can manage it.
+Rate Studies & Adjustments
+HL&P contracts with outside parties every two years to study existing rate structures, revenue requirements, and cost of service. These studies are used for financial projections to determine what rate adjustments, if any, should be recommended. All studies are presented to the public and the board of directors for evaluation and input. When projections warrant rate adjustments, management will make a recommendation to the board of directors to adjust rates schedules in order to maintain the good financial health of the company. These recommendations are presented to our customers in public hearings for public comment prior to the board of directors voting on the rate adjustment.
+Impact Fees
+An impact fee is a one-time charge imposed to mitigate the impact on infrastructure caused by new development. Growth in the form of new homes and businesses require expansion or enlargement of facilities to maintain the same level of service for all customers. Impact fees help fund expansion of facilities necessary to accommodate new growth.
+Electric Service Rules
+Electric Service Rules establish uniform rules for the safe and efficient delivery of electric service to our customers in a manner consistent with utility practices. The electric service rules are subject to change or modification from time to time by the board of directors.
+Power Cost Adjustment
+A power cost adjustment (PCA) is a mechanism used in some electricity markets and by utilities to account for fluctuations in the cost of generating and purchasing electricity. It is designed to allow utilities to adjust their rates to reflect changes in the wholesale cost of power.
+Frequently Asked Questions
+The purpose of the power cost adjustment (PCA) is to ensure that the utility can recover its costs in a timely manner and maintain financial stability, especially when there are significant variations in the cost of fuel and market power caused by a lack of electricity supply.
+The utility tracks its actual costs of purchasing and generating electricity, including the cost of fuel, transmission charges, wholesale market prices, and other relevant factors. The costs vary over time due to changes in wholesale power prices. The baseline rate is set through our cost of service studies.
+The adjustment calculation takes into account the difference from the actual cost of power and the baseline cost of power in the rate. It uses the rolling six month average difference and adjusts the baseline rate to recover the actual cost of power.
+Depending on which billing cycle you are in, you could see the PCA applied to your bill beginning in July 2023.
+A Power Cost Adjustment (PCA) protects the company from market volatility and ensures we can continue to provide safe and reliable power for our customers.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/residential/heat-assistance/
+
+What is it?
+The MAG Heat Program can help if you are having trouble paying your bill. Simply apply for assistance through their online portal. If you do not have access to internet you may drop off a paper application to the nearest HEAT office or call 801-229-3855.
+For assistance with benefits visit Utah State Energy Assistance
+Eligibility Requirements:
+- Total household income is at or below 150% of the federal poverty
+- The household is responsible for paying their home energy costs.
+- The household has at least one person who is a U.S. citizen or a qualified non-citizen.
+Target Groups for the Programs:
+- Families with children five and under
+- Disabled Residents
+- Seniors Age 60 and Older
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/start-stop-pause-change-service/
+
+Start Service
+Submit online request, Bring in your service application or Call (435)654-1581
+Stop Service
+Fill out your request to stop service with forwarding address or call (435) 654-1581
+Change Service
+Submit online request or call (435) 654-1581 with account number and desired changes
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/outages-reliability/
+
+We are working on some network repairs that may be affecting our internet connection and phones, intermittently.
+If you cannot reach us, please email customerservicesupport@heberpower.com. Thank you for your patience.
+Home » Outages & Reliability
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+* Indicates a Required Field *
+If you are moving out of the Heber Light & Power Service area you must contact the
+business office at 435-654-1581.
+Safari not supported for form submissions. Please use Chrome, Firefox or Edge browsers.
+This application confirms your consent to receive important
+text or phone notifications related to utility services, public safety, and
+community well-being from Heber Light & Power.
+Msg & Data rates may apply. Message frequency varies based on service
+updates and emergencies.
+• To opt-out: Text STOP to 435-654-2913 or call 435-654-1581.
+• For help: Text HELP to 435-654-2913 or call 435-654-1581
+Thank You
+* Indicates a Required Field *
+If you are moving out of the Heber Light & Power Service area you must contact the
+business office at 435-654-1581.
+Safari is not supported for form submissions. Please use Chrome, Firefox or Edge browsers.
+This application confirms your consent to receive important
+text or phone notifications related to utility services, public safety, and
+community well-being from Heber Light & Power.
+Msg & Data rates may apply. Message frequency varies based on service
+updates and emergencies.
+• To opt-out: Text STOP to 435-654-2913 or call 435-654-1581.
+• For help: Text HELP to 435-654-2913 or call 435-654-1581
+Thank You
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/outages/
+
+Power Outages
+Check the map below for outages. Use the reporting form to report outages not on the map.
+Report An Outage
+Outage Communication
+Heber Light & Power is partnering with Outifi to bring our customers improved outage communication. When you call us at (435)654-2913 during an outage you may be instructed to leave a voicemail. Voicemails with details about an outage will go directly to the Dispatcher on duty to assist them in directing power restoration. All other voicemails will be addressed after the power is restored.
+Two-way outage texting is coming in May 2025. Look for more details in our monthly newsletter and on your May bill. If you do not wish to receive important text or phone notifications related to your electricity service, please call (435)654-1581 or email customerservicesupport@heberpower.com to opt-out.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/prepare-your-home/
+
+Prepare Your Home
+Is your home prepared for a power outage? Make sure you know what to do in an emergency.
+STAY IN THE KNOW
+Outage information has never been easier to access. Here’s how:
+- We’ll text alerts (COMING SOON) to the phone number associated with your HLP account so be sure to update your contact information on our SmartHub Portal.
+- Check out our Outage Map for information on areas affected and estimated restoration times.
+MAKE A PLAN
+Plan for your household’s needs and make sure everyone is on the same page.
+- Know where you’ll go: Plan ahead to relocate with a friend, family member or to a shelter, especially if you have a medical condition that requires electricity or you’ll need to work or learn from home.
+- Plan for feeding and watering pets or livestock, if well pumps don’t have power.
+- Consider buying a backup generator and follow manufacturers’ guidelines for its safe operation.
+- Get more information from the Red Cross and Ready.gov.
+PUT TOGETHER AN OUTAGE KIT
+Make sure you have the equipment and resources that your household will need in an emergency. Here are a few basic items to get you started:
+- Flashlights or headlamps and extra batteries
+- Battery-powered or hand-crank radio and clock or watch
+- Car chargers for cell phones, laptops and/or tablets
+- Bottled water for people and animals (if you rely on electricity to pump water)
+- Emergency phone numbers, including HLP Customer Service: 435-654-1581
+Plan for Medical Needs
+Households with medical needs, care facilities and medical facilities often rely on electricity for medical and support equipment. Be sure to have a backup power source and a plan in the event of an emergency.
+- Prepare a backup power supply so you can still power medical equipment during an outage.
+- Plan ahead to relocate with a friend, family member or to a shelter if needed.
+- Be sure to have plenty of medical supplies on hand.
+More Resources
+BACKUP GENERATORS
+Gas powered generators can power your necessities while we work to get the power back on.
+SURGE PROTECTORS
+Use surge protectors on valuable and essential devices and appliances to protect them from power surges.
+SOLAR & BATTERY
+Battery storage systems enable your solar panels to power your home during an emergency or outage.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/safety-education/contact-us/
+
+Account Questions
+For questions regarding your account, contact us at 435-654-1581
+Power Outages
+To report an outage, use our Outage Reporting Form or contact our dispatch center at 435-654-2913
+Reporting Issues
+To report issues fill out the form below
+Reporting Issues
+Avian Protection Request
+Please report any of the following:
+- A dead or injured bird near a power pole or power line.
+- A bird(s) building a nest on a power pole.
+- Any other instance where you feel a bird or power equipment may be in danger.
+HL&P takes proactive measures to minimize avian interactions with power lines and utility infrastructure. Bird electrocutions are mitigated through framing structures with sufficient clearance and by insulating or isolating energized or grounded contacts.
+Tree Trimming Request:
+Report if you notice any of the following:
+- Any tree limb growing within 10 feet of a power line.
+- Any branches or vegetation resting on power lines.
+Do not attempt to trim trees near power lines!
+Street Light Repair Request:
+Report if you see:
+- A street light that is burnt out or blinking on and off.
+- A damaged street light that may still be working but is broken.
+HL&P does not own any street lights. We have agreements with the cities, county, and some Home Owner Associations to maintain them. We do not treat street light issues as emergencies. We schedule maintenance as needed and appreciate customer reports of street light issues.
+Issue Reporting Form
+Department Contacts
+General Manager
+- Jason Norlen
+- Phone: 435.654.2913
+- jnorlen@heberpower.com
+General Counsel
+- Adam Long
+- Phone: 435.654.2913
+- along@shutah.law
+Chief Financial Officer
+- Bart Miller
+- Phone: 435.657.6420
+- bmiller@heberpower.com
+Distribution Manager
+- Riley Wright
+- Phone: 435.657.6423
+- rwright@heberpower.com
+Substation Manager
+- Jake Parcell
+- Phone: 435.654.2913
+- jparcell@heberpower.com
+Energy Resource Manager
+- Emily Brandt
+- Phone: 435.657.6437
+- ebrandt@heberpower.com
+Human Resource Manager
+- Karly Schindler
+- Phone: 435.657.6432
+- kschindler@heberpower.com
+Customer Service
+- Phone: 435.654.1581
+- customerservicesupport@heberpower.com
+Dispatch Center
+- Phone: 435.654.2913
+- dispatch@heberpower.com
+FAQs
+An unusually higher bill is usually attributed to one of the following:
+● Vehicle engine block warmer
+● Failing electric water heater
+● Roof heat tape
+● Portable electrical space heaters
+● Hot tub
+● Heating water to keep it from freezing
+The monthly Service Fee represents all expenses unrelated to direct power purchasing. For example: billing expenses, metering expenses, general line maintenance; administration expenses.
+An Electrical Service Application must be submitted. The application can be submitted electronically at Electrical Service Application or filled out at the HL&P Business Office located at 31 South 100 West, Heber City.
+Call our 24 hr dispatch center at 435-654-2913 to schedule a trench inspection.
+Heber Light & Power accepts all major credit cards, checks and cash.
+No. Heber Light & Power does not charge for this service.
+Yes. Four years of payment and usage history is available.
+You can access this information in our SmartHub Portal.
+You can also call 435.654.1581 for this information. It can be emailed, faxed or mailed by the US Postal service.
+Yes. You can do so on our SmartHub Portal.
+Yes. Use our SmartHub Portal to set up auto pay options.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.heberpower.com/medical-necessity-list/
+
+Planned Power Outage Medical or Special Necessities Notice Request
+If you rely on electricity- or battery-dependent medical technologies such as breathing machines, life support, a power wheelchair or scooter, home oxygen, or dialysis, or if you are a person with disabilities, it is critical that you have a plan in place for a power outage during all seasons, year-round. If you or someone in your household has electricity-dependent medical or special necessities, please contact Heber Light & Power at (435) 654-1581 or use our form below to inform us about your situation to be added to our medical or special necessities list. You must complete a form each year and we must receive it within 30 days of the anniversary of the last form you submitted. Otherwise, the medical or special necessities notation on your account will be removed.
+While HL&P cannot guarantee that we will always be able to notify you in the event of a planned outage, HL&P will make a diligent effort to give you reasonable notice in advance. If your power goes out:
+- HL&P will make every effort to restore service quickly.
+- Prepare yourself beforehand by having an emergency plan in place and battery- or manually-powered medical equipment or a back-up source of power available to you.
+- If possible, have a plan in place to receive proper care from someone else, perhaps with family or a friend until your service is restored.
+You may also want to click here and signup for the Wasatch County Emergency Notification System.
+Medical Necessity List Request
+Please fill out this form if you would like to be added to the HL&P Medical Necessity List
+
+--------------------------------------------------------------------------------

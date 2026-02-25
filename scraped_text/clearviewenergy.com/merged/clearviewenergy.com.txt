@@ -1,0 +1,591 @@
+ROOT: https://clearviewenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T19:55:47.769363Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://clearviewenergy.com/
+
+JavaScript is disabled in your browser. Please enable JavaScript for a better experience.
+About Us
+Why Choose Clearview
+Sustainability
+Who We Are
+Rates and Plans
+Areas We Serve
+Residential Electric and Gas Rates
+Energy Solutions for Your Business
+EV Charging Plan
+Rewards
+Customer Care
+Emergency or Outage Contacts
+FAQ
+Enrollment Cancellation
+Contact
+$event.target.closest('button').nextElementSibling.querySelector('.oxy-site-navigation__mobile-close-wrapper > button').focus() )" aria-label="Open navigation menu" :aria-expanded="rootOpen" x-ref="openButton">
+$refs.openButton.focus() )" x-init="menu = [{'ID':249378,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-26 21:05:09','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249378','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249378','menu_order':1,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249378,'menu_item_parent':'0','object_id':'249351','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/about-us\/','title':'About Us','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249381,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-27 15:44:45','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249381','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249381','menu_order':2,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249381,'menu_item_parent':'249378','object_id':'249379','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/why-choose-clearview\/','title':'Why Choose Clearview','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249408,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-01 20:45:25','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249408','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249408','menu_order':3,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249408,'menu_item_parent':'249378','object_id':'249405','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/sustainability\/','title':'Sustainability','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249409,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-01 20:45:25','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249409','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249409','menu_order':4,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249409,'menu_item_parent':'249378','object_id':'249403','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/who-we-are\/','title':'Who We Are','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249377,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-26 21:05:09','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249377','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249377','menu_order':5,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249377,'menu_item_parent':'0','object_id':'249366','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/rates-and-plans-2\/','title':'Rates and Plans','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249443,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-07 18:38:09','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249443','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249443','menu_order':6,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249443,'menu_item_parent':'249377','object_id':'249417','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/areas-we-serve\/','title':'Areas We Serve','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249389,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-30 19:32:18','post_content':'','post_title':'Residential Electric and Gas Rates','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249389','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249389','menu_order':7,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249389,'menu_item_parent':'249377','object_id':'249372','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/residential\/','title':'Residential Electric and Gas Rates','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249388,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-30 19:32:18','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249388','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249388','menu_order':8,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249388,'menu_item_parent':'249377','object_id':'249383','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/energy-solutions-for-your-business\/','title':'Energy Solutions for Your Business','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249490,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-17 18:57:52','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249490','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249490','menu_order':9,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249490,'menu_item_parent':'249377','object_id':'249487','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/clearview-energysfree-charging-plan-2\/','title':'EV Charging Plan','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':253069,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2025-07-29 23:48:04','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'253069','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=253069','menu_order':10,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':253069,'menu_item_parent':'249377','object_id':'253020','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/rewards\/','title':'Rewards','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249466,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-15 21:33:56','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249466','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249466','menu_order':11,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249466,'menu_item_parent':'0','object_id':'249390','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/customer-care\/','title':'Customer Care','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249471,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-15 21:40:24','post_content':'','post_title':'Emergency or Outage Contacts','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249471','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249471','menu_order':12,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249471,'menu_item_parent':'249466','object_id':'249398','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/utility-contacts-for-emergencies-or-outage\/','title':'Emergency or Outage Contacts','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249470,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-15 21:40:24','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249470','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249470','menu_order':13,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249470,'menu_item_parent':'249466','object_id':'249394','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/your-questions-answered\/','title':'FAQ','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':252561,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2025-05-21 14:35:02','post_content':'','post_title':'Enrollment Cancellation','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'enrollment-cancellation','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=252561','menu_order':14,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':252561,'menu_item_parent':'249466','object_id':'252561','object':'custom','type':'custom','type_label':'Custom Link','title':'Enrollment Cancellation','url':'https:\/\/enrollmentreport.azurewebsites.net\/cancellation','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-custom','menu-item-object-custom'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249476,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-16 14:54:31','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249476','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249476','menu_order':15,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249476,'menu_item_parent':'0','object_id':'249472','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/contact\/','title':'Contact','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''}];" x-data="{ useCtaStyles: 'false', howManyCtas: '1' }">
+We Provide Energy.
+We Promote Sustainability.
+Enter your zip code to find the prices and plans that are right for you
+Residential
+Commercial
+Signup Today!
+Ready for FREE rewards?
+Switch to Clearview Energy and you’ll enjoy:
+Superior Service
+Rewards
+Sustainability
+Back to top
+close
+arrow-circle-o-up
+chevron-down
+bars
+linkedin
+facebook
+pinterest
+youtube
+rss
+twitter
+instagram
+facebook-blank
+rss-blank
+linkedin-blank
+pinterest
+youtube
+twitter
+instagram
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/about-us/
+
+If you think all energy providers are alike, think again. At Clearview Energy, not only do we work hard to power your home, we’re working hard to help create a sustainable world—a world we’ll be proud to hand down to future generations.
+To know why we're here, you have to know where we come from. Read about our history, how we came to champion the sustainable lifestyle, and what we stand for.
+There are plenty of electricity suppliers out there, so what makes Clearview Energy so special? Here you'll learn what sets us apart and what we're doing to make this a better world.
+We can't create a sustainable future on our own. It takes the work of a number of organization who share our same values. Organizations like the Shaw Institute, working to protect our beaches in the Northeast.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/why-choose-clearview/
+
+Clearview Rewards
+Did you know it can pay to be a part of the Clearview Energy family? Eligible customers of Clearview Energy have the opportunity to join Clearview Energy Rewards. With Clearview Rewards, you'll get FREE Reward Dollars every month you’re a customer. You can use your Reward Dollars in over 500,000 ways, like local deals, popular restaurants, online shopping, movie tickets, and lots more.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/sustainability/
+
+The Shaw Institute
+Founded in 1990 by ecotoxicologist Dr. Susan Shaw, the Shaw Institute's research on plastics, ocean pollution, marine mammal health, toxic chemicals, and climate change has informed public opinion and fueled policy, impacting millions of people in the U.S. and worldwide.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/who-we-are/
+
+Like other energy providers, Clearview Energy offers electric and natural gas plans to residential and business customers. And we also try to offer the most competitive plans with the best customer service.
+But it goes beyond that.
+We understand that as an energy provider, our actions—both as a company and as individuals—can have a serious affect on our environment. That’s why we’ve made it our mission to go well beyond many of our competitors and work towards creating a sustainable future.
+How? By supporting organizations who work to protect (or repair) our environment. Organizations like the Shaw Institute, who work to connect environmental health with human health through innovative science, collaboration and community outreach.
+And we offer the tools you need to help make smarter, more sustainable choices.
+We know you want to do your part to promote sustainability. And at Clearview Energy, we’re here to help you do just that.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/rates-and-plans-2/
+
+JavaScript is disabled in your browser. Please enable JavaScript for a better experience.
+About Us
+Why Choose Clearview
+Sustainability
+Who We Are
+Rates and Plans
+Areas We Serve
+Residential Electric and Gas Rates
+Energy Solutions for Your Business
+EV Charging Plan
+Rewards
+Customer Care
+Emergency or Outage Contacts
+FAQ
+Enrollment Cancellation
+Contact
+$event.target.closest('button').nextElementSibling.querySelector('.oxy-site-navigation__mobile-close-wrapper > button').focus() )" aria-label="Open navigation menu" :aria-expanded="rootOpen" x-ref="openButton">
+$refs.openButton.focus() )" x-init="menu = [{'ID':249378,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-26 21:05:09','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249378','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249378','menu_order':1,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249378,'menu_item_parent':'0','object_id':'249351','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/about-us\/','title':'About Us','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249381,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-27 15:44:45','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249381','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249381','menu_order':2,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249381,'menu_item_parent':'249378','object_id':'249379','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/why-choose-clearview\/','title':'Why Choose Clearview','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249408,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-01 20:45:25','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249408','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249408','menu_order':3,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249408,'menu_item_parent':'249378','object_id':'249405','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/sustainability\/','title':'Sustainability','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249409,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-01 20:45:25','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249409','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249409','menu_order':4,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249409,'menu_item_parent':'249378','object_id':'249403','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/who-we-are\/','title':'Who We Are','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249377,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-26 21:05:09','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249377','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249377','menu_order':5,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249377,'menu_item_parent':'0','object_id':'249366','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/rates-and-plans-2\/','title':'Rates and Plans','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page','current-menu-item','page_item','page-item-249366','current_page_item'],'xfn':'','current':true,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249443,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-07 18:38:09','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249443','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249443','menu_order':6,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249443,'menu_item_parent':'249377','object_id':'249417','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/areas-we-serve\/','title':'Areas We Serve','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249389,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-30 19:32:18','post_content':'','post_title':'Residential Electric and Gas Rates','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249389','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249389','menu_order':7,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249389,'menu_item_parent':'249377','object_id':'249372','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/residential\/','title':'Residential Electric and Gas Rates','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249388,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-30 19:32:18','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249388','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249388','menu_order':8,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249388,'menu_item_parent':'249377','object_id':'249383','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/energy-solutions-for-your-business\/','title':'Energy Solutions for Your Business','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249490,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-17 18:57:52','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249490','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249490','menu_order':9,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249490,'menu_item_parent':'249377','object_id':'249487','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/clearview-energysfree-charging-plan-2\/','title':'EV Charging Plan','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':253069,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2025-07-29 23:48:04','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'253069','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=253069','menu_order':10,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':253069,'menu_item_parent':'249377','object_id':'253020','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/rewards\/','title':'Rewards','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249466,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-15 21:33:56','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249466','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249466','menu_order':11,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249466,'menu_item_parent':'0','object_id':'249390','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/customer-care\/','title':'Customer Care','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249471,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-15 21:40:24','post_content':'','post_title':'Emergency or Outage Contacts','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249471','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249471','menu_order':12,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249471,'menu_item_parent':'249466','object_id':'249398','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/utility-contacts-for-emergencies-or-outage\/','title':'Emergency or Outage Contacts','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249470,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-15 21:40:24','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249470','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249470','menu_order':13,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249470,'menu_item_parent':'249466','object_id':'249394','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/your-questions-answered\/','title':'FAQ','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':252561,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2025-05-21 14:35:02','post_content':'','post_title':'Enrollment Cancellation','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'enrollment-cancellation','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=252561','menu_order':14,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':252561,'menu_item_parent':'249466','object_id':'252561','object':'custom','type':'custom','type_label':'Custom Link','title':'Enrollment Cancellation','url':'https:\/\/enrollmentreport.azurewebsites.net\/cancellation','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-custom','menu-item-object-custom'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249476,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-16 14:54:31','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249476','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249476','menu_order':15,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249476,'menu_item_parent':'0','object_id':'249472','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/contact\/','title':'Contact','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''}];" x-data="{ useCtaStyles: 'false', howManyCtas: '1' }">
+Rates and Plans
+Whether you live in a small house or manage a large company, we're here to help you find just the right energy plan. Plus, you'll become a part of our efforts to build a sustainable future.
+Areas We Serve
+Clearview Energy provides energy to deregulated states primarily in the northeast. Here we provide a list and a map showing all of the deregulated states we're available in.
+Residential
+Clearview Energy offers a range of plans, with either fixed or variable rates, to fit your family's needs and budget. Add with our mission of sustainability, the choice you make today will have a positive impact on tomorrow.
+Commercial
+Whether you own a mom-and-pop store or you've got a bigger presence in the region, Clearview Energy offers plans featuring fixed or variable rates to meet your needs and your company's mission.
+ClearCharge
+With Clearview Energy's ClearCharge plan, EV owners get free nightly EV charging and $50 cash back on the purchase of your charger. Check here for all of the details.
+Back to top
+close
+arrow-circle-o-up
+chevron-down
+bars
+linkedin
+facebook
+pinterest
+youtube
+rss
+twitter
+instagram
+facebook-blank
+rss-blank
+linkedin-blank
+pinterest
+youtube
+twitter
+instagram
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/areas-we-serve/
+
+Areas We Serve
+Thanks to deregulation, you can move away from your old electricity and natural gas supplier and join Clearview Energy. We can be found in many of the states who have passed deregulation legislation. And because of this, you'll enjoy improved customer service and find new sustainable incentives and programs. Check below to see if you live in a deregulated area.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/residential/
+
+Residential
+Whether it's fixed rate or variable, we have a plan to suit just about any need. Plus, we offer plans that support sustainability efforts and an EV program for free charging. That's a big win for everybody!
+Enter your zip code to find the prices and plans that are right for you
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/energy-solutions-for-your-business/
+
+Large Business
+Every business is unique. Clearview Energy can help create a custom quote to fit your specific energy needs. Just tell a little about your organization and someone from our team will be in touch shortly.
+Small Business
+Running a small business? Clearview Energy is here to take care of your small business needs. Just let us know where you operate so we can get started finding the perfect plan for you.
+Enter your zip code to find the prices and plans that are right for you
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/clearview-energysfree-charging-plan-2/
+
+This Clearview Energy offer may not be available in all areas. Service address must be located in a distribution utility area currently being served by Clearview Energy. Service areas are located in 11 deregulated states and Washington DC. See if your new state is deregulated
+here.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/rewards/
+
+Sign Up Today! Clearview Energy Rewards is our way of saying welcome to the Clearview family. Our customers get FREE Reward Dollars* every month they’re a customer that they can use in over a million ways on dining, shopping, and more. Plus, gift card giveaways, product giveaways, games, bonuses, and so much more. Offer effective starting 7/17/25.
+Earn, Play and Save on Brands Like
+Save in over a Million Ways… There’s Something for Everyone with Clearview Energy Rewards!
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/customer-care/
+
+At Clearview Energy, customer satisfaction is our top priority. Whether you need help setting up service, understanding your bill, or troubleshooting a problem with your service, we're here to help. Our trusted advisors are here to make sure your service is running smoothly. We've also got the resources you need to learn about any outages in your area. If you ever need help with your Clearview Energy account, we're here.
+It pays to refer your friends and family to Clearview Energy. And, of course, everybody wins with best-in-class customer service and a focus on sustainability.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/utility-contacts-for-emergencies-or-outage/
+
+1-800-286-2000
+Visit Eversource (Connecticut Light & Power) Website
+Customer Service 1-800-375-7117
+Outages 1-800-898-8045
+Customer Service 1-877-659-6326
+Visit Eversource (Western Massachusetts Electric) Website
+1-800-685-0123
+Visit Baltimore Gas & Electric (Electric) Website
+Customer Service: 1-888-440-3311
+800.750.4000 (Residential)
+800.565.3181 (Commercial)
+Visit Central Maine Power Website
+Customer Service 1-800-350-7734
+1-800-527-2714
+Visit Central Hudson Gas and Electric Website
+Customer Service: 1-800-743-2110
+Repairs/Emergencies: 1-800-743-1701
+Customer Service 1-800-253-5801
+Repairs 1-877-468-8243
+Visit Dayton Power & Light Website
+1-412-393-7200
+1.800.332.7143
+1.888.313.4747
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/your-questions-answered/
+
+Clearview Energy is an electric and natural gas supplier for residential and business customers in states which allow you to purchase the electricity or gas you use from someone other than your distribution utility. As a Clearview customer, you can choose from a variety of plans from short-term to long-term guaranteed pricing. You buy your electricity and/or natural gas from Clearview Energy, but your utility is still responsible for delivering the energy to you safely. For more information on what plans are available in your area, see our
+Service Areas. All of Clearview’s electricity plans support renewable energy production nationally.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/contact/
+
+JavaScript is disabled in your browser. Please enable JavaScript for a better experience.
+About Us
+Why Choose Clearview
+Sustainability
+Who We Are
+Rates and Plans
+Areas We Serve
+Residential Electric and Gas Rates
+Energy Solutions for Your Business
+EV Charging Plan
+Rewards
+Customer Care
+Emergency or Outage Contacts
+FAQ
+Enrollment Cancellation
+Contact
+$event.target.closest('button').nextElementSibling.querySelector('.oxy-site-navigation__mobile-close-wrapper > button').focus() )" aria-label="Open navigation menu" :aria-expanded="rootOpen" x-ref="openButton">
+$refs.openButton.focus() )" x-init="menu = [{'ID':249378,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-26 21:05:09','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249378','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249378','menu_order':1,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249378,'menu_item_parent':'0','object_id':'249351','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/about-us\/','title':'About Us','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249381,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-27 15:44:45','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249381','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249381','menu_order':2,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249381,'menu_item_parent':'249378','object_id':'249379','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/why-choose-clearview\/','title':'Why Choose Clearview','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249408,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-01 20:45:25','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249408','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249408','menu_order':3,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249408,'menu_item_parent':'249378','object_id':'249405','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/sustainability\/','title':'Sustainability','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249409,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-01 20:45:25','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249409','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249409','menu_order':4,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249409,'menu_item_parent':'249378','object_id':'249403','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/who-we-are\/','title':'Who We Are','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249377,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-26 21:05:09','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249377','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249377','menu_order':5,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249377,'menu_item_parent':'0','object_id':'249366','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/rates-and-plans-2\/','title':'Rates and Plans','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249443,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-07 18:38:09','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249443','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249443','menu_order':6,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249443,'menu_item_parent':'249377','object_id':'249417','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/areas-we-serve\/','title':'Areas We Serve','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249389,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-30 19:32:18','post_content':'','post_title':'Residential Electric and Gas Rates','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249389','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249389','menu_order':7,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249389,'menu_item_parent':'249377','object_id':'249372','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/residential\/','title':'Residential Electric and Gas Rates','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249388,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-30 19:32:18','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249388','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249388','menu_order':8,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249388,'menu_item_parent':'249377','object_id':'249383','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/energy-solutions-for-your-business\/','title':'Energy Solutions for Your Business','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249490,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-17 18:57:52','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249490','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249490','menu_order':9,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249490,'menu_item_parent':'249377','object_id':'249487','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/clearview-energysfree-charging-plan-2\/','title':'EV Charging Plan','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':253069,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2025-07-29 23:48:04','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'253069','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=253069','menu_order':10,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':253069,'menu_item_parent':'249377','object_id':'253020','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/rewards\/','title':'Rewards','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249466,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-15 21:33:56','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249466','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249466','menu_order':11,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249466,'menu_item_parent':'0','object_id':'249390','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/customer-care\/','title':'Customer Care','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249471,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-15 21:40:24','post_content':'','post_title':'Emergency or Outage Contacts','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249471','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249471','menu_order':12,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249471,'menu_item_parent':'249466','object_id':'249398','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/utility-contacts-for-emergencies-or-outage\/','title':'Emergency or Outage Contacts','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249470,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-15 21:40:24','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249470','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249470','menu_order':13,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249470,'menu_item_parent':'249466','object_id':'249394','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/your-questions-answered\/','title':'FAQ','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':252561,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2025-05-21 14:35:02','post_content':'','post_title':'Enrollment Cancellation','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'enrollment-cancellation','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=252561','menu_order':14,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':252561,'menu_item_parent':'249466','object_id':'252561','object':'custom','type':'custom','type_label':'Custom Link','title':'Enrollment Cancellation','url':'https:\/\/enrollmentreport.azurewebsites.net\/cancellation','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-custom','menu-item-object-custom'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249476,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-16 14:54:31','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249476','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249476','menu_order':15,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249476,'menu_item_parent':'0','object_id':'249472','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/contact\/','title':'Contact','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page','current-menu-item','page_item','page-item-249472','current_page_item'],'xfn':'','current':true,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''}];" x-data="{ useCtaStyles: 'false', howManyCtas: '1' }">
+Contact
+Whether you're having problems with your service or understanding your bill, we're here to help. World-class customer service is always just a call (or email) away.
+Contact Form
+Updates
+First Name
+Last Name
+State
+- Select -
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+Email
+Subject
+Your Message
+Submit Form
+Headquarters
+901 Main Street Suite 4700 Dallas, TX 75202
+Phone
+1-888-512-8994 (Sign Up)
+1-800-746-4702 (Customer Service)
+1-800-654-6990 (Illinois Customers)
+1-800-746-4046 (Texas Customers)
+Email
+webservices@clearviewenergy.com
+Back to top
+close
+arrow-circle-o-up
+chevron-down
+bars
+linkedin
+facebook
+pinterest
+youtube
+rss
+twitter
+instagram
+facebook-blank
+rss-blank
+linkedin-blank
+pinterest
+youtube
+twitter
+instagram
+
+--------------------------------------------------------------------------------
+
+URL: https://clearviewenergy.com/your-questions-answered/
+
+Clearview Energy is an electric and natural gas supplier for residential and business customers in states which allow you to purchase the electricity or gas you use from someone other than your distribution utility. As a Clearview customer, you can choose from a variety of plans from short-term to long-term guaranteed pricing. You buy your electricity and/or natural gas from Clearview Energy, but your utility is still responsible for delivering the energy to you safely. For more information on what plans are available in your area, see our
+Service Areas. All of Clearview’s electricity plans support renewable energy production nationally.
+
+--------------------------------------------------------------------------------
+
+URL: https://clearviewenergy.com/rewards/
+
+Sign Up Today! Clearview Energy Rewards is our way of saying welcome to the Clearview family. Our customers get FREE Reward Dollars* every month they’re a customer that they can use in over a million ways on dining, shopping, and more. Plus, gift card giveaways, product giveaways, games, bonuses, and so much more. Offer effective starting 7/17/25.
+Earn, Play and Save on Brands Like
+Save in over a Million Ways… There’s Something for Everyone with Clearview Energy Rewards!
+
+--------------------------------------------------------------------------------
+
+URL: https://clearviewenergy.com/sustainability/
+
+The Shaw Institute
+Founded in 1990 by ecotoxicologist Dr. Susan Shaw, the Shaw Institute's research on plastics, ocean pollution, marine mammal health, toxic chemicals, and climate change has informed public opinion and fueled policy, impacting millions of people in the U.S. and worldwide.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/disclosures/
+
+JavaScript is disabled in your browser. Please enable JavaScript for a better experience.
+About Us
+Why Choose Clearview
+Sustainability
+Who We Are
+Rates and Plans
+Areas We Serve
+Residential Electric and Gas Rates
+Energy Solutions for Your Business
+EV Charging Plan
+Rewards
+Customer Care
+Emergency or Outage Contacts
+FAQ
+Enrollment Cancellation
+Contact
+$event.target.closest('button').nextElementSibling.querySelector('.oxy-site-navigation__mobile-close-wrapper > button').focus() )" aria-label="Open navigation menu" :aria-expanded="rootOpen" x-ref="openButton">
+$refs.openButton.focus() )" x-init="menu = [{'ID':249378,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-26 21:05:09','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249378','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249378','menu_order':1,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249378,'menu_item_parent':'0','object_id':'249351','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/about-us\/','title':'About Us','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249381,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-27 15:44:45','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249381','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249381','menu_order':2,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249381,'menu_item_parent':'249378','object_id':'249379','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/why-choose-clearview\/','title':'Why Choose Clearview','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249408,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-01 20:45:25','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249408','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249408','menu_order':3,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249408,'menu_item_parent':'249378','object_id':'249405','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/sustainability\/','title':'Sustainability','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249409,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-01 20:45:25','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249409','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249409','menu_order':4,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249409,'menu_item_parent':'249378','object_id':'249403','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/who-we-are\/','title':'Who We Are','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249377,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-26 21:05:09','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249377','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249377','menu_order':5,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249377,'menu_item_parent':'0','object_id':'249366','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/rates-and-plans-2\/','title':'Rates and Plans','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249443,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-07 18:38:09','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249443','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249443','menu_order':6,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249443,'menu_item_parent':'249377','object_id':'249417','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/areas-we-serve\/','title':'Areas We Serve','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249389,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-30 19:32:18','post_content':'','post_title':'Residential Electric and Gas Rates','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249389','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249389','menu_order':7,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249389,'menu_item_parent':'249377','object_id':'249372','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/residential\/','title':'Residential Electric and Gas Rates','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249388,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-30 19:32:18','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249388','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249388','menu_order':8,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249388,'menu_item_parent':'249377','object_id':'249383','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/energy-solutions-for-your-business\/','title':'Energy Solutions for Your Business','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249490,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-17 18:57:52','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249490','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249490','menu_order':9,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249490,'menu_item_parent':'249377','object_id':'249487','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/clearview-energysfree-charging-plan-2\/','title':'EV Charging Plan','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':253069,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2025-07-29 23:48:04','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'253069','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=253069','menu_order':10,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':253069,'menu_item_parent':'249377','object_id':'253020','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/rewards\/','title':'Rewards','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249466,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-15 21:33:56','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249466','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249466','menu_order':11,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249466,'menu_item_parent':'0','object_id':'249390','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/customer-care\/','title':'Customer Care','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249471,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-15 21:40:24','post_content':'','post_title':'Emergency or Outage Contacts','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249471','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249471','menu_order':12,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249471,'menu_item_parent':'249466','object_id':'249398','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/utility-contacts-for-emergencies-or-outage\/','title':'Emergency or Outage Contacts','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249470,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-15 21:40:24','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249470','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249470','menu_order':13,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249470,'menu_item_parent':'249466','object_id':'249394','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/your-questions-answered\/','title':'FAQ','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':252561,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2025-05-21 14:35:02','post_content':'','post_title':'Enrollment Cancellation','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'enrollment-cancellation','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=252561','menu_order':14,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':252561,'menu_item_parent':'249466','object_id':'252561','object':'custom','type':'custom','type_label':'Custom Link','title':'Enrollment Cancellation','url':'https:\/\/enrollmentreport.azurewebsites.net\/cancellation','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-custom','menu-item-object-custom'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249476,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-16 14:54:31','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249476','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249476','menu_order':15,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249476,'menu_item_parent':'0','object_id':'249472','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/contact\/','title':'Contact','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''}];" x-data="{ useCtaStyles: 'false', howManyCtas: '1' }">
+Disclosures
+RI
+RI Traditional Energy Source Disclosure
+RI Green Energy Source Disclosure
+OH
+OH Environmental Disclosure Quarterly
+OH Annual Environmental Disclosure Projected - Traditional
+NY
+New York Fuel Mix Disclosure
+New York Consumer Bill of Rights
+NJ
+NJ Fuel Mix Label
+NH
+NH Environmental Disclosure Label
+NH Residential Variable TOS
+NH Residential Fixed TOS
+ME
+ME Disclosure Label- Traditional
+ME TOS
+MD
+MD Traditional Environmental Label
+MA
+ClearCharge12 Disclosure Label
+ClearCharge12Plus Disclosure Label
+ClearGuarantee6 Disclosure Label
+ClearGuarantee12 Disclosure Label
+ClearGuarantee24 Disclosure Label
+Secure12 Disclosure Label
+IL
+Illinois Environmental Disclosure MISO Label
+Illinois Environmental Disclosure PJM Label
+Illinois Envrionmental Disclosure GREEN Label
+DE
+Delaware Fuel Mix
+DC
+DC Fuel Mix Label
+Back to top
+close
+arrow-circle-o-up
+chevron-down
+bars
+linkedin
+facebook
+pinterest
+youtube
+rss
+twitter
+instagram
+facebook-blank
+rss-blank
+linkedin-blank
+pinterest
+youtube
+twitter
+instagram
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/states/pa/
+
+Clearview is a premium Pennsylvania electricity company. See electric rates in PA by entering your zip code above, and find clean energy suppliers near you with Clearview Energy.
+You can now buy the electricity that powers your home or business from Clearview Energy.
+To find out which plans you can switch to, enter your zip code to the right and press “Sign-Up Today” to see Electric Rates in PA. Be sure you have your utility bill handy. You can then enroll in the plan that best suits you.
+As a Pennsylvania resident, you have the right to choose which supplier you want to use for your electric needs. As a part of energy deregulation, independent suppliers can now sell electricity through your existing utility lines.
+Clearview offers competitive rates and a variety of energy plans. We have a plan that’s right for you and your family or business!
+Basic service is market-priced electricity provided by your local distribution utility (LDU) if you have not chosen a competitive supplier. You may use the pricing and term information for Basic Service as a means of comparison to Clearview’s product offerings. You may or may not be charged a fee from your LDU when you choose a Competitive Power Supplier. Please contact your LDU for information on Basic Service rates and any associated fees if you have questions.
+Registered Agent Address:
+Corporation Service Company
+2595 Interstate Drive, Suite 103
+Harrisburg, PA 17110
+Corporate Address:
+Clearview Energy
+901 Main Street Suite 4700
+Dallas, TX 75202
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/states/il/
+
+Clearview is a premium Illinois electric provider. Enter your zip code to see Illinois Electricity Rates.
+For ComEd offers:
+Clearview Energy is not the same entity as your electric delivery company. You are not required to enroll with Clearview. Beginning on June 1, 2025, the electric supply price to compare is 10.028 cents per kWh. The electric utility supply price will expire on September 30, 2025. The utility electric supply price to compare does not include the purchased electricity adjustment factor. For more information go to the Illinois Commerce Commission's free website at https://plugin.illinois.gov.
+For Ameren offers:
+Clearview Energy is not the same entity as your electric delivery company. You are not required to enroll with Clearview. Beginning on June 1, 2025, the electric supply price to compare is 12.18 cents per kWh. The electric utility supply price will expire on September 30, 2025. The utility electric supply price to compare does not include the purchased electricity adjustment factor. For more information go to the Illinois Commerce Commission's free website at https://plugin.illinois.gov.
+You can now buy the electricity that powers your home or business from Clearview Energy.
+To find out which plans you can switch to, enter your zip code to the right and press “Sign-Up Today” to see Illinois electricity Rates. Be sure you have your utility bill handy. You can then enroll in the plan that best suits you.
+Basic service is market-priced electricity provided by your local distribution utility (LDU) if you have not chosen a competitive supplier. You may use the pricing and term information for Basic Service as a means of comparison to Clearview’s product offerings. You may or may not be charged a fee from your LDU when you choose a Competitive Power Supplier. Please contact your LDU for information on Basic Service rates and any associated fees if you have questions.
+Clearview Energy is not representative of, endorsed by, or acting on behalf of, a utility or a utility program.
+Clearview Electric, Inc. dba Clearview Energy is an independent seller of electric power and energy service, certified by the Illinois Commerce Commission as a Alternative Retail Electric Supplier under Order No. 11-0479.
+Registered Agent Address:
+Corporation Service Company
+801 Adlai Stevenson Dr.
+Springfield, IL 62703
+Corporate Address:
+Clearview Energy
+901 Main Street Suite 4700
+Dallas, TX 75202
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/
+
+JavaScript is disabled in your browser. Please enable JavaScript for a better experience.
+About Us
+Why Choose Clearview
+Sustainability
+Who We Are
+Rates and Plans
+Areas We Serve
+Residential Electric and Gas Rates
+Energy Solutions for Your Business
+EV Charging Plan
+Rewards
+Customer Care
+Emergency or Outage Contacts
+FAQ
+Enrollment Cancellation
+Contact
+$event.target.closest('button').nextElementSibling.querySelector('.oxy-site-navigation__mobile-close-wrapper > button').focus() )" aria-label="Open navigation menu" :aria-expanded="rootOpen" x-ref="openButton">
+$refs.openButton.focus() )" x-init="menu = [{'ID':249378,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-26 21:05:09','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249378','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249378','menu_order':1,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249378,'menu_item_parent':'0','object_id':'249351','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/about-us\/','title':'About Us','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249381,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-27 15:44:45','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249381','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249381','menu_order':2,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249381,'menu_item_parent':'249378','object_id':'249379','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/why-choose-clearview\/','title':'Why Choose Clearview','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249408,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-01 20:45:25','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249408','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249408','menu_order':3,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249408,'menu_item_parent':'249378','object_id':'249405','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/sustainability\/','title':'Sustainability','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249409,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-01 20:45:25','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249409','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249409','menu_order':4,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249409,'menu_item_parent':'249378','object_id':'249403','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/who-we-are\/','title':'Who We Are','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249377,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-26 21:05:09','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249377','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249377','menu_order':5,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249377,'menu_item_parent':'0','object_id':'249366','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/rates-and-plans-2\/','title':'Rates and Plans','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249443,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-07 18:38:09','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249443','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249443','menu_order':6,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249443,'menu_item_parent':'249377','object_id':'249417','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/areas-we-serve\/','title':'Areas We Serve','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249389,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-30 19:32:18','post_content':'','post_title':'Residential Electric and Gas Rates','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249389','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249389','menu_order':7,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249389,'menu_item_parent':'249377','object_id':'249372','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/residential\/','title':'Residential Electric and Gas Rates','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249388,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-09-30 19:32:18','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249388','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249388','menu_order':8,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249388,'menu_item_parent':'249377','object_id':'249383','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/energy-solutions-for-your-business\/','title':'Energy Solutions for Your Business','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249490,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-17 18:57:52','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249490','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249490','menu_order':9,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249490,'menu_item_parent':'249377','object_id':'249487','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/clearview-energysfree-charging-plan-2\/','title':'EV Charging Plan','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':253069,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2025-07-29 23:48:04','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'253069','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=253069','menu_order':10,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':253069,'menu_item_parent':'249377','object_id':'253020','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/rewards\/','title':'Rewards','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249466,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-15 21:33:56','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249466','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249466','menu_order':11,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249466,'menu_item_parent':'0','object_id':'249390','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/customer-care\/','title':'Customer Care','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249471,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-15 21:40:24','post_content':'','post_title':'Emergency or Outage Contacts','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249471','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249471','menu_order':12,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249471,'menu_item_parent':'249466','object_id':'249398','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/utility-contacts-for-emergencies-or-outage\/','title':'Emergency or Outage Contacts','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249470,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-15 21:40:24','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249470','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249470','menu_order':13,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249470,'menu_item_parent':'249466','object_id':'249394','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/your-questions-answered\/','title':'FAQ','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':252561,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2025-05-21 14:35:02','post_content':'','post_title':'Enrollment Cancellation','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'enrollment-cancellation','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=252561','menu_order':14,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':252561,'menu_item_parent':'249466','object_id':'252561','object':'custom','type':'custom','type_label':'Custom Link','title':'Enrollment Cancellation','url':'https:\/\/enrollmentreport.azurewebsites.net\/cancellation','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-custom','menu-item-object-custom'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''},{'ID':249476,'post_author':'1','post_date':'2025-09-22 14:54:29','post_date_gmt':'2024-10-16 14:54:31','post_content':' ','post_title':'','post_excerpt':'','post_status':'publish','comment_status':'closed','ping_status':'closed','post_password':'','post_name':'249476','to_ping':'','pinged':'','post_modified':'2025-09-22 14:54:29','post_modified_gmt':'2025-09-22 14:54:29','post_content_filtered':'','post_parent':0,'guid':'\/?p=249476','menu_order':15,'post_type':'nav_menu_item','post_mime_type':'','comment_count':'0','filter':'raw','db_id':249476,'menu_item_parent':'0','object_id':'249472','object':'page','type':'post_type','type_label':'Page','url':'https:\/\/www.clearviewenergy.com\/contact\/','title':'Contact','target':'','attr_title':'','description':'','classes':['','menu-item','menu-item-type-post_type','menu-item-object-page'],'xfn':'','current':false,'current_item_ancestor':false,'current_item_parent':false,'menu_image':''}];" x-data="{ useCtaStyles: 'false', howManyCtas: '1' }">
+We Provide Energy.
+We Promote Sustainability.
+Enter your zip code to find the prices and plans that are right for you
+Residential
+Commercial
+Signup Today!
+Ready for FREE rewards?
+Switch to Clearview Energy and you’ll enjoy:
+Superior Service
+Rewards
+Sustainability
+Back to top
+close
+arrow-circle-o-up
+chevron-down
+bars
+linkedin
+facebook
+pinterest
+youtube
+rss
+twitter
+instagram
+facebook-blank
+rss-blank
+linkedin-blank
+pinterest
+youtube
+twitter
+instagram
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/states/de/
+
+Clearview is a premium Delaware electric provider.
+You can now buy the electricity that powers your home or business from Clearview Energy.
+To find out which plans you can switch to, enter your zip code to the right and press “Sign-Up Today”. Be sure you have your utility bill handy. You can then enroll in the plan that best suits you.
+As a Delaware resident, you have the right to choose which supplier you want to use for your electric needs. As a part of energy deregulation, independent suppliers can now sell electricity through your existing utility lines.
+Clearview offers competitive rates and a variety of energy plans. We have a plan that’s right for you and your family or business!
+Basic service is market-priced electricity provided by your local distribution utility (LDU) if you have not chosen a competitive supplier. You may use the pricing and term information for Basic Service as a means of comparison to Clearview’s product offerings. You may or may not be charged a fee from your LDU when you choose a Competitive Power Supplier. Please contact your LDU for information on Basic Service rates and any associated fees if you have questions.
+Registered Agent Address:
+Corporation Service Company
+251 Little Falls Drive
+Wilmington, DE 19808
+Corporate Address:
+Clearview Energy
+901 Main Street Suite 4700
+Dallas, TX 75202
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/states/dc/
+
+Clearview is a premium DC Electricity company.
+You can now buy the electricity that powers your home or business from Clearview Energy.
+To find out which plans you can switch to, enter your zip code to the right and press “Sign-Up Today”. Be sure you have your utility bill handy. You can then enroll in the plan that best suits you.
+As a District of Columbia resident, you have the right to choose which supplier you want to use for your electric needs. As a part of energy deregulation, independent suppliers can now sell electricity through your existing utility lines.
+Clearview offers competitive rates and a variety of energy plans. We have a plan that’s right for you and your family or business!
+Basic service is market-priced electricity provided by your local distribution utility (LDU) if you have not chosen a competitive supplier. You may use the pricing and term information for Basic Service as a means of comparison to Clearview’s product offerings. You may or may not be charged a fee from your LDU when you choose a Competitive Power Supplier. Please contact your LDU for information on Basic Service rates and any associated fees if you have questions.
+Registered Agent:
+Corporation Service Company
+1090 Vermont Ave. NW
+Washington, DC 20005
+Corporate Address:
+Clearview Energy
+901 Main Street Suite 4700
+Dallas, TX 75202
+
+--------------------------------------------------------------------------------
+
+URL: https://www.clearviewenergy.com/states/me/
+
+Clearview is a premium Maine electricity provider.
+You can now buy the electricity that powers your home or business from Clearview Energy.
+To find out which plans you can switch to, enter your zip code to the right and press “Sign-Up Today”. Be sure you have your utility bill handy. You can then enroll in the plan that best suits you.
+As a Maine resident, you have the right to choose which supplier you want to use for your electric needs. As a part of energy deregulation, independent suppliers can now sell electricity through your existing utility lines.
+Clearview offers competitive rates and a variety of energy plans. We have a plan that’s right for you and your family or business!
+Basic service is market-priced electricity provided by your local distribution utility (LDU) if you have not chosen a competitive supplier. You may use the pricing and term information for Basic Service as a means of comparison to Clearview’s product offerings. You may or may not be charged a fee from your LDU when you choose a Competitive Power Supplier. Please contact your LDU for information on Basic Service rates and any associated fees if you have questions.
+Registered Agent Address:
+Corporation Service Company
+45 Memorial Circle
+Augusta, ME 04330
+Corporate Address:
+Clearview Energy
+901 Main Street Suite 4700
+Dallas, TX 75202
+
+--------------------------------------------------------------------------------

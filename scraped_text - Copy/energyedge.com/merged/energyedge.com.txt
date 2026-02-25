@@ -1,0 +1,779 @@
+ROOT: https://energyedge.com/
+SCRAPED_AT_UTC: 2026-02-11T20:03:00.218963Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://energyedge.com/
+
+Energy Edge Consulting, LLC provides energy consulting and advisory services to commercial, industrial and institutional consumers of energy as well as energy providers and other organizations involved in the energy industry.
+The Market Edge Blog
+Natural Gas Weekly Storage Report – 2/5/2026
+Services
+Energy Edge works with its clients to understand their energy goals, operational requirements and risk tolerance to assist in the development and implementation of comprehensive energy management solutions.
+Services For Energy Suppliers
+In addition to energy risk management and procurement related services Energy Edge also works with firms to assess business development opportunities in the energy industry.
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/about-us/energy-edge-service-area/
+
+Energy Edge Consulting provides a full suite of energy management and advisory services to a wide range of businesses and institutions across the U.S. and Canada. Energy Procurement activities are largely focused in deregulated electricity and natural gas markets, however Energy Edge provides services to clients in both regulated and deregulated energy markets.
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/about-us/our-values/
+
+We know we hire great people. Each of us should feel comfortable being ourselves at work. We treat people as equals, irrespective of differences. We genuinely listen to each other and encourage different views. We communicate effectively, frequently, and with respect for one another. We act with honesty and integrity in all that we do.
+Commercial Acumen
+We are experts in our industry with a curiosity to learn more. We strive to be the most informed and knowledgeable energy advisory organization. We can communicate our deep understanding of markets and products in simple and easy to understand terms.
+Support and Challenge Each Other
+We approach conflict constructively and recognize value in others’ perspectives. We know we are stronger together and we get results together.
+Innovation
+We know that we must always learn and improve. We are not afraid to admit a deficiency. It is our responsibility to get better individually and as a company. We take intelligent risks, try new things, learn from the outcome, and accept that failure is part of the process of improving.
+Ownership
+We all take responsibility for achieving the optimal outcome, not just completing a task. We proactively address issues without being asked by a client or teammate. We all understand how our individual work fits within the broader scope of the project, client engagement, or company needs as a whole.
+Excel for Our Customers
+We understand our client’s needs and what drives their business, and we exceed expectations. We build relationships that are focused on trust and respect.
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/about-us/
+
+The Partnership
+Energy Edge was founded in March 2009 by Brian Walker and Matt Hobson. Prior to that, they worked for Reliant Energy where they held leadership roles in the company’s commercial and industrial retail electricity business unit.
+Energy Edge was founded in March 2009 by Brian Walker and Matt Hobson. Prior to that, they worked for Reliant Energy where they held leadership roles in the company’s commercial and industrial retail electricity business unit.
+While there, they watched the deregulated retail energy markets become increasingly complicated and saw firsthand the challenges energy consumers were encountering while trying to manage their energy spend. They recognized an unmet need in the market for advisors who possessed a very technical understanding of the commodity markets. Energy Edge was formed to bring clients the expertise required to navigate volatile and complex energy markets.
+Soon after the company’s inception, Matt and Brian were joined by several energy professionals from leading retail energy firms across the U.S. The addition of these team members has enabled Energy Edge to quickly develop a reputation as a leading electricity and natural gas advisory firm.
+Brian Walker has more than 24 years of experience working in deregulated electricity markets across the country. He jointly leads the Energy Edge team in all areas, from strategic direction to delivering energy management consulting services to the firm’s clients. Immediately before Energy Edge Consulting, Brian led Reliant Energy’s large and mid-commercial and industrial sales efforts in North Texas, which generated revenues exceeding $500 million annually. In this role, Brian was responsible for managing a team of 20 sales professionals and support staff, structuring and negotiating retail electricity contracts, and growing the retail energy provider’s presence in the region.
+In addition to his knowledge of retail electricity markets, Brian also has extensive experience in both the wholesale and regulatory sides of the industry. Previously, Brian worked with Reliant Energy’s wholesale origination and trading groups and represented the company before numerous regulatory agencies and stakeholder organizations on the West Coast.
+Brian received his Bachelor’s and Master of Business Administration and Master of Public Service and Administration from Texas A&M University. Before joining Reliant Energy, Brian worked for Andersen Consulting.
+Matt Hobson has over 20 years of experience in various aspects of the electricity and natural gas industries. He jointly leads the Energy Edge team in all aspects of our business, from strategic direction to delivering energy management consulting services to the firm’s clients. His areas of expertise include engagement in wholesale energy markets, negotiating retail and wholesale power purchase agreements, creating long-term energy management strategies for clients, and renewable energy procurement and behind-the-meter development.
+Before Energy Edge Consulting, he worked in Reliant Energy’s large commercial and industrial marketing group, where he was a member of Reliant’s Complex Commodity Sales Team, developing and marketing customized energy products to some of the largest industrial clients in Texas. Additionally, Matt was responsible for managing a team of sales and support employees that generated over $150 million in revenue annually. Matt also has extensive experience in demand-side management, having developed and implemented Reliant Energy’s participation in a key ERCOT demand response program, ERS.
+Matt received his Bachelor of Science in Economics from Texas A&M University. Matt was named employee of the year in 2007 for Reliant’s commercial and industrial marketing organization.
+Andrew (Andy) Kyle has more than 21 years of experience working in regulated and deregulated energy markets across North America and Europe. Andy currently leads Energy Edge’s Energy Transition efforts, overseeing the firm’s ability to impact and implement clients ESG initiatives, GHG reductions and sustainability goals. Andy’s current role is divided into two main parts. The first being helping clients identify, develop, and gain internal approval for implementing renewable energy strategies to support sustainability efforts and the second is working with and identifying development partners across North America who can deliver on these client initiatives via both behind-the-meter projects and large-scale utility offtake opportunities. Prior to taking over Energy Transition, Andy was Director of Operations & Analytics for Energy Edge where he led analytics, structuring, client engagement delivery, and market analytics. Immediately prior to joining Energy Edge Consulting, Andy was Sr. Manager of Structured Transactions at TXU Energy and prior to that he was Director of Retail Risk Management at Energy Future Holdings.
+Throughout his career, Andy has held a variety of leadership roles in structuring, risk management, direct selling, and analytics. He brings with him broad experience in both retail and wholesale energy markets and has extensive experience in the development of custom retail products leveraging wholesale constructs and instruments.
+Andy received his Bachelor of Business Administration from The University of Oklahoma and his Master of Business Administration from The University of Texas at Dallas.
+Jeff Roberts has more than 20 years of experience in providing energy management services to commercial and industrial clients in various geographic regions, and has an extensive background in business strategies and operational management including owning his own personnel business for ten years before selling it to a large national personnel services company in 2002.
+Prior to joining Energy Edge Consulting, Jeff was Senior Vice President at Amerex Energy Services where he provided leadership to the company’s retail energy services operation. While at Amerex, Jeff was instrumental in building the company’s commercial and industrial client base, including overseeing the company’s energy management engagements with several large multi-national corporations. He was also Director of Origination for Choice Energy Services. Over the years, Jeff has assisted numerous commercial and industrial clients in managing electricity, natural gas, and other commodities across North America.
+Josh Sternberg has over 13 years of experience working with large commercial and industrial clients across many of the North American and European electricity and natural gas markets. In addition to working directly with clients on their energy management needs, Josh drives Energy Edge’s client engagements in the renewable energy space. Prior to Energy Edge Consulting, he worked for TXU Energy’s large commercial and industrial business markets team.
+Josh’s responsibilities at TXU Energy included assisting clients in developing their energy strategy, identifying demand reduction opportunities, educating clients on market conditions, and maintaining customer accounts. Through his work, he acquired extensive experience in customer issue resolution, contract negotiation, account management, and budget forecasting.
+Josh is a recipient of the TXU Energy Chairman’s Club award in 2008, 2009, 2010, and 2011 for recognition of being a top business markets performer.
+Neal brings over 18 years of experience in the energy industry, beginning with Reliant Energy’s Commercial and Industrial sales team, working with clients in managing strategic energy procurement. Following several consecutive years as a top sales performer, Neal was chosen to join the NRG Business Solutions team, whose charter was to disrupt the traditional energy service model. His focus shifted to helping Fortune 500 companies better meet their energy reduction goals and public sustainability goals. Neal assisted these firms by helping them navigate the complex transactions of deploying distributed generation employing onsite solar projects, microgrids, as well as helping them evaluate off-site renewable PPAs. Most recently, Neal worked with a large global energy consulting firm, continuing to help clients enhance how they manage every aspect of energy in operations: strategic energy procurement, energy efficiency, energy sustainability, and utility data management.
+Before the energy industry, Neal was a consultant within the enterprise software industry, working with large corporations across the globe, implementing customer relationship management (CRM) systems. Neal has a Bachelor of Business in Computer Information Systems from Stephen F. Austin State University.
+Bryan brings more than 15 years of experience in the ERCOT electricity market with deep expertise in retail energy strategy, contract structuring, and client advisory across a wide range of industries. At Energy Edge, Bryan applies this experience to support large commercial, industrial, and public-sector clients in navigating complex energy markets and developing tailored power procurement solutions.
+Prior to joining Energy Edge, Bryan spent a decade at TXU Energy, where he worked in the Large Business Markets division. During this time, he specialized in designing and negotiating customized power contracts for a diverse portfolio of clients, including municipalities, counties, independent school districts, pipeline operators, and manufacturers. He is known for his client-first approach, deep understanding of ERCOT market dynamics, and commitment to delivering long-term value through strategic energy management.
+Kris is the Team Lead for Energy Edge’s Operations and Analytics team, supporting all the firm’s service offerings. This includes performing market analysis to support hedge recommendations, managing pricing requests to suppliers, and placing power and gas hedges on behalf of clients.
+Prior to joining Energy Edge, Kris was a Senior Account Manager at THG Energy Solutions, a utility data management software company. In this role, Kris helped large commercial and industrial customers with utility data management for greenhouse gas emissions reporting, asset optimization, and general accounting functions. Kris started his career as a landman acquiring oil & gas mineral rights across in the Permian Basin and Eagle Ford Shale.
+Kris earned his bachelor’s degree in economics from the University of Texas at Austin. As an undergraduate, Kris was a member of The Sliver Spurs Student Organization where he worked with the Neighborhood Longhorns Programs to provide tutoring and mentoring services to elementary school students in Central Texas.
+Glen is a part of the Operations and Analytics Team at Energy Edge providing support across the firm’s services as well as supporting the team in the implementation of value enhancing strategies for clients. Glen provides support on data collection and analysis, issuing pricing requests to suppliers, review and comparison of supplier bids, ad hoc client reporting and market updates for each ISO within the U.S.
+Glen joined Energy Edge beginning his career after graduating with a BA in Economics from Stanford University. His studies focused mainly on finance and strategy, with other topics such as game theory and environmental economics bolstering his overall coursework.
+While at Stanford, he competed on the Men’s Varsity Swim Team for three years achieving All PAC 12 and Academic All American honors also qualifying for both the 2016 and 2020/21 US Olympic Trials.
+Hastia is part of the Operations and Analytics team at Energy Edge, where she supports various aspects of Energy Edge’s energy management services. Her work includes assisting with data collection and analysis, issuing pricing requests to retail energy suppliers, reviewing supplier offers, and helping with internal reports and market updates across major ISOs.
+Before joining Energy Edge, she graduated from Texas A&M University with a Bachelor of Science in Agricultural Business and Management where her studies focused on economics, finance, and business management.
+Ethan is a member of the Operations and Analytics team at Energy Edge, where he supports a wide range of the company’s energy management services for commercial and industrial clients across North America. His responsibilities include data collection and analysis, managing pricing requests to retail energy suppliers, reviewing and comparing supplier bids, and supporting the development of financial hedge recommendations. Additionally, he helps to implement value-enhancing strategies for our clients.
+Prior to joining Energy Edge, Ethan worked as a Process Engineer at Samsung Semiconductor and earned his Bachelor of Science in Chemical and Biomolecular Engineering from Rice University with a specialization in Energy and Sustainability.
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/services/services-for-energy-suppliers/
+
+Given the diverse backgrounds of the Energy Edge team we are uniquely positioned to provide in depth analysis on investments in energy technology and business development opportunities in the energy space.
+Energy Edge has been retained by a significant number of firms to help assess:
+- Development of renewable energy generation in various geographic markets
+- Requirements and economics associated with becoming a retail energy supplier
+- Investment in solar generation
+- Citing new production/processing facilities within the continental United States
+In performing these studies, Energy Edge combines technical knowledge of the wholesale and retail markets with its proprietary market data to develop a financial model forecasting metrics such as:
+- Generation capacity factors
+- Wholesale power purchase agreement valuations
+- Avoided costs and payback horizons
+- Revenues associated with renewable energy credits
+Firms such as wholesale generation developers, large end-use consumers and retail energy suppliers are among the firms who have retained Energy Edge to assist with business development opportunities.
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/services/demand-response/
+
+Unlocking your organization’s demand response potential is Energy Edge’s specialty.
+There are numerous opportunities for end use consumers to reduce energy costs and further an overall corporate sustainability strategy through participation in demand response programs. Programs and opportunities differ widely in their value and requirements, and Energy Edge can work with a client to identify what facilities are good candidates for demand response, and what programs may be the best fit.
+- Qualitative and quantitative analysis of the various demand response & energy efficiency programs available and the financial value and risks of each
+- Assist clients in understanding business implications of participating in certain programs
+- Develop and implement a customized demand response plan that fits for each participating site
+- Arrange a service provider to provide the scheduling and dispatch services (when required)
+- Assist clients in selecting and managing third party equipment purchases, installations, and ongoing service provider relationships
+- Ongoing review of program changes and regulatory developments to ensure that the clients demand response assets are always receiving the best value available
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/services/support-services/
+
+For many clients, Energy Edge serves as an in-house energy management team. This entails supporting clients on many day-to-day business needs that range from preparing energy reports for internal purposes to coordinating hardware installations and repairs with local utility companies. Energy Edge also offers a full suite of online invoice support including a best in class bill pay service.
+Site & Volume Management
+Over the term of an energy supply contract, a client’s business is constantly changing and Energy Edge works diligently to make sure that all supply contracts remain current with the client’s changing needs, including:
+- Monitoring actual consumption against forecasted usage
+- Coordinating meter additions and deletions
+- Assisting in scheduling service outages for maintenance
+- Providing guidance on contract assignments when a facility is sold or purchased
+Invoice Validation
+When questions or new charges arise on an invoice, Energy Edge investigates the issue and drives it to resolution to ensure our client’s facilities are charged accurately per the terms of each energy supply contract. Energy Edge serves as the client’s customer service advocate, providing:
+- Transmission and Distribution rate validation
+- Invoice dispute resolution
+- A robust online data management platform that helps clients consolidate energy spend and usage data
+Budgeting & Forecasting
+Budgeting for an unpredictable cost such as energy can be an insurmountable challenge. Energy Edge provides client specific budgeting and forecasting information on an ongoing basis.
+- Fiscal year budgets developed based on contracted rates and/or forward market projections
+- Frequent updates of actual spend compared to budget based on realized costs and changes in forward market conditions
+- Medium to long term forecasts of energy spend to aid in strategic planning and new site location decisions
+Information & Payment Services
+Energy Edge offers a powerful platform for managing energy billing data across an entire organization for clients who do not have an in-house system. Energy Edge can provide the platform to assist in managing utility data across client sites. An invoicing platform provides robust summary and detail level reporting on usage, costs, charges and a host of other information. This platform also provides invoice payment services and can be integrated with a client’s in-house accounting platform.
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/services/renewable-energy-consulting/
+
+Renewable energy is growing rapidly worldwide thanks to lower costs and government incentives for renewable electricity generation, particularly solar and wind generation. That growth is leading to significant change in the electricity industry, presenting opportunities and challenges to large energy consumers.
+Purchasing renewable energy is a key component of most sustainability or carbon footprint reduction strategies, however it can be fraught with complexities and unforeseen risks. Energy Edge can help your organization navigate the complexities of renewable energy procurement with its renewable energy consulting services.
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/services/energy-sustainability/
+
+Sustainable energy use is a major focus area of large organizations today. Sustainability goals impact all areas of energy management, from physical plant operations to energy procurement. Whether an organization’s sustainability goals are driven by regulatory guidelines, consumer demands or a socially conscious leadership team, Energy Edge can assist in developing and implementing a sustainable energy strategy.
+Sustainable Energy Strategy Development
+In today’s global environment, companies large and small must have a strategy in place to address a host of sustainability related issues. Energy Edge guides its clients in assessing opportunities and risks to business objectives in several key sustainability areas, including:
+- Renewable energy purchasing goals and cost-effective implementation of those goals
+- Carbon footprint analysis & credit/offset option recommendations
+- Sustainability certification programs including LEED, Energy Star and others
+- Ongoing updates of changing regulatory guidelines and industry trends
+Energy Consumption Reduction
+Reducing the amount of energy a company or organization consumes is the most effective means to reduce carbon footprint. Energy Edge can assist with its full suite of Energy Management Services.
+Renewable Energy Purchasing
+The drive for a more renewable focused generation base has led to many attractive incentives for commercial, industrial, and institutional end use consumers to purchase energy from renewable generation assets. Energy Edge helps its clients leverage these opportunities through its Renewable Energy Consulting Services.
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/services/on-site-electricity-generation/
+
+Has your business evaluated the merits of on-site electric generation and storage?
+Many large consumers of energy already have or can benefit from installing on-site electric generation for primary supply, backup supply, and to meet renewable goals. Additionally, energy storage is becoming more economically viable as the cost of batteries and other technologies declines while real time power price volatility has increased. Energy Edge has experience in:
+- Battery Energy Storage Systems
+- Natural Gas Electricity Generation
+- Solar Electricity Generation
+- Wind Electricity Generation
+- Co-generation Facilities
+- Diesel Electricity Generation
+Energy Edge helps its clients commercialize these opportunities in a variety of ways.
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/services/energy-procurement/
+
+Energy Edge manages the energy procurement process from start to finish for its clients. Creating the proper competitive environment and accurately comparing competing offers is critical to the energy procurement process. Energy Edge’s relentless focus on the details of proposals, pricing structures, and contracts ensures that clients get the maximum value out of their procurement strategy and do not face the surprise of an unexpected cost after contract execution.
+Maximize value without the surprise of unexpected costs.
+Supplier Qualification & Proposals
+Energy Edge maintains relationships with over 100 leading suppliers of electricity, natural gas and related services in North America. Our insight into their operations allows Energy Edge to:
+- Provide clients with pre-qualification information on potential suppliers to narrow the field as appropriate
+- Develop a clear and detailed solicitation based on the energy strategy developed with the client, specifying the desired product structures
+- Work with suppliers in customizing their products to fit the specific needs of the energy strategy
+Supplier Comparison & Analysis
+Once Energy Edge has received initial proposals from suppliers, a thorough analysis of the proposals is conducted and a detailed comparison is prepared. Key areas of evaluation include:
+- Initial pricing and what cost components are included or passed through
+- The calculation methodology for pass through cost components and recommendations as to whether the methods are reasonable
+- The risk/reward balance of any pass through components (i.e. will taking a certain cost as a pass through ultimately result in higher or lower overall costs)
+- Comparison of contract provisions
+- Overall supplier capabilities and financial strength
+Contract Negotiations & Execution
+A critical phase of the procurement process is negotiating contract terms with shortlisted suppliers. As part of the contract negotiation process, Energy Edge will:
+- Provide a detailed review of each short listed supplier’s contract
+- Provide redlines of each agreement with Energy Edge’s suggested modifications to commercial terms
+- Coordinate with client’s in-house counsel
+- Lead contract negotiations with suppliers
+- Assign values to differences between suppliers in various contract provisions so final contract comparisons can be made
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/services/energy-risk-management/
+
+Energy Edge believes the key to managing energy costs is developing a comprehensive energy management strategy that can be adapted to changing market conditions, regulatory structures, and supplier behaviors. Energy Edge works closely with its clients to establish energy goals that align with their business objectives, risk tolerance and budgetary constraints.
+Once developed, Energy Edge assists clients in implementing the energy management strategy, benchmarking its performance against the established goals and most importantly, adapting the strategy in the face of changing market conditions.
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/services/energy-management-services/
+
+Reducing and optimizing energy consumption is key to both keeping overall energy costs down and meeting sustainability goals. Some of the largest cost reductions come from simple operational modifications that are low or no cost. For larger capital projects, Energy Edge can assist in identifying the most favorable financing source. From evaluating payback on capital investments to assessing the cost impact from operational changes, Energy Edge provides a host of services to assist clients in this area.
+Our energy management services are as follows:
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/services/
+
+Energy Management Services
+From energy audits to retro-commissioning, benchmarking to utility rebate management, Energy Edge can meet any client’s energy management services needs.
+From energy audits to retro-commissioning, benchmarking to utility rebate management, Energy Edge can meet any client’s energy management services needs.
+Energy procurement is a key to the success for of a client’s overall energy management strategy. Energy Edge manages every step of the process from strategy formulation to execution.
+Sustainability is a key area of strategic importance for businesses and institutions. Energy Edge works with clients to establish, implement and measure sustainability programs.
+Managing energy is not a once a year process. To implement a successful energy management strategy, our clients depend on us to manage ongoing energy related issues on a daily basis.
+Energy Edge is a trusted partner to our clients in energy risk management, assisting in the navigation of the various risks that a large end user of energy faces.
+Accusantium quam, ultri eget tempor id, aliquam eget nibh et. Maecen aliquam, risus at semper ullamcorper
+Procuring renewable energy can be a daunting proposition. Energy Edge has the knowledge and experience to implement renewable energy strategies and purchases for clients.
+Facilities with flexible energy requirements or on-site generation can benefit substantially by participating in demand response programs. Energy Edge can evaluate and implement demand response opportunities for clients.
+In addition to energy risk management and procurement related services Energy Edge also works with firms to assess business development opportunities in the energy industry.
+© 2026 Energy Edge Consulting, LLC. All Rights Reserved. | Site by Coobo Media
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/baker-hughes-eliminated-12-percent-of-companys-global-carbon-footprint/
+
+Baker Hughes committed to reducing its CO2 eq. emissions 50 percent by 2030. Understanding that its electricity consumption globally was a meaningful contributor to its carbon footprint, Baker Hughes asked Energy Edge to evaluate the merits of replacing its traditional grid energy purchases with renewable energy.
+Knowing that Baker Hughes’ largest electricity consumption footprint was in Texas, Energy Edge began evaluating the amount of CO2 eq. emission reductions that could be achieved in this market. Energy Edge worked with Baker Hughes to understand which attributes of a renewable energy purchase were “must-haves” and which risks needed to be mitigated.
+To learn more about what was important to Baker Hughes and how Energy Edge was able to meet these needs while reducing Baker Hughes’ global carbon footprint by 12 percent, download the full case study from the link below.
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/wp-content/uploads/2020/08/Baker-Hughes-Renewable-Strategy-with-Supplier-Sleeve.pdf
+
+Baker Hughes Eliminated 12 Percent of Company’s 
+Global Carbon Footprint
+OVERVIEW
+Baker Hughes, based in Houston, T exas, is one of the leading energy 
+technology companies in the world. With operations in more than 
+120 countries, Baker Hughes develops innovative technologies 
+and services that make energy production and consumption safer, 
+cleaner and more efficient. 
+In addition to providing customer solutions that are environmentally 
+focused, Baker Hughes has its own commitments regarding its 
+carbon footprint. In January 2019, Baker Hughes committed to 
+reduce its CO2 eq. emissions 50 percent by 2030 and to achieve net-
+zero CO2 eq. emissions by 2050. By the end of 2018, Baker Hughes 
+had already reduced its CO2 eq. emissions 34 percent since 2012 
+and was looking for further carbon reduction opportunities.
+ENERGY EDGE was hired by Baker Hughes in 2012 to provide 
+energy procurement services globally. Since then, ENERGY EDGE 
+has been supporting Baker Hughes in the United States, Canada, 
+United Kingdom and Germany. With the commitment in early 2019 
+to reduce its carbon footprint, ENERGY EDGE began working to 
+identify opportunities in the United States that could further Baker 
+Hughes’ sustainability goal.
+Baker Hughes is a large 
+consumer of electricity in 
+T exas, and ENERGY EDGE 
+understood that moving away 
+from buying traditional grid 
+power and, instead, sourcing 
+its electricity from renewable 
+sources would result in a 
+meaningful CO2 eq. reduction. 
+Accordingly, ENERGY EDGE 
+began working with the 
+energy stakeholders within 
+Baker Hughes to identify the 
+attributes of a renewable 
+energy purchase that were 
+“must-haves. ” This resulted in 
+a set of criteria that needed to 
+be met if Baker Hughes was to 
+pursue a renewable purchase. 
+These included:
+• Matching as closely as possible the hourly production of renewable 
+energy with Baker Hughes’ hourly consumption of electricity. Baker 
+Hughes did not want to purchase 100% of their annual electricity 
+needs from just a solar project. This would result in more solar 
+energy being generated than Baker Hughes could consume in 
+many hours of the year. They did not want to be exposed to the 
+financial risk associated with this. 
+The Client’s Need
+Structure a renewable purchase 
+that accomplishes the above criteria 
+while being cost competitive to 
+purchasing traditional grid energy
+ENERGY EDGE’s Solutions
+Identify a retail electricity provider 
+who could:
+• Identify potential renewable 
+projects
+• Be the counterparty to the 
+renewable PPA 
+• Provide competitive retail 
+services
+COMPANY NAME
+Baker Hughes
+WEBSITE
+www.bakerhughes.com
+LOCATION
+Houston, TX
+INDUSTRY
+Energy T echnology
+
+
+Baker Hughes Eliminated 12 Percent of Company’s 
+Global Carbon Footprint
+• Financially integrating the renewable purchase with a retail power 
+contract. Baker Hughes wanted the renewable purchase to serve 
+as a physical hedge against its future load requirements.
+• Avoid mark-to-market accounting treatment. Baker Hughes did 
+want the administrative or financial burdens associated with 
+hedge accounting.
+• Achieve additionality with the purchase. Baker Hughes wanted to 
+have a direct impact on reducing the carbon footprint within the 
+electricity grid where they are headquartered.
+APPROACH
+ENERGY EDGE solicited proposals from various retail electricity 
+suppliers while specifying the commercial elements most important 
+to Baker Hughes. ENERGY EDGE stipulated that: 
+1. All offers must combine solar and wind energy in order to 
+accommodate Baker Hughes’ requirement of closely matching 
+hourly energy production with their hourly consumption of 
+electricity. ENERGY EDGE understood that in T exas solar 
+and wind have complementary production profiles, and a 
+combination of the two would be best suited to achieving this 
+requirement.
+2. The supplier should identify greenfield projects under 
+development in the ERCOT market and be willing to sign a 
+PPA directly with the developer(s) on behalf of Baker Hughes. 
+This would satisfy Baker Hughes’ other two requirements 
+of avoiding mark-to-market accounting and supporting 
+additionality in T exas. 
+Once these offers were received, ENERGY EDGE began comparing 
+the production profiles of the proposed projects and the economics 
+of the renewable offers. While Baker Hughes wanted to minimize 
+the financial risk associated with buying more generation than they 
+could consume in any given hour, they understood that this could 
+not be completely avoided and still achieve the goal of being 100% 
+renewable. Understanding which offer minimized this risk was a key 
+evaluative criterion.
+In addition to evaluating the economics of each offer, ENERGY 
+EDGE also provided Baker Hughes’ legal counsel with an 
+assessment of each supplier’s contractual terms. Key considerations 
+in this review were:
+1. the rights and remedies associated with the renewable projects 
+either being delayed or failing to achieve commercial operation
+2. the guaranteed energy production provisions associated with 
+the renewable projects
+3. credit provisions between the project developer(s) and the 
+supplier as well as numerous other commercial items
+ENERGY EDGE OFFICES
+Houston
+Dallas
+Los Angeles
+Orlando
+Edinburgh
+WEBSITE
+www.energyedge.com
+
+
+Baker Hughes Eliminated 12 Percent of Company’s 
+Global Carbon Footprint
+Energy Edge worked with Baker Hughes’ outside legal counsel and 
+facilitated the contract negotiations.
+A 10-year PPA for 25 MWs of wind and 30 MWs of solar energy
+Eliminated 12 percent of the Baker Hughes’ global carbon 
+equivalent emissions 
+OUTCOME
+Baker Hughes entered into a long-term power purchase agreement 
+with EDF Energy Services that resulted in a reduction of 1.2 million 
+metric tons of CO2 eq. emissions over the term of the agreement. 
+This is the equivalent of removing more than 27,000 cars from the 
+road. 
+The power purchase agreement combines renewable energy from 
+the T exas-based White Mesa Wind project and the Elara solar 
+project. Combined, these projects created an energy production 
+profile that aligns with Baker Hughes’ electricity use patterns 
+around the clock and serves as a model for how other large energy 
+consumers can better match their renewable energy purchases with 
+how they consume electricity.
+ENERGY EDGE OFFICES
+Houston
+Dallas
+Los Angeles
+Orlando
+Edinburgh
+WEBSITE
+www.energyedge.com
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/energy-management-strategy-helps-stanford-university-cut-costs-while-achieving-sustainable-goals/
+
+Stanford University embarked on a transformative journey to redefine how they would meet the future energy needs of the campus. A decision was made to decommission an onsite cogeneration facility which had historically provided all the heating and cooling needs of the university. Moving forward, Stanford planned to leverage California’s Direct Access program and competitive choice to implement a new energy management strategy.
+Consistent with the University’s Energy and Climate Plan, Stanford was very interested in making renewable energy a cornerstone of its go-forward strategy. Energy Edge was engaged to work with the energy stakeholders within Stanford to develop a comprehensive, long-term energy management strategy.
+To learn more about the steps Energy Edge took to help Stanford develop and implement their new energy management strategy, click on the link below.
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/wp-content/uploads/2020/07/Stanford-University-Renewable-Strategy-Procurement.pdf
+
+Energy Management Strategy Helps Stanford University 
+Cut Costs While Achieving Sustainable Goals
+Energy Management Strategy Helps Stanford University 
+Cut Costs While Achieving Sustainable Goals
+COMPANY NAME
+Stanford University
+WEBSITE
+www.stanford.edu
+LOCATION
+Silicon Valley, CA
+INDUSTRY
+Education
+COMPANY NAME
+Stanford University
+WEBSITE
+www.stanford.edu
+LOCATION
+Silicon Valley, CA
+INDUSTRY
+Education
+OVERVIEW
+STANFORD UNIVERSITY is one of the world’s leading teaching 
+and research universities. Located in Silicon Valley, California, 
+the university’s 8,000-acre campus is home to over 16,000 
+undergraduate and graduate students and more than 2,000 faculty.
+Several years ago, Stanford decided to retire its on-campus co-
+generation facility, which had provided the vast majority of the 
+electricity and thermal needs of the campus for several decades, 
+and seek to provide energy to the campus in a sustainable, efficient, 
+and low carbon manner consistent with the University’s Energy and 
+Climate Plan. As part of the Plan, the University also decided to build 
+a new, state-of-the-art, central plant to meet the thermal needs of 
+the campus and commence purchasing the majority of the campus’ 
+electricity needs from the California grid under Direct Access, 
+California’s deregulated electricity market. In addition to the new 
+central plant achieving unprecedented levels of efficiency, it also 
+provided significant flexibility to the University by using thermal 
+storage to allow the university to optimize the timing of energy 
+demand and purchases.
+The University spends over $30 million annually on energy and saw 
+an opportunity both to cut costs and to make a sustainable energy 
+choice by creating a comprehensive energy management strategy. 
+The University engaged ENERGY EDGE to develop and implement 
+their new plan. 
+Short- T erm Goals
+• Leverage the flexibility of the 
+new central plant
+• Source energy from renewable 
+generation for a significant portion 
+of campus needs
+APPROACH
+ENERGY EDGE worked with Stanford to assemble a cross-functional 
+project team to lead the development of the University’s long-term 
+energy strategy. Initial discussions and workshops were led by 
+ENERGY EDGE to provide the Stanford team with an understanding 
+of the California electricity market and the key risks, opportunities 
+and decisions the University faced in developing its strategy. The 
+broad background of team members included facilities, finance, 
+accounting, legal and professors in the business, economics and 
+engineering fields. 
+One of the key decisions the team faced early in the process was 
+whether to build Stanford’s energy strategy around a large, long-
+term renewable energy purchase or follow a more traditional 
+Long- T erm Goals
+• Provide low-cost energy while 
+maintaining flexibility to capitalize 
+on future opportunities.
+• Ensure mid- to long-term budget 
+certainty
+
+Energy Management Strategy Helps Stanford University 
+Cut Costs While Achieving Sustainable Goals
+ENERGY EDGE OFFICES
+Houston
+Dallas
+Los Angeles
+Orlando
+Edinburgh
+WEBSITE
+www.energyedge.com
+procurement strategy where all energy is purchased directly from 
+a retail service provider and is not asset-specific. ENERGY EDGE 
+performed an extensive scenario-modeling effort to help analyze 
+this decision. Determinations such as the size of purchase, term 
+and type of generation technology (e.g. solar, wind, geothermal) 
+were central to the debate. Stanford ultimately decided a long-term 
+renewable energy purchase should serve as the cornerstone of 
+their future strategy.
+Once this decision was made, ENERGY EDGE worked with an 
+engineering firm retained by Stanford to develop and issue an 
+RFP for a long-term renewable power purchase agreement or 
+PPA. More than 30 proposals were received from some of the 
+most respected renewable energy developers in the world After a 
+thorough review of all proposals, a small number of final candidates 
+were selected for contract negotiation. ENERGY EDGE led the 
+negotiation efforts in consultation with Stanford’s external counsel. 
+In addition to the renewable PPA process, ENERGY EDGE led 
+another RFP for a traditional retail electricity service agreement 
+to provide energy to the campus for the period of time between 
+the retirement of the co-generation facility (April 2015) and the 
+beginning of the renewable PPA (Q4 2016).
+OUTCOME
+At the conclusion of extensive negotiations, Stanford executed a 
+25-year PPA for a soon-to-be constructed 50MW solar generating 
+facility at a price that is more than 25% below what the University 
+expected to pay, based on PPA prices at the time. The solar plant will 
+provide renewable, carbon-free energy for approximately 50% of the 
+University’s electricity needs for the 25-year term and will provide 
+annual savings of more than $5 million compared to utility rates at 
+the time. Stanford also executed a retail supply agreement to provide 
+for the University’s electricity needs until the solar plant is online in 
+early 2017 at prices that represent a 15% annual savings compared 
+to utility rates at the time.
+The implementation of Stanford’s new comprehensive energy 
+strategy has laid the foundation for the University to receive the 
+benefits of low-cost energy while meeting sustainability goals and 
+leaving the opportunity for the University to capitalize on future 
+improvements in technology and efficiency.
+25-year PPA for 50MW solar generating facility at 25% discount
+15% annual savings with retail supply agreement
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/why-energy-edge/case-studies/
+
+Stanford University embarked on a transformative journey to redefine how they would meet the future energy needs of the campus.…
+Several years ago, a large petrochemical producer in Texas engaged Energy Edge to develop a more comprehensive energy management strategy.…
+Baker Hughes committed to reducing its CO2 eq. emissions 50 percent by 2030. Understanding that its electricity consumption globally was…
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/resources/
+
+Energy Edge understands that the key to making good decisions is having the necessary information available when needed. The firm does not believe that all clients need or value the same information. Instead, Energy Edge understands that each of its clients have their own set of value drivers, goals and objectives. Accordingly, Energy Edge provides customized reports and information to its clients based on their specific needs.
+Additionally, Energy Edge collects and develops general market information that its clients can access to assist them in their daily operations. These include white papers on current market trends, regulatory events and industry developments.
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/resources/energy-glossary/
+
+Active solar – As an energy source, energy from the sun collected and stored using mechanical pumps or fans to circulate heat-laden fluids or air between solar collectors and a building.
+Aggregator – Any marketer, broker, public agency, city, county, or special district that combines the loads of multiple end-use customers in negotiating the purchase of electricity, the transmission of electricity, and other related services for these customers.
+Ancillary services – Services that ensure reliability and support the transmission of electricity from generation sites to customer loads. Such services may include load regulation, spinning reserve, non-spinning reserve, replacement reserve, and voltage support.
+Balancing authority (electric) – The responsible entity that integrates resource plans ahead of time, maintains load-interchange-generation balance within a Balancing Authority Area, and supports Interconnection frequency in real time
+Basis or Basis Differential – a term commonly used to refer to the difference in value of a unit of electricity or natural gas delivered at one location as compared to the value of the same unit of electricity or natural gas delivered at another location; for example, if the value of a unit of natual gas delivered to the Chicago Citygate is $3.00 / MMBtu and the value of a unit of natural gas delivered to Henry Hub is $2.75 / MMBtu, the Chicago Citygate basis is $0.25 / MMBtu.
+British Thermal Unit (BTU) – defined as the amount of heat required to raise the temperature of 1 lb of liquid water by 1 °F at a constant pressure of one atmosphere. MMBtu represents one million BTU.
+Bundled utility service (electric) – A means of operation whereby energy, transmission, and distribution services, as well as ancillary and retail services, are provided by one entity.
+Capacity (kW) – how much energy the system must be able to generate to meet the instantaneous load; also a measurement of instantaneous electricity load.
+Carbon footprint – the total set of greenhouse gas (GHG) emissions caused by an organization, event, product, or person.
+Carbon offsetting – reducing a carbon footprint.
+Citygate – A point or measuring station at which a distributing gas utility receives gas from a natural gas pipeline company or transmission system.
+Cooling degree days (CDD) – measure how much (in degrees) and for how long (in days) outside temperature was higher than a specific base temperature.
+Congestion – A condition that occurs when insufficient transfer capacity is available to implement all of the preferred schedules for electricity transmission simultaneously.
+Consumption vs Demand – kWh vs kW – Consumption is the total amount of energy used during a period of time (kWh); demand is the instantaneous rate of that consumption usually measured as an average over 15 or 30 min intervals. Automobile analogy to understand how demand and consumption relate – the car’s speedometer is like the demand and the odometer is like the consumption.
+Degree days – Used in the energy industry as a representation of outside temperatures and how it relates to energy consumption.
+Dekatherm – A common measurement unit for natural gas based on its energy content; equal to 10 therms or 1 MMBtu
+Demand response programs – Demand response programs are incentive-based programs that encourage electric power customers to temporarily reduce their demand for power at certain times in exchange for a reduction in their electricity bills. Some demand response programs allow electric power system operators to directly reduce load, while in others, customers retain control. Customer-controlled reductions in demand may involve actions such as curtailing load, operating onsite generation, or shifting electricity use to another time period. Demand response programs are one type of demand-side management, which also covers broad, less immediate programs such as the promotion of energy-efficient equipment in residential and commercial sectors.
+Demand-side management (DSM) – A utility action that reduces or curtails end-use equipment or processes. DSM is often used in order to reduce customer load during peak demand and/or in times of supply constraint. DSM includes programs that are focused, deep, and immediate such as the brief curtailment of energy-intensive processes used by a utility’s most demanding industrial customers, and programs that are broad, shallow, and less immediate such as the promotion of energy-efficient equipment in residential and commercial sectors.
+Deregulation – The elimination of some or all regulations from a previously regulated industry or sector of an industry; in regards to the electricity and natural gas industries, often refers to the introduction of supplier competition and consumer choice.
+Direct access – The ability of a retail customer to purchase electricity or other energy sources directly from a supplier other than their regulated utility.
+Distribution provider (electric) – Provides and operates the wires between the transmission system and the end-use customer. For those end-use customers who are served at transmission voltages, the Transmission Owner also serves as the Distribution Provider. Thus, the Distribution Provider is not defined by a specific voltage, but rather as performing the Distribution function at any voltage
+Electricity broker – An entity that arranges the sale and purchase of electric energy, the transmission of electricity, and/or other related services between buyers and sellers but does not take title to any of the power sold.
+Energy charge – That portion of the charge for electric service based upon the electric energy (kWh) consumed or billed.
+Energy efficiency, Electricity – Refers to programs that are aimed at reducing the energy used by specific end-use devices and systems, typically without affecting the services provided. These programs reduce overall electricity consumption (reported in megawatthours), often without explicit consideration for the timing of program-induced savings. Such savings are generally achieved by substituting technologically more advanced equipment to produce the same level of end-use services (e.g. lighting, heating, motor drive) with less electricity. Examples include high-efficiency appliances, efficient lighting programs, high-efficiency heating, ventilating and air conditioning (HVAC) systems or control modifications, efficient building design, advanced electric motor drives, and heat recovery systems.
+Energy service provider – An energy entity that provides service to a retail or end-use customer.
+Firm power – Power or power-producing capacity, intended to be available at all times during the period covered by a guaranteed commitment to deliver, even under adverse conditions.
+Futures market – A trade center for quoting prices on contracts for the delivery of a specified quantity of a commodity at a specified time and place in the future.
+Generation – The process of producing electric energy by transforming other forms of energy; also, the amount of electric energy produced, expressed in kilowatthours.
+Generator capacity – The maximum output, commonly expressed in megawatts (MW), that generating equipment can supply to system load, adjusted for ambient conditions.
+Grid – The layout of an electrical distribution system.
+Heat Rate – Used to calculate how efficiently a generator uses heat energy. It is expressed as the number of BTUs of heat required to produce a kilowatt-hour of energy; Power Price / Natural Gas Price = Implied or Market Heat Rate.
+Heating degree days (HDD) – measure of how much (in degrees) and for how long (in days) outside temperature was lower than a specific base temperature.
+Hedging – a position established in one market in an attempt to offset exposure to price changes or fluctuations with the goal to minimize risk.
+Independent system operator (ISO) – An independent, federally regulated entity established to coordinate regional transmission in a non-discriminatory manner and ensure the safety and reliability of the electric system.
+Interruptible load – This Demand-Side Management category represents the consumer load that, in accordance with contractual arrangements, can be interrupted at the time of annual peak load by the action of the consumer at the direct request of the system operator. This type of control usually involves large-volume commercial and industrial consumers. Interruptible Load does not include Direct Load Control.
+kW, kWh – 1 kilo-watt or 1 kilo-watt hour of electricity; equal to 1,000 watts.
+Load Factor – average consumption divided by the peak power over a period of time.
+Locational Marginal Price (LMP) – the price of electricity at a particular point on the electrical grid; a term commonly used to refer to real time or day ahead electricity prices.
+Mcf – A common measurement unit of natural gas based on its volume; 1 Mcf is roughly equal to 1.03 Dth and 1.03 MMbtu, though this conversion varies depending on the energy content of delivered natural gas
+MMBtu – A common measurement unit of natural gas based on its energy content, equal to 1,000,000 Btu
+Open access (electric) – Federal Energy Regulatory Commission Order No. 888 requires public utilities to provide non-discriminatory transmission service over their transmission facilities to third parties to move bulk power from one point to another on a nondiscriminatory basis for a cost-based fee. Order 890 expanded Open Access to cover the methodology for calculating available transmission transfer capability; improvements that opened a coordinated transmission planning processes; standardization of energy and generation imbalance charges; and other reforms regarding the designation and undesignation of transmission network resources.
+Photovoltaic cell (PVC) – An electronic device consisting of layers of semiconductor materials fabricated to form a junction (adjacent layers of materials with different electronic characteristics) and electrical contacts and being capable of converting incident light directly into electricity (direct current).
+Pipeline (natural gas) – A continuous pipe conduit, complete with such equipment as valves, compressor stations, communications systems, and meters for transporting natural and/or supplemental gas from one point to another, usually from a point in or beyond the producing field or processing plant to another pipeline or to points of utilization. Also refers to a company operating such facilities.
+Power Purchase Agreement (PPA) – an agreement between the owner of an electricity generation facility and a buyer of electricity that sets forth the commercial terms for the purchase and sale of electricity from a generation facility.
+RECs – Renewable Energy Credits – are tradable, non-tangible energy commodities in the U.S. that represent proof that 1 MWh of electricity was generated from an eligible renewable energy resource.
+Renewable energy resources – Energy resources that are naturally replenishing but flow-limited. They are virtually inexhaustible in duration but limited in the amount of energy that is available per unit of time. Renewable energy resources include biomass, hydro, geothermal, solar, wind, ocean thermal, wave action, and tidal action.
+Shale Gas – Natural gas produced from wells that are open to shale formations. Shale is a fine-grained, sedimentary rock composed of mud from flakes of clay minerals and tiny fragments (silt-sized particles) of other materials. The shale acts as both the source and the reservoir for the natural gas
+Solar Power Purchase Agreement – A power purchase agreement (PPA) is a financial agreement where a developer arranges for the design, permitting, financing and installation of a solar energy system at little to no cost up front, and an agreement on the part of the customer to purchase the energy for a per unit price.
+Stranded costs –Costs incurred by a utility which may not be recoverable under market-based retail competition. Examples include undepreciated generating facilities, deferred costs, and long-term contract costs.
+Tariff – For electric and natural gas utilities, a tariff is the collection of rules and rates that defines how and at what cost a utility provides service to its customers; a common term used to refer to the rate structure a customer is served under.
+Therm – A common measurement unit of natural gas based on its energy content; equal to one hundred thousand (100,000) Btu
+Virtual (or Financial) Power Purchase Agreement (VPPA) – Unlike a physical PPA, a virtual PPA is a financial contract rather than a contract for power. The offtaker does not receive, or take legal title to, the electricity and in this way, it is a “virtual” power purchase agreement.
+Working gas – The quantity of natural gas in the reservoir that is in addition to the cushion or base gas. It may or may not be completely withdrawn during any particular withdrawal season. Conditions permitting, the total working capacity could be used more than once during any season. Volumes of working gas are reported in thousand cubic feet at standard temperature and pressure.
+Source for some definitions – www.eia.gov
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/resources/webinars/
+
+Energy Edge hosts quarterly webinars sharing our insight on the energy markets. Below are links to some of our previous ones:
+Energy Edge hosts quarterly webinars sharing our insight on the energy markets. Below are links to some of our previous ones:
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/resources/industry-articles-links/
+
+Geothermal investment soars 85% as breakthrough tech unlocks 500 GW US potential – Wood Mackenzie | June 30, 2025
+DOE cancels $3.7B in carbon capture, decarbonization awards – Utility Dive | May 30, 2025
+US approves NuScale’s bigger nuclear reactor design – Reuters | May 29, 2025
+Grid Operator Issues Load Shed Request to Entergy, Cleco Power – American Public Power Association | May 26, 2025
+A fraction of proposed data centers will get built. Utilities are wising up. – Utility Dive | May 15, 2025
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/newsletter-sign-up/
+
+Skip to main content
+Services
+–
+Energy Management Services
+Energy Audits and Studies
+Sourcing Financing
+Utility Infrastructure Management
+Energy Risk Management
+Energy Strategy Development
+Market Analysis & Monitoring
+Ongoing Hedge Management
+–
+Energy Procurement
+Supplier Qualification & Proposals
+Supplier Comparison & Analysis
+Contract Negotiations & Execution
+On-Site Electricity Generation
+Economic Feasibility
+Implementation
+Commercialization
+–
+Energy Sustainability
+Sustainable Energy Strategy Development
+Energy Consumption Reduction
+Renewable Energy Purchasing
+Renewable Energy Consulting
+Renewable Energy Strategy Development
+Evaluating a Renewable Energy Purchase
+Renewable Energy Procurement
+Negotiation of Power Purchase Agreements
+–
+Support Services
+Site & Volume Management
+Invoice Validation
+Budgeting & Forecasting
+Information & Payment Services
+Demand Response
+Services for Energy Suppliers
+About Us
+Our Team
+Our Values
+Energy Edge Service Area
+Case Studies
+Market Intel
+Energy Glossary
+Webinars
+Industry Articles/Links
+Newsletter Sign Up
+Blog
+Menu
+facebook
+linkedin
+youtube
+inquiries@energyedge.com
+888-802-8179
+Press enter to begin your search
+Close Search
+Newsletter Sign Up
+Get the latest from Energy Edge
+Name
+Email
+Subscribe
+Questions? Ask our Experts.
+Contact Us
+Close Menu
+Services
+–
+Energy Management Services
+Energy Audits and Studies
+Sourcing Financing
+Utility Infrastructure Management
+Energy Risk Management
+Energy Strategy Development
+Market Analysis & Monitoring
+Ongoing Hedge Management
+–
+Energy Procurement
+Supplier Qualification & Proposals
+Supplier Comparison & Analysis
+Contract Negotiations & Execution
+On-Site Electricity Generation
+Economic Feasibility
+Implementation
+Commercialization
+–
+Energy Sustainability
+Sustainable Energy Strategy Development
+Energy Consumption Reduction
+Renewable Energy Purchasing
+Renewable Energy Consulting
+Renewable Energy Strategy Development
+Evaluating a Renewable Energy Purchase
+Renewable Energy Procurement
+Negotiation of Power Purchase Agreements
+–
+Support Services
+Site & Volume Management
+Invoice Validation
+Budgeting & Forecasting
+Information & Payment Services
+Demand Response
+Services for Energy Suppliers
+About Us
+Our Team
+Our Values
+Energy Edge Service Area
+Case Studies
+Market Intel
+Energy Glossary
+Webinars
+Industry Articles/Links
+Newsletter Sign Up
+Blog
+Why Energy Edge
+Why Energy Edge
+Case Studies
+Testimonials
+Blog
+Contact Us
+Energy Glossary
+Webinars
+Industry Articles/Links
+Testimonials
+Newsletter Sign Up
+inquiries@energyedge.com
+Houston, TX:
+888.802.8179
+facebook
+linkedin
+youtube
+
+--------------------------------------------------------------------------------
+
+URL: https://energyedge.com/blog/
+
+EIA Natural Gas Storage as of 1/30/26, as reported 2/5/26 *Working gas in storage was 2,463 Bcf as of Friday,…
+Read More
+Governors and White House Press PJM on Emergency Capacity Action On January 16, 2026, a bipartisan coalition of 13 PJM-region…
+Read More
+EIA Natural Gas Storage as of 1/23/26, as reported 1/29/26 *Working gas in storage was 2,823 Bcf as of Friday,…
+Read More
+EIA Natural Gas Storage as of 1/16/26, as reported 1/22/26 *Working gas in storage was 3,065 Bcf as of Friday,…
+Read More
+EIA Natural Gas Storage as of 1/9/26, as reported 1/15/26 *Working gas in storage was 3,185 Bcf as of Friday,…
+Read More
+U.S. electricity systems are entering a period of accelerated demand growth as large energy-intensive customers—most notably data centers—expand alongside broader…
+Read More
+EIA Natural Gas Storage as of 1/2/26, as reported 1/8/26 *Working gas in storage was 3,256 Bcf as of Friday,…
+Read More
+Since December 1, 2025, the natural gas futures market has experienced significant fluctuations. The Henry Hub spot price, a key…
+Read More
+EIA Natural Gas Storage as of 12/26/25, as reported 12/31/25 *Working gas in storage was 3,375 Bcf as of Friday,…
+Read More
+As 2025 comes to a close, our team sat down for a candid, end-of-year conversation on the headlines that defined…
+Read More
+
+--------------------------------------------------------------------------------

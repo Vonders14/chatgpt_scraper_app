@@ -1,0 +1,718 @@
+ROOT: https://terra-gen.com/
+SCRAPED_AT_UTC: 2026-02-11T20:39:54.624855Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://terra-gen.com/
+
+Terra-Gen
+Our Portfolio
+Community Spotlight
+Safety and Infrastructure
+Safety and Infrastructure
+At Terra-Gen, we’re proud to support the people and programs that help keep our communities safe and strong. From partnering with local emergency services and volunteer organizations, we support initiatives that make a lasting difference.
+Youth Education and Development
+Youth Education and Development
+From helping students pursue higher education and career paths to sponsoring local youth sports, Terra-Gen is proud to invest in opportunities that inspire learning, teamwork and leadership in the communities we serve.
+Cultural and Social Engagement
+Cultural and Social Engagement
+At Terra-Gen, we believe strong communities are built through connection, celebration, and shared experiences. We’re proud to support local programs that preserve our history, celebrate our traditions, and bring people together.
+Development
+With projects spanning across the United States, Terra-Gen brings an unparalleled level of capability and experience throughout every technology and functional area of renewable development.
+Construction
+Terra-Gen has successfully constructed the largest wind farm in the country and recently completed construction of the country’s largest solar + energy storage project.
+Operation
+Terra-Gen has a significant operations program that includes wind, solar and battery storage. We deliver clean and sustainable energy to power the equivalent of over one million homes.
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/projects/energy-storage/
+
+ENERGY STORAGE PROJECTS
+Terra-Gen’s energy storage projects provide clean, reliable energy that supports residents, businesses and local communities. Battery storage plays a critical role in strengthening renewable energy systems by capturing excess solar and wind power when it is most abundant and delivering it back to the grid when demand is highest.
+Operational
+Edwards Sanborn 1A
+Storage
+Location: Kern County, CA
+Status: Operational
+Capacity: 548 MW
+Edwards Sanborn 1B
+Storage
+Location: Kern County, CA
+Status: Operational
+Capacity: 518 MW
+Tehachapi Energy Storage
+Storage
+Location: Kern County, CA
+Status: Operational
+Capacity: 77 MW
+Valley Center
+Storage
+Location: San Diego County, CA
+Status: Operational
+Capacity: 139 MW
+Lockhart I & II
+Storage
+Location: San Bernardino County, CA
+Status: Operational
+Capacity: 45 MW
+Canyon Country
+Storage
+Location: Los Angeles County, CA
+Status: Operational
+Capacity: 80 MW
+Lockhart Co-located Energy Storage
+Storage
+Location: San Bernardino County, CA
+Status: Operational
+Capacity: 128.7 MW
+In Development
+J90 North
+Storage
+Location: Los Angeles County, CA
+Status: In Development
+Capacity: 250 MW
+Dorian
+Storage
+Location: Los Angeles County, CA
+Status: In Development
+Capacity: 200 MW
+Under Construction
+Enterprise
+Storage
+Location: Kern County, CA
+Status: Under Construction
+Capacity: 210 MW
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/category/company-news/
+
+- Projects
+-
+-
+Our Projects
+-
+Project Portfolio
+- Wind Energy
+- Solar Energy
+- Energy Storage
+- Project Highlight
+- Interactive Map
+-
+-
+- About Us
+-
+-
+About Terra-Gen
+-
+-
+- Media Room
+- Stakeholders
+-
+-
+Stakeholder Resources
+-
+Stakeholder Resources
+- Suppliers
+- Community
+- Landowners
+-
+-
+- Careers
+- Contact
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/about-us/sustainability-and-esg/
+
+SUSTAINABILITY
+Terra-Gen is guided by a business approach grounded on the principles of conservation, environmental health and sustainability. Our company fosters a culture of honesty, transparency and accountability in the development, construction and operations of all our energy projects.
+We value the success that our interdisciplinary teams have in project development, construction management, and project operations. These teams are comprised of professionals who work to ensure our projects are properly sited, safely constructed and operated with mindful attention to safety, environmental stewardship, and regulatory compliance.
+Project development teams work with local, state and federal agencies to permit projects with the highest environmental standards to avoid sensitive resources and mitigate risk. Our project operations occur with consistent compliance specialist oversight to ensure that our facilities function in ways that are consistent with environmental regulations and avoid impacts to the environment or natural resources.
+Our environmental, health, and safety programs reflect our commitment to protecting wildlife, conserving natural resources, and ensuring the health and safety of our workforce and surrounding communities.
+Alta Environmental Services
+In 2012, Terra-Gen created Alta Environmental Services (AES) to help protect the federally endangered California condor in Kern County, California, one of the nation’s most productive wind regions.
+Environmental Health and Safety Policy
+Terra-Gen is committed to ensuring the health and safety of all our employees, contractors and visitors, and to the protection of the environment.
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/about-us/corporate-governance/
+
+Corporate Governance
+Effective governance and accountability, guided by our Board of Directors, shape what we do at Terra-Gen. These principles shape our mission to provide affordable, clean, large-scale energy, to help the nation achieve its goals of energy security, grid resiliency and having a meaningful impact on climate change.
+We are committed to operating with integrity and stakeholder engagement, ensuring our projects deliver lasting benefits for local communities today and for generations to come.
+Board of Directors
+John Ma
+John DiMarco
+Julie Furber
+Philip Haddad
+Faisal Bhatti
+Mazin Khan
+Policies and Position Statements
+Terra-Gen’ success is built on a foundation of excellence, integrity, and accountability. As we grow, we remain focused not only on results, but on the principles that guide our actions. Our policies and position statements reflect our commitment to conducting business responsibly, grounded in legal compliance, environmental stewardship, ethical conduct, and corporate social responsibility.
+Anti Human Slavery Policy
+Terra-Gen is deeply committed to the elimination of human trafficking and slavery throughout its business and supply chain. Learn about our commitment to never engage in or support any form of human slavery.
+Environmental Health and Safety Policy
+Terra-Gen is committed to ensuring the health and safety of all our employees, contractors and visitors and to the protection of the environment.
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/about-us/leadership-team/
+
+OUR TEAM
+Leadership at Terra-Gen comes with experience. Our management team brings more than 25 years of industry expertise and a proven track record of success, having developed or acquired over $25 billion in renewable energy generation assets across a range of technologies.
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/about-us/our-story/
+
+OUR STORY
+For nearly two decades, Terra-Gen has been dedicated to delivering affordable clean energy while fostering meaningful economic growth in communities across the United States.
+Today, our operating portfolio includes 4.2 GW of wind, solar, and battery storage projects, including 5.6 GWh of energy storage capacity, positioning us as one of the nation’s largest independent, integrated renewable energy producers.
+Terra-Gen is owned by Abu Dhabi Future Energy Company PJSC – Masdar (“Masdar”), the United Arab Emirates’ clean energy powerhouse, and Igneo Infrastructure Partners, a leading global investment manager with US$22.5 billion in direct infrastructure assets.
+We are proud of our leadership advancing America’s clean energy future.
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/projects/interactive-map/
+
+- Projects
+-
+-
+Our Projects
+-
+Project Portfolio
+- Wind Energy
+- Solar Energy
+- Energy Storage
+- Project Highlight
+- Interactive Map
+-
+-
+- About Us
+-
+-
+About Terra-Gen
+-
+-
+- Media Room
+- Stakeholders
+-
+-
+Stakeholder Resources
+-
+Stakeholder Resources
+- Suppliers
+- Community
+- Landowners
+-
+-
+- Careers
+- Contact
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/projects/solar-energy/
+
+SOLAR ENERGY PROJECTS
+Terra-Gen’s extensive portfolio of large-scale solar projects across California delivers reliable, clean energy to a diverse range of customers, including utilities, community choice aggregators, government agencies and businesses.
+By providing sustainable power solutions, these projects promote economic development, grid resiliency, and support local communities while advancing environmental sustainability for future generations.
+Operational
+Lockhart II
+Solar
+Location: San Bernardino County, CA
+Status: Operational
+Capacity: 75 MW
+Under Construction
+Lockhart III & IV
+Solar
+Location: San Bernardino County, CA
+Status: Under Construction
+Capacity: 205 MW
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/projects/wind-energy/
+
+WIND ENERGY PROJECTS
+Terra-Gen develops, owns and operates wind projects that deliver clean energy at scale, helping reduce carbon emissions and advance the transition to a clean energy future.
+Operational
+Oasis Power Partners
+Wind
+Location: Kern County, CA
+Status: Operational
+Capacity: 60.3 MW
+Monte Cristo I Windpower
+Wind
+Location: Hidalgo County, TX
+Status: Operational
+Capacity: 238.5 MW
+In Development
+North Country
+Wind
+Location: Franklin and Clinton Counties, NY
+Status: In Development
+Capacity: 365 MW
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/projecthighlight/
+
+- Projects
+-
+-
+Our Projects
+-
+Project Portfolio
+- Wind Energy
+- Solar Energy
+- Energy Storage
+- Project Highlight
+- Interactive Map
+-
+-
+- About Us
+-
+-
+About Terra-Gen
+-
+-
+- Media Room
+- Stakeholders
+-
+-
+Stakeholder Resources
+-
+Stakeholder Resources
+- Suppliers
+- Community
+- Landowners
+-
+-
+- Careers
+- Contact
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/media-room/
+
+- Projects
+-
+-
+Our Projects
+-
+Project Portfolio
+- Wind Energy
+- Solar Energy
+- Energy Storage
+- Project Highlight
+- Interactive Map
+-
+-
+- About Us
+-
+-
+About Terra-Gen
+-
+-
+- Media Room
+- Stakeholders
+-
+-
+Stakeholder Resources
+-
+Stakeholder Resources
+- Suppliers
+- Community
+- Landowners
+-
+-
+- Careers
+- Contact
+Media Room
+Contact Us: [email protected]
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/category/press-releases/
+
+- Projects
+-
+-
+Our Projects
+-
+Project Portfolio
+- Wind Energy
+- Solar Energy
+- Energy Storage
+- Project Highlight
+- Interactive Map
+-
+-
+- About Us
+-
+-
+About Terra-Gen
+-
+-
+- Media Room
+- Stakeholders
+-
+-
+Stakeholder Resources
+-
+Stakeholder Resources
+- Suppliers
+- Community
+- Landowners
+-
+-
+- Careers
+- Contact
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/axium-infrastructure-invests-in-phase-1-of-edwards-sanborn-solar-storage-facility/
+
+Axium Infrastructure Invests In Phase 1 Of Edwards Sanborn Solar Storage Facility
+New York City (October 26, 2022) – Axium Infrastructure (Axium) and Terra-Gen LLC (Terra-Gen) are pleased to announce the completion of a transaction under which an affiliate of Axiumhas acquired an 80% interest in the Edwards Sanborn 1A co-located solar plus storage facilityfrom Terra-Gen. Phase 1 of the Edwards Sanborn Solar Storage facility is composed of397 MWac1 (megawatts, alternating current) of nameplate solar capacity and 1,505 MWh(megawatt hours) of battery storage.
+The Edwards Sanborn project is located in Kern County on land leased from Edwards Air ForceBase, as well as on adjacent private land. The projects are underpinned by long-term offtakeagreements with multiple creditworthy parties such as utilities, municipal utilities andcorporations. The project at its peak employed more than 750 union workers on-site and willproduce clean energy for more than 158,000 homes and displace more than 307,000 tons ofCO2 annually.
+“This transaction is Axium’s second investment in battery storage, and it further expands oursignificant renewables footprint in North America,” said Thierry Vandal, President ofAxium Infrastructure US Inc. “This investment will play a critical role in the integration ofadditional sustainable energy projects to help achieve California’s energy and climate changegoals.”
+In addition to the Edwards Sanborn 1a facility that is contemplated under this transaction, Terra-Gen is also advancing development on the project’s future phases that will include more than2,000 MW of incremental solar and energy storage to be interconnected to the CAISO grid.Subsequent phases will begin to come on-line later this year. When complete, the EdwardsSanborn Solar Storage franchise is expected to be the world’s largest integrated solar poweredbattery storage project.
+“We are excited to begin this partnership with Axium given its extensive experience within theenergy sector,” said Jim Pagano, Chief Executive Officer of Terra-Gen. “As Terra-Gencontinues to maintain an interest in the Edwards Sanborn 1A facility and manage its dailyoperations, partnerships like this will allow us to further the development and construction of theEdwards Sanborn franchise.”
+Citi acted as exclusive financial advisor to Axium in relation to the transaction and King &Spalding acted as legal counsel. BofA Securities served as exclusive financial advisor to Terra-Gen in relation to the transaction and Latham & Watkins LLP acted as legal counsel.
+About Axium Infrastructure Inc.:
+Axium Infrastructure (comprised of Axium Infrastructure Inc. and its affiliated entities) is an independent portfolio management firm dedicated to generating long-term investment returns through investing in core infrastructure assets. Axium Infrastructure had over US$8.2 billion in assets under management as of September 30, 2023, as well as approximately US$1.4 billion in co-investments. With offices in Montreal, Toronto, Vancouver, New York, and London, the firm benefits from the capabilities of a group of specialists with decades of experience acquiring, developing, financing, operating, and managing infrastructure assets. Focus is placed on assets that are supported by robust market demand and under long-term contract with creditworthy counterparties. Since 2010, the firm has invested in a diversified portfolio of over 260 infrastructure assets. For further information, including information about other infrastructure assets the firm has invested in, please visit www.axiuminfra.com. This release is for informational purposes only and does not constitute an offer or solicitation to buy securities of any entity.
+For further information, please contact:
+Anne-Sophie Roy
+Senior Vice President, Investor Relations
+Axium Infrastructure Inc.
+[email protected]
+T: +1 514-954-3781
+About Terra-Gen:
+Terra-Gen, LLC is a leading U.S. developer, owner, and operator of utility-scale renewable energy projects in North America. Terra-Gen has an ownership interest in approximately 3.3 GW and 3,800 MWh of wind, solar and energy storage capacity in operation and construction across 28 renewable power facilities throughout the United States. Terra-Gen was formed in 2007 and is owned by ECP, a leading investor in infrastructure facilitating the energy transition, and Igneo Infrastructure Partners, a leading global investment manager with more than $15 billion in direct infrastructure assets. For more information, visit www.terra-gen.com.
+For further information, please contact:
+Jeff Cast
+Managing Director, Finance
+Terra-Gen, LLC
+[email protected]
+T: +1 646-829-3909
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/axium-infrastructure-invests-in-phase-1b-of-the-edwards-sanborn-solar-storage-facility/
+
+Axium Infrastructure Invests In Phase 1B Of The Edwards Sanborn Solar Storage Facility
+New York City (January 11, 2024) Axium Infrastructure (‘’Axium’’), via one of its managed funds, is pleased to announce an additional investment in the Edwards Sanborn facilities. In October 2022, Axium had acquired an interest in Edwards Sanborn 1A (ES1A), a solar plus storage facility from Terra-Gen, and is now acquiring, along with a Limited Partner and coinvestor, a 50% interest in Edwards Sanborn 1B (ES1B). The ES1B Solar + Storage facility is composed of 410 MWac1 (megawatts, alternating current) of nameplate solar capacity and 1,497 MWh (megawatt hours) of battery storage.
+The Edwards Sanborn assets are located in Kern County on land leased from Edwards Air Force Base, as well as on adjacent private land. The projects are underpinned by long-term offtake agreements with multiple creditworthy parties such as utilities, municipal utilities, and corporations. ES1A and ES1B represent a combined 807 MWac of solar capacity and 3,002 MWh of battery storage, making the Edwards Sanborn project one of the largest solar and storage facilities in the world.
+“This important transaction completes our Edwards Sanborn investments,” said Thierry Vandal, President of Axium Infrastructure US Inc. “The combined Edwards Sanborn assets will play a critical role in the integration of additional sustainable energy projects to help achieve California’s energy and climate change goals.”
+“We are excited to continue our partnership with Axium,” added Jim Pagano, Chief Executive Officer of Terra-Gen. “As Terra-Gen expands the Edwards Sanborn facility, Axium’s investment in ES1B Solar + Storage highlights the long-term viability of this project to help meet California’s current and future clean energy needs.”
+Citi acted as exclusive financial advisor to Axium in relation to the transaction and King & Spalding acted as legal counsel. BofA Securities served as exclusive financial advisor to Terra- Gen in relation to the transaction and Latham & Watkins LLP acted as legal counsel.
+About Axium Infrastructure Inc.:
+Axium Infrastructure (comprised of Axium Infrastructure Inc. and its affiliated entities) is an independent portfolio management firm dedicated to generating long-term investment returns through investing in core infrastructure assets. Axium Infrastructure had over US$8.2 billion in assets under management as of September 30, 2023, as well as approximately US$1.4 billion in co-investments. With offices in Montreal, Toronto, Vancouver, New York, and London, the firm benefits from the capabilities of a group of specialists with decades of experience acquiring, developing, financing, operating, and managing infrastructure assets. Focus is placed on assets that are supported by robust market demand and under long-term contract with creditworthy counterparties. Since 2010, the firm has invested in a diversified portfolio of over 260 infrastructure assets. For further information, including information about other infrastructure assets the firm has invested in, please visit www.axiuminfra.com. This release is for informational purposes only and does not constitute an offer or solicitation to buy securities of any entity.
+For further information, please contact:
+Anne-Sophie Roy
+Senior Vice President, Investor Relations
+Axium Infrastructure Inc.
+[email protected]
+T: +1 514-954-3781
+About Terra-Gen:
+Terra-Gen, LLC is a leading U.S. developer, owner, and operator of utility-scale renewable energy projects in North America. Terra-Gen has an ownership interest in approximately 3.3 GW and 3,800 MWh of wind, solar and energy storage capacity in operation and construction across 28 renewable power facilities throughout the United States. Terra-Gen was formed in 2007 and is owned by ECP, a leading investor in infrastructure facilitating the energy transition, and Igneo Infrastructure Partners, a leading global investment manager with more than $15 billion in direct infrastructure assets. For more information, visit www.terra-gen.com.
+For further information, please contact:
+Jeff Cast
+Managing Director, Finance
+Terra-Gen, LLC
+[email protected]
+T: +1 646-829-3909
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/media-room/multimedia-library/
+
+- Projects
+-
+-
+Our Projects
+-
+Project Portfolio
+- Wind Energy
+- Solar Energy
+- Energy Storage
+- Project Highlight
+- Interactive Map
+-
+-
+- About Us
+-
+-
+About Terra-Gen
+-
+-
+- Media Room
+- Stakeholders
+-
+-
+Stakeholder Resources
+-
+Stakeholder Resources
+- Suppliers
+- Community
+- Landowners
+-
+-
+- Careers
+- Contact
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/category/industry-insights/
+
+- Projects
+-
+-
+Our Projects
+-
+Project Portfolio
+- Wind Energy
+- Solar Energy
+- Energy Storage
+- Project Highlight
+- Interactive Map
+-
+-
+- About Us
+-
+-
+About Terra-Gen
+-
+-
+- Media Room
+- Stakeholders
+-
+-
+Stakeholder Resources
+-
+Stakeholder Resources
+- Suppliers
+- Community
+- Landowners
+-
+-
+- Careers
+- Contact
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/category/featured-stories/
+
+- Projects
+-
+-
+Our Projects
+-
+Project Portfolio
+- Wind Energy
+- Solar Energy
+- Energy Storage
+- Project Highlight
+- Interactive Map
+-
+-
+- About Us
+-
+-
+About Terra-Gen
+-
+-
+- Media Room
+- Stakeholders
+-
+-
+Stakeholder Resources
+-
+Stakeholder Resources
+- Suppliers
+- Community
+- Landowners
+-
+-
+- Careers
+- Contact
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/stakeholders/suppliers/
+
+Suppliers
+Our suppliers and contractors are essential partners in bringing our renewable energy projects to life. From equipment and materials to construction and professional services, we rely on a strong network of partners to deliver safe, reliable and sustainable energy solutions.
+Anti-Human Slavery policy
+At Terra-Gen, we recognize the importance of eradicating human trafficking and slavery from our business and supply chain.
+Supply Chain Code of Conduct
+At Terra-Gen, we are committed to fostering ethical business practices and upholding the highest standards in our supply chain.
+Compliance Certification
+Our Supply Chain Code of Conduct establishes the standards and expectations for our suppliers, vendors, contractors, and agents.
+Reporting Concerns
+Suppliers are encouraged to report potential violations of policies and laws applicable to them. Your cooperation in maintaining compliance is valued and contributes to our commitment to ethical and legal business practices.
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/stakeholders/community/
+
+COMMUNITY
+Guided by our mission to provide affordable clean energy and have a meaningful impact on climate change, Terra-Gen is committed to empowering the communities where we operate.
+We partner with local communities to understand their priorities and create lasting benefits. From supporting education to investing in local infrastructure, Indigenous communities, and essential services, our initiatives are focused on what matters most to the people we serve.
+Youth Education and Development
+From helping students pursue higher education and career paths to sponsoring local youth sports, Terra-Gen is proud to invest in opportunities that inspire learning, teamwork and leadership in the communities we serve.
+Our Initiatives in Action
+Terra-Gen proudly supports a variety of local programs that help young people thrive, both inside and outside the classroom. Examples include:
+- Tuition Assistance Program: Helping graduating seniors pursue trade schools, colleges, and universities.
+- School Supply and Book Drives: Contributing to back-to-school fairs and literacy initiatives.
+- Mentorship and Career Days: Encouraging employees to volunteer and inspire future leaders.
+- Youth Sports Sponsorships: Providing access to enriching after-school sports and community recreation programs.
+Safety and Infrastructure
+At Terra-Gen, we’re proud to support the people and programs that help keep our communities safe and strong. From partnering with local emergency services and volunteer organizations, we support initiatives that make a lasting difference.
+Our Initiatives in Action
+- Local Fire Departments: Through partnerships with fire departments in the communities where we operate, Terra-Gen helps strengthen community safety by providing specialized training and coordinating tabletop exercises for first responders.
+- Mojave Air & Space Port: Terra-Gen supported the Mojave Air & Space Port’s Facilities Safety Fund, helping modernize safety equipment and expand radar capabilities with a newly integrated AWOS-3 system.
+- Senior Volunteer Program: Terra-Gen contributes to the Senior Volunteer Program, a nonprofit that supports the California Highway Patrol’s mission to provide safety, service, and security across the state.
+Cultural and Social Engagement
+At Terra-Gen, we believe strong communities are built through connection, celebration, and shared experiences. We’re proud to support local programs that preserve our history, celebrate our traditions, and bring people together.
+Our Initiatives in Action
+Terra-Gen supports events and organizations that bring people closer together and celebrate the unique spirit of our communities. Examples include:
+- Aviation and STEM Education: Terra-Gen supports local museums and educational programs that preserve history and inspire learning in science, technology, engineering, and math, like the Edwards Air Force Base Flight Test Museum’s SR-71 Blackbird exhibition.
+- Community Celebrations: We participate in and sponsor local events that foster connection, celebration, and community spirit, including holiday parades and charitable initiatives that support families and seniors.
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/stakeholders/landowners/
+
+Landowners
+At Terra-Gen, we value the strong partnerships we have built with landowners, suppliers, and community stakeholders as we work together toward a more sustainable energy future.
+Landowners play a vital role in helping Terra-Gen deliver clean energy across the country. By partnering with us, landowners can put their property to work in ways that provide stable, long-term benefits while supporting the transition to renewable energy.
+We develop wind, solar, and energy storage projects that fit alongside working lands, helping farmers and ranchers keep doing what they love while benefiting from a new source of income.
+Partnering with Terra-Gen offers you the following opportunities: fair compensation with reliable, long-term revenue potential; responsible land use that prioritizes safety, environmental care, and community well-being; and ongoing support from our dedicated landowner relations team.
+How we build partnerships
+- Land Lease
+- Terra-Gen initiates contact with the landowner to discuss project opportunities. If the location proves to be a good fit for a renewable energy project and the landowners are interested, Terra-Gen will work to execute a long-term lease agreement for renewable energy development.
+- Terra-Gen initiates contact with the landowner to discuss project opportunities. If the location proves to be a good fit for a renewable energy project and the landowners are interested, Terra-Gen will work to execute a long-term lease agreement for renewable energy development.
+- Design & Permitting
+- Terra-Gen carefully designs the project layout to optimize land use and efficiency, then manages the application process for all necessary permits and approvals to ensure compliance with local, state, and federal regulations. Terra-Gen performs comprehensive environmental assessments to develop responsibly.
+- Terra-Gen carefully designs the project layout to optimize land use and efficiency, then manages the application process for all necessary permits and approvals to ensure compliance with local, state, and federal regulations. Terra-Gen performs comprehensive environmental assessments to develop responsibly.
+- Construction
+- Terra-Gen’s contractor builds new access roads or upgrades existing ones, prepares the site for the project, builds essential infrastructure and installs all necessary equipment.
+- Terra-Gen’s contractor builds new access roads or upgrades existing ones, prepares the site for the project, builds essential infrastructure and installs all necessary equipment.
+- Operations
+- Once the facility becomes operational and begins producing electricity, the landowner receives lease payments, providing a steady source of income throughout the project’s lifespan.
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/careers/why-work-at-terra-gen/
+
+Why Work at Terra-Gen
+Choosing a career in clean energy means joining one of the fastest-growing sectors in the world and playing a direct role in shaping a more sustainable future.
+By developing and operating wind, solar, and battery storage projects, our teams are:
+- Driving Innovation – Working with cutting-edge technology to power the transition to cleaner energy.
+- Making a Difference – Reducing carbon emissions and helping build a healthier planet for future generations.
+- Building Communities – Creating jobs, strengthening local economies, and delivering reliable energy where it’s needed most.
+- Shaping the Future – Being part of an industry that is transforming how the world is powered.
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/careers/benefits-culture/
+
+Benefits & Culture
+Terra-Gen is committed to cultivating an environment that values the talents, perspectives, backgrounds and ideas our employees bring to work each day. We are committed to creating an environment where everyone can thrive.
+Our culture is built on collaboration, innovation, and a shared passion for creating a sustainable tomorrow.
+At Terra-Gen you will find:
+- High Performing – Our team is built on a high-performance mindset, focused on accountability, excellence and continuous improvement.
+- Impact & Purpose – The chance to make a difference by advancing North America’s clean energy future and strengthening local communities.
+- Collaboration & Culture –A culture where every voice matters and diverse perspectives are valued, ideas are encouraged, and teamwork drives results.
+- Comprehensive Benefits Package – Competitive benefits, resources for well-being, and financial benefits designed to support you.
+- Medical, dental and vision insurance
+- Flexible spending accounts
+- Life insurance
+- Short and long-term disability insurance
+- 401 K with company matching contributions
+- Employee assistance program
+- Equal Opportunity Employer – All qualified applicants are considered without regard to age, race, color, religion, sex, national origin, disability, veteran status, citizenship, or any other legally protected status
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/careers/job-openings/
+
+- Projects
+-
+-
+Our Projects
+-
+Project Portfolio
+- Wind Energy
+- Solar Energy
+- Energy Storage
+- Project Highlight
+- Interactive Map
+-
+-
+- About Us
+-
+-
+About Terra-Gen
+-
+-
+- Media Room
+- Stakeholders
+-
+-
+Stakeholder Resources
+-
+Stakeholder Resources
+- Suppliers
+- Community
+- Landowners
+-
+-
+- Careers
+- Contact
+
+--------------------------------------------------------------------------------
+
+URL: https://terra-gen.com/careers/machine-readable-files/
+
+- Projects
+-
+-
+Our Projects
+-
+Project Portfolio
+- Wind Energy
+- Solar Energy
+- Energy Storage
+- Project Highlight
+- Interactive Map
+-
+-
+- About Us
+-
+-
+About Terra-Gen
+-
+-
+- Media Room
+- Stakeholders
+-
+-
+Stakeholder Resources
+-
+Stakeholder Resources
+- Suppliers
+- Community
+- Landowners
+-
+-
+- Careers
+- Contact
+
+--------------------------------------------------------------------------------

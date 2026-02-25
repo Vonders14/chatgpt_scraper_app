@@ -1,0 +1,248 @@
+ROOT: https://tvigroup.com/
+SCRAPED_AT_UTC: 2026-02-11T20:42:08.283590Z
+PAGES_INCLUDED: 22
+
+================================================================================
+
+URL: https://tvigroup.com/
+
+Tennessee Valley Infrastructure Group, Inc. is a Top 10 Balance of Plant General Contractor in the Wind Power industry with a proven track record of completing several of the most challenging utility-scale wind power projects in North America.
+Since entering the wind power construction market in 2002, TVIG has consistently demonstrated its ability to successfully build quality wind projects on-time and in-budget, in various terrains including projects on steep mountain ridgelines, former EPA Superfund sites, situated on mine spoil, or projects of large scope covering 50 square miles or more. TVIG has completed the construction of projects totaling greater than 565 MW of wind power generating capacity.
+TVIG supports project developers, owners and utilities by providing a full range of construction services from project conception through construction completion.
+CleanPower Member
+
+--------------------------------------------------------------------------------
+
+URL: https://tvigroup.com/about
+
+Projects
+TVIG has been contracted to perform development and construction services for a number of wind projects. Outlined below are some of the projects that TVIG has successfully constructed or that are under construction.
+| Project | State | Year | Size (MW) | Voltage (Kv) | Utility | Turbine | Developer |
+|---|---|---|---|---|---|---|---|
+| Astra Wind | Texas | 2017 | 163 | 345 | Sharyland / ERCOT | GE 2.4-107 MW | Chermac |
+| Panther Creek Phase I | Texas | 2008 | 143 | 345 | TXU | GE 1.5 MW | Airtriciy (E.On) |
+| Panther Creek Phase II | Texas | 2009 | 115 | 345 | TXU | GE 1.5 MW | E.on |
+| Crossing Trails | Colorado | 2021 | 105 | 34.5 | Vestas V136 and V150 | EDPR | |
+| Laurel Mountain | West Virgina | 2010 | 91.5 | 138 | Allegheny Power / Manpower | GE 1.6 MW | AES |
+| Wolverine Creek | Idaho | 2005 | 64.5 | 161 | Pacificorp | GE 1.5 MW | Invenery |
+| Highmore | South Dakota | 2003 | 40.5 | 69 | Basin Electric Coop (PPA) / Otter Tail (wheel) | GE 1.5 MW | FPL (NextEra) |
+| Buffalo Mountain | Tennessee | 2004 | 27 | 161 | TVA | Vestas V-80 | FPL (NextEra) |
+| Munnsville | New York | 2007 | 20 | 115 | NiMo / National Grid | Clipper | BQ Energy/UPC (First Wind) |
+| Steel Winds II | New York | 2011 | 15 | 115 | NiMo / National Grid | Clipper 2.5 MW | First Wind |
+| Pantex | Texas | 2013 | 11.5 | 12.47 | Xcel Energy | Siemens 2.3 MW | Siemens Government Technologies |
+| Kimball | Nebraska | 2002 | 10.5 | 34.5 | Kimball (muni) | NEG Micon | Municipal Energy Agenty of Nebraska (MEAN) |
+| Pioneer Grove | Iowa | 2012 | 6 | 69 | Alliant Energy | AW116/3000 | Acciona |
+
+--------------------------------------------------------------------------------
+
+URL: https://tvigroup.com/home6c38f35f
+
+Management Team
+Peter F. de Vos
+Chairman, CEO
+Mr. de Vos is Chairman and CEO of TVIG. Prior to joining TVIG, Mr. de Vos served for eight years as Head of U.S. Investment Banking for RBC Capital Markets, the corporate and investment banking arm of RBC, the world's 10th - largest bank by market capitalization. At RBC, he oversaw the firm's investment banking businesses in the U.S., and built a team that was recognized by Investment Dealer's Digest as "Mid-Market Investment Bank of the Year" in 2009. Mr. de Vos joined RBC Capital Markets in 2001 upon the firm's acquisition of Minneapolis-based Dain Rauscher Wessels, where he had served as the head of investment banking and helped guide the firm through its acquisition by RBC. Formerly, Mr. de Vos was with Stephens, Inc., Alex Brown & Sons and Morgan Stanley.
+After graduating from the U.S. Naval Academy with merit, Mr. de Vos joined the U.S. Submarine service, where he was licensed by the Nuclear Regulatory Agency to run nuclear reactors. He served aboard two submarines and also as the Washington, D.C.-based assignment officer for all nuclear-trained submarine officers. After leaving the Navy, Mr. de Vos attended the Stanford Graduate School of Business and graduated as an Arjay Miller Scholar.
+Mr. de Vos serves on the board of the United States Navy Academy Foundation and previously served on the Board of the Stanford Graduate School of Business Trust.
+Richard H. Ector
+Vice Chairman
+Founder, Director
+Mr. Ector is Vice Chairman of TVIG. The experience he has gained in over 35 years of management, project management and engineering in the energy industry allows Mr. Ector to understand project details while focusing on big picture issues. He has experience in both fossil fuel-fired and nuclear power plants in addition to the wind energy projects that TVIG has constructed.
+Mr. Ector founded TVIG in 1998. He began his career in the energy sector as chief engineer on an US Navy nuclear submarine, followed by ten years in the commercial nuclear industry, culminating as Assistant Site Director and a Senior Reactor Operator at Watts Bar Nuclear Plant for the Tennessee Valley Authority. Mr. Ector also served for fourteen years as a diplomat with the US Department of State, focusing on international nuclear proliferation issues.
+Mr. Ector has a Bachelor of Science degree from the US Naval Academy.
+David Kiefer
+Construction Manager
+Mr. Kiefer is a Construction Manager for TVIG. He has more than 35 years of experience in heavy civil, industrial and wind farm, construction. His extensive experience in civil engineering and construction has proven to be a great asset to TVIG in the areas of constructability analysis, engineering review, planning, estimating and construction management. He was the Construction Site Manager for the 91.5 MW AES-Laurel Mountain wind farm project built on a West Virginia mountain ridgeline and the 15 MW First Wind Project on the former Bethlehem Steel property in Buffalo, New York, a designated Brownfield site. Prior to joining TVIG Mr. Kiefer managed the construction of four (4) large wind farm construction projects totaling over 425 MW of installed capacity, for White Construction and Siemens Energy, Inc.
+During his career Mr. Kiefer has held the titles of Senior Project Manager, Senior Project Engineer, Construction Site Manager, Superintendent and was the owner of his own contracting business for 13 years. He was a Licensed Professional Engineer in the states of Indiana, Kentucky & Pennsylvania.
+Mr. Kiefer holds a Bachelor of Science in Civil Engineering from Clarkson University in Potsdam, NY.
+
+--------------------------------------------------------------------------------
+
+URL: https://tvigroup.com/contact
+
+Environmental, Health and Safety
+TVIG policy is to place the health, safety, and protection of the environment of personnel and property above other concerns, and to establish a "ZERO Incident / Injury Culture" for all aspects of TVIG's business. TVIG seeks to enlist the help and involvement of the Owner, the property owners, and all employees, subcontractors, and suppliers to ensure that work is planned and performed safely; that work areas are free from recognized hazards; and that, as a minimum, work is carried out in compliance with applicable safety laws and additional contractual requirements.
+Environmental / Safety Policies, Programs, and Requirements
+The objective of the TVIG Environmental / Safety Management Program, and specifically the Policies, Programs, and Requirements contained within the Safety Environmental / Management Program, is to provide working conditions that are free of recognized safety hazards through comprehensive planning, education, and training of employees and subcontractors with a specific emphasis on:
+- Pre-Task Hazard Analysis / Planning
+- Hazard Recognition
+- Hazard Abatement
+- Joint Development and Implementation of Safe Work Practices (Safety Task Protocols)
+- Effective and Timely Response to On-Site Emergencies
+TVIG Environmental / Safety Management Program
+- Volume 1 - Environmental / Safety Policies, Programs and Requirements contains TVIG policies, programs and OSHA compliant safety requirements common to all work, corporate and project related.
+- Volume 2 - Site Specific Hazard Analysis and Emergency Planning Information contains guidelines and/or requirements for creating site-specific information including; site specific hazard information, site specific control measures, and emergency response procedures including spill prevention / response as well as other required environmental control measures.
+- Volume 3 - Safety Management Systems describes the Safety Management System which, as with Volume 1, is common to all projects. It defines how the policies, programs, and OSHA compliant safety requirements defined in Volumes 1 and 2 are managed.
+Environmental / Safety Management Team
+A cornerstone to the design of TVIG's Environmental / Safety Management Program is the belief that "Safety is everyone's responsibility" and requires all employees, line management, and safety staff working together to create and sustain a safe work environment. In accordance with the above stated belief, TVIG's Safety Management Program places ultimate accountability for implementation of environmental / safety policies, programs and requirements on Line Managers assigned to direct and/or manage daily construction activities. TVIG recognizes that in order to create a "Zero Incident / Injury Culture" you must have alignment on not just the objective, but also on the means and methods that will be utilized to achieve the objective. As such onsite Subcontractors will be required to align their safety policies, programs and requirements to achieve the objectives of TVIG's Environmental / Safety Management Program. This requirement includes but is not limited to assignment of project safety staff, safety training, audits, inspections, observations, safety committees, safety reporting and documentation, and emergency planning and response.
+
+--------------------------------------------------------------------------------
+
+URL: https://tvigroup.com/career
+
+Careers
+TVIG believes that employees who share our values of competence, integrity, accountability, safety and respect are essential to our business.
+TVIG and American Helios Constructors are currently seeking employment for a Project Manager, Site Manager and a Client Coverage and Business Development Officer.
+The Project Manager position will plan, direct, and coordinate activities of designated wind and solar projects to ensure that goals or objectives of the project are accomplished within prescribed time frame and funding parameters.
+The Site Manager will plan, direct, and coordinate activities of designated wind and solar projects from the project site to ensure that goals or objectives of project are accomplished within prescribed time frame and funding parameters.
+The Master Electrician position will work on job sites. Prefer solar PV experience.
+If you are interested in discussing these opportunities and obtaining additional information regarding the available positions with TVIG and American Helios Constructors, please contact Melissa Raley at (423) 266-0502 or email here.
+
+--------------------------------------------------------------------------------
+
+URL: https://tvigroup.com/vendor
+
+Engineering, Procurement and Construction Contractor
+Pre-qualification Information
+TVIG believes that partnering with qualified subcontractors who share our values of competence, integrity, accountability, safety and respect is essential to our business. We are actively seeking to improve our network of qualified subcontractors. To request a pre-qualification form, please email Melissa Railey here.
+
+--------------------------------------------------------------------------------
+
+URL: https://tvigroup.com/contacts
+
+Contact Us
+By Mail:
+Tennessee Valley Infrastructure Group, Inc.
+250 S. President St., Unit 310
+Baltimore, MD 21202
+Office: 423-266-0502
+By Mail:
+Tennessee Valley Infrastructure Group, Inc.
+250 S. President St., Unit 310
+Baltimore, MD 21202
+Office: 423-266-0502
+TVIG, Inc. | Privacy Policy
+
+--------------------------------------------------------------------------------
+
+URL: https://tvigroup.com/astra-wind
+
+Astra Wind Farm– Happy, TX
+Tennessee Valley Infrastructure Group, Inc. (TVIG) completed construction of the 163 MW Astra Wind Farm in Happy, Texas in June 2017. TVIG did the work through its wholly owned subsidiary Astra Construction, LLC.
+The Astra project is located about thirty miles southwest of Amarillo, Texas on approximately 8,320 acres of land previously used for agricultural and ranching activities. The wind farm is owned by a subsidiary of Falvez Energy, LLC and was financed by GE. Astra is located in the Competitive Renewable Energy Zone (CREZ) in Texas and serves the eastern Texas load areas including Houston, Dallas and San Antonio.
+Originally contracted in 2013, initial construction began in that year to comply with tax safe-harbor requirements. The project construction began in September 2016 and was completed in May 2017.
+TVIG’s scope included the design of the entire project including sixty-eight GE 2.4-107 turbines with 107 meter rotors with a total nameplate capacity of 163.2 MW, as well as the civil and foundation construction and construction of the operations and maintenance facility.
+
+--------------------------------------------------------------------------------
+
+URL: https://tvigroup.com/panther-creek-phase-i
+
+Panther Creek Wind Farm (Phase I and II) – Big Springs, TX
+TVIG was BOP general contractor for E.On’s 258 MW capacity Panther Creek Wind Farm, the largest wind project built in 2008. TVIG’s scope of work included 55 miles of roads, 172 WTG foundations, the turbine erection, electrical collection system and overhead power lines. The 45-square mile west Texas site was dotted with oil and gas wells, which presented many challenges. The project provides energy to the ERCOT system.
+Panther Creek Wind Farm (Phase I and II) – Big Springs, TX
+TVIG was BOP general contractor for E.On’s 258 MW capacity Panther Creek Wind Farm, the largest wind project built in 2008. TVIG’s scope of work included 55 miles of roads, 172 WTG foundations, the turbine erection, electrical collection system and overhead power lines. The 45-square mile west Texas site was dotted with oil and gas wells, which presented many challenges. The project provides energy to the ERCOT system.
+
+--------------------------------------------------------------------------------
+
+URL: https://tvigroup.com/panther-creek-phase-ii
+
+Panther Creek Wind Farm (Phase I and II) – Big Springs, TX
+TVIG was BOP general contractor for E.On’s 258 MW capacity Panther Creek Wind Farm, the largest wind project built in 2008. TVIG’s scope of work included 55 miles of roads, 172 WTG foundations, the turbine erection, electrical collection system and overhead power lines. The 45-square mile west Texas site was dotted with oil and gas wells, which presented many challenges. The project provides energy to the ERCOT system.
+Astra Wind Farm– Happy, TX
+Tennessee Valley Infrastructure Group, Inc. (TVIG) completed construction of the 163 MW Astra Wind Farm in Happy, Texas in June 2017. TVIG did the work through its wholly owned subsidiary Astra Construction, LLC.
+The Astra project is located about thirty miles southwest of Amarillo, Texas on approximately 8,320 acres of land previously used for agricultural and ranching activities. The wind farm is owned by a subsidiary of Falvez Energy, LLC and was financed by GE. Astra is located in the Competitive Renewable Energy Zone (CREZ) in Texas and serves the eastern Texas load areas including Houston, Dallas and San Antonio.
+Originally contracted in 2013, initial construction began in that year to comply with tax safe-harbor requirements. The project construction began in September 2016 and was completed in May 2017.
+TVIG’s scope included the design of the entire project including sixty-eight GE 2.4-107 turbines with 107 meter rotors with a total nameplate capacity of 163.2 MW, as well as the civil and foundation construction and construction of the operations and maintenance facility.New Paragraph
+
+--------------------------------------------------------------------------------
+
+URL: https://tvigroup.com/crossing-trails
+
+Crossing Trails, Colorado
+TVIG, along with their JV partner, IBT Group, built a 105 MW wind farm project in Seibert, Colorado for one of the premier developers in North America consisting of 25 Vestas V136 and V150 turbines. The project was started in March 2020 and is currently Substantially Complete.
+Final Completion, seeding and reclamation are the final remaining work scope items. Among the significant challenges were the six-week delay in turbine deliveries due to the worldwide Covid impact which pushed Substantial Completion into the beginnings of winter on this Colorado plains project site.
+Due to tight safety management, the Project was completed with no significant Covid related personnel impacts as TVIG, subcontractors and the client worked cooperatively in safety and schedule management. Final Completion is dependent upon 70% of seeding growth on reclaimed areas which is not expected to be achieved until mid/late July 2021.
+
+--------------------------------------------------------------------------------
+
+URL: https://tvigroup.com/laurel-mountain
+
+Laurel Mountain Wind Farm Project – Elkins, WV
+TVIG was general contractor for a project on a ragged ridgeline in central West Virginia built for AES Laurel Mountain, LLC. TVIG was responsible for the design/build of the project, including civil and electrical design, roads, foundations, substation, electrical collection system, and turbine erection.
+The project consisted of sixty-eight GE 1.6 XLE Wind Turbine Generators; the turbine installation required extensive clearing and major civil and earthwork cut-and-fills to minimize steep grades. The civil work included drilling and rock blasting, as well as precision traffic management necessitated by a single point of entry and exit. Narrow track crane movements were required along a mountain ridge line with steep grades, made more challenging by severe winter weather.
+The 91.5 MW project was completed in 2011.
+
+--------------------------------------------------------------------------------
+
+URL: https://tvigroup.com/wolverine-creek
+
+Wolverine Creek Wind Farm – Idaho Falls, ID
+The Wolverine Creek Project includes 43 GE 1.5 MW turbines on a large property east of Idaho Falls, Idaho. TVIG was contracted to provide a balance of plant and WTG erection services to Invenergy, LLC. The project was completed in December 2005.
+
+--------------------------------------------------------------------------------
+
+URL: https://tvigroup.com/highmore
+
+Highmore Wind Farm – Highmore, SD
+TVIG was the BOP general contractor for this 40.5 MW project built for FPL in 2003. Located in central South Dakota, TVIG’s scope of work included the site roads, foundations, the turbine erection, collection system and the substation.
+
+--------------------------------------------------------------------------------
+
+URL: https://tvigroup.com/buffalo-mountain
+
+Buffalo Mountain Wind Farm – Oliver Springs, TN
+TVIG was BOP general contractor Invenergy’s first wind project, which was completed in 2004. The project was located on a mountain top overlooking Oak Ridge, Tennessee and included 15 Vestas V-80 turbines. TVIG was responsible for building the roads, foundations, and performing the turbine erection. Buffalo Mountain was a ridgeline project with steep grades, sub-surface coal-mine spoils. The site characteristics dictated single-blade turbine erection.
+Buffalo Mountain Wind Farm – Oliver Springs, TN
+TVIG was BOP general contractor Invenergy’s first wind project, which was completed in 2004. The project was located on a mountain top overlooking Oak Ridge, Tennessee and included 15 Vestas V-80 turbines. TVIG was responsible for building the roads, foundations, and performing the turbine erection. Buffalo Mountain was a ridgeline project with steep grades, sub-surface coal-mine spoils. The site characteristics dictated single-blade turbine erection.
+
+--------------------------------------------------------------------------------
+
+URL: https://tvigroup.com/empty-page
+
+Munnsville Wind Farm - Munnsville, NY
+TVIG built a 34.5 MW project for Airticity in 2007. The project consists of twenty-three GE 1.5 XLE Wind Turbine Generators on a site covered in soft, rolling hills in an Upstate New York agricultural area with many farms and dairies present. To protect considerations of property owners, several challenges required extra care with access design for minimal impact on agriculture. TVIG was required to meet stringent New York Department of Agricultural and Market requirements. We worked closely with authorities to execute the project with no violations.
+TVIG was the BOP general contractor for roads, foundations, turbine erection, collection system and the substation.
+
+--------------------------------------------------------------------------------
+
+URL: https://tvigroup.com/steel-winds-ii
+
+Steel Winds II Wind Farm – Buffalo, NY
+In 2011 TVIG was general contractor for First Wind’s 15 MW project on the Lackawanna, New York former steel mill. This second-phase expansion project installed eight additional Clipper Liberty 2.5 MW Wind Turbine Generators to the original set of eight.
+TVIG’s scope of work included all design/build of the project, including civil, structural and electrical design, site grading and roads, foundations, substation modernization, underground and overhead electrical collection system, closed-circuit television system and WTG transportation and erection. Construction on this brownfield site, which consisted of non-native (steel slag) soil conditions required a special procedure for foundation deep dynamic compaction, as well as special RCRA environmental compliance procedures. The electrical work included modernizing a 1960's era substation with 21st century protection and control technology.
+
+--------------------------------------------------------------------------------
+
+URL: https://tvigroup.com/steel-winds-ii9f1b79da
+
+Pantex Wind Farm, Panhandle, TX
+TVIG completed the Pantex project in 2013 as a component of a Federal Energy Savings Performance Contract (ESPC). TVIG was the EPC teaming partner and key subcontractor to the prime contractor, Siemens Government Technologies. The team developed a solution and was selected based on its innovative proposal to save Pantex $2.8 MM in annual energy costs. TVIG was able to help achieve the 25% small business participation requirement through its significant scope of work and its Service-Disabled Veteran-Owned Business (SDVOSB) status.
+The project owner for the project is the National Nuclear Security Agency (NNSA), Pantex Facility; the wind farm employed Siemens 2.3 MW turbines with 101 meter rotors and totaled 11.5 MW.
+Due to the nuclear aspects of the facility, security requirements were very high and often armed Pantex security escorts were required to observe during certain construction evolutions. Security clearance requirements and the communication and coordination requirements for this project were significantly higher and more critical than typical wind farm projects.
+TVIG's scope included the design and construction of the entire project including: installation of five Siemens turbines, civil and foundation construction, and the design and installation of the underground and overhead 34.5 kV energy collection and distribution system to connect the turbines to the Pantex distribution substation.
+Pantex is now the largest federally owned wind farm in the USA.
+
+--------------------------------------------------------------------------------
+
+URL: https://tvigroup.com/kimball
+
+Kimball Nebraska Wind Farm Project – Kimball, NE
+TVIG was the EPC/BOP general contractor for this project built for Municipal Energy Agency of Nebraska near Kimball, Nebraska. Completed in 2002, the project is comprised of seven NEG Micon turbines totaling 10.5 MW. TVIG provided the turbine and substation procurement, as well as the construction of the roads, foundations, turbine erection, collection system and the substation. TVIG also provided the turbine siting, permitting, and interconnect studies.
+
+--------------------------------------------------------------------------------
+
+URL: https://tvigroup.com/pioneer-grove
+
+Pioneer Grove Wind Farm, Tipton, IA
+The Pioneer Grove Wind Farm, which TVIG completed in 2012, is located near Tipton, Iowa at the site of the Acciona’s wind turbine manufacturing location. This is Acciona’s North American pilot demonstration project for both its flagship 3.0 MW turbine, the AW116/3000, and its unique 100 meter concrete tower design.
+The project consists of one AW116/3000 turbine on a 100 meter concrete tower and one AW116/3000 on a 92 meter steel tower for a total project size of six megawatts. A 6-mile, 12 kV collection system connects the wind project to a 69 kV step up substation. TVIG was the BOP General Contractor whose scope of work included civil and foundation construction, turbine/concrete tower erection, and the electrical collection and substation.
+A unique challenge to this project was the installation of the 100 meter concrete tower. A tower of its kind had not been erected in North American and the installation manual was in Spanish. TVIG was instrumental in helping Acciona develop the installation procedures and the conversion of the manual in English.
+
+--------------------------------------------------------------------------------
+
+URL: https://MRailey@tvigroup.com/
+
+Tennessee Valley Infrastructure Group, Inc. is a Top 10 Balance of Plant General Contractor in the Wind Power industry with a proven track record of completing several of the most challenging utility-scale wind power projects in North America.
+Since entering the wind power construction market in 2002, TVIG has consistently demonstrated its ability to successfully build quality wind projects on-time and in-budget, in various terrains including projects on steep mountain ridgelines, former EPA Superfund sites, situated on mine spoil, or projects of large scope covering 50 square miles or more. TVIG has completed the construction of projects totaling greater than 565 MW of wind power generating capacity.
+TVIG supports project developers, owners and utilities by providing a full range of construction services from project conception through construction completion.
+CleanPower Member
+
+--------------------------------------------------------------------------------
+
+URL: https://MRailey@tvigroup.com/?subject=Pre-Qualification%20Request
+
+Tennessee Valley Infrastructure Group, Inc. is a Top 10 Balance of Plant General Contractor in the Wind Power industry with a proven track record of completing several of the most challenging utility-scale wind power projects in North America.
+Since entering the wind power construction market in 2002, TVIG has consistently demonstrated its ability to successfully build quality wind projects on-time and in-budget, in various terrains including projects on steep mountain ridgelines, former EPA Superfund sites, situated on mine spoil, or projects of large scope covering 50 square miles or more. TVIG has completed the construction of projects totaling greater than 565 MW of wind power generating capacity.
+TVIG supports project developers, owners and utilities by providing a full range of construction services from project conception through construction completion.
+CleanPower Member
+
+--------------------------------------------------------------------------------

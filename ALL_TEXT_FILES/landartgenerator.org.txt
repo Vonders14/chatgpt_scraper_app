@@ -1,0 +1,989 @@
+ROOT: https://landartgenerator.org/
+SCRAPED_AT_UTC: 2026-02-11T20:17:57.725765Z
+PAGES_INCLUDED: 22
+
+================================================================================
+
+URL: https://landartgenerator.org/
+
+Solar Leaf by Iman Sheikhansari (Iran) incorporates solar photovoltaic, battery storage, and rainwater harvesting to produce 120 MWh of electricity and 600,000 liters of filtered each year. A submission to LAGI 2025 Fiji, held in collaboration with the Village of Marou.
+WindNest by Trevor Lee incorporates compact acceleration wind turbines and thin film solar to generate an annual capacity of 30 MWh. The submission to the Land Art Generator Initiative 2010 design competition for Abu Dhabi (LAGI 2010) was re-imagined and constructed full-scale for SEE MONSTER, a part of the UNBOXED UK Festival in 2022.
+MEAnder by Ryan Henel and Craig Sponholtz is the chosen design from the LAGI-MEA invited design competition for the Modern Elder Academy’s regenerative ranch, Saddleback, south of Santa Fe, New Mexico. Images courtesy of the artist team (rendering by Ryan Bromberg).
+Plane of Water by Zsuzsa Péter incorporates organic photovoltaic (OPV) solar to generate 40 MWh each year. The artwork provides additional social co-benefits including shaded public space, water harvesting, and urban garden. A shortlisted entry to the 2022 Land Art Generator Initiative design competition for Mannheim in partnership with BUGA 23.
+International open-call competitions for the UAE, New York City, Copenhagen, Santa Monica, Melbourne, Abu Dhabi, Fly Ranch, Fiji, and Mannheim have resulted in nearly 2,000 designs from creative teams across more than eighty countries.
+Youth tinker with solar technology during the 2015 Art+Energy Camp.
+Land Art of the 21st Century published by Hirmer Verlag for LAGI 2020 Fly Ranch, a partnership with Burning Man Project.
+Choose Earth is a Land Art Generator Solar Mural by artist Peggy Flavin. It provides about 2,500 kilowatt-hours of clean solar electricity each year to power the Pump House on W. Broadway (U.S. Rt 191) Jackson, Wyoming.
+Partners and supporters have included Fiji Arts Council, Burning Man Project, NYC Department of Parks and Recreation, City of Copenhagen, World Energy Congress, European Union Commission on Climate Action, Zayed University, City of Santa Monica, J.M. Kaplan Fund, Masdar Abu Dhabi, National Endowment for the Arts, Capital Region of Denmark, Danish Design Centre, City of Glasgow, State of Victoria Australia, Carbon Arts, Creative Carbon Scotland, Climarte, Arizona State University, Village of Marou Fiji, German Federal Garden Show, and many more. The LAGI archives are collected by the Nevada Museum of Art, Institute for Art + Environment.
+LAGI 2010 exhibition at the 2011 World Future Energy Summit. United Nations Secretary General Ban Ki-Moon visits the first exhibition of designs submitted to the biennial LAGI design competition. His guide was overheard explaining to him that “renewable energy can be beautiful.” Photo by Roger White. Thank you to Masdar City for supporting LAGI 2010.
+The Land Art Generator engages communities, artists, and engineers to co-design clean energy as public space, culture, and shared civic infrastructure. We’d love to collaborate—reach out to explore a project, partnership, or call for artists.
+A Field Guide to Renewable Energy Technologies is available for free PDF download.
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/steam-education/
+
+Learning & Resources
+Education is central to the Land Art Generator. By exploring innovative and artful applications of sustainable technologies, our programs spark curiosity and invite learners to engage with science, technology, engineering, and math through creative practice.
+LAGI places equal importance on engaging people of all ages, recognizing that the energy transition requires both early inspiration and lifelong learning. For young students, hands-on design experiences cultivate foundational literacy in energy, climate, and systems thinking. For university students and emerging professionals, LAGI offers opportunities to test ideas at real-world scales, bridging theory and practice. For adults and community members, our projects create accessible entry points to understanding renewable energy as a shared civic resource—embedded in public space, culture, and daily life. By working across generations, LAGI helps build a common language around sustainability—one that connects imagination with technical understanding, and individual curiosity with collective responsibility.
+LAGI’s educational work exemplifies a STEM-to-STEAM, project-based learning approach. As students design their own land art generators, middle school and high school participants develop applied understanding of concepts such as energy conversion efficiency and capacity factor, and become familiar with measuring and comparing energy in kilowatt-hours. At the same time, they apply principles of form, shape, color, and composition while engaging with ideas from urban planning and whole-systems design—skills increasingly recognized as essential for twenty-first-century problem solving.
+LAGI offers workshops and programs ranging from short sessions to multi-week Art + Energy camps and think tanks, working with learners of all ages. This page includes a selection of free educational tools and resources developed by LAGI to support educators, students, and community groups.
+Contact us to learn more about programming for youth or adults, guest lectures on the aesthetics of renewable energy, Art + Energy camps, exhibitions, or custom programs designed to engage communities in shaping their sustainable energy landscapes.
+Field Guide To Regenerative Water Technologies
+This water guide is organized by technology type, but you will find they often function most efficiently when designed as integrated systems of more than one technology type where flows of heat, electricity, and water work in harmony. Almost every one of the technologies in this water guide can be paired with solar electricity or solar thermal systems, providing abundant and carbon-free energy from the sun as the primary feedstock to locally defy entropy and limit the need for external resources.
+Field Guide To Renewable Energy Technologies
+The future we would like to see is one in which we are surrounded by the most diverse ecosystem of renewable energy technologies and landscapes, each a reflection of local culture and context. This guidebook will help you determine if that object that you find so beautiful is a semiconductor-based artificial photosynthetic cell, a piezoelectric generator, a triboelectric fabric, or a dye-sensitized solar cell. What is the future that you would like to see? Use this guide and design your own renewable energy landscapes!
+Kleingarten
+In this tiny corner of your world you’ll work and play with Neighbors while becoming a Master Grower. With each turn of the game you will build new features that will eventually yield a multiplying harvest of Resources. Share with Neighbors, support community events, and learn from Master Growers as you earn Victory Points along the way. Each player creates a unique horticultural space (their own Kleingarten!) where they harvest energy and water, grow a variety of plants, and raise small animals.
+Dual language English/German
+Download Game
+Regenerate!
+Dream, Design, Deploy
+Regenerate! is a collaborative resource management game in which players navigate regenerative land stewardship, sustainable development, and systems design thinking.
+This project emerged from the LAGI 2020 Fly Ranch Design Challenge. The game was developed in collaboration with the Land Art Generator Initiative, Tunnel Monster Collective, and the Fly Ranch Project.
+Infographics
+The Land Art Generator creates information graphics that communicate key facts about energy production and consumption, land use, and pathways toward a post-carbon future. These infographics have been cited and reproduced by numerous institutions, including the International Energy Agency.
+Art + Energy Flash Cards
+Science, technology, engineering, design, and art all come together in this kit!
+The Land Art Generator Art+Energy Flash Cards are designed to strengthen the pragmatic problem solving skills needed to address solutions for 21st century energy challenges by offering an engaging tool for science education. They highlight real world applications of STEAM objectives and teach about the importance of sustainability in design.
+Dual language English/Danish
+Download Flash Cards
+Solve the Climate Puzzle
+The goal of this STEAM educational game is to be the first player to solve a complete six-piece puzzle. Answer renewable energy trivia questions correctly to get puzzle pieces.
+POWER:
+Art + Energy Card Game
+Play to ZERO to win the great energy transition!
+The twenty-three stunning artworks that are featured on these cards have the benefit of providing clean energy to the city. Together they could power 26,307 homes, demonstrating how our cities and landscapes can become more beautiful as they become more sustainable.
+Land Art Generator Archives
+The Institute for Art + Environment at the Nevada Museum of Art houses the archives of our organization. Researchers interested in the Land Art Generator are encouraged to contact the Museum directly.
+Idea Generator Game
+There are five dice categories. Look through example images of each category to get a clear understanding of what each one means. Use all five, or leave one or more categories to your imagination by reducing the number of dice.
+By playing this game you will begin imagining renewable energy technologies in everyday places—housed in creative forms—and begin to design your own land art generators that could live in your backyard, neighborhood, or city center.
+Engagement
+Cultural institutions, universities, and municipalities are invited to collaborate with the Land Art Generator on workshops, immersive camps, and facilitated think tanks.
+We work with artists, educators, adults, and community stakeholders to design programs that integrate art, renewable energy, and systems thinking—supporting public engagement, interdisciplinary learning, and dialogue around climate and the built environment.
+These collaborations can result in strategic planning documents, public programs, youth camps, site-specific educational initiatives, and more.
+LAGI SEE MONSTER
+Art & Energy Challenge
+The LAGI SEE MONSTER Art & Energy Challenge is a chance for students to put their design and technology knowledge and skills to the test!
+Students age 12–18 are invited to imagine an work of public art for the Weston-super-Mare seaside that uses renewable energy technology as the medium for the art.
+We provide a Toolkit that guides you through the design process step by step.
+Youth Prize
+To coincide with the LAGI 2016 professional competition, we launched a Youth Prize that invited students to engage directly with the design challenge. Participants worked from a custom Youth Prize design brief and a 13-step Toolkit of activities developed to guide teachers and students through the full design process—from concept to proposal—for a land art generator located adjacent to the Santa Monica Pier.
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/leadership/
+
+Leadership
+The Land Art Generator Initiative (LAGI) was founded in 2008 by Elizabeth Monoian and Robert Ferry to harness the power of art and design in accelerating the global response to climate change. LAGI works with communities worldwide to conceive and realize public art installations that generate renewable energy, harvest water, and provide other essential human-support systems across a range of scales.
+Through open-call international design competitions, invited competitions, and participatory design processes, LAGI has built a portfolio of thousands of design proposals and cultivated a global network of artists, designers, engineers, and researchers committed to advancing a post-carbon future that is not only viable, but also beautiful.
+Elizabeth and Robert have published, exhibited, and presented globally on the aesthetics of renewable energy and the role of art in providing solutions to climate change. Their publications include Climate Art (2025), Land Art as Climate Action (2022), Land Art of the 21st Century (2020), Return to the Source (2019), Energy Overlays (2018), Powering Places (2016), New Energies (2014), Regenerative Infrastructures (2012), The Time is Now: Public Art of the Sustainable City (2010), A Field Guide to Renewable Energy Technologies, and A Field Guide to Regenerative Water Technologies. See our publications page for more information and for links to purchase.
+Elizabeth Monoian
+Founding Co-Director and CEO
+Elizabeth Monoian is the founding co-director of the Land Art Generator Initiative (LAGI), where she leads the development of creative and social strategies that address climate challenges through art and design. She collaborates with cities, universities, corporations, cultural institutions, and community organizations to structure complex public–private partnerships and deliver tailored approaches to sustainable infrastructure with meaningful social co-benefits. Elizabeth has published, exhibited, and lectured internationally on the aesthetics of renewable energy and the role of art and design in advancing climate solutions and the energy transition. She holds an MFA from Carnegie Mellon University and has received numerous international honors, including the JMK Innovation Prize, Premio Brote Artístico, the Nick Reeves Award for Arts and the Environment, and the Zayed University Provost’s Research Fellowship.
+Robert Ferry
+Founding Co-Director and COO
+Robert Ferry is a registered architect and LEED accredited professional with decades of professional practice experience on both consultant and client sides. He has worked as design manager and project manager on sustainable new urbanist developments across the United States and spent four years as a consultant on large commercial projects in Abu Dhabi, where his focus shifted to ways in which buildings can move beyond net-zero and contribute to the energy needs of the surrounding city. His concept designs pushing the envelope of building-integrated renewable energy technology have been published widely. Through the Land Art Generator, he helps support the critical role of architecture and urban design as part of a comprehensive solution to climate change. Robert is the co-founder of the Land Art Generator, partner at Studied Impact Design, and a graduate of Carnegie Mellon University.
+Board of Directors
+Todd Bartholf
+Owner and Renewable Energy Consultant at Todd Bartholf Consulting
+LAGI Board Chair
+Todd Bartholf is an independent renewable energy consultant and has been active in the industry for over 35 years. He founded his first solar and wind contracting firm in Colorado at the age of 27, was president of an internationally respected systems integration design-build contractor for high-reliability renewable energy applications from 1988–1991 and a senior program officer with the renewable energy team at the international development assistance NGO, Winrock International, through 1996. More recently he held the position of Global Market Segment Director for Renewable Energy at a multinational Fortune 100 environmental engineering firm where he led the design and delivery of numerous large-scale initiatives for a variety of clients in both the public and private sectors, including as energy team lead for the company’s overall project manager role on the MASDAR project in Abu Dhabi from 2006–2010.
+Christopher Choa
+Founder at OUTCOMIST
+Chris Choa creates sustainable urban value with outcome-oriented masterplanning and program management. An advocate of impact investment, he is known for his entrepreneurial initiative and as a catalyst for growth. A Global Trustee of the Urban Land Institute, Choa is an active board member for a wide range of organizations related to real-estate, urban mobility, energy, and digital design. Prior to OUTCOMIST, Choa led AECOM’s Cities Consulting practice, and was an appointed advisor to the Mayor of London. He is a frequent public speaker and moderator. Chris holds a Master of Architecture (M. Arch) from Harvard University Graduate School of Design and a Bachelor of Arts (B. A.) from Yale University.
+Deborah Hosking
+Artist
+Deborah Hosking is a media professional, fine artist, and photographer whose career has crossed continents, disciplines and media. Painter, photographer, video/installation artist and filmmaker, her work has been seen in New York, Hong Kong, Paris, Los Angeles, Prague and, of course, Pittsburgh, as well as in film festivals around the country, with a number of awards to her credit. She holds a BFA from Carnegie Mellon University and an MFA in Film & Digital Media from Chatham University.
+Tim Mollette-Parks
+Associate Principal at Mithun
+Tim Mollette-Parks brings extensive experience delivering landscape projects of high-design quality in complex urban conditions. Tim’s resume of urban design and built landscape work is characterized by thoughtful design strategies that are highly conceptual, yet clear and flexible enough to endure a project’s changing demands. These design strategies emanate from a careful understanding of the local cultural, ecological and programmatic context. The resulting spaces are functional, delightful and firmly rooted in a sense of place. Working in a wide range of scales and budgets, Tim has been project manager and designer on high-profile landscapes, including work at previous firms such as the Broad Museum Plaza and Streetscape in Los Angeles, the Seaside Way Pedestrian Bridge in Long Beach, the new gardens of the Cooper Hewitt National Design Museum in New York City as well as connectivity and urban design strategies for Los Angeles Metro’s Crenshaw-to-LAX light rail line.
+Martin J. Pasqualetti
+Professor, School of Geographical Sciences and Urban Planning, Arizona State University
+Martin Pasqualetti is a professor in the School of Geographical Sciences and Urban Planning at Arizona State University and former Co-Director of the Energy Policy Information Council (EPIC). He is an elected Fellow of the American Association of Geographers; a recipient of the Alexander and Ilse Melamid Medal (American Geographical Society), and the 2018 Distinguished Alumnus of the Year at the University of California (Riverside). His general research interests encompass three areas of emphasis: energy and society, energy and land use, and renewable energy development. His current research concentrates on the social acceptance of renewable energy landscapes and recycling of energy landscapes. He has served two Arizona governors as chair of the Arizona Solar Energy Advisory Council, and he was as a founding member of the Arizona Solar Center. He serves on 10 editorial boards, including Energy Research & Social Science. He is the ASU liaison to the International Renewable Energy Agency, headquartered in Abu Dhabi.
+Victor Pérez-Rul
+Artist and Founder
+Studio Victor Pérez-Rul
+Víctor Pérez-Rul (Mexico) is a multidisciplinary artist, whose ongoing artistic research about energy and life merges futurism, natural sciences, cosmology, and engineering with a strong interest in collaborating with industries, institutions, cities, and landscapes. His solar sculptures, experimental collaborative projects, and large-scale installations propose and explore new ways of understanding and perceiving the universe, energy, and the living. Victor’s quest is a neo-futurist approach to the problem of understanding the multidisciplinary crossing between energy and art, urbanism, architecture, and the reconception of our role in the planet.
+Paul Schifino
+Graphic Designer Schifino Design
+Paul Schifino, received his degree in Graphic Design from the Art Institute of Pittsburgh in 1979. His professional work has been recognized by publications including: Communication Arts (CA), Graphis, Print Magazine, How Magazine, and ReadyMade magazine. His personal work has been included in exhibits at the Andy Warhol Museum (AMP), the Mattress Factory (Gestures #4 and #14), TRAF Gallery (By Design), the TRAF (Best of Pittsburgh Show), FE Gallery (Pittsburgh 250), and SPACE Gallery (The John Show) among others. His work is also included in the permanent archives of the Mattress Factory. He has served as president of the Board of Directors of the AIGA Pittsburgh, and is a former member of the Advisory Boards of the American Shorts Reading Series, and the Art Institute of Pittsburgh. He currently serves on the Board of Directors of the Land Art Generator Initiative and is the AIGA 100 Liaison for AIGA Pittsburgh.
+George Riley Thomas II
+Member at Metz Lewis Brodman Must O’Keefe LLC
+George Riley Thomas II is a member of Metz Lewis Brodman Must O’Keefe LLC, where he chairs the firm’s corporate practice group. Prior to joining Metz Lewis, George practiced in the Washington, DC area. Throughout his career, he has represented businesses in various transactional and commercial matters, concentrating mostly in mergers and acquisitions. George is a 1993 graduate of Harvard University where he studied Modern European History. Following his undergraduate work, George attended the University of Michigan Law School and graduated in 1996.
+Advisory Committee
+Tafline Laylin
+Herman J. Milligan, Jr., Ph.D.
+Thaddeus Padlowski
+Ann Rosenthal
+Naz Shahrokh
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/about/
+
+What We Do
+The Land Art Generator Initiative (LAGI) develops context-specific, culturally grounded approaches to distributed clean energy through art and design. Working with local communities, artists, designers, engineers, and institutions, LAGI advances renewable energy projects through international design competitions, direct commissions, open calls, Solar Mural artworks, and participatory co-design initiatives for people of all ages.
+LAGI’s work demonstrates how renewable energy infrastructure can do more than generate power. By integrating clean energy into public space as civic art, landscape, and architecture, LAGI creates projects that invite public participation, support education, and contribute lasting social and environmental value—helping communities imagine and build a post-carbon future.
+Areas of Focus
+Design Competitions and Participatory Design
+LAGI design competitions surface innovative approaches to renewable energy through art, landscape, and architecture, engaging designers from around the world while responding to local cultural and environmental contexts. Alongside competitions, LAGI leads participatory co-design projects and Solar Mural installations that apply best practices from creative placemaking, civic art, and urban design to clean energy infrastructure—working directly with communities to shape projects that reflect shared values and lived experience.
+Education, Outreach, and Publications
+Artful applications of sustainable technology can spark curiosity, deepen understanding, and expand who feels empowered to engage with energy systems. LAGI’s educational programs integrate science, technology, engineering, and math with art and design, supporting project-based, STEAM-centered learning. Participants explore real-world concepts such as energy generation, efficiency, and measurement while also developing skills in spatial thinking, visual composition, and systems design. LAGI publications extend this work by documenting projects, research, and emerging ideas at the intersection of energy, culture, and public space.
+Project Development and Construction
+Advancing projects from concept to implementation is a core part of LAGI’s mission. Working with artists, engineers, municipalities, and community partners, LAGI supports the technical development, coordination, and realization of selected projects. Current work includes advancing Arch of Time—a solar-powered public artwork by Riccardo Mariano—originally submitted to LAGI 2019 Abu Dhabi and later selected by the City of Houston through a competitive public process.
+Consulting and Design Advisory
+LAGI participates on multidisciplinary project teams as a design and strategy advisor, helping clients increase on-site renewable energy while enhancing architectural quality and public engagement. This work supports cities, cultural institutions, developers, and energy partners seeking integrated solutions that treat clean energy as a visible, valued part of the built environment.
+Research, Policy Innovation, and Communication
+LAGI directors contribute to research, publications, and public discourse on energy transition, infrastructure, and community engagement. Through writing, speaking, and collaboration with academic and policy partners—including contributions to publications such as the Routledge Handbook of Energy Transitions and Issues in Science and Technology—LAGI works to advance more inclusive, design-informed approaches to emerging energy landscapes.
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/mailing/
+
+RENEWABLE ENERGY CAN BE BEAUTIFUL
+JOIN
+MAILING
+LIST
+Join Mailing List
+Menu
+☰
+Home
+About
+Programming & Services
+Leadership
+Founding Story
+LAGI Open Call Competitions
+About LAGI Competitions
+LAGI 2025 Fiji
+LAGI 2022 Mannheim
+LAGI 2020 Fly Ranch Nevada
+LAGI 2019 Abu Dhabi
+LAGI 2018 Melbourne
+LAGI 2016 Santa Monica
+LAGI 2014 Copenhagen
+LAGI 2012 New York City
+LAGI 2010 Dubai / Abu Dhabi
+Other Projects
+Arch of Time
+LAGI Glasgow
+LAGI Willimantic
+Atasa Solar
+Solar Mural Artworks
+Art + Energy Camp
+LAGI MEA
+Learning & Resources
+Portfolio
+LAGI 2025 Fiji
+LAGI 2022 Mannheim
+LAGI 2020 Fly Ranch
+LAGI 2019 Abu Dhabi
+LAGI 2018 Melbourne
+LAGI 2016 Santa Monica
+LAGI 2014 Copenhagen
+LAGI 2012 New York City
+LAGI 2010 Dubai & Abu Dhabi
+Publications
+Press and Events
+Blog
+Contact
+Support
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/founding-story/
+
+Founding Story
+In 2008, we—Elizabeth Monoian and Robert Ferry—were newly married and living in Dubai. One evening in October, overlooking Ski Dubai with a bottle of wine, we began a conversation that would set the Land Art Generator Initiative in motion: how might artists and designers help shape the clean energy landscapes of the future?
+Living in the UAE at a moment of rapid transformation, we were inspired by the scale of ambition around us, the desert landscape, a lineage of land art among Emirati artists, and our shared concern about climate change. That night, we began to imagine a new platform—one that invited creatives from around the world to engage directly with renewable energy as a design medium.
+We asked ourselves questions that still guide LAGI today. What if the next generation of skyscrapers integrated concentrated solar power or solar updraft technologies—passively cooling interiors while generating energy for entire neighborhoods? What if cities were populated by living buildings that functioned like canopy trees in a forest, converting sun and wind into electricity while regulating their microclimates? As clean energy scales from buildings to districts to cities, what role could artists and designers play in ensuring that these infrastructures contribute meaningfully—and joyfully—to public space?
+At its core was a simple provocation: what if a new generation of land artists used renewable energy technologies as their material?
+The first LAGI “manifesto,” written that October as part of a grant proposal in the UAE, was unsuccessful. We lacked funding, but we were convinced the idea was worth pursuing.
+In early 2009, we shared the concept publicly for the first time through an exhibition at the DUCTAC Gallery in Dubai. That year was spent laying the groundwork—selecting sites, developing the first design brief, assembling a jury, and preparing to launch an international open call. We also created a series of “precedent” projects to help communicate the vision. The Ibn Al Haytham Pavilion and the Khorfakkan Necklace, shown above, are among those early explorations.
+We launched the first LAGI open call in January 2010. As submissions poured in during the final 24 hours, it became clear that something resonant was taking shape. Hundreds of proposals arrived from more than 40 countries—bold, imaginative, and technically ambitious. The response confirmed that designers around the world were ready to engage with large-scale public artworks capable of generating utility-scale clean energy.
+We presented this body of work to Masdar, who generously supported the LAGI 2010 prize and exhibitions at the World Future Energy Summit in January 2011. We are deeply grateful to Masdar, and to Zayed University, whose Provost’s Research Fellowship provided the research platform that enabled LAGI 2012.
+Additional early support from the Horne Family Foundation and the National Endowment for the Arts made it possible to bring LAGI 2012 to New York City.
+This foundational support helped catalyze a global, collaborative effort—one that has since brought together thousands of artists, designers, engineers, students, and community members from more than 60 countries to address one of the defining challenges of our time.
+The work continues today thanks to supporters like you, who believe not only in a sustainable future, but in the power of art and design to spark scientific curiosity, civic imagination, and long-term cultural change.
+The archives of the Land Art Generator Initiative are housed at the Institute for Art + Environment at the Nevada Museum of Art. Researchers interested in LAGI’s work are encouraged to contact the Museum directly. Nevada Museum of Art
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/lagi-competitions/
+
+LAGI Competitions
+The free and open LAGI International Design Competition invites creative minds from around the world to reimagine energy infrastructure as part of our shared landscape. It asks what renewable energy systems can aspire to be in their built form. It asks how these systems might integrate into cities and countrysides while enhancing public space, educating communities, and inspiring change. Thousands of participants from across the globe have helped shape this vision, contributing powerful and imaginative proposals that point toward a beautiful clean energy future.
+- Sites are chosen for their ability to provide a rich cultural context for participating teams.
+- Each year we look forward to offering a unique, yet universally applicable typology that can be replicated within other similar conditions in other cities.
+- We work closely with the site owner and local stakeholders to develop a design brief that responds to the socioeconomic and cultural needs of the local site and that responds to the unique climate conditions.
+- Jurors are invited who will represent a mix between local community leaders and internationally-recognized professionals across many disciplines who bring a global design, arts, and science perspective.
+- Partnerships are established with universities, utilities, municipalities, and nonprofits in the host city and the region who provide project support and assist with design brief development.
+- For every competition there is a publication, multiple exhibitions and educational outreach events. The goal is to feature the innovative work of the many talented interdisciplinary teams who participate.
+- In every case we create unique educational materials (often dual-language), and work closely with stakeholders and project partners to harness the conceptual beauty and message of these artworks and the sustainable technologies that they incorporate in order to engage young people in STEAM learning.
+If you are interested in bringing a LAGI competition to your city please contact Elizabeth and Robert at lagi@landartgenerator.org. Explore the competition pages below for details about the unique sites, submissions, competition winners, partners, supporters, and more.
+Image Credits
+LAGI 2025—Solar Forest by Daniel Cueto Mondéjar incorporates solar photovoltaic semi-transparent panels (similar to Lumos) and rainwater-harvesting to produce 120 MWh of electricity and 450,000 liters of filtered water each year.
+LAGI 2022—Girasoli by Antonio Maccà incorporates laminated monocrystalline photovoltaic solar (similar to SolaxessTM) to generate 170 MWh each year.
+LAGI 2020—Aqua Planterra by Felix Cheong, Haley Zhou, and Rachel Cohen-Murison incorporates locally sourced clay vessels and coiling pottery techniques to contribute 70,000 liters of potable water/year/vessel, 684 cups of edible plants and herbs per year/vessel, and enhanced habitat for local species.
+LAGI 2019—Renewable Oasis by Kyriakos Chatziparaskevas incorporates dye-sensitized solar cells (DSSC) laminated in ETFE sheets and piezoelectric energy harvesting to generate 500 MWh each year.
+LAGI 2018—Rotor by Louis Gadd, Aimee Goodwin, and Danny Truong incorporates vertical axis wind turbines to generate 105 MWh each year.
+LAGI 2016—Catching the Wave by Christina Vannelli, Liz Davidson, and Matthew Madigan incorporates point absorber wave energy converters (similar to CETO™ by Carnegie Wave Energy) to generate 16,000 MWh each year.
+LAGI 2014—Super Cloud by Lucas Jarry, Rita Serra e Silva, Lucas Guyon, and Marianne Ullmann incorporates wind-powered piezoelectric discs to generate 200 MWh each year.
+LAGI 2012—Fresh Hills by Matthew Rosenberg, Matt Melnyk, Emmy Maruta, and Robbie Eleazer incorporates horizontal axis wind turbines, air purification technology to generate 238 MWh each year.
+LAGI 2010—s:flow by Joanna Wlaszyn, Qian Xu, and David Verrier incorporates Sphelar solar photovoltaic technology embedded in glass planes to generate 6,000 MWh each year.
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/competition-2022/
+
+LAGI 2022
+site typology: City Park
+The LAGI 2022 Mannheim design challenge brings together a number of themes and ideas for inspiration.
+Just as a garden is a productive landscape for nourishment that also brings us joy and pleasure, how can our productive landscapes for energy also bring joy and pleasure to our communities?
+How can renewable energy be integrated in beautiful ways into the city so that it is not some cold and utilitarian technology, but is instead an indispensable accessory, a statement of creative expression that we all desire to experience?
+At the same time, how can we make these new technologies accessible to everyone so that the benefits of energy democratization are equitably shared?
+LAGI 2022 Mannheim has expanded the realm of the possible using existing clean energy technologies to create beautiful, sculptural modules that can plug into the smart post-carbon city.
+Proposals exist simultaneously across a variety of scales—variations for a residential context or for a civic space that use modular components or scalable solutions. The goal is to open a window onto a world beyond carbon where quality of life and social equity have been vastly improved as a consequence of the energy transition.
+Design Site
+BUGA 23 (Bundesgartenschau) took place in Mannheim, Germany from April 2023 – October 2023.
+The Federal Garden Show—BUGA for short—refers to the horticultural exhibition itself, which has been held every two years in various cities in Germany since 1951. At the same time, the BUGA is also a planning process for open spaces, green and urban development that lasts for several years. For the realization of the green corridor northeast, which is of great importance for the climate of the city as well as for living and recreation in Mannheim.
+The core area of BUGA 23 was the conversion area around the former Spinelli barracks. Once used by the German Wehrmacht as a pioneer barracks and after the Second World War by the US armed forces as a warehouse, Spinelli-Park stretches from the Aubuckel to the Käfertal district of Mannheim. BUGA 23 on the former military site is part of the northeast green corridor, which extends from Luisenpark across the Neckar to the Vogelstangseen. The aim was to dismantle the large barracks areas and to connect them to a continuous green corridor, which improves the microclimate and the fresh air supply in the surrounding districts in the long term.
+From April to October 2023, Spinelli hosted the social and cultural mega-event for Mannheim and the entire Rhine-Neckar metropolitan region: More than 5,000 events took place over 178 days on the former Spinelli military grounds and in Luisenpark. In the course of BUGA 23, the Luisenpark was extended by 3,000 square metres and a new park centre will be created in organic shapes. The first BUGA in Mannheim took place in Luisenpark in 1975. The two parks will be connected by a cable car that visitors can use to travel across the grounds.
+BUGA 23 had a clear goal: to be the most sustainable BUGA of all time.
+Project Partner
+Design Brief
+Follow this link to find the
+LAGI 2022 Design Brief Document
+Publication
+Land Art as Climate Action
+Purchase >
+LAGI 2022 Jurors
+Dr. Peter Kurz
+Lord Mayor of Mannheim
+Michael Schnellbach
+CEO, BUGA 23
+Dr. Heinz Ossenbrink
+Former European Commission Joint Research Centre
+Dr. Alessandra Scognamiglio
+Architect, Senior Researcher at ENEA
+Helen Turner
+Artistic Director and Chief Curator, E-WERK Luckenwalde
+Dr. Clark Miller
+Professor; Director, Center for Energy & Society, School for the Future of Innovation in Society, Arizona State University
+Marjan van Aubel
+Solar Designer
+Asha Singhal
+Regenerative Designer, Hybrid Futures
+Andreas Kipar
+Landscape Architect
+Co-Founder, CEO, and Creative Director LAND
+Peter Slavenburg
+Co-founder, NorthernLight
+Klaus Gasteiger
+Social Engagement Site Ludwigshafen, BASF SE
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/competition-2019/
+
+LAGI 2019
+site typology: City Portal
+LAGI 2019 Abu Dhabi—Return to the Source—invited creatives to design an iconic work of art for a landmark site within Masdar City, Abu Dhabi using renewable energy technology as a medium of creative expression to provide on-site energy production consistent with the master plan of the city.
+Masdar is the Arabic word for “source.” As the name of Abu Dhabi’s multifaceted renewable energy company and most ambitious low-carbon development, it is a reference to the Sun, the source of energy that sustains life on Earth, drives the wind and waves, and that over millions of years powered the transfer of ancient carbon dioxide out of the atmosphere and into the ground, creating a climate habitable to humans.
+“Source” also has meaning within the context of the Land Art Generator initiative, which was established in the UAE in 2008. The first LAGI design competition was supported by Masdar and the award ceremony took place at the 2011 World Future Energy Summit, where eight years later the 2019 LAGI design competition is launched.
+This year’s special edition is in partnership with the 24th World Energy Congress, the largest and most influential global energy event, that has been a forum for innovation and dialogue on energy issues for 95 years. The 24th World Energy Congress will be the venue for the exhibition of 28 shortlisted projects designed for Masdar City.
+Supporter
+Partner
+Design Brief
+Follow this link to find the LAGI 2019 Design Brief Document
+Publication
+Return to the Source, Prestel
+Purchase >
+LAGI 2019 Jurors
+H.E. Eng. Fatima Alfoora Alshamsi
+Assistant Undersecretary for Electricity and Future Energy
+in the United Arab Emirates Ministry of Energy and Industry; CEO 24th World Energy Congress Organizing Committee
+Yousef Ahmed Baselaib
+Executive Director Sustainable Real Estate
+Masdar
+Lukas Sokol
+Head, City Design, Sustainable Planning
+Masdar
+Chris Wan
+Head, Design Management
+Masdar
+Tim Mollette-Parks
+Landscape Architect
+Associate Principal, Mithun
+Zac Cirivello
+Operations Manager, Fly Ranch
+Burning Man Project
+Hala El Akl
+Architect & Urban Planner
+Director, PLP Architecture, London
+Raya Ani
+Founder | Design Director
+RAW-NYC Architects
+Daniel Glaessl
+Design Director
+Gensler Silicon Valley
+Emily Doherty
+Director
+The Christo and Jeanne-Claude Award
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/competition-2018/
+
+LAGI 2018
+site typology: energy overlays
+Through the vision and sponsorship of the State of Victoria the LAGI 2018 competition was held for Melbourne.
+LAGI 2018 was free and open to anyone around the world, and invited artists, architects, designers, landscape architects, scientists, engineers, and others to submit proposals for large-scale and site-specific public art installations that generate clean energy for a site in Melbourne.
+Through the leadership of the Department of Environment, Land, Water, and Planning (DELWP), Victoria is setting an example for the world with a goal of zero carbon emissions by 2050. Melbourne, already one of the most sustainable cities in the world, is targeting net-zero by 2020.
+The Victoria State Renewable Energy Action Plan outlines the steps that the government is taking to ensure a smooth and equitable transition to a thriving post-carbon economy. LAGI is delighted to be one small part of that vision within the context of Action 13, “Supporting important artistic and cultural sustainability events.”
+LAGI 2018 Supporter
+LAGI 2018 Partners
+City of Port Phillip
+Carbon Arts
+Carbon Arts generates and evaluates creative models for engaging society in imagining and shaping a more sustainable future.
+Fed Square
+Fed Square is very proud to be a carbon neutral precinct. The organisation works hard to be a leader in environmentally sustainable practices through a number of innovative, long term initiatives
+Climarte
+CLIMARTE harnesses the creative power of the arts to inform, engage and inspire action on climate change.
+Regional Centre for Culture
+Regional Centre for Culture is a year-long celebration of arts, culture and community focused on a particular geographic region of Victoria.
+Hirmer
+Art books which set standards — that is the vision of Hirmer Verlag. Hirmer Verlag is one of the most prestigious publishers of art books.
+LAGI 2018 Events
+October 3–5
+LAGI Art+Energy Youth Camp
+Workbook >
+Outcomes >
+Blog Post >
+Port Phillip EcoCentre
+October 7–9
+LAGI Professional Workshop.
+Guidelines >
+Outcomes >
+Website >
+Castlemaine, Victoria
+October 11–17
+Exhibition, Awards Ceremony
+Fed Square, Melbourne
+October 23
+LAGI Teacher Workshop
+Port Phillip EcoCentre
+October 24
+LAGI Lecture
+Grimshaw Melbourne, Breakfast Talk Series
+October 19–28
+Art is Power, Exhibition, Workshops, and Activations
+St Kilda, Acland Street Plaza
+Design Brief
+Follow this link to find the > 2018 Design Guidelines Document
+Publication
+Energy Overlays, Hirmer Publishing, Purchase >
+LAGI 2018 Jurors
+Guy Abrahams
+Co-Founder CLIMARTE
+Charles Anderson
+Senior Lecturer, Landscape Architecture, RMIT University
+Director, CAStudios / SAALA
+David Brand
+City of Port Phillip Councillor
+Architect
+Elizabeth Corr
+NRDC Manager, Art Partnerships & Events
+Natural Resources Defense Council
+Simon Corbell
+Victorian Renewable Energy Advocate
+William L. Fox
+Director, Center for Art + Environment
+Nevada Museum of Art
+Jill Garner
+Victorian Government Architect
+Stan Krpan
+Chief Executive Officer | Sustainability Victoria
+Sustainability Victoria
+Dr Beatriz Cristina Maturana
+Founder of Architects for Peace, Academic Director at the Faculty of Architecture and Urbanism, University of Chile
+Kim Herforth Nielsen
+Founder and Creative Director
+3XN Architects
+Sharon Pollard
+General Manager Operations
+Fed Square
+Anna Skarbek
+CEO, ClimateWorks Australia
+Vicki Sowry
+Director, Australian Network for Art and Technology
+Martijn Wilder AM
+Partner, Baker & McKenzie
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/competition-2016/
+
+LAGI 2016
+site typology: coastal
+The LAGI 2016 design competition invited teams to design a site-specific public artwork that, in addition to its conceptual beauty, has the ability to harness energy cleanly from nature and convert it into electricity and/or drinking water for the City of Santa Monica.
+The 2016 design site offered participating teams the opportunity to utilize wave and tidal energies as well as wind, solar, and other technologies.
+As California faced severe water shortages that year, it served as a sign of future droughts. The amount of energy required for water production and transmission is sure to increase over time as rainfall becomes more volatile. For this reason we expanded our definition of sustainable infrastructure artwork to include proposals in 2016 that produce drinking water—either in addition to, or in place of—clean electricity.
+LAGI 2016 fit well into the context of the ongoing efforts being made in Santa Monica to increase efficiency of water consumption and to harvest water sustainably. The Santa Monica Pier is currently investigating ways to drastically reduce the use of potable water on site, like the use of recycled seawater for toilet flushing, to take one example.
+The City of Santa Monica has demonstrated the ability of sustainable infrastructures to provide an aesthetic and educational amenity for the community through its Santa Monica Urban Runoff Recycling Facility (SMURFF), located just next to the Pier. Visitors to the facility can learn about stormwater runoff, water-borne particulates, filtration processes, and large-scale rainwater reuse at the facility, which treats an average of 500,000 gallons per day of urban runoff (and looks nice too).
+Proposals to LAGI 2016 serve to push the conversation even further and provide new ideas for innovation. By elevating the vital urban systems that provide our energy and water to the level of public art, we can challenge those who would disapprove of these important infrastructures on aesthetic grounds, especially at sites that are cherished for their cultural value and identity (like the Santa Monica Pier Breakwater).
+As California works to achieve its important renewable energy portfolio goal (raised to 50% by 2030 in the governor’s January 5, 2015 State of the State Address) large-scale exurban generation will be increasingly augmented by urban micro-generation. As the infrastructures that will cleanly power our future productivity become more prevalent in our commercial and residential centers, the issue of their aesthetic integration becomes more important.
+The LAGI 2016 awards were presented by
+Eric Corey Freed at Greenbuild 2016 in Los Angeles. LAGI 2016 exhibitions included Greenbuild at the LA Convention Center (Los Angeles), the Annenberg Community Beach House (Santa Monica), and SXSW ECO (Austin).
+Supporters
+Thanks to the Elizabeth Firestone Graham Foundation for support of the 2016 LAGI Prestel Publication
+Individual supporters include:
+Rhonda Hauff, Anita Monoian, Peter Coombe, Lance Diernback, Geoffrey Glick, Dan Hughes, Michael Ferry and Susie Boucher, Rebecca Ehemann
+LAGI 2016 Partners
+The City of Santa Monica
+Santa Monica is an 8.3 square mile city situated at a gateway to the Pacific Ocean on the west side of Los Angeles County. Offering an environment of unparalleled natural beauty, the city is home to a mix of residential communities, commercial districts, and recreational and art venues. The City is a national leader in environmental, economic and social sustainability. Santa Monica also operates Big Blue Bus, Santa Monica Pier, CityNet, Santa Monica Airport, Woodlawn Cemetery five community libraries, and water department.
+Green Public Art Consultancy
+Green Public Art Consultancy teams with progressive public and private agencies, artists, architects and urban developers in the U.S. and abroad, to increase the aesthetic appeal of new construction and city planning with site-specific public art. Green Public Art specializes in the integration of public art into green building projects and provides comprehensive project management services for both public and private spaces including conceptual programming, artist and material selection, community engagement strategies, as well as oversight of fabrication, installation and maintenance of artworks.
+USGBC LA
+A non-profit environmental organization made up of over one thousand architects, designers, engineers, students, property managers, builders, consultants, and lawyers. USGBC-LA offers a variety of events including tours of green building projects, LEED workshops and customized trainings, conferences, networking mixers, and volunteer appreciation events.
+MOAH Museum of Art & History
+The Lancaster Museum of Art and History is dedicated to strengthening awareness, enhancing accessibility and igniting the appreciation of art, history and culture in the Antelope Valley through dynamic exhibitions, innovative educational programs, creative community engagement and a vibrant collection that celebrates the richness of the region. MOAH was instrumental in supporting the LAGI 2016 Youth Prize, which was won by Quartz Hill High School, Antelope Valley Union High School District. Since 2016 the LAGI Youth Prize has gone through a number of iterations with the most recent being held for the SEE MONSTER site in the U.K. Learn more at https://youth.landartgenerator.org/.
+County of Los Angeles Dept. of Public Works
+LA County Public Works is responsible for the design, construction, operation, and maintenance of roads, traffic signals, bridges, airports, sewers, flood control, water supply, water quality, and water conservation facilities. Its diverse operations fall within six core service areas: Transportation, Water Resources, Waste Management, Public Buildings, Development Services, and Emergency Management.
+Santa Monica Pier
+The Bay Foundation
+The Bay Foundation (TBF)—also known as the Santa Monica Bay Restoration Foundation—is a 501(c) 3 non-profit environmental group founded in 1990 to restore and enhance the Santa Monica Bay and local coastal waters. TBF is staffed by science and policy experts who are passionate about understanding and protecting the Bay and the Bay watershed, and all the benefits that a healthy ecosystem can provide all those who use and enjoy it.
+Los Angeles County Arts Commission
+The Los Angeles County Arts Commission fosters excellence, diversity, vitality, understanding and accessibility of the arts in Los Angeles County, encompassing 88 municipalities, and provides leadership in cultural services. lacountyarts.org.
+Shawati’ Magazine
+Shawati’ cares about serving readers with information that empowers, inspires and creates change as we promote and support the principles and practices of intellectual freedom. Shawati’ is not a podium comprised of fast-paced news blurbs written for the masses; it is an in-depth and timeless visual manuscript comprised of; new innovations and inspirations, creative explorations, insightful interviews, as well as multi-cultural dialogues provoking a global exchange of ideas, additionally we examine each aspect related to life and environment.
+Design Brief
+Follow this link to find the > LAGI 2016 Design Brief Document
+Publication
+Powering Places, Prestel Publishing
+Purchase >
+LAGI 2016 Jurors
+Senator Ben Allen
+California State Senate (District 26)
+Chair, California State Legislature Joint Committee on the Arts
+Kevin McKeown
+Mayor, City of Santa Monica
+Craig Watson
+Director, California Arts Council
+Eric Corey Freed, RA, LFA, LEED AP
+Vice President Global Outreach
+International Living Future Institute
+Dean Kubani
+Director, Office of Sustainability and Environment, City of Santa Monica
+Jessica Cusick
+Cultural Affairs Manager
+City of Santa Monica
+Tom Ford
+Executive Director
+The Bay Foundation
+Dominique Hargreaves
+Executive Director, USGBC-LA Chapter
+Shari Afshari
+Deputy Director, County of Los Angeles Dept. of Public Works
+Pauline Kamiyama
+Interim Director of Civic Art
+Los Angeles County Arts Commission
+David Hertz, FAIA
+Founder and President
+The Studio of Environmental Architecture (S.E.A.)
+Ned Kahn
+Ned Kahn Studios
+Elizabeth Corr
+Manager Art Partnerships & Events
+National Resources Defense Council (NRDC)
+Trevor Lee
+Principal, Suprafutures
+Jack Becker
+Executive Director
+Forecast Public Art + Public Art Review
+Vicki Scuri
+Vicki Scuri SiteWorks
+Freya Bardell and Brian Howe
+Principals, Greenmeme
+Phillip K. Smith III
+pks3.com
+Laura Watts
+Associate Professor, Technologies in Practice (TiP) Research Group, IT University of Copenhagen
+Santiago Muros Cortés
+LAGI 2014 1st Place Winner
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/competition-2014/
+
+LAGI 2014 Copenhagen
+site typology: brownfield
+LAGI 2014 was an ideas competition to design a site-specific public artwork that, in addition to its conceptual beauty, has the ability to harness energy cleanly from nature and convert it into electricity for the utility grid.
+LAGI 2014 came to Copenhagen at an opportune moment. As the city (the European Green Capital of 2014) moves towards carbon neutral status by 2025 the debate over the aesthetic manifestation and human interaction component of our new energy infrastructure is becoming increasingly important to the planning strategies required to attain zero-carbon sustainability goals.
+“Land Art Generator provides new and exciting proposals for approaching the green transition. We saw in the previous exhibitions in Dubai in 2010 and New York City in 2012, where creative forces of art, architecture, and engineering together brought forth innovative ideas, concepts, and solutions that can produce green energy while being integrated to beautify the local environment.”
+Martin Lidegaard, Danish Minister of Climate, Energy, and Building
+Design Site
+The LAGI 2014 design site—Refshaleøen—at its height, was a shipyard that employed 8,000 individuals and is poised to be an important area for new development within the city. The rich historical context of the site, and its place in Copenhagen’s future informed the design proposals.
+The view to the site from the Langelinie and the cherished statue of the Little Mermaid provided a beautiful canvas on which to create.
+LAGI 2014 partnered with the Green Cities Municipalities (including Albertslund, Herning, Allerød, and Kolding) of Denmark for additional opportunities for teams, which were outlined more in depth in the Design Guidelines.
+The award ceremony, exhibition, and book launch was held in Copenhagen in the fall of 2014 in partnership with the Danish Design Centre at the Design Society.
+Various community events were held in Denmark in collaboration with project partners and we worked again with Prestel publishing to create a beautiful publication that includes 60 of the top submissions, along with essays by leaders in the fields of architecture, art, renewable energy, urban planning, and more.
+LAGI 2014 Supporters
+Region Hovedstaden
+The Culture and Leisure Committee
+for the City of Copenhagen
+Design Brief
+LAGI 2014 Design Brief Document
+Partners
+The LAGI 2014 design site—Refshaleøen—at its height, was a shipyard that employed 8,000 individuals and is poised to be an important area for new development within the city. The rich historical context of the site, and its place in Copenhagen’s future informed the design proposals.
+The view to the site from the Langelinie and the cherished statue of the Little Mermaid provided a beautiful canvas on which to create.
+LAGI 2014 partnered with the Green Cities Municipalities (including Albertslund, Herning, Allerød, and Kolding) of Denmark for additional opportunities for teams, which were outlined more in depth in the Design Guidelines.
+The award ceremony, exhibition, and book launch was held in Copenhagen in the fall of 2014 in partnership with the Danish Design Centre at the Design Society.
+Various community events were held in Denmark in collaboration with project partners and we worked again with Prestel publishing to create a beautiful publication that includes 60 of the top submissions, along with essays by leaders in the fields of architecture, art, renewable energy, urban planning, and more.
+Publication
+New Energies
+Purchase >
+LAGI 2014 Jurors
+Connie Hedegaard
+European Commissioner for Climate Action
+Tina Saaby
+City Architect of Copenhagen
+Lars Aagaard
+Director, Danish Energy Association
+Jason F. McLennan
+CEO, International Living Future Institute
+Nille Juul-Sørensen
+CEO, Danish Design Centre
+Kent Martinussen
+CEO, Danish Architecture Centre
+Christian Herskind
+CEO, Refshaleøen Holding A/S
+Steen Christiansen
+Mayor, Albertslund Municipality
+Else Marie Bukdahl, Dr. Phil.
+Danish Art Historian, Ålborg University
+Maria Hørmann
+Change Maker—Design & Innovation & Blog Editor—Hello Materials Blog, Danish Design Centre
+Stig L. Andersson
+Founding Partner, SLA; Creative Director, Professor
+Agnete Fog
+Chairman of Green Cities 2014–2015
+Sharon Chang
+CEO and Founder, Yoxi; NYU Trustee
+Chris Fremantle
+Co-Producer, Public Art Scotland
+Matthew Rosenberg
+Founding Partner, M-Rad
+2nd Place Winner LAGI 2012
+Michael Singer
+Principal, Artist and Designer, Michael Singer Studio
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/competition-2012/
+
+LAGI 2012
+site typology: landfill
+In partnership with New York City’s Department of Parks & Recreation, the 2012 Land Art Generator design competition was held for a site within Freshkills Park (the former Fresh Kills Landfill) in New York City.
+LAGI 2012 was an ideas competition to design a site-specific public artwork that, in addition to its conceptual beauty, has the ability to harness energy cleanly from nature and convert it into electricity for the utility grid.
+The expansiveness of the design site at Freshkills Park presents the opportunity to power the equivalent of hundreds or even thousands of homes with the artwork. The stunning beauty of the reclaimed landscape and the dramatic backdrop of the Manhattan skyline provide an opportune setting from which to be inspired. Freshkills Park offers the perfect environment to showcase the immense potential of aesthetically interesting renewable energy installations for sustainable urban planning.
+Design Brief
+Follow this link to find the > LAGI 2012 Design Brief Document
+Publication
+Regenerative Infrastructures, Prestel Publishing
+Purchase >
+LAGI 2012 Supporters
+Horne Family Foundation
+National Endowment for the Arts
+Furthermore: a program of the J.M. Kaplan Fund
+Individuals
+Jude van der Merwe
+Maria Gillman
+Andreas Goritschnig
+Orontes Mejia
+Michael P. Totten
+Rebecca Pearce
+Vincenzo Scotti
+Lydia Kallipoliti
+Eileen Montanez
+Rhonda Hauff
+About Freshkills Park
+At 2,200 acres, Freshkills Park will be almost three times the size of Central Park and the largest park developed in New York City in over 100 years.
+The transformation of what was formerly the world’s largest landfill into a productive and beautiful cultural destination will make the park a symbol of renewal and an expression of how our society can restore balance to its landscape. In addition to providing a wide range
+of recreational opportunities, the park’s design, ecological restoration and cultural and educational programming will emphasize environmental sustainability and a renewed public concern for our human impact on the earth.
+While the full build-out will continue in phases for the next 25 years, development over the next several years will focus on providing public access to the interior of the site and showcasing its unusual combination of natural and engineered beauty, including creeks, wetlands, expansive meadows and spectacular vistas of the New York City region.
+In 2001, the City of New York, led by the Department of City Planning and supported by the New York Department of State’s Division of Coastal Resources, conducted a master planning process for Freshkills Park that involved thousands of stakeholders and resulted in an illustrative park plan, also known as the Draft Master Plan. In 2006, the Department of Parks & Recreation assumed responsibility for implementing the project using the Draft Master Plan as a conceptual guide. The basic framework of the plan integrates three separate systems—programming, wildlife, and circulation—into one cohesive and dynamic unit.
+Circulation
+An expansive network of paths, recreational waterways, and enhanced access to and from the West Shore Expressway through a system of park drives will help to create an animated, interconnected park. People will be able to experience the site by canoe, on horseback, on mountain bike, on foot, or by car.
+Wildlife
+Freshkills Park will support richly diverse habitats for wildlife, birds, and plant communities. Through ecological innovation, creative design, and wetland restoration, native plant communities will naturalize the site and connect to adjacent parks on Staten Island.
+Recreation
+Freshkills Park will host an incredible variety of public spaces and facilities for physical activity and play. The site is large enough to support many sports and programs that are unusual in the city, including horseback riding, mountain biking, hiking, kayaking, and large-scale public art.
+Science & Arts
+Freshkills Park will be much more than a conventional “park,” it will be a leading site for ecological research, renewable energy installations, sustainably designed educational and cultural facilities, and large public artworks.
+Text courtesy of New York City Department of Parks & Recreation
+LAGI 2012 Jurors
+Bjarke Ingels
+BIG-Bjarke Ingels Group
+Dr. Henry Kelly
+Acting Assistant Secretary and Principal Deputy Assistant Secretary for the Office of Energy Efficiency and Renewable Energy at the U.S. Department of Energy
+Jean Gardner
+Associate Professor of Social Ecological History, Parsons New School, School of Constructed Environments
+Alice Aycock
+Public Design Commission of the City of New York
+Eric Shiner
+Director, The Andy Warhol Museum
+Patricia Watts & Amy Lipton
+ecoartspace
+Melanie Cohn
+Executive Director, Council on the Arts & Humanities for Staten Island
+Steven Grillo
+Program Manager for Planning,
+Staten Island Economic Development Corporation
+Peter Yeadon
+Partner, Decker Yeadon
+Eloise Hirsh
+Freshkills Park Administrator
+New York City Department of Parks & Recreation
+Phil Gleason
+Assistant Commissioner for Waste Management Engineering
+NYC Department of Sanitation
+Anne Guiney
+Executive Director, Institute for Urban Design
+James Corner
+james corner field operations
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/competition2010/
+
+LAGI 2010
+site typology: urban gateways
+LAGI 2010 was the first LAGI biennial competition in which we asked interdisciplinary teams to consider large-scale works of art that have the added benefit of generating clean energy at a utility-scale. It was held for three sites in the UAE and the award ceremony and exhibition was sponsored by Masdar and held at the 2011 World Future Energy Summit in Abu Dhabi.
+Masdar is Abu Dhabi’s multi-faceted initiative advancing the development, commercialisation and deployment of renewable and alternative energy technologies and solutions. The company serves as a link between today’s fossil fuel economy and the energy economy of the future—developing the “greenprint” for how we will live and work tomorrow. Backed by the stability and reputation of the Mubadala Development Company, an investment vehicle of the government of Abu Dhabi, Masdar is dedicated to the emirate’s long-term vision for the future of energy.
+Design Sites
+For the 2010 competition teams were able to choose from the following three sites in the United Arab Emirates.
+SITE 1: DUBAI, ADJACENT TO RAS AL KHOR WILDLIFE SANCTUARY
+Located at the end of Dubai Creek at the edge of the Ras Al Khor Wildlife Sanctuary, the existing site is a mixture of white sand and loose soil with a number of native desert plants. No part of the site boundary includes any of the wetlands area and the site is approximately the location of a future visitor center for the park.
+To the east of the site is a large development, The Lagoons, which is under construction. The site runs parallel to the highly trafficked RT. 44 highway from which a row of trees forms a light buffer. The site offers beautiful views into the Wildlife Sanctuary and to the long skyline of Dubai’s financial district beyond.
+SITE 2: ABU DHABI, BETWEEN YAS AND SAADIYAT ISLANDS
+Located on a stretch of waterfront off the road that connects Yas Island to Saadiyat Island, the site is mostly devoid of vegetation and consists of white sandy soil.
+The area of water directly off the shore of the site has been included in the plot limits to allow the design teams an opportunity to interact with the water through the design although this is certainly not a requirement. If the design does extend into the water, care should be taken to respect the natural existing condition of the shoreline and aquatic ecosystems.
+SITE 3: ABU DHABI, AIRPORT ROAD NEAR MASDAR CITY
+This site is directly across the street from the southeast border of the Masdar City site. While the site is defined on all sides by roads, there is a very effective landscaping buffer along the perimeter of the site. When standing on the site the surrounding roads, which are not highly trafficked, are not very noticeable. The vegetation on the site is native desert low-lying shrubs and a few crops of medium size trees the locations of which are visible in the satellite images.
+Supporter
+Design Brief
+Follow this link to find the LAGI 2010 Design Brief Document
+Launch Brochure
+Follow this link to find the LAGI 2010 Launch Brochure
+Publication
+The Time Is Now: Public Art of the Sustainable City
+Purchase >
+More photos of the LAGI exhibition at WFES 2011 can be found here.
+LAGI 2010 Jurors
+Khalil Abdulwahid
+Dubai, UAE
+Omran Ali AlOwais
+Architect, Musanada, Abu Dhabi
+Reuben S. Andrews, M.A., M.Phil.
+Information & Media, Consumption Sustainability
+Dubai Electricity & Water Authority (DEWA), Dubai
+Jonah Brucker-Cohen
+Researcher, artist and fellow in the Disruptive Design Team of the NTRG; Adjunct Assistant Professor of communications at NYU’s ITP
+Beth Carruthers
+Independent Curator
+Consultant, Arts and Sustainability, Vancouver
+Jenna Didier & Oliver Hess
+Directors, Materials & Applications (www.emanate.org), architecture and landscape research; principals, Didier Hess (www.didierhess.com), public art studio.
+Karim Elgendy
+Architect and Sustainable Design Researcher; Editor of Carboun.com
+Jeanette Ingberman
+Co-Founder/Director, Exit Art, NYC
+Andrea Polli
+Digital Media Artist
+Director of the Interdisciplinary Film and Digital Media (IFDM) Program at the University of New Mexico
+Christopher Prelitz
+Net Zero and Off-Grid Development Consultants; Prelitz + Partners, New Mexico and Laguna Beach, USA
+Lukáš Sokol
+Architect and Urban Planner at the Urban Planning Council (UPC) of Abu Dhabi
+Michiel van Raaij
+Editor Eikongraphia, editor-in-chief of architectenweb.nl
+and AWM
+Georgeta Vidican, Ph.D.
+Assistant Professor
+Masdar Institute of Science and Technology, Abu Dhabi
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/glasgow
+
+LAGI GLASGOW
+The Land Art Generator Initiative (LAGI) aims to advance the popular acceptance of clean energy by integrating art and interdisciplinary creative processes into the conception of site-specific, solution-based public art interventions which also function as innovative renewable energy power plants.
+More about LAGI here >
+The consortium including Glasgow City Council, Scottish Canals, and BIGG Regeneration with the assistance of ecoartscotland brought together overseas and Glasgow-based teams to research and develop site-specific Land Art Generator Initiative (LAGI) artwork concept proposals for Port Dundas. Port Dundas is a focus for urban regeneration with a strong creative dimension. LAGI Glasgow formed part of Glasgow’s Green Year 2015 and continued into 2016, Scotland’s Year of Innovation, Architecture, and Design—engaging local communities as well as those interested in art and innovation in renewable energy.
+"Port Dundas is fast becoming a place for the pioneer. LAGI fits perfectly with this philosophy and demonstrates a truly innovative way of green energy and public art helping to shape a regeneration project from the start, whilst stimulating real debate amongst participants and project partners about the roles of architecture, art, urban design and planning."
+— Chris Brown, Executive Chairman, igloo Regeneration
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/blagi/archives/5833
+
+A small town in Connecticut has created an inspiring new blueprint for post-industrial socioeconomic upliftment.
+Part of Windham, and formerly nicknamed “Thread City”, Willimantic will soon announce the winner of the LAGI Willimantic design competition that will see the development of an energy-generating work of public art. The competition comprises part of a much larger initiative to revive the community, which in the mid 1980s lost its status as a major nerve center for textile-manufacturing.
+The textile industry supported thousands of people over a period of 130 years, according to the National Park Service, deriving energy from the Willimantic River to power its mills. But then in 1985, the American Thread Company closed its plant and shifted operations to North Carolina, leaving in its wake a gaping economic hole.
+Eddy Line by Höweler+Yoon & Gray Organschi.
+Like many post-industrial communities across the United States, Willimantic faced the enormous task of reinventing itself, but it would take time. In 2002, the Hartford Courant reported a disproportionate prevalence of heroin use. “The Willimantic River, which once powered the textile mills that made the city prosperous, now draws junkies to its muddy banks to shoot up,” the paper reported at the time. “Discarded needles and empty glassine heroin packets litter the river’s edge.” Concerned to reconnect the city with the neglected river, that same year the Willimantic Whitewater Partnership (WWP) set in motion a series of transformational community-centered projects with their purchase of a 3.4-acre site right off main street. James Turner, president of the nonprofit organization, said the empty lot “at the foot of town hall” had been “seriously contaminated for decades.”
+Rio Iluminado by Pirie Associates, Lindsay Suter, and Gar Waterman.
+WWP’s vision for the site is threefold, according to Turner: They want to get national whitewater enthusiasts into the water (Turner says the site lies within a mile of a 100-foot drop that creates some exciting rapids); they want to create an urban green space for recreation with food trucks, farmers markets, music festivals and other community events; and finally, they want to create a hub where several long hiking trails converge. “If you’re a hiker or a cyclist coming into town,” Turner says, this would be the place to recharge your phones, use the restroom, or find out where to get a hamburger or beer.
+To jumpstart their vision, WWP first had to cleanup their riverfront property. To do this, they applied for and in 2013 scored a $200,000 EPA grant to remediate the brownfield site, a task that included removing all remnants of a gas station that had replaced the former mills. Turner says the remediation process was completed in the last couple of years, and more recently, thanks in part to WWP’s efforts, work on a mile-long downtown river trail has also concluded.
+In the meantime, Kristina Newman-Scott, Director of Culture in the Office of the Arts & Historic Preservation, with the State of Connecticut’s Department of Economic and Community Development (DECD), describes coming across the Land Art Generator Initiative at the American for the Arts conference when it was held in Pittsburgh. “I immediately knew that they were doing something incredibly unique,” she says, “and that Connecticut needed to know more about it.” Newman-Scott lamented that it wasn’t in the cards to work on a project with co-founders Elizabeth Monoian and Robert Ferry while she was still working for the City of Hartford. “But when I got the role as the head of arts and culture for the State of Connecticut,” she says, “they were on my priority list of partners.”
+Solar Boombox by Dinep+Schwab, Ted Efremoff, and Matt Macunas.
+Newman-Scott says she meets many project leaders interested to incorporate a sustainability component, but they often take a traditional approach. She thought it would be a perfect time to invite LAGI to work on a project at a small enough scale that would be feasible (funding is a factor) and that would enable the community to see change in real time, providing a model for the entire state. Newman-Scott and her team eventually connected Monoian and Ferry with WWP, which was already toying with ideas around creative placemaking for their downtown property, and a slew of other local stakeholders with various backgrounds. Newman-Scott says the process of linking the various partners was “so organic”. “It was like when you have all the right ingredients to make the best one-pot meal,” she laughs.
+On March 3, 2017, the Institute for Sustainable Energy (ISE) at Eastern Connecticut State University (ECSU) and the DECD Office of the Arts hosted LAGI for a community workshop in Willimantic to discuss the WWP site’s various challenges and opportunities, culminating in the decision to launch LAGI Willimantic. The project needed to exhibit the WOW factor to draw in both local and outside visitors and expand its potential to catalyze economic and community development. Jessica LeClair, Energy Technical Specialist for ISE, says LAGI Willimantic merges placemaking with renewable energy use, building community connections at the same time. “We see the LAGI Willimantic project as a possible model that we could share with others across the state.”
+In November, 2017, 15 teams submitted responses to a Request for Qualifications and three were selected to submit concept design proposals. After close consultations with the community through many outreach events, the three teams then presented their final designs to Willimantic on 14 April, 2018 in the lobby of ECSU’s Student Union. Roughly 50 people came out to vote for their preferred design, according to Turner, and the winner will be announced at CT Arts Day in Hartford on 25 April, 2018.
+Turner says the democratic process that led to the realization of this project isn’t about any one person, but rather allows the community to decide how it sees itself. With LAGI, according to Newman-Scott, “you’re creating a sense of space, you’re a creating this physical space that makes people feel further connected, and then you’re putting energy back on the grid.”
+Tafline Laylin is a freelance communicator and journalist who strives for global environmental and social justice. Her work has appeared in The Guardian, The Atlantic, OZY.com, and a variety of other international publications.
+Related Posts
+1 Comment
+Add comment Cancel reply
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+[…] Rio Iluminado won the LAGI Willimantic design competition in Connecticut. We're floored by the community's will to transform their town into an exciting new destination for people from all walks of life, and look forward to stepping […]
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/blagi/archives/category/lagi-team
+
+January 14, 2020
+by landartgenerator
+February 6, 2017
+November 24, 2015
+March 28, 2014
+January 1, 2014
+June 29, 2013
+June 10, 2013
+
+--------------------------------------------------------------------------------
+
+URL: http://landartgenerator.org/blagi/archives/tag/lagi-projects
+
+September 23, 2022
+by landartgenerator
+June 14, 2022
+January 14, 2020
+August 2, 2019
+by Artist Team
+October 5, 2016
+September 26, 2016
+September 22, 2016
+September 20, 2016
+September 15, 2016
+September 14, 2016
+September 8, 2016
+September 6, 2016
+August 31, 2016
+August 25, 2016
+August 24, 2016
+August 23, 2016
+August 18, 2016
+August 17, 2016
+August 11, 2016
+August 10, 2016
+August 4, 2016
+August 2, 2016
+January 2, 2016
+December 7, 2015
+September 16, 2015
+August 14, 2015
+May 10, 2015
+February 23, 2015
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/steam-workshops.html
+
+Learning & Resources
+Education is central to the Land Art Generator. By exploring innovative and artful applications of sustainable technologies, our programs spark curiosity and invite learners to engage with science, technology, engineering, and math through creative practice.
+LAGI places equal importance on engaging people of all ages, recognizing that the energy transition requires both early inspiration and lifelong learning. For young students, hands-on design experiences cultivate foundational literacy in energy, climate, and systems thinking. For university students and emerging professionals, LAGI offers opportunities to test ideas at real-world scales, bridging theory and practice. For adults and community members, our projects create accessible entry points to understanding renewable energy as a shared civic resource—embedded in public space, culture, and daily life. By working across generations, LAGI helps build a common language around sustainability—one that connects imagination with technical understanding, and individual curiosity with collective responsibility.
+LAGI’s educational work exemplifies a STEM-to-STEAM, project-based learning approach. As students design their own land art generators, middle school and high school participants develop applied understanding of concepts such as energy conversion efficiency and capacity factor, and become familiar with measuring and comparing energy in kilowatt-hours. At the same time, they apply principles of form, shape, color, and composition while engaging with ideas from urban planning and whole-systems design—skills increasingly recognized as essential for twenty-first-century problem solving.
+LAGI offers workshops and programs ranging from short sessions to multi-week Art + Energy camps and think tanks, working with learners of all ages. This page includes a selection of free educational tools and resources developed by LAGI to support educators, students, and community groups.
+Contact us to learn more about programming for youth or adults, guest lectures on the aesthetics of renewable energy, Art + Energy camps, exhibitions, or custom programs designed to engage communities in shaping their sustainable energy landscapes.
+Field Guide To Regenerative Water Technologies
+This water guide is organized by technology type, but you will find they often function most efficiently when designed as integrated systems of more than one technology type where flows of heat, electricity, and water work in harmony. Almost every one of the technologies in this water guide can be paired with solar electricity or solar thermal systems, providing abundant and carbon-free energy from the sun as the primary feedstock to locally defy entropy and limit the need for external resources.
+Field Guide To Renewable Energy Technologies
+The future we would like to see is one in which we are surrounded by the most diverse ecosystem of renewable energy technologies and landscapes, each a reflection of local culture and context. This guidebook will help you determine if that object that you find so beautiful is a semiconductor-based artificial photosynthetic cell, a piezoelectric generator, a triboelectric fabric, or a dye-sensitized solar cell. What is the future that you would like to see? Use this guide and design your own renewable energy landscapes!
+Kleingarten
+In this tiny corner of your world you’ll work and play with Neighbors while becoming a Master Grower. With each turn of the game you will build new features that will eventually yield a multiplying harvest of Resources. Share with Neighbors, support community events, and learn from Master Growers as you earn Victory Points along the way. Each player creates a unique horticultural space (their own Kleingarten!) where they harvest energy and water, grow a variety of plants, and raise small animals.
+Dual language English/German
+Download Game
+Regenerate!
+Dream, Design, Deploy
+Regenerate! is a collaborative resource management game in which players navigate regenerative land stewardship, sustainable development, and systems design thinking.
+This project emerged from the LAGI 2020 Fly Ranch Design Challenge. The game was developed in collaboration with the Land Art Generator Initiative, Tunnel Monster Collective, and the Fly Ranch Project.
+Infographics
+The Land Art Generator creates information graphics that communicate key facts about energy production and consumption, land use, and pathways toward a post-carbon future. These infographics have been cited and reproduced by numerous institutions, including the International Energy Agency.
+Art + Energy Flash Cards
+Science, technology, engineering, design, and art all come together in this kit!
+The Land Art Generator Art+Energy Flash Cards are designed to strengthen the pragmatic problem solving skills needed to address solutions for 21st century energy challenges by offering an engaging tool for science education. They highlight real world applications of STEAM objectives and teach about the importance of sustainability in design.
+Dual language English/Danish
+Download Flash Cards
+Solve the Climate Puzzle
+The goal of this STEAM educational game is to be the first player to solve a complete six-piece puzzle. Answer renewable energy trivia questions correctly to get puzzle pieces.
+POWER:
+Art + Energy Card Game
+Play to ZERO to win the great energy transition!
+The twenty-three stunning artworks that are featured on these cards have the benefit of providing clean energy to the city. Together they could power 26,307 homes, demonstrating how our cities and landscapes can become more beautiful as they become more sustainable.
+Land Art Generator Archives
+The Institute for Art + Environment at the Nevada Museum of Art houses the archives of our organization. Researchers interested in the Land Art Generator are encouraged to contact the Museum directly.
+Idea Generator Game
+There are five dice categories. Look through example images of each category to get a clear understanding of what each one means. Use all five, or leave one or more categories to your imagination by reducing the number of dice.
+By playing this game you will begin imagining renewable energy technologies in everyday places—housed in creative forms—and begin to design your own land art generators that could live in your backyard, neighborhood, or city center.
+Engagement
+Cultural institutions, universities, and municipalities are invited to collaborate with the Land Art Generator on workshops, immersive camps, and facilitated think tanks.
+We work with artists, educators, adults, and community stakeholders to design programs that integrate art, renewable energy, and systems thinking—supporting public engagement, interdisciplinary learning, and dialogue around climate and the built environment.
+These collaborations can result in strategic planning documents, public programs, youth camps, site-specific educational initiatives, and more.
+LAGI SEE MONSTER
+Art & Energy Challenge
+The LAGI SEE MONSTER Art & Energy Challenge is a chance for students to put their design and technology knowledge and skills to the test!
+Students age 12–18 are invited to imagine an work of public art for the Weston-super-Mare seaside that uses renewable energy technology as the medium for the art.
+We provide a Toolkit that guides you through the design process step by step.
+Youth Prize
+To coincide with the LAGI 2016 professional competition, we launched a Youth Prize that invited students to engage directly with the design challenge. Participants worked from a custom Youth Prize design brief and a 13-step Toolkit of activities developed to guide teachers and students through the full design process—from concept to proposal—for a land art generator located adjacent to the Santa Monica Pier.
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/lagiteam.html
+
+Leadership
+The Land Art Generator Initiative (LAGI) was founded in 2008 by Elizabeth Monoian and Robert Ferry to harness the power of art and design in accelerating the global response to climate change. LAGI works with communities worldwide to conceive and realize public art installations that generate renewable energy, harvest water, and provide other essential human-support systems across a range of scales.
+Through open-call international design competitions, invited competitions, and participatory design processes, LAGI has built a portfolio of thousands of design proposals and cultivated a global network of artists, designers, engineers, and researchers committed to advancing a post-carbon future that is not only viable, but also beautiful.
+Elizabeth and Robert have published, exhibited, and presented globally on the aesthetics of renewable energy and the role of art in providing solutions to climate change. Their publications include Climate Art (2025), Land Art as Climate Action (2022), Land Art of the 21st Century (2020), Return to the Source (2019), Energy Overlays (2018), Powering Places (2016), New Energies (2014), Regenerative Infrastructures (2012), The Time is Now: Public Art of the Sustainable City (2010), A Field Guide to Renewable Energy Technologies, and A Field Guide to Regenerative Water Technologies. See our publications page for more information and for links to purchase.
+Elizabeth Monoian
+Founding Co-Director and CEO
+Elizabeth Monoian is the founding co-director of the Land Art Generator Initiative (LAGI), where she leads the development of creative and social strategies that address climate challenges through art and design. She collaborates with cities, universities, corporations, cultural institutions, and community organizations to structure complex public–private partnerships and deliver tailored approaches to sustainable infrastructure with meaningful social co-benefits. Elizabeth has published, exhibited, and lectured internationally on the aesthetics of renewable energy and the role of art and design in advancing climate solutions and the energy transition. She holds an MFA from Carnegie Mellon University and has received numerous international honors, including the JMK Innovation Prize, Premio Brote Artístico, the Nick Reeves Award for Arts and the Environment, and the Zayed University Provost’s Research Fellowship.
+Robert Ferry
+Founding Co-Director and COO
+Robert Ferry is a registered architect and LEED accredited professional with decades of professional practice experience on both consultant and client sides. He has worked as design manager and project manager on sustainable new urbanist developments across the United States and spent four years as a consultant on large commercial projects in Abu Dhabi, where his focus shifted to ways in which buildings can move beyond net-zero and contribute to the energy needs of the surrounding city. His concept designs pushing the envelope of building-integrated renewable energy technology have been published widely. Through the Land Art Generator, he helps support the critical role of architecture and urban design as part of a comprehensive solution to climate change. Robert is the co-founder of the Land Art Generator, partner at Studied Impact Design, and a graduate of Carnegie Mellon University.
+Board of Directors
+Todd Bartholf
+Owner and Renewable Energy Consultant at Todd Bartholf Consulting
+LAGI Board Chair
+Todd Bartholf is an independent renewable energy consultant and has been active in the industry for over 35 years. He founded his first solar and wind contracting firm in Colorado at the age of 27, was president of an internationally respected systems integration design-build contractor for high-reliability renewable energy applications from 1988–1991 and a senior program officer with the renewable energy team at the international development assistance NGO, Winrock International, through 1996. More recently he held the position of Global Market Segment Director for Renewable Energy at a multinational Fortune 100 environmental engineering firm where he led the design and delivery of numerous large-scale initiatives for a variety of clients in both the public and private sectors, including as energy team lead for the company’s overall project manager role on the MASDAR project in Abu Dhabi from 2006–2010.
+Christopher Choa
+Founder at OUTCOMIST
+Chris Choa creates sustainable urban value with outcome-oriented masterplanning and program management. An advocate of impact investment, he is known for his entrepreneurial initiative and as a catalyst for growth. A Global Trustee of the Urban Land Institute, Choa is an active board member for a wide range of organizations related to real-estate, urban mobility, energy, and digital design. Prior to OUTCOMIST, Choa led AECOM’s Cities Consulting practice, and was an appointed advisor to the Mayor of London. He is a frequent public speaker and moderator. Chris holds a Master of Architecture (M. Arch) from Harvard University Graduate School of Design and a Bachelor of Arts (B. A.) from Yale University.
+Deborah Hosking
+Artist
+Deborah Hosking is a media professional, fine artist, and photographer whose career has crossed continents, disciplines and media. Painter, photographer, video/installation artist and filmmaker, her work has been seen in New York, Hong Kong, Paris, Los Angeles, Prague and, of course, Pittsburgh, as well as in film festivals around the country, with a number of awards to her credit. She holds a BFA from Carnegie Mellon University and an MFA in Film & Digital Media from Chatham University.
+Tim Mollette-Parks
+Associate Principal at Mithun
+Tim Mollette-Parks brings extensive experience delivering landscape projects of high-design quality in complex urban conditions. Tim’s resume of urban design and built landscape work is characterized by thoughtful design strategies that are highly conceptual, yet clear and flexible enough to endure a project’s changing demands. These design strategies emanate from a careful understanding of the local cultural, ecological and programmatic context. The resulting spaces are functional, delightful and firmly rooted in a sense of place. Working in a wide range of scales and budgets, Tim has been project manager and designer on high-profile landscapes, including work at previous firms such as the Broad Museum Plaza and Streetscape in Los Angeles, the Seaside Way Pedestrian Bridge in Long Beach, the new gardens of the Cooper Hewitt National Design Museum in New York City as well as connectivity and urban design strategies for Los Angeles Metro’s Crenshaw-to-LAX light rail line.
+Martin J. Pasqualetti
+Professor, School of Geographical Sciences and Urban Planning, Arizona State University
+Martin Pasqualetti is a professor in the School of Geographical Sciences and Urban Planning at Arizona State University and former Co-Director of the Energy Policy Information Council (EPIC). He is an elected Fellow of the American Association of Geographers; a recipient of the Alexander and Ilse Melamid Medal (American Geographical Society), and the 2018 Distinguished Alumnus of the Year at the University of California (Riverside). His general research interests encompass three areas of emphasis: energy and society, energy and land use, and renewable energy development. His current research concentrates on the social acceptance of renewable energy landscapes and recycling of energy landscapes. He has served two Arizona governors as chair of the Arizona Solar Energy Advisory Council, and he was as a founding member of the Arizona Solar Center. He serves on 10 editorial boards, including Energy Research & Social Science. He is the ASU liaison to the International Renewable Energy Agency, headquartered in Abu Dhabi.
+Victor Pérez-Rul
+Artist and Founder
+Studio Victor Pérez-Rul
+Víctor Pérez-Rul (Mexico) is a multidisciplinary artist, whose ongoing artistic research about energy and life merges futurism, natural sciences, cosmology, and engineering with a strong interest in collaborating with industries, institutions, cities, and landscapes. His solar sculptures, experimental collaborative projects, and large-scale installations propose and explore new ways of understanding and perceiving the universe, energy, and the living. Victor’s quest is a neo-futurist approach to the problem of understanding the multidisciplinary crossing between energy and art, urbanism, architecture, and the reconception of our role in the planet.
+Paul Schifino
+Graphic Designer Schifino Design
+Paul Schifino, received his degree in Graphic Design from the Art Institute of Pittsburgh in 1979. His professional work has been recognized by publications including: Communication Arts (CA), Graphis, Print Magazine, How Magazine, and ReadyMade magazine. His personal work has been included in exhibits at the Andy Warhol Museum (AMP), the Mattress Factory (Gestures #4 and #14), TRAF Gallery (By Design), the TRAF (Best of Pittsburgh Show), FE Gallery (Pittsburgh 250), and SPACE Gallery (The John Show) among others. His work is also included in the permanent archives of the Mattress Factory. He has served as president of the Board of Directors of the AIGA Pittsburgh, and is a former member of the Advisory Boards of the American Shorts Reading Series, and the Art Institute of Pittsburgh. He currently serves on the Board of Directors of the Land Art Generator Initiative and is the AIGA 100 Liaison for AIGA Pittsburgh.
+George Riley Thomas II
+Member at Metz Lewis Brodman Must O’Keefe LLC
+George Riley Thomas II is a member of Metz Lewis Brodman Must O’Keefe LLC, where he chairs the firm’s corporate practice group. Prior to joining Metz Lewis, George practiced in the Washington, DC area. Throughout his career, he has represented businesses in various transactional and commercial matters, concentrating mostly in mergers and acquisitions. George is a 1993 graduate of Harvard University where he studied Modern European History. Following his undergraduate work, George attended the University of Michigan Law School and graduated in 1996.
+Advisory Committee
+Tafline Laylin
+Herman J. Milligan, Jr., Ph.D.
+Thaddeus Padlowski
+Ann Rosenthal
+Naz Shahrokh
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/atasa-solar/
+
+Atasa Solar
+The Land Art Generator, Idia’Dega, and Olorgesailie Maasai Women Artisans (OMWA) partnership brings culturally grounded renewable energy infrastructure to the Maasai community of Olorgesailie, Kenya.
+Working closely with Tereneh Mosley and Idia’Dega: Elegant Ethical Apparel — A Global Eco-Design Collaboration, Maasai women have taken the lead in designing creative installations that also generate clean, renewable energy for their community.
+This participatory design model values cultural exchange as much as technical outcome, strengthening infrastructure in ways that support long-term creativity, resilience, and sustainability.
+By positioning Maasai women as lead designers—rather than imposing external engineering aesthetics—the project fosters a respectful relationship between renewable energy infrastructure, indigenous rights, and cultural and aesthetic priorities.
+There is clearly a large overlap between renewable energy projects and indigenous peoples’ territories in Kenya. As such, the renewable energy corporations have a responsibility to respect the rights of these communities in line with international and national human rights instruments. The UN Guiding Principles on Business and Human Rights place the responsibility on business enterprises to respect the rights of communities when undertaking projects on their lands and territories. Renewable energy projects in Kenya must therefore be designed and implemented in ways that protect and advance the rights of indigenous peoples.
+Renewable Energy Projects and the Rights of Marginalised/Indigenous Communities in Kenya
+IWGIA — Report #21, November 2015
+The Artists
+Dikka Emmy
+Karaiton Maria
+Karura Rebecca
+Katano Alice
+Kilakoi Elizabeth
+Kilenoi Agnes
+Kinta Regina
+Kitamuas Maria
+Lakati Elizabeth
+Lanket Marisa
+Letei Naomy
+Loice Mary
+Maato Joiyce
+Machipei Rosemar
+Mankeni Agnes
+Metui Maria
+Momery Hellen
+Mpuyuk Esther
+Mukana Jane
+Naiyonte Esther
+Nancy Grace
+Nasitoi Esther
+Nepetia Jemimah
+Ntaine Charity
+Ntete Peninah
+Pilanoi Naomy
+Rimas Mary
+Rokiya Agnes
+Sein Joyce
+Sekento Eunice
+Sencha Jane
+Simpano Jackline
+Siyai Ncharucha
+Sunkura Agnes
+Tale Leah
+Tekenet Regina
+The Process
+Design workshops began with open discussions about solar energy—facilitated by Elizabeth Kilakoi, a local Olorgesailie resident fluent in English and Maa—focusing on feasible energy scales and how solar power could support daily life in the homestead.
+As conversations turned to how ideas from the Idia’Dega design collaboration might translate into solar form, sketching quickly became central to the process. Artisans began drawing collectively, revealing shared themes and symbols: the sun, trees, animals, and geometric forms rooted in Maasai visual language.
+By the end of the week-long workshop, multiple designs were selected for implementation, ranging from wearable solutions to homestead-scale infrastructure. All designs reflect the cultural, aesthetic, and practical needs of the women and their families.
+The Need
+- Access to electricity, water, and sustainable cooking and heating methods remains limited in Olorgesailie.
+- Lack of lighting restricts evening learning and household activity.
+- Cell phones—essential for communication with international partners—must be charged by walking long distances to grid-connected villages.
+- Economic and social pressures on land and resources are increasing.
+- Reliable access to energy supports education, communication, creative production, and income generation—placing Maasai women in a stronger position within the global economy.
+The Goal
+Using local materials combined with renewable energy technologies provided through the partnership, Maasai women are designing functional art objects that reflect their culture and vision for the future.
+At scales ranging from approximately 100 Wp to 5 kWp, the collective installations will provide electricity for homes, freshwater pumping, and wearable solar power integrated into the Idia’Dega fashion collaboration. Some designs also explore solar cooking as part of the infrastructure.
+This approach to rural electrification prioritizes long-term sustainability and economic agency. Designs developed and prototyped in Olorgesailie will be produced by Olorgesailie Maasai Women Artisans (OMWA) for a global market—creating ongoing income while building local technical and design capacity.
+The Story
+In 2015, Tereneh Mosley, founder of Idia’Dega, approached the Land Art Generator after years of collaborative work with the Olorgesailie Maasai Women Artisans in Kenya’s South Rift Valley.
+While large-scale solar projects were beginning to appear in the region—designed to feed the national grid rather than serve local communities—OMWA identified modest electrification as a pressing need for security, education, communication, and creative enterprise.
+Building on Idia’Dega’s collaborative design model, the Idia’Dega and Land Art Generator partnered with OMWA to co-design culturally relevant, off-grid solar infrastructure—placing Maasai women not only as users, but as lead designers of their own energy future.
+
+--------------------------------------------------------------------------------
+
+URL: https://landartgenerator.org/solar-mural-artworks/
+
+Land Art Generator Solar Mural Artwork Program
+As solar panels become customizable, public art is poised for a transformation. Land Art Generator Solar Mural artworks merge cultural expression with renewable energy, turning building facades into works of art that actively contribute to a clean energy future.
+These murals celebrate local identity, create new opportunities for artists, and make neighborhoods more vibrant—while also reducing urban carbon emissions. In the sustainable cities of the near future, murals will be fabricated from photovoltaic panels as naturally as they are painted today.
+Solar Mural artworks are suitable for municipal buildings, schools, libraries, transit facilities, parking structures, cultural institutions, data centers, and private developments seeking high-impact sustainability solutions.
+We partner with communities and site owners to deliver Solar Mural projects from concept to completion, including:
+- Facilitating calls to local artists and muralists (RFP/RFQ)
+- Identifying local partners and stakeholders
+- Supporting community outreach and educational programming
+- Assisting with project budgeting and feasibility
+- Identifying ideal sites and solar orientation
+- Selecting appropriate photovoltaic technologies
+- Guiding the collaborative design process
+- Producing detailed fabrication drawings
+- Coordinating fabrication and installation
+Please contact us to bring a Solar Mural artwork to your community! lagi@landartgenerator.org
+
+--------------------------------------------------------------------------------

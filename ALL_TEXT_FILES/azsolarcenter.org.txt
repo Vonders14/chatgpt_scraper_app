@@ -1,0 +1,644 @@
+ROOT: https://azsolarcenter.org/
+SCRAPED_AT_UTC: 2026-02-11T19:51:12.236355Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://azsolarcenter.org/
+
+Federal
+-
+-
+The Inflation Reduction Act (IRA) of 2022 makes the single largest investment in climate and energy in American history, enabling America to tackle the climate crisis, advancing environmental justice, securing America’s position as a world leader in domestic clean energy manufacturing, and putting the United States on a pathway to achieving the Biden Administration’s climate goals, including a net-zero economy by 2050.
+As part of the Inflation Reduction Act of 2022 signed into law on August 16, 2022, residential energy efficiency tax credits have been extended through 2032. This information applies to the existing tax credits for 2022. Changes to residential energy efficiency tax credits under the Inflation Reduction Act will become effective starting in 2023. Please bookmark this page, as we will be updating the information here by the end of the year.
+Tax credits for residential energy efficiency and those for builders of energy efficient homes were extended retroactively, through December 31, 2022. Tax deductions for energy efficient commercial buildings allowed under Section 179D of the Internal Revenue Code were made permanent under the Consolidated Appropriations Act of 2021.
+The tax credits for residential renewable energy products are now available through December 31, 2023. Renewable energy tax credits for fuel cells, small wind turbines, and geothermal heat pumps now feature a gradual step down in the credit value, the same as those for solar energy systems. As of 2021, biomass fuel stoves are included in tax credits for residential renewable energy products.
+Federal Solar Tax Credits for Businesses
+There is a good, detailed explaination of the new Federal Solar Tax Credits for Businesses.
+Homeowner’s Guide to the Federal Tax Credit for Solar Photovoltaics
+There is also a good, detailed explaination of the updated Homeowner’s Guide to the Federal Tax Credit for Solar Photovoltaics.
+See our simplified homeowner's Federal Solar Tax Credit Guide for Homeowners (2023)
+BILLINGS, Mont. (AP) — U.S. officials announced approval Tuesday of two large-scale solar projects in California and moved to open up public lands in other Western states to potential solar power development, as part of the Biden administration’s effort to counter climate change by shifting from fossil fuels.
+See the Associated Press article.
+The Department of Energy on November 5, 2021 announced a target of the equivalent of five million homes powered by community solar energy by 2025.
+The target would save $1 billion and contribute to administration goals of fully renewable electricity by 2035, according to the department.
+“Community solar is one of the most powerful tools we have to provide affordable solar energy to all American households, regardless of whether they own a home or have a roof suitable for solar panels,” Energy Secretary Jennifer M. Granholm said in a statement. “Achieving these ambitious targets will lead to meaningful energy cost savings, create jobs in these communities, and make our clean energy transition more equitable.”
+Read more at THE HILL
+-
+-
+On OCTOBER 28, 2021 President Biden Announced the Build Back Better Framework. This will have a major impact on Renewable Energy and sustainability. Some of the major components are:
+- The largest effort to combat climate change in American history. The framework will cut greenhouse gas pollution by well over one gigaton in 2030, reduce consumer energy costs, give our kids cleaner air and water, create hundreds of thousands of high-quality jobs, and advance environmental justice by investing in a 21st century clean energy economy – from buildings, transportation, industry, electricity, and agriculture to climate smart practices across our lands and waters.
+- Ensure clean energy technology – from wind turbine blades to solar panels to electric cars – will be built in the United States with American made steel and other materials, creating hundreds of thousands of good jobs here at home. The Build Back Better legislation will target incentives to grow domestic supply chains in solar, wind, and other critical industries in communities on the frontlines of the energy transition. In addition, the framework will boost the competitiveness of existing industries, like steel, cement, and aluminum, through grants, loans, tax credits, and procurement to drive capital investment in the decarbonization and revitalization of American manufacturing.
+- Advance environmental justice through a new Clean Energy and Sustainability Accelerator that will invest in projects around the country, while delivering 40% of the benefits of investment to disadvantaged communities, as part of the President’s Justice40 initiative. The framework will also fund port electrification; facilitate the deployment of cleaner transit, buses, and trucks; and support critical community capacity building, including grants to environmental justice communities. In addition, the framework will create a new Civilian Climate Corps – with over 300,000 members that look like America. This diverse new workforce will conserve our public lands, bolster community resilience, and address the changing climate, all while putting good-paying union jobs within reach for more Americans.
+The full document is available on the Whitehouse,gov website
+By Ivan Penn | New York Times
+The Biden administration on Wednesday released a plan to produce almost half of the nation’s electricity from the sun by 2050 as part of its effort to combat climate change.
+Solar energy provided less than 4 percent of the country’s electricity last year, and the administration’s target of 45 percent would represent a huge leap and will most likely take a fundamental reshaping of the energy industry. In a new report, the Energy Department said the country needed to double the amount of solar energy installed every year over the next four years compared with last year. And then it will need to double annual installations again by 2030.
+More Information https://roselawgroupreporter.com/2021/09/biden-releases-ambitious-plan-for-solar-energy/
+Arizona
+-
+-
+The Arizona Legislature's session had many energy bills to oppose (HB2248, SB1175, HB2737 in particular). These died at the end of the session, but the concepts could be presented in the future.
+Status of 2021 Session Bills:
+DEAD-HB 2248: Corporation Commission; Electric Generation Resources
+Alarm bells are ringing by environmentalists over HB2248 (and Senate bill 1175). These would prohibit “Arizona Corporation Commission from adopting or enforcing any policy, decision or rule that directly or indirectly regulates critical electric generation resources used or acquired by public service corporations within Arizona’s energy grid without express legislative authorization. (Sec. 1) 2.” The bill cripples the ACC from doing its job. (Kerr, Gowan, Gray and others). The House passed a Senate committee 6-4 but was caught up in committee when the Legislature adjourned.
+DEAD-SB 1175: Corporation Commission; Electric Generation Resources
+See above.
+DEAD-HB 2737: Corporation Commission Actions; Investigation
+Dead. Environment – HB2737, would allow any lawmaker to order Arizona’s Attorney General to investigate the Arizona Corporation Commission and to require 10% of the commission’s operating budget to be withheld if the AZ Supreme Court determines this agency has exceeded its statutory authority or is not executing or enforcing statute. Sponsored by Jacqueline Parker (R-16). Probably aimed at curbing the ACC environmental regulations. Passed Committee of the Whole but not voted on in time.
+Thanks to all who voiced their opposition to the above bills. It is imperative that we convey the negative impact passing bills such as these will have on the regulatory certainty that companies rely on to locate, relocate and grow. We need to protect our state’s economy, our health and our future. Email your representatives.
+Here is a link to find your representatives
+Arizona Corporation Commission
+Three Republican utility regulators have voted down a proposal for 100% carbon-free energy in Arizona that was considered, debated, workshopped and offered for public comment for more than five years.
+This appears to be a major set back for renewable energy and the environment in Arizona. See the full Arizona Republic artice for details.
+Also a good article in Arizona Capitol Times
+-
+-
+6/30/20220
+Commissioners approved Tucson Electric Power Company’s (TEP) revised Distributed Generation Interconnection Manual. The creation of these manuals was required following the Commission passing rules dealing with the interconnection of distributed generation facilities. TEP’s manual lays out technical and safety requirements that customers within its service territory must follow when interconnecting a distributed generation system, such as residential and commercial solar projects, to the existing grid. The manual is meant to create a standardization process for customers.
+TEP’s manual was initially approved at the Commission’s February 2022 Open Meeting, however, following the passage of AriSEIA proposed amendments at that meeting, a revision to the manual was necessary. After several meetings between AriSEIA, TEP, and ACC Staff, the manual was revised to include information regarding Meter Socket Adapters (MSA), detailing their use for generating facilities. The manual was updated to better preserve the Super-Fast Track and Fast Track designations, allowing for faster review tracks for qualified projects. The revised manual also clarifies study cost fees customers are responsible for prior to beginning any study. TEP’s revised manual does not prematurely require inverters to comply with the IEEE sections that are not yet developed or for which equipment is not yet capable of compliance. Further, the manual modified its requirements around transfer trip infrastructure so as not to be overly burdensome, thereby reducing costs for large installations. Finally, the revised manual includes an additional section that provides a list of scenarios meriting an extension of time.
+All documents related to this agenda item can be found in the Corporation Commission’s online docket at https://edocket.azcc.gov and entering docket number E-01933A-20-0116.
+On August 12, 2021 the Office of Arizona Corporation Commission Chairwoman Lea Márquez Peterson released an interesting summary of the average future bill impact to residential customers up to 2050, depending on the utility and the amount of emission reductions that each utility achieves within that time. Worth a read.
+PHOENIX - Several clean energy proposals are currently pending before the Arizona Corporation Commission. After several months, the Commission has received an independent analysis of at least two of these proposals: 100 percent zero-emission energy by 2050 and 80 percent clean energy by 2050.
+Link to the full summary
+-
+-
+On May 26th 2021, the Arizona Corporation Commission reconsidered and passed a Clean Energy Rules package. The energy rules package includes 100% carbon-free energy in Arizona by 2070. And the carbon reductions are requirements and not goals.
+Revised carbon emissions reductions levels by the following:
+• 50% by December 31, 2032
+• 65% by December 31, 2040
+• 80% by December 31, 2050
+• 95% by December 31, 2060
+• 100% by December 31, 2070
+Most importantly, the passed rules retained all the beneficial policies and requirements around storage and distributed storage. Specifically, the rules include a 35% energy efficiency requirement, which is the nation’s first distributed storage/solar requirement, preferential treatment for energy procurement from coal-impacted communities and tribes, as well as a complete rewrite of the IRP rules that will require the Commission to approve, rather than acknowledge a preferred portfolio of resources.
+This is not yet final, as a result of substantive changes made to the original Recommended Opinion and Order, the amended energy rules package will be sent back through the formal rulemaking process. An updated schedule will be implemented that will allow for written comments and public comment on the record. Interested parties can submit formal written comments to the docket beginning July 9, 2021 through August 20, 2021. Public comment sessions will be held on August 16 and 19, 2021, at 10am.
+The passage of the Energy Rules as they presently stand reflects a significant win for ratepayers, for the people of Arizona and for the Solar Energy Industry.
+See also Materials Presented by the Joint Stakeholders at the Commission's March 2020 Energy Rules Workshop
+The Nature Conservancy has submitted their report "Arizona Thrives - A Path to a Healthy and Prosperous Future" to the ACC. Interesting.
+APS has submitted their report, The Solar Center has slightly reformatted this report by rotating the pages for easier viewing. APS has provided two presentations to address the ACC questions. Worth a read.
+Read more: Interconnection of Distributed Generation Facilities
+Read more: Arizona Statewide Transportation Electrification Plan
+County/City/Tribal/etc.
+-
+-
+The City of Phoenix has continued dialog with the solar industry and other stakeholders to enact some solar code changes that generally increase the area of residential one- and two- family dwelling roof areas that can be utilized for photovoltaic arrays. This has been done by reducing the required pathways for fire access. The major changes are:
+Pathways to ridge. Not fewer than two 36 inch- wide (914 mm) pathways on separate roof planes, from lowest roof edge to ridge, shall be provided on all buildings. Not fewer than one pathway shall be provided on the street or driveway side of the roof. For each roof plane with a photovoltaic array, not fewer than one 36-inch- wide (914 mm) pathway from lowest roof edge to ridge shall be provided on the same roof plane as the photovoltaic array, on an adjacent roof plane or straddling the same and adjacent roof planes.
+Setbacks at ridge. For photovoltaic arrays occupying 33 percent or less of the plan view total roof area, a setback of not less than 18 inches (457 mm) wide is required on both sides of a horizontal ridge. For photovoltaic arrays occupying more than 33 percent of the plan view total roof area, a setback of not less than 36 inches (457 mm) wide is required on both sides of a horizontal ridge.
+Alternative setbacks at ridge. Where an automatic sprinkler system is installed within the dwelling in accordance with Section 903.3.1.3, setbacks at the ridge shall conform to one of the following:
+1. For photovoltaic arrays occupying 66 percent or less of the plan view total roof area, a setback of not less than 18 inches (457 mm) wide is required on both sides of a horizontal ridge.
+2.For photovoltaic arrays occupying more than 66 percent of the plan view total roof area, a setback of not less than 36 inches (914 mm) wide is required on both sides of a horizontal ridge.
+For more information see: Phoenix Fire Code Changes 7-3-2021
+APS
+-
+-
+On November 2, the Arizona Corporation Commission voted its final approval to eliminate Arizona Public Service (APS) company’s “grid access charge,” ending a decade-old unfair practice of charging residential solar customers a discriminatory fee. The grid access fee, a monthly fee based on $0.93 per kW-dc of generation. This fee averaged about $100 per year per solar customer. The Arizona Solar Energy Industries Association (AriSEIA) and the Solar Energy Industries Association (SEIA) argued that the fee unfairly targeted solar customers under the pretense that it cost more to provide them with electricity.
+APS is also reducing the "on peak" hours for time-of-use electricity plans eventually will shift to 4 to 7 p.m. Today, those rate plans use on-peak hours of 3 to 8 p.m. APS said it could take 10 months to implement the change.
+The changes regulators made to APS revenue will affect bills starting in December, but the company said it would take several months to adjust the new on-peak hours on time-of-use energy plans.
+APS has several large photovoltaic (PV) systems in the desert outside Gila Bend, Arizona. They are now adding energy storage systems to some of these PV systems. There is a good article about these on ABC15.com
+A look inside one of APS' energy storage systems
+Arizona Public Service Co. has introduced a Residential Battery Pilot Program, starting October 4, 2021.
+The pilot will be available to APS residential customers who install residential battery systems, enroll in a TOU (Time of Use) or TOU-plus-demand service plan and commit to discharging their batteries during on-peak periods. (Note: Rate requirements are waived for customers on grandfathered solar rates.) The pilot will help APS learn about battery performance in a variety of conditions and how batteries may create value for customers through improved management of energy demand at their residence and help reduce stress on the electric grid.
+Full Article
+Read more: Update- Utility Solar Battery Fire in Arizona (Intro)
+SRP
+SRP, the Phoenix Zoo and City of Phoenix officials recently unveiled a new Phoenix Zoo solar-covered electric vehicle (EV) charging station. The station provides Zoo patrons with 20 pay-to-charge parking spaces near the zoo’s entrance so Zoo visitors can spend the day knowing they will return to their charged vehicle.
+More information on the SRP website
+TEP
+-
+-
+December 7, 2021
+With the recent upgrades and adjustments to the Tucson Electric Power (TEP) LAT3 13.8 kilovolt circuit in Marana, TEP is pleased to announce that all of the circuits on its local grid now have the capacity to support new residential solar projects sized at 20 kW AC and less.
+This means homeowners who wish to install rooftop solar anywhere in the TEP service territory should be able to clear “Screen A” of Arizona’s Distributed Generation Interconnection Rules (DGIRs), allowing them to install systems that export excess energy to the TEP local grid.
+As you may be aware, some TEP circuits were previously saturated with DG capacity exceeding levels referenced in the DGIR screening tests. Those tests compare the aggregate DG capacity on each circuit with that circuit’s peak load and minimum daytime load over the previous 12 months.
+Since then, TEP has completed extensive hosting capacity studies and has made system improvements to expand capacity on circuits where new interconnection requests previously triggered additional review. All of the TEP circuits now have capacity for the addition of new residential exporting DG systems.
+The TEP Energy Programs team will contact customers whose rooftop solar projects were suspended due to circuit saturation to inform them that these restrictions have been addressed and to invite them to submit their application to TEP.
+TEP is committed to taking a proactive approach to surveying its system and identifying solutions to be able to accommodate additional growth.
+If you have any questions, email TEP at renewables@tep.com.
+-
+-
+6/30/20220
+Commissioners approved Tucson Electric Power Company’s (TEP) revised Distributed Generation Interconnection Manual. The creation of these manuals was required following the Commission passing rules dealing with the interconnection of distributed generation facilities. TEP’s manual lays out technical and safety requirements that customers within its service territory must follow when interconnecting a distributed generation system, such as residential and commercial solar projects, to the existing grid. The manual is meant to create a standardization process for customers.
+TEP’s manual was initially approved at the Commission’s February 2022 Open Meeting, however, following the passage of AriSEIA proposed amendments at that meeting, a revision to the manual was necessary. After several meetings between AriSEIA, TEP, and ACC Staff, the manual was revised to include information regarding Meter Socket Adapters (MSA), detailing their use for generating facilities. The manual was updated to better preserve the Super-Fast Track and Fast Track designations, allowing for faster review tracks for qualified projects. The revised manual also clarifies study cost fees customers are responsible for prior to beginning any study. TEP’s revised manual does not prematurely require inverters to comply with the IEEE sections that are not yet developed or for which equipment is not yet capable of compliance. Further, the manual modified its requirements around transfer trip infrastructure so as not to be overly burdensome, thereby reducing costs for large installations. Finally, the revised manual includes an additional section that provides a list of scenarios meriting an extension of time.
+All documents related to this agenda item can be found in the Corporation Commission’s online docket at https://edocket.azcc.gov and entering docket number E-01933A-20-0116.
+Tucson Electric Power (TEP) plans to provide more than 70 percent of its power from wind and solar resources as part of a cleaner energy portfolio that will reduce carbon emissions 80 percent by 2035.
+TEP has filed its integrated resource plan (IRP) with the Arizona Corporation Commission, outlining plans for 2.5GW of new solar and wind over the next 15 years and 1.4GW of energy storage capacity as it progressively shutters its coal power stations.
+See the TEP Press Release for more information: https://www.tep.com/news/tep-plans-clean-energy-expansion-carbon-reduction/
+TEP has upgraded their distribution system and as of December 7, 2021 the following no longer applies. Remaining posted for historical reasons.
+TEP customers intending to install a new PV system now need to check that their system can be safely installed and connected to TEP’s grid.
+TEP now has service areas that are saturated with PV systems where new PV systems are subject to additional review and requirements under Arizona’s Distributed Generation Interconnection Rules. TEP has prepared DG Saturation Maps showing these areas.
+This further described at https://www.tep.com/get-started-with-solar/
+This requirement stems from the recent Distributed Generation Interconnection Rules issued by the Arizona Corporation Commission.
+Further information is available at:Interconnection of Distributed Generation Facilities
+Update: See the related article on tucson.com: New state rules limit rooftop solar systems in some Tucson neighborhoods
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/about-azsc
+
+Arizona Solar Center Mission
+The mission of the Arizona Solar Center is to enhance the utilization of renewable energy, educate Arizona's residents on solar technology developments, support commerce and industry in the development of solar and other sustainable technologies and coordinate these efforts throughout the state of Arizona.
+About the Arizona Solar Center
+The Arizona Solar Center (AzSC) provides a broad-based understanding of solar energy, especially as it pertains to Arizona. Registered with the IRS as a 501(c)(6) non-profit organization, the Center is administered by a Board of Directors made up of individuals with wide experience and training in solar energy and other renewable energy resources. It is the goal of the Center to provide you with core information about solar energy in Arizona, to keep you up to date on what is happening in the Arizona solar energy community, steer you to published resources and equipment, and also to link you to solar energy sources outside the state as well. The AzSC is not intended to provide specific technical or financial analysis; for that, we encourage you to contact a licensed professional. Overall, the mission of the AzSC is to enhance the utilization of solar and other renewable energy, educate Arizona's residents on solar technology developments, support commerce and industry in the development of solar and other sustainable technologies and coordinate these efforts throughout the State.
+About the Arizona Solar Center Website
+Our site contains introductory information, topic specific analysis, maps, reference material, professional links, news, events and more - there is a substantial amount of information about solar energy here! If you cannot find what you are looking for, please feel free to contact us with any questions. Your message will be forwarded to one of the members of the Board of the Arizona Solar Center for response. Use the main navigation menu, the site map or the search function to explore the site.
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/about-azsc?tmpl=component&print=1
+
+Arizona Solar Center Mission
+The mission of the Arizona Solar Center is to enhance the utilization of renewable energy, educate Arizona's residents on solar technology developments, support commerce and industry in the development of solar and other sustainable technologies and coordinate these efforts throughout the state of Arizona.
+About the Arizona Solar Center
+The Arizona Solar Center (AzSC) provides a broad-based understanding of solar energy, especially as it pertains to Arizona. Registered with the IRS as a 501(c)(6) non-profit organization, the Center is administered by a Board of Directors made up of individuals with wide experience and training in solar energy and other renewable energy resources. It is the goal of the Center to provide you with core information about solar energy in Arizona, to keep you up to date on what is happening in the Arizona solar energy community, steer you to published resources and equipment, and also to link you to solar energy sources outside the state as well. The AzSC is not intended to provide specific technical or financial analysis; for that, we encourage you to contact a licensed professional. Overall, the mission of the AzSC is to enhance the utilization of solar and other renewable energy, educate Arizona's residents on solar technology developments, support commerce and industry in the development of solar and other sustainable technologies and coordinate these efforts throughout the State.
+About the Arizona Solar Center Website
+Our site contains introductory information, topic specific analysis, maps, reference material, professional links, news, events and more - there is a substantial amount of information about solar energy here! If you cannot find what you are looking for, please feel free to contact us with any questions. Your message will be forwarded to one of the members of the Board of the Arizona Solar Center for response. Use the main navigation menu, the site map or the search function to explore the site.
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/arizona-s-renewable-energy-future
+
+Home
+About
+Arizona's Renewable Energy Future
+Technology
+Solar Electric (PV) Technology
+Concentrating Solar Power (CSP)
+Solar Hot Water (SHW)
+Solar Cooking
+Solar Space Heating
+Other Renewable Energy Sources
+Technology & Science - Technical Documents
+Barriers to Implementation
+Environmental Benefits of Renewable Energy
+Solar for Professionals
+Solar Water Pumping
+Sonnen Signs a Deal to Put Storage in New Arizona Housing Developments
+Economics
+Economics of Photovoltaic Systems
+Economics of Solar Thermal Systems
+Financing
+Renewable Energy Incentives
+Transaction Privilege Tax (TPT) Change- 2017
+Arizona Electric Utility Information
+Education
+Education Overview
+Educational Modules
+Presentations
+Passive Solar Energy - The Starting Point
+Solar Technology & Science
+Timeline Videos
+Architecture
+Solar Building Design in Arizona
+Solar Architecture in Arizona
+Passive Solar Energy - The Starting Point
+Passive Solar Heating & Cooling Manual
+Scientists turn wood into a material that reflects heat, is as strong as steel
+Resources
+All the other information
+Library
+Further Resources
+What Can I Do....?
+Utility/Solar Issues in Arizona
+Solar Site Tours
+Solar Videos
+Glossary of Terms
+Solar Hot Water Manuals
+Questions & Answers
+Resource Maps
+Photo Galleries
+Retired Featured Articles
+How Not to Do It- Solar Electric
+Key Organizations in Arizona
+Old Newsletters
+Government Stuff
+Know Your Rights
+Arizona Legal Environment
+Western Governors' Association
+ArizonaGoesSolar.org
+ACC-PROPOSED PV RULEMAKING
+Arizona's Renewable Energy Future - Arizona's Renewable Energy Future
+Vision Slide
+Vision Slide
+Vision Slide
+Vision Slide
+Vision Slide
+Vision Slide
+Vision Slide
+Vision Slide
+Vision Slide
+Vision Slide
+Vision Slide
+Vision Slide
+Vision Slide
+Vision Slide
+Vision Slide
+Vision Slide
+Vision Slide
+Vision Slide
+Vision Slide
+Vision Slide
+Ordering
+Ordering Ascending
+Ordering Descending
+Title Ascending
+Title Descending
+Date Ascending
+Date Descending
+Rating Count Ascending
+Rating Count Descending
+Rating Ascending
+Rating Descending
+Hits Ascending
+Hits Descending
+Display Num
+5
+10
+15
+20
+50
+All
+Page 1 of 3
+Start
+Prev
+1
+2
+3
+Next
+End
+Powered by
+Phoca Gallery
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/technology
+
+Our technical data is organized into the following categories:
+- Solar Electric (PV) Also known as Photovoltaic Technology
+- Concentrating Solar Power (CSP) Using reflectors or lens technology to focus sunshine
+- Solar Hot Water (SHW) Making hot water for homes and businesses
+- Solar Cooking Making and using simple solar cookers that work without fuel
+- Solar Space Heating Keeping warm with solar energy
+- Other Renewable Energy Sources Biomass, wind power, hydropower
+- Technology & Science - Technical Documents Some information on How to Do It, and How Not to Do It
+- Barriers to PV Implementation There are many barriers to wide scale adoption of photovoltaic systems in Arizona
+- Environmental Benefits of Renewable Energy Solar, wind, and hydroelectric systems generate electricity with no associated air pollution emissions
+- Solar for Professionals Some PDF Documents of interest to solar professionals
+- Solar Water Pumping Using photovoltaic technology to pump water for homes, cattle, irrigation, etc.
+- Let us know what other technical data you need.
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/technology/solar-electric-pv
+
+Introduction
+Photovoltaics (PV for short) is the technology that converts light directly into electricity. It all starts with the basic solar cell that may be made from many different materials. The most popular material is silicon. There are many processes that may be used (See our article on Solar Cells) and substantial development work is in process worldwide on methods that increase efficiency (higher rate of conversion of sunlight), reduce costs, and increase the lifetime of the solar cells.
+A single solar cell is not very useful, the voltage is low and the solar cell can easily be damaged by the environment. See our article on Fundamentals of Photovoltaic Systems for further details on making solar cells into useful items.
+A major feature of photovoltaic systems is the ability to produce electrical energy without any need for fuels or causing polution. The costs of the produced energy are hard to quantify as most of the costs are up front capital costs and the amount of energy produced depends on the site weather and several installation design elements.
+How to Use Photovoltaic Technology
+The practical use of photovoltaic technology ranges from very small to very large and close to home and far away.
+There are many reasons to use photovoltaic technology to meet energy needs. The technology is scalable from very small (watches) to very large (utility scale plants covering square miles), allowing unique needs to be met and improving the environment when compared to conventional sources of energy. There are many benefits from financial to environmental, see our article on Environmental Benefits of Renewable Energy.
+A good introduction to residential PV systems is our article Path to Solar. It covers a wide range of PV implementation information. See also: Should you install solar on your home? 10 key considerations, Considerations in sizing a PV system in Arizona and Questions to Ask before Purchasing a Solar System.
+Utility Related PV Information:
+- Arizona Electric Utility Information
+- Summary of APS Solar Rate Plans- 2019
+- Arizona Corporation Commission-PROPOSED RULEMAKING REGARDING INTERCONNECTION OF DISTRIBUTED GENERATION FACILITIES
+- Frequently asked questions about SRP's commercial solar electric program
+- $13.6B record-breaking solar park rises from Dubai desert
+- Navajo Nation Eyes Utility-Scale Solar with Growing Interest
+- Tucson Electric Power (TEP) to provide 70% of its energy from solar and wind by 2035
+Educational & Commercial PV Systems
+(coming soon)
+Some Historical information
+Over the decades there have news articles on improved technologies for producing solar cells. Most of these, even if backed by a major technology company, have not made it in the marketplace. Here is an example: False Technology Start- Spheral Solar Power plant in Canada
+Some nice to know information
+(more coming soon)
+More Technical Information
+There is a good general technical article on Engineering.com that is worth a review: Challenges of Making Solar Energy Economical
+For a more technical introduction to small utility connected PV systems, the interactive PV-Explore presentation presents some details. This is slightly dated (2012 state of the art), but describes some of the components. At present it is not integrated with the rest of this website, use your back arrow to return to this page. PV-Explore- Understanding and Troubleshooting Grid Connected PV systems.
+The National Electrical Code has some new safety requirements such as Rapid Shutdown of Photovoltaic Module Series Strings
+How long do rooftop residential solar panels last? See this article at pv magazine
+Batteries and PV Systems
+- The Challenge of Storing Energy
+- Under current policies, residential batteries increase emissions in most cases
+Government & Legal Information
+For more information, follow the topics below.
+Some interesting uses of PV:
+- Build a solar-powered Wi-Fi repeater that's always on(line)
+- Good Intentions on donating PV systems to Habitat
+References:
+1. National Renewable Energy Laboratory (NREL). 2012. Renewable Electricity Futures Study. Volume 1, pg. 210.
+2 Machol, Rizk. 2013. Economic value of U.S. fossil fuel electricity health impacts. Environment International 52 75–80.
+3 Environmental Protection Agency. 2010. Assessing the Multiple Benefits of Clean Energy: A Resource for States. Chapter 5.
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/technology/concentrating-solar-power-csp
+
+Concentrator photovoltaics (CPV) is a photovoltaic technology that generates electricity from sunlight. CPV photovoltaic systems use lenses and curved mirrors to focus sunlight onto small, but highly efficient, multi-junction (MJ) solar cells. To keep the sun focused on the relatively small solar cells, CPV systems use solar trackers to keep the focus on the solar cells and sometimes use a cooling system to further increase efficiency.
+Some good general references are:
+Green Rhino Energy- Concentrating Photovoltaics (CPV)
+An Arizona example: Agua Caliente PV Power Plant Among World’s Largest
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/technology/solar-hot-water-shw
+
+There are two types of solar water heating systems: active, which have circulating pumps and controls, and passive, which don't.
+The typical solar water heater is comprised of solar collectors and a well-insulated storage tank.
+The solar collector is a network of pipes that gathers the sun's energy, transforms its radiation into heat, and then transfers that heat to either water or a heat-transfer fluid.
+The sun's heat is collected through one of three types of solar collectors: Flat-plate Collectors, Integral Collector-Storage Systems (ICS) or "batch systems, and the Evacuated-Tube Solar Collectors. These collectors either preheat water before it enters a storage tank, or, in the case of a heat-transfer fluid, the fluid acts as a heat exchanger and transfers the heat from the fluid to the potable water in the storage tank.
+The final component of a solar water heating system is the mounting system. The three most common mounting types are the roof mount, ground mount, and attached or awning mount.
+Solar Hot Water Basics
+- Solar Hot Water: A Primer
+- Solar Hot Water Simplified (pdf)
+Additional information:
+- Quick Facts: Solar Hot Water
+- In Hot Water - Experiences of Solar Hot Water in Arizona
+- Economics of Solar Hot Water
+- Solar Hot Water Manuals
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/technology/solar-cooking
+
+Solar cookers are simple, low cost and effective. They are basically insulated enclosures with a clear top to allow sunshine to enter. The sunshine is absorbed by both the food and a black surface, heating up the enclosure and cooking the food. Reflectors can be used to increase heating by allowing more sunshine to enter the cooker.
+Learn more about solar cookers by following the links below.
+- What's cooking? A Comprehensive Look at Solar Cooking
+- All About Solar Cookers 1 - The delicious way to save energy and money
+- All About Solar Cookers 2 - How Solar Cookers Work
+- All About Solar Cookers 3 - Costs: Cooking while reducing summer cooling bills
+- All About Solar Cookers 4 - Design of Solar Cookers
+- All About Solar Cookers 5 - Solar cooking tips
+- All About Solar Cookers 6 - Overcoming fuel shortages in developing nations
+- All About Solar Cookers 7 - Making a Solar Panel Cooker
+- More information on Solar Cooking suggested by Jordan, a student. (caution, external link, not Arizona Solar Center)
+- Big Blue Sun Museum of Solar Cooking - YouTube series of videos (caution, external link, not Arizona Solar Center)
+- The Solar Cookers World Network- Facebook (caution, external link, not Arizona Solar Center)
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/all-about-solar-cookers-7
+
+For more information on solar cookers please visit:
+http://www.solarcooking.org
+http://solarcooking.org/bkerr/
+Email: This email address is being protected from spambots. You need JavaScript enabled to view it. (solar cooking chat room contact)
+Conservation Programs Credits
+A publication of the Arizona Department of Commerce Energy Office
+3800 N. Central Ave, Suite 1200
+Phoenix, Arizona 85012
+(602) 280-1402
+or call toll-free in Arizona
+(800) 352-5499
+Fourth Edition: October 1994
+Editor: Jim Arwood
+Written by: Jim Arwood and Norma Dulin Gurovich
+Layout and Design: Shauna Obergfell
+Solar Panel Cooker Layout & Design by: LeAnn Moorehead
+Some of this information was copied from publications by Citizens for Solar, Tucson, Arizona, Solar Box Cookers International, Sacramento California and Solar Box Journal, Seattle Washington.
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/all-about-solar-cookers-6
+
+Overcoming fuel shortages in developing nations
+The energy problem is far more extreme in less-developed parts of the world than in the United States. In places like eastern Africa, natives have trouble finding sufficient firewood to cook dinner or heat water to kill bacteria. Women sometimes walk 20 to 30 miles to obtain only a two-day supply of cooking fuel.
+The simple solar box cooker is helping people to stay healthy in places such as Zimbabwe, Bolivia, Guatemala, Kenya, Haiti, and Pakistan. In Botswana in 1988, for example, solar box cookers were introduced because of a 50 percent malnutrition rate. This devastating health problem was not caused by food shortages but by a lack of fuel.
+Two Arizona women created these cookers, Barbara Kerr, a nurse from Taylor, Arizona, and Sherry Cole, a former freelance writer from Tempe. Their solar box cookers reach temperatures as high as 325 degrees Fahrenheit and easily kill cholera bacteria at 150 degrees. The cookers are constructed with two corrugated boxes, one smaller than the other, 100 feet of aluminum foil, a pint of glue, a lot of newspaper, and a sheet of glass.
+Kerr, and Cole’s first box cooker was created in the 1970s, and the first sale went to microbiologist Bob Metcalf of California University in Sacramento. Metcalf formed the organization Solar Box Cookers International in 1987 to promote the cookers for health and environmental benefits worldwide. The group’s expeditions have received support from the Pillsbury Co. Meals for Millions Applied Nutrition Project, Foster Parents Plan and Food Industry Crusade Against Hunger.
+In Guatemala in 1988, Metcalf introduced solar box cookers to women in rural areas who spent one-third of their time gathering firewood. So many trees had been chopped-down that hillsides were eroding during seasonal rains and ecosystems had been destroyed.
+Most people in Kenya do not have electricity and many do not have running water. Before the box cooker, meals were often prepared over a stone hearth with a wood fire. Solar cookers reduced the need for constant, tedious fuel gathering.
+Solar cookers offer many other benefits to people in developing nation. They eliminate the toxins common to foods cooked directly over a fire and prevent health problems caused by constant exposure to smoke and fire.
+The cookers are also used to heat and purify water. Bacteria in water are a primary cause of chronic diarrhea, which contributes to thousands of cases of infant malnutrition and death.
+Next Article: - All About Solar Cookers 7 - Making a Solar Panel Cooker
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/all-about-solar-cookers-5
+
+Solar cooking tips
+Safety:
+· Solar cookers may not look hot, but temperatures of 120 to 425 degrees will certainly burn your fingers. Use potholders.
+· Intense reflected light could permanently damage your eyes. Children in particular have a tendency to stand in the brightness of reflected light and should be carefully watched around solar cookers.
+· Keep the lid closed so that appetizing fumes, do not escape into the air and attract animals and insects. If a curious animal does approach the cooker, a closed lid prevents unwanted dinner guests.
+Foods:
+Solar chefs are limited only by their imagination. Almost any dish becomes a delicious treat when cooked in a solar cooker –beans, bread, cookies, roasts, vegetables and many others.
+Most standard recipes translate favorably to solar cookers but require less water or liquid. Solar chefs also find they need less salt and sugar in solar-cooked foods because of the gentle cooking process.
+Temperature and Timing:
+Solar cookers should be placed in the sun and preheated for at least one hour before placing food inside. Many, high-quality solar cookers reach temperatures of 350 to 425 degrees or more and cook dinner in the same amount of time as conventional ovens. Other models reach temperatures of only 150 degrees. A barbecue thermometer is a useful tool.
+To reach maximum temperature and fastest cooking time, the cooker should be aimed directly at the sun. It should be turned every 20-30 minutes to maintain a direct angle. Some solar chefs setout cookers in the morning, aiming them toward the sun’s midday position. By late afternoon, dinner is ready to eat without ever refocusing the cooker.
+Cooking between the hours of 10 a.m. to 2 p.m. is best in Arizona’s winter months. In summer, the sky’s the limit!
+Weather:
+Clear weather is essential. On partially cloudy days, solar cooking takes longer. On extremely cloudy days, we suggest that you rely on the old energy-consumer standbys like house ovens or barbecues.
+Outside temperature has little effect on solar cooking; if the sky is clear, you can cook on a snowbank high in the mountains.
+Pots and other utensils:
+Use either dark, or clear glass pots when cooking in solar cookers. Dark pots absorb light readily and clear glass allows light to directly reach the food. Avoid foil or aluminum containers that reflect light away.
+Closed containers hold-in heat and will cook food more quickly. Some people even use canning jars. Brown-in bags are excellent for cooking meat.
+Cooking times: (NOTE: 450g = 1 lb)
+Potatoes (300g + 1 spoonful water) 2 hours
+Carrots (250g + 1 onion, no water) 2 hours
+2 eggs (+ 1 spoonful water) 1 hour
+Lentils (100g + 250g water) 1.5 hours
+White rice (80g + 160g water) 1.25 hours
+Brown rice (80g + 160g water) 2 hours
+Red beans (100g + 200g water) 2.5 hours
+Next Article: All About Solar Cookers 6 - Overcoming fuel shortages in developing nations
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/all-about-solar-cookers-4
+
+Design of Solar Cookers
+The Box Cooker
+The seemingly simple design is actually a family-sized cooker that can handle an entire meal on a sunny day. It features an insulated box with a glass or heat-resistant plastic cover that also serves as an oven door. Sunlight passes through the glass or plastic into a dark cooking area.
+Additional sunlight is reflected into the box cooker by a shiny lid attached to the box.
+When in use, supports made of cord and wood hold the reflector above the cooking area.
+Cardboard box cookers are light, compact, and easy to store or move. Heavier wooden models are more useful for the backyard or patio. Depending upon their construction, these cookers typically reach temperatures of 120 to 225 degrees.
+Slant-Faced Solar Cooker
+Many do-it yourself buffs choose the slant-faced solar cooker. These are often highly efficient cookers and very portable, folding to a size of a suitcase.
+Hinged reflectors direct the sun’s rays through a slanted glass lid. Some reflectors are made of shiny aluminum; others are mirrored or use aluminum foil glued to a sturdy backing. The reflectors are usually collapsible, folding and clamping onto the top of the cooker for easy carrying
+To use, the slant-cooker-face is pointed toward the sun and the reflectors are secured in the open position. Some cookers feature built-in height adjusters for more direct aim at the sun.
+Multi-Mirrored, Cone-Shaped Cooker
+The cooker style features many small mirrors, curved in a cone-shape around the cooking area. This reflector often spans four feet in diameter and with a lid can double as a patio table.
+These cookers reach temperatures, of 300 to 450 degrees and cook food in the same time as a conventional cooker. The cooking area is large enough for a turkey.
+Concentrating Cookers
+Concentrating cookers, or “hot plates,” employ dish-shaped reflectors aimed at the sky like radio receivers. The reflector is designed so that direct light bounces on to a single point. At this point, a cooking stand holds a pot of food or water. The stand can be attached to the collector or be separate.
+Concentrating cookers can generate temperatures of 600 degrees Fahrenheit or more and must be constantly attended as the sun moves across the sky. The reflector must be repositioned to follow the sun and keep the focal point on the food being cooked. When left unattended, concentrating cookers have been known to set wood on fire and even burn the ear of a curious dog unlucky enough to be in the wrong place at the wrong time. These cookers also have a dangerous tendency to tip in windy weather.
+Next Article: All About Solar Cookers 5 - Solar cooking tips
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/all-about-solar-cookers-3
+
+Costs: Cooking while reducing summer cooling bills
+Solar cookers can dramatically reduce a home’s cooling needs during hot Arizona summers. For every dollar spent on indoor cooking fuel, electricity costing about $.50 is required to cool and dehumidify an air conditioned home. Solar cookers not only use no electricity or natural gas, but they don’t heat-up the house.
+The initial cost of a solar cooker depends upon its size manufacturer and sophistication. Store bought models range in cost from $100 for camping sizes and up to $250 for larger versions.
+The cost of homemade cookers depends largely on the builder’s resourcefulness – new materials, for example, cost more than used. Some do-it-your–selfers use only cardboard box, newspaper for insulation, aluminum foil and a piece of glass or plastic. Others include hinged aluminum reflectors, spray in insulation, and tools for cutting metal to make the inside box. Other builders even place their cookers on old rotating television stands for easy adjustment as the sun moves across the sky.
+Generally plan on spending $25 to $100 in materials to make a solar cooker that reaches adequate temperatures.
+Next Article: All About Solar Cookers 4 - Design of Solar Cookers
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/all-about-solar-cookers-2
+
+How Solar Cookers Work
+In 1764, French inventor Horace de Saussure produced temperatures of 225 degrees Fahrenheit in glass-covered boxes lined with black cork. Another Frenchman, Augustin Muchot, designed a solar cooker in the 1870’s that was used for many years by the French Foreign Legion.
+These solar cookers operated on the same principles as cookers of today. An insulated box is covered with a clear window allowing access to light. The light rays are absorbed by the cooker’s inside surface and are transformed into heat energy. Heat radiates out from the surface and collects inside the cooker. Some of it escapes back through the window or “cracks” in the cooker, but not as quickly as additional light enters.
+This process is similar to the greenhouse effect heard about so often in the news today. On a global scale, sunlight is absorbed by the earth and is transformed to heat. The heat radiates into the atmosphere. It either escapes or is reflected back toward earth by carbon dioxide and water vapor in the air. More carbon dioxide in the air means that heat is more likely to build-up around the planet.
+Unlike the earth, solar cookers are deliberately designed to keep hot air inside. The cooking area is well insulated and the opening is often surrounded by rubber to seal it when the window is closed.
+These simple cookers also encompass a collector, storage and controls. The collector is a glass or heat-resistant plastic cover that lets sunlight inside. Storage occurs because insulation prevents heat from escaping. Storage is also provided by the food itself, which absorbs heat.
+Controls for a solar cooker are the reflectors. Reflectors help control the temperature by concentrating the sun’s rays onto the cooking area. Temperatures can also be adjusted by repositioning a solar cooker in relation to the sun. If lower temperatures are needed, the cooker can merely be pointed a bit away from the sun’s direct rays.
+Next Article: All About Solar Cookers 3 - Costs: Cooking while reducing summer cooling bills
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/all-about-solar-cookers-1
+
+The delicious way to save energy and money
+As many as 500 people gather each year for an annual potluck near Tucson. They eat vegetables, bread, pie and lasagna – typical foods at many such gatherings. This potluck, however, is vastly different from most because all the food, even the pizza, is cooked on-location by the sun
+The group Citizens for Solar sponsors this cookoff each year to focus attention on one device: the solar cooker. These cookers use no electricity or natural gas, consume no firewood, and produce no smoke or pollutants. In the meantime, they gently cook almost any food to tasty, juicy perfection.
+Some solar chefs setout their cookers in the morning and return in the evening to a well-cooked meal. Tiny “backpack” solar cookers have been provided Himalayan mountain climbers with hot food among the snowdrifts – it’s the amount of sunshine that counts, not the outside temperature.
+To some people in developing nations, Solar cookers have become important to their very survival. Solar energy cooks food where firewood is scarce, and purifies water where bacteria and dangerous diseases are rampant. Solar cookers are used in Bolivia, Guatemala, South Africa, West Africa, Haiti, the Dominican Republic and many other developing countries.
+In Arizona’s abundant sunshine, solar cookers cook meals year-round without heating up the kitchen or the cook.
+Next Article: All About Solar Cookers 2 - How Solar Cookers Work
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/technology/solar-space-heating
+
+-
+DOE - Active Solar Heating discontinued
+The helpful information once on the EnergySavers.gov website designed to help American residents save energy in their homes, workplaces, and vehicles is no longer available. This resource was removed in February 2019. However the information was rather dated. The above link now goes to an article about the history of EnergySavers.gov by a commercial organization. Linked for info only, not as a recommendation.
+-
+Space Heating for Commercial Buildings
+From the Florida Solar Energy Center at the University of Central Florida. -
+Space Heating with Active Solar Energy Systems
+From North Carolina State University.
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/technology/other-renewable-energy-sources
+
+External links: |
+|
+BioenergyBiomass is an organic renewable energy source that includes materials such as agriculture and forest residues, energy crops, and algae. Scientists and engineers at the Energy Department and National Laboratories are finding new, more efficient ways to convert biomass into biofuels that can take the place of conventional fuels like gasoline, diesel, and jet fuel. |
+|
+HydrogenHydrogen is a clean fuel that, when consumed in a fuel cell, produces only water. Hydrogen can be produced from a variety of domestic resources, such as natural gas, nuclear power, biomass, and renewable power like solar and wind. These qualities make it an attractive fuel option for transportation and electricity generation applications. It can be used in cars, in houses, for portable power, and in many more applications. In the interim, visit this site for information: Hydrogen Fuel Basics |
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/technology/technology-science-technical-documents
+
+The following additional information is available:
+Photovoltaic Systems related:
+Some How to do it:
+Photovoltaic systems present several hazards that are reduced or eliminated by following applicable Codes & Standards. In Arizona there are no State enforced building and safety codes, this is a local responsibility. Electrical safety is covered by the National Electrical Code that is updated on a 3-year cycle (...2008/2011/2014/2017...). The photovoltaic specific requirements are in Articles 690 and 705. Various Arizona jurisdictions have adopted different versions, check with the local building permit to determine which version will apply.
+There are also building code and fire code requirements. Again, various Arizona jurisdictions have adopted different versions, check with the local building permit to determine which version will apply. California has statewide requirements that have been developed by the Solar America Board for Codes and Standards
+(www.solarabcs.org). The following documents are very helpful in understand how to lay out photovoltaic arrays for safety and fire personnel access:
+Understanding the CAL FIRE SOLAR PHOTOVOLTAIC INSTALLATION GUIDELINE
+Understanding the CAL FIRE Solar Photovoltaic Installation Guideline (summary)
+Some How Not To examples:
+- How Not to Install PV - Orientation & Shadowing
+- How Not to Install PV - Shadow Considerations
+- How Not to Install Batteries - Connection Considerations
+- How Not to Treat Batteries - Maintaining Battery Electrolyte Levels
+Other:
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/technology/barriers-to-implementation
+
+There are many barriers to wide scale adoption of photovoltaic systems in Arizona. Some of these are:
+- Costs
+- Suitable installation area
+- Electrical Code limits
+- Building Code requirements
+- Municipal design guidelines
+- Fire Code requirements
+- Homeowner Association rules (see HOA demands extra cash for solar-panel review)
+- Electric Utility:
+- Policy/billing
+- Technical Limits
+- Legal
+The cost of photovoltaic systems is continuing to decrease due to improvements in the technologies for photovoltaic modules and the inverters required to convert the dc electric power from the photovoltaic modules to regular ac electric power. Some items are increasing, such as wire, mounting structures, electrical apparatus (switches, meters, conduit). There are now many financing options to direct ownership that reduce or eliminate the upfront initial costs. The majority of residential photovoltaic systems being installed (2016) are now leased.
+Many homes and commercial buildings simply do not have suitable areas for installing photovoltaic modules. Some residential developers actively design the roof orientations to make photovoltaic modules installation difficult or impossible, mostly because they find it easier to sell new homes in a development when they all look the same. This is not illegal, but is not in the spirit of an Arizona law (ARS: 33-439. Restrictions on installation or use of solar energy devices invalid; exception). There are utility restrictions on transporting electric power and water between properties, such as placing a photovoltaic on nearby property. More information on this is in <link to new article "Arizona Solar Laws">.
+Safety is always a major concern. Except for some small low voltage photovoltaic systems (yard lights, etc.), many safety codes and standards apply in order to assure safe operation. The National Electrical Code, re-issued every three years, is the main electrical safety code, but there are requirements in Building and Fire codes that limit photovoltaic system installations. One relatively new requirement in the Building and Fire codes is to require clear access paths on roofs for first responders (firemen, etc.). Another relatively new requirement in the National Electrical Code (2017 version) requires that the roof mounted module area have an automatic shutdown such that when the ac power is disconnected all the voltages are reduced to safe levels (the dc voltages would otherwise increase when not connected). These requirements are generally reinforced in the building permit process.
+In Arizona the electric utilities are essentially building barriers to photovoltaic systems by reducing direct and indirect incentives for photovoltaic systems. See the discussion in our Economics section Economics of Photovoltaics.
+In some states, the electric utilities offer a billing option for Aggregated Net Billing wherein photovoltaic energy produced on one property or billing meter can be administratively applied to another account, perhaps with a small transaction fee.
+Sometimes the existing utility electrical distribution system simply can not safely accept the proposed photovoltaic output. Those planning commercial size photovoltaic systems should check with the serving utility.
+Recent (2015-2016) experience from an PV contractor: Some Barriers to Implementation of PV Systems
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/technology/environmental-benefits-of-renewable-energy
+
+OR
+Renewable energy—wind, solar, geothermal, hydroelectric, and biomass—provides substantial benefits for our climate, our health, and our economy. Each source of renewable energy has unique benefits and costs; this page explores the many benefits associated with these energy technologies.
+Solar, wind, and hydroelectric systems generate electricity with no associated air pollution emissions. In comparison, coal and natural gas plants have air and water pollution that is linked to breathing problems, neurological damage, heart attacks, and cancer.
+Environmental damage affects everyone, but the costs and benefits of reducing environmental damage are not well matched or shared. Air and water pollution can travel great distances and affect areas well removed from the sources of pollution. There is a lot of evidence that the global environment is being degraded by the net effect of many activities that produce pollution either directly or indirectly. The production of energy is a major contributor, especially the burning of fossil fuels. Pollution of the environment can be reduced by adopting renewable energy, but there are costs involved.
+Some interesting links:
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/technology/solar-for-professionals
+
+The following PDF Documents are available:
+- Disruptive Challenges: Financial Implications and Strategic Responses to a Changing Retail Electric Business
+(Report by Edison Electric Institute - May 2013) - Launch & Grow Your Solar Business
+(AEE - 2010) - NABCEP Certification Basics
+(North American Board of Certified Energy Practitioners - 2009) - PV Mounting Solutions Presentation
+(Quickmount - 2009)
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/technology/solar-water-pumping
+
+Solar water pumping should be considered when other sources of energy are not practical to pump water. This can include stock watering, irrigation, remote campsites, cabins. and even swimming pools.
+Awaiting an article from Sunpumps.
+See Also
+Solar water pumping should be considered when other sources of energy are not practical to pump water. This can include stock watering, irrigation, remote campsites, cabins. and even swimming pools.
+Awaiting an article from Sunpumps.
+See Also
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/technology/sonnen-signs-a-deal-to-put-storage-in-new-arizona-housing-developments
+
+Energy storage doesn’t look as expensive when it’s part of your mortgage.
+July 17, 2017
+Sonnen has signed a contract with an Arizona homebuilder to install its energy storage systems along with rooftop solar on each residence in forthcoming developments.
+This has long been a goal for the company, which aims to create a community of homeowners who produce and exchange clean energy, while performing distributed grid services. The sonnenCommunity in Germany has grown to 8,000 members and functions like its own utility. That robust vision would be hard to implement in the U.S., given the regulatory structures in place here.
+Loading up a new-build housing development with storage may be the next best thing.
+Including storage offsets the potential strain on the grid that comes from packing a feeder with a lot of new distributed solar. Savvy site selection can place the fleet of battery-equipped homes at locations on the grid most in need of some help.
+"Your duck curve in this very particular node without storage is extreme," said Olaf Lohr, head of U.S. business development, describing a new neighborhood packed with rooftop solar. "But we add storage to it, and we actually alleviate that problem right away."
+That sounds like a decentralized version of what utility Arizona Public Service has done with its most recent grid battery deployment. It placed two 2-megawatt AES storage systems at different points on a solar-heavy feeder in a valley northwest of Phoenix, in order to test how the location influences the system's ability to maintain power quality and voltage control.
+That feeder serves a newly built housing community that features abundant rooftop solar, encouraged by the sunny climate and the west-facing roofs that can catch the late afternoon sun.
+Sonnen has not finalized an agreement with a utility yet to make use of its forthcoming home network. Theoretically, the fleet of battery systems could deliver aggregated peak capacity, renewables integration, demand response or ancillary services. In practice, such virtual power plants are still being demonstrated in the U.S., especially when it comes to residential-sited systems. In Germany, Sonnen has already been doing it for several years.
+The company wasn't ready to reveal the name of the homebuilder partner, but described it as a progressive builder that typically constructs 200 homes a year and aims for 300 in 2018. The project is expected to break ground in Q4.
+Customers who move into the homes will automatically join the sonnenCommunity. What exactly that means for a U.S. customer is still being decided, but it will include assistance on one's energy bill, said Senior Vice President Blake Richetta.
+"We want the peer-to-peer side to be a part of it," he said. "The challenge with the U.S. model is that, if you're in a physical community, we're not 100 percent sure how the peer-to-peer side is going to work."
+This community won't be able to link up with the thousands of members in Germany that have entrusted Sonnen with managing their storage units, so the initial population will be limited. The team is hoping to figure out a special utility program for the homes to participate in grid services first, and then develop a more robust community trading system later on.
+That's the reverse of how the platform developed in Germany.
+"The logic behind the first-level Sonnen community [in Germany], which is pay for your grid feed-in, eliminate the utility, become the utility, and sell to some other guy -- that doesn't work in the U.S.," Richetta said. "We can't eliminate the utility and we can't facilitate that transaction in the same way, so the peer-to-peer side is harder."
+The Arizona projects will provide an early case study of how a residential community interacts with the grid when it can both generate and store its own power. Whether Sonnen can earn money from the utility for creating this potential grid asset remains to be seen.
+The company appears confident that the venture can work even without a grid service contract in hand.
+The target audience here is the sustainably minded customer with some money to spend. Sonnen pitches itself as a product that lasts longer and provides more value over time than some competitors that focus more on a cheaper upfront battery cost (think Tesla, Richetta's former employer).
+Wrapping the cost of the Sonnen system into the home mortgage eliminates sticker shock and the difficulties of residential storage financing. If the customer wanted to go solar anyway, the storage offers long-term assurance in the face of the state's reduced compensation for surplus solar.
+Whether or not that investment is economical for a given homeowner is hard to tell from the outside, and that may well be beside the point. Almost all installed Sonnen units in North America last fall were set on backup mode, which doesn't generate revenue for the owner but provides peace of mind in the event of a blackout.
+The economics that matter most are whether the homebuilder profits from the partnership, and if the first round works well enough to lure in national homebuilders to scale the concept.
+Source:
+https://www.greentechmedia.com/articles/read/sonnen-deal-storage-new-arizona-housing-development
+Also see Under current policies, residential batteries increase emissions in most cases
+
+--------------------------------------------------------------------------------
+
+URL: https://azsolarcenter.org/economics
+
+Our Economic data is organized into the following categories:
+- Economics of Photovoltaic Systems Many factors affect the economics of photovoltaic systems
+- Economics of Solar Thermal Systems Articles that explain the economics of solar thermal systems
+- Financing Renewable Energy Systems Financing has become a major factor in the adoption of renewable energy systems in Arizona
+- Renewable Energy Incentives The development of renewable energy systems in Arizona has benefitted from many incentives, Arizona and Federal
+- Let us know what other economic information you need.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,347 @@
+ROOT: https://talenenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:41:45.226273Z
+PAGES_INCLUDED: 10
+
+================================================================================
+
+URL: https://talenenergy.com/
+
+A Leading Power & Infrastructure Company
+Talen Energy is a leading independent power producer and energy infrastructure company dedicated to powering the future. Our team is committed to generating power safely and reliably and delivering the most value per megawatt produced.
+Our mission is to generate energy and power digital infrastructure solutions in a way that delivers the best possible outcomes for our people, communities, and stakeholders.
+Our team is committed to generating power safely and reliably and delivering the most value per megawatt produced.
+Talen is also powering the digital infrastructure revolution. We are well-positioned to serve this growing industry, as artificial intelligence data centers increasingly demand more reliable, clean power. Through our first-of-its-kind partnership serving a 24x7 carbon-free, co-located data center campus powered by our Susquehanna nuclear facility, we are leaders in serving this unique opportunity for growth with a proven ability to execute.
+Our Company at a Glance
+-
+~13.1 GW
+of total power generation
+-
+12
+generation locations
+-
+~50%
+of current megawatt hours generated are zero-carbon
+-
+Diverse Assets
+nuclear, natural gas, coal and oil
+-
+~1,900
+employees
+- Operating across
+4 states
+Our Generation Portfolio
+Talen operates a diverse generating portfolio in a variety of attractive markets. Explore our assets across the U.S., spanning a variety of fuels like nuclear, natural gas, coal and oil.
+Our fleet is anchored by the Susquehanna nuclear facility, the sixth largest nuclear-powered generation facility in the U.S. Susquehanna generates 2.5 GW and typically comprises approximately 50% of our annual generation.
+Consistent with Talen’s strategic focus on serving power demand for data centers, Talen supplies power to Amazon for its Amazon Web Services data center campus near Susquehanna.
+Latest News
+Talen fosters an inclusive, diverse, respectful, and collaborative workplace that empowers employees to excel, encourages a strong commitment to innovation, teamwork and integrity, and focuses community engagement and philanthropic efforts on the local communities where employees live and work.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.talenenergy.com/our-portfolio/
+
+Our Portfolio
+-
+Coal
+Coal
+-
+Natural Gas
+Natural Gas
+-
+Nuclear
+Nuclear
+-
+Oil
+Oil
+-
+Fuel Switching
+Fuel Switching
+Filter Options
+| Name | Fuel Type | Location | Market | Owned Capacity(MW) |
+Ownership % |
+|---|---|---|---|---|---|
+| Brandon Shores Power Plant | Coal Fired | MD | PJM-BGE | 1,273 MW | 100% |
+| Brunner Island Steam Electric Station | Coal, Natural Gas | PA | PJM-PPL | 1,429 MW | 100% |
+| Colstrip Steam Electric Station | Coal Fired | MT | WECC | 222 MW | 30% (Unit 3) |
+| Conemaugh Generating Station | Coal | PA | PJM-PENELEC | 392 MW | 22% |
+| Freedom Generating Station | Natural Gas | PA | PJM-PPL | 1,049 MW | 100% |
+| Guernsey Power Station | Natural Gas | OH | PJM-AEP | 1,771 MW | 100% |
+| H.A. Wagner Generating Station | Oil | MD | PJM-BGE | 702 MW | 100% |
+| Keystone Generating Station | Coal | PA | PJM-PENELEC | 213 MW | 12% |
+| Lower Mount Bethel Power Plant | Natural Gas | PA | PJM-PPL | 607 MW | 100% |
+| Martins Creek Power Plant | Natural Gas | PA | PJM-PPL | 1,710 MW | 100% |
+| Montour Steam Electric Station | Natural Gas | PA | PJM-PPL | 1,505 MW | 100% |
+| Susquehanna Steam Electric Station | Nuclear | PA | PJM-PPL | 2,245 MW | 90% |
+We operate a diverse generating portfolio in a variety of attractive U.S. markets. Our plants generate power using a variety of fuels, ranging from zero-carbon energy like nuclear to natural gas, coal and oil, with some possessing dual fuel switching capabilities. Talen is meeting the growing demand for power by supporting reliability and unlocking new opportunities to power data.
+We produce and sell electricity, capacity, and ancillary services into wholesale power markets in the U.S., primarily in PJM and WECC, with our generation fleet principally located in the Mid-Atlantic, Ohio and Montana.
+Zero-Carbon Nuclear
+PJM Nuclear
+Consists of the Susquehanna Steam Electric Station, a 2-unit BWR station which generates carbon-free nuclear power outside Berwick, PA. With an owned generating capacity of approximately 2,228 Megawatts and a total generating capacity of 2,475 megawatts, Susquehanna generates enough carbon-free nuclear energy to power approximately 2 million homes.
+Learn more at susquehannanuclear.com.
+Fossil
+Natural Gas & Peaking Units
+Includes generation plants located in Pennsylvania, Ohio and Maryland, with an owned generating capacity of approximately 7,400 megawatts.
+Transitioning Off Coal
+Includes our Brunner Island facility in Pennsylvania, which converted to dual-fuel natural gas and coal capability and has committed to cease burning coal completely by year-end 2028. It also includes our Brandon Shores facility. While scheduled to retire on June 1, 2025, Brandon Shores Units 1 and 2 will continue to operate until May 31, 2029 under a “reliability-must-run” (RMR) agreement to provide power necessary to maintain grid and transmission reliability in and around the City of Baltimore until transmission upgrades to provide reliable power to the area from other sources are complete.
+Minority-Owned Coal
+Includes the Colstrip Steam Electric Station, a 2-unit coal-fired generation plant located in Colstrip, Montana, with an owned generating capacity of approximately 222 Megawatts. Talen Montana, a subsidiary of Talen Energy, serves as the plant operator. Also includes the Conemaugh and Keystone coal-fired electric generation plants, which will cease by year-end 2028.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.talenenergy.com/about-us/
+
+About Us
+Talen owns, operates, and optimizes high-quality power infrastructure in the U.S. Our plants generate power using a variety of fuels, ranging from zero-carbon energy like nuclear – which includes Talen’s Susquehanna nuclear facility – to natural gas, coal and oil. Talen’s current generation portfolio consists of 12 generation locations that are collectively capable of producing approximately 13.1 GW of power.
+Our power generation assets provide reliable and dispatchable energy for the around-the-clock requirements of commercial, industrial and residential customers. We operate at the intersection of key value drivers in the industry, including power demand from data centers and strengthening power markets. As we power the future, we strive to maximize value for our stakeholders.
+We have partnered with Eos Energy, an American manufacturer of zinc-based battery energy storage systems (BESS), to explore developing BESS at Talen-owned sites across our Pennsylvania footprint. Battery storage can play an important role in supporting reliability, and partnering with Eos gives us the potential to optimize and increase our generation capacity and deploy durable, long-duration storage to support data centers and our communities.
+We view responsible ESG practices as a key component for achieving operational excellence, maintaining strong financial performance and maximizing the value of our platform over time. Our bottom-up approach to ESG, with keen oversight from our Board, ensures employees are empowered to engage with local communities in line with our corporate ESG strategy.
+Our Values
+Excellence
+Excellence is the core driver of everything we do
+No Harm
+We strive to do no harm to our people, our communities, or the environment
+Integrity
+We demonstrate integrity by delivering what we promise
+Continuous Improvement
+We focus on continuous improvement to encourage innovation and lead change
+ESG Approach
+We view responsible ESG practices as a key component for achieving operational excellence, maintaining strong financial performance and maximizing the value of our platform over time.
+ESG Commitments & Performance
+75% REDUCTION IN CO2
+We have set an aggressive target to reduce CO2 emissions 75% by 2030, with a baseline year of 2010.
+ZERO COAL
+We intend to eliminate the use of coal in our wholly-owned generation facilities, which represents approximately 5 GW of capacity.
+0.3 OSHA INCIDENT RATE
+Our OSHA Total Recordable Incident Rate (“TRIR”) continues to exceed industry standard.
+Environmental
+We have reduced our environmental footprint over the past several years, investing heavily in environmental controls and switching to cleaner fuels in response to market and other conditions. We have committed to the cessation of coal at our wholly-owned facilities, and have already completed the conversion of our Montour and H.A. Wagner plants.
+Social
+Talen focuses community engagement and philanthropic efforts in the local communities where our employees live and work. We believe that a decentralized approach to engagement and giving allows us to more effectively identify areas of need and have a greater local impact. Employees are empowered to facilitate community initiatives and giving and to actively contribute time and resources to local organizations.
+Governance
+We are committed to best-in-class corporate governance practices and policies that support the interests of our stockholders and are embedded within our organization’s values. Our values of Excellence, No Harm, Integrity, and Continuous Improvement help to foster a culture that supports proper governance, from the Board of Directors to each Talen employee.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.talenenergy.com/plant/susquehanna-steam-electric-station/
+
+Our Portfolio
+Susquehanna Steam Electric Station | PJM-PPL
+Salem Township, Pennsylvania
+Susquehanna Steam Electric Station (SSES) is one of the lowest cost and best operated nuclear plants in the nation, capable of generating enough power to provide more than two million homes with safe, clean, reliable electricity. SSES also supplies its direct-connect energy to an adjacent data center campus.
+Susquehanna Nuclear, LLC, a division of Talen Energy, operates SSES and owns 90% of the station. Allegheny Electric owns 10%. Total Generating Capacity is enough to power approximately 2 million homes.
+Visit www.susquehannanuclear.com to learn more.
+Owned Generating Capacity
+Primary Fuel Type
+Number Of Units
+Commercial Operating Year
+Market Location
+Ownership Percentage
+
+--------------------------------------------------------------------------------
+
+URL: https://www.talenenergy.com/plant/montour-steam-electric-station/
+
+Our Portfolio
+Montour Steam Electric Station | PJM-PPL
+Washingtonville, Pennsylvania
+The Montour power plant has two units. It was originally built to burn coal, but was converted to run on natural gas in 2023 and now runs exclusively on natural gas.
+Owned Generating Capacity
+Primary Fuel Type
+Number Of Units
+Commercial Operating Year
+Market Location
+Ownership Percentage
+
+--------------------------------------------------------------------------------
+
+URL: https://www.talenenergy.com/plant/colstrip-steam-electric-station/
+
+Our Portfolio
+Colstrip Steam Electric Station | WECC
+Colstrip, Montana
+The Colstrip power plant, consists of 2 active coal-fired generating units capable of producing up to 1,480 Megawatts of electricity.
+Units 3 and 4 each have about 740 megawatts of generating capacity; Talen subsidiary, Talen Montana has 30 percent ownership in Unit 3 and no ownership in Unit 4. Talen Montana operates the plant. Units 1 and 2 were retired in January 2020.
+Talen Montana’s share in the plant’s generating capacity is approximately 222 Megawatts. The plant is owned by Talen Montana, Puget Sound Energy Inc., Portland General Electric Company, Avista Corporation, PacifiCorp and NorthWestern Energy.
+Low-sulfur coal and state-of-the-art scrubbers restrict sulfur dioxide emissions to less than levels required by the Clean Air Act. The plant also meets Environmental Protection Agency standards for nitrogen oxides emission. The plant consistently ranked as one of the lowest-cost fuel plants in the Western Electricity Coordinating Council, a regional member of the North American Electricity Reliability Council that includes all the western states and the Canadian provinces of Alberta and British Columbia.
+Owned Generating Capacity
+Primary Fuel Type
+Number Of Units
+Commercial Operating Year
+Market Location
+Ownership Percentage
+
+--------------------------------------------------------------------------------
+
+URL: https://www.talenenergy.com/plant/brunner-island-steam-electric-station/
+
+Our Portfolio
+Brunner Island Steam Electric Station | PJM-PPL
+York Haven, Pennsylvania
+The Brunner Island power plant has three units with dual fuel switching capabilities, allowing it to operate using coal or natural gas. It is set to cease burning coal by the end of 2028.
+Owned Generating Capacity
+Primary Fuel Type
+Number Of Units
+Commercial Operating Year
+Market Location
+Ownership Percentage
+
+--------------------------------------------------------------------------------
+
+URL: https://www.talenenergy.com/our-portfolio
+
+Our Portfolio
+-
+Coal
+Coal
+-
+Natural Gas
+Natural Gas
+-
+Nuclear
+Nuclear
+-
+Oil
+Oil
+-
+Fuel Switching
+Fuel Switching
+Filter Options
+| Name | Fuel Type | Location | Market | Owned Capacity(MW) |
+Ownership % |
+|---|---|---|---|---|---|
+| Brandon Shores Power Plant | Coal Fired | MD | PJM-BGE | 1,273 MW | 100% |
+| Brunner Island Steam Electric Station | Coal, Natural Gas | PA | PJM-PPL | 1,429 MW | 100% |
+| Colstrip Steam Electric Station | Coal Fired | MT | WECC | 222 MW | 30% (Unit 3) |
+| Conemaugh Generating Station | Coal | PA | PJM-PENELEC | 392 MW | 22% |
+| Freedom Generating Station | Natural Gas | PA | PJM-PPL | 1,049 MW | 100% |
+| Guernsey Power Station | Natural Gas | OH | PJM-AEP | 1,771 MW | 100% |
+| H.A. Wagner Generating Station | Oil | MD | PJM-BGE | 702 MW | 100% |
+| Keystone Generating Station | Coal | PA | PJM-PENELEC | 213 MW | 12% |
+| Lower Mount Bethel Power Plant | Natural Gas | PA | PJM-PPL | 607 MW | 100% |
+| Martins Creek Power Plant | Natural Gas | PA | PJM-PPL | 1,710 MW | 100% |
+| Montour Steam Electric Station | Natural Gas | PA | PJM-PPL | 1,505 MW | 100% |
+| Susquehanna Steam Electric Station | Nuclear | PA | PJM-PPL | 2,245 MW | 90% |
+We operate a diverse generating portfolio in a variety of attractive U.S. markets. Our plants generate power using a variety of fuels, ranging from zero-carbon energy like nuclear to natural gas, coal and oil, with some possessing dual fuel switching capabilities. Talen is meeting the growing demand for power by supporting reliability and unlocking new opportunities to power data.
+We produce and sell electricity, capacity, and ancillary services into wholesale power markets in the U.S., primarily in PJM and WECC, with our generation fleet principally located in the Mid-Atlantic, Ohio and Montana.
+Zero-Carbon Nuclear
+PJM Nuclear
+Consists of the Susquehanna Steam Electric Station, a 2-unit BWR station which generates carbon-free nuclear power outside Berwick, PA. With an owned generating capacity of approximately 2,228 Megawatts and a total generating capacity of 2,475 megawatts, Susquehanna generates enough carbon-free nuclear energy to power approximately 2 million homes.
+Learn more at susquehannanuclear.com.
+Fossil
+Natural Gas & Peaking Units
+Includes generation plants located in Pennsylvania, Ohio and Maryland, with an owned generating capacity of approximately 7,400 megawatts.
+Transitioning Off Coal
+Includes our Brunner Island facility in Pennsylvania, which converted to dual-fuel natural gas and coal capability and has committed to cease burning coal completely by year-end 2028. It also includes our Brandon Shores facility. While scheduled to retire on June 1, 2025, Brandon Shores Units 1 and 2 will continue to operate until May 31, 2029 under a “reliability-must-run” (RMR) agreement to provide power necessary to maintain grid and transmission reliability in and around the City of Baltimore until transmission upgrades to provide reliable power to the area from other sources are complete.
+Minority-Owned Coal
+Includes the Colstrip Steam Electric Station, a 2-unit coal-fired generation plant located in Colstrip, Montana, with an owned generating capacity of approximately 222 Megawatts. Talen Montana, a subsidiary of Talen Energy, serves as the plant operator. Also includes the Conemaugh and Keystone coal-fired electric generation plants, which will cease by year-end 2028.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.talenenergy.com/our-leadership/
+
+Our Leadership
+We have built a strong, diverse leadership team
+Talen’s senior leadership team is comprised of energy industry veterans who bring deep experience and unique perspectives across a number of key areas, including corporate governance, finance, trading, corporate development, and operations excellence. Together, they share a commitment to producing energy safely, efficiently, reliably, and in an environmentally friendly manner through Talen’s highly integrated portfolio of nuclear, natural gas, coal and oil-fired power generation facilities.
+Our leaders drive the execution of our vision, strategy and culture in partnership with our 1,900 talented colleagues across Talen.
+Corporate Leadership Team
+Brad Berryman
+Chief Operating Officer
+Sergio Castro
+Vice President and Treasurer
+Edward Casulli
+Chief Nuclear Officer
+Julie LaBella
+Vice President - External Affairs
+Dale Lebsack
+Chief Asset Development Officer
+Jennifer Mansh
+Senior Vice President, Regulatory and External Affairs
+Mark "Mac" McFarland
+Chief Executive Officer & Director
+Chris Morice
+Chief Commercial Officer
+Cole Muller
+Chief Financial Officer
+Terry Nutt
+President
+Darren Olagues
+Chief Development Officer
+Anthony Plagens
+Senior Vice President and Chief Accounting Officer
+Olivia Sigo
+Vice President, Risk Management
+Katie Sussen
+Vice President, Finance
+Megan Toomey
+Vice President - Environmental Affairs
+John Wander
+General Counsel and Corporate Secretary
+Andy Wright
+Chief Administrative Officer
+Board of Directors
+Stephen Schaefer
+Chairman
+Gizman Abbas
+Director
+Anthony Horton
+Director
+Karen Hyde
+Director
+Mark "Mac" McFarland
+Chief Executive Officer & Director
+Joseph Nigro
+Director
+Christine Benson Schwartzstein
+Director
+
+--------------------------------------------------------------------------------
+
+URL: https://talenenergy.com/our-portfolio
+
+Our Portfolio
+-
+Coal
+Coal
+-
+Natural Gas
+Natural Gas
+-
+Nuclear
+Nuclear
+-
+Oil
+Oil
+-
+Fuel Switching
+Fuel Switching
+Filter Options
+| Name | Fuel Type | Location | Market | Owned Capacity(MW) |
+Ownership % |
+|---|---|---|---|---|---|
+| Brandon Shores Power Plant | Coal Fired | MD | PJM-BGE | 1,273 MW | 100% |
+| Brunner Island Steam Electric Station | Coal, Natural Gas | PA | PJM-PPL | 1,429 MW | 100% |
+| Colstrip Steam Electric Station | Coal Fired | MT | WECC | 222 MW | 30% (Unit 3) |
+| Conemaugh Generating Station | Coal | PA | PJM-PENELEC | 392 MW | 22% |
+| Freedom Generating Station | Natural Gas | PA | PJM-PPL | 1,049 MW | 100% |
+| Guernsey Power Station | Natural Gas | OH | PJM-AEP | 1,771 MW | 100% |
+| H.A. Wagner Generating Station | Oil | MD | PJM-BGE | 702 MW | 100% |
+| Keystone Generating Station | Coal | PA | PJM-PENELEC | 213 MW | 12% |
+| Lower Mount Bethel Power Plant | Natural Gas | PA | PJM-PPL | 607 MW | 100% |
+| Martins Creek Power Plant | Natural Gas | PA | PJM-PPL | 1,710 MW | 100% |
+| Montour Steam Electric Station | Natural Gas | PA | PJM-PPL | 1,505 MW | 100% |
+| Susquehanna Steam Electric Station | Nuclear | PA | PJM-PPL | 2,245 MW | 90% |
+We operate a diverse generating portfolio in a variety of attractive U.S. markets. Our plants generate power using a variety of fuels, ranging from zero-carbon energy like nuclear to natural gas, coal and oil, with some possessing dual fuel switching capabilities. Talen is meeting the growing demand for power by supporting reliability and unlocking new opportunities to power data.
+We produce and sell electricity, capacity, and ancillary services into wholesale power markets in the U.S., primarily in PJM and WECC, with our generation fleet principally located in the Mid-Atlantic, Ohio and Montana.
+Zero-Carbon Nuclear
+PJM Nuclear
+Consists of the Susquehanna Steam Electric Station, a 2-unit BWR station which generates carbon-free nuclear power outside Berwick, PA. With an owned generating capacity of approximately 2,228 Megawatts and a total generating capacity of 2,475 megawatts, Susquehanna generates enough carbon-free nuclear energy to power approximately 2 million homes.
+Learn more at susquehannanuclear.com.
+Fossil
+Natural Gas & Peaking Units
+Includes generation plants located in Pennsylvania, Ohio and Maryland, with an owned generating capacity of approximately 7,400 megawatts.
+Transitioning Off Coal
+Includes our Brunner Island facility in Pennsylvania, which converted to dual-fuel natural gas and coal capability and has committed to cease burning coal completely by year-end 2028. It also includes our Brandon Shores facility. While scheduled to retire on June 1, 2025, Brandon Shores Units 1 and 2 will continue to operate until May 31, 2029 under a “reliability-must-run” (RMR) agreement to provide power necessary to maintain grid and transmission reliability in and around the City of Baltimore until transmission upgrades to provide reliable power to the area from other sources are complete.
+Minority-Owned Coal
+Includes the Colstrip Steam Electric Station, a 2-unit coal-fired generation plant located in Colstrip, Montana, with an owned generating capacity of approximately 222 Megawatts. Talen Montana, a subsidiary of Talen Energy, serves as the plant operator. Also includes the Conemaugh and Keystone coal-fired electric generation plants, which will cease by year-end 2028.
+
+--------------------------------------------------------------------------------

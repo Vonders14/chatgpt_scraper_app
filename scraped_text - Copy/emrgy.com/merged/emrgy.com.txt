@@ -1,0 +1,468 @@
+ROOT: https://emrgy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:02:12.131872Z
+PAGES_INCLUDED: 21
+
+================================================================================
+
+URL: https://emrgy.com/
+
+The success of hydropower in a decentralized world is unattainable with old methods.
+Rather than scaling classic hydropower down, we have radically reimagined it.
+/emərdʒi/ (noun)
+- an expression of the total energy of all types that comes together to create a product or service; short for ’embodied energy.’
+- a new technology company contributing to grid power independence by enabling customers to generate continuous clean energy in existing flows of water.
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/about-us/
+
+Executive Team
+Emily Morris
+Chief Executive Officer & Founder
+Emily is an award-winning female entrepreneur that has raised over $30MM in capital to bring Emrgy’s distributed hydropower solution to market. Emily has spent almost 15 years in emerging hard tech development and comes to Emrgy from AMT, Inc., where she managed multi-million dollar Federal contracts bringing innovative technologies from ideation to commercialization.
+Tom Cuthbert
+Chief Technology Officer
+Tom is a Global Technology Leader with 20 years of experience in technology development across the Automotive, Rail, and Energy Industries. As an executive at General Electric he built a global engineering organization creating utility scale energy storage systems securing more than $100M revenue and installed/awarded nearly 700 MWh worldwide.
+Board of Directors
+Jennifer McFarlane
+Jennifer is an independent director in the climate and health tech sectors having served on seven boards, that span public, private and venture backed companies. She has had a 20-year career as a CFO in high growth public and private companies with revenues of over $500 million; as well as 10 years as an investment banker.
+Bob Kelly
+Bob is a Partner at Ember Infrastructure, a private equity firm, and Investment Committee member. Bob served as Chief Financial Officer of SolarCity Corporation, Calera Corporation, and Calpine Corporation. He is a former member of the Board of Directors of Azure Power Global Limited (AZRE NYSE), Solar Mosaic Inc. and a former Board Advisor to Fluidic Energy. Mr. Kelly holds a Bachelor of Commerce degree from Memorial University of Newfoundland and a M.B.A. from Dalhousie University, Nova Scotia, Canada.
+Anastasia Istratova
+Anastasia is a Principal on the Climate Technology investment team at Fifth Wall, where she invests in companies decarbonizing the built world. Prior to joining Fifth Wall, Anastasia was an investor at Standard Investments, focusing on early and growth stage industrial tech. Previously, Anastasia was a Principal in the project finance team at SunPower, where she financed over $1B of residential, commercial, and utility scale solar projects. Anastasia holds a dual BSc from Northeastern University and NEOMA Reims Management School in France, and an MBA from Harvard Business School.
+Justin Wright-Eakes
+Justin is the Founder and Managing Partner of Oval Park Capital, an early-stage venture capital firm. Prior to founding Oval Park, Justin acquired, operated, and exited two middle-market software companies, worked as an Investment Analyst at Aurelius Capital Management, and held Associate roles at Citi. Justin currently serves on the Board of Directors of Archaius, FortifyData, Lemurian Labs, Medicom Technologies, OnTrack Technologies, Parmonic, Phinite, and Talli.
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/2024/10/mini-hydro-company-raises-18m-to-generate-power-in-canals/
+
+Mini Hydro Company Raises $18M to Generate Power in Canals
+Associated Press: April 13, 2023
+A startup business that places small turbines in irrigation canals to generate electricity has raised $18.4 million to scale up its technology for carbon-free hydropower.
+Emily Morris, CEO and founder of Emrgy, said her inspiration for making electricity in places that some people might find unlikely was seeing water swiftly flowing through the vast network of U.S. irrigation infrastructure. The U.S. Bureau of Reclamation alone operates 1,600 miles of main canals.
+See full story in U.S. News & World Report
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/clean-energy-solutions/
+
+Revolutionizing Clean Energy Generation
+Discover how Emrgy’s hydrokinetic technology transforms clean energy production without traditional dams. Generating 5 to 25 kilowatts per turbine, this innovative approach harnesses flowing water’s energy, delivering reliable, cost-effective power while repurposing water channels for clean energy.
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/pricing/
+
+Implementing Emrgy at Your Site is Easy
+1
+Tell Us About Your Site
+Tell Us About Your Site
+Every waterway is different. Our standard product is flexible and optimizes the energy that can be harvested. Tell us a bit about your site to get started. We offer this service complimentary to you as we begin our partnership.
+2
+Complementary Power Assessment
+Complementary Power Assessment
+Using a suite of analytical tools, we assess how much power you can expect to harvest from your water resource using Emrgy. Our engineers create a customized array of our standardized units to meet your specific energy and power needs.
+3
+Determine the Pathway Forward Together
+Determine the Pathway Forward Together
+After confirming resource availability, our team performs an in-person site assessment to determine how to best implement the technology and develop deployment strategies to maximize your benefits.
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/news/
+
+https://emrgy.com/wp-content/uploads/2020/07/emrgy_logo_bluetext_highres-1-300x134.png00Mike Savoiehttps://emrgy.com/wp-content/uploads/2020/07/emrgy_logo_bluetext_highres-1-300x134.pngMike Savoie2024-10-09 16:50:582024-10-09 16:50:58Hydropower from a ditch? DOE sees energy potential.
+https://emrgy.com/wp-content/uploads/2022/10/teamer-logo.jpg500500Camille Cruzhttps://emrgy.com/wp-content/uploads/2020/07/emrgy_logo_bluetext_highres-1-300x134.pngCamille Cruz2022-10-03 15:20:442022-11-21 17:52:15Emrgy Inc. selected for a project in the TEAMER program supported by the US Department of Energy
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/2022/10/emrgy-inc-selected-for-a-project-in-the-teamer-program-supported-by-the-us-department-of-energy/
+
+Emrgy Inc. selected for a project in the TEAMER program supported by the US Department of Energy
+ATLANTA, October 3, 2022— The US Testing Expertise and Access to Marine Energy Research (TEAMER) program announces Emrgy as one of the leading projects for working on enhanced modeling of Emrgy turbines. Emrgy, a transformational tech company whose modular turbines harness the power of water into a clean, distributed energy, is in partnership with Sandia National Laboratories to center around better results in distributed hydropower systems for the program.
+“Proud that Emrgy Inc. has been selected for another TEAMER technology development program in partnership with the great team at Sandia National Laboratories,” said Tom, Energy’s Chief Technology Officer. “This next set of development will enable more advanced modeling and prediction of larger distributed hydropower systems.”
+Emrgy turbines will be integrated into a canal hydraulic model to better optimize future performance and deliver greater clean electric power.
+Read the full announcement here: https://teamer-us.org/teamer
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/in-the-news/
+
+In The News
+2014
+Emily Morris acquired the intellectual property for Emrgy’s turbine system and founded Emrgy
+January 2015
+Emrgy awarded $1.2M in funding with DOE’s Office of EERE
+January 2015
+September 2015
+Deployed first pilot demonstration (2X lab-scale)
+Deployed first pilot demonstration (2X lab-scale) with the City of Atlanta in UV-disinfectant channel of the largest Waste Water Treatment Facility in Georgia, validated expected performance as seen in laboratory tests
+November 2016
+Southern Company Pilot
+Successfully delivered the Southern Company Pilot with our first round of venture funding
+November 2016
+January 2017
+Won Georgia’s Top Startup
+Emrgy won the Max Award for Georgia’s Top Startup granted by the Atlanta Business Chronicle
+June 2017
+Installed the first distributed hydropower array in the US
+With Denver Water and US Bureau of Reclamation, installed the first distributed hydropower array in the US. The manufacturing of turbines deployed in this installation was aided by Cooperative Research and Development Agreements with Oak Ridge National Laboratories (ORNL) awarded through DOE’s Advanced Manufacturing Office (AMO).
+June 2017
+February 2018
+1st place at Accel-VT, Village Capital-sponsored incubator competition
+Emrgy won first place at Accel-VT, Village Capital-sponsored incubator competition centered around renewable energy technologies
+May 2018
+Won NREL Emerging Market’s Day People’s Choice Award
+May 2018
+September 2018
+Closed formal Series A round lead by a strategic water and energy partner in California
+2019
+Expanding, Delivering & Pursuing Strategic Partnership
+Emrgy is expanding our team, delivering to pipeline customers to increase market growth, and continue pursuing strategic partnerships to further both domestic and international business development strategies
+2019
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/careers/
+
+Emrgy is growing fast and looking for energized team members to join us in our mission: pioneering new ways to generate renewable, clean energy to create a thriving, carbon-free world.
+Our passion is to foster energy equity by delivering sustainable, renewable energy when and where it’s needed most.
+Emrgy is blazing new trails in state-of-the-art distributed waterpower energy generation. We are looking for entrepreneurial game-changers, self-starters, and team players that want to be part of solving global problems in a fast-changing environment.
+We rely on diverse backgrounds and shared values to inspire us to be bold, speak openly and cultivate ideas to deliver the best solutions to our customers. If you celebrate the opportunities our unique differences can deliver, you belong at Emrgy.
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/contact/
+
+Let’s get in touch
+Interested in starting a project or looking for more information? Send us a message to get connected to an Emrgy team member.
+Business Address
+75 5th St NW, Ste 3160
+Atlanta, GA 30308
+Phone
+(404) 857-2191
+General Inquiries
+info@emrgy.com
+Sales Inquiries
+sales@emrgy.com
+Marketing/Public Relations Inquiries
+marketing@emrgy.com
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/2024/10/hydropower-from-a-ditch-doe-sees-energy-potential/
+
+Hydropower from a ditch? DOE sees energy potential.
+As a decades long drought continues in the U.S. West, a new Department of Energy report suggests existing ditches, pipelines and canals could bolster local hydroelectricity supplies.
+The study released this month by the Oak Ridge National Laboratory said so-called conduit hydropower — small-scale projects on existing manufactured water infrastructure — could generate as much as 1.4 gigawatts nationally.
+That may not seem like a lot. For comparison, the American Clean Power Association said the U.S. added more than 12 GW of solar energy in 2021 alone. But study author Shih-Chieh Kao said individual developments can make a big difference in communities, especially because they carry little overhead and can be deployed quickly.
+“Something that is less than 1 megawatt — in a rural system, it can be used to offset existing energy from a non-renewable source,” said Kao, group leader of the water resource science and engineering group at Oak Ridge. “We believe it is the low-hanging fruit for generating hydropower.”
+While every state has conduit hydropower potential, the greatest opportunity is in Western states, especially California and Colorado, the DOE study showed.
+By design, conduit projects have little environmental impact, unlike new dams or turbines built on natural waterways. They can also be approved through an expedited federal permitting process. Acting as a distributed resource — for example, providing power to a nearby farm or microgrid rather than putting it on the grid — also means such projects do not require significant electric transmission infrastructure.
+LeRoy Coleman, spokesperson for the National Hydropower Association, said the Oak Ridge lab study is a reminder of the “huge growth potential” for small hydropower projects, one that informs a “new awakening of what hydropower means for the grid.”
+“We’re hopeful this will encourage developers, irrigators, utilities, industrial users and the like to take a closer look and see what potential they have,” Coleman said in an interview. “Every clean megawatt that we add helps us achieve our decarbonization goals.”
+There are currently about 530 megawatts of conduit hydropower systems online in the United States, according to the study. That’s a little more than half a gigawatt. A gigawatt equals 1,000 MW.
+Conduit hydro projects can be placed on constructed water conveyances — anything from an irrigation canal to pipes in municipal water and wastewater stations. The small generators can even be housed in the pipes that carry cooling water in and out of fossil fuel power stations.
+There is the opportunity to nearly triple that existing generation, according to the Oak Ridge study, based on the water flows, pressure and geography of existing conduit sites. The largest potential U.S. source is in the agriculture sector, with 662 MW possible, the report showed.
+Another 378 MW could come from industrial sites, the study said, while municipal water systems could produce 374 MW. In the industrial sector, 60 percent of the potential was associated with the cooling pipes from thermal power plants — a source that has not yet been tapped in the United States.
+Western states offered the greatest potential because the mountainous terrain creates the right pressure conditions, Kao said. California, with 243 MW of potential, and Colorado, with 204 MW, topped the list of states with the greatest conduit power opportunity, followed by Washington, Nebraska and Oregon.
+Generation from the Southwest’s largest dams has diminished amid a brutal drought (Energywire, Sept. 13). Dams along the Colorado River in the Southwest generated more than a third less than average in October through August of fiscal 2022, according to the Western Area Power Administration, DOE’s power marketing administration that transmits hydropower in 15 states.
+Oak Ridge’s Kao said that although conduit hydropower is not intended to fill that gap, the projects have fewer drought concerns because they do not use additional water.
+“This is all about modernizing your existing systems and making it more integrated,” he said.
+In 2013, Congress passed the Hydropower Regulatory Efficiency Act, which set a simplified 45-day federal regulatory approval process for certain conduit hydropower projects and removed small projects from federal jurisdiction. Since then, 128 conduit hydropower projects have been built through the expedited process, according to the National Hydropower Association.
+The America’s Water Infrastructure Act of 2018 expanded the range of projects eligible for faster permitting.
+The Oak Ridge study is meant to inform future DOE examinations of conduit projects to expand their use, part of a broader push to deploy more nontraditional hydropower. According to the study’s authors, the sector can still face challenges due to uncertainty about cost recovery and whether the projects are eligible for certain federal incentives. Technology development could also further enhance the power opportunities from certain types of infrastructure.
+The estimate of 1.4 GW may not even capture the full potential of power generation from existing infrastructure.
+Emily Morris, CEO of Atlanta-based Emrgy Inc., has worked with utilities like Denver Water to install modular turbines on existing conduits that use kinetic energy. Morris said in an interview that “we’ve only begun to understand the role of conduits for power generation,” adding that future DOE studies could unlock even more opportunities.
+“Leaders in the energy transition often overlook the role of new hydropower in contributing to a carbon-free world because in its traditional sense, hydropower cannot be deployed as quickly or as massively as solar and wind,” Morris said. “Conduits represent a sector that can enable rapid deployment in a way that can be more meaningful and move the needle for renewables.”
+Read more about the information here: E&E News
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/2022/11/emrgy-partners-with-100-accelerator-group/
+
+Emrgy Partners with 100+ Accelerator Group
+ATLANTA, November 14, 2022 — Emrgy announced that it has been selected to be a part of the 100+ Accelerator cohort 4 group. This program was developed by International Breweries Plc, which is AB InBev’s parent company and the world’s largest brewer. As part of this initiative, Coca-Cola, Colgate-Palmolive, and Unilever have been revamping supply chains and scaling innovations that create a better, more sustainable world. In partnership with ABBev and other successful companies, Emrgy is building a more sustainable future and finding solutions to environmental challenges. Together with passionate entrepreneurs, innovators, engineers, investors, and scientists, Emrgy can accelerate the transition toward a greener supply chain.
+By collaborating with these companies and learning from key experts and mentors, as well as a funded pilot project, Emrgy will work towards a better future.
+Read the full announcement here: http://www.100accelerator.com/
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/vdp/
+
+Emrgy Vulnerability Disclosure Policy (VDP)
+At this time Emrgy does not maintain a formal bug bounty program, but welcomes the submission of any detected vulnerabilities, abuse, suspicious activity observations, or requests for collaborative assistance via emrgy.com/contact. This process may not be used for the solicitation of any product or service and reports should be ethically submitted without any expectation or demand of payment.
+No action should be taken that is likely or suspected to be disruptive or to perform any denial of service of the platform in production or testing environments.
+Safe Harbor
+When conducting vulnerability research according to the US Department of Justice definition of Good Faith Security Research below, we will consider this activity authorized and exempt from copyright, Terms & Conditions, or similar restrictions that might otherwise be construed to prohibit such activity.
+Good faith security research means accessing a computer solely for purposes of good-faith testing, investigation, and/or correction of a security flaw or vulnerability, where such activity is carried out in a manner designed to avoid any harm to individuals or the public, and where the information derived from the activity is used primarily to promote the security or safety of the class of devices, machines, or online services to which the accessed computer belongs, or those who use such devices, machines, or online services.
+–US Department of Justice PR 22-533
+If at any time you have concerns or are uncertain whether your security research is consistent with this policy, please contact us for clarification before proceeding.
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/category/news/
+
+Mini Hydro Company Raises $18M to Generate Power in Canals
+Associated Press: April 13, 2023
+A startup business that places…
+Canal Plus: These Tiny Turbines Can Turn Man-Made Waterways Into Power Plants
+One company that knows all about the water-energy link is Atlanta-based…
+Hydropower Startup Emrgy Goes Worldwide with GE Renewable Energy Partnership
+Renewable energy is one of the fastest-growing energy sources…
+Emrgy and GE Team Up for Micro Hydrokinetic Technology
+Emrgy Inc has signed an agreement with GE Renewable Energy (GE)…
+How Emrgy is Disrupting the Hydropower Industry
+Solar and wind power have exploded in popularity in recent years…
+Emrgy Offers Scalable Plug-N-Play Hydropower Solutions
+The book Drawdown, edited by Paul Hawken, lists the top 100 things…
+From Atlanta to Denver, Emrgy offers plug-and-play hope for hydropower
+Large hydropower long has been plagued by expensive civil engineering…
+Hydropower in Canal Called Energy ‘Game-Changer’
+“I’m ecstatic,” said Emily Morris, CEO of Emrgy Inc.“To…
+Emrgy Awarded ‘Georgia’s Top Startup’ at the 2017 MAX Awards
+Georgia's Top Startup Award winners were announced Thursday,…
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/author/mike-savoie/
+
+Hydropower from a ditch? DOE sees energy potential.
+As a decades long drought continues in the U.S. West, a new Department of Energy report suggests existing ditches, pipelines and canals could bolster local hydroelectricity supplies. The study released this month by the Oak Ridge National Laboratory said so-called conduit hydropower — small-scale projects on existing manufactured water infrastructure — could generate as much as 1.4 […]
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/wp-content/uploads/2021/06/Emrgy-Specifications.pdf
+
+1 
+2 
+3 
+Turbine Specifications 
+Emrgy empowers customers to monetize on 
+existing, untapped assets to provide clean, cost-
+effective, and continuous power. Thanks to our 
+proprietary design of turbines and drive train, 
+Emrgy’s technology compares favorably to solar 
+or wind kilowatt hour pricing due to inherently 
+higher capacity factors associated with water 
+conveyance project sites. Our turbines range 
+from 10kW to 40kW ratings, allowing for dynamic 
+project planning. 
+ 
+Our Technology 
+RELIABLE, 
+PREDICTABLE 
+POWER OUTPUT 
+SUSTAINABLE, 
+RENEWABLE 
+ENERGY 
+COST-EFFECTIVE, 
+SUPERIOR ROI 
+PERIOD 
+Unlike intermittent 
+resources, Emrgy’s 
+technology harnesses 
+energy around the clock 
+– providing you 
+predictable power 
+output with no need for 
+ancillary technologies 
+such as energy storage. 
+Unlike intermittent 
+resources, Emrgy’s 
+technology harnesses 
+energy around the clock 
+– providing you 
+predictable power 
+output with no need for 
+ancillary technologies 
+such as energy storage. 
+Unlike intermittent 
+resources, Emrgy’s 
+technology harnesses 
+energy around the 
+clock – providing you 
+predictable power 
+output with no need 
+for ancillary 
+technologies such as 
+energy storage. 
+EMRGYFLUME™ 
+→ Anchor-free ballast 
+→ Simple installation and removal 
+→ Maximizes power output 
+ 
+HYDROKINETIC TURBINES 
+→ High performance with minimal hydraulic 
+impact 
+→ Up to 70% water-to-wire efficiency 
+→ Flexible sizing for different flows 
+ 
+POWER SYSTEM 
+→ Permanent Magnet Generator (PMG) and 
+innovative turbine & array controls 
+→ Grid-ready, 3-phase AC power output 
+→ Low-maintenance, protected from weather 
+1 
+2 
+3 
+info@emrgy.com 
+Emrgy.com 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product 
+Platform 
+(fig.1) 
+A - Length (m) B – Height (m) C - Width (m) Weight 
+(1,000kg) 
+D - Rotor 
+Height (m) 
+(fig.2) 
+E – Blade 
+Diameter 
+(m) 
+EM2.0 2.4 2.3 4.8 14.0 0.6-1.8 1.36 
+EM2.1 2.4 2.3 3.6 12.0 0.6-1.8 1.00 
+EM2.2 2.4 4.2 4.8 18.5 0.6-4.0 1.36 
+Power Takeoff (fig.3) 
+Base Gear Ratio 12:1 – 17:1 
+Generator Type Permanent Magnet Generator (PMG) 
+Generator Rating 5-22kW 
+Control System 
+Communications Radio/ Cellular/ Wifi 
+Inverter Solis PV Inverter 
+Inverter Rating 10-45kW 
+Grid Frequency 50/60 Hz 
+Grid Voltage/ Phase 480V/ 3-phase (dependent on location) 
+Operational Data 
+Cut-In Water Speed 1 m/s 
+Survival Water Speed 4 m/s 
+ 
+ 
+ 
+Infrastructure Water Flow Environmental 
+Bottom 
+Width 
+Form Slope Water 
+Depth 
+Debris Flow Access 
+road 
+Wildlife Human 
+Activity 
+Minimum 
+Requirements 
+1.8m Smooth/non-
+rocky channel 
+with defined 
+geometry 
+0.0003-
+0.005m/m 
+0.5-3.85m Minimal Velocity: 
+1.0m/s-
+4.0m/s 
+Yes Minimal Minimal 
+Ideal 
+Conditions 
+3.6m Concrete-lined 
+channel with 
+defined 
+geometry 
+0.00075-
+0.0015m/m 
+1.0-3.85m None Velocity: 
+>1.5m/s 
+Laminar 
+flow 
+Yes None None 
+Technical Specifications and Requirements 
+Turbine Specifications 
+Canal Site Requirements and Ideal Conditions 
+Figure 3. Power Control Unit Figure 2. Rotor 
+info@emrgy.com 
+Emrgy.com
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/category/blog/
+
+Hydropower from a ditch? DOE sees energy potential.
+As a decades long drought continues in the U.S. West, a new Department…
+Emrgy Partners with 100+ Accelerator Group
+ATLANTA, November 14, 2022 — Emrgy announced that it has been…
+Emrgy Partners with Unreasonable Impact
+https://vimeo.com/758787417/898295141c
+The Hydropower Distribution: Why it Makes Sense?
+Traditional hydropower projects have been large, centralized,…
+To the Heartland and Back: Visiting Nebraska's Irrigation Districts for Emrgy
+A core belief of Emrgy's Business Development mission is the…
+Intern Insight: Turbine Testing at Alden Labs
+During the last half of 2019, the Emrgy engineering team conducted…
+Emrgy at the 2019 CRWUA Conference
+In mid-December, Emrgy’s sales team and CEO Emily Morris attended…
+Emrgy Partnering with GE Renewable Energy
+Emrgy signed an agreement with GE Renewable Energy to partner…
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/category/press-releases/
+
+Emrgy Inc. selected for a project in the TEAMER program supported by the US Department of Energy
+ATLANTA, October 3, 2022— The US Testing Expertise and Access…
+Unreasonable Impact organization partners with Emrgy to address key environmental issues and provide new career opportunities in the Americas
+ATLANTA, September 30, 2022 — Emrgy, a global water company…
+Emrgy and GE Renewable Energy Partner for Global Commercialization of Distributed Hydropower System
+Disruptive hydropower tech innovator collaborates with established…
+Emrgy Hires Bob Gills as Director of Business Development
+Distributed hydropower innovator taps irrigation and energy veteran…
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/?page_id=9271&preview=true
+
+Internship
+Emrgy provides clean energy generation by placing hydrokinetic turbines in canals. This is a multi-billion dollar opportunity in North America alone. The Company’s 5-22 kW, modular hydropower turbines integrate flexibly into megawatt scale arrays within existing canals to generate continuous renewable electric power using innovative hardware and software technology. Emrgy’s distributed hydropower solution embodies the same attributes that have made the wind and solar power industries grow exponentially over the past several decades: modularity and flexibility. Emrgy is preparing for significant sales with committed municipal and utility customers in 2021 as well as growing project development interest. This expansion builds upon four years of product engineering, over $6 million in Federally-sponsored R&D funding, a partnership with GE Renewables, and growing customer engagements.
+Emrgy is seeking a Electrical/Mechanical/Computer/System Engineering Interns that will support the design and development various aspects of Emrgy’s Product Line. In this role you will translate system level product requirements into system requirements, design concepts and drive development through validation and deployment. You will work internally within the engineering organization as well as cross functionally with the Growth and Deployment organizations. In this role you will be largely measured on their ability to deliver designs and products that meet performance, cost, and overall lifecycle requirements, on time and on budget.
+Essential Duties & Responsibilities
+- Work with internal and external resources to advance the Company’s various product elements as it relates to cost, performance, and lifecycle
+- Execute steps of the engineering design process to develop Emrgy’s new and existing products
+- Lead and support product development activities such as engineering analysis, design validation, data collection, aggregation, prototype development, and new product introduction.
+- Create and manage product design changes and communicate requirements with manufacturing partners and vendors.
+- Provide support to the project team to ensure successful product installation and maintenance.
+We’d like to talk with you if you have:
+- Junior or Senior undergraduate student, or Bachelors degree seeking Masters or Ph.D., in an engineering discipline
+- Experience with the engineering design process
+- Demonstration of analytical, organizational, and problem-solving skills
+- Ability to lead projects and work on a cross-functional team
+We are even more excited if you
+- Are curious and excited to contribute to the engineering involved in hydropower and renewable energy development
+- Are interested in working in a flexible role at a fast-paced startup
+- Have previous experience in energy research & development
+Compensation – This is an Internship position within a growing team and is compensated based on the candidate’s academic history and related experience to date.
+Emrgy is growing its team and is seeking leaders to join our capitalized Atlanta startup aiming to advance the frontier of distributed renewable energy generation. We want entrepreneurial game changers, self-starters, and team players that want to be part of solving global problems in a fast-changing environment.
+Our passion is to deliver sustainable, renewable energy when and where it’s needed most. Diverse backgrounds with shared values inspire us to be bold, speak openly and cultivate the ideas to deliver the best solutions where they are needed. If you celebrate the unique value our differences deliver, you will find a home at Emrgy.
+Fill out the form below to apply!
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/author/camille-cruz/
+
+Emrgy Partners with 100+ Accelerator Group
+ATLANTA, November 14, 2022 — Emrgy announced that it has been selected to be a part of the 100+ Accelerator cohort 4 group. This program was developed by International Breweries Plc, which is AB InBev’s parent company and the world’s largest brewer. As part of this initiative, Coca-Cola, Colgate-Palmolive, and Unilever have been revamping supply […]
+
+--------------------------------------------------------------------------------
+
+URL: https://emrgy.com/2022/11/emrgy-partners-with-unreasonable-impact/
+
+Emrgy Partners with Unreasonable Impact November 9, 2022/in Blog /by Camille Cruz https://emrgy.com/wp-content/uploads/2022/11/Emrgy-Unreasonable-Impact-Partners.jpg 741 800 Camille Cruz https://emrgy.com/wp-content/uploads/2020/07/emrgy_logo_bluetext_highres-1-300x134.png Camille Cruz2022-11-09 14:38:332022-11-21 17:48:02Emrgy Partners with Unreasonable Impact
+
+--------------------------------------------------------------------------------

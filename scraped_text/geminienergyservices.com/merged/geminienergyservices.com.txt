@@ -1,0 +1,300 @@
+ROOT: https://geminienergyservices.com/
+SCRAPED_AT_UTC: 2026-02-11T20:05:59.103646Z
+PAGES_INCLUDED: 11
+
+================================================================================
+
+URL: https://geminienergyservices.com/
+
+Gemini Energy Services, Tetra Tech’s O&M division, is the premier independent service provider to the wind and solar industry. Our customized service solutions include a tailored approach to individual client requirements. Leveraging advanced technology and workflows, our clients have the assurance that our Military-Grade Services are On Time and On Target.
+Gemini maintains active contracts on nearly all major turbine platforms.
+Long-term O&M contracts and data monitoring ensure the success of small and large-scale assets.
+Gearbox and Blade change-outs help Wind Turbines become operational in short time.
+
+--------------------------------------------------------------------------------
+
+URL: https://geminienergyservices.com/wind.html
+
+Wind - Services We Provide
+Gemini has a unique blend of site technicians and traveling “jump” teams to
+access your turbines onsite as soon as possible.
+With safe, efficient, and professional technicians, we can make an immediate impact on your site when you need us.
+Operations
+The lifeblood of a wind farm is operations and maintenance including preventive and corrective maintenance, electrical and mechanical troubleshooting, and day-to-day facility performance reporting.
+Construction & Commissioning
+A commissioned turbine results in declared revenue. Whether it’s working through punch-lists or overseeing complete turbine startup, Gemini’s techs are trained in all areas of the turbine. Armed with an extensive military electronics training and career coupled with mechanical troubleshooting, our technicians are raising the industry standard for onsite technical support as you start up your wind farm.
+Technical & Engineering Services
+Our engineering team is available to help customers solve complex technical issues. Our offerings include root-cause analysis investigations, engineering management and detail design for modification and upgrades, maintenance program analysis and development, reliability analysis and subject matter expertise for third-party engineering support. Gemini also enjoys access to a large and diverse pool of multi-discipline engineering talent through our parent company Tetra Tech.
+Maintenance
+Our technicians are fully versed in the stringent preventive maintenance programs of the US military and bring that training to your sites across the nation. Turbine downtime directly results in lost profits; let Gemini keep your wind farm operating at full capacity in order to attain your revenue goals.
+Inspection Services
+Focusing on your unique needs, our third party and impartial technicians are qualified to conduct inspections on multiple platforms of turbines. Don’t let your warranty run out without taking care of any and all problems from the manufacturer. Our techs can customize an inspection plan which is tailored to meet your needs.
+Warranty
+Occasionally, repair and retrofit work must be completed in order for your wind farm to be operating at maximum capacity. This is above and beyond the standard Operations and Maintenance phase including blade repair, generator repair, and gearbox or turbine rebuilding. Our network of technicians can provide all services you require to take care of any warranty work in a timely and cost-effective way.
+Let Gemini earn your business!
+
+--------------------------------------------------------------------------------
+
+URL: https://geminienergyservices.com/solar.html
+
+Solar - Services We Provide
+Over the past decade, Gemini has been making strides in Solar Energy. Participating in projects across
+the US, Gemini is stepping into the shoes of the following services.
+Inquire today about projects large and small for an in-depth review of your current portfolio and to
+meet with our team of experts.
+Quality Assurance & Quality Control
+Gemini represents owners and asset managers in the due diligence process of construction monitoring services and logistics.
+Owner's Engineering
+Our team of engineers are adept at identifying and resolving problems, to solve issues relating to downtime with comprehensive documentation and solutions to faults.
+Inspection Services
+Gemini provides on the ground support for flyover scan detection and examination of assets in real time, replacement of faulty equipment and documentation of warranty claims.
+Site Supervisor & EHS Representative
+When resources are tight, Gemini fills higher-level positions with a diverse team of experts, ready to tackle multiple scopes of work and combined roles.
+Regional O&M support
+Gemini provides hybrid local-travel technicians for assets that need periodic inspection, maintenance and repair. Outsourcing Solar O&M requires the assurance that your assets are in good hands.
+Cutting-edge technology
+Condition-based maintenance uses real-time data, UV fly-over detection, drone imaging and industry best practices to predict issues and provide turn-key solutions.
+Inquire today about projects large and small for an in-depth review of your current portfolio and to meet with our team of experts.
+
+--------------------------------------------------------------------------------
+
+URL: https://geminienergyservices.com/engineering.html
+
+Engineering
+Wind and solar energy play an increasingly important role in diversifying our nation’s energy portfolio and provide benefits for our climate and economy. The cost of renewable energy technology has steadily declined and is projected to decline even further as markets mature and companies increasingly take advantage of the long-term projected growth. As a leader in the renewable energy market, Gemini is well positioned to provide technical consulting and advisory services in support of the continued growth of these markets.
+Gemini provides solutions through integrated engineering, construction management, operations and maintenance and program management services across all phases of renewable energy assets. Our geographic distribution and depth of resources enable us to rapidly respond, providing a support network that understands the local environment and regulatory climate.
+Engineering Services
+Wind, Solar, Battery Storage, and Grid Interconnection
+- Owners Engineer/Independent Engineer
+- Construction oversight
+- Site design and technology review
+- Conceptual design
+- Interconnect planning, analyses, and design
+- Transportation studies, planning, and permitting
+- Electrical, mechanical, civil and structural detailed design
+- Balance of plant detailed design and design review
+- Geotechnical, geophysical, and thermal resistivity investigations
+- Drainage, erosion, and sediment control design
+- Operations and maintenance contract analysis
+- Operational reliability assessment
+- Renewable generation performance reporting
+- Operational and performance improvement support
+- Power curve testing
+- Mechanical loads testing
+- Customized validation testing services
+- Root cause analysis investigations
+- Major corrective development and execution
+- Value engineering
+- Engineering support—environmental assessment and permitting
+- Program management
+- Commissioning/re-powering support
+- Operations and maintenance services
+- Engineering and project management support for correctives, upgrades and warranty inspections
+Renewable energy experience highlights
+Cook Inlet Region, Inc. Fire Island Wind Project
+Tetra Tech provided design engineering, procurement, and construction services for this project on Fire Island, which is located three miles off the coast of Anchorage, Alaska. Tetra Tech was the prime contractor, erecting the wind turbines and associated facilities, including the underground collection system, collector switch yard, operations and maintenance building, meteorological tower, access roads, foundations, and crane pads.
+Santa Rita East Wind Energy Project
+Tetra Tech prepared the Storm Water Pollution Prevention Plan (SWPPP) for Production Tax Credit construction on the 300 MW, 120-turbine project. Tetra Tech worked with the client in coordinating temporary and permanent vegetative stabilization requirements with Soil and Water Conservation District representative and Texas A&M AgriLife Extension for site-specific conditions; prepared the SWPPP, including all best management practices in accordance with Texas-specific controls, conditions, and practices.
+Peyton Creek Wind Farm Project
+The Peyton Creek Wind Farm Project is a 48-turbine, 150 MW wind project. Tetra Tech’s scope is to prepare the civil design for the roadway layout, including design drawings that address erosion and sediment controls, as well as storm water and pollution prevention practices for the site. Additionally, Tetra Tech developed a drainage impact study for the project that detailed the installed design elements, including environmental conditions, permits, roadway elements, right-of-way considerations, geotechnical considerations, and hydrologic and hydraulic criteria.
+Hoods Mill Sanitary Landfill Solar Facility
+Tetra Tech assisted SunEdison in the solar array facility design on the existing Hoods Mill Sanitary Landfill. The approximately 2.3 MW system consisted of almost 9,500 modules. Tetra Tech’s design incorporated small-scale stormwater management practices, nonstructural techniques, and optimized site planning to mimic natural hydrologic runoff characteristics and minimize the impact on water resources.
+Let Gemini earn your business!
+
+--------------------------------------------------------------------------------
+
+URL: https://geminienergyservices.com/careers.html
+
+Careers
+We are currently seeking experienced Traveling Field Technicians with a track record of success in the industry including technical experience, commitment to safety, and an outstanding work ethic. See if you are qualified and apply below.
+Travel
+Up to 6 weeks at a time
+Dedicated
+50-60 hours per week
+Climb
+Ability to climb towers up to 300 feet tall
+Skills
+WTG Electrical, Hydraulic, or Mechanical fundamentals
+Drive
+Clean DMV record for the last 5 years
+Certifications
+OSHA-10, NFPA 70e, First Aid/CPR, and Tower Rescue certificates preferred
+Email today for a list of our current openings! careers@geminienergyservices.com
+Directions to Apply:
+- Go to http://www.tetratech.com/careers
+- Create a profile.
+- Upload your resume, cover letter and certifications.
+- Search:
+- This application is for entry-level technicians, recent wind graduates and technicians with less than 2 years of experience.
+- Mostly travel roles, some local positions available
+- This application is for technicians with 2 years or more of wind experience, all technical platform experience is welcome.
+- Mostly travel roles, some local positions available
+- This application is for all levels of solar technicians; travelers and regional technicians are welcome to apply.
+- This application is for technicians who have current certifications from Global Wind Organization accredited programs.
+- This application is for technicians who are interested in local roles or are willing to relocate for a minimum of a one-year contract.
+- Email us to inquire about openings, or to let us know you applied. We have many applications, and we want to ensure that everyone has been considered. Contact us today for general questions or for a quick link to apply!
+-
+Wind Turbine Technician
+-
+Advanced Wind Technician
+-
+Travel Solar Technician
+-
+GWO Wind Technician
+-
+Wind Turbine Technicians local
+Email us!
+
+--------------------------------------------------------------------------------
+
+URL: https://info@geminienergyservices.com/
+
+Gemini Energy Services, Tetra Tech’s O&M division, is the premier independent service provider to the wind and solar industry. Our customized service solutions include a tailored approach to individual client requirements. Leveraging advanced technology and workflows, our clients have the assurance that our Military-Grade Services are On Time and On Target.
+Gemini maintains active contracts on nearly all major turbine platforms.
+Long-term O&M contracts and data monitoring ensure the success of small and large-scale assets.
+Gearbox and Blade change-outs help Wind Turbines become operational in short time.
+
+--------------------------------------------------------------------------------
+
+URL: https://careers@geminienergyservices.com/
+
+Gemini Energy Services, Tetra Tech’s O&M division, is the premier independent service provider to the wind and solar industry. Our customized service solutions include a tailored approach to individual client requirements. Leveraging advanced technology and workflows, our clients have the assurance that our Military-Grade Services are On Time and On Target.
+Gemini maintains active contracts on nearly all major turbine platforms.
+Long-term O&M contracts and data monitoring ensure the success of small and large-scale assets.
+Gearbox and Blade change-outs help Wind Turbines become operational in short time.
+
+--------------------------------------------------------------------------------
+
+URL: https://info@geminienergyservices.com/wind.html
+
+Wind - Services We Provide
+Gemini has a unique blend of site technicians and traveling “jump” teams to
+access your turbines onsite as soon as possible.
+With safe, efficient, and professional technicians, we can make an immediate impact on your site when you need us.
+Operations
+The lifeblood of a wind farm is operations and maintenance including preventive and corrective maintenance, electrical and mechanical troubleshooting, and day-to-day facility performance reporting.
+Construction & Commissioning
+A commissioned turbine results in declared revenue. Whether it’s working through punch-lists or overseeing complete turbine startup, Gemini’s techs are trained in all areas of the turbine. Armed with an extensive military electronics training and career coupled with mechanical troubleshooting, our technicians are raising the industry standard for onsite technical support as you start up your wind farm.
+Technical & Engineering Services
+Our engineering team is available to help customers solve complex technical issues. Our offerings include root-cause analysis investigations, engineering management and detail design for modification and upgrades, maintenance program analysis and development, reliability analysis and subject matter expertise for third-party engineering support. Gemini also enjoys access to a large and diverse pool of multi-discipline engineering talent through our parent company Tetra Tech.
+Maintenance
+Our technicians are fully versed in the stringent preventive maintenance programs of the US military and bring that training to your sites across the nation. Turbine downtime directly results in lost profits; let Gemini keep your wind farm operating at full capacity in order to attain your revenue goals.
+Inspection Services
+Focusing on your unique needs, our third party and impartial technicians are qualified to conduct inspections on multiple platforms of turbines. Don’t let your warranty run out without taking care of any and all problems from the manufacturer. Our techs can customize an inspection plan which is tailored to meet your needs.
+Warranty
+Occasionally, repair and retrofit work must be completed in order for your wind farm to be operating at maximum capacity. This is above and beyond the standard Operations and Maintenance phase including blade repair, generator repair, and gearbox or turbine rebuilding. Our network of technicians can provide all services you require to take care of any warranty work in a timely and cost-effective way.
+Let Gemini earn your business!
+
+--------------------------------------------------------------------------------
+
+URL: https://info@geminienergyservices.com/solar.html
+
+Solar - Services We Provide
+Over the past decade, Gemini has been making strides in Solar Energy. Participating in projects across
+the US, Gemini is stepping into the shoes of the following services.
+Inquire today about projects large and small for an in-depth review of your current portfolio and to
+meet with our team of experts.
+Quality Assurance & Quality Control
+Gemini represents owners and asset managers in the due diligence process of construction monitoring services and logistics.
+Owner's Engineering
+Our team of engineers are adept at identifying and resolving problems, to solve issues relating to downtime with comprehensive documentation and solutions to faults.
+Inspection Services
+Gemini provides on the ground support for flyover scan detection and examination of assets in real time, replacement of faulty equipment and documentation of warranty claims.
+Site Supervisor & EHS Representative
+When resources are tight, Gemini fills higher-level positions with a diverse team of experts, ready to tackle multiple scopes of work and combined roles.
+Regional O&M support
+Gemini provides hybrid local-travel technicians for assets that need periodic inspection, maintenance and repair. Outsourcing Solar O&M requires the assurance that your assets are in good hands.
+Cutting-edge technology
+Condition-based maintenance uses real-time data, UV fly-over detection, drone imaging and industry best practices to predict issues and provide turn-key solutions.
+Inquire today about projects large and small for an in-depth review of your current portfolio and to meet with our team of experts.
+
+--------------------------------------------------------------------------------
+
+URL: https://info@geminienergyservices.com/engineering.html
+
+Engineering
+Wind and solar energy play an increasingly important role in diversifying our nation’s energy portfolio and provide benefits for our climate and economy. The cost of renewable energy technology has steadily declined and is projected to decline even further as markets mature and companies increasingly take advantage of the long-term projected growth. As a leader in the renewable energy market, Gemini is well positioned to provide technical consulting and advisory services in support of the continued growth of these markets.
+Gemini provides solutions through integrated engineering, construction management, operations and maintenance and program management services across all phases of renewable energy assets. Our geographic distribution and depth of resources enable us to rapidly respond, providing a support network that understands the local environment and regulatory climate.
+Engineering Services
+Wind, Solar, Battery Storage, and Grid Interconnection
+- Owners Engineer/Independent Engineer
+- Construction oversight
+- Site design and technology review
+- Conceptual design
+- Interconnect planning, analyses, and design
+- Transportation studies, planning, and permitting
+- Electrical, mechanical, civil and structural detailed design
+- Balance of plant detailed design and design review
+- Geotechnical, geophysical, and thermal resistivity investigations
+- Drainage, erosion, and sediment control design
+- Operations and maintenance contract analysis
+- Operational reliability assessment
+- Renewable generation performance reporting
+- Operational and performance improvement support
+- Power curve testing
+- Mechanical loads testing
+- Customized validation testing services
+- Root cause analysis investigations
+- Major corrective development and execution
+- Value engineering
+- Engineering support—environmental assessment and permitting
+- Program management
+- Commissioning/re-powering support
+- Operations and maintenance services
+- Engineering and project management support for correctives, upgrades and warranty inspections
+Renewable energy experience highlights
+Cook Inlet Region, Inc. Fire Island Wind Project
+Tetra Tech provided design engineering, procurement, and construction services for this project on Fire Island, which is located three miles off the coast of Anchorage, Alaska. Tetra Tech was the prime contractor, erecting the wind turbines and associated facilities, including the underground collection system, collector switch yard, operations and maintenance building, meteorological tower, access roads, foundations, and crane pads.
+Santa Rita East Wind Energy Project
+Tetra Tech prepared the Storm Water Pollution Prevention Plan (SWPPP) for Production Tax Credit construction on the 300 MW, 120-turbine project. Tetra Tech worked with the client in coordinating temporary and permanent vegetative stabilization requirements with Soil and Water Conservation District representative and Texas A&M AgriLife Extension for site-specific conditions; prepared the SWPPP, including all best management practices in accordance with Texas-specific controls, conditions, and practices.
+Peyton Creek Wind Farm Project
+The Peyton Creek Wind Farm Project is a 48-turbine, 150 MW wind project. Tetra Tech’s scope is to prepare the civil design for the roadway layout, including design drawings that address erosion and sediment controls, as well as storm water and pollution prevention practices for the site. Additionally, Tetra Tech developed a drainage impact study for the project that detailed the installed design elements, including environmental conditions, permits, roadway elements, right-of-way considerations, geotechnical considerations, and hydrologic and hydraulic criteria.
+Hoods Mill Sanitary Landfill Solar Facility
+Tetra Tech assisted SunEdison in the solar array facility design on the existing Hoods Mill Sanitary Landfill. The approximately 2.3 MW system consisted of almost 9,500 modules. Tetra Tech’s design incorporated small-scale stormwater management practices, nonstructural techniques, and optimized site planning to mimic natural hydrologic runoff characteristics and minimize the impact on water resources.
+Let Gemini earn your business!
+
+--------------------------------------------------------------------------------
+
+URL: https://info@geminienergyservices.com/careers.html
+
+Careers
+We are currently seeking experienced Traveling Field Technicians with a track record of success in the industry including technical experience, commitment to safety, and an outstanding work ethic. See if you are qualified and apply below.
+Travel
+Up to 6 weeks at a time
+Dedicated
+50-60 hours per week
+Climb
+Ability to climb towers up to 300 feet tall
+Skills
+WTG Electrical, Hydraulic, or Mechanical fundamentals
+Drive
+Clean DMV record for the last 5 years
+Certifications
+OSHA-10, NFPA 70e, First Aid/CPR, and Tower Rescue certificates preferred
+Email today for a list of our current openings! careers@geminienergyservices.com
+Directions to Apply:
+- Go to http://www.tetratech.com/careers
+- Create a profile.
+- Upload your resume, cover letter and certifications.
+- Search:
+- This application is for entry-level technicians, recent wind graduates and technicians with less than 2 years of experience.
+- Mostly travel roles, some local positions available
+- This application is for technicians with 2 years or more of wind experience, all technical platform experience is welcome.
+- Mostly travel roles, some local positions available
+- This application is for all levels of solar technicians; travelers and regional technicians are welcome to apply.
+- This application is for technicians who have current certifications from Global Wind Organization accredited programs.
+- This application is for technicians who are interested in local roles or are willing to relocate for a minimum of a one-year contract.
+- Email us to inquire about openings, or to let us know you applied. We have many applications, and we want to ensure that everyone has been considered. Contact us today for general questions or for a quick link to apply!
+-
+Wind Turbine Technician
+-
+Advanced Wind Technician
+-
+Travel Solar Technician
+-
+GWO Wind Technician
+-
+Wind Turbine Technicians local
+Email us!
+
+--------------------------------------------------------------------------------

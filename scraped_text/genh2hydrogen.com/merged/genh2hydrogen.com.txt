@@ -1,0 +1,183 @@
+ROOT: https://genh2hydrogen.com/
+SCRAPED_AT_UTC: 2026-02-11T20:06:18.052713Z
+PAGES_INCLUDED: 8
+
+================================================================================
+
+URL: https://genh2hydrogen.com/
+
+Liquid Hydrogen
+GenH2 Infrastructure Technology
+GenH2 Infrastructure Technology
+and GenH2 is Revolutionizing The Hydrogen Economy!
+Zero-loss Achieved with
+Cryogenic Refrigeration
+World-renowned Cryogenic
+Testing Devices
+Combined Years of Experience
+Years of NASA Cryogenic Expertise
+NASA licenses, patents filed & patents pending
+Countries Worldwide
+Industry Awards
+LH2 is Key to Advancing Hydrogen Adoption
+The future of advanced clean energy relies on molecule efficiency and innovative infrastructure concepts. GenH2 specializes in safer, cost-effective liquid hydrogen systems for various industries. Learn why liquid hydrogen is the preferred energy carrier for the future.
+Please provide your information below to download this resource.
+
+--------------------------------------------------------------------------------
+
+URL: https://genh2hydrogen.com/?s=
+
+New Search
+If you are not happy with the results below please do another search
+Global Headquarters
+5200 S. Washington Ave.
+Titusville, FL 32780
+Main : 530-654-3642
+Fax : 515-654-3642
+Please provide your information below to download this resource.
+
+--------------------------------------------------------------------------------
+
+URL: https://genh2hydrogen.com/solutions/controlled-storage/
+
+Enhancing Hydrogen Longevity
+How Controlled Refrigerated Storage Transforms the Hydrogen Economy
+Hydrogen is essential for reducing carbon emissions and transitioning away from fossil fuels. However, storage and transfer losses of 20% to 40% limit its cost-effectiveness and widespread adoption. GenH2’s innovative Zero-loss Controlled Storage Technology establishes a new standard for liquid hydrogen (LH2), enhancing its potential as an alternative fuel for transportation, backup power, and energy storage.
+Controlled Storage Technology Benefits
+- Minimized Hydrogen Loss: Subcooling liquid hydrogen reduces losses during transfilling and dispensing.
+- Lower Pressure, Higher Efficiency: Liquid hydrogen is stored at reduced pressure, which simplifies tank filling and eliminates the need for venting.
+- Cost Savings: By minimizing losses, fueling stations can store and dispense more hydrogen, which enhances cost competitiveness.
+- High Reliability: The subcooled liquid prevents cavitation in liquid hydrogen pumps, leading to lower maintenance requirements and improved equipment reliability.
+Revolutionizing Liquid Hydrogen Storage
+Hydrogen storage has long faced the problem of boil-off, where hydrogen gas escapes from its liquid form as it warms. This creates a significant challenge during transfill, storage, and refueling operations, resulting in substantial losses of usable hydrogen. GenH2’s groundbreaking Controlled Storage Technology, inspired by innovations from NASA’s space program, offers a revolutionary solution. Unlike conventional systems that rely on pressure adjustments, which can lead to further losses through boil-off, GenH2’s technology prevents these losses before they occur.
+Turbo Cryo Refrigeration
+GenH2’s innovation centers on the RS1500 refrigerator, which subcools liquid hydrogen by reducing its temperature. Unlike traditional systems that depend on pressure for ullage gas and temperature control, the RS1500 refrigerator utilizes over 1,000 watts of cooling power at 20 kelvins to create significantly subcooled liquid, prevent boil-off, and ensure stability during transfer and dispensing.
+Download our Solution Brief to learn more about the process and benefits of controlled storage!
+- Zero-Loss
+- Maximized Longevity
+- Enhanced Safety
+- Total System Control
+
+--------------------------------------------------------------------------------
+
+URL: https://genh2hydrogen.com/solutions/liquefaction/
+
+Maximizing Hydrogen’s Purity and Efficiency
+Liquid hydrogen (LH₂) provides superior energy density and purity for advanced clean energy applications. GenH2 Liquefaction solutions convert gaseous hydrogen into ultra-pure liquid hydrogen using advanced cryogenic technology, maximizing storage efficiency, safety, and performance.
+Light-Scale Hydrogen Liquefaction Technology
+GenH2’s light-scale liquefaction systems produce ultra-high purity liquid hydrogen from a variety of gaseous hydrogen sources, including electrolyzers, storage tanks, and reformers.
+Inspired by NASA-pioneered technology, GenH2 systems deliver high efficiency, optimized capacity, and a compact footprint. The modular design enables scalable deployment without requiring liquid nitrogen pre-cooling.
+Available system capacities range from small-scale (2–20 kg/day), medium-scale (50–100 kg/day), to industrial-scale (1,000 kg/day).
+- Ultra-High Purity Liquid Hydrogen: Liquefaction removes impurities, delivering ultra-high-purity LH₂ with consistent performance.
+- Closed-Loop, Helium-Cooled System: Helium-based cryogenic cooling provides precise control and reliable operation.
+- Dry System – No LN₂ Pre-Cooling Required: Eliminates liquid nitrogen pre-cooling, reducing costs and system complexity.
+- Modular, Scalable Architecture: Light-scale modules enable fast deployment and simple capacity expansion.
+- Optimized Size, Capacity, and Efficiency: High efficiency and throughput in a compact, space-saving footprint.
+Compact, Scalable Clean Energy
+GenH2 Liquefaction systems are designed for flexible deployment and rapid scalability. The compact footprint supports on-site and remote installations where traditional liquefiers are not viable.
+Smaller systems may be portable and integrate seamlessly with renewable energy sources such as solar, wind, and hydropower. Reduced lead times and capital requirements enable faster hydrogen adoption across transportation, aviation, shipping, and off-grid power applications.
+GenH2 Liquefaction units can operate independently or as part of a complete hydrogen ecosystem, with select models capable of reliquefying captured hydrogen boil-off to improve overall system efficiency.
+The Liquefaction Process
+- Gaseous Hydrogen Input: Hydrogen is supplied from electrolyzers, storage tanks, or reformers. Source purity determines final LH₂ purity.
+- Pre-Cooling: Hydrogen is pre-cooled using helium-based cryo-refrigeration, with optional liquid nitrogen to increase liquefaction speed.
+- Liquefaction: Hydrogen is cryogenically cooled and condensed into liquid form using a dry, closed-loop helium system, producing ultra-pure LH₂ with high efficiency and reduced operating costs.
+Download our Solution Brief to learn more about the process and benefits of hydrogen liquefaction!
+- Clean
+- Efficient
+- Reliable
+- Flexible
+- Compact
+
+--------------------------------------------------------------------------------
+
+URL: https://genh2hydrogen.com/solutions/cryogenic-testing-equipment/
+
+Cryogenic Calorimeter Testing Equipment
+Using Advanced Cryogenic Equipment to Test Heat Conductivity
+Building on technology developed by NASA, GenH2 Cryogenic Testing Equipment uses a process known as boil-off calorimetry, which measures the amount of heat retained by or transferred through an object. Heat conductivity provides essential information about the thermal properties of materials and systems, as well as their applications.
+Advanced Testing Equipment Benefits
+- Real-world applications: testing for realistic scientific and industry use cases
+- Fast, Precise Results: same-day, reliable, highly accurate testing data
+- Ease of Operation: user-friendly devices for a variety of end users
+- Flexible and Efficient: enables multiple thermal conductivity tests per day
+GenH2 Cryogenic Testing Devices
+GenH2’s cryostats utilize boil-off calorimetry to measure heat conductivity by lowering temperatures to cryogenic levels with ultra-cold liquids, such as hydrogen or nitrogen. Heat transfer to the boil-off fluid causes evaporation, allowing for the measurement of heat conductivity in the sample. This data is vital across various sectors, including medical research, refrigeration, food processing, energy storage, aerospace, and education, and is crucial for designing cryogenic and LH2 systems.
+Macroflash
+This entry-level cryostat operates without a vacuum chamber, enabling multiple daily thermal conductivity tests. The Macroflash is compact, flat, and small enough to fit on a desk.
+Cryostat
+- CS100 – A mid-level full-range vacuum testing unit that offers simulation testing, accommodating various boil-off fluids and operating in diverse environments.
+- CS900 (shown) – The Advanced Vacuum Simulation Test Platform offers control process simulations, refrigeration design data, and safety assessments to enhance the industry.
+
+--------------------------------------------------------------------------------
+
+URL: https://genh2hydrogen.com/solutions/controlled-storage/?s=
+
+Enhancing Hydrogen Longevity
+How Controlled Refrigerated Storage Transforms the Hydrogen Economy
+Hydrogen is essential for reducing carbon emissions and transitioning away from fossil fuels. However, storage and transfer losses of 20% to 40% limit its cost-effectiveness and widespread adoption. GenH2’s innovative Zero-loss Controlled Storage Technology establishes a new standard for liquid hydrogen (LH2), enhancing its potential as an alternative fuel for transportation, backup power, and energy storage.
+Controlled Storage Technology Benefits
+- Minimized Hydrogen Loss: Subcooling liquid hydrogen reduces losses during transfilling and dispensing.
+- Lower Pressure, Higher Efficiency: Liquid hydrogen is stored at reduced pressure, which simplifies tank filling and eliminates the need for venting.
+- Cost Savings: By minimizing losses, fueling stations can store and dispense more hydrogen, which enhances cost competitiveness.
+- High Reliability: The subcooled liquid prevents cavitation in liquid hydrogen pumps, leading to lower maintenance requirements and improved equipment reliability.
+Revolutionizing Liquid Hydrogen Storage
+Hydrogen storage has long faced the problem of boil-off, where hydrogen gas escapes from its liquid form as it warms. This creates a significant challenge during transfill, storage, and refueling operations, resulting in substantial losses of usable hydrogen. GenH2’s groundbreaking Controlled Storage Technology, inspired by innovations from NASA’s space program, offers a revolutionary solution. Unlike conventional systems that rely on pressure adjustments, which can lead to further losses through boil-off, GenH2’s technology prevents these losses before they occur.
+Turbo Cryo Refrigeration
+GenH2’s innovation centers on the RS1500 refrigerator, which subcools liquid hydrogen by reducing its temperature. Unlike traditional systems that depend on pressure for ullage gas and temperature control, the RS1500 refrigerator utilizes over 1,000 watts of cooling power at 20 kelvins to create significantly subcooled liquid, prevent boil-off, and ensure stability during transfer and dispensing.
+Download our Solution Brief to learn more about the process and benefits of controlled storage!
+- Zero-Loss
+- Maximized Longevity
+- Enhanced Safety
+- Total System Control
+
+--------------------------------------------------------------------------------
+
+URL: https://genh2hydrogen.com/solutions/liquefaction/?s=
+
+Maximizing Hydrogen’s Purity and Efficiency
+Liquid hydrogen (LH₂) provides superior energy density and purity for advanced clean energy applications. GenH2 Liquefaction solutions convert gaseous hydrogen into ultra-pure liquid hydrogen using advanced cryogenic technology, maximizing storage efficiency, safety, and performance.
+Light-Scale Hydrogen Liquefaction Technology
+GenH2’s light-scale liquefaction systems produce ultra-high purity liquid hydrogen from a variety of gaseous hydrogen sources, including electrolyzers, storage tanks, and reformers.
+Inspired by NASA-pioneered technology, GenH2 systems deliver high efficiency, optimized capacity, and a compact footprint. The modular design enables scalable deployment without requiring liquid nitrogen pre-cooling.
+Available system capacities range from small-scale (2–20 kg/day), medium-scale (50–100 kg/day), to industrial-scale (1,000 kg/day).
+- Ultra-High Purity Liquid Hydrogen: Liquefaction removes impurities, delivering ultra-high-purity LH₂ with consistent performance.
+- Closed-Loop, Helium-Cooled System: Helium-based cryogenic cooling provides precise control and reliable operation.
+- Dry System – No LN₂ Pre-Cooling Required: Eliminates liquid nitrogen pre-cooling, reducing costs and system complexity.
+- Modular, Scalable Architecture: Light-scale modules enable fast deployment and simple capacity expansion.
+- Optimized Size, Capacity, and Efficiency: High efficiency and throughput in a compact, space-saving footprint.
+Compact, Scalable Clean Energy
+GenH2 Liquefaction systems are designed for flexible deployment and rapid scalability. The compact footprint supports on-site and remote installations where traditional liquefiers are not viable.
+Smaller systems may be portable and integrate seamlessly with renewable energy sources such as solar, wind, and hydropower. Reduced lead times and capital requirements enable faster hydrogen adoption across transportation, aviation, shipping, and off-grid power applications.
+GenH2 Liquefaction units can operate independently or as part of a complete hydrogen ecosystem, with select models capable of reliquefying captured hydrogen boil-off to improve overall system efficiency.
+The Liquefaction Process
+- Gaseous Hydrogen Input: Hydrogen is supplied from electrolyzers, storage tanks, or reformers. Source purity determines final LH₂ purity.
+- Pre-Cooling: Hydrogen is pre-cooled using helium-based cryo-refrigeration, with optional liquid nitrogen to increase liquefaction speed.
+- Liquefaction: Hydrogen is cryogenically cooled and condensed into liquid form using a dry, closed-loop helium system, producing ultra-pure LH₂ with high efficiency and reduced operating costs.
+Download our Solution Brief to learn more about the process and benefits of hydrogen liquefaction!
+- Clean
+- Efficient
+- Reliable
+- Flexible
+- Compact
+
+--------------------------------------------------------------------------------
+
+URL: https://genh2hydrogen.com/solutions/cryogenic-testing-equipment/?s=
+
+Cryogenic Calorimeter Testing Equipment
+Using Advanced Cryogenic Equipment to Test Heat Conductivity
+Building on technology developed by NASA, GenH2 Cryogenic Testing Equipment uses a process known as boil-off calorimetry, which measures the amount of heat retained by or transferred through an object. Heat conductivity provides essential information about the thermal properties of materials and systems, as well as their applications.
+Advanced Testing Equipment Benefits
+- Real-world applications: testing for realistic scientific and industry use cases
+- Fast, Precise Results: same-day, reliable, highly accurate testing data
+- Ease of Operation: user-friendly devices for a variety of end users
+- Flexible and Efficient: enables multiple thermal conductivity tests per day
+GenH2 Cryogenic Testing Devices
+GenH2’s cryostats utilize boil-off calorimetry to measure heat conductivity by lowering temperatures to cryogenic levels with ultra-cold liquids, such as hydrogen or nitrogen. Heat transfer to the boil-off fluid causes evaporation, allowing for the measurement of heat conductivity in the sample. This data is vital across various sectors, including medical research, refrigeration, food processing, energy storage, aerospace, and education, and is crucial for designing cryogenic and LH2 systems.
+Macroflash
+This entry-level cryostat operates without a vacuum chamber, enabling multiple daily thermal conductivity tests. The Macroflash is compact, flat, and small enough to fit on a desk.
+Cryostat
+- CS100 – A mid-level full-range vacuum testing unit that offers simulation testing, accommodating various boil-off fluids and operating in diverse environments.
+- CS900 (shown) – The Advanced Vacuum Simulation Test Platform offers control process simulations, refrigeration design data, and safety assessments to enhance the industry.
+
+--------------------------------------------------------------------------------

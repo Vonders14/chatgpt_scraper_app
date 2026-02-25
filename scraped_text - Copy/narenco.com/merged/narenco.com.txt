@@ -1,0 +1,385 @@
+ROOT: https://narenco.com/
+SCRAPED_AT_UTC: 2026-02-11T20:21:01.867418Z
+PAGES_INCLUDED: 18
+
+================================================================================
+
+URL: https://narenco.com/
+
+Solar energy projects built on decades of experience
+Since 2009, NARENCO’s industry-leading team has been focused on the design, construction, and operations of utility-scale solar farms. We build long-term partnerships with investors, clients, and landowners like you to produce clean energy and help you meet financial goals.
+Our solar farms minimize environmental impact, maximize financial returns, and optimize renewable energy production
+Consistently recognized by Solar Power World and Bloomberg New Energy Finance as one of the most successful construction firms in the United States, we create quality solar installations that revolutionize the energy market.
+Our vertical integration ensures seamless management through every stage of the project lifecycle.
+Engineering & Design
+We optimize it all from the early stages of system design to permitting.
+Procurement & Logistics
+We identify facility needs, negotiate master supply agreements, and coordinate delivery and installation.
+Construction & Commissioning
+Our project managers, operators, technicians, and laborers complete each project on time and on budget.
+Quality assurance & quality control
+With thorough field inspections and specifications, we ensure the highest level of quality is delivered.
+Safety performance
+We maintain our impeccable record with no recordable incidents in our history, as a result of our health and safety plans.
+Operations & maintenance
+Through real-time monitoring, production analysis, and comprehensive reporting, we ensure peak productivity.
+What We Do
+Want to know how we instil pride in our workforce, our business partners, and our local communities? Click below to discover our proven process.
+
+--------------------------------------------------------------------------------
+
+URL: https://narenco.com/selected-projects/
+
+We take pride in our work
+Since our inception, we have successfully completed or are under construction with over 800 MW in projects.
+Click on the projects below to view further details, or contact us for more information on our record of success.
+Stanly Solar
+(69 MWdc / 50 MWac)
+Lily Solar
+(103 MWdc / 70 Mwac)
+Single Axis Tracker
+Completed
+Bluegrass Solar
+(101 MWdc / 79 MWac)
+Single Axis Tracker
+Completed
+Ground Mount
+Hickory Solar
+(7 MWdc / 5 Mwac)
+Single Axis Tracker
+Completed
+Peony Solar
+(57 MWdc / 39 Mwac)
+Single Axis Tracker
+Completed
+Violet Solar
+(7 MWdc / 5 Mwac)
+Fixed Tilt
+Completed
+Suwannee Solar
+(14 MWdc / 9 Mwac)
+Fixed Tilt
+Completed
+Sanford Solar
+(23 MWdc / 17 Mwac)
+Fixed Tilt
+Completed
+Perry Solar
+(7 MWdc / 5 Mwac)
+Fixed Tilt
+Completed
+Wellons Farm
+(7 MWdc / 5 MWac)
+Fixed Tilt
+Completed
+
+--------------------------------------------------------------------------------
+
+URL: https://narenco.com/about-us/
+
+We don’t just build solar farms. We build systems that support you and the environment
+Put our solar experts to work for you
+Founded in 2009, NARENCO is focused on building, and operating utility-scale solar installations. Our ability to stay strategically aligned in a fluctuating solar market is what has led us to partner with leading investors and clients on ground-breaking projects time and time again.
+Our position as the top solar company in the region is a result of our fiscal discipline and consistent revenue growth. With over 60 solar installation projects under our belt, we’ve been able to generate enough power to serve over 100,000 homes.
+The trust we build with our investors and clients has led them to work with us again and again. We bring our core values to every aspect of our business throughout the project lifecycle – from identifying a site, to construction and commissioning, to conducting regular inspections on our installations.
+Safety
+Integrity
+Quality
+landowners. We strive for excellence because we know that’s what our partners deserve.
+Meet the leaders in utility-scale solar installations
+Headquartered in Charlotte, North Carolina, NARENCO’s leadership team has decades of experience in the design, financing, construction, and maintenance of solar energy projects. Focused on envisioning innovative solutions that put our solar projects at the forefront of the industry landscape, we create solar installations of enduring value.
+Leadership
+Everyone at NARENCO has been so supportive of not just helping our charity by volunteering and financially but by getting to know the Grin Kids themselves. This is the type of investment that we cherish. We could not ask for a better partner.
+Supporting Local Programs
+We love volunteering our time to services in our community that support a clean environment. Through our expertise in solar energy and environmental sustainability, we educate the community and support local youth programs in their mission to create a better world.
+Being a Part of the Neighborhood
+Helping local farmers and landowners secure stable, reliable, and long-term incomes from their land is something we take great pride in. In addition, our solar installation projects enable us to create jobs in the local community.
+
+--------------------------------------------------------------------------------
+
+URL: https://narenco.com/projects/wellons-farm/
+
+Wellons Farm
+Location:
+Smithfield, North Carolina
+Size:
+32 acres
+System Size:
+7 MWdc / 5 MWac
+Racking Design:
+Fixed Tilt
+Year Completed:
+2015
+Categories
+Fixed Tilt
+,Completed
+
+--------------------------------------------------------------------------------
+
+URL: https://narenco.com/projects/perry-solar/
+
+Perry Solar
+Location:
+Perry, FL
+Size:
+30 acres
+System Size:
+7 MWdc / 5 Mwac
+Racking Design:
+Fixed Tilt
+Year Completed:
+2016
+Categories
+Fixed Tilt
+,Completed
+
+--------------------------------------------------------------------------------
+
+URL: https://narenco.com/projects/sanford-solar/
+
+Sanford Solar
+Location:
+Sanford, NC
+Land Area:
+140 acres
+System Size:
+23 MWdc / 17 Mwac
+Racking Design:
+Fixed Tilt
+Year Completed:
+2017
+Categories
+Fixed Tilt
+,Completed
+
+--------------------------------------------------------------------------------
+
+URL: https://narenco.com/projects/suwannee-solar/
+
+Suwannee Solar
+Location:
+Live Oak, Florida
+Land Area:
+68 acres
+System Size:
+14 MWdc / 9 Mwac
+Racking Design:
+Fixed Tilt
+Year Completed:
+2017
+Categories
+Fixed Tilt
+,Completed
+
+--------------------------------------------------------------------------------
+
+URL: https://narenco.com/projects/violet-solar/
+
+Violet Solar
+Location:
+Mt Pleasant, North Carolina
+Land Area:
+30 acres
+System Size:
+7 MWdc / 5 Mwac
+Racking Design:
+Fixed Tilt
+Year Completed:
+2018
+Categories
+Fixed Tilt
+,Completed
+
+--------------------------------------------------------------------------------
+
+URL: https://narenco.com/projects/peony-solar-2/
+
+Peony Solar
+Location:
+Orangeburg County, South Carolina
+Land Area:
+330 acres
+System Size:
+57 MWdc / 39 Mwac
+Racking Design:
+Single-Axis Tracker
+Year Completed:
+2018
+Categories
+Single Axis Tracker
+,Completed
+
+--------------------------------------------------------------------------------
+
+URL: https://narenco.com/projects/hickory-solar/
+
+Hickory Solar
+Location:
+Rose Hill, North Carolina
+Land Area:
+60 acres
+System Size:
+7 MWdc / 5 Mwac
+Racking Design:
+Single-Axis Tracker
+Year Completed:
+2019
+Categories
+Single Axis Tracker
+,Completed
+
+--------------------------------------------------------------------------------
+
+URL: https://narenco.com/projects/bluegrass-solar/
+
+Bluegrass Solar
+Location:
+Queen Anne's County, Maryland
+Land Area:
+600 acres
+System Size:
+101 MWdc / 79 MWac
+Racking Design:
+Single-Axis Tracker
+Year Completed:
+2022
+Categories
+Single Axis Tracker
+,Completed
+,Ground Mount
+
+--------------------------------------------------------------------------------
+
+URL: https://narenco.com/projects/lily-solar/
+
+Lily Solar
+Location:
+Allendale County, South Carolina
+Land Area:
+640 acres
+System Size:
+103 MWdc / 70 Mwac
+Racking Design:
+Single-Axis Tracker
+Year Completed:
+2019
+Categories
+Single Axis Tracker
+,Completed
+
+--------------------------------------------------------------------------------
+
+URL: https://narenco.com/projects/stanly-solar/
+
+Stanly Solar
+Location:
+Stanly County, North Carolina
+Land Area:
+350 acres
+System Size:
+69 MWdc / 50 MWac
+Racking Design:
+Single-Axis Tracker & Fixed-Tilt
+Year Completed:
+2022
+
+--------------------------------------------------------------------------------
+
+URL: https://narenco.com/what-we-do/
+
+Our vertical integration ensures a seamless solar installation process – every time
+With direct management over each aspect of our solar projects, we de-risk assets and meet every timeline.
+At NARENCO, we believe in being accountable for all our actions.
+That’s why we oversee every phase of each solar project from design through to operations and maintenance. As a result, we’re able to ensure our core values – safety, integrity, and quality – are present throughout the process.
+We optimize the best possible layout to maximize returns for our investors and clients.
+Our EPC team brings customized solutions for each site. We track emerging innovations, integrating the best new ideas and technology with proven design and engineering strategies
+With careful up-front planning, we consistently deliver projects on time and on budget.
+With over 800 MW of solar projects completed or under construction, our experience and expertise has led to developing a construction process that is optimized and efficient. In addition, our quality assurance and quality control teams strive to put project-specific safety plans into place. As a result, we have no recordable incidents in our history.
+We provide highly customized services ensuring leading project uptime.
+Through regular inspections, visual examinations, and component testing, we ensure all of the equipment is operating as it should. With both predictive and corrective maintenance, we engage with the site to ensure it’s always at peak performance.
+With over 800 MW of projects completed or under construction to date, we have perfected our vertically integrated process to ensure smooth transitions at each stage of the solar installation process.
+Partnering with us means your solar installation project will be completed on time, on budget, and to a level of quality unmatched by others.
+We ensure a stress-free, smooth, and streamlined journey to renewable energy for you — our investors, clients, and landowners.
+
+--------------------------------------------------------------------------------
+
+URL: https://narenco.com/careers/
+
+Join us as leaders in the solar energy market
+Come work with us at NARENCO.
+Focus on renewable energy to make a real difference with NARENCO.
+In operation since 2009, our success is a direct result of the people on our team. They come to work each day with our core values of safety, integrity, and quality in mind, focused on creating a better future through renewable energy.
+Our consistently growing team is comprised of NABCEP certified installers, engineers, finance professionals, and developers, with projects throughout the continental United States.
+We invest in our team because they are the key to our success.
+Apply to be a part of NARENCO
+Construction & Project Management – Apply Here
+Operations & Maintenance – Apply Here
+Didn’t find a position that was right for you?
+We’re always looking for talented individuals who strive for excellence, integrity, and quality in all aspects of their work.
+If creating a sustainable future is important to you, send in your resume and cover letter to
+info@narenco.com or fax to 704-930-7710. We’ll keep it on file and will contact you when a position that matches your expertise opens up.
+
+--------------------------------------------------------------------------------
+
+URL: https://narenco.com/contact-us/
+
+Be a part of utility-scale solar farms that support a greener future built to last
+Call or email us to discuss partnering on a solar installation project. Whether you’re a potential investor, client, or landowner, we’d love to hear from you to address any questions you have. We’re happy to go over our process for delivering solar installations of enduring value.
+Corporate Office
+4601 Park Rd
+Suite 500
+Charlotte, NC 28209
+Operations, Maintenance & General Inquiries
+704-930-7700
+Fax: 704-930-7710
+info@narenco.com
+
+--------------------------------------------------------------------------------
+
+URL: https://narenco.com/solar-power-solutions/
+
+Home
+About Us
+What We Do
+Selected Projects
+Careers
+Contact Us
+Home
+About Us
+What We Do
+Selected Projects
+Careers
+Contact Us
+Sitemap
+About Us
+Careers
+Contact Us
+Home
+Selected Projects
+What We Do
+
+--------------------------------------------------------------------------------
+
+URL: https://info@narenco.com/
+
+Solar energy projects built on decades of experience
+Since 2009, NARENCO’s industry-leading team has been focused on the design, construction, and operations of utility-scale solar farms. We build long-term partnerships with investors, clients, and landowners like you to produce clean energy and help you meet financial goals.
+Our solar farms minimize environmental impact, maximize financial returns, and optimize renewable energy production
+Consistently recognized by Solar Power World and Bloomberg New Energy Finance as one of the most successful construction firms in the United States, we create quality solar installations that revolutionize the energy market.
+Our vertical integration ensures seamless management through every stage of the project lifecycle.
+Engineering & Design
+We optimize it all from the early stages of system design to permitting.
+Procurement & Logistics
+We identify facility needs, negotiate master supply agreements, and coordinate delivery and installation.
+Construction & Commissioning
+Our project managers, operators, technicians, and laborers complete each project on time and on budget.
+Quality assurance & quality control
+With thorough field inspections and specifications, we ensure the highest level of quality is delivered.
+Safety performance
+We maintain our impeccable record with no recordable incidents in our history, as a result of our health and safety plans.
+Operations & maintenance
+Through real-time monitoring, production analysis, and comprehensive reporting, we ensure peak productivity.
+What We Do
+Want to know how we instil pride in our workforce, our business partners, and our local communities? Click below to discover our proven process.
+
+--------------------------------------------------------------------------------

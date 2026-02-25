@@ -1,0 +1,751 @@
+ROOT: https://v3electric.com/
+SCRAPED_AT_UTC: 2026-02-11T20:43:58.580079Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://v3electric.com/
+
+We are excited to announce our newest warehouse has been established in Grand Prairie, which has allowed to service the Dallas–Fort Worth area.
+The energy industry is ripe for disruption. After decades of unpredictable rate hikes, absent innovation and poor reliability, customers are fed up with traditional energy providers. V3 has been recognized as a Top Solar Contractor for 5 consecutive years. Learn more about how our services benefit you, and join us in the revolution.
+We have helped thousands of customers switch to V3 as their energy provider. No more unpredictable rate hikes, no more black outs*, no more usage penalties. Simply lock in your rate and use a system that we design to fit your needs. Not all locations are eligible, but give us a call to speak with one of our energy consultants to see if your home qualifies.
+
+--------------------------------------------------------------------------------
+
+URL: https://v3electric.com/about-us
+
+We believe in a new age of energy, where you have the freedom to choose how you pay for your power. When we provide choice, we provide freedom. This is the future of energy. This is our way of life.
+At V3 we have a young, hungry spirit to work hard and do what is right. We are disrupting the energy industry, and that gives us purpose.
+We believe that more options gives us freedom. You should have a choice in how you buy your energy. Our customers enjoy that freedom.
+This is not just a job for us. It bleeds into everything we do, on and off the clock. At V3, our employees embody our cause and purpose. It’s what drives us forward. It’s our way of life.
+CALIFORNIA’S PREMIER SOLAR PROVIDER
+Thousands of happy customers
+OVER 1 MILLION DOLLARS IN CUSTOMER SAVINGS
+OVER 35,000 kWh GENERATED
+
+--------------------------------------------------------------------------------
+
+URL: https://v3electric.com/solar101
+
+No oil tankers, coal mines, moving parts or power lines. We design the ideal system based on your needs for your home.
+Each panel converts sunlight into direct current (DC) electricity.
+The inverter converts the DC electricity into alternating current (AC) electricity.
+The meter measures your energy use. When the system produces more power than needed, the meter goes backwards, accumulating credits that offset your electricity use at night.
+We monitor your system’s activity 24/7 and are alerted if any abnormalities occur so we can fix it immediately. Check your system production at any time using the website or the smartphone app.
+Your utility company’s power is no longer necessary.
+Your utility charges too much for power
+Your monthly power bill fluctuates inconsistently
+Your utility company allows you to have solar installed
+Using your AC makes your bills high in the summer
+You would like to use power more freely, but your utility’s rate structure prevents it
+| Transferable Contract | |
+| Monitoring & Maintenance | |
+| Fixed kWh Rates | |
+| Fast Response Times | |
+| Energy Independence | |
+| Predictable Bills | |
+| Blackout Protection | |
+| Clean Energy | |
+| Battery Back-up |
+| Transferable Contract | |
+| Monitoring & Maintenance | |
+| Fixed kWh Rates | |
+| Fast Response Times | |
+| Energy Independence | |
+| Predictable Bills | |
+| Blackout Protection | |
+| Clean Energy | |
+| Battery Back-up |
+| Transferable Contract | |
+| Monitoring & Maintenance | |
+| Fixed kWh Rates | |
+| Fast Response Times | |
+| Energy Independence | |
+| Predictable Bills | |
+| Blackout Protection | |
+| Clean Energy | |
+| Battery Back-up |
+| Transferable Contract | |
+| Monitoring & Maintenance | |
+| Fixed kWh Rates | |
+| Fast Response Times | |
+| Energy Independence | |
+| Predictable Bills | |
+| Blackout Protection | |
+| Clean Energy | |
+| Battery Back-up |
+Predictable Rate
+Zero Cost to Start
+Production Guarantee
+Monitoring & Maintenance
+Battery Backup
+Blackout Protection
+Grid Reliability
+Power to Your Home Your Way
+
+--------------------------------------------------------------------------------
+
+URL: https://v3electric.com/reviews
+
+"Our solar panels were recently installed and it was a relatively simple process for us considering the amount of work that went into it. The installers, technicians, and energy consultant, Kenny, and the staff at the offices have been knowledgeable and helpful every step of the way. Going solar has been our goal for quite a while but the costs of going the traditional route made it difficult. Going through V3 has made it an achievable goal."
+- PATRICIA, Installed 2019
+
+--------------------------------------------------------------------------------
+
+URL: https://v3electric.com/tesla-powerwall
+
+We now offer a customized solar-plus-battery solution that enables you to access the free, abundant power of the sun and reduces your reliance on fossil fuels.
+Powerwall can detect an outage, disconnect from the grid, and automatically restore power to your home in a fraction of a second. Your chosen lights and appliances will continue to run without interruption. You may not even notice the power went out.
+If you have solar and Powerwall, then solar energy will continue to send power to your home and recharge Powerwall. Without Powerwall, solar will shut down during an outage.
+With Powerwall you can store solar energy generated during the day for use any time. During the day, the sun shines on your solar panels, charging your battery. At night, your home draws electricity from your battery, powering your home with clean, sustainable energy 24/7.
+Powerwall consists of a 14 kWh lithium-ion battery pack, liquid thermal control system, an integrated inverter and software that intelligently dispatches electricity when it’s needed most. The unit mounts seamlessly on a wall or on the ground, indoors or outdoors, and is connected to the grid to export excess energy, maximizing your opportunity for economic benefit.
+Powerwall with V3 is easy. We take care of everything from system design, permitting, installation, financing, along with a full customer service team.
+GRID Independence
+Solar Self-Consumption
+Back Up
+Seamlessly monitor and automatically manage your Powerwall and solar panels.
+Wall or Floor Mounted, Indoor/Outdoor
+Fully integrated Tesla inverter
+13.5 kWh
+5 kW continuous, 7 kW peak
+90%
+–20°C to 50°C (–4°F to 122°F)
+10 years
+1150 mm x 755 mm x 155 mm (45.3 in x 29.7 in x 6.1 in)
+
+--------------------------------------------------------------------------------
+
+URL: https://v3electric.com/see-if-you-qualify
+
+Please mark if you own your home
+Please mark your average monthly bill
+Please enter your postal code
+Please enter your address
+Please enter your city
+Please enter your fist name
+Please enter your last name
+Please enter your email
+Please enter your phone number
+Please confirm to receive texts
+Please confirm reCAPTCHA
+
+--------------------------------------------------------------------------------
+
+URL: https://v3electric.com/referral
+
+Please Enter Your Name
+Please Enter Your Service Address
+Please Enter Referral First Name
+Please Enter Referral Last Name
+Please Enter Valid Referral Phone Number
+
+--------------------------------------------------------------------------------
+
+URL: https://v3electric.com/v3-principles
+
+We have a unique company culture. The first thing you need to know about V3 is that we are purpose-driven. Currently, we are Northern California’s largest local solar company, but we intend to become the nation’s best energy provider. Our aim is not just to sell solar; we want to become the nation’s best energy service provider, producing electricity generated by our solar projects. Why? Because we believe in freedom of choice. Americans should be able to choose where and how we buy our energy, the same way we choose to buy everything else.
+Without the driving force of competition, utility companies have become slow, overpriced monopolies. Solar is the answer not only because it can solve our environmental problems, but also because it has the potential to fix the world’s economy. This can only happen if the energy space is a competitive market. Introducing competition to the energy market will bring innovation, a better customer experience, and lower prices. This idea is our driving purpose, and the foundational principles below guide us in everything we do at V3 Electric.
+These principles are a recipe for all great organizations, not just businesses. They are fundamentals that apply to teams, families, clubs, etc. Whatever you take out of your experience at V3, we hope that you will learn these principles and find ways to apply them in all areas of life.
+Get It Done
+Entrepreneurial Spirit
+Earned, Not Given
+We grow together
++1 Customer Experience
+Clear, Concise Communication
+We Are Professionals
+We Think Long Term
+
+--------------------------------------------------------------------------------
+
+URL: http://careers.v3electric.com/
+
+Careers at V3
+What Does V3 Mean?
+V3 comes from the three core values of the company.
+In short, it means driven for a cause
+VIM - Energy and Drive
+At V3 we have a young, hungry spirit to work hard and do what is right. We are disrupting the energy industry, and that gives us purpose.
+VOLITION - Freedom of Choice
+We believe that more options gives us freedom. You should have a choice in how you buy your energy. Our customers enjoy that freedom.
+VITA - Way of Life
+This is not just a job for us. It bleeds into everything we do, on and off the clock. At V3, our employees embody our cause and purpose. It’s what drives us forward. It’s our way of life.
+Current job openings
+-
+Manager of Office OperationsV3 Operations · Rancho Cordova, CA (HQ)
+-
+Visual Media Editor & VideographerV3 Operations · Rancho Cordova, CA (HQ)
+-
+Sales ProgramV3 Sales · Folsom, CA (SO)
+-
+Sales ConsultantV3 Sales · Dallas, TX
+-
+Sales ConsultantV3 Sales · Walnut Creek, CA
+
+--------------------------------------------------------------------------------
+
+URL: https://info@v3electric.com/
+
+We are excited to announce our newest warehouse has been established in Grand Prairie, which has allowed to service the Dallas–Fort Worth area.
+The energy industry is ripe for disruption. After decades of unpredictable rate hikes, absent innovation and poor reliability, customers are fed up with traditional energy providers. V3 has been recognized as a Top Solar Contractor for 5 consecutive years. Learn more about how our services benefit you, and join us in the revolution.
+We have helped thousands of customers switch to V3 as their energy provider. No more unpredictable rate hikes, no more black outs*, no more usage penalties. Simply lock in your rate and use a system that we design to fit your needs. Not all locations are eligible, but give us a call to speak with one of our energy consultants to see if your home qualifies.
+
+--------------------------------------------------------------------------------
+
+URL: https://info@v3electric.com/about-us
+
+We believe in a new age of energy, where you have the freedom to choose how you pay for your power. When we provide choice, we provide freedom. This is the future of energy. This is our way of life.
+At V3 we have a young, hungry spirit to work hard and do what is right. We are disrupting the energy industry, and that gives us purpose.
+We believe that more options gives us freedom. You should have a choice in how you buy your energy. Our customers enjoy that freedom.
+This is not just a job for us. It bleeds into everything we do, on and off the clock. At V3, our employees embody our cause and purpose. It’s what drives us forward. It’s our way of life.
+CALIFORNIA’S PREMIER SOLAR PROVIDER
+Thousands of happy customers
+OVER 1 MILLION DOLLARS IN CUSTOMER SAVINGS
+OVER 35,000 kWh GENERATED
+
+--------------------------------------------------------------------------------
+
+URL: https://customerservice@v3electric.com/
+
+We are excited to announce our newest warehouse has been established in Grand Prairie, which has allowed to service the Dallas–Fort Worth area.
+The energy industry is ripe for disruption. After decades of unpredictable rate hikes, absent innovation and poor reliability, customers are fed up with traditional energy providers. V3 has been recognized as a Top Solar Contractor for 5 consecutive years. Learn more about how our services benefit you, and join us in the revolution.
+We have helped thousands of customers switch to V3 as their energy provider. No more unpredictable rate hikes, no more black outs*, no more usage penalties. Simply lock in your rate and use a system that we design to fit your needs. Not all locations are eligible, but give us a call to speak with one of our energy consultants to see if your home qualifies.
+
+--------------------------------------------------------------------------------
+
+URL: https://customerservice@v3electric.com/about-us
+
+We believe in a new age of energy, where you have the freedom to choose how you pay for your power. When we provide choice, we provide freedom. This is the future of energy. This is our way of life.
+At V3 we have a young, hungry spirit to work hard and do what is right. We are disrupting the energy industry, and that gives us purpose.
+We believe that more options gives us freedom. You should have a choice in how you buy your energy. Our customers enjoy that freedom.
+This is not just a job for us. It bleeds into everything we do, on and off the clock. At V3, our employees embody our cause and purpose. It’s what drives us forward. It’s our way of life.
+CALIFORNIA’S PREMIER SOLAR PROVIDER
+Thousands of happy customers
+OVER 1 MILLION DOLLARS IN CUSTOMER SAVINGS
+OVER 35,000 kWh GENERATED
+
+--------------------------------------------------------------------------------
+
+URL: https://careers.v3electric.com/
+
+Careers at V3
+What Does V3 Mean?
+V3 comes from the three core values of the company.
+In short, it means driven for a cause
+VIM - Energy and Drive
+At V3 we have a young, hungry spirit to work hard and do what is right. We are disrupting the energy industry, and that gives us purpose.
+VOLITION - Freedom of Choice
+We believe that more options gives us freedom. You should have a choice in how you buy your energy. Our customers enjoy that freedom.
+VITA - Way of Life
+This is not just a job for us. It bleeds into everything we do, on and off the clock. At V3, our employees embody our cause and purpose. It’s what drives us forward. It’s our way of life.
+Current job openings
+-
+Manager of Office OperationsV3 Operations · Rancho Cordova, CA (HQ)
+-
+Visual Media Editor & VideographerV3 Operations · Rancho Cordova, CA (HQ)
+-
+Sales ProgramV3 Sales · Folsom, CA (SO)
+-
+Sales ConsultantV3 Sales · Dallas, TX
+-
+Sales ConsultantV3 Sales · Walnut Creek, CA
+
+--------------------------------------------------------------------------------
+
+URL: https://careers.v3electric.com/jobs
+
+7 jobs
+-
+Manager of Office OperationsV3 Operations · Rancho Cordova, CA (HQ)
+-
+Visual Media Editor & VideographerV3 Operations · Rancho Cordova, CA (HQ)
+-
+Sales ProgramV3 Sales · Folsom, CA (SO)
+-
+Sales ConsultantV3 Sales · Dallas, TX
+-
+Sales ConsultantV3 Sales · Walnut Creek, CA
+-
+Office Operations CoordinatorV3 Operations · Rancho Cordova, CA (HQ)
+-
+Videographer/Video EditorV3 Operations · Rancho Cordova, CA (HQ)
+
+--------------------------------------------------------------------------------
+
+URL: https://careers.v3electric.com/connect
+
+Privacy policy for the V3 Electric employer branding and recruitment
+Date of publication: 07-06-2024
+We at V3 Electric manage our employer branding and recruitment process through our career site (the “Career Site”), and by using a related applicant tracking system.
+In this privacy policy, we explain how we process your personal data if:
+- You visit our Career Site (you being a “Visitor”)
+- You connect with us via our Career Site, to create a profile with us and receive information about current or future vacancies with us (you being a “Connecting Candidate”)
+- You apply for a position with us, via our Career Site or a third party service (you being an ”Applying Candidate”)
+- We collect information about you from other parties, sites and services, since we believe your profile is of interest for our current or future vacancies (you being a “Sourced Candidate”)
+- We receive information about you from our employees or partners, since they believe your profile is of interest for our current or future vacancies (you being a “Referred Candidate”)
+- We receive information about you from a Candidate, who lists you as their reference (you being a “Reference”).
+This privacy policy also describes what rights you have when we process your personal data, and how you can exercise these rights.
+When we use the term “Candidate” in this privacy policy, we are referring to each of Connecting Candidates; Applying Candidates; Sourced Candidates; and Referred Candidates, unless it’s stated otherwise.
+1. About processing of personal data
+Personal data is all information that can be directly or indirectly linked to a living, physical person. Examples of personal data are: name, e-mail address, telephone number and IP address. Processing of personal data is any automated use of personal data - such as collecting, creating, analyzing, sharing, and deleting personal data.
+There are laws and regulations on how companies may process personal data, so-called data protection laws. Different data protection laws apply to different types of use of personal data, and in different parts of the world. An example of a data protection law that is relevant for our use of your personal data, as described in this privacy policy, is the EU Data Protection Regulation (2016/679, “GDPR”).
+Most obligations under the GDPR apply to the so-called data controller. A data controller is the entity that decides for which purposes personal data will be processed, and how the processing will be executed. The data controller can use a so-called data processor. A data processor is an entity that is only allowed to process personal data as instructed by the data controller, and may not use the personal data for its own purposes.
+We are the data controller when we process your personal data as described in this Privacy policy.
+2. What personal data do we process?
+All individuals
+- Device information - If you visit our Career Site, we will collect information about your device, such as IP address, browser type and version, session behaviour, traffic source, screen resolution, preferred language, geographic location, operating system and device settings/usage.
+- Technical and statistical data - If you visit our Career Site, we will collect technical and statistical data about your use of the site, such as information about which URLs you visit, and your activity on the site.
+- Communications data - We will collect and store your communication with us, including the information you provided in the communication. This may include the content of emails, video recordings, messages on social media, the information you add to your account with us, surveys, etc.
+- Contact details - Such as your name, email address, telephone number and physical address.
+Candidates
+- Data from interviews, assessments and other information from the recruitment process - Such as notes from interviews with you, assessments and tests made, salary requirements.
+- Information in your application - Such as your CV, cover letter, work samples, references, letters of recommendation and education.
+- Information in your public profile - Meaning the information we collect about you from public sources related to your professional experience, such as LinkedIn or the website of your current employer.
+- Information provided by references - Meaning the information we receive from our employees or partners who refer you to us, or by the persons you have listed as your references.
+3. Where do we receive your personal data from?
+All individuals
+- From the Career Site. If you visit our Career Site, we collect technical and statistical information about how you use the Career Site, and information from your device.
+- Directly from you. Most of the information we process about you, we receive directly from you, for example when you apply for a position with us or connect with us. You can always choose not to provide us with certain information. However, some personal data is necessary in order for us to process your application or provide you the information you request to get from us.
+References
+- From the person for whom you are a reference. If a Candidate lists you as their reference, we will collect your contact details from the candidate to be able to contact you.
+Candidates
+- From public sources. We may collect personal data about you from public sources, such as LinkedIn or the website of your current employer.
+- From our references. We may receive information about you from our employees or partners (such as recruitment service providers), when they believe your profile is of interest for our current or future vacancies.
+- From your references. If you provide us with references, we may collect information about you from them.
+- Data we create ourselves or in cooperation with you. Information about your application and profile is usually created by us, or by us in cooperation with you, during the recruitment process. This may for example include notes from interviews with you, assessments and tests made.
+4. For what purposes do we process your personal data?
+Protect and enforce our rights, interests and the interests of others, for example in connection with legal claims.
+Affected individuals: The individual(s) affected by the legal issue - this may include persons from all categories of individuals listed above.
+Categories of personal data used: All the categories of personal data listed above can be used for this purpose.
+Share your personal data with other recipients, for the purposes mentioned in Section 5 below.
+Affected individuals: Varies depending on the purpose of the sharing, see Section 5 below.
+Categories of personal data used: All the categories of personal data listed above may be used for this purpose.
+Collect information about your use of the Career Site, using cookies and other tracking technologies, as described in our Cookie Policy.
+Affected individuals: Visitors.
+Categories of personal data used: Device information.
+Maintain, develop, test, and otherwise ensure the security of the Career Site.
+Affected individuals: Visitors.
+Categories of personal data used: Device information; Technical and statistical data.
+Analyse how the Career Site and its content is being used and is performing, to get statistics and to improve operational performance.
+Affected individuals: Visitors.
+Categories of personal data used: Device information; Technical and statistical data.
+Provide you with updates about vacancies with us.
+Affected individuals: Connecting Candidates.
+Categories of personal data used: Contact details; Communications data.
+Review profiles and applications sent to us. This also includes communicating with you about your application and profile.
+Affected individuals: Connecting Candidates; Applying Candidates.
+Categories of personal data used: All the categories of personal data listed above may be used for this purpose.
+Collect and evaluate your professional profile on our own initiative. This also includes communicating with you regarding your profile.
+Affected individuals: Sourced Candidates; Referred Candidates.
+Categories of personal data used: All the categories of personal data listed above may be used for this purpose.
+Contact you directly about specific, future vacancies with us.
+Affected individuals: Candidates.
+Categories of personal data used: All the categories of personal data listed above may be used for this purpose.
+Record the interview(s) with you.
+Affected individuals: Candidates.
+Categories of personal data used: Communications data.
+Contact you to ask for your participation in surveys
+Affected individuals: Candidates.
+Categories of personal data used: All the categories of personal data listed above may be used for this purpose.
+Contact you to ask you to provide information about a Candidate, and evaluate the information you provide.
+Affected individuals: References.
+Categories of personal data used: Contact details; Communications data.
+5. Whom do we share your personal data with?
+Our service providers. We share your personal data with our suppliers who provide services and functionality in our employer branding- and recruitment process. For example, this includes recruitment service providers and the supplier of our Career Site and related applicant tracking system.
+Our group companies. We share your personal data with our group companies, when they provide us services and functionality to our employer branding- and recruitment process, such as access to particular systems and software.
+Companies providing cookies on the Career Site. If you consent to it, cookies are set by other companies than us, who will use the data collected by these cookies in accordance with their own privacy policy. You can find information about which cookies this applies to in our Cookie Policy.
+To authorities and other public actors - when we are ordered to do so. We will share your personal data with authorities and other public actors when we have a legal obligation to do so.
+To parties involved in legal proceedings. If needed to protect or defend our rights, we share your personal data with public authorities or with other parties involved in a potential or existing legal proceeding. This can for example be in case of discrimination claims.
+Mergers and acquisitions etc. In connection with a potential merger, sale of company assets, financing, or acquisition of all or part of our business to another company, we may share your personal data to other parties involved in the process.
+6. On what legal bases do we process your personal data?
+To be able to process your personal data, we need to have a so-called legal basis. A legal basis is a reason for processing the personal data that is justified under the GDPR.
+When we process your personal data for the purposes described in this Privacy Policy, the legal basis we rely on is normally that the processing is necessary for our legitimate interest in being able to recruit talent with the relevant competence for us. We have concluded that we have a legitimate interest in being able to perform the personal data processing for this purpose; that the processing is necessary to achieve that purpose; and that our interest outweighs your right not to have your data processed for this purpose.
+You can contact us for more information about how this assessment was made. See Section 9 and 10 below for our contact information.
+There may be specific circumstances when the processing is only performed if and when you provide your consent to the processing. This is for example the case if we propose to record an interview with you. Please see Section 9 below for more information about your right to withdraw your consent.
+7. When do we transfer your personal data outside of the EU/EEA, and how do we protect it then?
+We always strive to process your personal data within the EU/EEA area.
+However, some of our service providers process your personal data outside of the EU/EEA. We also use suppliers whose parent company, or whose subcontractor’s parent company, is based outside the EU/EEA. In these cases, we have taken into account the risk that the personal data may be disclosed to countries outside the EU/EEA, for example because of an authority request.
+In cases where another recipient of your personal data (as described in Section 5 above) is based outside the EU/EEA, this will also mean that your personal data is transferred outside the EU/EEA.
+When we, or one of our suppliers, transfer your personal data outside the EU/EEA, we will ensure that a safeguard recognized by the GDPR is used to enable the transfer. We use the following safeguards:
+When your personal data is transferred outside the EU/EEA, we also implement appropriate technical and organizational safeguards, to protect the personal data in case of a disclosure. Exactly which protective measures we implement depends on what is technically feasible, and sufficiently effective, for the particular transfer.
+If you want more information about the cases in which your personal data is transferred outside the EU/EEA you can contact us using the contact details in Section 9 and 10 below.
+8. For how long do we keep your personal data?
+All individuals
+If we process your personal data for the purpose of being able to protect and enforce our rights, we will keep your personal data until the relevant legal issue has been fully and finally resolved.
+Visitors
+We keep your personal data for one (1) year for security purposes. The retention periods for cookies are set out in our Cookie Policy. We keep your personal data to analyse the performance of the Career Site for as long as we keep personal data about you for other purposes.
+Candidates
+If you are a Connecting Candidate (only), we keep your personal data for as long as you remain connected with us.
+For other types of Candidates, we keep your personal data to decide if you are a suitable candidate for the relevant vacancy(ies) with us.
+If you don’t succeed in the initial recruitment process, we keep your personal data for as long as needed to consider, and potentially contact you, for relevant future job openings.
+If you are hired, we will keep your personal data during your employment, for other purposes than those stated above, which you will be informed of.
+References
+We keep your personal data for as long as we keep the personal data of the Candidate for whom you acted as a reference.
+9. What rights do you have, and how can you exercise them?
+In this section, you will find information about the rights you have when we process your personal data. As described below, some of the rights only come into play when we process your personal data under a particular legal basis.
+If you want to exercise any of the rights listed here, we suggest that you:
+- Visit the Data & Privacy page on our Career Site, where we offer features to let you exercise your rights;
+- Log in to your account with us, where you can use the settings in the account to exercise your rights; or
+- Contact us directly at kfleck@v3electric.com.
+Right to be informed
+You have the right to be informed about how we process your personal data. You also have the right to be informed if we plan to process your personal data for any purpose other than that for which it was originally collected.
+We provide you with such information through this privacy policy, through updates on our Career Site (see also Section 11 below), and by answering any questions you may have for us.
+Right to access your personal data.
+You have the right to know if we process personal data about you, and to receive a copy of the data we process about you. In connection with receiving the copy of your data, you will also receive information about how we process your personal data.
+Right to access and to request a transfer of your personal data to another recipient (“data portability”).
+You can request a copy of the personal data relating to you that we process for the performance of a contract with you, or based on your consent, in a structured, commonly used, machine-readable format. This will allow you to use this data somewhere else, for example to transfer it to another recipient. If technically feasible, you also have the right to request that we transfer your data directly to another recipient.
+Right to have your personal data deleted (“right to be forgotten”).
+In some cases, you have the right to have us delete personal data about you. This is for example the case if it’s no longer necessary for us to process the data for the purpose for which we collected it; if you withdraw your consent; if you have objected to the processing and there are no legitimate, overriding justifications for the processing. (For the separate right to object, see below.)
+Right to object against our processing of your personal data.
+You have the right to object to processing of your personal data which is based on our legitimate interest, by referencing your personal circumstances.
+Right to restrict processing.
+If you believe that the personal data we process about you is inaccurate, that our processing is unlawful, or that we don’t need the information for a specific purpose, you have the right to request that we restrict the processing of such personal data. If you object to our processing, as described just above, you can also request us to restrict processing of that personal data while we make our assessment of your request.
+When our processing of your personal data is restricted, we will (with the exception of storage) only process the data with your consent or for the establishment, exercise or defence of legal claims, to protect the rights of another natural or legal person, or for reasons relating to an important public interest.
+Right to rectification.
+You have the right to request that we rectify inaccurate information, and that we complete information about you that you consider incomplete.
+Right to withdraw your consent.
+When we process your personal data based on your consent, you have the right to withdraw that consent at any time. If you do so, we will stop processing your data for the purposes you’ve withdrawn your consent for. However, it doesn’t affect the lawfulness of processing that was based on your consent before it was withdrawn.
+Right to raise a complaint.
+If you have complaints about our processing of your personal data, you can raise a complaint with the data protection authority in United States. You can find their contact details here.
+You can also lodge a complaint with your national data protection authority, which you can find listed here if you are based in the EU. If you are based in the UK, you can lodge a complaint with the Information Commissioner’s Office, here.
+10. Where can you turn with comments or questions?
+If you want to get in touch with us to exercise your rights, or if you have any questions, comments or concerns about how we handle your personal data, you can reach us by sending an email to kfleck@v3electric.com.
+11. Updates to this Privacy policy
+We update this privacy policy when necessary - for example, because we start processing your personal data in a new way, because we want to make the information even clearer to you, or if it’s necessary to do so in order to comply with applicable data protection laws.
+We encourage you to regularly check this page for any changes. You can always check the top of this page to see when this privacy policy was last updated.
+
+--------------------------------------------------------------------------------
+
+URL: https://careers.v3electric.com/jobs/553755-manager-of-office-operations
+
+Manager of Office Operations
+Why Join V3?
+At V3, we’re driven by a mission to disrupt the energy industry and give people the power of choice. We believe competition sparks innovation, better experiences, and lower prices—and we’re leading that change through solar energy. Our team thrives on a young, ambitious spirit and a commitment to doing what’s right. If you’re highly organized, proactive, and take pride in creating structure and efficiency, this is the place to make a lasting impact.
+Position Overview
+The Manager of Office Operations plays a key leadership role in ensuring our daily operations run smoothly and efficiently. This position oversees the operations team, coordinates cross-departmental workflows, and drives continuous improvement across administrative and field support functions. The ideal candidate is a strong communicator and problem-solver who thrives in a fast-paced environment, balancing team leadership with hands-on operational management. You’ll be responsible for keeping people, processes, and priorities aligned to maintain a high-performing, well-supported organization.
+Key Responsibilities
+Team Leadership: Supervise and support the operations team to ensure tasks are completed accurately, efficiently, and on schedule. Provide ongoing coaching, feedback, and development opportunities.
+Operational Oversight: Manage day-to-day operations, ensuring workflows are efficient, deadlines are met, and company standards are upheld.
+Process Improvement: Evaluate and refine operational systems to increase productivity, communication, and organizational effectiveness.
+Cross-Department Collaboration: Partner with other departments to streamline coordination, resolve challenges, and align goals across teams.
+Vendor & Resource Management: Oversee vendor relationships, facility needs, and resource allocation to ensure operational reliability and cost efficiency.
+Event & Project Coordination: Lead planning and execution of company meetings, internal events, and special projects, ensuring seamless organization and execution.
+Reporting & Accountability: Track key operational metrics, monitor team performance, and report progress to leadership to ensure accountability and continuous improvement.
+Employee & Office Support: Foster a positive and supportive work environment by ensuring employees have the tools, systems, and resources needed to perform at their best.
+Qualifications
+2+ years of experience in office management, operations, or administrative coordination.
+Highly organized and detail-oriented with a strong sense of follow-through.
+Exceptional time management and multitasking skills.
+Strong interpersonal and communication abilities across all levels of the organization.
+Proven ability to plan and manage events or cross-departmental initiatives.
+Proficiency with office management software and tools (Google Workspace, Microsoft Office, etc.).
+A proactive problem-solver who anticipates needs before they arise.
+Schedule: Full-time, Monday–Friday (in-office)
+Pay: $30–$35/hour (based on experience)
+Benefits
+401(k)
+Dental Insurance
+Health Insurance
+Paid Time Off
+Vision Insurance
+- Department
+- V3 Operations
+- Locations
+- Rancho Cordova, CA (HQ)
+
+--------------------------------------------------------------------------------
+
+URL: https://careers.v3electric.com/jobs/553752-visual-media-editor-videographer
+
+Visual Media Editor & Videographer
+Why Join V3?
+At V3, we bring a young, driven mindset to everything we do. We work hard, do what is right, and challenge the status quo. Our mission is to disrupt the energy industry by restoring freedom of choice to consumers. Competition fuels innovation, improves the customer experience, and lowers costs, and solar power is how we help make that possible. Join us in reshaping the future of energy.
+Position Overview:
+As a Video Editor, you will focus primarily on editing clean, high-quality video content that aligns with V3’s brand, mission, and visual standards. This role is ideal for someone who excels at thoughtful, polished editing rather than high-volume content capture. You will work closely with internal teams to refine existing footage into engaging short- and long-form videos for social media and other digital channels, ensuring consistency, clarity, and strong visual storytelling.
+Key Responsibilities:
+Edit and produce high-quality short- and long-form video content; refine existing footage into clean, on-brand final edits; ensure videos meet brand, tone, and quality standards across platforms; collaborate with marketing and internal teams on content direction; optimize content for social platforms with a focus on Instagram; maintain organized project files and meet deadlines consistently.
+Required Skills & Experience:
+Video production, editing, and content creation
+Ability to create short and long-form video content
+Familiarity with video formats, still photography, DSLR cameras, and production gear
+Strong multitasking, prioritization, and problem-solving abilities
+Ability to thrive in a fast-paced, results-driven environment
+Organized, proactive, and adaptable
+Requirements:
+1-2 years of experience in video/photo production
+Proficiency in Adobe Premiere Pro (or similar tools)
+Familiarity with Instagram, YouTube, and Facebook
+Basic knowledge of Adobe Photoshop & Illustrator
+Preferred Qualifications:
+Bachelor’s degree in a related field or equivalent experience
+Knowledge of Motion Graphics & After Effects
+Experience with lighting techniques
+Ability to cover events with photo and video
+Kindly ensure that you have a portfolio or work samples available upon request.
+Schedule:
+Part-Time or Full-Time options available
+Pay:
+$25–$30/hour
+Benefits:
+401(k)
+Dental Insurance
+Health Insurance
+Paid time off
+Vision Insurance
+- Department
+- V3 Operations
+- Locations
+- Rancho Cordova, CA (HQ)
+
+--------------------------------------------------------------------------------
+
+URL: https://careers.v3electric.com/jobs/553688-sales-program
+
+Sales Program
+At V3 Electric, we’re not just offering a sales job — we’re offering a platform to grow, to connect, and to build a career that actually means something. We believe that your environment shapes your future. That’s why we’ve built a team of driven, growth-minded people who push each other to succeed. If you’re looking for more than just a paycheck — if you want a place to develop personally, earn what you’re worth, and surround yourself with people who are going somewhere — you may have just found your next step.
+Why V3?
+V3 Electric is one of the fastest-growing solar companies in the country. However, what sets us apart is the culture and opportunities we offer. We’re built around personal development, high standards, and the freedom to grow without limits. This is a place where people take ownership of their future — and get the support, tools, and training to make it happen.
+What You’ll Gain:
+Personal Growth Resources: Gym membership included, team book club, weekly sales and investment training, mentorship — all part of how we develop our people.
+A Winning Network: Work alongside high-performance, like-minded teammates who hold each other to a higher standard and want to grow together.
+Real Earning Potential: First-year sales reps typically earn $35,000–$150,000+, with top performers earning well beyond that. This is commission-based, and your income is entirely up to you.
+A Clear Path Forward: Whether your goal is leadership, ownership, or simply greater freedom, we’ll help you chart a course that aligns with your ambitions.
+What You’ll Be Doing
+Engage directly with homeowners to educate them on solar and energy options
+Set appointments and deliver tailored in-home presentations
+Build and manage a local territory using a proven door-to-door model
+Network through referrals, community events, and follow-ups
+Hit individual and team sales goals — and help others do the same
+Participate in ongoing sales, leadership, and mindset training
+What We’re Looking For
+No prior solar experience needed — we’ll train you.
+What matters most is who you are:
+You’re ambitious and self-motivated
+You’re coachable and open to growth
+You’re energized by a team environment
+You communicate with confidence and clarity
+You want more than a typical job — and you’re willing to work for it
+Compensation & Benefits
+Commission-based pay, paid weekly
+Health, dental, vision, and life insurance
+Paid sick time + phone and mileage reimbursements
+Gym membership and team book club included
+Incentive trips and prizes for top performers
+Assistance with Home Improvement Salesperson (HIS) license
+Access to industry-leading training and mentorship
+Requirements
+Reliable transportation and a valid driver’s license
+Must be able to walk/stand for extended periods outdoors
+Willing to travel regionally 90–100% of the time
+Background check required
+Must be comfortable working independently and remotely when needed
+Ready to Take the Next Step?
+If you’re looking for a place to challenge yourself, grow faster, and surround yourself with people who raise the bar, this could be the right fit. We’re selective about who joins our team, and we invest heavily in those who commit.
+- Department
+- V3 Sales
+- Locations
+- Folsom, CA (SO)
+
+--------------------------------------------------------------------------------
+
+URL: https://careers.v3electric.com/jobs/553686-sales-consultant
+
+Sales Consultant
+At V3 Electric, we’re not just offering a sales job — we’re offering a platform to grow, to connect, and to build a career that actually means something. We believe that your environment shapes your future. That’s why we’ve built a team of driven, growth-minded people who push each other to succeed. If you’re looking for more than just a paycheck — if you want a place to develop personally, earn what you’re worth, and surround yourself with people who are going somewhere — you may have just found your next step.
+Why V3?
+V3 Electric is one of the fastest-growing solar companies in the country. However, what sets us apart is the culture and opportunities we offer. We’re built around personal development, high standards, and the freedom to grow without limits. This is a place where people take ownership of their future — and get the support, tools, and training to make it happen.
+What You’ll Gain:
+Personal Growth Resources: Gym membership included, team book club, weekly sales and investment training, mentorship — all part of how we develop our people.
+A Winning Network: Work alongside high-performance, like-minded teammates who hold each other to a higher standard and want to grow together.
+Real Earning Potential: First-year sales reps typically earn $35,000–$150,000+, with top performers earning well beyond that. This is commission-based, and your income is entirely up to you.
+A Clear Path Forward: Whether your goal is leadership, ownership, or simply greater freedom, we’ll help you chart a course that aligns with your ambitions.
+What You’ll Be Doing
+Engage directly with homeowners to educate them on solar and energy options
+Set appointments and deliver tailored in-home presentations
+Build and manage a local territory using a proven door-to-door model
+Network through referrals, community events, and follow-ups
+Hit individual and team sales goals — and help others do the same
+Participate in ongoing sales, leadership, and mindset training
+What We’re Looking For
+No prior solar experience needed — we’ll train you.
+What matters most is who you are:
+You’re ambitious and self-motivated
+You’re coachable and open to growth
+You’re energized by a team environment
+You communicate with confidence and clarity
+You want more than a typical job — and you’re willing to work for it
+Compensation & Benefits
+Commission-based pay, paid weekly
+Health, dental, vision, and life insurance
+Paid sick time + phone and mileage reimbursements
+Gym membership and team book club included
+Incentive trips and prizes for top performers
+Assistance with Home Improvement Salesperson (HIS) license
+Access to industry-leading training and mentorship
+Requirements
+Reliable transportation and a valid driver’s license
+Must be able to walk/stand for extended periods outdoors
+Willing to travel regionally 90–100% of the time
+Background check required
+Must be comfortable working independently and remotely when needed
+Ready to Take the Next Step?
+If you’re looking for a place to challenge yourself, grow faster, and surround yourself with people who raise the bar, this could be the right fit. We’re selective about who joins our team, and we invest heavily in those who commit.
+- Department
+- V3 Sales
+- Locations
+- Dallas, TX
+
+--------------------------------------------------------------------------------
+
+URL: https://careers.v3electric.com/jobs/553683-sales-consultant
+
+Sales Consultant
+At V3 Electric, we’re not just offering a sales job — we’re offering a platform to grow, to connect, and to build a career that actually means something. We believe that your environment shapes your future. That’s why we’ve built a team of driven, growth-minded people who push each other to succeed. If you’re looking for more than just a paycheck — if you want a place to develop personally, earn what you’re worth, and surround yourself with people who are going somewhere — you may have just found your next step.
+Why V3?
+V3 Electric is one of the fastest-growing solar companies in the country. However, what sets us apart is the culture and opportunities we offer. We’re built around personal development, high standards, and the freedom to grow without limits. This is a place where people take ownership of their future — and get the support, tools, and training to make it happen.
+What You’ll Gain:
+Personal Growth Resources: Gym membership included, team book club, weekly sales and investment training, mentorship — all part of how we develop our people.
+A Winning Network: Work alongside high-performance, like-minded teammates who hold each other to a higher standard and want to grow together.
+Real Earning Potential: First-year sales reps typically earn $35,000–$150,000+, with top performers earning well beyond that. This is commission-based, and your income is entirely up to you.
+A Clear Path Forward: Whether your goal is leadership, ownership, or simply greater freedom, we’ll help you chart a course that aligns with your ambitions.
+What You’ll Be Doing
+Engage directly with homeowners to educate them on solar and energy options
+Set appointments and deliver tailored in-home presentations
+Build and manage a local territory using a proven door-to-door model
+Network through referrals, community events, and follow-ups
+Hit individual and team sales goals — and help others do the same
+Participate in ongoing sales, leadership, and mindset training
+What We’re Looking For
+No prior solar experience needed — we’ll train you.
+What matters most is who you are:
+You’re ambitious and self-motivated
+You’re coachable and open to growth
+You’re energized by a team environment
+You communicate with confidence and clarity
+You want more than a typical job — and you’re willing to work for it
+Compensation & Benefits
+Commission-based pay, paid weekly
+Health, dental, vision, and life insurance
+Paid sick time + phone and mileage reimbursements
+Gym membership and team book club included
+Incentive trips and prizes for top performers
+Assistance with Home Improvement Salesperson (HIS) license
+Access to industry-leading training and mentorship
+Requirements
+Reliable transportation and a valid driver’s license
+Must be able to walk/stand for extended periods outdoors
+Willing to travel regionally 90–100% of the time
+Background check required
+Must be comfortable working independently and remotely when needed
+Ready to Take the Next Step?
+If you’re looking for a place to challenge yourself, grow faster, and surround yourself with people who raise the bar, this could be the right fit. We’re selective about who joins our team, and we invest heavily in those who commit.
+- Department
+- V3 Sales
+- Locations
+- Walnut Creek, CA
+
+--------------------------------------------------------------------------------
+
+URL: http://careers.v3electric.com/jobs
+
+7 jobs
+-
+Manager of Office OperationsV3 Operations · Rancho Cordova, CA (HQ)
+-
+Visual Media Editor & VideographerV3 Operations · Rancho Cordova, CA (HQ)
+-
+Sales ProgramV3 Sales · Folsom, CA (SO)
+-
+Sales ConsultantV3 Sales · Dallas, TX
+-
+Sales ConsultantV3 Sales · Walnut Creek, CA
+-
+Office Operations CoordinatorV3 Operations · Rancho Cordova, CA (HQ)
+-
+Videographer/Video EditorV3 Operations · Rancho Cordova, CA (HQ)
+
+--------------------------------------------------------------------------------
+
+URL: http://careers.v3electric.com/data-privacy
+
+Data & Privacy
+Request my data
+Get a copy of the recruitment-related personal data that we process about you.
+Remove my data
+We will assess your request and delete your recruitment-related personal data we no longer have a reason to keep.
+Manage my permission
+Login to Connect to see and manage your data storage permission.
+Privacy Policy
+Read more about how V3 Electric collects and processes your personal data.
+Cookie policy
+Find out more about how we use cookies to improve your user experience on our website.
+Manage cookie preferences
+Withdraw or adjust your consent to non-necessary cookies.
+
+--------------------------------------------------------------------------------
+
+URL: https://info@v3electric.com/solar101
+
+No oil tankers, coal mines, moving parts or power lines. We design the ideal system based on your needs for your home.
+Each panel converts sunlight into direct current (DC) electricity.
+The inverter converts the DC electricity into alternating current (AC) electricity.
+The meter measures your energy use. When the system produces more power than needed, the meter goes backwards, accumulating credits that offset your electricity use at night.
+We monitor your system’s activity 24/7 and are alerted if any abnormalities occur so we can fix it immediately. Check your system production at any time using the website or the smartphone app.
+Your utility company’s power is no longer necessary.
+Your utility charges too much for power
+Your monthly power bill fluctuates inconsistently
+Your utility company allows you to have solar installed
+Using your AC makes your bills high in the summer
+You would like to use power more freely, but your utility’s rate structure prevents it
+| Transferable Contract | |
+| Monitoring & Maintenance | |
+| Fixed kWh Rates | |
+| Fast Response Times | |
+| Energy Independence | |
+| Predictable Bills | |
+| Blackout Protection | |
+| Clean Energy | |
+| Battery Back-up |
+| Transferable Contract | |
+| Monitoring & Maintenance | |
+| Fixed kWh Rates | |
+| Fast Response Times | |
+| Energy Independence | |
+| Predictable Bills | |
+| Blackout Protection | |
+| Clean Energy | |
+| Battery Back-up |
+| Transferable Contract | |
+| Monitoring & Maintenance | |
+| Fixed kWh Rates | |
+| Fast Response Times | |
+| Energy Independence | |
+| Predictable Bills | |
+| Blackout Protection | |
+| Clean Energy | |
+| Battery Back-up |
+| Transferable Contract | |
+| Monitoring & Maintenance | |
+| Fixed kWh Rates | |
+| Fast Response Times | |
+| Energy Independence | |
+| Predictable Bills | |
+| Blackout Protection | |
+| Clean Energy | |
+| Battery Back-up |
+Predictable Rate
+Zero Cost to Start
+Production Guarantee
+Monitoring & Maintenance
+Battery Backup
+Blackout Protection
+Grid Reliability
+Power to Your Home Your Way
+
+--------------------------------------------------------------------------------
+
+URL: https://info@v3electric.com/reviews
+
+"Our solar panels were recently installed and it was a relatively simple process for us considering the amount of work that went into it. The installers, technicians, and energy consultant, Kenny, and the staff at the offices have been knowledgeable and helpful every step of the way. Going solar has been our goal for quite a while but the costs of going the traditional route made it difficult. Going through V3 has made it an achievable goal."
+- PATRICIA, Installed 2019
+
+--------------------------------------------------------------------------------

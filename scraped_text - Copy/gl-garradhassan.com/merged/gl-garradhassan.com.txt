@@ -1,0 +1,17 @@
+ROOT: https://gl-garradhassan.com/
+SCRAPED_AT_UTC: 2026-02-11T20:09:23.398976Z
+PAGES_INCLUDED: 1
+
+================================================================================
+
+URL: https://gl-garradhassan.com/
+
+Latest insights
+Maritime
+Autonomous ships - Introduction
+Medical Devices
+Medical Device Regulation made simple: Why device classification shapes everything that follows
+Corporate
+Hard to abate
+
+--------------------------------------------------------------------------------

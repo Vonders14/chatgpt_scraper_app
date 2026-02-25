@@ -1,0 +1,31 @@
+ROOT: https://intersectpower.com/
+SCRAPED_AT_UTC: 2026-02-11T20:14:48.677818Z
+PAGES_INCLUDED: 1
+
+================================================================================
+
+URL: https://intersectpower.com/
+
+Intersect to be Acquired by Google to Advance U.S. Energy Innovation
+Intersect Power
+Building what AI demands.
+Built for next.
+A broken grid. An AI boom. Intersect is designed from the ground up for the inevitabilities reshaping our world. We build only the largest projects, with the cleanest possible energy, focused on the scalable infrastructure that AI demands.
+Less talk. More steel.
+The race for industrial and AI leadership is now defined by speed and scale. In a market constrained by a broken grid, Intersect’s model is built on the co-location of industrial demand with dedicated gas and renewable power generation.
+Scalability solved.
+We deliver the fastest, cheapest, cleanest, and most reliable energy and data center infrastructure solutions for the scale of what comes next.
+The Intersection blog.
+Founder and CEO Sheldon Kimber’s pragmatic solutions for accelerating our energy future.
+On the record.
+-
+-
+PodcastsBloomberg IntelligenceIntersect and AI data-center scaling
+-
+PodcastsUnicorn BuildersInside the Race to Build AI Infrastructure w/Sheldon Kimber
+-
+The work worth doing.
+If you’re energized by ambition and grounded in action, you’ll be in good company.
+Let’s build what’s next.
+
+--------------------------------------------------------------------------------

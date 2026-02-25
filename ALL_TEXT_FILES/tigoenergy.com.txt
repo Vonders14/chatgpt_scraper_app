@@ -1,0 +1,576 @@
+ROOT: https://tigoenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:40:49.225320Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://tigoenergy.com/
+
+Embrace solar freedom with Tigo TS4
+Tigo TS4 Flex MLPE (Module Level Power Electronics) give you the freedom to choose the right features, inverter, and module for your solar installation. Tigo TS4 are the flexible, simple and trusted solution for solar professionals in 100+ countries.
+Top 2025 product: Inverter Power Output Control (IPOC)
+The software-enabled feature of Tigo EI Inverters (US) receives a 2025 Top Products Honorable Mention award from Solar Power World.
+Complete residential energy storage solutions
+Each part of the Tigo residential solution - including inverters, batteries, optimizers, software, and more - has been designed to maximize performance for homeowners while enabling a flexible, intuitive installation for installers.
+Visualize the value of Tigo optimizers with a customizable calculator
+Enter project information, get savings calculations tailored for you in seconds. Now available in multiple currencies and languages. The calculator page also includes case studies, data and videos on Reclaimed Energy enabled by Tigo optimizers.
+Get Tigo product training on demand with the Tigo Academy
+Courses are free, online, and packed with information to give you what you need in just a few hours. Now available in English, German, Italian, Czech and Polish.
+
+--------------------------------------------------------------------------------
+
+URL: https://tigoenergy.com/about
+
+Solution
+TS4 Flex MLPE Platform
+After years of research, development, testing, and certification, Tigo brought the revolutionary TS4 platform to market. The modular TS4 platform can be selectively deployed with different functionalities per module at different price points. This unparalleled flexibility is why the platform is referred to as "Flex MLPE".
+Customers can maximize the safety and benefits of their PV systems by using any of the features that Tigo's Flex MLPE platform enables:
+1) Optimization: increase energy yield by reducing the impact of shade and mismatch
+2) Monitoring: lower operating expenses with visibility to module-level performance
+3) Safety: reduce voltage at the module level when necessary, increasing safety and meeting electrical codes
+About the TS4 Platform
+
+--------------------------------------------------------------------------------
+
+URL: https://tigoenergy.com/team
+
+Owned by Access Industries, Clal Industries is one of Israel’s leading investment groups; it owns and manages a diversified portfolio that encompasses leading industrial, technology, biotech and retail companies. The company is engaged, directly and through its subsidiaries, acquisition, development and enhancement of portfolio companies in various sectors, including real estate and energy. Its main holdings include Nesher (Israel's cement producer), Mashav Energy (operator of one of Israel's first privately-owned power plants), CBI (the largest life sciences holding company in Israel), and Golf Group (one of Israel's largest retail companies).
+
+--------------------------------------------------------------------------------
+
+URL: https://investors.tigoenergy.com/
+
+Corporate Profile
+Founded in 2007, Tigo is a worldwide leader in the development and manufacture of smart hardware and software solutions that enhance safety, increase energy yield, and lower operating costs of residential, commercial, and utility-scale solar systems. Tigo combines its Flex MLPE (Module Level Power Electronics) and solar optimizer technology with intelligent, cloud-based software capabilities for advanced energy monitoring and control. Tigo MLPE products maximize performance, enable real-time energy monitoring, and provide code-required rapid shutdown at the module level. The Company also develops and manufactures products such as inverters and battery storage systems for the residential solar-plus-storage market. For more information, please visit www.tigoenergy.com.
+
+--------------------------------------------------------------------------------
+
+URL: https://investors.tigoenergy.com/shareholder-services/contact-ir
+
+Skip to main navigation
+Skip to main content
+Investor Relations
+Overview
+News & Events
+News Releases
+Events
+Presentations
+Stock Information
+Stock Quote & Chart
+Corporate Governance
+Documents & Charters
+Board of Directors
+Management
+Committee Composition
+Financials & Filings
+SEC Filings
+Quarterly Results
+Shareholder Services
+Investor FAQs
+Email Alerts
+Contact IR
+Contact IR
+Name
+Email
+Subject
+Comments
+Leave this field blank
+
+--------------------------------------------------------------------------------
+
+URL: https://investors.tigoenergy.com/shareholder-services/email-alerts
+
+To opt-in for investor email alerts, please select at least one alert option and enter your email address in the field below. After submitting your request, an activation email will be sent to the address provided. You must click the activation link in order to complete your subscription. You can sign up for additional alert options at any time. If you would like to opt out of email alerts, you can unsubscribe here.
+
+--------------------------------------------------------------------------------
+
+URL: https://investors.tigoenergy.com/shareholder-services/investor-faqs
+
+Show All
+Where is Tigo Energy headquartered?
+Campbell, CA
+Where is Tigo Energy incorporated?
+Delaware
+When did Tigo Energy become a public company?
+Tigo Energy closed its business combination with Roth CH Acquisition IV Co. on May 23, 2023 and began trading on Nasdaq under the ticker symbol “TYGO” on May 24, 2023.
+When is Tigo Energy's fiscal year end?
+December 31
+What is Tigo Energy's stock symbol and exchange listing?
+Tigo Energy is listed on the Nasdaq under the ticker “TYGO.”
+Who is Tigo Energy's transfer agent?
+Deloitte
+Who is Tigo Energy's auditor?
+Deloitte & Touche LLP
+Who is Tigo Energy's legal counsel?
+White & Case LLP
+Where can I find out more about Tigo Energy?
+You can learn more about Tigo on its website: www.tigoenergy.com
+How can I view documents Tigo Energy has filed with the Securities & Exchange Commission (SEC), including Forms 10-K and 10-Q?
+To view documents Tigo Energy has filed with the SEC please visit: https://www.sec.gov/
+Who makes up the Tigo Energy Executive Management team and Board of Directors?
+The Tigo Energy Executive Management team and Board of Directors can be viewed through the respective links.
+Whom should I contact regarding investor inquiries?
+For questions regarding investor inquiries, please contact Tigo’s investor relations team at [email protected] or by phone at 949-574-3860.
+
+--------------------------------------------------------------------------------
+
+URL: https://investors.tigoenergy.com/investor-relations
+
+Corporate Profile
+Founded in 2007, Tigo is a worldwide leader in the development and manufacture of smart hardware and software solutions that enhance safety, increase energy yield, and lower operating costs of residential, commercial, and utility-scale solar systems. Tigo combines its Flex MLPE (Module Level Power Electronics) and solar optimizer technology with intelligent, cloud-based software capabilities for advanced energy monitoring and control. Tigo MLPE products maximize performance, enable real-time energy monitoring, and provide code-required rapid shutdown at the module level. The Company also develops and manufactures products such as inverters and battery storage systems for the residential solar-plus-storage market. For more information, please visit www.tigoenergy.com.
+
+--------------------------------------------------------------------------------
+
+URL: https://tigoenergy.com/careers
+
+Tigo delivers smart integrated software and hardware solutions that offer fast, flexible, and dependable choice to solar professionals and system owners alike.
+We're accelerating the global solar energy transition
+Tigo has an international team that is enabling safer, smarter solar projects with higher energy yields. Our headquarters is in Silicon Valley, CA but we have regional offices and personnel all around the world to serve our customers and support our fleet of PV projects, which spans all seven continents. We are rapidly growing and our leadership team has the domain expertise and experience to take Tigo and the global PV industry to new heights. Why we do it: We are committed to a more sustainable planet while embracing opportunities to grow our company & careers. How we work: We operate in a flexible and dynamic environment, looking to the future with innovative solutions for customers. Who we are: We are a global team of friendly people who overcome challenges and communicate in a collaborative fashion.
+Click on the any of the jobs listed below for additional details and to apply.
+
+--------------------------------------------------------------------------------
+
+URL: https://tigoenergy.com/news
+
+News
+Tigo Press Releases
+Stay up-to-date on the latest news from Tigo
+By clicking Sign Up you're confirming that you agree with our Terms and Conditions.
+Recent news articles
+Here’s what we've been up to recently.
+Sign up for our newsletter
+Oops! Something went wrong while submitting the form.
+
+--------------------------------------------------------------------------------
+
+URL: https://tigoenergy.com/blog
+
+May 26, 2025
+The Iberian Blackout Didn’t Stop the Energy Intelligence
+On April 28, 2025, a massive blackout affected over 55 million people across Spain and Portugal. While the grid collapsed, homes equipped with the Tigo EI Residential system continued to operate without interruption. Thanks to integrated solar production, energy storage, and automatic backup, these systems provided seamless power continuity. Real-life case studies in Barcelona and Tarragona highlight the effectiveness of smart battery modes and solar resilience. In an age of increasing grid instability, Tigo Energy’s all-in-one solution proves essential for true energy independence and peace of mind.
+Read the full article
+
+--------------------------------------------------------------------------------
+
+URL: https://tigoenergy.com/post/blog-everything-you-need-to-know-about-rapid-shutdown
+
+Blog
+March 23, 2022
+Everything You Need to Know About Rapid Shutdown
+When it comes to solar, fire safety is a top priority. There are many solar regulations in place to protect against the risk of fire, but constant updates are needed “to reduce hazards for firefighters while performing their duties on or in buildings with PV arrays.” – Underwriters Laboratories (UL).
+Many countries have realized the importance of having safety measures in place to ensure that solar operates safely and allows firefighters and other first responders to safely access the roof area.
+That’s where rapid shutdown comes into play. Let’s take a closer look at the rapid shutdown requirements and why they’re important for all solar installers and system owners to know about.
+What is rapid shutdown?
+Rapid shutdown is an electrical safety requirement that was originally introduced in the United States by the National Electrical Code (NEC). This requirement applies to solar PV systems and requires a way to de-energize, or reduce the voltage, of the solar modules on the roof by adding an “on or off” switch, so to speak.
+Why it’s important?
+Rapid shutdown provides a safe way for firefighters or solar installers to stop or reduce the voltage and current from a photovoltaic (PV) array allowing them to perform their jobs safely and efficiently avoiding electrical hazards. Turning off or reducing the voltage on your roof at the module level reduces or eliminates the firefighter’s exposure to shock from the high voltage that may be coming from the solar modules.
+Do inverters already take care of this?
+Inverters can shut off to prevent the energy generated by the modules from getting past the inverter. However, the solar modules will continue to generate electricity as long as the sun is shining, which creates voltage and current on the wires between the modules and inverter. As a result, most rapid shutdown codes require shutdown to occur at the module level, hence the common use of module-level power electronics (MLPE) or microinverters to meet this function. The US National Electrical Code requires that the inverter communicates with the module-level rapid shutdown device, and these components comprise a system. This “system” is what PVRSS (PV Rapid Shutdown System) refers to.
+What sites must comply?
+The National Electrical Code in the United States requires a rapid shutdown system for all new rooftop installations – including residential and commercial buildings. In addition, it is required if any conductors enter a building that is not specifically designed to house the PV system components. So, all new rooftop installations essentially require module-level power electronics or microinverters with the rapid shutdown function in the United States.
+What makes a rapid shutdown system?
+There are a few critical components involved in a rapid shutdown system:
+First is a Rapid Shutdown Device (RSD). Rapid shutdown devices are a type of module-level power electronic (MLPE) or microinverter that are installed on the backs of solar modules. They are equipped with technology that can turn off and reduce voltage output throughout the solar system to adhere to PV Rapid Shutdown regulations. An example product is the Tigo TS4-A-F or 2F which is our MLPE with Rapid Shutdown compliance only, but Tigo offers multiple MLPE options with Rapid Shutdown compliance.
+Another component is an initiator. A rapid shutdown initiator does exactly as the name implies. This device is typically in the form of an emergency stop (e-stop) button that is in an inverter. Typically, Rapid Shutdown can be initiated in two ways, either manually (through an e-stop button) or automatically (loss of power from the grid).
+Lastly, you will need an inverter in a rapid shutdown system. An inverter is a device that converts the electricity produced by the solar modules into usable energy for your home (for more information on this process read our previous blog). Many Rapid Shutdown initiators are located inside the inverter.
+These three components are referred to as Photovoltaic Rapid Shutdown Equipment (PVRSE). These are equipment used in a rapid shutdown system that reduces the voltage to a safe level. The US National Electrical Code mandates that PVRSE and PVRSS are to be UL Listed for the purposes of rapid shutdown.
+Rapid shutdown feature with Tigo MLPE
+As mentioned previously, Tigo offers a variety of rapid shutdown compliant MLPE, ranging from the TS4-A-O that enables optimization, monitoring, and rapid shutdown; to the TS4-A-S that enables monitoring and rapid shutdown; to the TS4-A-F and 2F which are dedicated rapid shutdown devices. Tigo also partnered with numerous industry-leading partners to allow customers the most reliable and flexible solar system building experience. This is because our MLPE are PVRSS certified with many inverter brands that have been vigorously tested to ensure quality and safety.
+Through this partnership, Tigo created Tigo Enhanced – plug-and-play rapid shutdown systems with our integrated Tigo technology. When you see the Tigo Enhanced logo on an inverter datasheet, or on the product itself, you can be assured that the devices are integrated with Tigo technology and are UL certified for PVRSS. To find Tigo Enhanced products, visit our site here.
+Firefighter Response
+Tigo takes rapid shutdown seriously and is always trying to innovate and improve our technology and devices. In an effort to support rapid shutdown, our team in Brazil collaborated with the 6th military Fire Brigade in Brazil to teach the basics of solar energy. After the training, Lieutenant Colonel BM Danilo Santos Moreira Leite stated, “This training greatly contributed to a better understanding of the operation and possible risks, as an increased number of homes and businesses install solar. With this knowledge, we can avoid submitting our military firefighters to unnecessary danger as we help the community.”
+Summary
+Rapid Shutdown requirements are being adopted globally to protect firefighters while they work around solar PV equipment. The NEC requirement reduces the voltage to a safe level by using a series of devices (PVRSE) that make up a rapid shutdown system (PVRSS). Inverters, initiators, and rapid shutdown devices, such as MLPE or microinverters, are necessary components to comply with NEC regulations. Check out Tigo’s line of MLPE to learn more about rapid shutdown devices and our list of PVRSS certified inverters. For more information on the code itself, check out this past webinar we did or read the webinar transcript here.
+To join in on discussions or ask questions on solar, visit our Tigo Community page. To leave a comment on this blog, click here.
+To learn more about solar or various components, follow us on social media to be notified when a new blog is released.
+References
+https://www.tigoenergy.com/post/blog-rapid-shutdown-compliance-for-us-rooftop-pv-systems
+https://www.tigoenergy.com/post/blog-how-solar-energy-systems-work
+https://www.tigoenergy.com/enhanced
+https://www.tigoenergy.com/ul-pvrss
+To Learn More
+About the timeline of solar: https://www1.eere.energy.gov/solar/pdfs/solar_timeline.pdf
+U.S. solar capacity data: https://www.energy.gov/eere/solar/solar-energy-united-states
+Environmental benefits of solar: https://www.seia.org/initiatives/climate-change#:~:text=Through%20Q2%202020%2C%20the%20U.S.,tons%20of%20carbon%20dioxide%20emissions
+Global solar capacity data: https://www.nsenergybusiness.com/features/solar-power-countries-installed-capacity/
+TED-Ed: How do solar panels work? https://ed.ted.com/lessons/how-do-solar-panels-work-richard-komp#watch
+Rate plans: https://www.tigoenergy.com/post/blog-how-you-are-billed-for-electricity
+How to read your electricity bill: https://www.aurorasolar.com/blog/reading-your-electricity-bill-a-beginners-guide/
+Solar optimizers: https://www.tigoenergy.com/post/blog-solar-optimizers-should-you-add-them-to-your-system
+Solar monitoring: https://www.tigoenergy.com/post/blog-mlpe-feature-monitoring-benefits-for-installers
+
+--------------------------------------------------------------------------------
+
+URL: https://tigoenergy.com/post/blog-join-tigo-at-the-re-texas-exhibition-to-see-how-our-ei-residential-solar-storage-solution-can-benefit-your-solar-projects
+
+Blog
+April 11, 2022
+Join Tigo at the RE+ Texas Exhibition to see how our EI Residential Solar + Storage Solution can benefit your solar projects
+Looking for a fast, flexible, and dependable solar installation? Look no further than the Tigo EI Residential Solar + Storage Solution. Our solution includes an Inverter, Battery, and ATS and enables quick installations with industry-leading warranties and support with the bonus of being scalable for any home.
+To learn how you can benefit from the EI Residential Solution, schedule time with Tigo while you’re at the show.
+In Texas, Tigo is monitoring over 300+ systems, produced over 8GWh of energy, and optimized over 640MWh of Reclaimed Energy for our users - Texas is one of the fastest growing markets for Tigo.
+RE+ Texas 2022
+When: Thursday through Friday, April 21, 2022 – April 22, 2022
+Where: Tigo Energy Booth #205 | Henry B. Gonzalez Convention Center – 900 E Market Street, San Antonio, TX
+Tigo Energy at the Exhibit
+Now’s your chance to partner with Tigo and interact with Tigo products such as the newly released EI Residential Solar + Storage Solution and our line of TS4 Flex MLPE. Ask our team members how we can help maximize energy output and increase return on investments on your solar projects. Book a 1 on 1 meeting with a member of our team here.
+Where: Visit us at Booth #205
+To immediately get started on a project with Tigo, contact sales.
+To schedule a meeting with a member of the Tigo team while you’re at the show, click the button below. We are happy to assist you with your next projects and hope to see you there!
+
+--------------------------------------------------------------------------------
+
+URL: https://tigoenergy.com/post/meet-tigo-team-in-milan-at-mce-and-experience-the-benefits-of-the-ts4-platform
+
+Blog
+June 23, 2022
+Meet Tigo Team in Milan at MCE and experience the benefits of the TS4 platform
+MCE – Mostra Convegno Expocomfort
+When: 28th June / 1st July
+Where: Fieramilano, Rho (MI) - Italy
+Event webpage: mcexpocomfort.it
+Tigo Energy at the Exhibition
+MCE returns as an in-person event after the pandemic break and Tigo shows up in Milan with a universal and modular solution to maximize roofspace and increase energy yield, to the benefit of energy independence and electrification of consumption.
+Visit our partners at Fieramilano to find out the largest flexibility of TS4 platform of Flex MLPE and to get your hand on Energy Intelligence, the most granular monitoring software shaped around installers and PV professionals to simplify fleet management and optimize O&M.
+Tigo team members will be on hand in our partners’ booths to help you get the most out of your solar installations. You’ll probably be busy, so the best way to ensure you get the chance to learn is to schedule some time with a member of the Tigo team while you are at the show!
+Where:
+To immediately get started on a project with Tigo, contact sales.
+MCE is the unique marketplace and the global event where companies in the HVAC+R, renewable sources and energy efficiency sectors gather and showcase the latest technologies, solutions and systems for smart buildings in commercial, industrial and domestic residential sectors. MCE symbolizes the fullest synthesis of housing comfort in the future and represents the soul of living pleasure.
+Ci vediamo a Milano!
+
+--------------------------------------------------------------------------------
+
+URL: https://tigoenergy.com/post/blog-jing-tian-chief-growth-officer-at-tigo-joins-the-solarcoaster-podcast-to-talk-about-tigo-in-the-hawaiian-solar-market
+
+Blog
+January 20, 2023
+Jing Tian, Chief Growth Officer at Tigo joins the SolarCoaster podcast to talk about Tigo in the Hawaiian solar market.
+Josh Porter and Jason Verkaart welcomed Jing Tian, chief growth officer of Tigo Energy onto the SunCast podcast earlier this year. They talked about the Tigo EI Residential Solar Solution, a complete solar plus storage solution that recently received approval by HECO (Hawaiian Electric). The approval gives Hawaiian installers and homeowners access to the Tigo home energy management solution. In this interview, Jing covers the Tigo EI Residential Solar Solution, module-level monitoring enabled by Tigo TS4 Flex Module LevelPower Electronics (MLPE), how Tigo technology reduces truck rolls, and much more.
+Below are a few highlights from the podcast:
+HECO approval and what it means:
+“Hawaii is an environment where there are a lot of early adopters in PV,” said Josh. Hawaii has been a leader in residential solar adoption. As of 2021, 17.5% of electricity came from solar sources. It also has the highest adoption rate of any state in the US, as we pointed out in this PowerMagazine article. With its inclusion on the HECO list of approved solar products meeting mandatory functions specified in Rule 14H, Tigo and its distribution partners can now provide solar installers with a flexible and reliable solar-plus-storage solution.
+EI Residential Solution:
+The Tigo EI Residential Solution includes the EI Battery, EI Inverter, and Automatic Transfer Switch and Tigo TS4 Flex MLPE. On the podcast, the topic of safety came up with respect to product selection and design.
+Tigo has always held safety as a main pillar of business and that has not changed with the deployment of our battery systems. Jing explained how Tigo chose lithium iron phosphate (LFP) as the main battery component, as it does not require additional coolant. Josh chimed in that it is appreciated by the safety guys and first responders “you guys are fire suppression experts, that’s Tigo”.
+Energy Intelligence Software:
+Jing also talked about the experience of installers and homeowners when they use the Tigo Energy Intelligence monitoring platform. “In the app, the power flow diagram can tell you your energy consumption, how much you use from PV, whether you’re charging or discharging the battery when you're in backup mode and from the PV to the batteries. It’s always really neat to watch what the user experience is like.”
+The three touched on the usefulness of monitoring from different perspectives. From an installer’s point of view, “a truck roll is expensive, you have two guys and x amount of time to a place,” said Josh. “Then you have to go out and diagnose, maybe you have the stuff you need to fix it or maybe you don't. The expenses can really stack up a lot with a truck roll.”
+Closing thoughts
+We enjoyed getting a chance to be part of the conversation with theSolarCoaster team and are excited to see Hawaiian homeowners get Tigo solutionsfor their solar projects.
+If you’re interested in listening to the entire podcast, check it out here.
+
+--------------------------------------------------------------------------------
+
+URL: https://tigoenergy.com/ts4-x
+
+Get the most out of your solar modules with Tigo TS4-X Flex MLPE
+Module-level optimization, monitoring, and rapid shutdown for virtually any solar module up to 800W, 25A (Isc). Each project using TS4-X qualifies for a complementary design review as part of the Tigo Green Glove program.
+High-powered MLPE for the latest high-powered solar modules
+The TS4-X continue Tigo's commitment to an open ecosystem and enable optimization, monitoring, and rapid shutdown for solar projects of any scale.
+Rated 800W, 25A (Isc) for high-wattage modules
+Sometimes, bigger is better. High-powered modules reduce the levelized cost of electricity (LCOE) for sites, helping installers win more projects and site owners save more money. All TS4-X products are rated for the latest modules, and come in various cable lengths to meet size requirements.
+Installs in seconds, generates benefits for a lifetime
+Each TS4-X clips to the module frame with no bolts, no screws, and no ground wire required. IP68 rating enables exposure to water and other elements while maintaining reliable performance over the 25-year warranty.
+Use virtually any inverter with the TS4-X
+Never get stranded again by closed ecosystems. Tigo TS4 work with the largest inverter network, are backward compatible with previous TS4 generations, and work with the same Tigo communications equipment you already use.
+Built-in safety features for installers and first responders
+Multi-Factor Rapid Shutdown (MFRS) option with redundant safety signaling for customers looking for an extra layer of protection. Over-current and over-temperature protection on all models.
+Choose the features you want for your solar project. You can even mix and match.
+Tigo gives you the freedom to choose the feature-set that will maximize the return on investment for your specific projects.
+Increase energy production efficiently
+Minimize the impacts of shade and mismatch with module-level optimization. Tigo's patented impedance matching technology enables ultra-efficient module-level MPPT tracking with virtually any inverter.
+Reduce truck-rolls with module-level visibility
+Say hello to energy production, power data, voltage, current and more for every module at every site - all from the Tigo Energy Intelligence (EI) platform. Say goodbye to costly rooftop troubleshooting truck rolls.
+Meet safety codes required around the world
+Every TS4-X unit comes with module-level rapid shutdown to meet safety codes put in place to protect first responders and make it easier for O&M providers to do what they need on-site.
+SOLUTIONS
+TS4-X platform of Flex MLPE
+TS4-X-O
+Maximize energy production and minimize O&M with optimization, monitoring and rapid shutdown all in one solution
+TS4-X-S
+Minimize truck rolls and other O&M expenses with module-level monitoring and rapid shutdown
+TS4-X-F
+Enhance safety and meet code requirements with rapid shutdown
+
+--------------------------------------------------------------------------------
+
+URL: https://www.tigoenergy.com/product/ts4-x-o
+
+Optimization
+Tigo TS4-X-O
+Maximize energy production and minimize O&M with optimization, monitoring and rapid shutdown all in one solution
+Optimization
+TS4-X-O
+Description
+Patented technology maximizes energy production and minimizes the impacts of mismatch and shade on an array.
+Functions
+- Optimization
+- Monitoring
+- Rapid Shutdown
+Features and benefits
+- Suitable for modules up to 800W, 25A (Isc), 20A (Imp)
+- Intelligent optimization – delivers the maximum energy from an array
+- Module-level monitoring – full visibility into module- and system-level production
+- Rapid shutdown – UL Standards-certified PVRSS components operating wirelessly and/or with power-line communications (PLC)
+- Simple, fast installation – snaps to a standard PV module frame or mounts to racking
+- Fully compatible with thousands of different inverter models from more than 50 inverter brands
+- Works with Tigo Access Point (TAP) and Cloud Connect Advanced (CCA)
+- 25-year warranty
+Configuration
+Required
+CCA + TAP
+Additional resources
+Videos
+No items found.
+Downloads
+To view all Tigo downloads, click here
+Marketing Materials
+Brochure / Flyer: Reclaimed Energy Flyer - North America
+Brochure / Flyer: Tigo Energy Intelligence (EI) Monitoring Brochure
+Brochure / Flyer: Tigo TS4 Brochure - For home and building owners
+
+--------------------------------------------------------------------------------
+
+URL: https://www.tigoenergy.com/about
+
+Solution
+TS4 Flex MLPE Platform
+After years of research, development, testing, and certification, Tigo brought the revolutionary TS4 platform to market. The modular TS4 platform can be selectively deployed with different functionalities per module at different price points. This unparalleled flexibility is why the platform is referred to as "Flex MLPE".
+Customers can maximize the safety and benefits of their PV systems by using any of the features that Tigo's Flex MLPE platform enables:
+1) Optimization: increase energy yield by reducing the impact of shade and mismatch
+2) Monitoring: lower operating expenses with visibility to module-level performance
+3) Safety: reduce voltage at the module level when necessary, increasing safety and meeting electrical codes
+About the TS4 Platform
+
+--------------------------------------------------------------------------------
+
+URL: https://www.tigoenergy.com/team
+
+Owned by Access Industries, Clal Industries is one of Israel’s leading investment groups; it owns and manages a diversified portfolio that encompasses leading industrial, technology, biotech and retail companies. The company is engaged, directly and through its subsidiaries, acquisition, development and enhancement of portfolio companies in various sectors, including real estate and energy. Its main holdings include Nesher (Israel's cement producer), Mashav Energy (operator of one of Israel's first privately-owned power plants), CBI (the largest life sciences holding company in Israel), and Golf Group (one of Israel's largest retail companies).
+
+--------------------------------------------------------------------------------
+
+URL: https://www.tigoenergy.com/product/ts4-x-s
+
+Safety
+Tigo TS4-X-S
+Minimize truck rolls and other O&M expenses with module-level monitoring and rapid shutdown
+Safety
+TS4-X-S
+Description
+Meet rapid shutdown requirements and reduce system downtime and truck rolls with module level data captured in the Tigo Energy Intelligence (EI) platform.
+Functions
+- Monitoring
+- Rapid Shutdown
+Features and benefits
+- Suitable for modules up to 800W, 25A (Isc), 20A (Imp)
+- Module-level monitoring – full visibility into module- and system-level production
+- Rapid shutdown – UL Standards-certified PVRSS components operating wirelessly and/or with power-line communications (PLC)
+- Simple, fast installation – snaps to a standard PV module frame or mounts to racking
+- Compatible with thousands of different inverter models from more than 50 inverter brands
+- Works with Tigo Access Point (TAP) and Cloud Connect Advanced (CCA)
+- 25-year warranty
+Configuration
+Required
+CCA + TAP
+Additional resources
+Videos
+No items found.
+Downloads
+To view all Tigo downloads, click here
+
+--------------------------------------------------------------------------------
+
+URL: https://www.tigoenergy.com/product/ts4-x-f
+
+Fire Safety
+Tigo TS4-X-F
+Enhance safety and meet code requirements with rapid shutdown
+Fire Safety
+TS4-X-F
+Description
+Meet rapid shutdown requirements with the highest wattage modules available
+Functions
+- Rapid Shutdown
+Features and benefits
+- Suitable for modules up to 800W, 25A (Isc), 20A (Imp)
+- Rapid shutdown – UL Standards-certified PVRSS components operating with power-line communications (PLC)
+- Simple, fast installation – snaps to a standard PV module frame or mounts to racking
+- Compatible with thousands of different inverter models from more than 50 inverter brands
+- Works with Tigo RSS Transmitter with Pure Signal Technology
+- 25-year warranty
+Configuration
+Required
+RSS Transmitter
+Additional resources
+Videos
+No items found.
+Downloads
+To view all Tigo downloads, click here
+
+--------------------------------------------------------------------------------
+
+URL: https://tigoenergy.com/ts4
+
+Increase energy production with shaded & mismatched modules up to 725W (UL), 700W (IEC)
+Enables monitoring and rapid shutdown for modules up to 725W (UL), 700W (IEC)
+Dedicated rapid shutdown device for 1 solar module up to 725W (UL), 700W (IEC)
+Dedicated rapid shutdown device for 2 solar modules
+
+--------------------------------------------------------------------------------
+
+URL: https://www.tigoenergy.com/product/ts4-a-o
+
+Optimization
+Tigo TS4-A-O
+Increase energy production with shaded & mismatched modules up to 725W (UL), 700W (IEC)
+Optimization
+TS4-A-O
+Description
+Optimization is a Flex MLPE function available as an integrated modular junction box base (TS4-O) or as an add-on unit (TS4-A-O). Design using unequal string lengths, mixed orientations, or areas of mismatch. Install in shaded areas with a reduced setback ratio. In addition to optimization, the TS4-A-O enables module level monitoring, and rapid shutdown in compliance with NEC 2014, 2017, 2020.
+Functions
+- Optimization
+- Monitoring
+- Rapid Shutdown
+Features and benefits
+- Suitable for up to 725W (UL), 700W (IEC) solar modules
+- The higher performance optimizer with Predictive IV Technology (PIV)
+- The ONLY optimizer with selective deployment
+- Includes the benefits of Safety & Monitoring
+- Meets US NEC rapid shutdown requirements
+- Optimizes right out of the box
+- Shade and age tolerance to maximize lifetime yield
+- Works wirelessly with the TAP & CCA
+- 25-year warranty
+Configuration
+1 module per TS4
+Required
+CCA + TAP
+Additional resources
+Videos
+TS4-A-O/S/M Installation
+Shaded roofs - how Tigo optimizers reclaim energy
+Solar Rapid Shutdown Electrical Code Requirements and Solutions
+TS4 Flex MLPE - Overview
+Tigo TS4-A-O (optimization) - Overview
+Increase the ROI of your solar project with Tigo TS4 Flex MLPE
+Simplify solar fleet management with Tigo Energy Intelligence
+Downloads
+To view all Tigo downloads, click here
+Technical Documentation
+Installation Manual: TS4-A-O, TS4-A-S, TS4-A-M, CCA, TAP (Up to 700W)
+Whitepaper: Optimization with Impedance Matching and Predictive IV
+Marketing Materials
+Case Study: Outshining the Shade with Tigo TS4: Mitigating Mismatch, Maximizing Yield
+Brochure / Flyer: Rapid Shutdown Solutions Brochure
+Brochure / Flyer: Reclaimed Energy Flyer - North America
+Brochure / Flyer: Tigo Commercial & Residential Flyer - North America
+Brochure / Flyer: Tigo Energy Intelligence (EI) Monitoring Brochure
+Case Study: 718kW Commercial Rooftop Gets Unexpected Benefits from Full Module-Level Optimization
+Case Study: A home solar array with five orientations in the Netherlands
+Case Study: Early solar adopter chooses Tigo TS4 - with or without rooftop shading
+Case Study: Harvesting 36% Energy with Optimization
+Case Study: Minimizing BOS Costs on a Curved Roof Design
+Case Study: Module-level monitoring benefits abound after a decade of rooftop solar generation
+Case Study: Module-level solar performance during a total eclipse - see the impact through a monitored array at Gowanda Harley-Davidson
+Case Study: Optimizers added to existing US residential array
+Case Study: Optimizers at a temple with a unique roofline
+Case Study: Optimizers maximize output for an Australian eco resort
+Case Study: Output of array in Japan increases 7% when Tigo optimizers are installed
+Case Study: Remedying Mismatch & Shading with Tigo
+Case Study: Solar installer chooses Tigo for his large home system
+Case Study: Spanish neighbors average 21% Reclaimed Energy with Tigo optimizers
+Case Study: Surviving the Antarctic Extreme with Tigo's Remote Monitoring
+Case Study: Tigo optimizers enable maximum solar capacity despite multi-angle restaurant roof
+Case Study: Tigo optimizers enable project where “50% of the roof was unusable” due to shading
+Case Study: Tigo optimizers maximize home solar production across seven roof orientations
+
+--------------------------------------------------------------------------------
+
+URL: https://www.tigoenergy.com/product/ts4-a-s
+
+Safety
+TS4-A-S
+Enables monitoring and rapid shutdown for modules up to 725W (UL), 700W (IEC)
+Safety
+TS4-A-S
+Description
+Safety is a Flex-MLPE function that enables rapid shutdown and module-level monitoring. It is UL PV Rapid Shutdown System (PVRSS) certified with leading inverters to meet NEC 2014, 2017, and 2020 rapid shutdown requirements.
+Functions
+- Monitoring
+- Rapid Shutdown
+Features and benefits
+- Suitable for up to 725W (UL) 700W (IEC) solar modules
+- Module-level monitoring with Tigo Energy Intelligence
+- Includes rapid shutdown functionality
+- Meets US NEC rapid shutdown requirements
+- Works wirelessly with the TAP & CCA
+- 25-year warranty
+Configuration
+1 module per TS4
+Required
+CCA + TAP
+Additional resources
+Videos
+TS4-A-O/S/M Installation
+Solar Rapid Shutdown Electrical Code Requirements and Solutions
+TS4 Flex MLPE - Overview
+TS4-A-S (safety) - Overview
+Increase the ROI of your solar project with Tigo TS4 Flex MLPE
+Simplify solar fleet management with Tigo Energy Intelligence
+Downloads
+To view all Tigo downloads, click here
+Technical Documentation
+Marketing Materials
+Brochure / Flyer: Rapid Shutdown Solutions Brochure
+Brochure / Flyer: Tigo Energy Intelligence (EI) Monitoring Brochure
+
+--------------------------------------------------------------------------------
+
+URL: https://www.tigoenergy.com/product/ts4-a-f
+
+Fire Safety
+Tigo TS4-A-F
+Dedicated rapid shutdown device for 1 solar module up to 725W (UL), 700W (IEC)
+Fire Safety
+TS4-A-F
+Description
+The TS4-A-F enables cost effective rapid shutdown functionality in a 1 module to 1 TS4 configuration. The TS4-A-F is both IEC and UL certified for global acceptance. The TS4-A-F is UL PV Rapid Shutdown System (PVRSS) certified with hundreds of inverters to comply with NEC 2014, 2017, and 2020 rapid shutdown requirements. Many of the inverters have integrated the RSS transmitter, which communicates with the TS4-A-F over PLC, enabling plug and play installations.
+Functions
+- Rapid Shutdown
+Features and benefits
+- Up to 725W (UL), 700W (IEC) per channel
+- IEC and UL certified
+- Meets US NEC rapid shutdown safety requirements
+- UL PVRSS certified with the largest network of inverters
+- 16-80V, up to 25A (per modulel)
+- MC4 (standard) connectors
+- Snaps to module frame for easy mounting
+- Does not require ground wire
+- PLC communication
+- 25-year warranty
+Configuration
+1 module per TS4
+Required
+RSS Transmitter
+Additional resources
+Videos
+Solar Rapid Shutdown Electrical Code Requirements and Solutions
+Tigo TS4 F/2F Rapid Shutdown Device Installation - TS4 Course Excerpt from Tigo Academy
+Tigo TS4 F/2F Rapid Shutdown System Design - TS4 Course Excerpt from Tigo Academy
+Tigo RSS Transmitter with Pure Signal technology - Overview
+TS4 Flex MLPE - Overview
+Increase the ROI of your solar project with Tigo TS4 Flex MLPE
+Downloads
+To view all Tigo downloads, click here
+Technical Documentation
+Quick Start Guide: TS4-F/2F with RSS Transmitters
+Installation Manual: TS4-A-F, TS4-A-2F, RSS for Fire Safety (legacy RSS transmitters without PST)
+Installation Manual: TS4-A-F, TS4-A-2F, and Rapid Shutdown System (RSS) Transmitters with PST
+Marketing Materials
+Case Study: Circuit Energy Solutions uses Tigo Green Glove program for 98kW rooftop install
+Brochure / Flyer: Rapid Shutdown Solutions Brochure
+Brochure / Flyer: Tigo Commercial & Residential Flyer - North America
+Brochure / Flyer: Tigo Flyer - UL PV Rapid Shutdown Systems (PVRSS)
+
+--------------------------------------------------------------------------------

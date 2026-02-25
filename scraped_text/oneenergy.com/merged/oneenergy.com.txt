@@ -1,0 +1,14 @@
+ROOT: https://oneenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:23:34.717166Z
+PAGES_INCLUDED: 1
+
+================================================================================
+
+URL: https://oneenergy.com/
+
+One Power builds, owns, and operates major electrical infrastructure for industrial energy users on their side of the meter. One Power is already building the customer-centric power grid of the future.
+One Power is building Utility 2.0.
+Our customer-sited integrated energy solutions include:
+Wind for Industry | ManagedHV | Megawatt Hubs | Competitive Retail Sales | Energy Consulting & Analytics
+
+--------------------------------------------------------------------------------

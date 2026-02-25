@@ -1,0 +1,453 @@
+ROOT: https://regattasp.com/
+SCRAPED_AT_UTC: 2026-02-11T20:28:38.129512Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://regattasp.com/
+
+Energy
+Assessment
+Before you can manage energy costs, you need to understand how much energy you actually need. Regatta Solutions will conduct an assessment and then present a plan for improvement.
+Clean Energy
+Investment
+Regatta will create a custom implementation plan that finds the best clean energy solution to fit your needs, that will reduce cost while also improving sustainability.
+Ongoing
+Support
+We believe the best business model is not about business—it’s about integrity and commitment. That’s why Regatta maintains clients for life. We provide flexible financing and after-market service support.
+Energy Solutions Customized to Fit Your Needs
+Energy Solutions
+Microgrids
+Utilizing a microgrid – a decentralized group of electricity sources normally connected to the larger grid, but is able to disconnect and function independently – reduces energy costs and gains infrastructure energy resiliency. A microgrid can be invaluable in an emergency, as its independent function can allow it to power Red Cross shelters like this one at San Jacinto High School.
+Energy Solutions
+Solar PV
+Whether it be utility scale green field, commercial industrial roof top and/or carport applications, Regatta’s installation experience results in proven, timely installation without change orders and reduces daytime energy use.
+Energy Solutions
+Energy Storage
+To better achieve a more reliable power supply during peak load times, energy storage maintains a balance between a network’s load and the power generated.
+Energy Solutions
+Cogeneration
+By generating electricity where it is needed and utilizing excess heat for heating and hot water, cogeneration (CHP) is twice as efficient as conventional power stations and offers cost savings, as well as reduced emissions and carbon footprint. Regatta Solutions provides chilling for hospitals like this one through the cogeneration process.
+Energy Solutions
+EV Charging
+Supporting the shift to clean energy, EV charging stations provide highly efficient, flexible environmental solutions to the greater community.
+Energy Solutions
+Fuel Cells
+Through a pair of redox reactions, a fuel cell cleanly and quickly converts the chemical energy of fuel and an oxidizing agent into electricity for a reliable source of power.
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/services-support/
+
+We support all of our systems 24 hours a day
+Unlike many manufacturers, we provide maintenance and support for our products on an ongoing basis. Our team of service technicians and staff are located throughout our territory, decreasing our response time and ensuring that equipment is maintained according to best practice and factory procedures.
+The Regatta Protection Plan (RPP) is tailored to the needs of our clients. With options for parts only, service and parts, or comprehensive maintenance, we perform regular preventive maintenance as well as urgent repair. Our Regatta Energy Management System (REMS) allows the microturbines to generate instant notifications for our service staff.
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/about-us/making-a-difference/
+
+At Regatta Solutions, our corporate responsibility activities reflect the WHY of our pursuit of clean, efficient onsite energy.
+The connectedness of air, water, and land resources speaks to the need to reduce the emissions and water demands inherent in large-scale energy production. Just as your family, friends, and employees do, our Regatta Solutions team members hike in their local mountains, surf, take their children and dogs to parks, and actively enjoy their communities. We enable success for a cleaner tomorrow because we want our families to have a cleaner tomorrow to enjoy.
+To celebrate and support families, communities, and education, we endorse several causes.
+Living to Love Another Day (The Nicholas H. Guy Acevedo Memorial Trust Fund)
+Sponsored through the Orange County Community Foundation a non-profit organization. Formed to promote awareness and education of mental health and wellness for young people. Nick’s organization Living to Love Another Day’s mission is to educate, advocate, and remove the stigma associated with mental illness, while funding programs that provide students and under-25 kids with the tools and resources that support their mental health.
+Family Care: Fristers
+We support Fristers’ goals to ensure that young families have access to healthcare, education, healthy food, and general family support.
+Team Red White and Blue LA Marathon Challenge
+Like Team RWB, we believe that healthier lives come through community interaction through physical and social activity. The funds raised by the team’s runners will support activities like Waves of Valor where wounded veterans are taught how to surf.
+Engineering Innovation: USC Racing Formula Sae Team
+We believe there is great value in the innovation and exploration that comes out of student-led engineering competitions.
+Community, Music, and Architecture: Mission San Juan Capistrano
+We participate as a table sponsor for the Music Under the Stars and as a Business Partner to help our hometown Mission continue it ability to bring people together amid beautiful gardens, architecture, and music.
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/about-us/leadership-team/
+
+Steven Acevedo
+As the founder and CEO of several companies in the energy and high technology services industry, Steve has led his teams to drive innovation and breakthrough solutions for the last 30 years.
+Steve is Founder and CEO of Agave® Systems in 2018. Agave® Systems a cloud-based Energy as a Service (EaaS) solution that dramatically impacts organization’s financial and sustainability performance by increasing their energy efficiency. Agave® is already being used by companies in 13 different industry verticals including companies like Adventist Healthcare, Bear Republic Brewery, and the Ronald Reagan Library.
+Founded in 2009, Regatta Solutions, Inc. is a premier infrastructure energy solutions company providing distributed power generation solutions including cogeneration; solar and energy storage. Steve also acts as CEO of Regatta Development Inc. a Ca. licensed general contracting firm focused on distributed generation installation and datacenter infrastructure projects.
+Prior to founding Regatta Solutions, Steve held sales, management and executive positions with Texas Instruments, International Business Machines Corporation, Bridgestone Software, Cornerstone Systems, Inc. and MSI Systems Integrators. Steve holds a bachelor’s science degree from the University of Southern California and has also attended a number of executive management programs, including the Executive Program for Growing Companies, Stanford Graduate School of Business and UCLA Anderson School of Management.
+He serves “Living to Love Another Day” an organization supporting efforts to eliminate student suicide and Fristers an organization helping teen parents. He serves on the Corporate Advisory Board at the USC Viterbi School of Engineering as well as the Athenian Leadership Council at the USC Price School of Public Policy.
+Mark Gilbreth
+As Chief Technology Officer for Regatta Solutions Mark Gilbreth is responsible for technical vision and leading all aspects of technology development aligning these with the strategic direction and growth objectives of the company.
+Mr. Gilbreth also leads the strategy for technology platforms, partnerships and external relationships as well as building and managing the application technology team. He will focus on understanding and ensuring organizational adherence to technical standards. Mr. Gilbreth also evaluates new services and technology offerings that support existing customer requirements and leverages our strategic partnerships.
+Mr. Gilbreth joined Regatta Solutions with 21 years of experience in engineering leadership and systems solutions experience in the power generation business. Prior to joining Regatta, Mark started his career at Hamilton Sundstrand Power Systems developing control systems and user support software for Auxiliary Power Units on aircraft. Mr. Gilbreth’s technical and leadership capabilities were quickly recognized and he was promoted to lead engineer for several next generation engine development programs.
+Mr. Gilbreth joined Capstone Turbine Corporation in 1995 with an entrepreneurial spirit looking to develop microturbine technology for the distributed generation market place. Mark holds over 19 US Patents in electronics architecture, controls systems, and application solutions for Capstone Turbine Corporation. During his tenure at Capstone, Mr. Gilbreth drove critical technical and operational improvements serving as Manager of Systems and Controls, Director of Customer Service, Vice President of Operations, and Chief Technology Officer.
+Cassandra Simpson
+As Vice President of Business Affairs for Regatta Solutions, Cassandra Simpson is responsible for accounts payable, payroll, human resources, and creation of organizational and program budgets. She serves as a member of the Management Team by providing leadership to ensure effectiveness of the organization’s financial and marketing functions.
+Cassandra Simpson joined Regatta Solutions in 2010 with more than 5 years of experience in back office operations. As an administrator she has worked for a variety of growth companies, assisting them with business processes, contracts administration, and customer service interfacing.
+She has an Associate Degree from Saddleback College and has attended a variety of business management and financial certification programs.
+Randy Holmes
+Randy Holmes is Vice President of Engineering for Regatta Solutions. He has been with Regatta for 8 years, managing distributed generation projects across a multitude of industry sectors including wastewater treatment plants, food processing, pharmaceutical companies and schools. He is also a managing principal/partner owner in Regatta Development (California General Contract License # 974377). He is a hands-on engineering practitioner that provides building value through his ability to interface with clients and partners alike. He is innovative, having driven multiple solutions requiring custom design and integration. Prior to Regatta Solutions, Randy was a project manager for a sheet metal company for 10 years. He graduated from Cal State Fullerton in 2014 with a degree in Civil Engineering.
+Jorge Choy
+Jorge Choy has been a long term Regatta employee working in a variety of different area. As the VP of Customer Service he is responsible for managing all aspects of Regatta’s customer support and service. He manages the overall performance of the service team and processes to achieve the highest levels of customer satisfaction. As a senior executive, the vice president of customer service liaises with other members of the leadership team to implement the organization’s corporate strategy.
+Jorge also provides support to Regatta Development as he has over 20 years experience in the Commercial and Residential Building and Construction Industries. For the first five years working in several trades such as electric, plumbing and carpentry. The following eight years he owned and operated FIX IT Construction.
+Jorge earned a degree in Business and Accounting from The University of Phoenix. He is licensed with the State of California Contractors Licensing Board.
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/about-us/
+
+Founded in 2009, Regatta Solutions was built on a simple idea: energy should work for the business, not the other way around.
+We are a full-service energy solutions provider delivering cost-effective, environmentally responsible power for prime power, secure power, peak shaving, and standby needs. Our experience spans the full spectrum of modern energy infrastructure—utility-scale and on-site solar, energy storage, fuel cells, combined heat and power, advanced chilling, building control systems, and EV charging.
+But technology is only half the story.
+Regatta is defined by what happens after the system is built. Our after-market services protect the asset, maximize uptime, and ensure central plants perform the way they were intended—day after day, year after year.
+By combining deep expertise in both energy supply and demand management, we design microgrid solutions that reduce dependence on the grid while increasing resilience, reliability, and control.
+Our clients span the sectors that can’t afford uncertainty: education, oil and gas, data centers, hospitality, manufacturing, healthcare, food and beverage, property management, utilities, and critical infrastructure including landfills, digesters, and wastewater treatment facilities.
+Regatta Solutions doesn’t just deliver power.
+We deliver certainty.
+Vision
+The leader in innovative, strategic smart power solutions.
+Mission
+Innovating, Deploying, Monitoring and Servicing Scalable Energy Solutions that Generate Resiliency and Sustainability for our clients.
+Purpose
+Enabling client success through technology for a thriving tomorrow.
+Our Promise – The Client Bill of Rights
+- Unwavering Honesty & Ethical Integrity
+- An attentive ear, ensuring we always listen to your needs
+- Guaranteed privacy and confidentiality in all our dealings
+- A heartfelt personal commitment to your success
+- Streamlined processes for ease of collaboration
+- Deep understanding and insight into your business
+- Only the best-in-class products and services that truly deliver
+- Tailored solutions that align with your goals and address technical challenges
+- Unparalleled quality, service, and technical expertise
+- Prompt resolution to any concerns or grievances
+- Expect continuous innovation in our offerings and processes
+- Safe and secure service delivery, always
+- The Right to Choose: Empowering you with options, ensuring your autonomy in decision making
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/energy-solutions/
+
+The US Department of Energy defines the microgrid as “a group of interconnected loads and distributed energy resources within clearly defined electrical boundaries that acts as a single controllable entity concerning the grid. A microgrid can connect and disconnect from the grid to operate in both grid-connected or island-mode.
+Talk to Our Team
+Regatta is uniquely positioned to help clients understand how implementing a microgrid and integrating those
+technologies can help reduce energy costs and provide infrastructure energy resiliency. The microgrid is not a buzzword to the Regatta team. Regatta has countless examples of helping small to mid-market companies implement disparate distribution generation technologies and integrating them into a seamless on-premise power grid.
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/energy-solutions/microgrids/
+
+The US Department of Energy defines the microgrid as “a group of interconnected loads and distributed energy resources within clearly defined electrical boundaries that acts as a single controllable entity concerning the grid. A microgrid can connect and disconnect from the grid to operate in both grid-connected or island-mode.
+Talk to Our Team
+Regatta is uniquely positioned to help clients understand how implementing a microgrid and integrating those
+technologies can help reduce energy costs and provide infrastructure energy resiliency. The microgrid is not a buzzword to the Regatta team. Regatta has countless examples of helping small to mid-market companies implement disparate distribution generation technologies and integrating them into a seamless on-premise power grid.
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/energy-solutions/solar-pv/
+
+Taking advantage of Solar Photovol taic (PV) and its benefits is a critical element of implementing a distributed generation strategy that includes renewables.
+Regatta monitors the performance a 24/7 basis. It also performs regular operations and preventative maintenance services for the clients that desire a managed care offering. Services include:
+- Solar PV Module Cleaning
+- Periodic site inspection and testing of all installed systems
+Talk to Our Team
+Wondering if solar and renewable energy might be a good fit for your business? Schedule a consultation with Regatta’s team to learn more about the process and how it might benefit your company.
+Schedule a Consultation
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/energy-solutions/energy-storage/
+
+Regatta delivers energy solutions to the commercial/industrial sector clients, and energy storage systems (ESS), i.e. (batteries) have become a strategic technology that addresses various energy application requirements. This broad technology base includes batteries, electrochemical capacitors, flywheels, power electronics, control systems, and software tools for storage optimization and sizing.
+1
+A simple but powerful dashboard.
+2
+Arrays of inline systems allow expansion to fit your needs.
+3
+Reliable and Clean. Efficient generators ensure smooth operation.
+Talk to Our Team
+Curious about battery storage solutions and wondering if your facility a good fit? Schedule a consultation with Regatta’s team to learn more about options and how ESS might benefit your company.
+Schedule a Consultation
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/energy-solutions/cogeneration/
+
+Throughout Regatta Solutions’ history, we have commissioned more Combined Heat and Power (CHP) projects than any other company in California. That’s a bold statement to make, but our results speak for themselves. Regatta Solutions has a 13-year track record for being the #1 company to commission over 60 successful CHP clients and experience with hundreds of successful CHP systems throughout California, Washington, Oregon, and Nevada. Cogeneration has a wide range of applications. In one application, Regatta helped a resort in Palm Springs leverage cogeneration to chill the facility, while heating water for pools and hot tubs.
+Things to Think About When Considering CHP
+While our company has performed numerous turnkey projects when requested by our clients, we often supply products and solutions to
+the energy developer community for installation by third parties. With all that experience, we’ve learned a few things about successful
+projects. Here are some do’s and don’ts for any client looking to embark on a distributed generation journey.
+Choose an Experienced Developer
+Does your developer have experience delivering successful CHP projects? Installing successful technical projects requires more than just financing experience or knowing how to put a financial model in place. Many energy project developers are focused on selling a concept and severely lack the practical knowledge required to implement projects. Imagine uncovering a high hidden cost very late in the process because the developer was unaware of a requirement or consider that some developers might assemble teams with the right engineering disciplines. Still, nevertheless, these teams have never had the practical experience of engineering, installing, and commissioning a CHP system. In the last thirteen years, having been engaged in project remediation work, the Regatta team has seen some unfathomable things, from improperly sized electrical panels to expensive and unnecessary copper pool water piping. Don’t be a guinea pig for a developer! Make sure your vetting process is rigorous. Visit the developer’s past project sites and validate their customers’ experiences. Don’t make a decision based on a spreadsheet!
+Consider the whole solution, not just the Prime Mover
+When deciding on a CHP solution, we suggest that instead of focusing on the prime mover, you also consider the components that will make up your system. Additional diligence is required to understand component manufacturers’ value, quality, customer service, warranty, and history of success in CHP systems. The variety of components that make up a CHP solution may include heat exchangers, steam generators, chillers, electrical devices, and of course, the engine or turbine itself. Regatta has seen sites where the prime mover was blamed for performance issues when an ancillary component was failing or improperly sized. The integrity to stand behind a product and admit fault when a failure occurs is of utmost importance, which is why we’ve been high business ethics is a critical criterion in Regatta’s partner relationships. Unfortunately, not all manufacturers operate that way; issues will happen, and you want companies involved who want to be your partner. Having the right partners will help ensure a high degree of reliability once the systems get implemented.
+Don’t just blindly trust a big, expensive engineering firm
+Experience counts. Just because an engineering firm is a big name doesn’t mean they have experience with cogeneration. Specific CHP project experience is a must. We have often seen well-known national engineering firms make costly mistakes for their clients with more hypothetical designs than practical ones. Often, solutions are over-engineered, significantly impacting project costs. Challenge your engineer to look at multiple technologies out there, not just those they are comfortable with, and seek out manufacturers to provide input and conduct a drawing review before their solutions are presented.
+Have you thought about Controls?
+Controls of the CHP solution are often an afterthought; they’re selected last and only considered during commissioning. Our recommendation is to make controls one of your first considerations when designing the CHP solution. Proper sequencing and balancing of energy resources can make or break the value derived from your installation. Also, ask, who else could benefit from appropriate data collection? Often, this helps external sources that may require data to conduct an economic validation and measure greenhouse gases.
+Who will do the maintenance?
+After the project is complete and the developer and general contractor are gone, your only relationship remains with a maintenance organization that will maintain your prime mover and associated equipment. It is also important to adequately consider the maintenance process during design to ensure that the system can be easily maintained throughout its life. Next, what is the value proposition of the maintenance supplier? And how do you know that they have what it takes? We suggest that, at a minimum, you ask about licensed and qualified personnel, parts inventories, history of customer satisfaction, and average fleet uptime. What else have they done or can they do to maximize system uptime? At Regatta, we’ve added controls to our system to allow them to call home and report faults when they occur. We can either make a fix remotely or make sure that the service technician is prepared with the right parts before he even heads to the site for a diagnostic. What will your maintenance provider do when something breaks?
+Regatta, Industry Leader
+Regatta Solutions is a recognized combined heat, cooling, and power, energy developer. As recently as 2019, Regatta Solution was recognized as a contributor to The California Energy Commission’s Energy Research and Development Division report on “A Comprehensive Assessment of Small Combined Heat and Power Technical and Market Potential in California.” At the time of the writing, 662 MW of CHP systems less than 5 MW currently installed in California; Industrial CHP applications represent 75% of California’s current installed capacity. However, industrial facilities only represent 25% of the 662 MW of installed capacity for CHP applications smaller than 5 MW. Regatta estimates that its project activity over the past 12 years has contributed to 30% of the commercial, industrial install CHP install capacity in California. That’s significant!
+Talk to Our Team
+Don’t be afraid to investigate CHP as an option for distributed generation. Just make sure you’re as informed as possible about your options and the value your contractor or developer brings to the table. Regatta Solutions can provide you with a quick assessment to evaluate if your enterprise is a candidate for a CHP installation. Schedule a consultation with our team.
+Schedule a Consultation
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/energy-solutions/ev-charging/
+
+Regatta offers complete solutions for the electric vehicle marketplace that combines knowledge of implementing microgrid solutions for commercial and industrial clients. Regatta provides services for:
+- Commercial Enterprises
+- EV Original Equipment Manufactures
+- Fleet Operators
+How Does Regatta Help?
+Regatta offers complete solutions for the electric vehicle marketplace that combines knowledge of implementing microgrid solutions for commercial and industrial clients. Regatta provides services for:
+- We help our clients with determining which is the best application of the technology available
+- Focused on Mid-Market Clients who are cost-conscious
+- EV charging Evaluation/Study
+- EV Charging Selection & Systems Configuration
+- Economic modeling
+- Incentive Bundling
+- Procure, Engineer and Implement – Turn-Key Solution
+- Support on Incentive Collection (Federal, State, and Local
+- Post Sales Maintenance
+Benefits of Regatta Solutions
+- Aesthetically pleasing design
+- Reduced energy cost (high efficiency)
+- Reduced cost of installation (small footprint)
+- Easy upgrades
+- Effortless charging experience
+- Minimal maintenance
+- Maximum uptime
+- Environmentally safe (water-based liquid cooling)
+- Manufacturer’s Warranty
+- Post Sales Maintenance
+Custom Designed for Your Facility
+- System designed to minimize loss
+- High voltage transfer management via a DC bus
+- Proven cooling process to ensure longevity and high levels of efficiency
+- Designed to minimize cable sizing for cost efficiency
+Talk to Our Team
+Interested in EV Chargers? Schedule a consultation with Regatta’s team to learn
+more about available electric vehicle solutions.
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/energy-solutions/fuel-cells/
+
+Fuel cell systems are a clean, efficient, reliable, and quiet source of power. Fuel cells do not need to be periodically recharged like batteries but instead continue to produce electricity as long as a fuel source is provided.
+Fuel Cell Features
+When you are looking for continuous power day and night for your enterprise, consider a Fuel Cell.
+- A flexible platform that scales with you as you navigate the energy transition.
+- Delivers 24/7 onsite power
+- Converts natural gas, biogas, and/or hydrogen into electricity without combustion
+- World leading efficiency
+- Mission critical reliability and resiliency
+- Low or no CO2, and virtually zero NOx, SO2, and particulate matter
+- Predictive maintenance without downtime
+- Exempt from Departing Load and Utility Standby Charges
+- 24/7 remote monitoring
+How Does Regatta Help?
+- Analyzing the client’s current energy usage and energy cost through Agave®.
+- Develop projected models for future energy usage requirements.
+- Sizing of the system
+- Financial modeling then takes place providing clients with economic impact analysis of the developed solution.
+- Build site and secure public agency permitting and interconnection approvals.
+- Deliver financing options from power purchase agreements that include equity, tax equity, debt, origination, and structuring of grants and incentives and traditional sales leaseback.
+- Secure available energy incentives form Federal, State and local agencies.
+- Owners’ representative to support ensure manufacture provides excellent service and warranty service support
+What is a fuel cell and how does it work?
+Talk to Our Team
+Interested in learning more fuel cell systems? Schedule a consultation with
+Regatta’s team to learn if this might be a fit for your business.
+Learn About Additional Energy Solutions
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/energy-consulting/
+
+At Regatta Solutions, we believe that demand management is as important as supply management. How much power are you using? Where are you using energy? Has that changed from year to year? Where should you start saving first? How much can you save? Regatta knows it is challenging to manage utility costs. There is so much data, so many utility programs, and many companies selling new technology. How does all of that fit together? Regatta Solutions provides Benchmarking, Audits, and Retro-commissioning to help you understand what you are using and when.
+What We Do
+- ENERGY ASSESSMENT OF BUILDINGS
+- ENERGY PROCESS MANAGEMENT
+- ENERGY BUILDING BENCHMARKING
+- DEMAND CHARGE MITIGATION STRATEGIES
+- PROCUREMENT & CONTRACTING SUPPORT
+- LOCAL & STATE ENERGY COMPLIANCE
+- ENERGY MANAGEMENT SUPPORT
+ENERGY ASSESSMENT OF BUILDINGS
+Through the Agave® service, we collect information on your energy usage trends and subsequent tariff impacts. We blend that against the existing energy-consuming equipment in the facility to understand overall energy patterns. Through the Agave® analytics, we provide clients with a comprehensive analysis of energy efficiency options, including multiple mechanical, lighting, and opportunity to implement distributed generation systems that provide greater resiliency for the enterprise.
+ENERGY PROCESS MANAGEMENT
+Using Agave®, we work with clients to develop best in a class process to manage their energy usage and cost. Today’s energy management best practice establishes that energy audits need to incorporate the dynamic aspects of energy usage and consistent changes in utility tariffs. The often-overlooked item is that there are significant non-energy benefits from evaluating an enterprise’s energy usage and cost. Regatta helps clients implement measurement and targeting, measurement, and verification systems that deliver big data analytics and critical business intelligence for enterprises to optimize energy usage and get higher returns on their energy improvement and energy system investments.
+ENERGY BUILDING BENCHMARKING
+Regatta’s benchmarking engagement measures energy performance of a single facility over time, relative to other similar buildings, or modeled simulations of a reference building built to a specific standard (such as an energy code). Benchmarking is helpful as it facilitates energy accounting, comparing a facility’s energy use to similar facilities to assess opportunities for improvement, and quantifying/verifying energy savings. Commercial building energy performance benchmarking is a foundational element of an organization’s energy management strategy because you can’t manage what you don’t measure.
+DEMAND CHARGE MITIGATION STRATEGIES
+Regatta works with its clients on developing demand charge mitigation strategies through the use of the Agave® Analytics Suite. A recent client has saved over $150,000 in annual demand charges by creating a new start-up optimization process to avoid demand charges during opening manufacturing shift changes.
+PROCUREMENT & CONTRACTING SUPPORT
+Regatta can provide owner representation on energy solution projects, strategic project planning, feasibility studies, transaction review, request for proposal review, constructability review, and general project consultation/coaching.
+LOCAL & STATE ENERGY COMPLIANCE
+Regatta helps clients comply with local and state energy efficiency compliance programs, including LA EBEEWE, Energy and Water Building Performance Programs, and others.
+ENERGY MANAGEMENT SUPPORT
+Regatta Solutions can help your staff with:
+- Periodic Reviews – Regatta Solutions can provide a wide range of ongoing services, from “full service” daily management to semi-annual or annual utility “check-ups.” The level and frequency of Regatta involvement that we recommend is a function of client preference, the variety and complexity of utility accounts, and the number of utility expenditures.
+- Strategic Planning – Regatta Solutions can provide a strategic plan that prioritizes key initiatives to optimize energy usage and reduce costs. We can assist with the implementation of the program, and subsequent M&V of results, at whatever level of involvement that clients choose.
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/energy-news/
+
+Join the Agave® team on June 15th to learn how our energy management service helps you manage your energy costs and more. Agave® is a…
+Energy News
+Keep yourself up-to-date
+Microgrid-Chino Valley Ranchers Achieves Net Zero!
+Regatta Solution is proud to announce the Chino Valley Ranchers Microgrid System!
+Read more about Microgrid-Chino Valley Ranchers Achieves Net Zero!
+Pasadena Installs Nation’s Largest EV Public Fast-Charging Station
+Regatta Solutions is proud to be supporting Tritium and the City of Pasadena with their transportation electrification strategy! https://www.linkedin.com/feed/update/urn:li:activity:6889261009828241408/
+Read more about Pasadena Installs Nation’s Largest EV Public Fast-Charging Station
+Please take advantage of low-cost solar/storage before it’s too late!
+If your company is interested in solar PV, energy storage, microgrid integration, along with locking in the current NEM-2 regime for the next 20 years, get in touch with us.
+Read more about Please take advantage of low-cost solar/storage before it’s too late!
+At Regatta Solutions, the mission is to deliver smart solutions that enable success for a cleaner tomorrow.
+If you are serious about sustainability for your company, let us help you create the initiatives to execute a strategy to make them real.
+San Jacinto High School’s Microgrid project
+The Southern California Edison (SCE) virtual ribbon-cutting ceremony for San Jacinto High School’s Microgrid project.
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/contact-us/
+
+Please enable Javascript in your browser.
+Toll Free: +1 (877) 639-9922
+Online: Contact Us Here
+Regatta Solutions
+View Map
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/agave-webinar/
+
+Join the Agave® team on June 15th to learn how our energy management service helps you manage your energy costs and more. Agave® is a comprehensive energy management service tool that provides a collaborative platform to execute best practice energy management within your enterprise. Clients are generating 100% ROI within the first month of using Agave®. We allow our clients to track/audit utility usage and cost on a real-time basis to reduce energy costs. We track potential renewable energy credits and optimize solar PV and cogeneration systems to ensure that infrastructure investments pay off. We also help track enterprise greenhouse gas generation/reduction to assist with client ESG compliance requirements. KPI and custom-tailored alerts help present management with the opportunity to make timely operational decisions that optimize energy usage. Help yourself control the uncontrollable ” energy costs” and become empowered – deploy Agave®.
+To Register visit: https://us02web.zoom.us/webinar/register/WN_onkdeEiDTnW99wKBTLBAtg
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/category/uncategorized/
+
+Join the Agave® team on June 15th to learn how our energy management service helps you manage your energy costs and more. Agave® is a…
+Energy News
+Keep yourself up-to-date
+Category: Uncategorized
+San Jacinto High School’s Microgrid project
+The Southern California Edison (SCE) virtual ribbon-cutting ceremony for San Jacinto High School’s Microgrid project.
+A Message From Our CTO, Mark Gilbreth: Utility Rate Changes
+A Message From Our CTO, Mark Gilbreth, on the June 2020 Utility Rate Changes.
+Read more about A Message From Our CTO, Mark Gilbreth: Utility Rate Changes
+For the first time since the coronavirus crisis began, businesses within our client community are getting back to work.
+EVENT INVITE: Driving Sales Performance in Energy Project Development
+Looking to expand your energy services solutions and business opportunities? Increase your sales performance in energy development by becoming a partner with Agave® Systems. Microgrids…
+Read more about EVENT INVITE: Driving Sales Performance in Energy Project Development
+Forester Media: Distributed Energy Guest Blog Post
+CEO and Founder of Agave® Systems, Steven Acevedo, discusses Empowering Mid-Market Business: Considerations for Implementing a Commercial Microgrid. Check it out here.
+Read more about Forester Media: Distributed Energy Guest Blog Post
+Nicholas H. Guy Acevedo Memorial Golf Tournament March 22, 2019
+Regatta Solutions, Inc. invites you to play to make a difference. Regatta Solutions, Inc. is proud to be a sponsor of an event that…
+Read more about Nicholas H. Guy Acevedo Memorial Golf Tournament March 22, 2019
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/chino-valley-ranchers-microgrid-system/
+
+The 1 MW of combined Solar PV Carport and Roof mount systems are now up and running and add a vital component to Chino Valley Ranchers’ distributed generation strategy. The addition of renewable technology demonstrates Chino Valley Ranchers’ dedication to clean energy and sustainable practices. Chris Nichols, Senior VP, noted that “Regatta has earned our trust! The project execution was smooth, with little to no disruption to our operation. We consider Regatta & Agave® valued team members we depend on.”
+Chino Valley Farms first engaged Regatta to design and deploy three cogeneration systems throughout their facility three years ago. The system generates roughly 1 MW of electric production. These systems provide hot water for sanitation applications to enable their egg processing business. These systems are controlled by the Agave® Microgrid Controller that optimizes generation dispatch and delivers lights out control. Agave® Analytics provides measurement, verification, and financial reporting. The result is a system that generates 5.5GWh for 100% of their energy consumption and makes the site Net-Zero. The microgrid project provides quick ROIs and saves Chino Valley Ranchers over $650,000 per year.
+It’s a joy to work with innovative clients that blend distributed generation technology to drive high resiliency, demonstrate sustainability, and spend smart to optimize their bottom-line, says Steven Acevedo, CEO and Founder of Regatta Solutions and Agave®.
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/category/news/
+
+Microgrid-Chino Valley Ranchers Achieves Net Zero!
+Regatta Solution is proud to announce the Chino Valley Ranchers Microgrid System!
+Read more about Microgrid-Chino Valley Ranchers Achieves Net Zero!
+Keep yourself up-to-date
+Microgrid-Chino Valley Ranchers Achieves Net Zero!
+Regatta Solution is proud to announce the Chino Valley Ranchers Microgrid System!
+Read more about Microgrid-Chino Valley Ranchers Achieves Net Zero!
+Pasadena Installs Nation’s Largest EV Public Fast-Charging Station
+Regatta Solutions is proud to be supporting Tritium and the City of Pasadena with their transportation electrification strategy! https://www.linkedin.com/feed/update/urn:li:activity:6889261009828241408/
+Read more about Pasadena Installs Nation’s Largest EV Public Fast-Charging Station
+At Regatta Solutions, the mission is to deliver smart solutions that enable success for a cleaner tomorrow.
+If you are serious about sustainability for your company, let us help you create the initiatives to execute a strategy to make them real.
+Regatta Solutions is proud to be sponsors of an event that brings attention and discussion to the subject of depression and the consequence of suicide.
+Agave Systems sponsoring 6th Annual HOMER International Microgrid Conference and Exhibition
+Microgrids and the Transition to Distributed Energy October 8–10th, 2018 Join us! Agave Systems will be a sponsor of the 6th Annual HOMER International Microgrid…
+Regatta Solutions in attendance at the 2018 USC Annual Viterbi Awards.
+Since its first incarnation in 1978, the Viterbi Awards has been a significant annual event for the School. It has become USC’s forum for recognizing…
+Read more about Regatta Solutions in attendance at the 2018 USC Annual Viterbi Awards.
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/pasadena-installs-nations-largest-ev-public-fast-charging-station/
+
+Regatta Solutions is proud to be supporting Tritium and the City of Pasadena with their transportation electrification strategy! https://www.linkedin.com/feed/update/urn:li:activity:6889261009828241408/
+Pasadena Installs Nation’s Largest EV Public Fast-Charging Station
+Regatta Solutions is proud to be supporting Tritium and the City of Pasadena with their transportation electrification strategy! https://www.linkedin.com/feed/update/urn:li:activity:6889261009828241408/
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/please-take-advantage-of-low-cost-solar-storage-before-its-too-late/
+
+If your company is interested in solar PV, energy storage, microgrid integration, along with locking in the current NEM-2 regime for the next 20 years, get in touch with us.
+NEM3 could be devastating to California’s renewable industry given the impact of the new proposal by California’s three major investor-owned utilities (“IOUs”) PG&E, SCE, and SDG&E to change California’s Net-Energy Metering (“NEM”) program with an expected decision by November 2021.
+Background
+In late 2013 Governor Brown signed into law AB327, which codified Net Metering providing owners of solar systems the opportunity to receive total retail value for NEM credits. In early January of 2016, the California Public Utilities Commission (“CPUC”) established a process for how the NEM program would get reduced from the then existing retail billing credit program (“NEM-1”) to a lower value credit program (“NEM-2”) to be set by the CPUC. July 1, 2017, was the start date, or when an IOU reaches its NEM Cap of 5% of its aggregate customer peak demand. Eligible customers would become grandfathered into the NEM-1 program for 20-years. The outcome of NEM-2 provided owners with a one-time interconnection fee depending on system size and reduction of all NEM credits by non-bypassable charges ($0.02/kWh on average).
+Impact
+NEM-3 seeks to devalue NEM credits further and impose fixed charges for new solar owners. See IOUs Proposal for NEM3. The impact will shift simple payback on solar projects from a 3-year average to 11-years and Solar & Energy Storage from 4-years to 10 Years.
+Action to Take
+Regatta Solutions® is available to assist your firm with sizing, engineering design deliverables necessary to apply for interconnection with your utility. Get grandfathered into NEM2 before it’s too late!!! Contact us at sales@regattasp.com for more information.
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/category/california/
+
+Please take advantage of low-cost solar/storage before it’s too late!
+If your company is interested in solar PV, energy storage, microgrid integration, along with locking in the current NEM-2 regime for the next 20 years, get in touch with us.
+Read more about Please take advantage of low-cost solar/storage before it’s too late!
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/a-cleaner-tomorrow/
+
+Learn about our Mission! “ A Cleaner Tomorrow”
+We are not just a solar company….Founded in 2009, Regatta Solutions is a full-service energy solutions provider. Regatta Solutions provides cost-effective, environmentally friendly energy solutions for prime power, secure power, peak shaving, and stand-by energy requirements. Technology and project experience include: Solar PV, Energy Storage, Combined Heat & Power, Advanced Chilling Solutions, Building Management Control Systems, and EV Charging Systems.
+Superb after-market service is also available providing clients with high availability, asset investment protection, and central plant facility maintenance. Using its combined experience in energy supply and demand management, Regatta works with its clients to develop microgrid solutions that create grid independence with high resiliency. Markets served to include schools and colleges, oil and gas, data centers, hospitality, manufacturing, healthcare, food and beverage production, property management, landfills, digesters, waste-water treatment, and utilities.
+MISSION
+At Regatta Solutions, the mission is to deliver smart solutions that enable success for a cleaner tomorrow as Regatta optimizes technology investments, mitigate operation risk, and position its clients for growth.
+ENGINEERING
+Regatta’s expertise in developing distributed generation projects is recognized throughout the West Coast particularly in the discipline of Microgrid Projects California. These experiences demonstrate the competitive edge brought by Regatta to the marketplace that helps its clients engineer innovative successful energy projects allowing disparate generation technologies to work together. The skilled engineering knowledge to understand how to implement Solar PV, Energy Storage, Combined Heat and has been a difference-maker in Regatta’s engagements with its clients. Considering that most competitors come from a solar background and take a commodity approach to develop an energy project. Regatta’s consultative approach enables value engineering that delivers proven best practices and a welcomed agonistic approach to implementing the right type of distributed generation technology for a client’s needs. Optimizing the implementation of distributed generation technologies into microgrids; solar; energy storage systems; combined heat, cooling and power (CHP, CHCP); and fuel cells is Regatta’s goal. All these technologies have a place. Regatta focuses on right-sizing the design for energy consumption, production, and capital expenditures to generate the highest returns for its clients
+IMPLEMENTATION
+Regatta has developed and commissioned over 50MW of distributed generation projects over the last 12 years in business. These projects range from Microgrid integration of CHP, Solar, and Energy storage to Offshore Distributed Generation, Biogas CHP, Oil and Gas Stranded Gas Flaring Elimination, Multi-MW Solar Tracking Projects, Central Plant Equipment Retrofitting and Recommissioning, and Building Management Control Systems.
+CONSTRUCTION
+Regatta’s construction business Regatta Development is a California Licensed General Contractor #974377. It is a California OSHPD proven builder and manages its best of class partners to value manage its energy projects. Regatta’s supply chain management processes optimize its projects for quality, cost and on-time delivery. It is known for eliminating the change order which goes a long way when working with governmental, municipalities, universities, healthcare and utilities.
+MICROGRID
+Regatta integrates distributed technologies with systems developed at its subsidiary Agave® Systems. The analytics cloud-based system along with the on-premise Evolution™ microgrid-control system offers an enterprise a complete energy management system that integrates demand and supply-side components. The Evolution™ platform development has benefited from real value add experiences of over 100 commercial and industrial clients who have implemented distributed generation projects to optimize their energy spend. The solution brings real-time utility rate data together with real-time energy usage to provide key metrics, trends, and notifications for a client to track the ROI and performance optimization of the technologies deployed. This solution provides Regatta clients with insightful tools that enable and empower decisions that reduce energy usage and cost.
+Additional information- www.agavesi.com
+OPERATIONS AND MAINTENANCE
+Regatta monitors the performance of every system it installs on a 24/7 basis. It also performs regular operations and preventative maintenance services for the clients that desire a managed care offering.
+FINANCING
+Regatta’s established financing partners provide the full range of financing options for energy conservation projects. From equity, tax equity, debt, origination, and structuring of grants and incentives and traditional sales leaseback. The Regatta team works closely with the client to ensure that all possible incentives are being utilized.
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/world-earth-day-2021/
+
+Happy Earth Day! It’s a great day to feature one of our clients, FDS Manufacturing, a prominent west coast manufacturer of industrial and agricultural packaging that drives sustainability in everything they do. From reusing recyclable plastics and paper to delivering recyclable packaging, their engineering innovation has made them a leader in the eco-packaging space. The Regata Solutions® team is proud to enable FDS with measuring, analytics, verification, and controls to continually improve their energy usage and cost. Regatta Solutions® implemented the Agave® suite of energy management solutions. Agave® Evolution™ microgrid controller allows their system to perform at optimum levels, drive lower electricity costs, and contribute to greenhouse gas reductions. Agave® Analytics is used to track both the energy cost and usage performance of their distributed generation system. Agave® delivers real-time business intelligence that provides a proven bottom-line process to manage the economic & energy efficiency of their system successfully. If you are serious about sustainability for your company, let us help you create the initiatives to execute a strategy to make them real. Contact sales@regattasp.com or visit regattasp.com for more information.
+World Earth Day 2021
+If you are serious about sustainability for your company, let us help you create the initiatives to execute a strategy to make them real.
+
+--------------------------------------------------------------------------------
+
+URL: https://regattasp.com/san-jacinto-high-schools-microgrid-project/
+
+Covid19? No stopping the Southern California Edison (SCE) virtual ribbon-cutting ceremony yesterday for San Jacinto High School’s Microgrid project. Agave® Systems is proud to be involved in this community project to provide resiliency to the campus and Red Cross Evacuation Center. Thanks to our partners especially world-class energy consultant WilldanPatrick BurgessTesla and Southern California Edison (SCE)
+Learn more: https://lnkd.in/gEHabGU
+
+--------------------------------------------------------------------------------

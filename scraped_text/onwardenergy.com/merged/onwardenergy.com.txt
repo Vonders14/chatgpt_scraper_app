@@ -1,0 +1,418 @@
+ROOT: https://onwardenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:24:04.575513Z
+PAGES_INCLUDED: 13
+
+================================================================================
+
+URL: https://onwardenergy.com/
+
+top of page
+We Are
+Onward Energy
+Onward aspires to create a workplace environment that mirrors the fabric of the communities where we work and live and that supports employees in their efforts to contribute at the highest level and reach their potential.
+We are committed to ensuring all employees feel empowered, valued and supported.
+57
+Fifty-seven wind, solar, and natural gas generation projects.
+22
+Twenty-two states.
+1
+One ideally situated company to address the U.S. energy market’s transition to lower carbon.
+| Membership Organizations
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.onwardenergy.com/leadership-and-careers
+
+Onward Energy Leadership
+and Board of Directors
+| The energy transition is on.
+We are Onward Energy.
+As North America’s premier independent power generator, we’re using our deep expertise and proven platform to power the transition to a low-carbon world. Owned by millions of working families, we’re committed to providing sustainable returns at the same time we find solutions to a more sustainable planet. Here are a few of the people who are leading the change.
+Leadership
+Steve Berberich
+President and
+Chief Executive Officer
+• President and CEO, Onward Energy
+• Former President and Chief Executive Officer, Jamaica Public Service
+• Former President and Chief Executive Officer, California Independent System Operator
+Lisa Darnell
+SVP and Chief Information Officer
+• Responsible for technology and cybersecurity
+• 25 years of experience in technology and corporate performance improvement
+• BBA in Management Information Systems from Texas A&M University
+Jessica Stanley
+VP, Controller
+Rick Greene
+Chief Administrative Officer
+• Responsible for Onward’s People strategies and corporate facilities
+• 33 years of executive roles at Heidrick & Struggles, Bunge, Deloitte, and Accenture
+• BA in History and MBA from George Washington University
+Dave Hancock
+SVP & Chief Investment Officer
+• Responsible for M&A, business development and financing
+• 15+ years of experience including Bank of America, Merrill Lynch, AIG Investments and FirstLight Financial Corporation
+• Bachelor of Commerce (Rand Afrikaans University), MBA (University of Connecticut)
+Omid Alemi
+VP of Mergers and Acquistions
+-
+Responsible for Onward’s M&A activities
+15+ years of experience, including 8+ years in M&A and project finance in the U.S. power sector at Excelsior Energy Capital, Onward Energy, and Southwest Generation
+BS in Chemical Engineering from the University of Tehran and MBA from the University of Colorado, Boulder
+Diana Danielyan
+VP of Finance
+-
+Responsible for overseeing financial planning, budgeting, forecasting, performance analysis and reporting functions across the organization
+-
+Over 17 years in energy and power experience at Cogentrix Energy, Novatus Energy, and Forefront Power
+-
+BSBA, Finance and MIS (Lemoyne College); MBA (Queens University)
+Angie McCarroll
+VP, General Counsel, Corporate Secretary
+• Responsible for legal, compliance, safety, and document management
+• 20+ years of legal, compliance, and IT experience including Onward Energy, Southwest Generation, and Covance Clinical-Biotech
+• BS in Computer Information Systems (Colorado Christian University), JD (University of Denver), Licensed to practice law in Colorado
+Chris Riker
+SVP of Operations
+• Responsible for operations of Thermal, Wind, and Solar fleets as well as the Remote Operations Center and Performance Engineering
+• BS from Florida State University and MBA from University of North Carolina
+Rob Witwer
+SVP & Chief Legal Officer
+• General Counsel and Senior Vice President for Regulatory Affairs
+• 10+ years in the industry, 25 years practicing corporate law at Hogan & Hartson LLP, Molson Coors Brewing Company and Southwest Generation; served in the Colorado House of Representatives from 2005-2009
+• BA (Amherst College), JD (University of Chicago Law School)
+Jeffrey Spurgeon
+VP of Commercial
+• Responsible for asset management and value optimization of the Onward generation fleet.
+• 15+ years of experience in asset management and finance at several independent power producers including Cogentrix, AES and CPV.
+• BS Finance (Virginia Tech), MBA (Mississippi State)
+Pat Welch
+Chief Financial Officer
+• Responsible for all financial affairs of the Company
+• Over 34 years of energy and power experience, including CFO roles for the past 18 years at Atlantic Power, JP Energy Partners and Jonah Energy
+• BS BusinessAdministration from the University of Central Oklahoma and a Certified Public Accountant
+Ryan Keefe
+VP of Asset Management
+-
+Responsible for Asset Management team
+-
+24 years' experience in plant construction, start-up, Plant Management and Asset Management
+-
+Mesa State University, Grand Junction, Colorado, AS Electronics Technology, Humphreys College, Stockton, California, BS Business Management
+Amit Mahajan
+VP of Quantitative Analytics
+• Responsible for Commercial Analytics and Valuations.
+• 25 years in the field of Energy Markets at Honeywell, Conectiv, PPL and Cogentrix
+• MS, Information Systems (New Jersey Institute Of Technology). BS,Chemical Engineering (Panjab University, India)
+Adam Heath
+VP of Capital Markets
+• Responsible for managing Onward’s corporate and project financing activities
+• 17+ years of experience in energy and infrastructure finance at Caithness Energy, RBC Capital Markets, and WestLB AG
+• BSBA, Finance & Accounting (Northeastern University)
+Board of Directors
+Barry Welch
+Chairman of the Board
+• From 2004 to 2014, Mr. Welch served as the CEO of Atlantic Power Corporation (NYSE: AT), and also served on their Board of Directors from 2006 to 2014.
+• From 2001 to 2004, Mr. Welch served as the Senior Vice President, Head of the Bond and Corporate Finance Group at John Hancock.
+Steve Berberich
+President and Chief Executive Officer
+• President and CEO, Onward Energy
+• Former President and Chief Executive Officer, Jamaica Public Service
+• Former President and Chief Executive Officer, California Independent System Operator
+John Chillemi
+Independent Board Member
+• President of NRG West Region 2008 – 2018: Managed NRG’s West Region with a diverse generation portfolio
+• EVP of NRG Business Development 2015 – 2018: Led all aspects of NRG’s national business development strategy including the successful completion of over 2,300 MW of new generation capacity in multiple markets
+• Served on multiple energy related boards including NRG Yield, inc., GenOn Energy, Inc., and Ice Energy
+Anne Cleary
+Independent Board Member
+• Ms. Cleary is a senior executive with over 30 years of extensive management and technical experience, providing leadership throughout major business events.
+• Ms. Cleary is involved in all aspects of the energy transition. She has led all aspects of the integration of two Fortune 500 company M&A transactions, successfully developed numerous power facilities and served as the business unit president for over 6,000 MW of fossil generation.
+Frances Resheske
+Independent Board Member
+• Ms. Resheske has over 23 years in energy with roles at Con Edison including as Senior Vice President, Corporate Affairs with responsibilities ranging from regulatory, government, community relations, communications, marketing and philanthropy.
+• A recognized industry and community leader, Frances is a Board member of the Alfred Smith Foundation, Association for a Better New York, New York State League of Conservation Voters Education Fund and OurEnergy Policy Group.
+Preston Scherer
+Executive Director, Infrastructure Investments Group at J.P. Morgan
+• Mr. Scherer is responsible for sourcing, executing, and managing investments in utility, power, and other infrastructure businesses with the Infrastructure Investments Group at J.P. Morgan.
+• Prior to joining J.P. Morgan in 2016, Preston worked at KeyBanc Capital Markets in the Utilities, Power & Renewable Energy investment banking group.
+Holli Ladhani
+Independent Board Member
+-
+Ms. Ladhani is a seasoned executive and board director with deep experience in the energy, chemicals, power, and infrastructure sectors. She most recently served as President, CEO, and board member of Select Energy Services, and previously as Chairman and CEO of Rockwater Energy Solutions, where she also held roles including CFO. Earlier, she was EVP and CFO of Dynegy Inc. and began her career at PricewaterhouseCoopers.
+-
+She currently serves on the boards of Quanta Services, Amrize Ltd., Kayne Anderson Energy Infrastructure Fund, and AmSpec, and is a Trustee of Rice University. Her past board roles include Marathon Oil, Atlantic Power, Noble Energy, and Rosetta Resources. Ms. Ladhani holds a BBA in Accounting from Baylor University and an MBA from Rice University.
+Investors
+Onward Energy is majority-owned by institutional investors advised by JPMAM, who collectively represent the retirement monies of over 40 million families worldwide.
+Current Opportunities
+| Our power is in our People.
+Onward Energy associates turn challenges into opportunities. If you’d like to perform meaningful work and learn in an environment that values your personal and professional development and incorporates diversity and inclusion as a business imperative, please review our current open.
+Want to take your career onward and upward? Please review our open positions if you’re ready to embark on a career path with a forward-thinking organization committed to a more sustainable environment. We are an Affirmative Action/Equal Opportunity Employer.
+The power of perspective.
+Onward Energy is committed to diversity, equity, and inclusion. Diversity of backgrounds, skill set, perspectives, knowledge and ideas are keys to organizational growth and evolution. We offer a culture that values your perspective—and all perspectives.
+Onward Energy is an Equal Opportunity Employer.
+If you’d like more information about your EEO rights, please visit the following:
+
+--------------------------------------------------------------------------------
+
+URL: https://www.onwardenergy.com/
+
+top of page
+We Are
+Onward Energy
+Onward aspires to create a workplace environment that mirrors the fabric of the communities where we work and live and that supports employees in their efforts to contribute at the highest level and reach their potential.
+We are committed to ensuring all employees feel empowered, valued and supported.
+57
+Fifty-seven wind, solar, and natural gas generation projects.
+22
+Twenty-two states.
+1
+One ideally situated company to address the U.S. energy market’s transition to lower carbon.
+| Membership Organizations
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.onwardenergy.com/who-we-are
+
+Moving ever onward and upward.
+| Continual Evolution
+As leaders with a long view, we move ever onward and upward. Our commitment to a more sustainable world goes further than investing in renewables or reducing emissions from the power sector. We are constantly evaluating new technologies for commercial applicability, including energy storage, hydrogen, and carbon capture and sequestration – technologies that will help us meet our customers’ needs as we navigate the energy transition.
+Our Vision
+To reliably power a sustainable future
+Our Mission
+As North America’s premier independent power generator, we will deliver renewable and reliable power to our customers, opportunities to our associates, sustainable returns to the families who invest in us, and a better world to the next generation.
+Our Values
+Onward Energy is a People First company that embodies:
+Collaboration
+We engage in open, respectful communication across the organization. We seek to find solutions rather than assign blame. As a team, we arrive at better results through our People First commitment and embracing a diversity of people, perspectives, experiences, and ideas.
+Excellence
+We hold ourselves to high standards in how we do business as well as interact with our customers and communities. We take pride in doing what we say with excellence always in mind. We lead with humility because we recognize that we can always improve.
+Accountability
+We are accountable to each other and are responsible fiduciaries to our shareholders. We are accountable for our actions. We do not cut corners in matters of safety or compliance. Our customers, shareholders, and other stakeholders can count on us to act in an honest and transparent manner.
+Adaptability
+We are flexible and strive for efficiency. We challenge our associates to be innovative, entrepreneurial, and drive change to provide better solutions to our customers.
+The reliability people need.
+The sustainability people want.
+Our projects power both. With an array of zero-carbon renewable resources and reliable natural gas-firming capabilities, we offer a full range of energy solutions to customers seeking to reduce their carbon footprint. Whether wind, solar, or gas, our 6.2-gigawatt North American power platform continuously bridges the energy landscape to bring sustainability to new heights.
+57
+Fifty-seven wind, solar, and natural gas generation projects.
+22
+Twenty-two states.
+1
+One ideally situated company to address the U.S. energy market’s transition to lower carbon.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.onwardenergy.com/community-engagement
+
+Together We Are Powered.
+| Stakeholders
+Our network of relationships is fundamental to our success and our impact. Our customers, communities, regulators, industry and environmental relationships are at the center of what we do. Just like our team, they are committed to an energy transition that is safe, affordable and environmentally sustainable.
+We work with our customers, most often utilities, to achieve their carbon reduction commitments without sacrificing reliability.
+We operate with the highest safety standards and caring citizenship in our local communities.
+We ensure honest and constructive dialogue with our regulators and environmental groups.
+We act with the highest standards in the name of the 40 million families who invest in us.
+We earn and keep the trust of all the financial institutions who support us.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.onwardenergy.com/scholarships
+
+Investing in our Energy Future.
+Being active in our local communities is an important aspect of our company values, and by providing scholarship opportunities, we hope to create a stronger bond with our communities, as well as hopefully incentivize and encourage students in the community to pursue post-high school education (and potentially careers in the energy industry). We strive to be good neighbors and as a result, encourage all of our associates to participate and engage with the communities in which we operate as much as possible.
+To qualify for the scholarship, an applicant must be part of the graduating class of 2026, and in pursuit of post-secondary education, including professional, vocational, and academic studies not limited to colleges and universities. The recipient(s) should be judged on academic/athletic excellence or outstanding community involvement, as well as the quality and content of the submitted short essays. Preference should be given to students who plan on pursuing a career in the energy industry, but is open to all students.
+The deadline for applications is March 13, 2026.
+Scholarship winners will be awarded in mid-spring and awards will range in amounts from $500 - $5000.
+Apply here for Microsoft Forms or here for Google Docs.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.onwardenergy.com/powering-the-energy-transition
+
+Reliability grounds us.
+Renewability elevates us.
+As an owner and operator of wind, solar, and gas-fired generation resources across the U.S., Onward Energy is committed to providing reliable, affordable, and efficient electricity for the energy transition
+Sustainability Objectives
+Environmental:
+-
+Onward has an annual goal of zero environmental violations yearly
+-
+Onward has a goal of continual asset optimization to decrease intensity of resource use, including water, yearly
+Social:
+-
+Onward has a goal of reaching 700 employee volunteer hours in 2026 and 750 employee volunteer hours in 2027
+-
+Onward has a goal to provide at least $150,000 in scholarships to over 40 students in local communities each year
+-
+Onward aims to donate at least $350,000 to charitable organizations each year
+Governance:
+-
+Onward has an annual goal of having 100% of our employees review and sign Onward’s employee handbook, which includes a code of conduct
+-
+Onward has a goal of 100% employee participation in relevant workplace priorities trainings, including NERC, FERC, sexual harassment, ethics and code of business conduct, and ethical use of artificial intelligence
+-
+Onward has a goal of 100% employee participation in cyber security training
+Our ESG Values
+Environmental
+We are committed to reducing our impacts on the environment, natural resources, and local communities.
+Social
+Onward Energy prioritizes providing equal opportunities for all employees and seeks to maximize a culture of inclusive excellence in the workplace.
+Governance
+We are accountable to each other, the communities where we work, and our stakeholders. We are committed to the highest standards of ethical conduct and communicating transparently. Safety and compliance are a top priority at all levels of Onward Energy.
+Creating a Culture of
+Inclusive Excellence
+We are focused on championing and fostering our company culture of inclusive excellence. Our employee engagement survey covers topics related to our employee experience and to measure our efficacy in fostering a positive culture at Onward Energy.
+Inclusive
+Skills Learning
+Through comprehensive training, learning, and mentorship programs, we aim to cultivate a workforce equipped with the skills necessary to promote our inclusive excellence goals.
+Equitable Policies & Procedures
+We have multiple trainings and policies that promote ethics, code of business, transparency, code of conduct, and creating a value-driven workplace to support our employees and to ensure that Onward Energy provides the highest level of service to our customers, neighbors, and stakeholders.
+Diverse Talent
+and Recruitment
+Onward Energy has policies regarding fair practices in hiring and advancement. Through recruitment, retention, training, and learning programs, we aim to cultivate and respect different points of view and experiences in our workplace to strengthen our inclusive excellence goal.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.onwardenergy.com/contact
+
+top of page
+Contact
+Denver, CO
+600 Seventeenth Street, Suite 2400S,
+Denver, Colorado 80202
+(303) 623-7300
+New York, NY
+767 Third Avenue, 17th Floor,
+New York, NY 10017
+(631) 552-5900
+In the News
+bottom of page
+Denver, CO
+600 Seventeenth Street, Suite 2400S,
+Denver, Colorado 80202
+(303) 623-7300
+New York, NY
+767 Third Avenue, 17th Floor,
+New York, NY 10017
+(631) 552-5900
+
+--------------------------------------------------------------------------------
+
+URL: https://www.onwardenergy.com/blog
+
+top of page
+All Posts
+UPDATE: Onward Energy Successfully Closes Acquisition of Griffith Power Plant
+New York, NY: Onward Energy is pleased to announce that it has successfully closed on the acquisition of the Griffith power plant...
+Heather Arcay
+Jan 6, 20252 min read
+Onward Energy Agrees to Acquire Griffith Power Plant
+New York, NY: Onward Energy is pleased to announce that it has signed an agreement to acquire the Griffith power plant (“Griffith”) from...
+Heather Arcay
+Sep 28, 20242 min read
+Steve Berberich Appointed CEO of Onward Energy Following Retirement of CEO Steve Doyon
+Denver, CO: Onward Energy, a leading 6.2 GW independent power producer at the forefront of the energy transition, today announced the...
+Heather Arcay
+Jan 24, 20242 min read
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.onwardenergy.com/_files/ugd/306b48_7f68c16dec9d4417a1346912bced3ece.pdf
+
+Environmental, Social, & Governance Policy 
+ 
+ 
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE POLICY 
+ 
+ 
+Onward Energy recognizes that management of environmental, social and governance 
+(ESG) issues can have a significant impact on the growth and longevity of its business. 
+In developing the following ESG principles, we have considered a range of codes and 
+standards, including EPA, OSHA, our Code of Ethics and Business Conduct, and the 
+input of our Board of Directors and stakeholders. 
+ 
+OUR ESG PRINCIPLES 
+ 
+The Onward Energy team will, to the best of our ability: 
+ 
+- I mplement ESG engagement activities as an integral part of how we do business 
+and recognize that ESG activities are of an ongoing nature. 
+- E ncourage continual improvement in ESG performance at our Company. 
+- C omply with all applicable regulations and ap ply relevant best pra ctices governing 
+operations, the protection of human rights, occupational and public health, and 
+safety, and the environment. 
+- Adhere to the highest standards of ethical conduct to avoid negligent, corrupt 
+business practices or practices involving conflicts of interest. 
+- Identify and assess material ESG risks and opportunities as part of the evaluation of 
+growth opportunities and manage material ES&G risks and opportunities following 
+acquisition including those arising through supply chains, if applicable. 
+- Provide information to stakeholders on the environmental benefits of the provision of 
+clean energy, including tracking and reporting our carbon footprint. 
+- Identify our material stakeholders and potential impacts by the Company, and 
+mitigants of Company’s impact. 
+- Assist associates and relevant contractors, as appropriate, in the identification and 
+management of ESG risks and opportunities and provide appropriate support to do 
+so. 
+- Seek to identify potential impacts on the Company and poss ible mitigants of 
+weather changes resulting from climate change. 
+- Utilize our Scholarship and Community Donations Programs to strengthen bonds 
+with local communities. 
+- Support and encourage our associates to assist in community organizations and 
+activities through Charitable Giving Program and Day of Service initiative. 
+- P rovide for the assignment of, and accountability for, ESG responsibilities to senior 
+managers. 
+- R eview this policy’s effectiveness and implementation on a regular basis, and report 
+relevant findings, progress, and recommendations to our Board; 
+- D istribute ESG policy and related ESG information to all associates. 
+- E nsure appropriate disclosure to, and encourage dialogue on ESG issues with, our 
+Board of Directors, shareholders(s), and other stakeholders as appropriate.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.onwardenergy.com/post/update-onward-energy-successfully-closes-acquisition-of-griffith-power-plant
+
+UPDATE: Onward Energy Successfully Closes Acquisition of Griffith Power Plant
+- Heather Arcay
+- Jan 6, 2025
+- 2 min read
+New York, NY: Onward Energy is pleased to announce that it has successfully closed on the acquisition of the Griffith power plant (“Griffith”) from an affiliate of ArcLight Capital Partners (“ArcLight”). Griffith is an approximately 600 MW combined cycle facility with a co-located 2 MW behind-the-meter solar system located in Golden Valley, Arizona, which was placed in service in 2002 and has a strong track record of excellent operations.
+Steve Berberich, Chief Executive Officer of Onward, said, “We are thrilled to officially welcome Griffith into the Onward Energy portfolio. Griffith is one of the premier gas-fired power plants in the Desert Southwest, and we are excited to continue to serve the people of the area with reliable energy while collaborating with the dedicated employees at Griffith to achieve continued success.”
+Positioned as an efficient asset serving the rapidly expanding Desert Southwest power market, Griffith delivers summer capacity and electricity under a long-term agreement with a regional load-serving entity. The acquisition of Griffith brings Onward Energy’s portfolio of operating thermal and renewable energy generation to over 6.7 GW across the U.S.
+Orrick, Herrington and Sutcliffe LLP served as legal advisor for Onward Energy, and Milbank LLP served as legal advisor for ArcLight.
+For more information about Onward Energy and its growing portfolio, please visit www.OnwardEnergy.com.
+About Onward Energy: Onward Energy is an independent power generator that owns and operates a portfolio of over 6.7 GW of solar, wind, and gas generation projects in the U.S. With 56 projects in 22 states, Onward Energy is a national leader in the clean energy transition, investing in the next generation of reliable, clean technologies that will enable our customers and communities to meet their decarbonization goals faster. More information can be found at www.OnwardEnergy.com.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.onwardenergy.com/post/onward-energy-agrees-to-acquire-griffith-power-plant
+
+Onward Energy Agrees to Acquire Griffith Power Plant
+- Heather Arcay
+- Sep 28, 2024
+- 2 min read
+New York, NY: Onward Energy is pleased to announce that it has signed an agreement to acquire the Griffith power plant (“Griffith”) from an affiliate of ArcLight Capital Partners (“ArcLight”). Griffith is an approximately 600 MW combined cycle facility with a co-located 2 MW behind-the-meter solar system located in Golden Valley, Arizona which was placed in service in 2002 and has a strong track record of excellent operations.
+Steve Berberich, Chief Executive Officer of Onward, said “We are thrilled to announce this important step in the acquisition of Griffith, one of the premier gas-fired power plants in the Desert Southwest. We are excited to continue to serve the people of the area with reliable energy and to collaborate with the dedicated employees at Griffith to achieve continued success.”
+Positioned as an efficient asset serving the rapidly expanding Desert Southwest power market, Griffith delivers summer capacity and electricity under a long-term agreement with a regional load-serving entity. The acquisition of Griffith will bring Onward Energy’s portfolio of operating thermal, and renewable energy generation to over 6.7 GW across the U.S.
+Orrick, Herrington and Sutcliffe LLP served as legal advisor for Onward Energy and Milbank LLP served as legal advisor for ArcLight. The transaction is expected to close in the first quarter of 2025, subject to regulatory approvals and customary closing conditions.
+About Onward Energy: Onward Energy is an independent power generator that owns and operates a portfolio of over 6 GW of solar, wind, and gas generation projects in the U.S. With 56 projects in 22 states, Onward Energy is a national leader in the clean energy transition, investing in the next generation of reliable, clean technologies that will enable our customers and communities to meet their decarbonization goals faster. More information can be found at www.OnwardEnergy.com.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.onwardenergy.com/post/steve-berberich-appointed-ceo-of-onward-energy-following-retirement-of-ceo-steve-doyon
+
+Steve Berberich Appointed CEO of Onward Energy Following Retirement of CEO Steve Doyon
+- Heather Arcay
+- Jan 24, 2024
+- 2 min read
+Denver, CO: Onward Energy, a leading 6.2 GW independent power producer at the forefront of the energy transition, today announced the retirement of its President and CEO Steve Doyon and the appointment of Steve Berberich as its new President and CEO.
+From 2011-2020, Berberich served as President and CEO of the California Independent System Operator (CAISO), where he oversaw a multi-year effort to expand regional operations and decarbonize the grid. Following that, he served as President and CEO of Jamaica Public Service Company Limited. In addition to his service at CAISO and JPS, Berberich has broad experience with domestic and international electrical operations, grid management, and electrical and related commodity markets. Berberich joined the Board of Onward Energy in 2023.
+Berberich will replace Steve Doyon, who has served as President and CEO of Onward Energy since its inception in 2021. Onward Energy was formed through a merger of Novatus Energy (for which Doyon served as the founding CEO) and Southwest Generation. Doyon led the integration of the two companies into a broad-based, diverse, independent power producer with operations in 22 states.
+“Steve Doyon has provided steady leadership to Onward Energy during this period of integration, helping to position Onward as a national leader in the energy transition,” said Barry Welch, Chairman of Onward Energy’s Board of Directors. “On behalf of Onward’s Board, I would like to extend our sincere gratitude to Steve and congratulate him on a well-deserved retirement.”
+“The Board is pleased to announce that Steve Berberich will assume the role of CEO,” said Welch. “As a member of Onward’s Board, Mr. Berberich is ideally suited to lead a seamless transition. His experience leading such diverse and complex organizations as CAISO and JPS provides Onward with a unique perspective on the energy transition.”
+“I’m honored to have the trust of the Board and pleased for this opportunity to lead Onward into the next phase of its history,” said Berberich. “Serving the needs of the energy transition is Onward’s mission. Our motto is “Where Renewable Meets Reliable,” and our best-in-class operators work hard every day to provide reliable electricity to our customers as they strive to meet their decarbonization goals. I am grateful for the leadership of my friend Steve Doyon, and I look forward to picking up where he left off at Onward.”
+“It has been the honor of a lifetime to first start and lead Novatus Energy in 2015, and then subsequently create and lead Onward Energy since its inception in 2021,” said Steve Doyon. “With world-class people and cutting-edge generating assets, Onward sets the standard for a transition to a reliable, resilient, and lower-carbon grid. I congratulate Steve Berberich on his appointment and wish him the best as he assumes leadership of this great organization.”
+About Onward Energy: Onward Energy is an independent power generator that owns and operates a 6.2GW portfolio of solar, wind, and gas generation projects in the U.S. With 55 projects in 22 states, Onward Energy is a national leader in the clean energy transition, investing in the next generation of reliable, clean technologies that will enable our customers and communities to meet their decarbonization goals faster. More information can be found at www.OnwardEnergy.com
+
+--------------------------------------------------------------------------------

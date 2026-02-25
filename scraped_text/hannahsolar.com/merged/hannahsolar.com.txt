@@ -1,0 +1,453 @@
+ROOT: https://hannahsolar.com/
+SCRAPED_AT_UTC: 2026-02-11T20:11:51.736312Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://hannahsolar.com/
+
+211,576
+Total number of solar panels installed
+Let us help you save a lot of money and the environment by putting our experts to work for you. You’ll get a dynamic, tenacious and a steadfast group, driven by purpose, innovation and the desire to develop and build the best, most reliable solar systems we can-utilizing the latest industry technologies and construction techniques.
+Get Started With Solar211,576
+Total number of solar panels installed
+523+
+Total number of projects built
+142,921
+Total equivalent of CO2 emissions reduced
+984,167
+Total equivalent of barrels saved
+11,248
+Total equivalent of homes powered
+85.93 MW
+Installed solar capacity
+Put our experts to work for you. We’re a dynamic, tenacious and a steadfast group, driven by purpose, innovation and the desire to develop and build the best, most reliable solar systems we can—utilizing the latest industry technologies and construction techniques.
+About UsWe recognize that your business is unlike any other and that a solar system is a big investment. That’s exactly why we’ll always look to find the most cost effective, right-sized solution that’ll yield the highest ROI for your business.
+Our Services
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/projects
+
+Featured Project
+Mercedes Benz Stadium
+Hannah Solar was pleased to have custom designed and built over 700kW of solar PV for the Mercedes-Benz Stadium providing functional solar solutions visible to fans enjoying the shade...
+Learn moreFeatured Project
+Hannah Solar was pleased to have custom designed and built over 700kW of solar PV for the Mercedes-Benz Stadium providing functional solar solutions visible to fans enjoying the shade...
+Learn more297.36 kW | Roof Mount
+358 kW | Roof Mount
+730.8 kW | Roof Mount
+12 kW | Roof Mount
+30.1 kW | Roof Mount
+14.4 kW solar, 15.2 kWh storage | Canopy
+223 kW | Roof Mount
+710 kW | Canopy
+1.4MW | Roof Mount
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/services/faqs/
+
+FAQ’s
+Solar Solutions
+How will my solar array work?
+With solar photovoltaic (PV), the sun’s light hits the panels and creates direct current (DC) electricity. Inverters then convert the direct current to alternating currents (AC) which are used to power your home, business, farm, or sold to your local power company.
+What kind of solar array do I need?
+Depending on location, system size, and your energy use, we will install a roof mounted or ground mounted system. Solar systems can be installed on both flat and pitched roofs. If roof space is limited, ground mounted systems can be installed.
+What size system do I need?
+System size is usually determined by available space and budget. We will conduct a free on-site review and analysis of your available roof or land to verify space and shading. Another consideration is your electric bill and the rate or tariff you are on with the utility. Systems can offset a significant portion of your bill. We will analyze your bills to determine the appropriate system size.
+What maintenance is required?
+Solar systems are low maintenance- requiring occasional cleaning (rinsing with a hose a few times a year) to maintain output. Hannah Solar will establish monitoring equipment to ensure ongoing solar production data. If any problems occur, Hannah Solar has a highly trained maintenance staff that will be at your service.
+How durable are solar panels?
+Solar panels are surprisingly strong and durable. They are covered by tempered glass similar to your car windshield. Panels are guaranteed for 25 years or more and designed to withstand all the potential rigors of the environment including snow, strong winds, and typical hail. Solar panels are tested to UL-1703 standards. Panels are mounted on racking systems based on wind load calculations which meet the American Society of Civil Engineering (ASCE) standards.
+Will the system produce power on cloudy days?
+Yes, the system will still generate some electricity, although production will be lower. Generally, the system will produce power from sunrise to sunset, reaching its maximum output between noon and 1 pm.
+How will I know if the system is producing electricity?
+The inverter’s LED screen shows production data. You can compare your actual production to our estimates to ensure your system is on track. Production monitoring can also be accessed online via a simple web-based portal.
+How do I apply for solar incentives in my location?
+Hannah Solar makes filing of incentives paper work easy on you. We complete local, state and federal paper work – all you do is approve, sign, and send.
+What incentives are available?
+In order to drive investment in renewable energy in the US, the federal government established the “Investment Tax Credit” (ITC). The ITC is a 30% Federal tax credit. 30% of the total cost of a solar installation can be credited against your Federal income taxes. Both businesses and individuals can take advantage of this credit.
+Businesses also receive bonus and accelerated depreciation that can save you another 30-35%.
+State incentives are also available. Call us about any Southeastern state for specifics.
+Tennessee Valley Authority (TVA) is currently purchasing solar power and will pay the base rate plus 9 cents per kWh.
+When should I invest in solar?
+Now is the best time to invest in solar based on the technology, low cost, and available incentives. The benefits of using solar power will continue as long as you use electricity to power homes and buildings.
+The available government incentives are intended to reward early adopters of solar. The US is committed to reducing its dependence on dirty fossil fuels. Your investment now in renewable energy is important to our energy future.
+Battery Storage
+Why do I need an energy storage system?
+The number one reason our customers choose to install an energy storage system is to have a reliable backup system in the event of a grid outage. The added benefit to solar + storage is that you can enjoy the benefits of your system year- round and not just when the grid goes down.
+Can I backup my whole home?
+Yes, it is possible to back up your whole home, but it’ll probably take a larger more expensive system to do so. We find that selecting circuits for a partial home backup is a more cost-effective solution.
+Is energy storage clean?
+Yes, energy storage has no direct emissions and helps to cut emissions as it takes more load off traditional generation.
+Does a battery system qualify for renewable energy tax credits?
+Yes, when installed with renewable energy generation such as solar. Storage systems that are set to charge primarily from the grid do not qualify for renewable energy tax credits.
+How much does a battery storage system cost?
+There are several things to consider when pricing a battery storage system such as electrical installation, permitting and design. There might be additional equipment to install such as an inverter or protected loads panel. There are several storage systems available today and each are a little different. Our representatives can work with you to select the right product to achieve your energy goals within your budget. Contact us today!
+Get started with solar today.
+Now is the best time to invest in solar based on the technology, low cost, and available incentives. The benefits of using solar power will continue as long as you use electricity to power homes and buildings.
+Get Started
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/services
+
+“Hannah Solar was very responsive. The project was completed flawlessly. I highly recommend them for any solar installation.”
+Donald Betts | Contec, Inc.
+“The electricians and the panel installers were fantastic on both of my properties. They were very responsive and worked through problems with running wires at my lake home that exceeded my expectations. Can’t say enough about how professional they were.”
+Monty H. | Solar and Battery Customer Dunwoody, GA
+“We were looking to build a relationship with an experienced and reliable turn-key solar integrator to refer to our member public power systems and their customers– we’re confident that we’ve found a trustworthy solar partner to work with in Hannah Solar.”
+John Giles | President and CEO of Electric Cities of Georgia
+“Our overall experience with Hannah Solar was and is Excellent! True professionals committed to high quality, timely work and always willing to explain the work. An incredibly well run organization from all aspects. Really and outstanding business which is customer centered.”
+Solar Customer | Tybee Island, GA
+“The Hannah team really delivered! They installed a high-quality commercial solar system, on time, on budget and with professionalism.”
+Steve Basch | CEO, Shepard
+“Hannah Solar managed the project very well, including some re-design midway due to panel changes and the ability to gain kWh for more production. The communication was great throughout the project and installation. We are very satisfied.”
+Van Houston | Sargent Metal
+“I honestly can’t think of a thing you could do better than you are doing now. Your suppliers might be able to improve, but that is nothing to do with you since solar is currently booming. When products and services become popular, supply cannot always keep up with demand.”
+Mark M. | Solar and Battery Customer Dunwoody, GA
+“Electric cooperatives were formed more than 80 years ago when people came together to bring power to rural communities. These projects evoke that same cooperative spirit, except this time, it’s solar power.”
+Jim Musilek | Director of Grid Modernization, North Carolina Electric Membership Corporation
+“We’ve been thrilled with our Hannah install and we’ve had results beyond what we expected.”
+Brett Tracy | Tracys Medicine Center Chamblee, GA
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/about-us/careers/
+
+Careers
+Interested in a career at Hannah Solar? We are always looking for great people to join our dynamic team. You can check out open jobs on our Job Board, or fill out the form below and we will reach out to you with more information.
+View Job Board and Apply Online
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/about-us/
+
+Our Locations
+Hannah Solar serves the Southeast and National Clients with headquarters in Atlanta. Our local satellite sales offices are in Asheville, NC, Chattanooga, TN, Greenville and Charleston, SC , Jacksonville, FL and Bristol, VA.
+Atlanta, GA | Headquarters
+3800 Camp Creek Parkway
+Building 2400 Suite 110
+Atlanta, GA 30331
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/projects/page/2/
+
+Featured Project
+Mercedes Benz Stadium
+Hannah Solar was pleased to have custom designed and built over 700kW of solar PV for the Mercedes-Benz Stadium providing functional solar solutions visible to fans enjoying the shade...
+Learn moreFeatured Project
+Hannah Solar was pleased to have custom designed and built over 700kW of solar PV for the Mercedes-Benz Stadium providing functional solar solutions visible to fans enjoying the shade...
+Learn more153 KW | Canopy
+350 KW | Roof Mount
+1.46 MW | Roof Mount
+3 kW per Home | Roof Mount
+1.0 MW | Ground Mount
+122 kW | Roof Mount
+20 KW | Canopy
+907 kW | Canopy
+1 MW | Ground Mount
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/projects/page/4/
+
+Featured Project
+Mercedes Benz Stadium
+Hannah Solar was pleased to have custom designed and built over 700kW of solar PV for the Mercedes-Benz Stadium providing functional solar solutions visible to fans enjoying the shade...
+Learn moreFeatured Project
+Hannah Solar was pleased to have custom designed and built over 700kW of solar PV for the Mercedes-Benz Stadium providing functional solar solutions visible to fans enjoying the shade...
+Learn more173.4 KW | Roof Mount
+639 KW | Roof Mount
+6 kW | Roof Mount
+2.0 MW | Ground Mount
+150 KW | Roof Mount
+10.2 kW | Roof Mount
+70 kW, 44 kW, 15 kW | Roof Mount
+609 KW | Roof Mount
+19.8 kW | Roof Mount
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/projects/page/3/
+
+Featured Project
+Mercedes Benz Stadium
+Hannah Solar was pleased to have custom designed and built over 700kW of solar PV for the Mercedes-Benz Stadium providing functional solar solutions visible to fans enjoying the shade...
+Learn moreFeatured Project
+Hannah Solar was pleased to have custom designed and built over 700kW of solar PV for the Mercedes-Benz Stadium providing functional solar solutions visible to fans enjoying the shade...
+Learn more10 kW, 3 Tesla Powerwalls | Roof Mount
+350 kW, (2) 6.7 kW | Pole Mount, Roof Mount
+(2) 200 kW | Canopy
+615 kW | Ground Mount
+20.5 kW | Canopy
+4.22 MW | Ground Mount
+57kW | Roof Mount
+8.5 KW | Roof Mount
+967 KW | Roof Mount
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/projects/
+
+Featured Project
+Mercedes Benz Stadium
+Hannah Solar was pleased to have custom designed and built over 700kW of solar PV for the Mercedes-Benz Stadium providing functional solar solutions visible to fans enjoying the shade...
+Learn moreFeatured Project
+Hannah Solar was pleased to have custom designed and built over 700kW of solar PV for the Mercedes-Benz Stadium providing functional solar solutions visible to fans enjoying the shade...
+Learn more297.36 kW | Roof Mount
+358 kW | Roof Mount
+730.8 kW | Roof Mount
+12 kW | Roof Mount
+30.1 kW | Roof Mount
+14.4 kW solar, 15.2 kWh storage | Canopy
+223 kW | Roof Mount
+710 kW | Canopy
+1.4MW | Roof Mount
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/projects/bernhardt-furniture/
+
+Commercial
+Bernhardt Furniture
+Hannah Solar, LLC completed the design and installation of a roof mount solar array on the Bernhardt Furniture Facility in Lenoir, NC in 2015. The project, with a combined...
+Back to ProjectsCommercial
+Hannah Solar, LLC completed the design and installation of a roof mount solar array on the Bernhardt Furniture Facility in Lenoir, NC in 2015. The project, with a combined...
+Back to ProjectsProject Description
+Hannah Solar, LLC completed the design and installation of a roof mount solar array on the Bernhardt Furniture Facility in Lenoir, NC in 2015. The project, with a combined energy of 1.4 MW, provides Bernhardt with renewable energy credits as a result of the solar power generated and helps the facility offset its emissions and total carbon footprint.
+Eddie Pitts, Corporate and Environmental Manager for Bernhardt Furniture, stated that there was no problem facing the company regarding solar projects. “The biggest hurdle was getting through Duke Energy’s project queue. We initially wanted to push 5 projects through but based on Duke’s interconnection prestudy, only the one was suitable.”
+Bernhardt is now seeing a monthly check from Duke Energy. The solar system provides enough power to offset the total carbon footprint of the building and is therefore better for the environment.
+“We liked the idea of contributing to the nation’s renewable energy portfolio,” said Pitts. “Solar was our only criteria…we are in the southern US with a lot of solar radiation. Also, we had lots of potential real estate that could double as a renewable power source, which operates as a separate business unit and is already profitable.”
+Unique by today’s standards, Bernhardt remains a family-owned business that is dedicated to the welfare of the community that’s been its home since 1889. Now led by the fourth generation, Bernhardt remains deeply committed to the values upon which they were founded: high business standards, the artistry of furniture making, the generations of artisans who form the bedrock of their company, and the welfare of their local community.
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/projects/mercedes-benz-stadium/
+
+Municipal
+Mercedes Benz Stadium
+Hannah Solar was pleased to have custom designed and built over 700kW of solar PV for the Mercedes-Benz Stadium providing functional solar solutions visible to fans enjoying the shade...
+Back to ProjectsMunicipal
+Hannah Solar was pleased to have custom designed and built over 700kW of solar PV for the Mercedes-Benz Stadium providing functional solar solutions visible to fans enjoying the shade...
+Back to ProjectsProject Description
+Hannah Solar was pleased to have custom designed and built over 700kW of solar PV for the Mercedes-Benz Stadium providing functional solar solutions visible to fans enjoying the shade they provide below. Hannah Solar worked with the architecture company designing the stadium from the beginning to seamlessly incorporate solar into the overall design.
+When Georgia Power needed solar design expertise for the new stadium project, they turned to Hannah Solar. After providing a thorough assessment on the various potential scenarios of where enough PV panels could be placed to achieve USGBC LEED Platinum, we provided detailed analysis on the trade-offs between aesthetics, value and use. Hannah was then selected to provide turnkey EPC services to build 8 custom solar canopies around the stadium, several of which needed to be water-tight while all needed to look great and hit the generation numbers.
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/projects/ucb/
+
+Commercial
+UCB
+Hannah Solar was the designer of a 223-kW solar photovoltaic array (solar panels) for UCB, a global biopharmaceutical company in Atlanta, Georgia. UCB was awarded the LEED (Leadership in...
+Back to ProjectsCommercial
+Hannah Solar was the designer of a 223-kW solar photovoltaic array (solar panels) for UCB, a global biopharmaceutical company in Atlanta, Georgia. UCB was awarded the LEED (Leadership in...
+Back to ProjectsProject Description
+Hannah Solar was the designer of a 223-kW solar photovoltaic array (solar panels) for UCB, a global biopharmaceutical company in Atlanta, Georgia. UCB was awarded the LEED (Leadership in Energy and Environmental Design) Certification at the Gold level by the U.S. Green Building Council (USGBC) for the renovation and construction of their Atlanta building. This rooftop system will offset approximately 20% of the building’s anticipated total annual energy usage, maximize the production given the available space on the roof, and produce on-site emission-free energy generation, an integral part of LEED scoring. This allows UCB to reduce consumption of electricity from the grid and reduce the demand charges associated with the peak use of energy. Hannah Solar Energy, Inc. performed all solar system, design, procurement, installation, and associated electrical connections working closely with Evergreen Construction and CRESA on the management of this project.
+“The ongoing renewal of our U.S. headquarters reflects our commitment to sustainability while investing in the local economy and minimizing our environmental impact in the community. We are proud to be a part of the greater Atlanta community and help drive local growth and awareness in the healthcare community.” -UCB
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/projects/perimeter-summit/
+
+Commercial
+Perimeter Summit
+Hannah Solar is not only an industry leader in renewable energy resources, we are also well-positioned to answer the call for local businesses and municipalities looking for options that...
+Back to ProjectsCommercial
+Hannah Solar is not only an industry leader in renewable energy resources, we are also well-positioned to answer the call for local businesses and municipalities looking for options that...
+Back to ProjectsProject Description
+Hannah Solar is not only an industry leader in renewable energy resources, we are also well-positioned to answer the call for local businesses and municipalities looking for options that are “beautifully practical”. One of those calls came from Perimeter Summit – a master-planned, mixed-use land development whose managing partners were looking to add an outdoor office environment powered by green energy. The stunning landmark, conveniently located in the heart of Atlanta’s Central Perimeter market, is nestled on 83 acres of lush green space, and offers apartment homes, a hotel, and nearly 1.7 million square feet of premier Class A office space.
+In May of 2021, our company partnered with Holder Construction subcontractor, Miller Electric, to deliver an impressive 14.4-kilowatt solar system with 15.2 kW per hour energy storage. The inspiring new deployment – completely off-grid – is made up of two large Lumos solar canopies that feed into a Simpliphi battery array capable of producing 20,000 kWh per year of risk-free, renewable energy. The canopies feature beautiful ambient lighting, are well equipped with power receptacles for device charging, and compliment the existing green space to provide a flexible, enjoyable, and relaxing environment for Perimeter Summit’s residents and patrons.
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/projects/mega-package-store/
+
+Commercial
+Mega Package Store
+Mega Package Store’s solar panel array was designed to harness the power of the sun, produce clean energy onsite, and significantly reduce the company’s operating utility costs. The 30.1...
+Back to ProjectsCommercial
+Mega Package Store’s solar panel array was designed to harness the power of the sun, produce clean energy onsite, and significantly reduce the company’s operating utility costs. The 30.1...
+Back to ProjectsProject Description
+Mega Package Store’s solar panel array was designed to harness the power of the sun, produce clean energy onsite, and significantly reduce the company’s operating utility costs. The 30.1 kW system is a high-power, low-cost option that generates approximately 45,000 kWh per year. Funding for the rooftop project was secured through an SBA 504 Green Loan – a program managed by the U.S. Department of Energy and designed to help small businesses finance their renewable energy capital improvements.
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/projects/georgia-tech-ramblin-wreck/
+
+Project Description
+Hannah Solar recently completed a unique solar project in February of 2023, the Georgia Tech Ramblin’ Wreck Garage, located in Atlanta, Georgia. The project was completed in collaboration with Gilbane Building Company, and the goal was to install enough solar panels to make the garage net zero. The new rooftop solar system installed by Hannah Solar will benefit the Ramblin Reck Club by providing energy for the garage during the day. Any excess energy generated by the system will be sent back to the adjacent student center and used on site. The project achieved the university’s goal of making the garage virtually net zero while maintaining the desired aesthetic appearance. Read More…
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/projects/saia/
+
+Commercial
+SAIA
+Hannah Solar completed a significant rooftop solar installation for Saia Motor Freight LLC in Buford, Georgia. This rooftop solar installation was recently completed using 1,620 Longi 450 Watt solar...
+Back to ProjectsCommercial
+Hannah Solar completed a significant rooftop solar installation for Saia Motor Freight LLC in Buford, Georgia. This rooftop solar installation was recently completed using 1,620 Longi 450 Watt solar...
+Back to ProjectsProject Description
+Hannah Solar completed a significant rooftop solar installation for Saia Motor Freight LLC in Buford, Georgia. This rooftop solar installation was recently completed using 1,620 Longi 450 Watt solar modules, Solis inverters and Unirac Ecofoot 2+ racking system. Saia’s commitment to sustainable energy integration is driven by both cost savings and their integrated plan to reduce their carbon footprint. This project serves as an exemplary case of how renewable energy can contribute to a low carbon transportation initiative and provide an eco-friendly option for companies we are fortunate to serve across various industries.
+Project Benefits:
+About Saia: Saia Freight Lines, LLC is a well-established transportation and logistics company, offering a range of services including LTL (Less-Than-Truckload) freight, expedited and truckload shipping solutions, warehouse logistics, and supply chain management. With a nationwide presence spanning 194 terminals, Saia is a leading carrier in the United States, dedicated to providing comprehensive and reliable freight and logistics solutions.
+About Hannah Solar Energy, Inc: HSEI is a full-service developer of solar, energy storage and electric vehicle charging infrastructure. Since 2008, the team at HSEI, headquartered in Atlanta, has been developing and building commercial projects across the southeast. Our team of seasoned professionals includes design engineers, licensed electricians and NABCEP certified PV Installation Professionals.
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/projects/atlanta-motorsports-park/
+
+Commercial
+Atlanta Motorsports Park
+A large solar farm is coming to Atlanta Motorsports Park (AMP), a premier motorsports club in Dawsonville renowned for its F1-style road course and thrilling karting course. Located in...
+Back to ProjectsCommercial
+A large solar farm is coming to Atlanta Motorsports Park (AMP), a premier motorsports club in Dawsonville renowned for its F1-style road course and thrilling karting course. Located in...
+Back to ProjectsProject Description
+A large solar farm is coming to Atlanta Motorsports Park (AMP), a premier motorsports club in Dawsonville renowned for its F1-style road course and thrilling karting course. Located in Dawsonville, Ga., the AMP campus is adding solar power through an array of 747 panels, generating 480 watts per panel, for a total of 358 kilowatts (kW). That’s enough energy to power nearly 300 homes! This investment follows AMP’s attack on sustainability with the recent addition of EV chargers: 10 Level 3 DC Superchargers, and 8 Level 2. Coupled with all LED lighting, solar powered CCTV/Signs, on site water/wastewater treatment, and efficient fixtures show the commitment to making a positive environmental impact.
+In AMP’s case, the solar installation will power about 60% of the campus’s daily operational needs with clean, renewable energy. It will be connected to 5 buildings, at the onset, including the karting facilities and the park’s newly constructed, member-exclusive Sky Deck.
+Supporting local businesses, Hannah Solar acquired panels for AMP that were manufactured locally by Hanwha Q. Cells at their Dalton, Ga. fabrication plant. The array also makes use of SolarEdge inverters, in addition to racking hardware by Ironridge and Panelclaw.
+The system represents a substantial investment in furthering the self-sustaining capabilities of AMP. Once the array goes live, the campus will be able to reduce strain on the local power grid while offsetting the environmental cost of over half of AMP’s operational needs.
+AMP CEO Jeremy Porter was positively glowing about the announcement:
+“The ability to generate over half of our energy needs through solar pushes us closer to our vision of making AMP’s campus its own self-sustaining community and resort. We are thrilled at our ability to reduce strain on the local grid while achieving a substantial positive environmental impact. The CEO of Amicalola EMC shared that this solar development at Atlanta Motorsports Park is the largest solar farm in his power region.”
+Annually, the installation is capable of generating 450,300 kWh of clean energy, offsetting 7,312 pounds of CO2 emissions over a 30-year period, according to an estimation tool provided by the U.S. Environmental Protection Agency (EPA). The EPA’s calculations state this offset is equivalent to eliminating over 16.6 million miles of road vehicle travel, or akin to planting 109,600 trees.
+With the help of consultants at Hannah Solar, the project was able to recoup 50% of its total costs using a U.S. Department of Agriculture (USDA) Rural Energy for America Program Renewable Energy Systems, or REAP, Grant.
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/projects/ge-vernova/
+
+Commercial
+GE Vernova
+Hannah Solar completed a 297.36 kW rooftop solar installation for GE Vernova at their Chamblee, Georgia service center in February 2025. The system, powering a facility that rebuilds coal...
+Back to ProjectsCommercial
+Hannah Solar completed a 297.36 kW rooftop solar installation for GE Vernova at their Chamblee, Georgia service center in February 2025. The system, powering a facility that rebuilds coal...
+Back to ProjectsProject Description
+Hannah Solar completed a 297.36 kW rooftop solar installation for GE Vernova at their Chamblee, Georgia service center in February 2025. The system, powering a facility that rebuilds coal plant turbines, generates approximately 400,000 kWh annually, offsetting 30% of the site’s energy demand. This project showcases the seamless integration of renewable energy into traditional energy operations, supporting GE Vernova’s sustainability goals while reducing costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/services/operations-maintenance/
+
+Improves Energy Production
+Panel cleaning costs are less than losses due to soiling
+Hannah Services has the knowledge and experience required to keep your system operating at maximum capacity and efficiency. Proper O&M, coupled with a highly trained service team, will give your array years of productive output and any solar investor an abundance of confidence in its continued performance.
+Proper maintenance will enable your solar array to perform at its best.
+Improves Energy Production
+Panel cleaning costs are less than losses due to soiling
+Extends Life of Array
+Annual inspections and daily monitoring helps keep the system performing at a high level
+Maintains Aesthetics of Property
+Frequent mowing will prevent vegetation overgrowth which can shade modules causing loss of production
+Helps to Prevent Losses
+Annual inspections which include re-torueing of all terminations helps keep electrical loses to a minimum and help ensure the safety of your installation
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/services/electric-vehicle-charging/
+
+Leadership
+Providing EV chargers makes it easier for more people to drive EV’s
+As more electric vehicles become available and the battery technology advances we will begin to see greater adoption rates. A vast network of charging stations is imperative to give drivers the peace of mind to make the shift from gas to electric. This shift in how we fuel transportation is a key factor in reducing greenhouse gas emissions and slowing climate change.
+Electric Vehicle Charging Stations provide an environmentally friendly amenity to your business or property.
+Leadership
+Providing EV chargers makes it easier for more people to drive EV’s
+Environmental
+Driving on electricity reduces GHG emissions. Driving on renewable energy, even better
+Differentiate
+Providing EV charging separates you from your competitors and will help to attract and retain your target customers
+Future Proof
+Meet emerging regulations and building standards while achieving sustainability goals
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/services/battery-storage/
+
+Self-Powered
+Combine solar and storage to power your home independently from the grid
+Many people assume that a solar array continues to produce energy during a blackout, however that is not the case. For safety purposes your array will shutdown when it doesn’t detect grid power leaving you in the dark. However, adding an energy storage system will keep the lights on and the solar producing to keep you up and running.
+Manage your energy and savings with the addition of battery storage.
+Self-Powered
+Combine solar and storage to power your home independently from the grid
+Backup Power
+Protect your home from a power outage with solar and storage
+Solar Self-Consumption
+Batteries store the sun’s energy to use this clean energy around the clock
+Savings
+Lower your electric bill by using more of your own solar
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/services/solar-solutions/
+
+Solar Solutions
+Helping Business, Homes, Schools and Utilities Save Big Using Solar Power!
+We’ve been designing and building solar electric projects for over a decade. With that experience and the team of experts at Hannah Solar, you can trust that we will create a system that meets or exceeds your requirements. Because we are based in the southeast, where solar generation has a great resource in our sunny days, but lower than average electric rates compared to California or NY, we know how to drive value in all our work. Whether it’s a stylish parking canopy or a value driven roof installation, our designers will work with you to create what you need.
+Why Solar Solutions
+Solar as a resource is clean, unlimited, independent, and free.
+Solar is a solid financial investment with an often great ROI. It can help you reduce your monthly electric bill dramatically and lower your seasonal or peak electricity demand. In addition you help eliminate tons of CO2 and other pollutants from the air.
+Solar PV is a proven, reliable, cost effective and easy way to create clean electricity on your property.
+What our clients are saying
+“Hannah Solar was very responsive. The project was completed flawlessly. I highly recommend them for any solar installation.”
+Donald Betts | Contec, Inc.
+“The electricians and the panel installers were fantastic on both of my properties. They were very responsive and worked through problems with running wires at my lake home that exceeded my expectations. Can’t say enough about how professional they were.”
+Monty H. | Solar and Battery Customer Dunwoody, GA
+“We were looking to build a relationship with an experienced and reliable turn-key solar integrator to refer to our member public power systems and their customers– we’re confident that we’ve found a trustworthy solar partner to work with in Hannah Solar.”
+John Giles | President and CEO of Electric Cities of Georgia
+“Our overall experience with Hannah Solar was and is Excellent! True professionals committed to high quality, timely work and always willing to explain the work. An incredibly well run organization from all aspects. Really and outstanding business which is customer centered.”
+Solar Customer | Tybee Island, GA
+“The Hannah team really delivered! They installed a high-quality commercial solar system, on time, on budget and with professionalism.”
+Steve Basch | CEO, Shepard
+“Hannah Solar managed the project very well, including some re-design midway due to panel changes and the ability to gain kWh for more production. The communication was great throughout the project and installation. We are very satisfied.”
+Van Houston | Sargent Metal
+“I honestly can’t think of a thing you could do better than you are doing now. Your suppliers might be able to improve, but that is nothing to do with you since solar is currently booming. When products and services become popular, supply cannot always keep up with demand.”
+Mark M. | Solar and Battery Customer Dunwoody, GA
+“Electric cooperatives were formed more than 80 years ago when people came together to bring power to rural communities. These projects evoke that same cooperative spirit, except this time, it’s solar power.”
+Jim Musilek | Director of Grid Modernization, North Carolina Electric Membership Corporation
+“We’ve been thrilled with our Hannah install and we’ve had results beyond what we expected.”
+Brett Tracy | Tracys Medicine Center Chamblee, GA
+Get started with solar today.
+Now is the best time to invest in solar based on the technology, low cost, and available incentives. The benefits of using solar power will continue as long as you use electricity to power homes and buildings.
+Get Started
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/services/
+
+“Hannah Solar was very responsive. The project was completed flawlessly. I highly recommend them for any solar installation.”
+Donald Betts | Contec, Inc.
+“The electricians and the panel installers were fantastic on both of my properties. They were very responsive and worked through problems with running wires at my lake home that exceeded my expectations. Can’t say enough about how professional they were.”
+Monty H. | Solar and Battery Customer Dunwoody, GA
+“We were looking to build a relationship with an experienced and reliable turn-key solar integrator to refer to our member public power systems and their customers– we’re confident that we’ve found a trustworthy solar partner to work with in Hannah Solar.”
+John Giles | President and CEO of Electric Cities of Georgia
+“Our overall experience with Hannah Solar was and is Excellent! True professionals committed to high quality, timely work and always willing to explain the work. An incredibly well run organization from all aspects. Really and outstanding business which is customer centered.”
+Solar Customer | Tybee Island, GA
+“The Hannah team really delivered! They installed a high-quality commercial solar system, on time, on budget and with professionalism.”
+Steve Basch | CEO, Shepard
+“Hannah Solar managed the project very well, including some re-design midway due to panel changes and the ability to gain kWh for more production. The communication was great throughout the project and installation. We are very satisfied.”
+Van Houston | Sargent Metal
+“I honestly can’t think of a thing you could do better than you are doing now. Your suppliers might be able to improve, but that is nothing to do with you since solar is currently booming. When products and services become popular, supply cannot always keep up with demand.”
+Mark M. | Solar and Battery Customer Dunwoody, GA
+“Electric cooperatives were formed more than 80 years ago when people came together to bring power to rural communities. These projects evoke that same cooperative spirit, except this time, it’s solar power.”
+Jim Musilek | Director of Grid Modernization, North Carolina Electric Membership Corporation
+“We’ve been thrilled with our Hannah install and we’ve had results beyond what we expected.”
+Brett Tracy | Tracys Medicine Center Chamblee, GA
+
+--------------------------------------------------------------------------------
+
+URL: https://hannahsolar.com/about-us/locations/
+
+Locations
+Hannah Solar serves the Southeast and National Clients with headquarters in Atlanta, Georgia.
+Atlanta, GA | Headquarters
+3800 Camp Creek Parkway
+Building 2400 Suite 110
+Atlanta, GA 30331
+Hannah Solar serves the Southeast and National Clients with headquarters in Atlanta, Georgia.
+3800 Camp Creek Parkway
+Building 2400 Suite 110
+Atlanta, GA 30331
+
+--------------------------------------------------------------------------------

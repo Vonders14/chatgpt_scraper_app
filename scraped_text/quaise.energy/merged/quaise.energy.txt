@@ -1,0 +1,88 @@
+ROOT: https://quaise.energy/
+SCRAPED_AT_UTC: 2026-02-11T20:27:03.400443Z
+PAGES_INCLUDED: 2
+
+================================================================================
+
+URL: https://quaise.energy/
+
+Tapping into the million-year energy source below our feet
+MIT News
+Unlocking the true power of clean geothermal energy.
+01
+Terawatts of clean energy
+We are developing an entirely new way to access the largest untapped energy source on the planet: geothermal energy.
+02
+At scale
+Our approach uses the established workforce, assets, supply chains, and regulatory frameworks of the fossil fuel industry. We don’t need to create infrastructure from scratch.
+03
+Equitable for all
+By providing the multi-terawatt levels of energy required to power our civilization, we can build a truly equitable, clean energy source on a global scale.
+Superhot Geothermal Comes to Life: Introducing Project Obsidian
+01
+Oregon
+Project Obsidian is under development in Central Oregon, our catalyst for scaling superhot geothermal energy worldwide.
+02
+2030
+By combining conventional drilling with millimeter wave technology, Project Obsidian is designed to reach commercial operation by 2030.
+03
+250 MW
+The initial phase targets 50 megawatts of always-on power, with the system designed to add 200 megawatts as additional wells are developed.
+To scale geothermal to terawatts we must drill deeper, hotter, and faster than ever before possible.
+Our gyrotron-powered drilling platform vaporizes boreholes through rock and provides access to deep geothermal heat without complex downhole equipment.
+Based on breakthrough fusion research and well-established drilling practices, we are developing a radical new approach to ultra-deep drilling. First, we use conventional rotary drilling to get to basement rock. Then, we switch to high-power millimeter waves to reach unprecedented depths.
+FIG. 3
+Millimeter wave drilling will unlock the most abundant and powerful clean energy source on Earth by allowing us to drill as far down as 20 km to reach temperatures up to 500° C.
+Deeper geothermal is more universal. At these depths, we can reach superhot geothermal anywhere on Earth, making it a truly global energy source. It provides a path to energy independence for every nation.
+Hotter geothermal has more power density. At these temperatures, geothermal is so powerful that it can reuse fossil-fired infrastructure around the world. It enables a much faster energy transition.
+A truly equitable clean energy source, abundantly available near every population and industrial center on the planet.
+Workforce ready
+The oil and gas industry represents the largest workforce in energy today. Their skills readily transfer to geothermal, harnessing a ready-made green workforce.
+No geopolitics
+Geothermal does not require any fuels and does not produce any waste. It’s truly renewable, abundant, and equitable for all, even in the most challenging energy environments.
+Infrastructure ready
+From drilling rigs to power plants, fossil fuel infrastructure dominates the world today. It can all be readily repurposed to rapidly advance a geothermal world of clean energy.
+Environmentally super sound
+Deep geothermal uses less than 1% of the land and materials of other renewables, making it the only option for a sustainable clean energy transition.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.quaise.energy/news/major-demo-keeps-quaise-energy-on-track-to-power-the-world-with-clean-renewable-geothermal-energy
+
+CEO cites three-tier approach to developing resource
+Quaise Energy has moved out of the lab and into the field with the first demonstration of its novel drilling technique on a full-scale oil rig just outside of Houston. The company, formed only seven years ago, is on track to prove that clean, renewable geothermal energy could power the world, according to Carlos Araque, CEO of Quaise and a co-founder.
+“Geothermal energy is available everywhere on massive scales,” said Araque. “If you take all fossil, all nuclear, and all other forms of renewable energy combined, they’re not even a millionth of a millionth of the thermal stores of energy” below the Earth’s surface. “It’s mind-boggling, and to get it, we only have to go down two to twelve miles. That’s how close we are to infinite clean energy no matter where you are in the world.”
+Araque was speaking on May 21 at the first demonstration of the company’s drilling technology at a full-scale oil rig owned by Nabors, one of the world’s largest oil-and-gas drilling companies. Among the approximately 50 attendees, who included reporters, potential investors, and even potential Quaise customers, was William Restrepo, CFO of Nabors and a Quaise board member. Also on hand was Lauren Boyd, director of the Geothermal Technologies Office at the U.S. Department of Energy.
+“
+It’s mind-boggling, and to get it, we only have to go down two to twelve miles. That’s how close we are to infinite clean energy no matter where you are in the world.—Carlos Araque CEO and Co-founder
+Superhot, Superdeep
+Geothermal energy--the heat beneath our feet--has been around for a long time, but it barely contributes to today’s energy mix. “That’s because the true geothermal resource, the one that matters, is not very accessible. Getting to it is beyond the economic reach of the conventional tool set of oil and gas,” said Araque.
+The mother lode of geothermal energy is some two to 12 miles beneath the Earth’s surface where the rock is so hot that if water could be pumped to the area it would become supercritical, a steam-like phase that most people aren’t familiar with. (Familiar phases are liquid water, ice, and the vapor that makes clouds.) Supercritical water, in turn, can carry some 5-10 times more energy than regular hot water, making it an extremely efficient energy source if it could be pumped above ground to turbines that could convert it into electricity.
+Today we can’t access those resources, except in places like Iceland where they are relatively close to the surface. The number one problem: we can’t drill down far enough. The drills used by the oil and gas industries can’t withstand the formidable temperatures and pressures that are found miles down without becoming exponentially more expensive with depth.
+Quaise is working to replace the conventional drill bits that mechanically break up the rock with millimeter-wave energy (cousins to the microwaves many of us cook with). Those millimeter waves literally melt then vaporize the rock to create ever-deeper holes.
+Steady Progress
+The May demo at the Nabors facility is only the latest of many in what Araque calls an aggressive timeline to prove the technology. The ultimate goal, he said, is to provide a renewable source of energy on parity with oil and gas. “This is not a company built to develop a cool drilling gadget. We aim to become a geothermal developer. Our product is not a drill bit. Our product is clean heat and energy that is abundant, reliable and affordable on a global scale,” said Araque.
+The general technique behind the Quaise drilling approach was developed at MIT over some 15 years. Scientists there showed that millimeter waves could indeed drill a hole in basalt (basalt and granite make up the majority of rock at great depth). This was promising in part because the gyrotron machine that produces the millimeter-wave energy is not new. It’s been used for some 70 years in research toward nuclear fusion as an energy source.
+Quaise has been developing the technique to drill deeper and deeper holes. The holes drilled at MIT were two inches in diameter by two inches deep. Outside the Quaise lab in Houston earlier this year, engineers succeeded in drilling a hole four inches in diameter and 10 feet deep (see video).
+Andres Calabressi, Head of Manufacturing at Quaise, emceed the Quaise demonstration with a microphone to communicate over the steady rumble of powerful equipment. He explained that beginning in March, the company lowered columns of granite about nine inches in diameter into a conventionally drilled hole under the rig. Together those columns made a core some 80 feet long that sits inside a metal casing. The latter is outfitted with ports to monitor parameters like heat and pressure, data that allow the team to test recipes for optimal drilling.
+The Quaise engineers then integrated the millimeter-wave technology with the rig. In the May 21 demo, they shot millimeter waves into the granite column, deepening a hole four inches in diameter that they’d already drilled to ten feet. (The next week, the team successfully drilled to 30 feet for the first time; the next goal on this phase of the work is 40 feet.)
+During the demonstration, Calabressi was flanked by three large flat screens showing different dimensions of the work. One tracked key parameters like rock temperature, while another showed a video close-up of the millimeter waves melting rock. (The latter was taken previously in the Quaise lab since those interactions were not visible at the Nabors rig.)
+Araque noted that the demo was “full scale in size, but not in power.” The gyrotron involved produced 100 kilowatts of power. “That’s a tenth of the power that will be commercially relevant, and is roughly equivalent to the power of the car you drove to this demonstration.”
+Next month, Quaise expects the delivery of a much larger gyrotron capable of producing one megawatt of power. “That is commercially relevant. We aim to get it to the field over the next two years,” Araque said.
+In the meantime, the company is preparing for another demonstration planned for July in Marble Falls, Texas. There, the team aims to drill multiple holes 130 meters (about 425 feet) deep into an actual granite outcrop for the first time. Henry Phan is Vice President of Engineering at Quaise. He explained that the Marble Falls rig will be smaller, “allowing us to be more nimble in terms of moving from one hole to another.”
+“
+Our product is not a drill bit. Our product is clean heat and energy that is abundant, reliable and affordable on a global scale.—Carlos Araque CEO and Co-founder
+Additional Advances
+Quaise has also been tackling other scientific and engineering challenges associated with harvesting the energy from superhot, superdeep rock. Trenton Cladouhos, vice president of geothermal resource development at Quaise, described several of those challenges and advances toward solving them in a talk the day before the Quaise demo at the Geothermal Transition Summit North America in Houston.
+Cladouhos said that Quaise is working with vendors and universities “to push them to consider higher and higher temperatures.” For example, last year a team at the Ecole Polytechnique Fédéral de Lausanne reported new insights into what happens when superhot, superdeep rock is exposed to water that can eventually transfer the rocks’ heat to the surface. The work, supported in part by Quaise, was published in the journal Nature Communications. It confirmed earlier modeling work also supported by Quaise.
+In addition, Cladouhos noted that Quaise has an in-house engineer who has been working on the design of superhot geothermal power plants. Earlier this year Senior Mechanical Engineer Daniel Dichter reported insights to that end in two papers.
+Toward the Future
+Araque concluded his presentation at the demo by describing the company’s blueprint for developing a superhot, superdeep geothermal resource available around the globe. It involves dividing the world into three tiers based on geothermal gradient, or how close the resource is to the surface. Tier 1, for example, will focus on relatively accessible superhot rock. This means that the first Quaise power plant will probably be located in the American West, perhaps near the Newberry Volcano site in Oregon. Newberry has a long history of geothermal exploration.
+Although still a ways off, Tier III sites, which will involve drilling as much as 12 miles down, “hold the key to making superhot geothermal a truly global energy source,” according to this Quaise video. “Tier III sites could provide power to more than 90% of humanity.”
+Superhot Team
+Araque described Quaise’s goal of unlocking superhot, superdeep energy for the world as “a moonshot. But it is not a moonshot.” The people working to “pioneer this transformative approach to clean energy have transitioned from careers in oil, gas, nuclear fission, and nuclear fusion,” and all have histories of achievement.
+For example, several were involved in the invention and development of Manara, a production and reservoir management solution developed at Schlumberger to substantially increase the recovery of oil from complex production systems. And among them, Quaise team members hold several patents.
+“So I’m confident that together we can make this work,” Araque concludes.
+Originally published via EurekAlert!
+
+--------------------------------------------------------------------------------

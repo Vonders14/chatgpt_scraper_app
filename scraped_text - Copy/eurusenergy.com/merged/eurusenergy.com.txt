@@ -1,0 +1,276 @@
+ROOT: https://eurusenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:04:37.351329Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://eurusenergy.com/
+
+About Eurus Energy America Corporation | Contact
+Wind power is the capture and transformation of wind into usable energy.
+Solar power is a clean and renewable form of energy created by converting sunlight into electricity.
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/solar/solar-power-projects/
+
+Eurus Energy America currently owns and operates the following solar projects:
+Waianae
+In operation since 2017
+Eurus Energy achieved commercial operations at its 27.6-MW Waianae Solar Facility in Waianae, Hawaii, on January 2017. The Waianae Solar Facility is located on the island of Oahu.
+Avenal
+In operation since 2011
+Eurus Energy achieved commercial operations at its 45-MW Avenal Solar Facility in Avenal, California, on August 5, 2011. The Avenal Solar Facility is comprised of three individual solar photovoltaic projects, Sun City (20MW), Sand Drag (19MW) and Avenal Park (6MW).
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/solar/solar-power-education/facts-about-solar-power/
+
+Facts about Solar Power
+- In the early 16th century, Leonardo Da Vinci predicted that humanity would utilize the sun’s energy. (Solar Energy World)
+- Albert Einstein won his 1921 Nobel Prize for his experiments with solar energy and photovoltaics (specifically, his discovery of the law of the photoelectric effect). (The Nobel Prize Foundation)
+- In 1931, Thomas Edison said “I’d put my money on the sun and solar energy. What a source of power! I hope we don’t have to wait until oil and coal run out before we tackle that.” (Ecogeek)
+- Solar power was first used for television and communications satellites orbiting earth. All satellites today continue to use solar power. (California Solar Center)
+- Enough sunlight falls on the earth every hour to meet the world’s energy demands for an entire year. Obstacles such as cost, transmission availability, and lack of energy storage systems prevent solar technology from harnessing all of this available resource. (Solar Buzz)
+- Solar photovoltaic technologies have decreased in price every year since they were introduced into the market. Every solar panel purchased makes the next one cheaper, in contrast to fossil fuels (which increase in price as they become more scarce). (Solar Energy Industries Association)
+- The U.S. Department of Energy has developed the Solar America Initiative with the goal to make solar electricity cost-competitive with conventional grid electricity by 2015. (U.S. Department of Energy)
+- An expanding solar energy market will create thousands of new jobs for electricians, construction workers, line workers, engineers, roofers and manufacturing positions. In 2008, about 12,000 new solar-related jobs were added to the solar industry workforce. (Solar Energy Industries Association)
+- The Solar Energy Industries Association predicts the solar industry will grow to support 440,000 permanent jobs by 2016. This is compared to 79,000 employees of the coal mining industry and 136,000 employees in oil and gas extraction. (Solar Energy Industries Association)
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/wind/wind-power-projects/
+
+Eurus Energy America currently owns and operates the following wind projects:
+Spearville 3
+In operation since 2012
+Eurus Energy’s 100.8MW Spearville 3 wind project is located northeast of Dodge City, Kansas.
+Combine Hills II
+In operation since 2009
+Eurus Energy completed construction of its 63 MW Combine Hills II wind farm located in Milton-Freewater, Oregon in late December 2009 with energy sales from the project beginning January 1, 2010.
+Bull Creek
+In operation since 2009
+Eurus Energy America achieved commercial operation of its 180MW Bull Creek wind farm in Borden County, Texas in 2009. The Bull Creek project is the largest wind project completed by Eurus worldwide and is its eighth wind project in the United States. Eurus developed, built, and is now operating the wind farm located near Gail, Texas which is about 50 miles south of Lubbock.
+Combine Hills I
+In operation since 2003
+Eurus Energy’s 41 MW Combine Hills wind farm is located in Milton-Freewater, Oregon (approximately 200 miles east of Portland).
+California Desert
+In operation since 1987
+With projects in operation since the late 1980s, Eurus Energy continues to be a pioneer in American wind energy through its development of multiple wind projects totalling approximately 250 MW and located between Tehachapi and Mojave in the California desert. Eurus Energy’s most recent wind farm in California, the Oasis Project, achieved commercial operation in 2004.
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/about/careers/
+
+Thank you for your interest in employment at Eurus Energy America Corporation.
+Current Openings:
+We have no current openings at this time.
+Thank you for your interest in employment at Eurus Energy America Corporation.
+We have no current openings at this time.
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/about/our-team/
+
+Eurus Energy America is comprised of the following team of talented and diverse renewable energy professionals. Please click on the name of each of our team members below to learn more about their background and contributions to our company.
+Kiyoshi Fukui
+CEO and President
+Mr. Fukui joined Eurus Energy America in April of 2025 as President and CEO. ... Full Biography >>
+Brad White
+Senior Vice President and General Counsel
+Mr. White joined Eurus Energy America in 2005 as General Counsel. He oversees all aspects of Eurus Energy’s internal legal affairs including financing, regulatory, procurement, construction, operation, infrastructure and tax issues. ... Full Biography >>
+Robert Blair
+Chief Development Officer
+Robert Blair is a development, investment, and finance executive with over 30 years of experience in the energy industry.... Full Biography >>
+Jeffrey Wehner
+Senior Vice President of Operations and Asset Management
+Mr. Wehner joined Eurus Energy America in 2023 as Senior Vice President of Operations and Asset Management.... Full Biography >>
+Brian Ferrell
+Vice President, Asset Management
+Mr. Ferrell re-joined Eurus Energy America Corporation (EEA) in 2016 as Vice President, Accounting. He is responsible for supervising the accounting department and for supporting EEA’s other departments to create business strategies aligned with the organization’s goals.... Full Biography >>
+Michael Whittle
+Vice President, Development South America
+Michael Whittle joined Eurus Energy America in July 2016 as Vice President, Development for South America. He is responsible for strategic direction in South America and originating and executing new business development opportunities in the region. Mr. Whittle initially joined Eurus Energy America... Full Biography >>
+Masashi Sudo
+Vice President Accounting, Planning, Administration & Human Resources
+Mr. Sudo joined Eurus Energy America in April 2020 as Senior Manager. In 2022, Mr. Sudo became Vice President of Accounting, Planning, Administration and Human Resources. ... Full Biography >>
+Cary Silahian
+Registered In House Counsel / Assistant General Counsel
+Mr. Silahian joined Eurus Energy America in August 2017 as Senior Counsel. He supports all aspects of Eurus Energy’s internal legal affairs, including business development, commercial operations and maintenance, corporate governance and infrastructure, construction and procurement and regulatory related issues.... Full Biography >>
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/about/industry-firsts/
+
+Eurus Energy America is an innovative company with several “firsts” in the United States wind industry:
+- Closed largest solar photovoltaic construction financing in United States to date in September 2010
+- Upon completion, 45 MW Avenal solar project will be the largest solar PV generating facility in California
+- Introduced Mitsubishi Heavy Industries (MHI) wind turbines to United States market in 1987.
+- Built Mojave projects in the California desert with a total of 639 250kW wind turbines in 1989-1990
+- First major wind project bank syndication
+- First to build private transmission line solely for Qualified Facilities use.
+- Built 46-mile long Sagebrush Transmission Line in California
+- One of the first wind developers to utilize tax equity financing structure.
+- Combine Hills I project in Oregon with 41MW capacity completed in 2003
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/about/
+
+Who is Eurus Energy America?
+Eurus Energy America is responsible for renewable energy development in the Americas on behalf of Eurus Energy Holdings, owned by Toyota Tsusho Corporation (Toyota Tsusho).
+As one of the pioneers behind early wind energy development, Eurus Energy America has been active in wind energy development in the United States since 1987. As public concern has mounted over climate change and the dependence on fossil fuels, Eurus Energy America has redoubled its efforts to help the United States address its increasing demand for energy with clean, reliable, and renewable resources.
+Eurus Energy America welcomes its role as the North American representative of an international corporation with a longstanding commitment to renewable energy technology.
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/contact/
+
+Contact Eurus Energy America today
+Thank you for your interest in Eurus Energy America Corporation. Please direct any additional comments or questions you may have to:
+North American Headquarters
+Eurus Energy America Corporation
+9255 Towne Centre Drive, Suite 800
+San Diego, CA 92121
+Tel: 858-638-7115
+Fax: 858-638-7125
+Email: info@eurusenergy.com
+Additionally, we encourage you to learn more about the Eurus family by visiting the website of our parent company, Eurus Energy Holdings Corporation, at
+www.eurus-energy.com.
+Click on the map for a larger view
+(PDF 272 kb download)
+Don’t have Adobe Acrobat Reader? Get it here.
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/wind/
+
+Eurus and Wind
+Eurus Energy currently has several successful wind projects in the United States. Please take a few minutes to learn about our wind farms and to become more familiar with how wind energy works and the stages of wind project development using the headings to the left.
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/wind/wind-power-education/about-turbines/
+
+About Wind Turbines
+Turbines used in commercial wind farms typically have three blades which rotate when pushed by the wind. The blades are turned by a computer-controlled motor to face the wind and individual blades can be rotated to collect more or less wind depending on weather conditions.
+The height of the tower and the length of the blades chosen for a project are determined largely by the type of wind at a particular site. For instance, a project on a farm with flat, sprawling land and low to medium wind speeds would be suitable for tall turbines with long blades to collect as much wind as possible. By contrast, a project on a mountain ridge with strong winds would be better suited with shorter, stockier turbines and shorter blades to mitigate the stress that these turbines would face in heavy wind conditions.
+Turbine towers can range from approximately 90 to 150 meters in height and approximately 30 to 50 meters in length. The scale comparison chart below represents an average turbine of 120 meters alongside other objects for height reference:
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/wind/wind-power-projects/stages-of-development/
+
+There are many stages and layers of preparation that are required to successfully develop a wind farm:
+Data Collection – To determine whether land has strong, consistent wind, Eurus constructs several meteorological towers throughout the potential project area to collect and analyze wind data for at least one year. If the land does in fact have good wind, and there is also sufficient access to high-voltage transmission lines with the capacity to handle additional power generation, Eurus may begin the planning and construction of a wind project.
+Land and Construction – To reduce the impact of construction on the land, Eurus first conducts environmental impact assessments. Eurus also consults with and compensates landowners during the construction process. The complete construction process includes the building of access roads to be used by construction vehicles setting up the wind turbines, the construction of wind turbines and the building of substations and a small operations building as necessary.
+Operation and Maintenance – Once construction is complete, a team of permanent staff operates and manages the wind project. This operations team repairs and performs routine maintenance on the wind turbines. Eurus also maintains any access roads built for the project after construction is complete.
+Dismantle or Repower – When the project reaches the end of its lifetime, generally after about 25 years, the turbines may be removed and Eurus will restore the land to its original state (or better) than when the project began. Alternatively, the windfarm may be repowered with newer turbines using more advanced technology.
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/wind/wind-development/
+
+Many stages of research and development are required to create a successful wind project:
+Data Collection – To determine whether land has strong, consistent wind, Eurus constructs several meteorological towers throughout the potential project area to collect and analyze wind data for at least one year. If the land does in fact have good wind, and there is also sufficient access to high-voltage transmission lines with the capacity to handle additional power generation, Eurus may begin the planning and construction of a wind project.
+Land and Construction – To reduce negative effects of construction on the land, Eurus first conducts environmental impact assessments to minimize wildlife habitat destruction. Eurus also consults with and compensates landowners for any crops or land damaged during the construction process. The complete construction process includes the building of access roads to be used by construction vehicles setting up the wind turbines, the construction of wind turbines and the building of substations and a small operations building as necessary.
+Operation and Maintenance – Once construction is complete, a team of permanent staff hired by Eurus operates and manages the wind project. This operations team repairs and performs routine maintenance on the wind turbines. Eurus also maintains any access roads built for the project after construction is complete.
+Dismantle or Repower – When the project reaches the end of its lifetime, generally after about 25 years, the turbines may be removed and Eurus will restore the land to its original state (or better) than when the project began. Alternatively, the windfarm may be repowered with newer turbines using more advanced technology.
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/wind/wind-power-education/
+
+How does wind create energy today and how can wind energy help us?
+We invite you to learn more about the history of wind energy, modern wind turbines and energy production, and the economic and environmental benefits offered by wind energy by visiting the informational sections of our website listed in the lefthand column of this page.
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/solar/
+
+Eurus and Solar
+Eurus Energy America has recently expanded its renewable energy development in the United States to include solar projects. Please take a few minutes to learn more about our Avenal solar project under construction in California and to become more familiar with how solar power works by accessing the subheadings to the left.
+With more than 1,800 MW of renewable energy generation in operation worldwide and the construction of its Avenal solar project underway, Eurus Energy plans to continue to use its experience, capabilities and financial resources to develop, own and operate large-scale photovoltaic projects throughout America with a focus on the western and southwestern United States. Please revisit this section of our website periodically as we continue to release more information about Eurus Energy America’s solar development activities.
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/solar/solar-power-education/
+
+Heat and light generated by the sun provide the ingredients to make energy in many ways. How do we convert the sun into energy today and how can solar energy help us? Visit the informational sections of our website listed in the lefthand column of this page to learn more about the history of solar energy, modern photovoltaic technology and the economic and environmental benefits that solar energy provides.
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/commitment/
+
+Eurus and Renewable Energy
+With an enduring belief in the value of diversified renewable energy investment, Eurus Energy America has been active in wind energy development in the United States since 1987 and is committed to maintaining a growing portfolio of renewable generation assets through full-term development, joint-venture partnerships, and mature development acquisition.
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/news/
+
+Eurus in the News
+You may read press releases by Eurus Energy America and its parent company, Eurus Energy Holdings Corporation, by accessing the subheadings at left.
+You may read press releases by Eurus Energy America and its parent company, Eurus Energy Holdings Corporation, by accessing the subheadings at left.
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/news/press-releases/
+
+Eurus in the News
+You may read press releases by Eurus Energy America and its parent company, Eurus Energy Holdings Corporation, by accessing the subheadings at left.
+You may read press releases by Eurus Energy America and its parent company, Eurus Energy Holdings Corporation, by accessing the subheadings at left.
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/resources/
+
+Wind Power
+- North American Windpower has recent news about the industry, job postings, and a free print subscription.
+Solar Power
+- The Solar Energy Industries Association is the US trade association for solar energy and related businesses.
+Renewable Energy
+- American Clean Power Association is a federation of renewable energy companies expediting the advancement of clean energy as the dominant power source in America.
+Government
+- The Energy Information Administration provides important data and statistics for the entire energy industry.
+- WINDExchange is a resource of the U.S. Department of Energy’s Wind Energy Technologies Office.
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/gallery/
+
+Project Photos
+We invite you to view pictures of our Bull Creek, Spearville, Combine Hills, and California wind projects and Avenal solar project by accessing our project photo galleries located at left.
+Please note that these images are property of Eurus Energy America and unauthorized use is prohibited. Please contact us at info@eurusenergy.com if you have any questions regarding these images or their use.
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/gallery/bull-creek/
+
+About Eurus Energy America Corporation | Contact
+Eurus Energy America’s 180 MW Bull Creek Project is located in Texas and began commercial operation in 2009. Fullsize photos may be accessed by clicking on each thumbnail image below:
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/gallery/spearville/
+
+About Eurus Energy America Corporation | Contact
+Eurus Energy’s 100.8MW Spearville 3 wind project is located northeast of Dodge City, Kansas.
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/gallery/combine-hills/
+
+About Eurus Energy America Corporation | Contact
+Eurus Energy America’s 41 MW Combine Hills I wind project is located in Oregon and achieved commercial operation in 2003. Fullsize photos may be accessed by clicking on each thumbnail image below:
+
+--------------------------------------------------------------------------------
+
+URL: https://eurusenergy.com/gallery/california-desert/
+
+California Desert Projects
+Eurus Energy America began developing wind farms in the California desert in 1989. Today, Eurus operates wind projects in California totaling 250 MW. A collection of photos for each individual California wind farm are below. Fullsize photos may be accessed by clicking on each thumbnail image.
+Oasis
+The 59 MW Oasis wind project began commercial operation in 2004.
+
+--------------------------------------------------------------------------------

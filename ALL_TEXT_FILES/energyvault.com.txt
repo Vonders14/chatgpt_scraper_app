@@ -1,0 +1,1413 @@
+ROOT: https://energyvault.com/
+SCRAPED_AT_UTC: 2026-02-11T20:03:28.154366Z
+PAGES_INCLUDED: 21
+
+================================================================================
+
+URL: https://energyvault.com/
+
+Solving Energy Storage
+at Scale
+04 February, 2026
+Energy Vault announces the Award of 100 MW / 870 MWh Long-Term En...
+02 February, 2026
+After the SPAC: Why storage company Energy Vault pivoted after go...
+10 January, 2026
+Energy Vault breaks ground on 150-MW battery in Texas
+Energy Storage Built To Your Needs
+Customer-driven solutions
+Tackling complex customer needs with a focus on flexibility.
+Diversified across durations
+Uniquely addressing short, long, and ultra long duration requirements.
+Applying technological breadth
+Unparalleled expertise across battery, gravity, hydrogen, and software.
+Reinvent energy storage with us.
+Energy Vault partners closely with customers to identify, develop, and deploy solutions that maximize the economic and environmental value of their assets.
+Our customer-centric, solutions-based approach is grounded in our belief that energy storage technologies will continue to evolve rapidly, requiring a close customer connection, technology diversification, and sustained innovation.
+Unmatched value proposition
+We are the only energy storage company offering solutions encompassing short to long to ultra long duration needs with proprietary battery, gravity, and hybrid-hydrogen technologies.
+Sophisticated software
+Our cutting-edge software helps customers orchestrate and optimize storage - and other energy - assets for both operational and business performance.
+Commitment to innovation
+We invest strategically in research and development, knowing that the future of energy storage is constantly being reinvented.
+Energy Vault Resiliency Center
+Our focus on innovative storage solutions is exemplified by the Energy Vault Resiliency Center, which combines proprietary gravity technology and software to optimize energy dispatch and provide grid support.
+Our Unique Approach
+What differentiates Energy Vault from our peers? It’s not one single thing, but instead a combination of characteristics that collectively translate into greater value for our customers.
+01
+02
+03
+04
+05
+Customer-centric
+Solutions-based
+Duration-diversified
+Technology-agnostic
+Innovation-driven
+Oriented towards your goals, challenges, and needs.
+View our solutions
+Starting with the problem to solve, then bringing together the right products.
+View our solutions
+With proprietary battery, gravity, and hydrogen technologies to meet short, long, and ultra-long needs.
+View our products
+With sophisticated software to manage diverse energy assets.
+View our products
+By dedicated global R&D and engineering teams focused on inventing what’s next in energy storage.
+View our R&D
+Our Solutions
+We help companies succeed and lead with an unmatched portfolio of hardware, software, and service solutions.
+Our Products
+We design our products with a focus on scalability, flexibility, and adaptability.
+B-VAULT™
+Lithium-ion battery product designed for reliability, flexibility, and availability with innovative enclosure architecture and unique AC and DC configurations to provide customer optionality.
+B-Nest™
+Modular, multi-story structure designed to house battery energy storage systems (BESS) for unparalleled energy density.
+G-VAULT™
+Family of gravity energy storage products that decouple power and energy while maintaining a high round-trip efficiency, without the need for specific topography.
+H-VAULT™
+Hydrogen energy storage for multi-day resilience, designed to ensure the reliability of critical community infrastructure.
+VaultOS™
+Energy Management Systems software providing real-time monitoring, operational control, and optimized dispatch across an array of energy storage and generation assets.
+Vault-Bidder™
+Advanced monetization that leverages diverse, live data from assets and external drivers to optimize dispatch and revenue.
+Vault-Manager™
+Asset management providing portfolio visibility, analysis, and actionable insights to improve financial performance.
+1.4 GWh
+Deployed Since 2023
+Our Projects
+We recognize that innovation must be backed up with execution. We strive to deliver flawlessly, on schedule, and with a proactive attitude toward supply chain and other issues. Our teams are passionate about getting your projects up and running.
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Subscribe to newsletter
+Please supply your information below to subscribe to our newsletter.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.energyvault.com/projects
+
+Delivering Project Success
+Managing and delivering complex projects is as critical as having the best solutions. We commit to delivering projects flawlessly and on schedule, with a proactive attitude to addressing issues as or ideally before they arise. Our team has deep and broad experience and capabilities delivering projects across the energy industry.
+1.4 GWh
+Deployed since 2023
+Rudong – Gravity
+First-of-its-kind system supporting a wind farm and the national grid system of the world’s largest utility.
+- 25 MW
+- 100 MWh
+- China
+01
+Stanton – Battery
+Maximizing BESS energy density to enable resource adequacy, ancillary services, and bulk renewable energy shifting.
+- 68.8 MW
+- 275.2 MWh
+- USA
+02
+Calistoga - Hydrogen
+Pioneering battery-hydrogen fuel cell system providing a community microgrid with continuous power for at least 48 hours.
+- 8.5 MW
+- 293 MWh
+- USA
+03
+Zhangye - Gravity
+China's second installment of a Gravity Energy Storage System (GESS) - built to relieve grid congestion and support renewable energy growth.
+- 17 MW
+- 68 MWh
+- China
+04
+Reid Gardner - Battery
+Improving Nevada's grid resilience and enabling excess solar generation to serve demand after the sun sets.
+- 220 MW
+- 440 MWh
+- USA
+05
+St. Gall - Battery
+Shifting regional wind and solar generation to stabilize the Texas grid and increasing customer revenue.
+- 100 MW
+- 200 MWh
+- USA
+06
+Miniera d'Energia
+From prototype to full-scale project showcasing Energy Vault's first installment of it's EV0TM Technology
+- 100 MW
+- Hybrid BESS + GESS
+- Italy
+07
+NuCube
+Advanced clean energy platform composed of microreactors, battery energy storage, and energy management systems.
+- Data Center Power
+- Hybrid SMR + BESS + EMS
+- USA
+08
+New England BESS
+The first large scale BESS deployment for Energy Vault and Australia in the New England Region of New South Wales.
+- 200 MW
+- 400 MWh
+- Australia
+09
+Cross Trails
+Energy Vault's first fully owned and operated battery energy storage system (BESS), delivering power and ancillary services to the ERCOT grid.
+- 57 MW
+- 114 MWh
+- USA
+10
+Stoney Creek
+Energy Vault's first fully owned and operated battery energy storage system (BESS) in the Australian market providing 8-hours of power to the New South Wales region.
+- 125 MW
+- 1.0 GWh
+- Australia
+11
+In our customers’ words
+There were supply chain issues across the board, but Energy Vault was nonetheless able to promise – and then deliver – the batteries needed for the project.
+Hal Dittmer
+CEO, Wellhead Electric
+
+--------------------------------------------------------------------------------
+
+URL: https://www.energyvault.com/about
+
+Committed to a clean energy future.
+At Energy Vault®, we envision a planet where science and deep respect for our natural resources herald creative technological advancements in sustainable, clean, renewable energy. Our team of energy industry experts are pioneering a faster journey to the decarbonization of our planet by reducing the cost of abundant clean energy, delivering valuable, grid-scale energy storage solutions, and efficiently solving the demanding requirements of a clean energy future.
+Shared passion to combat climate change
+Energy Vault® stakeholders and employees have a shared passion to combat climate change through innovation in energy storage technologies. With our vast global network in leadership, management, and contribution, Energy Vault is well positioned to meet the large and currently unmet demand for sustainable and economical energy storage for renewable energy generation worldwide.
+Board of Directors
+Leaders in Environmental Governance
+Energy Vault® is honored to have established strong governance that will allow us to best serve customer needs while accelerating adoption and deployment of the technology.
+Robert Allen Piconi
+Chairman of the Board, Co-Founder & CEO - Energy Vault
+Robert Allen Piconi
+Chairman of the Board, Co-Founder & CEO - Energy Vault
+Robert Piconi is Chairman of the Board, Co-Founder and Chief Executive Officer of Energy Vault, responsible for the overall vision, strategic direction and operational performance of the company.
+Mr. Piconi’s 30+ years of industry experience includes prior executive leadership roles in US NYSE Fortune 100 public companies across various industries including Diversified Energy (Amoco/British Petroleum), Telecommunication Networks (Bell Labs Lucent Technologies, Alcatel), and Security/Network Management Software (Danaher Corporation). Within the private sector, he also founded and led as CEO several innovative healthcare service management and medical device companies which were later acquired by top tier private equity funds and/or large industry conglomerates.
+In 2020, as part of his founding and scaling of Energy Vault, Mr. Piconi was one of 15 global leaders named by the World Economic Forum as “SDG Champion” for his ongoing work advancing sustainability, decarbonization and the circular economy. In addition to the Energy Vault NYSE board, Mr. Piconi also sits as a Non-Executive Independent Director on the board of Microporous, a leading advanced lead acid and EV battery technology and manufacturing company that is privately held.
+Mr. Piconi received his graduate degree and MBA from Northwestern University (Kellogg School of Management) and undergraduate degrees BBA/BS in Finance and Italian Renaissance Literature from the University of Notre Dame.
+Theresa Fariello
+Executive VP of Government Affairs & Global Public Policy - United Airlines
+Theresa Fariello
+Executive VP of Government Affairs & Global Public Policy - United Airlines
+Theresa Fariello joined the Energy Vault Board of Directors on February 1, 2023. Theresa serves as Executive Vice President of Government Affairs & Global Public Policy for United Airlines (Nasdaq: UAL). In this role, Theresa leads the company’s federal, state, local and international government engagement including environmental affairs, and is based in Washington, D.C. Under Terri's direction, United has set a course to be 100% green by 2050 by reducing greenhouse gas emissions 100% without relying on traditional carbon offsets and has invested in the future production of over three billion gallons of SAF – the most of any airline in the world. Before joining United, she served as vice president of Exxon Mobil Corporation’s Washington, D.C. office and led the company’s federal and state government affairs operation.
+In her 16-year tenure at Exxon Mobil, Theresa advised the company’s senior leadership on key issues before Congress, the Executive Branch and state governments. Prior to joining Exxon Mobil, Theresa served as deputy assistant secretary for International Energy Policy in the Office of International Affairs at the U.S. Department of Energy and held senior leadership positions at Occidental Petroleum Corporation.
+Theresa also served as a Congressional aide to two members of Congress. Throughout her career, Theresa has been recognized for leadership in government relations, including being named to the Washingtonian Magazine’s list of “Most Powerful Women” and The Hill’s “Top Lobbyists.”
+Theresa holds an LLM in International and Comparative Law from the Georgetown University Law Center and a juris doctorate from George Mason University School of Law. She received her undergraduate degree in political science from George Washington University.
+Theresa serves as the Chair, Board of Directors, of the Humane Rescue Alliance. She contributes to her community by serving on the boards of a number of groups including the National Archives Foundation, Public Affairs Council, Business Council for International Understanding, the Economic Club of Washington, D.C., the Carlton Club and Ford’s Theatre.
+Mary Beth Mandanas
+Chief Executive Director - Onyx Renewable Partners
+Mary Beth Mandanas
+Chief Executive Director - Onyx Renewable Partners
+Mary Beth Mandanas has served as a member of our Board of Directors since 2022. Ms Mandanas currently serves as Chief Executive Officer for Onyx Renewable Partners L.P., having begun this role in January 2022. Since July 2021, Ms. Mandanas has served as an Independent Director, Audit Chair, on the Board of TortoiseEcofin Acquisition Corp III. From August 2020 to August 2021, she consulted and served as Chief Investment Officer for Sol Systems, LLC, a renewable energy infrastructure and impact investment company based in Washington, DC. Previously, from the fall of 2015 to May 2020, Ms. Mandanas held the position of Executive Vice President, Chief Strategy Officer, of CleanChoice Energy, Inc., a company engaged in renewable energy retail supply and community solar, where she led strategic planning and was responsible for raising capital, banking/investor relations and establishing protocols for risk management and financial reporting. Prior to joining CleanChoice Energy in 2015, Ms. Mandanas worked in corporate and investment banking for more than 20 years, principally focused in the power and utility sector and executing across multiple facets of corporate finance/strategic advisory transactions, which included capital raising, structured financings, liability/interest rate/commodity risk management, treasury operations, capital allocation strategies, dividend policy and mergers and acquisitions. From 2013 to the fall of 2015, she served as Head of the Power/Utility Group in Corporate Banking at RBC Capital Markets, LLC, where she helped form the renewable tax equity business and grow the renewable loan portfolio. Prior to RBC Capital Markets, Ms. Mandanas served as Managing Director in Citigroup’s North American Power/Utility Corporate and Investment Banking Group from 2007 to 2013. From 1998 to 2007, Ms. Mandanas held various roles at Credit Suisse in the Power and Utility Investment Banking Group and in the Leveraged Finance/Financial Sponsors Group. She has worked across many industries, including companies in the power and utilities, textiles, chemicals, general industrials and education sectors. Additionally, Ms.Mandanas also spearheaded various diversity initiatives at Credit Suisse and was successful in establishing an annual leadership conference for female clients. Prior to joining Credit Suisse, she was a Vice President at NationsBank in New York. Additionally, Ms. Mandanas served on the Board of Trustees for the Business Partnership Foundation for the University of South Carolina for five years. Ms. Mandanas earned her M.B.A degree from Vanderbilt University and graduated, magna cum laude, with a B.S. from the University of South Carolina. We believe Ms. Mandanas is well qualified to serve as a director because of her significant experience and knowledge in finance, risk management, investment banking, business and work with companies involved in renewable energy and other areas of the energy industry.
+Thomas Ertel
+Chief Accounting Officer - Strada Education Network
+Thomas Ertel
+Chief Accounting Officer - Strada Education Network
+Thomas Ertel has been a member of our Board of Directors since 2022.He was a Partner at Ernst & Young, LLP, an accounting firm, from June 2002 until his retirement from full-time employment in June 2017. Prior to that, Mr. Ertel spent 25 years, including 13 years as Partner, with Arthur Andersen, LLP, an accounting firm. Since October 2017, Mr. Ertel has served as Senior Vice President and Chief Accounting Officer of Strada Education Network, a nonprofit organization that strengthens America’s pathways between education and employment. From December 2017 through September 2021, he served as a director on the board of directors of Blackbaud, Inc. He holds a BS in Accounting from Ball State University and has maintained an active CPA license in the State of Indiana since 1980. We believe Mr. Ertel is well qualified to serve as a director because of his management skills and because of his knowledge and experience in accounting and corporate transactions.
+Larry Paulson
+Member of the Board of Directors
+Larry Paulson
+Member of the Board of Directors
+Larry Paulson has served as Novus’s non-executive Chairman since its inception. Mr. Paulson co-founded Novus Capital Corporation and has served as its Chief Executive Officer and a director since its inception in March 2020 until its business combination with AppHarvest, Inc. in January 2021. Mr. Paulson has served as a managing member of Novus Capital Associates, LLC since its formation in October 2020. He has also served as principal and founder of Rancho Santa Fe Solutions, a wireless industry consulting company he founded in February 2010. From 2013 to January 2020, Mr. Paulson was with Qualcomm (Nasdaq:QCOM) where he served as Vice President of Product Management (2013-16), Vice President and President India and SAARC (2016-2018) and Vice President Sales NA and Australia (2018-Jan 2020). Prior to Qualcomm, he served as Executive Vice President and Chief Marketing Officer of Brightpoint, Inc., a provider of worldwide distribution and integrated logistics services to the wireless communications industry, from 2011 to 2013. Prior to that he served with Nokia (NYSE:NOK) from 1987 to 2009 where he had numerous roles including global Senior Vice President and General Manager CDMA Product line. Mr. Paulson holds a BA in Communications from Point Park University. We believe Mr. Paulson is well qualified to serve as a director because of his more than thirty years of global senior management positions in the tech industry with expertise in wireless communications.
+Stephanie Unwin
+Chief Executive Officer - Arc Infrastructure
+Stephanie Unwin
+Chief Executive Officer - Arc Infrastructure
+Stephanie Unwin is the Chief Executive Officer of Arc Infrastructure, a rail freight network manager operating more than 5,000 kilometers of rail across Western Australia. She joined Arc Infrastructure in 2025. With over 30 years of experience spanning the energy, biotech, commodities, and legal sectors, Stephanie brings a strong track record in infrastructure leadership and in supporting regional development and local communities.
+Prior to joining Arc Infrastructure, Stephanie was the CEO of Horizon Power, Western Australia’s regional energy provider. Stephanie has held senior leadership roles at CBH Group and Synergy. She was the CEO of listed biotech, Phylogica; and has held a number of directorships of Australian, USA and Toronto Stock Exchange-listed companies.
+Stephanie has a Bachelor of Law and a Bachelor of Economics from Murdoch University and is a graduate of Harvard Business School – Advanced Management Program 191. She was admitted to the Bar in Western Australia and is a Graduate Member of the Australian Institute of Company Directors.
+Dylan Hixon
+President - Arden Road Investments
+Dylan Hixon
+President - Arden Road Investments
+Dylan manages a portfolio of diversified public and private investments at Arden Road, a New York City based family office. The holdings include a captive Deep Tech Venture Capital fund that he manages directly, with private investments including SpaceX, Impulse Space, Niantic, Digilens, Prorata.ai, Energy Vault (NRGV), and ShotSpotter (SSTI). Dylan also serves as Chairman of Hixon Properties Inc., a privately held real estate development company operating in San Antonio, Dallas, and Austin. Hixon Properties opportunistically develops and acquires real estate in multiple product types, with $500 million in assets. Previously, Dylan worked for many years as an engineer in a variety of areas. He is the author of several technical papers and four patents. Dylan holds a Bachelor’s Degree from Yale University, and a Master’s Degree in Mechanical and Aerospace Engineering from the California Institute of Technology. He is a Trustee of Harvey Mudd College in Claremont, California, a member of the advisory boards of the Yale School of Engineering and Applied Science and Yale School of the Environment, and the Board of the Regional Plan Association (RPA) of New York, the oldest independent regional planning organization in the US. Dylan lives in New York City with his wife and two sons.
+Global Management Team
+Executive Leadership
+Energy Vault® global management team is focused on accelerating the adoption and deployment of our technology to provide flexibility to deploy, at scale with customized solutions for our identified target customers.
+Robert Allen Piconi
+Chairman of the Board, Co-Founder & CEO
+Robert Allen Piconi
+Chairman of the Board, Co-Founder & CEO
+Robert Piconi is Chairman of the Board, Co-Founder and Chief Executive Officer of Energy Vault, responsible for the overall vision, strategic direction and operational performance of the company.
+Mr. Piconi’s 30+ years of industry experience includes prior executive leadership roles in US NYSE Fortune 100 public companies across various industries including Diversified Energy (Amoco/British Petroleum), Telecommunication Networks (Bell Labs Lucent Technologies, Alcatel), and Security/Network Management Software (Danaher Corporation). Within the private sector, he also founded and led as CEO several innovative healthcare service management and medical device companies which were later acquired by top tier private equity funds and/or large industry conglomerates.
+In 2020, as part of his founding and scaling of Energy Vault, Mr. Piconi was one of 15 global leaders named by the World Economic Forum as “SDG Champion” for his ongoing work advancing sustainability, decarbonization and the circular economy. In addition to the Energy Vault NYSE board, Mr. Piconi also sits as a Non-Executive Independent Director on the board of Microporous, a leading advanced lead acid and EV battery technology and manufacturing company that is privately held.
+Mr. Piconi received his graduate degree and MBA from Northwestern University (Kellogg School of Management) and undergraduate degrees BBA/BS in Finance and Italian Renaissance Literature from the University of Notre Dame.
+Michael Beer
+Chief Financial Officer and Head of Corporate Services
+Michael Beer
+Chief Financial Officer and Head of Corporate Services
+Michael Beer serves as Chief Financial Officer and Head of Corporate Services at Energy Vault Holdings, Inc. (NYSE: NRGV). Michael also currently serves on the Board of Directors at UK-based venture builder, Cambridge Future Tech (CFT) and is a Partner at Vest Coast Capital. Prior to Energy Vault, Michael served as CFO of FreeWire Technologies and Head of Financial Strategy & Investor Relations at Luminar Technologies (NASDAQ:LAZR). Before Luminar, Michael spent seven years at Citi (NYSE:C) in Hong Kong & Singapore, overseeing the transportation, logistics and infrastructure research franchise across Asia. From 2006-2008, he covered the North American transportation sector at Bear Stearns in New York. Michael has been a frequent contributor to CNBC, Nasdaq TradeTalks, Wall Street Journal, Financial Times and Barron's, among others. Michael received undergraduate degrees in Finance and Entrepreneurship from the Eller College of Management (University of Arizona) and completed his MBA at the Wharton School (University of Pennsylvania).
+Laurence Alexander
+Chief of Staff and Chief Marketing Officer
+Laurence Alexander
+Chief of Staff and Chief Marketing Officer
+Laurence Alexander has served as Energy Vault’s Chief Marketing Officer, Chief of Staff, and Head of Investor Relations since 2022. Mr. Alexander has also served as Chairman for Wantley Manor Consultancy Ltd. since 2002 and a board advisor for Chronos Imaging LLC since 2018. Prior to Energy Vault, Mr. Alexander co-founded EarlyWMC Limited and served as its Chairman from 2010 to 2019. Mr. Alexander also served as Vice President Marketing for Danaher Corporation from 2010 to 2015. Prior to Danaher Corporation, Mr. Alexander served as Group Chief Executive Officer for SAB Holdings, LLC from 2009 to 2010. Prior to SAB Holdings, LLC, Mr. Alexander served in roles of increasing responsibility for O2, a brand owned by Telefónica, from 2002 to 2005. Prior to O2, Mr. Alexander served as Chief Executive Officer for Genie, a subsidiary of British Telecom, from 1999 to 2002. Prior to Genie, Mr. Alexander served as Managing Director of Consumer Services and Chief Operating Officer for World Online from 1998 to 1999. Mr. Alexander holds a HND in Business Studies from Greater Brighton MET.
+Marco Terruzzin, Ph.D.
+Chief Revenue Officer
+Marco Terruzzin, Ph.D.
+Chief Revenue Officer
+Marco Terruzzin has served as Energy Vault’s Chief Revenue Officer since 2025. Before his time as Chief Revenue Officer, Dr. Terruzzin served as Energy Vault's Chief Commercial and Product Officer from 2022 to 2025. . Prior to Energy Vault, Dr. Terruzzin served as Director of Energy Storage for RWE Renewables from 2017 to 2019. Prior to joining RWE Renewables, Dr. Terruzzin served as Head of Energy Storage Edge Platform for Stem from 2016 to 2017. Prior to joining Stem, Dr. Terruzzin served as Managing Director — Americas for NOHA (former Engie EPS) from 2015 to 2016. Prior to NOHA, Dr. Terruzzin was Managing Director APAC for Evolutions Markets, based in Beijing. Dr. Terruzzin holds an M.Sc. in Mechanical Engineering and a Ph.D. in Energy Economics from University of Padua (Italy) and an M.B.A. from the University of Virginia Darden School of Business.
+Akshay Ladwa
+Chief Development and Operations Officer
+Akshay Ladwa
+Chief Development and Operations Officer
+Akshay Ladwa serves as Energy Vault’s Chief Development and Operations Officer. Prior to this role, Akshay served as the Chief Engineering Officer of Energy Vault Solutions from 2022 - 2024. Akshay’s experience includes executive management roles in Energy Storage, Integration, project management and Engineering (BrightNight, Wärtsilä, and Greensmith), Mechanical Systems Engineer (GE Energy Storage), and PV System Design and Development Engineer (Solar). Akshay holds a Masters of Science in Mechanical Engineering from Laurence Technological University, and a Bachelors of Science degree in Mechanical Engineering from Visvesvaraya Technological University
+Brad Eastman
+General Counsel & Chief Legal Officer
+Brad Eastman
+General Counsel & Chief Legal Officer
+Brad Eastman serves as General Counsel and Chief Legal Officer at Energy Vault. Brad is responsible for overseeing Energy Vault’s legal, regulatory, IP and compliance functions, as well as all legal aspects of its strategic and commercial partnerships as the company continues to scale its operations and expand its global footprint.
+Brad brings to Energy Vault over 25 years of legal and executive experience across multiple industries. Brad’s career has been centered around corporate legal affairs, with a strong focus on governance, mergers and acquisitions, regulatory compliance and strategic legal operations within the oil and gas, energy, and communications industries.
+Before joining Energy Vault, Brad served as Vice President, General Counsel at GreyOrange from 2022 to 2024, where he led legal strategy and operations. Prior to that, he was Senior Vice President and General Counsel at RigNet, overseeing global legal, compliance, and regulatory affairs between 2017 and 2021. Brad also held other senior roles from 2005 to 2017, including General Counsel for the Cameron Group of Schlumberger post-acquisition. Prior to the acquisition he served as Vice President, Deputy General Counsel at Cameron, where he managed legal matters for the $9 billion multinational corporation. His responsibilities included negotiating complex deals and managing litigation, particularly in the aftermath of the Deepwater Horizon oil spill.
+Brad holds a BA from The University of Texas at Austin and a JD from Harvard Law School. Brad currently resides in Texas.
+Gonca Icoren
+Chief People Officer
+Gonca Icoren
+Chief People Officer
+Goncagul İçören has served as Energy Vault’s Chief People Officer since 2021. Prior to Energy Vault, Ms. Icoren served as an Executive Director of HR at Amgen Inc. (Nasdaq:AMGN) from 2017 to 2021 and a Regional HR Lead from 2014 to 2017 covering markets in Turkey, Middle East, Latin America, and Canada. Prior to joining Amgen Inc., Ms. Icoren served as Vice President of Global Talent Management at Actavis Pharma, Inc. from 2012 to 2014 and Vice President of Human Resources for Europe from 2009 to 2012in Switzerland. She held various HR leadership and consultancy roles acrossa whole suit of employee lifecycle management initiatives such as change management, M&As, learning and development, talent acquisition, talent management, staff relations, compensation and benefits, employee engagement across the globe. Ms. Icoren holds a B.A. in International Relations from Middle East Technical University, Turkey and an Executive M.Sc. in International Human Resource Management from Cranfield University Cranfield School of Management, UK.
+Richard Espy
+Chief Information and Security Officer
+Richard Espy
+Chief Information and Security Officer
+Richard Espy serves as the Chief Information & Security Officer at Energy Vault, responsible for developing and executing the overall information strategy of the company. Emerging big data, IoT, analytics, and artificial intelligence technologies are central to Energy Vault’s innovative storage solutions and renewable energy enablement.
+Richard has a track record of advancing technology and delivering software products that achieve information superiority. His experience includes prior roles as a co-founder and executive leader in companies across various industries and technologies, including Artificial Intelligence/Data Analytics (Ubiety), Home Security (HomeAware), Cloud Computing/Management (cloudtamer.io and WolkOps), Cybersecurity (Stratus Solutions and Booz Allen Hamilton), and Network/Application Performance (OPNET Technologies).
+Richard also served his country as a United States Marine and later as a consultant managing global technology operations for the DoD, NSA, and other Intelligence Agencies.
+Richard holds a B.S. in Information Systems Management, Computer Science and a M.S. in Information Technology, Information Assurance from the University of Maryland Global Campus.
+Andrea Pedretti
+Co-Founder & Chief Technology Officer
+Andrea Pedretti
+Co-Founder & Chief Technology Officer
+Andrea Pedretti is Co-founder of Energy Vault and has served as the company’s Chief Technology Officer since 2017.
+Mr. Pedretti is a noted engineer and experienced entrepreneur who has served as co-founder and CTO of several technology companies. Mr. Pedretti holds over 40 patents for a variety of civil engineering and energy applications and is the inventor and technology lead for Energy Vault’s Gravity Energy Storage Solution.
+Since 2016, Mr. Pedretti has also served as Managing Director for pquadrum engineering SA. Prior to Energy Vault, Mr. Pedretti served as a scientific advisor to Synhelion SA from 2016 to 2019. Mr. Pedretti holds an M.S. in Civil Engineering from the Swiss Federal Institute of Technology (ETH).
+Want to be part of our Team?
+90%
+Some descriptive text Some descriptive text
+1000
+Some descriptive text
+60
+Some descriptive text
+65+
+Some descriptive text Some descriptive text
+Global Partners
+Global Deployment
+Energy Vault’s collaborative partners are vital to achieving our goal to transform the world’s approach to affordable, reliable, and sustainable electricity. Energy Vault® partnership programs are designed to enhance sustainable production design and to encourage global deployment of Energy Vault Solutions™.
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+In more news
+A small description up and coming news articles.
+Energy Vault announces the Award of 100 MW / 870 MWh Long-Term Energy Service Agreement to its Development Partner in AustraliaShare
+Subscribe to newsletter
+Please supply your information below to subscribe to our newsletter.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.energyvault.com/projects/stoney-creek-bess
+
+Stoney Creek Battery Energy Storage System
+Energy Vault's first fully owned and operated battery energy storage system (BESS) in the Australian market providing 8-hours of power to the New South Wales region.
+Project Overview
+The Stoney Creek Battery Energy Storage System (BESS) is a 1.0 gigawatt-hour (GWh) facility located in Narrabri, New South Wales, developed by Energy Vault in partnership with Enervest. Featuring a 125 megavolt-ampere (MVA) connection, this 8-hour duration system is one of Australia's largest long-duration battery projects. Awarded a 14-year Long-Term Energy Service Agreement (LTESA) by the Australian Energy Market Operator (AEMO) Services, the project will provide critical grid stability, balancing renewable energy generation and enhancing system resilience in line with New South Wales' decarbonization goals.
+Currently in the development phase, the Stoney Creek BESS is expected to begin construction in 2025, creating up to 150 jobs at peak construction and four full-time operational roles once completed. This project is a key part of Energy Vault’s ‘Own & Operate’ growth strategy, reinforcing its commitment to delivering sustainable, long-duration energy storage solutions that support Australia’s energy transition.
+Location: New South Wales, Australia
+Products: B-VAULT™, VaultOS™
+Peak Power Output: 125 MW
+Energy: 1 GWh
+Project Status: Pre-Construction
+Project Delivery Highlights
+Community Boosting
+Stoney Creek will create 150 jobs at peak construction and four full-time operational roles while actively engaging Traditional Owners, community groups, and local councils to ensure a collaborative, sustainable development that strengthens the local economy and enhances grid reliability.
+Market Leading Project
+In partnership with Enervest, the 1.0 GWh Stoney Creek BESS leverages the B-VAULT architecture and is one of Australia's largest 8-hour battery systems, selected under AMEO Services' NSW Long Duration Storage tender. Its inclusion as an LTESA project highlights its strategic role in enhancing grid reliability and accelerating Australia’s energy transition.
+Own and Operate
+The Stoney Creek BESS is expected to be one of the first Australian projects in Energy Vault’s portfolio of ‘Owned & Operated’ projects, demonstrating continued successful execution of the global growth strategy
+Software-Enabled Startup and Operation
+The VaultOS™ Energy Management System will control, manage and optimize the BESS operations, allowing for superior energy management capabilities.
+“Stoney Creek BESS being awarded the LTESA is a pivotal step in delivering critical infrastructure that drives Australia’s energy transition, economic growth, and long-term system reliability. The partnership with Energy Vault early in the project development and final bid submission last year ensured we would have a comprehensive and successful bid with a proven global leader in energy storage solutions and operations. We recognize AEMO Services’ leadership in advancing projects that strengthen Australia’s energy future as well as consortium partner Energy Vault’s expertise in battery technology, software and system design.”
+Ross Warby
+CEO, Enervest
+In more news
+A small description up and coming news articles.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.energyvault.com/projects/cross-trails-bess
+
+Cross Trails Battery Energy Storage System
+Energy Vault's first fully owned and operated battery energy storage system (BESS), delivering power and ancillary services to the ERCOT grid.
+Project Overview
+The Cross Trails BESS project is Energy Vault's first developed, owned, and operated battery energy storage system. At 57 MW / 114MWh, the system provides energy and ancillary services to support renewable energy production and improve grid resiliency in the Electric Reliability Council of Texas (ERCOT) region. The project leverages Energy Vault's fully integrated solution stack of hardware, software, and service offerings. Cross Trails also serves as the first deployment of Energy Vault's second generation B-VAULTTM AC product.
+The project is backed by a significant partnership with Gridmatic, featuring a 10-year offtake agreement set to begin in Q2 2025. This agreement marks the first physically settled revenue floor contract signed for a BESS in ERCOT and leverages Gridmatic's AI-based forecasting capabilities, which have demonstrated leading performance in Day Ahead energy trading within the ERCOT market. As part of the agreement, Gridmatic also provides QSE (Qualified Scheduling Entity) services. The Cross Trails project reached COD ahead of schedule in May of 2025.
+Location: Snyder, Texas
+Products: B-VAULT™ AC, VaultOS™, Vault-Manager™
+Peak Power Output: 57 MW
+Energy: 114 MWh
+Project Status: In Operation
+Project Delivery Highlights
+First Technical Deployment
+Cross trails is Energy Vault's first deployment of its Second Generation B-VAULT™ AC product. The fully integrated systems enabled Energy Vault to deliver the system ahead of schedule and at lower cost while also providing higher levels of system availability in the ERCOT grid.
+Market Leading Project
+The Cross Trails offtake agreement is the first physically settled revenue floor contract to be signed for a BESS in ERCOT. The agreement is backed by Gridmatic’s previously announced Energy Storage Fund and provides both Energy Vault and Gridmatic with the benefit of Gridmatic’s AI-based forecasts.
+Own and Operate
+The Cross Trails project marks Energy Vault’s first fully developed, owned, and operated battery energy storage project, signaling a strategic shift toward long-term asset ownership. This milestone underscores the company’s commitment to leveraging its proprietary technology and energy management platform to maximize performance, reliability, and financial returns.
+Software-Enabled Startup and Operation
+The VaultOS™ Energy Management System controls, manages and optimizes the BESS operations, allowing for superior energy management capabilities.
+"Energy Vault’s proven expertise and ability to develop and deploy world-class, reliable, and cost-effective energy storage solutions make them a perfect partner for Gridmatic. This BESS will deliver increased grid reliability and affordability for Texas residents as load growth continues to accelerate. We look forward to a strong partnership with Energy Vault for years to come."
+Max Wytock
+CEO, Gridmatic
+In more news
+A small description up and coming news articles.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.energyvault.com/projects/new-england-bess
+
+New England Battery Energy Storage System
+Energy Vault's first large scale Battery Energy Storage System (BESS) deployment in Australia leading the way for the New South Wales Government's Emerging Energy Program.
+Project Overview
+Collocated with ACEN Australia's 720 MW New England Solar project, Energy Vault will deliver two battery energy storage system (BESS) deployments totaling 400 MWh. The projects are split into a two-phase development delivering an initial 50 MW/100 MWh BESS and subsequently a 150 MW/300 MWh BESS.
+Construction on both BESS deployments began in Q1 2025, with commercial operations targeted for 2025 and 2026. The BESS systems will be charged and discharged daily to help meet peak electricity demand in New South Wales by dispatching stored renewable energy from the co-located solar project. This is expected to reduce the region's reliance on coal-fired power generation.
+Energy Vault's BESS deployments will utilize its B-VAULTTM integrated battery storage solutions and VaultOSTM energy management system to store energy and orchestrate the entire sites operations, respectively. The BESS systems will be coupled with Siemens S120 inverters to enable advanced grid support functionalities. This collaboration between ACEN Australia and Energy Vault represents a significant investment in grid-scale energy storage to integrate renewable energy in the Australian market.
+Customer: ACEN Australia
+Location: New South Wales, Australia
+Products: B-VAULT™ AC, VaultOS™
+Peak Power Output: 200 MW
+Energy: 400 MWh
+Project Status: Under Construction
+Project Delivery Highlights
+Tailor Made Solution
+Energy Vault's B-VAULT™ was optimized specifically for the New England BESS project. The unique form factor incorporates inverters into the BESS module satisfying ACEN's inverter requirements while simultaneously reducing onsite construction scope and costs.
+Market Leading Project
+Demonstrating Energy Vault's agility in adapting to new markets and customer needs, the New England BESS marks the first large-scale battery energy storage deployment in Australia for both Energy Vault and the New England region of New South Wales (NSW).
+Collocated Operations
+The New England BESS project is collocated with the 720MW New England Solar project which is also developed by ACEN Australia. The combined system will drive the NSW Government's Emerging Energy Program.
+Software-Enabled Startup and Operation
+The VaultOS™ Energy Management System will control, manage and optimize the BESS operations, allowing for superior energy management capabilities.
+"As New England Solar progresses toward completion, we are fortunate to not only have the opportunity to partner with the Energy Vault team in the development of energy storage systems, but to have the strong support and partnership of the Anaiwan First Nations and local community. It is our goal to reliably provide clean power in the most efficient and cost-effective manner possible, and today we are one step close to achieving that mission."
+Tim Greenaway
+Head of Construction, ACEN Australia
+In more news
+A small description up and coming news articles.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.energyvault.com/projects/nucube
+
+NuCube Partners With Energy Vault
+Strategic partnership to expedite NuSun™ micro-modular reactor, coupled with Energy Vault material science and storage solutions, for rollout at high-energy demand locations, including data centers
+Powering AI Data Centers with Micro Nuclear Reactors, Offering Flexible Baseload, Energy Storage and Grid Services Capabilities
+Energy Vault and NuCube Energy have announced a strategic partnership to advance the deployment of NuSunTM, a nuclear microreactor platform designed for high-energy-demand sites like AI-driven data centers. The collaboration combines NuCube’s nuclear expertise with Energy Vault’s VaultOS™ Energy Management System and B-VAULT™ Battery Energy Storage System to deliver scalable, safe, and carbon-free baseload power. This integrated solution addresses the growing energy demands of large energy users by providing cost-effective and operationally flexible power generation.
+The partnership also leverages Energy Vault’s advanced material science and storage solutions to support NuSunTM shielding and containment systems, enhancing safety and efficiency while expediting deployment. Energy Vault will integrate its VaultOSTM software to enable joint control of NuSunTM and battery storage, ensuring uninterrupted 24/7 operation for AI data centers. This setup allows dynamic load management, multi-unit coordination, and seamless energy delivery during peak and off-peak periods, improving responsiveness to diverse energy demands.
+NuSunTM innovative technology incorporates TRISO fuel and heat pipe technology, eliminating most moving parts for improved safety, reliability, and licensing timelines. Fully enclosed in transportable stainless-steel vessels, NuSunTM reactors minimize emergency planning requirements and streamline regulatory approval by using pre-characterized materials. Together, these features make NuSunTM, B-VAULTTM, and VaultOSTM a modular and scalable solution capable of rapidly addressing the U.S. data center market’s projected energy consumption of 500 TWh by 2028, ensuring a dependable, zero-carbon energy supply.
+NuCube leverages over a century of nuclear expertise to deliver a cutting-edge micro nuclear reactor technology. Utilizing TRISO fuel, heat pipes, and a proprietary heat-to-electricity system, NuSunTM minimizes components and eliminates most moving parts. This 'walk-away safe' reactor provides zero-carbon, continuous power for data centers, operating for years without refueling. Modular design ensures scalable deployment and streamlined permitting to meet diverse energy needs.
+Advanced Power Solutions
+NuSun™
+NuSunTM leverages over a century of nuclear expertise to deliver a cutting-edge micro nuclear reactor. Utilizing TRISO fuel, heat pipes, and a proprietary heat-to-electricity system, NuSunTM minimizes components and eliminates most moving parts. This 'walk-away safe' reactor provides zero-carbon, continuous power for data centers, operating for years without refueling. Modular design ensures scalable deployment and streamlined permitting to meet diverse energy needs.
+B-VAULT™
+VaultOS™
+VaultOS™, Energy Vault's advanced Energy Management System (EMS), is integral to the company's collaboration with NuCube Energy to expedite the deployment of NuSunTM. VaultOS™ provides real-time monitoring, operational control, and optimized dispatch across various energy assets, including the NuSunTM platform and B-VAULT™ Battery Energy Storage System (BESS). This integration ensures seamless energy management, enabling data centers and large energy users to maintain continuous, carbon-free operations with enhanced efficiency and responsiveness.
+Partnership Highlights
+Innovative
+First-of-its-kind system composed of microreactors, battery energy storage systems, and energy management systems.
+24/7 Firm Power
+Ensure continuous, reliable, and clean power for data centers and large energy users.
+Safe
+Enhanced safety through robust containment, minimal moving parts, and seamless energy management.
+Rapid Deployment
+Speed up time to commercial operations and avoid power grid backlogs with onsite generation.
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+In more news
+A small description up and coming news articles.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.energyvault.com/projects/minieradenergia
+
+Miniera d'Energia
+From Prototype to Full-Scale Project
+Energy Vault's hybrid energy storage system leverages existing infrastructure, advance modular gravity storage, and lithium-ion batteries to support the development of a carbon free technology hub at the former site of Italy’s largest coal mine.
+Project Overview
+Located at Carboluscis' Nuraxi Figus coal mine in Sardinia, Italy, Energy Vault, starting from a first industrial prototype, is developing an innovative hybrid gravity + battery energy storage system to help stabilize Sardinia's power grid. The Miniera d'Energia project will play a crucial role in aiding the Sardinian Government's ambition to transform the decommissioned mine into a carbon-neutral technology hub, reduce its environmental impact, and foster economic development in the area.
+Energy Vault's hybrid solution incorporates the first commercial scale deployment of its modular pumped hydro system, EV0TM. The EV0TM system will repurpose the retired coal mine's unique underground features, including its 500-meter-deep mine shafts, to deliver a highly efficient gravity energy storage system. Acting in tandem with EV0TM, Energy Vault's B-VAULTTM battery energy storage solution will complement the gravity system to provide additional services on the Sardinian grid. Completion of the EV0TM prototype is slated for 2025 and the full system for 2027-2028* where Energy Vault will fully own and operate the site, demonstrating our commitment to being a long-term partner in the region's clean energy future.
+Note:
+* Subject to the timing of the final permitting approval by the local/national authorities
+** Final size subject to confirmation by Terna (National TSO) of locally available interconnection capacity
+Partner: Carbosulcis SpA
+Location: Sardinia, Italy
+Products: B-VAULT™, EV0™, VaultOS™
+Peak Power Output: 100 MW**
+Prototype: Under Construction
+Project Status: Under Development
+Stanton Battery Energy Storage System
+Project Delivery Highlights
+First Deployment of EV0™ System
+The Miniera d'Energia site will be the first commercial-scale deployment of Energy Vault's EV0™ system demonstrating our capability to leverage existing infrastructure and topology to deliver a flexible, competitive long duration energy storage solution.
+Innovative Hybrid System
+Energy Vault's robust energy storage expertise and multi-technology approach allows us to utilize different hardware technologies to serve the unique system requirements of our customers.
+Software-Enabled Startup and Operation
+VaultOS™ energy management software and hybrid power plant controller (PPC) will enable seamless control of the Miniera d'Energia site, orchestrating the hybrid system's operations within the Sardinian grid.
+Wellhead Electric
+"The Energy Vault team designed and deployed the optimal energy storage solution for our Stanton site. Only a few days after mechanical completion the system delivered full power to the grid validating the quality of the design and execution. Energy Vault did an excellent job of providing a solution that met both the challenging energy density requirements and the equipment delivery time frames to enable the project to go forward. We are a satisfied customer, and we appreciate Energy Vault’s expertise, creative thinking and collaborative partnership in bringing this project to fruition."
+Hal Dittmer
+Chief Executive Officer, Wellhead Electric
+In more news
+A small description up and coming news articles.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.energyvault.com/projects/st-gall
+
+St. Gall Battery Energy Storage System
+Energy Vault’s B-VAULT™ AC battery energy storage system (BESS) shifts regional wind and solar generation, stabilizing the Texas grid while increasing customer revenue.
+Project Overview
+Located near Fort Stockton in Pecos County, Texas, the St. Gall Battery Energy Storage System (BESS) is a 100 MW-ac / 200 MWh-ac project utilizing 76 of Energy Vault’s fully integrated B-VAULT™ AC battery containers (First generation, 2.76 MWh-ac per container).
+The project operates within the Energy Reliability Council of Texas (ERCOT) energy and ancillary services markets, generating merchant revenue by providing energy shifting and reliability services to the Texas grid.
+At the St. Gall site, Energy Vault delivered comprehensive Engineering, Procurement, and Construction (EPC) wrap services. Leveraging its extensive commissioning and start-up (CSU) expertise and the B-VAULT's user-friendly system architecture, Energy Vault successfully commissioned the 200 MWh-ac St. Gall project in a record time of just 14 days.
+During operation, Energy Vault’s proprietary EMS software, VaultOS™, monitors and controls all aspects of the BESS, from daily operations to advanced market bidding and system maintenance. While undergoing testing, the St. Gall system surpassed ERCOT's 250ms maximum requirement for Fast Frequency Response (FFR).
+Customer: Jupiter Power
+Location: Fort Stockton, Pecos County, Texas
+Products: B-VAULT™ AC, VaultOS™
+Peak Power Output: 100 MW AC
+Energy: 200 MWh AC
+Project Status: Operating
+COD: March 2024
+St. Gall Battery Energy Storage System
+St. Gall Project Highlights
+Easy to Run
+VaultOS™ will make it easy for the customer to operate its battery assets, with advanced analytics and an EMS user interface designed for people.
+Innovative Design
+The B-VAULT™ AC integrates all batteries, PCS, and Balance of Plant (BoP) functionalities for streamlined operations.
+Lightning Fast Response Time
+The St. Gall system boasts a 180ms response time enabled by VaultOS™ and B-VAULT™ making Energy Vault's system capable of meeting response time requirements domestically and abroad.
+Flexible Operations
+The project’s future-proofed hardware and software architecture ensures that the St. Gall BESS will be able to provide a variety of grid services, both now and as the grid evolves.
+Onsite construction
+A small description of what the video is about and the benefit to watching it
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+In more news
+A small description up and coming news articles.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.energyvault.com/projects/reid-gardner
+
+Reid Gardner Battery Energy Storage System
+Energy Vault’s custom-tailored Battery Energy Storage System (BESS) solution addresses NV Energy's unique project needs. The Reid Gardner short duration energy storage project improves Nevada's grid resilience and enable excess solar generation to serve demand after the sun sets.
+Project Overview
+Located on the site of a former coal-fired power plant 50 miles northeast of Las Vegas, the Reid Gardner Battery Energy Storage System (BESS) is a 220 MW / 440 MWh project.
+The Reid Gardner BESS is one of the largest of its kind in Nevada, providing bulk energy shifting for regionally produced renewable solar energy. The project also provides system-stabilizing ancillary services and bolster the state’s firm dispatchable generation capacity.
+Energy Vault collaborated with project owner and Nevada’s largest utility, NV Energy, to design a bespoke BESS solution and provide an Engineering, Procurement, and Construction (EPC) wrap on the project to ensure successful delivery and commissioning of the 440MWh asset in under 4 months.
+Energy Vault's custom BESS solution configuration is coordinated by its technology-agnostic VaultOS™ energy management software. As part of the full lifetime maintenance of the project, Energy Vault is also providing a Long-Term Service Agreement (LTSA).
+Customer: NV Energy
+Location: Moapa, Nevada
+Products: Custom BESS Solution, VaultOS™, LTSA
+Power: 220 MW
+Energy: 440 MWh
+Project Status: Operating
+COD: December 2023
+Reid Gardner Battery Energy Storage System
+Reid Gardner Project Highlights
+Accelerated Delivery
+Energy Vault managed a diverse set of vendors and challenging site conditions to deliver a fully operational 440MWh asset in under 4 months.
+Adaptable
+Energy Vault's technology-agnostic approach was centered on the customer's selection of battery and inverter suppliers as part of a turnkey solution.
+Intelligent
+VaultOS™ intelligently manages the customer's hardware stack, supporting both grid services and energy shifting functionalities.
+Reliable
+VaultOS™ ensures the customer's assets are safe and secure to improve operational efficiency and uptime.
+“We truly appreciated the dedication and quick work of Energy Vault to ensure the Reid Gardner Battery Energy Storage System came in on time and on budget. It was clear from the start that this project was a priority for Energy Vault, from the top levels of the company all the way down. The overall construction process moved very quickly – which allowed us to bring the project in service for our customers ahead of schedule and ahead of the hot summer months. We appreciate the Energy Vault’s problem-solving spirit, commitment, and partnership in bringing this project to life.”
+Jimmy Daghlian
+Vice President of Renewables, NV Energy
+In more news
+A small description up and coming news articles.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.energyvault.com/projects/zhangye
+
+Zhangye, China Gravity Energy Storage System
+Energy Vault's second commercial scale EVx™ Gravity Energy Storage System (GESS) breaks ground in the Gansu Province of China
+Project Overview
+In April of 2023, China Tianying (CNTY) commenced construction of Zhangye City's first Gravity Energy Storage System (GESS) project. Once completed, the 175 meter structure will be equipped with a peak power output of 17 MW and a maximum energy capacity of 68 MWh.
+The Zhangye City project leverages excess electricity produced from new energy generation projects in Gansu Province to lift composite blocks or "mobile masses" during periods of "charging". During times of peak electricity demand, the gravity system will lower the composite blocks, generating electricity to help meet the region's power demands for 4 hours or longer.
+In January 2024, the Zhangye City GESS project was selected, alongside the Rudong GESS project, by China's National Energy Administration (NEA) as a "New Energy Storage Pilot Demonstration" project. This recognition showcases the Zhangye project's important contribution to China's "Dual Carbon" goals of addressing renewable energy intermittency while also easing grid congestion and connection pains.
+Customer: Atlas Renewables, CNTY
+Location: Zhangye City, Gansu Province, China
+Products: G-VAULT™ EVx™, VaultOS™
+Peak Power Output: 17 MW
+Energy: 68 MWh
+Project Status: Under Construction
+Zhangye Project Highlights
+High Round Trip Efficiency
+An anticipated 80% round trip efficiency puts the EVx™ ahead of competing long duration technologies such as flow battery, thermal, and compressed air energy storage.
+Performance Longevity
+No degradation of the storage medium requiring augmentation; no self-discharge; and an impressive 35-year project life span leads to sustained performance over an extended time horizon.
+Localized Supply Chain
+The EVx™ design enables compliance with domestic content requirements through regional sourcing of labor and materials while simultaneously limiting exposure to high-cost material market changes.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.energyvault.com/projects/calistoga
+
+Calistoga Resiliency Center
+Calistoga Resiliency Center (CRC) is the world's largest utility-scale, ultra-long duration energy storage project. This first-of-its-kind hybrid hydrogen + battery energy storage system enables a cost-effective, community-scale, clean microgrid that stores and dispatches clean energy, on demand.
+Project Overview
+The Calistoga Resiliency Center (CRC) is a hybrid energy storage facility that couples two commercial clean energy technologies: hydrogen fuel cells and lithium-ion batteries. The 293MWh system is designed to provide 48 hours of continuous energy, and a peak instantaneous power output of 8.5MW during regional Public Safety Power Shutoff (PSPS) events. When Calistoga's local microgrid is islanded from the regional electrical network during a PSPS event, the CRC will utilize clean hydrogen in fuel cells to generate electricity, providing power to the local community.
+Energy Vault's B-VAULT™ DC battery will work in conjunction with the fuel cells to provide instantaneous response and grid-forming capabilities, ensuring stable power supply throughout the event's duration. This integrated system results in zero point-source greenhouse gas emissions and is fully compliant with California's Renewable Portfolio Standard (RPS), meeting PG&E's unique ultra-long duration energy storage needs. This complex system is managed by Energy Vault’s technology-agnostic VaultOSTM Energy Management System (EMS), which is able to provide full control and coordination across all project subsystems in order to provide a seamless operational experience for Calistoga.
+Customer: PG&E
+Location: Calistoga, Napa County, California
+Products: H-VAULT™, B-VAULT™, VaultOS™, LTSA
+Peak Power Output: 8.5 MW
+Energy: 293 MWh
+Duration: 48 Hours
+Project Status: Commissioning
+Calistoga Hydrogen Long Duration Energy Storage System
+Calistoga Project Highlights
+Ultra-Long Duration
+48 hours of stored power to provide multi-day, clean energy to the community of Calistoga during extreme wildfire events.
+Flexible
+VaultOS™ will be utilized as the Calistoga Resiliency Center's energy management software showcasing its technology-agnostic capability to simultaneously manage diverse energy storage and renewable generation assets.
+Resilient
+Energy Vault's solution provides black-start, grid balancing, and renewable generation management services to ensure robust microgrid operation.
+Join the Conversation
+Looking to get in contact regarding the Calistoga Resiliency Center? Do you have any questions or concerns?
+Reach out to communications@energyvault.com to share your thoughts.
+Onsite Construction
+Media Galleries
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+In more news
+A small description up and coming news articles.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.energyvault.com/projects/stanton
+
+Stanton Battery Energy Storage System
+Energy Vault's customer-centric approach delivered a bespoke Battery Energy Storage System (BESS) that maximized energy density within a highly space-constrained urban site and met an accelerated project timeline.
+Project Overview
+Located in Stanton, Orange County, California, the Stanton Battery Energy Storage (SBES) project serves the California Independent System Operator (CAISO) market with resource adequacy (RA), ancillary services, and merchant power capabilities to support bulk renewable energy shifting in the transmission-constrained Los Angeles area. Energy Vault completed delivery of the 68.8 MW/275.2 MWh (4-hour) project in August 2023.
+Energy Vault’s in-house product expertise, full Engineering, Procurement, and Construction (EPC) wrap services, and global supply chain relationships enabled a bespoke BESS installation that was designed from the ground up. The result was a unique solution that met the critical needs of Wellhead Electric Co. and partner developer W Power, including optimized energy density and an expedited construction timeline.
+Energy Vault’s proprietary Energy Management System (EMS) software, VaultOS™, allowed for rapid commissioning, troubleshooting, and timely completion of all grid compliance testing required by the local regulated utility, Southern California Edison. VaultOS™ will continue to coordinate asset operations on behalf of Wellhead Electric and W Power throughout the project’s lifecycle.
+Customer: Wellhead Electric Company, W Power
+Location: Stanton, Orange County, California
+Products: Custom BESS Solution, VaultOS™
+Peak Power Output: 68.8 MW
+Energy: 275.2 MWh
+Project Status: Operating
+COD: August 2023
+Stanton Battery Energy Storage System
+Project Delivery Highlights
+Creative Custom Solution
+Energy Vault's customer-centric approach enabled the Stanton project to meet energy density constraints that competing system integrators' standard solutions could not.
+Fast Turnaround
+Energy Vault's in-house energy storage system delivery and execution expertise ensured flawless delivery and handover of the Stanton project within just five months of site mobilization.
+Challenging Timeline
+Through its global network of supplier relationships, Energy Vault was able to meet construction timelines while coordinating delivery of over 15,000 battery modules and critical, long-lead power conversion system equipment.
+Software-Enabled Startup and Operation
+The VaultOS™ software allows for rapid commissioning, testing, and market participation of the Stanton BESS solution, despite its custom hardware architecture.
+Wellhead Electric
+"The Energy Vault team designed and deployed the optimal energy storage solution for our Stanton site. Only a few days after mechanical completion the system delivered full power to the grid validating the quality of the design and execution. Energy Vault did an excellent job of providing a solution that met both the challenging energy density requirements and the equipment delivery time frames to enable the project to go forward. We are a satisfied customer, and we appreciate Energy Vault’s expertise, creative thinking and collaborative partnership in bringing this project to fruition."
+Hal Dittmer
+Chief Executive Officer, Wellhead Electric
+In more news
+A small description up and coming news articles.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.energyvault.com/projects/cn-rudong
+
+Rudong, China Gravity Energy Storage System
+Energy Vault’s groundbreaking EVx™ is the world’s first commercial-scale Gravity Energy Storage System (GESS), providing industry leading round-trip efficiency and a 35-year operating life.
+Project Overview
+The 25 MW/100 MWh EVx™ Gravity Energy Storage System (GESS) is a 4-hour duration project being built outside of Shanghai in Rudong, Jiangsu Province, China. The EVx™ is under construction directly adjacent to a wind farm and national grid. It will augment and balance China’s energy grid through the shifting of renewable energy to serve the State Grid Corporation of China (SGCC). The system is expected to be fully grid interconnected by the end of 2023 as planned with local grid authorities.
+The EVx ™ system is projected to achieve an impressive round-trip efficiency exceeding 80%. This places the new gravity system at the forefront of energy storage efficiency compared to alternative long duration energy storage methods such as mechanical, thermodynamic, compressed air, and flow battery systems. With a projected operational lifespan of 35 years, this project aligns with China's "Zero-Carbon parks" initiative and national "30-60" net carbon neutral plan. This inaugural deployment sets a benchmark for worldwide collaborations in decarbonization technology.
+Customer: Atlas Renewables, CNTY
+Location: Rudong, China
+Products: EVx™, VaultOS™
+Peak Power Output: 25 MW
+Energy: 100 MWh
+Project Status: Commissioning
+Rudong Project Highlights
+Innovative
+The Rudong project is the world's first commercial scale deployment of a non-pumped hydro, gravitational energy storage system.
+High Round Trip Efficiency
+An anticipated 80% round trip efficiency puts the EVx™ ahead of competing long duration technologies such as flow battery, thermal, and compressed air energy storage.
+Performance Longevity
+No degradation of the storage medium requiring augmentation; no self-discharge; and an impressive 35-year project life span leads to sustained performance over an extended time horizon.
+Localized Supply Chain
+The EVx™ design enables compliance with domestic content requirements through regional sourcing of labor and materials while simultaneously limiting exposure to high-cost material market changes.
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+In more news
+A small description up and coming news articles.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.energyvault.com/projects/solutionexcellencecenter
+
+Energy Vault Solution Excellence Center (SEC)
+Proving ground for Energy Vault's next generation gravity solutions and construction methods.
+Project Overview
+Against the back drop of gusty wind farms, bright solar fields, and sprawling desert, the small town of Snyder, Texas finds itself in a hotbed for the energy storage revolution.
+At the Solution Excellence Center (SEC) the Energy Vault team is bringing online demonstration units to showcase each of Energy Vault's latest advancements in gravity energy storage system design. By leveraging advanced construction techniques such as pre-cast modules and trolley based installation alongside major system improvements, Energy Vault is accelerating gravity technology delivery timelines while reducing costs.
+Once operational, the SEC will stand at an impressive 60 meters tall and house two EVy™ and four EVx™ modules. It will also showcase Energy Vault's EVc™ and EV0™ water based gravity storage systems. The asset will enable Energy Vault to showcase proof of concept with new gravity advancements and construction techniques, continue to optimize existing technologies, and further innovate in the long duration energy storage sector.
+Location: Snyder, Scurry County, Texas
+Products:
+Generation: Solar Plant
+GESS: EVx™, EVy™, EV0™, EVc™
+BESS: B-VAULT™
+Software: VaultOS™
+Customer Experience Center
+Project Status: Under Construction
+Solution Excellence Center Construction
+Experience Energy Vault's cutting edge advancements in gravity technology and vision for the future of the Solution Excellence Center
+Solution Excellence Center Project Highlights
+Next Generation Gravity Technology
+The solution excellence center will showcase the first implementation of Energy Vault's new gravity technologies, demonstrating three new form factors of our LDES technology.
+Advanced Construction Methods
+The gravity systems will be constructed using Energy Vault's latest developments in construction methods, reducing implementation costs and improving time to delivery.
+Technology Agnostic Energy Management Software
+Energy Vault's proprietary energy management software - VaultOS™ - will be utilized to direct operation of five different technologies between the G-VAULT™ and B-VAULT™ platfoms.
+Asset Optimization
+The Solution Excellence Center will serve as an additional R&D center for Energy Vault, enabling advanced system optimization across current and future hardware and software solutions.
+Onsite construction
+A small description of what the video is about and the benefit to watching it
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+In more news
+A small description up and coming news articles.
+Energy Vault announces the Award of 100 MW / 870 MWh Long-Term Energy Service Agreement to its Development Partner in AustraliaShare
+Meet The G-VAULT™ Family
+EVy™
+Leveraging nature's gravity to store energy with minimal environmental impact.
+EVu™
+EVuTM technology with improved unit economics, and mixed use potential
+EVc™
+Large scale pumped hydro, anywhere in the world.
+EV0™
+Pumped-Hydro, without the downside.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.energyvault.com/projects/research-development
+
+Research & Development
+Energy Vault is committed to continual technology innovation in the pursuit of solving the one of the largest global problems facing the planet today.
+Innovation - Purpose Driven
+Energy Vault is committed to continual technology innovation in the pursuit of solving the one of the largest global problems facing the planet today, how to store renewable energy in both an economical and sustainable way to end the world’s reliance on fossil fuels. Our shared commitment to a clean energy future drives every effort in technology research and development. To support the company's primary directive, Energy Vault has established foundational locations and partnerships in sustainable production, design innovation, advanced materials science development, and proprietary machine-vision software testing.
+Global Development
+Technology Innovation Timeline
+SWITZERLAND
+Ticino Biasca 2018
+Early feasibility studied conducted on the mechanical performance, efficiency, and automated software orchestration of the original gravity storage design concept.
+UNITED STATES
+California 2019
+CalTech-led engineering studies including seismic shake table stability analysis, accelerated mobile masses long-duration testing, and reliability studies.
+MEXICO
+Monterrey 2019
+Energy Vault and CEMEX announced a technology partnership whereby CEMEX provides the composite material technology for Energy Vault’s gravity energy storage mobile masses.
+SWITZERLAND
+Arbedo-Castione 2020
+Energy Vault R&D Center - Commercial Demonstration Unit was connected to the Swiss national utility grid and was utilized for two years of testing and software commissioning. This site location will continue to focus research, development, and innovation of our gravity energy storage technologies as we begin commercial deployments of this technology this year.
+ITALY
+Milano 2022
+Energy Vault Gravity Energy Storage Materials Science testing.
+R&D Center
+Center of Excellence
+Facility
+Energy Vault R&D Center
+Location
+Arbedo-Castione, Switzerland
+Technology
+Gravity Energy Storage & Energy Management System Software
+Established
+2020
+Research & Development
+Overview
+The Energy Vault Research and Development Center was founded in 2019. Energy Vault established Arbedo-Castione, Switzerland, as the premier research hub for research and development of the company's proprietary EVx™ Gravity Energy Storage System (GESS) technology and the supporting Energy Management System (EMS) solutions software.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.energyvault.com/solutions/services
+
+Maintain and sustain with Service Solutions
+Your assets, projects, and fleets need dedicated support to perform over time. Our service solutions meet you where you are – and want to be – with the mix of scope and cost that works for you.
+Why Services
+Storage is still a relatively new grid asset, raising questions about lifecycle performance. Unplanned downtime and output shortfalls are costly and can derail project pro formas.
+Why Energy Vault
+We listen closely to our services customers, allowing them to tailor contractual scope to their business needs and goals. Our experience with diverse storage technologies, combined with our technology-agnostic software, enables us to deliver uncommon service.
+Elements of your Service Solutions
+Equipment Maintenance
+Utilize preventative and EMS software as the foundation of your support.
+Service and Support
+Choose among different levels of remote monitoring support and options for training.
+Strategic Parts Management
+Benefit from both on-site spare parts and regional warehouse inventory.
+Performance Guarantees
+Increase coverage for key metrics including availability, capacity, and round-trip efficiency.
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Subscribe to newsletter
+Please supply your information below to subscribe to our newsletter.
+In more news
+A small description up and coming news articles.
+Energy Vault announces the Award of 100 MW / 870 MWh Long-Term Energy Service Agreement to its Development Partner in AustraliaShare
+Interested in hearing more about Energy Vault's Service Solutions?
+Our team of experts are ready to help with your storage needs.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.energyvault.com/
+
+Solving Energy Storage
+at Scale
+04 February, 2026
+Energy Vault announces the Award of 100 MW / 870 MWh Long-Term En...
+02 February, 2026
+After the SPAC: Why storage company Energy Vault pivoted after go...
+10 January, 2026
+Energy Vault breaks ground on 150-MW battery in Texas
+Energy Storage Built To Your Needs
+Customer-driven solutions
+Tackling complex customer needs with a focus on flexibility.
+Diversified across durations
+Uniquely addressing short, long, and ultra long duration requirements.
+Applying technological breadth
+Unparalleled expertise across battery, gravity, hydrogen, and software.
+Reinvent energy storage with us.
+Energy Vault partners closely with customers to identify, develop, and deploy solutions that maximize the economic and environmental value of their assets.
+Our customer-centric, solutions-based approach is grounded in our belief that energy storage technologies will continue to evolve rapidly, requiring a close customer connection, technology diversification, and sustained innovation.
+Unmatched value proposition
+We are the only energy storage company offering solutions encompassing short to long to ultra long duration needs with proprietary battery, gravity, and hybrid-hydrogen technologies.
+Sophisticated software
+Our cutting-edge software helps customers orchestrate and optimize storage - and other energy - assets for both operational and business performance.
+Commitment to innovation
+We invest strategically in research and development, knowing that the future of energy storage is constantly being reinvented.
+Energy Vault Resiliency Center
+Our focus on innovative storage solutions is exemplified by the Energy Vault Resiliency Center, which combines proprietary gravity technology and software to optimize energy dispatch and provide grid support.
+Our Unique Approach
+What differentiates Energy Vault from our peers? It’s not one single thing, but instead a combination of characteristics that collectively translate into greater value for our customers.
+01
+02
+03
+04
+05
+Customer-centric
+Solutions-based
+Duration-diversified
+Technology-agnostic
+Innovation-driven
+Oriented towards your goals, challenges, and needs.
+View our solutions
+Starting with the problem to solve, then bringing together the right products.
+View our solutions
+With proprietary battery, gravity, and hydrogen technologies to meet short, long, and ultra-long needs.
+View our products
+With sophisticated software to manage diverse energy assets.
+View our products
+By dedicated global R&D and engineering teams focused on inventing what’s next in energy storage.
+View our R&D
+Our Solutions
+We help companies succeed and lead with an unmatched portfolio of hardware, software, and service solutions.
+Our Products
+We design our products with a focus on scalability, flexibility, and adaptability.
+B-VAULT™
+Lithium-ion battery product designed for reliability, flexibility, and availability with innovative enclosure architecture and unique AC and DC configurations to provide customer optionality.
+B-Nest™
+Modular, multi-story structure designed to house battery energy storage systems (BESS) for unparalleled energy density.
+G-VAULT™
+Family of gravity energy storage products that decouple power and energy while maintaining a high round-trip efficiency, without the need for specific topography.
+H-VAULT™
+Hydrogen energy storage for multi-day resilience, designed to ensure the reliability of critical community infrastructure.
+VaultOS™
+Energy Management Systems software providing real-time monitoring, operational control, and optimized dispatch across an array of energy storage and generation assets.
+Vault-Bidder™
+Advanced monetization that leverages diverse, live data from assets and external drivers to optimize dispatch and revenue.
+Vault-Manager™
+Asset management providing portfolio visibility, analysis, and actionable insights to improve financial performance.
+1.4 GWh
+Deployed Since 2023
+Our Projects
+We recognize that innovation must be backed up with execution. We strive to deliver flawlessly, on schedule, and with a proactive attitude toward supply chain and other issues. Our teams are passionate about getting your projects up and running.
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Title
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Name Surname
+Position, Some Company
+Subscribe to newsletter
+Please supply your information below to subscribe to our newsletter.
+
+--------------------------------------------------------------------------------
+
+URL: https://investors.energyvault.com/overview/default.aspx
+
+Corporate Profile
+Energy Vault® develops, deploys and operates utility-scale energy storage solutions designed to transform the world's approach to sustainable energy storage. The Company's comprehensive offerings include proprietary battery, gravity and green hydrogen energy storage technologies supporting a variety of customer use cases delivering safe and reliable energy system dispatching and optimization. Each storage solution is supported by the Company’s technology-agnostic energy management system software and integration platform. Unique to the industry, Energy Vault’s innovative technology portfolio delivers customized short, long and multi-day/ultra-long duration energy storage solutions to help utilities, independent power producers, and large industrial energy users significantly reduce levelized energy costs while maintaining power reliability. Since 2024, Energy Vault has executed an “Own & Operate” asset management strategy developed to generate predictable, recurring and high margin tolling revenue streams, positioning the Company for continued growth in the rapidly evolving energy storage asset infrastructure market. Please visit www.energyvault.com for more information.
+Learn More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.energyvault.com/photo-gallery
+
+Investors
+Gallery
+Video
+In The News
+Home
+About Us
+Energy Vault Way
+Company
+Careers
+Solutions
+Overview
+Solutions
+Products
+Short Duration
+Overview
+B-Nest™
+B-VAULT™
+Long-Term Service
+VaultOS™
+Vault-Bidder™
+Vault-Manager™
+Long Duration
+Overview
+B-Nest™
+G-VAULT™
+EVx™
+Long-Term Service
+VaultOS™
+Ultra-Long Duration
+Overview
+H-VAULT™
+Long-Term Service
+VaultOS™
+Software
+Overview
+VaultOS™
+Vault-Bidder™
+Vault-Manager™
+Service
+Overview
+Long-Term Service
+VaultOS™
+Vault-Manager™
+Projects
+Overview
+Calistoga
+Cross Trails
+Miniera d'Energia
+New England BESS
+NuCube
+Reid Gardner
+Rudong
+St. Gall
+Stanton
+Stoney Creek
+Zhangye
+Research and Development
+Arbedo-Castione
+Solution Excellence Center
+Sustainability
+Contact
+Home
+About Us
+Energy Vault Way
+Company
+Careers
+Solutions
+Overview
+Solutions
+Products
+Short Duration
+Overview
+B-Nest™
+B-VAULT™
+Long-Term Service
+VaultOS™
+Vault-Bidder™
+Vault-Manager™
+Long Duration
+Overview
+B-Nest™
+G-VAULT™
+EVx™
+Long-Term Service
+VaultOS™
+Ultra-Long Duration
+Overview
+H-VAULT™
+Long-Term Service
+VaultOS™
+Software
+Overview
+VaultOS™
+Vault-Bidder™
+Vault-Manager™
+Service
+Overview
+Long-Term Service
+VaultOS™
+Vault-Manager™
+Projects
+Overview
+Calistoga
+Cross Trails
+Miniera d'Energia
+New England BESS
+NuCube
+Reid Gardner
+Rudong
+St. Gall
+Stanton
+Stoney Creek
+Zhangye
+Research and Development
+Arbedo-Castione
+Solution Excellence Center
+Sustainability
+Investors
+Gallery
+Video
+In The News
+Contact
+Energy Vault Gallery
+View photos and videos of our projects, R&D site, and company activities
+Browse by category
+All
+Calistoga
+Cross Trails
+EV1 - CDU
+Miniera d'Energia
+Reid Gardner
+Rudong
+R&D - Switzerland
+Solution Excellence Center
+Stanton
+St. Gall
+Zhangye
+Cross Trails
+Cross Trails
+Cross Trails
+Cross Trails
+Cross Trails
+Cross Trails
+Cross Trails
+Cross Trails
+Cross Trails
+Cross Trails
+Miniera d'Energia
+Miniera d'Energia
+Miniera d'Energia
+Miniera d'Energia
+St. Gall Battery Energy Storage
+St. Gall Battery Energy Storage
+St. Gall Battery Energy Storage
+St. Gall Battery Energy Storage
+St. Gall Battery Energy Storage
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Solution Excellence Center
+Reid Gardner Battery Energy Storage
+Reid Gardner Battery Energy Storage
+Reid Gardner Battery Energy Storage
+Reid Gardner Battery Energy Storage
+Reid Gardner Battery Energy Storage
+Zhangye Gravity Energy Storage
+Zhangye Gravity Energy Storage
+Zhangye Gravity Energy Storage
+Zhangye Gravity Energy Storage
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Calistoga Resiliency Center
+Stanton Battery Energy Storage
+Stanton Battery Energy Storage
+Stanton Battery Energy Storage
+Stanton Battery Energy Storage
+Stanton Battery Energy Storage
+Stanton Battery Energy Storage
+Stanton Battery Energy Storage
+Rudong Gravity Energy Storage
+Rudong Gravity Energy Storage
+Rudong Gravity Energy Storage
+Rudong Gravity Energy Storage
+Rudong Gravity Energy Storage
+Rudong Gravity Energy Storage
+Rudong Gravity Energy Storage
+Rudong Gravity Energy Storage
+Rudong Gravity Energy Storage
+R&D Center - Castione, Switzerland
+R&D Center - Castione, Switzerland
+R&D Center - Castione, Switzerland
+R&D Center - Castione, Switzerland
+R&D Center - Castione, Switzerland
+R&D Center - Castione, Switzerland
+R&D Center - Castione, Switzerland
+EV1 - CDU
+EV1 - CDU
+EV1 - CDU
+EV1 - CDU
+EV1 - CDU
+EV1 - CDU
+
+--------------------------------------------------------------------------------
+
+URL: https://www.energyvault.com/video-gallery
+
+Investors
+Gallery
+Video
+In The News
+Home
+About Us
+Energy Vault Way
+Company
+Careers
+Solutions
+Overview
+Solutions
+Products
+Short Duration
+Overview
+B-Nest™
+B-VAULT™
+Long-Term Service
+VaultOS™
+Vault-Bidder™
+Vault-Manager™
+Long Duration
+Overview
+B-Nest™
+G-VAULT™
+EVx™
+Long-Term Service
+VaultOS™
+Ultra-Long Duration
+Overview
+H-VAULT™
+Long-Term Service
+VaultOS™
+Software
+Overview
+VaultOS™
+Vault-Bidder™
+Vault-Manager™
+Service
+Overview
+Long-Term Service
+VaultOS™
+Vault-Manager™
+Projects
+Overview
+Calistoga
+Cross Trails
+Miniera d'Energia
+New England BESS
+NuCube
+Reid Gardner
+Rudong
+St. Gall
+Stanton
+Stoney Creek
+Zhangye
+Research and Development
+Arbedo-Castione
+Solution Excellence Center
+Sustainability
+Contact
+Home
+About Us
+Energy Vault Way
+Company
+Careers
+Solutions
+Overview
+Solutions
+Products
+Short Duration
+Overview
+B-Nest™
+B-VAULT™
+Long-Term Service
+VaultOS™
+Vault-Bidder™
+Vault-Manager™
+Long Duration
+Overview
+B-Nest™
+G-VAULT™
+EVx™
+Long-Term Service
+VaultOS™
+Ultra-Long Duration
+Overview
+H-VAULT™
+Long-Term Service
+VaultOS™
+Software
+Overview
+VaultOS™
+Vault-Bidder™
+Vault-Manager™
+Service
+Overview
+Long-Term Service
+VaultOS™
+Vault-Manager™
+Projects
+Overview
+Calistoga
+Cross Trails
+Miniera d'Energia
+New England BESS
+NuCube
+Reid Gardner
+Rudong
+St. Gall
+Stanton
+Stoney Creek
+Zhangye
+Research and Development
+Arbedo-Castione
+Solution Excellence Center
+Sustainability
+Investors
+Gallery
+Video
+In The News
+Contact
+Energy Vault Videos
+View photos and videos of our projects, R&D site, and company activities
+Browse by category
+All
+General Energy Vault
+Projects
+Products
+R&D
+Calistoga at Night
+St. Gall - Site Tour
+Snyder Construction Progress - June 2024
+Solution Excellence Center
+B-VAULT Solution Series
+Kore Power - Investor Day
+NV Energy - Investor Day
+Energy Vault Software Stack - Investor Day
+Wellhead Electric - Investor Day
+Investor Analyst Day 2024 - Overview
+Calistoga - Investor Day
+EVc
+EV0
+EVu
+EVy
+Energy Vault Product Stack
+Calistoga Update - Feb. 2023
+Stanton Battery Energy Storage
+Stanton Battery Energy Storage - Timeline
+The Energy Vault Way
+Energy Vault Sustainability Report
+Rudong Visit - March 2023
+Energy Vault Resiliency Center
+Energy Vault - NYSE One Year Anniversary Interview
+Energy Vault - NYSE Highlight
+We Are Energy Vault The Future is Now
+EV1 CDU Castione
+Energy Vault & Cemex In Partnership
+Energy Vault Technology Evolution
+
+--------------------------------------------------------------------------------

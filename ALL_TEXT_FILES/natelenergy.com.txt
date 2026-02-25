@@ -1,0 +1,361 @@
+ROOT: https://natelenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:21:13.354646Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://natelenergy.com/
+
+Natel specializes in data-driven hydraulic design of FishSafe™ hydropower turbines that improve downstream fish passage and lower the total cost of hydro plant ownership. We use proprietary computer modeling and scale-model testing to reliably predict fish passage survival. We partner with turbine manufacturers to implement our designs at large and small hydropower projects.
+By delivering exceptional downstream fish passage survival and up to 5x longer blade life in sediment-laden environments, Natel’s FishSafe™ turbines provide a smarter, more cost-effective path to plant modernization. Savings in both CapEx and OpEx enable two to ten times the accelerated return on investment. Increase output by up to 10% by avoiding flow losses to bypasses and head losses to fine screens.
+Learn MoreWork with our team of experienced engineers to integrate safe downstream fish passage into your power generation system and lower your total cost of ownership.
+Learn More
+
+--------------------------------------------------------------------------------
+
+URL: https://natelenergy.com/team
+
+Kate Stirr is the Vice President of External Affairs at Natel. She is responsible for introducing Natel’s FishSafe™ turbine technology to the world through communications, stakeholder engagement, and marketing, as well as for leading policy and government affairs for the company. She is an active participant in the Uncommon Dialogue and is co-chair of NHA’s Water Power Innovation Council. Prior to Natel Kate spent seven years at Alphabet, where she prototyped hardware for early-stage Google X projects including self-driving cars, delivery drones, wearable devices, and internet balloons, and later managed flight testing logistics, outreach, and communications for Makani, an airborne wind turbine project. While at Makani, Kate wrote and directed a feature-length film, Pulling Power from the Sky, that tells the story of the team’s incredible engineering effort. Kate holds undergraduate degrees in art and Spanish from Lewis & Clark College, and a Post Baccalaureate Certificate in sculpture from San Francisco Art Institute. She earned her Master of Fine Arts from Mills College.
+Kate is interested in telling stories about technology that can strengthen connections to the natural world and facilitate balanced access to the world’s resources as our planet rapidly changes.
+Outside of work, Kate enjoys exploring beaches and forests with her husband and kids, cooking, and climbing and paddling when she has the opportunity.
+
+--------------------------------------------------------------------------------
+
+URL: https://natelenergy.com/about
+
+We know our business activities—from using computing resources to scale model testing to building projects—all have impact. We seek not only to do less harm, but more good. We are stewards of our planet and are responsible to the generations to come.
+Motivated to reduce reliance on fossil fuels, inventor Dan Schneider works with friends from Texas A&M to find new ways to generate renewable energy, inspiring his children, Gia and Abe, at a young age.
+As teens, siblings Gia and Abe discover
+the positive ecological benefit beaver dams can have on river health.
+Gia Schneider and Abe Schneider co-found Natel Energy, supported by a grant from the U.S. Department of Energy.
+Buckeye pilot project
+features Natel's first-generation hydro turbine.
+Natel conducts first hydrologic tests at Alden Research Laboratory.
+Natel commissions on-site hydraulic test facility.
+Natel commissions first commercial project for Apple.
+Natel commissions second commercial
+project using second-generation turbine.
+Natel acquires Upstream Tech, author of HydroForecast watershed intelligence software.
+Natel unveils the first FishSafe™ Restoration Hydro Turbine (RHT).
+Natel installs the first RHT at The Mill at Freedom Falls in Freedom, Maine.
+Natel announces $11M funding close with
+Schneider Electric Ventures and Breakthrough Energy Ventures.
+Natel commissions Monroe Hydropower Project in Culver, Oregon, utilizing a utility-scale FishSafe™ RHT.
+Natel and Pacific Northwest National Laboratories (PNNL) conduct RHT passage tests with rainbow trout; results show 100% immediate and 48-hour survival for through-turbine passage.
+Natel announces $20M Series B funding with
+Breakthrough Energy Ventures to continue growing modern FishSafe™ hydropower.
+Natel and PNNL conduct turbine passage tests with large adult rainbow trout, resulting in >98% survival for some of the largest fish ever successfully passed through a compact hydro turbine.
+The scientific journal Transactions of the American Fisheries Society publishes Natel's peer-reviewed study conducted with PNNL; results show 100% immediate and 48-hour survival.
+Austrian utility Energie Steiermark opens the Sauerbrunn Hydro Project, featuring the first fully-submersible RHT and the first RHT to operate in Europe.
+North American Journal of Fisheries Management publishes a peer-reviewed study by Natel and Kleinschmidt Associates; results show 98-100% survival of juvenile alewife passing through a 55cm-diameter RHT, measured immediately and after 48 hours.
+RHT design envelope expands to 40 m (130 ft) head & >99 m3/s (>3500 cfs) flow, meeting needs of 50% of hydro fleet
+We are a diverse group of individuals who share a passion for making the world a better place through innovative engineering.
+Learn More
+
+--------------------------------------------------------------------------------
+
+URL: https://natelenergy.com/engineering-services
+
+Natel develops detailed hydraulic designs to install new and upgrade existing hydropower plants with high-performance, FishSafe™ turbine runners. Our designs preserve or enhance turbine performance, ensure effective fish passage, and support environmental compliance. We offer:
+Our process begins with understanding client goals, followed by developing and analyzing preliminary designs, collaborating with clients to discuss findings, and delivering a concise report summarizing results and recommendations. Initial feasibility studies can be completed in 3-6 months.
+Natel’s pumped hydraulic test facility in Alameda, California enables physical testing to complement our CFD modeling and analysis. The facility supports:
+After assessing runner manufacturability in an initial feasibility study, we work with our OEM partners to finalize all perspectives of turbine hydraulic design including design for manufacturing, operation, maintenance, etc.
+We work with our manufacturing partners to support commissioning by participating in the confirmation of compliance with design specifications and confirmation of hydraulic performance. We will also support any required validation tests of fish passage performance.
+
+--------------------------------------------------------------------------------
+
+URL: https://natelenergy.com/turbines
+
+FishSafe™ engineering by Natel, manufacturing by trusted industry partners.
+Natel’s patented FishSafe™ designs allow fish to pass directly through the turbine, eliminating the need for fine screens, nightly shutdowns, or other compromise solutions. FishSafe™ RHTs are available in Francis, Kaplan, and propeller-style designs for a range of head heights.
+
+--------------------------------------------------------------------------------
+
+URL: https://natelenergy.com/fish-passage
+
+We conduct through-turbine passage testing with a variety of fish species and life stages under different operating conditions to understand the physical limits of safe turbine passage for all applications. In addition to extensive computer modeling and computational fluid dynamics (CFD) testing, the use of fish in scientific research remains an important step in the design of high-performance FishSafe™ turbines.The humane treatment of all fish used for turbine passage testing is vital, both ethically and scientifically. We collaborate with biologists, ecologists, and fish passage engineers around the world to design experiments and disseminate the findings in scientific literature. Our researchers are strong advocates of animal welfare and view their work with fish as a privilege. We abide by all rules and regulations dictated by the American Fisheries Society’s Guideline for Use of Fishes in Research, as well as with the guidelines established by the National Institutes of Health outlined in their Public Health Service Policy on Humane Care on Use of Laboratory Animals.
+Testing live fish in a highly controlled environment is a powerful tool for understanding how different blade shapes and operating conditions affect fish of different species and life stages. A transparent turbine runner housing enables us to capture high-speed video, allowing us to directly observe and analyze any potential interactions between fish and the runner. These experimental observations inform our computer model predictions of survival through full scale turbines.
+Is small-scale testing required for every project?
+No, small-scale testing is a valuable option that can provide additional assurance and insight for specific research and development needs, but it is not an essential part of the FishSafe™ turbine design process. Our models and CFD simulations are the primary tools used to predict and validate the survival rates of fish in our full-sized turbine designs.
+
+--------------------------------------------------------------------------------
+
+URL: https://natelenergy.com/projects/freedom-falls
+
+The historic Freedom Falls Mill is situated on the headwaters of Sandy Stream in central Maine. The project delivers 35 kW to the surrounding community and directly to the operation of The Mill’s Lost Kitchen restaurant. Average annual generation is approximately 65 MWh per year.
+The original dam structure was constructed as a gristmill in 1834. The property operated as a gristmill from 1834 until about 1894, and then as a woodturning mill until about 1967. From 1967 to 2012, the Mill at Freedom Falls was abandoned. In 2012, the Mill was purchased by Tony Grassi, who rehabilitated the mill and added hydropower generation. In 2019, Grassi partnered with Natel to install the first FishSafe™ Restoration Hydro Turbine as a demonstration site. In 2023, Grassi sold the mill to the owners of the Lost Kitchen restaurant, who continue to operate the project. This project includes upstream and downstream passage facilities for American eel.
+The dam is a 12-foot tall, 90-foot-long stone masonry concrete-capped structure. Water is conveyed from the dam to the powerhouse through a 60-foot-long penstock that creates a short bypassed reach in Sandy Stream. The project operates in run-of-river mode and impounds a 1.6-acre mill pond downstream of Sandy Pond. Pond level sensors on the upstream face of the dam send readings to a turbine control system which ensures instantaneous run-of-river operations. The project provides a 3 cfs spillway flow to maintain aesthetics of the spillway and keeps the bypassed stream be watered. This flow regime is based on conditions stipulated by the US Department of Interior under the FERC license for the project.
+The Freedom Falls Mill is certified as a Low Impact Hydropower project by the Low Impact Hydropower Institute (an independent non-profit organization) to have environmental impacts in key areas below levels the Institute considers as the maximum acceptable for hydropower facilities. For more information about the certification, please visit www.lowimpacthydro.org.
+
+--------------------------------------------------------------------------------
+
+URL: https://natelenergy.com/projects/monroe-hydro
+
+The Monroe Drop Hydro Project makes use of an existing irrigation canal to generate 300 kW of reliable, renewable energy annually to serve Central Oregon communities via the local grid.
+In 2024 Monroe closed the season with 94% availability and 100% turbine availability while owned and operated by Natel Energy.
+Natel has conducted two field tests at the Monroe Drop project itself, studying the passage of adult rainbow trout of different sizes through the 1.9-meter-diameter turbine. These tests were detailed in a peer-reviewed paper published in Environmental and Sustainability Indicators in 2025.
+The Monroe Drop is certified as a Low Impact Hydropower project by the Low Impact Hydropower Institute (an independent non-profit organization) to have environmental impacts in key areas below levels the Institute considers as the maximum acceptable for hydropower facilities.
+The irrigation canal and the Monroe Drop structure are irrigation facilities operated by the North Unit Irrigation District (NUID) with a primary purpose to deliver irrigation water to nearly 50,000 acres of farmland in Jefferson County. Water for the irrigation project comes from both the Deschutes and Crooked Rivers.
+The Main Canal’s Monroe Drop structure consists of a 35-foot-long, 15-foot-high concrete open irrigation drop with concrete winged transition sections upstream and downstream. Water falls between 13.5 feet to 16.5 feet at this structure, depending on the flow. The drop structure contains an automated gate that controls the normal flow of irrigation water through the Main Canal.
+The hydro facility was constructed in 2015 and consists of a 12 ft x 61.5 ft concrete intake channel, a 25 ft x 44 ft powerhouse containing a single generating unit, and an approximately 50 ft rectangular-section draft tube. A 2,200-foot-long power line buried in conduit under the canal service road connects to a 12.5-kV distribution line owned and operated by PacifiCorp. Natel replaced the original 250-kW SLH turbine with a 300 kW Natel D190 Restoration Hydro Turbine (RHT) in 2020. The project operates in a “run-of-canal” mode generating electricity from available water flowing through the drop structure during the irrigation season only (April through October). During emergency powerhouse outages, flow that would normally pass through the powerhouse remains in the canal. The Obermeyer gate automatically adjusts to maintain constant elevation upstream of the drop structure and to maintain flow downstream of it, and typically remains fully inflated during the irrigation season. Project operations do not impact the timing or location of water delivered to irrigation users.
+The intake at the Main Canal diversion dam on the Deschutes River, located 37 miles upstream from Monroe Drop, is equipped with a trash rack and fish screening, but it does not meet current state standards. Oregon Department of Fish and Wildlife (ODFW) reports that resident fish including redband trout, brown trout, and mountain whitefish have been observed stranded in the dewatered canal downstream of the Main Canal intake; and kokanee salmon have been observed in Haystack Reservoir which is located 6 miles downstream in the canal from the project. During the irrigation season, any fish moving downstream from the canal intake could therefore continue moving downstream through the project, as Natel's RHT design has been shown to provide safe downstream fish passage in laboratory and field testing.
+
+--------------------------------------------------------------------------------
+
+URL: https://natelenergy.com/projects/muhlgang-hydro
+
+The first fully-submersible Restoration Hydro Turbine (RHT) was installed for Austrian utility company Energie Steiermark in the fall of 2022 and is now fully operational. We’re delighted to have the FishSafe™ RHT be a part of the continuum of Austria’s rich history of hydropower innovation.
+The Sauerbrunn Hydro Project is located on the Mühlgang, a small tributary to the River Mur near Graz, Austria. The site is adjacent to an existing bypass channel, which returns the flow from the Mühlgang to the River Mur. Flow enters the project directly from the canal through a trash rack and slide gate. The Sauerbrunn Hydro Project provides a modern, FishSafe source of renewable power to homes in the community of Großsulz.
+Watch the install below:
+
+--------------------------------------------------------------------------------
+
+URL: https://natelenergy.com/why-fish-passage-matters
+
+Downstream migrating fish want to go with the flow, but hydropower infrastructure can block or alter migration routes, resulting in fish injury or mortality. Traditional approaches to fish protection aim to exclude fish from entering turbines using fine screens, and to route fish around turbines with low-flow fishways.
+However, screening can be ineffective, allowing some fish to pass through and suffer injuries or death in conventional turbines, or harming fish that become impinged on screens or are subject to predation while exposed in fish bypasses. Screening and bypass reaches are also infrastructure and maintenance-intensive, resulting in higher CapEx and OpEx costs to plant owners as well as reduced plant efficiency due to flow-limiting screens.
+Natel's FishSafe™️ RHT designs offer an option that enables numerous species to pass downstream through multiple dams consecutively with high survival rates, a solution that supports the restoration of fish populations and frees hydropower plant owners from the hassle of excluding fish from generational flow.
+Downstream fish passage is one piece of the puzzle — river connectivity is multi-lateral and FishSafe™ turbines should be coupled with upstream passage solutions and a holistic approach to river management to maximize their ecosystem benefits.
+Learn about the surprising and critical relationship between clean water, mussels, and fish passage in hydropower. This article by Director of Communications and External Affairs Kate Stirr was featured as the lead story in the NHA's POWERHOUSE publication.
+Nearly half of the world’s fish species live in freshwater rivers, lakes, and wetlands, and freshwater fish account for close to half of all fish consumed by people globally. According to a 2016 UN report, global fish consumption has been growing steadily in the last 50 years — at double the rate of population growth — but at same time, the report found, we've been repeatedly choosing hydropower over ecosystem health. With FishSafe™ turbines, we don't have to make that choice.
+Natel prepared an evaluation of design options to improve conditions for migratory passage of pallid sturgeon at the Lower Yellowstone Diversion Dam. The primary goal of the project was to improve river connectivity through effective and efficient upstream and downstream passage for pallid sturgeon at all stages in their lifecycle. The existing diversion dam featured a rock ramp with a steep slope, which resulted in high water velocity and shallow depths under certain river flow conditions, which was largely impassible for sturgeon.
+Natel studied two alternative designs to replace the existing channel-spanning ramp: (1) a new channel-spanning low-gradient simple rock ramp, and (2) a new stepped ramp incorporating large resting pools. Both alternative designs allowed for substantially reduced water velocity and increased water depth, improving the feasibility of sturgeon passage. Natel created a multiphase 3D CFD model of the stepped ramp, which enabled a detailed assessment of velocity distributions around the facility.
+Natel also evaluated the possibility of implementing a run-of-river hydropower facility, incorporating turbines that would allow for safe downstream passage of juvenile sturgeon. The proposed hydropower facility could generate at least 11 GWh annually, and revenue from the facility could help offset overall project costs. This project would be an example of Natel's Restoration Hydro concept, in which restoration of river connectivity is acheived in conjunction with sustainable hydropower generation.
+
+--------------------------------------------------------------------------------
+
+URL: https://natelenergy.com/publications
+
+From the beginning, collecting information about how real fish interact with our Restoration Hydro Turbines (RHTs) has been an integral part of our design process. We’ve performed controlled laboratory and field studies with biologists and engineering partners from the Pacific Northwest National Laboratory; Kleinschmidt Associates; University of California, Davis; and the Alden Research Laboratory (now Verdantas) to understand the effects of the RHTs on migratory fish species across a range of operating conditions.
+As hydropower continues to play an important role in renewable energy production, there is a continuing need to mitigate or eliminate the negative effects of hydropower on fish populations. This study examined a novel hydropower turbine (Restoration Hydro Turbine) designed to maximize safe passage with survival rates exceeding 99 %. Tests using adult hatchery-reared rainbow trout (Oncorhynchus mykiss) were performed over two trial periods, one in 2020 and the other in 2022, at the Monroe Drop Facility in Jefferson County, Oregon. Of the 166 treatment and 141 control fish tested over the two years (fork length 200–530 mm, mass 305.0–1225.5 g), no immediate mortalities or major injuries were observed. The results of this study indicate a very high likelihood of immediate survival (100 % in 2020, 98.6 % in 2022) for rainbow trout in the size range examined when passing through the turbine. The absence of major injuries and mortalities attributable to turbine passage demonstrates the potential of novel turbine designs to minimize fish injury during hydropower generation.
+Brett D. Pflugrath, Robert P. Mueller, Katherine A. Deters, Sterling M. Watson, Abraham D. Schneider, Zhiqun Daniel Deng. (2025). Maximizing safe passage for large fish: Evaluating survival of rainbow trout through a novel hydropower turbine. Environmental and Sustainability Indicators, Volume 27. https://doi.org/10.1016/j.indic.2025.100801
+Read the Full ArticleThe objective of this study was to observe the effects of downstream passage through a novel turbine designed for fish safety, the Restoration Hydro Turbine (RHT), on American Eels (Anguilla rostrata) in a recirculating turbine test facility. A 55-cm-diameter RHT was operated under 10 m of hydraulic head and 667 revolutions/min. In total, 131 eels were passed through the turbine and 43 eels were used as experimental controls (length = 33.9–65.5 cm). High-speed video of passage through the runner region was captured for 89% of turbine-passed eels, and injury and behavioral effects were recorded immediately before and after passage, as well as after a 48-h holding period. A subset of 37 eels was additionally examined with X-ray imaging for internal injuries. The 48-h survival rate for both treatment and control groups was 100%, with no major internal or external injuries present after the holding period. This is a substantial improvement over eel survival rates through conventional Kaplan and Francis turbines, which may range from 40% to 95%, and suggests that hydropower turbines designed for safe downstream fish passage could be implemented without major impacts to eels. Mature American Eels migrate down rivers to spawn in the ocean, and may pass hydropower dams where the risk of entrainment in turbine intakes is high. In this study, eels were passed through a novel propeller-style turbine with a survival rate of 100%, a substantial improvement over conventional turbines.
+Watson, S., Schneider, A., Santen, L., Deters, K. A., Mueller, R., Pflugrath, B., Stephenson, J., & Deng, Z. D. (2022). Safe passage of American eels through a novel hydropower turbine. Transactions of the American Fisheries Society, 151, 711–1. https://doi.org/10.1002/tafs.10385
+Hydropower is a reliable source of renewable energy, and its future expansion is likely to be in the form of either smaller new stream development (NSD) projects or powering existing non-powered dams. Thresholds for entrainment risk to fish and the requirements for fish exclusion at hydropower facilities often differ depending on the species involved, the characteristics of the facility, and the goals of stakeholders, but little quantitative information is present within the literature regarding the specific costs of fish exclusion measures. Cost data associated with protection, mitigation, and enhancement (PM&E) measures related to positive barrier screening were identified using keyword searches of an existing environmental mitigation cost data set and manual extraction from regulatory licensing documents available in the Federal Energy Regulatory Commission (FERC) eLibrary. This approach yielded a total of 50 p.m.&E mitigation measures with estimated capital construction costs pertaining to positive barrier screens and represented
+Paul G. Matson, Kevin M. Stewart, Gbadebo A. Oladosu, Emrat Nur Marzan, Scott T. DeNeale (2024). Estimated capital costs of fish exclusion technologies for hydropower facilities, Journal of Environmental Management, Vol. 351, 2024. https://doi.org/10.1016/j.jenvman.2023.119800
+Read the Full ArticleHydropower is a valuable renewable energy source, but its effects on the downstream passage of many riverine fish species are not well understood. Turbines that are designed to function as safe downstream passage routes for fish are being developed with the goal of mitigating the effects of hydropower operations on the environment. In this paper, we present the results of a study conducted with the juvenile life stage of the alewife (Alosa pseudoharengus), a major migratory species on the Atlantic coast of North America. The test was conducted at a small hydropower plant located in Freedom, Maine, with a single Restoration Hydro Turbine (RHT) operating under 7.5 m of gross head. Groups of 140–170 fish were released into the intake of a 55-cm-diameter RHT and were recaptured with a specialized trap at the turbine discharge outlet. The combined immediate and 48-h survival rates (±95% CI) for all treatments, corrected for control mortality, were 98.2 ± 2.0% and 100.0 ± 6.6%, respectively. The passage of alewives through the runner region of the turbine was also captured with high-speed video. The results of the study demonstrate that the RHT, which is designed for fish safety, is an effective way to pass juvenile alosines downstream at hydropower facilities.
+Watson, S.M., Schneider, A.D., Gardner, L.C., Apell, B.R., Thompson, P.C., Cadman, G.B., Gagnon, I.F., Frese, C.R. and Wechsler, J.F. (2023), Juvenile Alewife Passage through a Compact Hydropower Turbine Designed for Fish Safety. North Am J Fish Manage, 43: 465-475. https://doi.org/10.1002/nafm.10866
+This study examines the impact of blade shape on hydro-abrasive erosion performance in hydropower turbines, aiming to assess whether a Natel FishSafe™ Restoration Hydro Turbine (RHT) runner blade shows improved wear resistance in addition to providing downstream passage for fish. Hydro-abrasive erosion is a significant problem in hydropower schemes located in mountainous regions and can lead to reduced efficiency of the turbine and even structural failure of components such as the runner, guide vanes, stay vanes, etc. We tested a conventional Kaplan/propeller-style sample as well as an RHT-style sample in a representative quartzite slurry pot test. The leading edge profiles were extracted by 3D scanning and analyzed for wear depth. The analysis shows that the wear rate of the RHT sample is reduced by approximately 80% compared to the conventional sample. This finding suggests that an increase in wear life of up to five times is feasible with a FishSafe™ runner designed by Natel Energy.
+Johannes Santen, Kelsey Seto (2024) "Effects of Runner Blade Shape on Hydro-Abrasive Erosion in Hydropower Turbines," Natel Energy. https://www.natelenergy.com/publications
+Hydropower operations have significantly and detrimentally affected fish populations, both migratory and resident. This article focuses primarily on the downstream passage of fish through turbines, although there are many other related issues concerning the safe, timely, and effective passage of fish through hydropower facilities, as well as habitat change and flow alterations associated with hydropower operations. The design of FishSafe™ turbines has significant value, as such machines could lock-in substantial environmental sustainability improvements at hydropower facilities while also allowing for simple and familiar hydropower plant design and operations.
+Schneider, A., Watson, S. (2023). Design and validation of FishSafe hydro turbines for retrofit and new-build applications. This paper was published in The International Journal on Hydropower & Dams, Issue 5 and was presented at the HYDRO 2023 conference in Edinburgh (October 2023).
+Compact turbines offer potential to reduce hydropower plant construction costs, but conventional turbine blade designs endanger entrained fish due to high blade strike speeds and thin leading edges. We evaluated the potential for combined blade leading edge slant and large leading edge thickness to increase strike survival. Rainbow trout (Oncorhynchus mykiss) were subjected to strikes with 100 mm thick blade analogues. At 10 m/s, strikes at fish length to blade leading edge thickness ratio (L/t) of 2 resulted in 98% survival at a location along the blade witha 30° slant relative to the tangential direction, compared to 26.8% survival at a location with 90°slant. For L/t 1.14-2, survival was found to be sensitive to location of strike within the mid-body region, determined from high-speed video. Strikes of 200 mm fish at 10 m/s resulted in 68% survival when body strike location was 0.58 (near caudal), and 7.9% when body strike location was 0.36 (near head). These results are consistent with previous trends and indicate opportunities to improve turbine blade design for greater entrained fish survival at higher turbine speeds, at both low head (<30 m) and high head projects.
+Stephen V. Amaral, Sterling M. Watson, Abraham D. Schneider, Jenna Rackovan & Andrew Baumgartner (2020) Improving survival: injury and mortality of fish struck by blades with slanted, blunt leading edges, Journal of Ecohydraulics, 5:2, 175-183. 10.1080/24705357.2020.1768166
+The potential of hydropower turbines to cause injury or mortality to fish is a concern. To reduce this risk, engineers have begun to develop a conically arranged, cantilevered electrified bar rack (Center Sender). This device is proposed to be mounted within the intake of a turbine, guiding downstream-passing fish towards the center of the turbine where blade velocities are lower and blades are thicker, likely reducing the potential for fish to be injured. A simplified version was installed in a flume for testing with Rainbow trout (Oncorhynchus mykiss) while examining several parameters such as electrification, bar spacing, bar angle, and water velocity. The most effective settings were observed to be a water velocity of 1.0 m s−1 with all bars installed at an angle of 40° with electrification on. Other combinations were still effective but had varying results. A minimal proportion (2.3%) of fish passed at lower velocities with bars electrified and mounted at 20°, suggesting that while it functions well as a guidance device in high-velocity conditions, it performs better as a barrier at lower velocities. The study suggests that the Center Sender has promising potential for reducing the harmful effects of hydropower turbines on fish populations by guiding them away from stressors. Further research is needed, but current results encourage its potential use in hydropower operations.
+Pflugrath BD, Watson S, Haug J, Harnish R, Colotelo AHA, Schneider A. (2023). Examination of an Electrified Bar Rack Fish Guidance Device for Hydropower Turbines. Water, 15(15):2786. https://doi.org/10.3390/w15152786
+
+--------------------------------------------------------------------------------
+
+URL: https://natelenergy.com/references
+
+Natel can adapt FishSafe™ RHT designs to the unique needs of many sites. Here is a sampling of some of the locations where we have delivered or are delivering FishSafe™ hydropower. More about our patented turbine design process.
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage and assist in our marketing efforts. More info
+
+--------------------------------------------------------------------------------
+
+URL: https://www.natelenergy.com/projects/vertical-kaplan-1
+
+This runner upgrade project will use the existing generator, discharge ring, and civil works, requiring only the modification of some guidevanes. The project will provide downstream passage for American eel.
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage and assist in our marketing efforts. More info
+
+--------------------------------------------------------------------------------
+
+URL: http://www.natelenergy.com/projects/vertical-francis-1
+
+Upgrade project requiring downstream passage for eel, shad, and salmonids. This fixed pitch FishSafe™ RHT propeller unit replaces a Francis runner. Initially Natel designed a Francis-style RHT for this project but then determined that a propeller RHT design would be more effective at reducing barotrauma risk. The project with the FishSafe™ propeller unit improves fish passage and produces no change in power output.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.natelenergy.com/projects/vertical-francis-2
+
+Northeastern United States
+Capacity:
+17 MW per unit
+Head:
+19 m (62 ft)
+Unit diameter:
+4.4 m (14 ft)
+Unit type:
+Francis
+Blades per unit:
+8
+Commission date:
+Feasibility study completed 2024
+Upgrade project requiring downstream passage for eel. This FishSafe™ Francis unit will require no change to the existing civil works and will not change power output.
+
+--------------------------------------------------------------------------------
+
+URL: http://www.natelenergy.com/projects/vertical-kaplan-2
+
+This is an runner replacement project to upgrade an existing hydropower plant and provide downstream passage for eel and salmonids. The FishSafe runner will use the existing generator and will not require any changes to the existing civil works (including the discharge ring aka runner casing). Some guide vanes will be modified.
+
+--------------------------------------------------------------------------------
+
+URL: http://www.natelenergy.com/projects/s-type-kaplan-runner
+
+Runner upgrade to provide downstream passage for American eel with no change in power. FishSafe™ Kaplan runner and new discharge ring replace existing equipment. There are no changes to the existing civil works or generator.
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage and assist in our marketing efforts. More info
+
+--------------------------------------------------------------------------------
+
+URL: http://www.natelenergy.com/projects/vertical-kaplan-3
+
+Runner upgrade for project requiring downstream passage for eel. There are is no change to the power output. This project replaces the existing Kaplan unit with a FishSafe™ Kaplan runner, new discharge ring, and runner housing fairings. The project uses the existing generator, and there is no change to the civil works.
+Listed savings are the difference between the estimated cost for the proposed alternative for downstream fish passage and the estimated cost to upgrade the runner to this one designed by Natel. The proposed alternative costs for this site included installing a downstream bypass and close-spaced exclusion screening. This estimate also includes the generation loss from those additions.
+
+--------------------------------------------------------------------------------
+
+URL: https://natelenergy.com/news
+
+Natel strengthens its leadership to accelerate grid modernization and global growth by appointing Yves Rannou as Executive Chairperson and public power veteran Steve Wright to its Board of Directors.
+2025 was a year for scaling and we're entering 2026 with serious momentum: large-scale hydro design study, publication with PNNL, upcoming installations in the US and EU.
+Gia Schneider spoke with Canary Media about how Natel’s FishSafe™ turbines can serve as a potential solution for U.S. dams facing expensive relicensing, turning a regulatory hurdle into a modernization opportunity.
+Factor This reported on the recent peer-reviewed paper demonstrating 98.6-100% immediate survival for adult rainbow trout passing downstream through a FishSafe™ turbine.
+A new peer-reviewed paper in Environmental and Sustainability Indicators highlights exceptional fish passage survival rates achieved by Natel FishSafe™ designs.
+Gia spoke to NS Energy about her career in renewable energy, the innovative solutions Natel offers for sustainable hydropower and her vision for the future of the industry.
+Natel was selected to conduct a design feasibility study to assess the benefits of retrofitting existing turbines at the St. Lawrence-FDR Power Project with FishSafe™ RHTs.
+Natel Energy Co-founder and Chief Commercial Officer, Gia Schneider, has been nominated to continue her service on the International Hydropower Association Board.
+
+--------------------------------------------------------------------------------
+
+URL: https://natelenergy.com/partners
+
+Partnering with experts to deliver the best results.
+We collaborate with dozens of leading organizations, including public sector agencies, equipment manufacturers, clean energy producers, and restoration and conservation firms.
+We collaborate with dozens of leading organizations, including public sector agencies, equipment manufacturers, clean energy producers, and restoration and conservation firms.
+In partnership with leading turbine manufacturers, Natel designs turbines to upgrade existing hydropower plants and develop new, sustainable projects worldwide. Working with our partners, Natel can create FishSafe™ runner designs with competitive rotational speeds and efficiency metrics for turbines of any configuration at sites up to and beyond 40 meters (130 feet) in head. We collaborate with trusted engineering firms to adapt our designs to your site and meet licensing and regulatory requirements.
+Our approach to turbine design and hydropower project development is based in original science and research. These are some of the partners that we've worked with to conduct cutting-edge fish passage science, to formulate the Restoration Hydro approach to site design, and to develop detailed case studies and data analysis reports.
+Restoring river connectivity is a fundamental part of Natel's mission. We work with conservation-focused organizations to understand how our work can support common goals for protecting freshwater ecosystems. Two hydropower plants that are currently operating with Natel FishSafe™ turbines are certified by the Low Impact Hydropower Institute.
+It's important to Natel to engage with the diverse stakeholders that make up the hydropower community as we work to make hydropower more sustainable. Membership in the following organizations provides Natel with the opportunity to have a voice amongst hydropower colleagues, to understand industry needs, and to build and share knowledge about responsible freshwater management.
+
+--------------------------------------------------------------------------------
+
+URL: https://natelenergy.com/careers
+
+Opportunity
+Natel Energy is seeking a skilled and motivated turbine CFD design engineer to join our team! Natel Energy designs and tests high performance fish-safe hydraulic turbines, helping the hydropower industry modernize while preserving biodiversity. You will join an exciting and fast paced team where we develop customized solutions for some of the largest turbines in the global fleet down to scale model performance test units.
+You will help us achieve our goals of modernization, decarbonization, and biodiversity by designing and optimizing hydro turbine geometry from first principles through detailed CFD and, at times, through to physical scale model testing. You will work with other hydraulic design engineers at Natel to complete regular design deliverables for customers and partners, aid the commercial team with proposals, conduct R&D-related analysis and design work for test equipment, and improve and automate processes for increased throughput.
+Prior experience in the hydro industry is a plus, but not required. A successful candidate will have a strong foundation of engineering fundamentals and systems design, with focused expertise in utilizing CFD to support system or product development. Candidates must be effective communicators, collaborators, and independent contributors. Candidates must also be creative and driven problem solvers, not satisfied with the status quo.
+Responsibilities
+Lead the modern hydro turbine industry with design and analysis techniques to produce competitive, efficient, fish-safe, and manufacturable turbine and hydropower facility designs and upgrades.
+Utilize Siemens NX, STAR-CCM+, and other related tools as necessary for hydraulic turbine design, analysis, and optimization. Apply existing design and analysis workflows as well as develop new and improved methods and automations.
+Become an expert in Natel’s system and product design space. Understand tradeoffs in hydraulic design performance, cost, and mechanical + operational implications; interpret and apply customer and site design requirements along with performance and fish survival models and test data; propose and deliver solutions (profiles, layouts, loads) and associated documentation.
+Assess test data of sub- and full-scale systems to inform design approaches; design and participate in conducting performance tests. Document and report analysis and test approaches and results in formats ranging from tabular data to figures to publication-worthy reports and presentations.
+Required Skills and Qualifications
+At least 3 years experience in related role(s)
+A bachelor’s degree or higher in an applicable engineering discipline (mechanical, aerospace, etc)
+Competence with advanced CAD surfacing and parametric modeling techniques (preferably in Siemens NX)
+Competence in single and multiphase aerodynamic or hydrodynamic CFD meshing and analysis, preferably with complete turbomachinery or other rotating systems, preferably with STAR-CCM+
+Familiarity with data analysis and/or automation coding languages (eg. Python, Java)
+A motivation to apply your skills and knowledge in a fast-paced R&D and production environment
+An organized and data-driven approach to problem solving
+Strong written and verbal communication skills: comfortable receiving as well as providing guidance and technical material from/to engineers, designers, technicians, and suppliers
+Confidence in working independently to drive a project forward
+Not Required, but Pluses:
+Proficiency in Siemens NX surfacing techniques
+Expertise in STAR-CCM+
+Experience in the design or analysis of hydro turbines or pumps or turbomachinery in general
+Both Windows and Linux based HPC setup and job management experience
+Endorsements or certifications in applicable skill areas
+Compensation & Benefits
+The starting base salary range for this role is $120,000 - $170,000. This range may be modified in the future. Starting pay for the successful applicant will depend on a variety of job-related factors, which may include job-related knowledge, skills, and experience, market location, business needs, other compensation components, and/or market demands.
+In addition to competitive salaries, we offer equity to new employees and incentive compensation based on team performance.
+We are proud to offer great benefits like 4 weeks of paid vacation, 2 weeks of paid sick leave, 401k matching, and health insurance (along with dental, vision and life insurance). We want our team to live full lives outside of work.
+Location
+Natel’s team and test facility is located in Alameda, California. Willingness to relocate here is definitely a plus, but Natel will consider excellent remote candidates provided they can work west coast hours. Occasional travel may be required for supplier site visits, field testing, or similar.
+About half of our employees work in person at the Alameda, California location on a regular basis, and the others are fully remote. As a distributed team, we communicate regularly using Slack and video conferencing. We make an effort to gather the full team in real life occasionally, and we plan more frequent gatherings for lunch and happy hours with the local team.
+Our hiring process
+Natel Energy is committed to building, supporting, and growing a diverse team. We have a standardized interview process designed to reduce individual bias, and have structured pay scales to prevent inequity. We don’t discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+--------------------------------------------------------------------------------
+
+URL: https://natelenergy.com/our-approach
+
+We work with asset owners to upgrade and manage existing hydropower resources to improve environmental performance with FishSafe™ turbine retrofits. We also work with project developers to support new FishSafe™ hydropower projects that make use of existing infrastructure by adding power to non-powered dams.
+By applying FishSafe™ turbine designs and, when possible, our Restoration Hydro development philosophy, we support watershed health alongside energy production to provide distributed hydropower solutions that benefit communities as well as natural ecosystems.
+We offer consulting services to develop site-specific plant designs for:
+-Existing plants in need of functional or environmental upgrades
+-Non-powered dam and weir retrofits
+-Landowners with new, low-head hydropower potential
+-Corporate offtakers working to decarbonize operations
+We provide advice and assistance to ease and accelerate:
+-Permitting
+-Planning and design
+-Reduced timelines & cost
+-Enhanced environmental outcomes
+We leverage internal expertise and relationships with industry partners to:
+-Originate capital
+-Negotiate offtake agreements
+-Manage transactions
+-Minimize risks
+-Apply for competitive award funding
+We work with our engineering team and OEM partners to support:
+-Turbine design, manufacturing, and installation
+-Construction project management
+-Stakeholder engagement
+-Grid connection
+We maintain fleets through:
+-Remote monitoring
+-On the ground inspections
+-Continuous production optimization
+-Operator training
+-Fish passage testing
+-Responsive support
+
+--------------------------------------------------------------------------------
+
+URL: https://natelenergy.com/restoration-hydro
+
+Powering renewable energy, protecting aquatic ecosystems.
+FishSafe™️ turbines can be a transformative first step to improve river connectivity, by allowing fish to travel directly downstream. When combined with nature-based engineering techniques used for river restoration, FishSafe™️ turbines can be part of a holistic solution that restores degraded waterways and provides reliable, renewable power.
+
+--------------------------------------------------------------------------------
+
+URL: https://natelenergy.com/contact
+
+FishSafe ENGINEERING
+FishSafe™️ Turbine Design
+Engineering Services
+Fish Passage Testing
+Why Fish Passage Matters
+Publications
+Our References
+news
+about
+Our Story
+team
+partners
+careers
+Project Services
+Our Approach
+Restoration Hydro
+Our References
+contact
+🇫🇷 🇩🇪 🇮🇹 🇸🇪 🇯🇵
+We'd like to hear from you!
+Connect with us
+Find out how you can improve both turbine efficiency and fish passage at your hydropower site.
+Sign up for our newsletter!
+Close Cookie Popup
+Cookie Settings
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage and assist in our marketing efforts.
+More info
+Accept
+Deny
+
+--------------------------------------------------------------------------------
+
+URL: https://www.natelenergy.com/posts/natel-pnnl-trout-study
+
+Alameda, CA – August 06, 2025 – Natel Energy today announced the publication of a peer-reviewed paper in Environmental and Sustainability Indicators highlighting the exceptional fish passage survival rates achieved by Natel's FishSafe™ Restoration Hydro Turbine (RHT) designs. The study, titled "Maximizing safe passage for large fish: Evaluating survival of rainbow trout through a novel hydropower turbine,” was made possible through competitive funding opportunities brought forth by the U.S. Department of Energy’s (DOE) Water Power Technologies Office (WPTO). Co-authors include research scientists from DOE’s Pacific Northwest National Laboratory.
+The paper details extensive through-turbine fish passage testing of a FishSafe™ RHT conducted in 2020 and 2022 at the Monroe Drop Hydro Project in Culver, Oregon. Results show immediate survival rates of 100% in 2020 and 98.6% in 2022 for hatchery-reared rainbow trout (Oncorhynchus mykiss) 200–530 mm (8-21 in) long passing through a 1.9 m (6.2 ft) diameter FishSafe™ RHT. The research team did not observe any immediate mortalities or major injuries, demonstrating the RHT's potential to significantly minimize fish injury during hydropower generation. This success builds on previous through-turbine passage studies with American eel and juvenile river herring, which both demonstrated 100% survival, establishing the RHT as the first turbine design in the industry to facilitate passage for both large and small fish while maintaining high power performance.
+This latest study is particularly applicable to the global effort to modernize aging hydropower fleets in a cost-effective way to meet regulatory requirements for improved fish passage. Rainbow trout are a species of salmonid genetically identical to steelhead, but non-migratory and easy to breed in captivity. In the Pacific Northwest, successful salmonid passage is paramount to the health of resident salmon and steelhead populations. In the Northeast U.S., Atlantic Canada, and Europe where Atlantic salmon are endangered or threatened, technologies like the FishSafe™ RHT can support their recovery by reducing the negative impacts of hydropower plants. The RHT's innovative design, featuring blades with thick leading edges and a forward slant, reduces the likelihood and severity of blade strikes to fish and eliminates the need for standard fish-diverting exclusion screens, lowering installation costs.
+"Our collaboration with PNNL, and the support from the DOE WPTO, have been instrumental in demonstrating the safety of our Restoration Hydro Turbine," said Sterling Watson, Principal Engineer at Natel Energy. "The ability to ensure high survival rates for fish, including adult salmonids, makes it easy for the hydropower industry to address downstream fish passage while maintaining efficient, cost-effective operations."
+Upgrading existing turbines with FishSafe™ RHTs promises to protect fish, simplify operations, and reduce the total cost of ownership for power producers. Natel has contracted large-scale FishSafe™ RHT upgrades at sites in the Eastern U.S. and Europe, and numerous design feasibility studies are well underway for other sites in North America and Europe. Existing RHT units have been operating in Maine, Oregon, and Austria for a number of years. These FishSafe projects represent a significant stride towards preserving freshwater biodiversity, while maintaining flexible, baseload renewable power.
+About Natel Energy
+Natel Energy is a technology and engineering company working to support healthy rivers, promote biodiversity and decarbonize the grid by developing hydropower turbines that enable 98-100% downstream passage survival for fish. Natel creates high-performance FishSafe™ turbine designs informed by original fish passage experimental research combined with industry-leading computational fluid dynamics modeling and analysis. Natel conducts design feasibility studies, performs fish passage and performance testing, and works with trusted turbine manufacturers to implement its runner designs worldwide. Natel is a privately held company located in Alameda, California in the United States. Visit www.natelenergy.com for more information.
+Contact:
+Natel Energy: Kate Stirr, kate@natelenergy.com
+Ziroth talks about the Restoration Hydro Turbine and installing fish-safe hydro in the Democratic Republic of Congo with MyHydro.
+
+--------------------------------------------------------------------------------

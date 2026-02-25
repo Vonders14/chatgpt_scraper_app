@@ -1,0 +1,335 @@
+ROOT: https://vesperenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:44:50.832757Z
+PAGES_INCLUDED: 22
+
+================================================================================
+
+URL: https://vesperenergy.com/
+
+At Vesper, we know energy. We are an experienced developer of utility scale renewable energy projects that provide innovative solutions to today’s energy challenges. As a leading developer, owner, and operator of solar and storage assets across the United States, we are on a mission to advance high quality, high value renewable energy projects that contribute to a healthier, sustainable, and decarbonized future.
+Working Together
+We have a track record of success in delivering renewable energy projects. Vesper Energy provides our customers with clean, low-cost electricity generated from solar and storage projects developed by our talented and passionate team of professionals. Our projects are successful because we invest in, respect and value the communities where we are located and the companies we work with. Working together, we can build a cleaner and brighter energy future.
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/projects/
+
+Featured Projects
+Gaucho Solar
+Vesper Energy’s Gaucho Solar project reached commercial operations in June 2023. It is a 20 MW facility situated on 61 acres in Allegheny and Beaver Counties, Pennsylvania. The project utilizes solar photovoltaic technology mounted on a fixed-tilt racking system and interconnects to Duquesne Light Company’s transmission system in PJM. Gaucho Solar provides all of its electricity to the University of Pittsburgh. See video here.
+Hornet Solar
+Vesper Energy’s Hornet Solar project is situated on 4,000 acres in Swisher County, TX. The project is in commercial operation with a nameplate capacity of 600MWac/745MWdc. The project utilizes solar photovoltaic technology on a single-axis tracking system. Hornet Solar interconnects to Oncor Electric’s transmission system in ERCOT, and is contracted with a Fortune 100 company under a long-term power purchase agreement.
+Juniper Creek Energy Storage
+The Juniper Creek Energy Storage project is a proposed 200 MW battery storage facility on nearly 6 acres of land adjacent to the Sacramento Municipal Utility District Cordova substation in Rancho Cordova, California. It is estimated this project will reach commercial operations by the end of 2025. Learn more here.
+Bradford Solar
+Bradford Solar is a proposed 100 MW solar project. This project will consist of solar panels installed on around 800 acres of privately-owned land in Bradford County, Pennsylvania. Bradford is set to reach commercial operation in 2025/2026. This project will generate enough clean, renewable energy to power more than 10,000 Pennsylvania homes annually. Learn more here.
+AXTON SOLAR
+Axton Solar is a 200 MW project providing enough clean electricity to power around 20,000 homes annually. This project will consist of ground-mounted solar panels installed on approximately 1,100 acres of privately-owned land in eastern Henry County, Virginia and approximately 1,423 acres in western Pittsylvania County, Virginia. Axton Solar is set to reach commercial operations in 2025/2026 and is expected to provide significant benefits to the local community. Learn more here.
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/about/
+
+Our Company
+Vesper Energy provides innovative solutions to today’s complex energy challenges. Headquartered in the greater Dallas area, Vesper Energy is comprised of professionals who have collectively delivered more than 10 GW of renewable energy projects globally. Today, our pipeline includes over 49 renewable energy and storage projects with a generating capacity of 11,000+ MW; enough to power more than 2 million homes. Working with our customers, communities, and business partners, we develop, own, and operate renewable energy projects across the United States with the goal to build a better energy infrastructure.
+Our History
+Founded in 2015 as Lendlease Energy Development, our team has delivered over 700 MW of renewable energy projects into commercial operation. In 2020, following the acquisition by Magnetar Capital, the company was rebranded as Vesper Energy. Since then, we have grown our pipeline and quadrupled our portfolio of renewable energy and energy storage projects all while expanding our footprint to cover more of the country. Most recently in 2023, GCM Grosvenor joined the company as an equity owner, and their investment will contribute to our continued growth and success.
+With our diverse and experienced team, our growing pipeline of renewable energy projects, and the strength of our financial partners and investors, we are prepared and eager to build a clean energy infrastructure.
+LEADERSHIP TEAM
+Craig currently serves as Chairman of the Board of Managers for Vesper Energy. Before assuming his current role, Craig was the CEO of Vesper Energy and founded the business as Lendlease Energy Development in 2014. Before joining Lendlease, he was the Chief Executive Officer of Infigen Energy US, responsible for all aspects of the firm’s 1GW fleet of wind farms and 600 MW solar development business in the United States. Craig was also the Executive General Manager for Infigen Energy’s global operations and asset management functions. Before that, he served as BP’s US Cogeneration business’s business unit leader and Vice President of projects, operations, and asset management at BP Alternative Energy. He has also held senior management positions with ConocoPhillips and SkyGen Energy. Craig received his Bachelor of Science in Mechanical Engineering from the University of Illinois at Chicago and a Master’s Degree in Business Administration from Northwestern University’s Kellogg School of Management.
+Mark is a member of the Vesper Energy board of managers and asset management functions at Vesper Energy. Previously at Lendlease Energy Development Mark led origination and finance functions. Prior to joining Lendlease, he held commercial leadership roles at Solaire Generation (acquired by SunPower), NextEra Energy Resources, Smart Energy Capital (acquired by NextEra), Alteris Renewables (acquired by Real Goods Solar) and The Stone House Group. His experience includes strategy development, origination management, and contract negotiation. Mark has experience working with a broad cross-section of counterparties (corporations, government entities, public and investor-owned utilities, and community choice aggregators) and has previously served on the Advisory Board for the Renewable Energy Buyer’s Alliance. Mark received his Bachelor of Arts in Environmental Studies from Gettysburg College and Master Degree of Business Administration – Global Management from the University of Phoenix.
+Juan leads all project development activities at Vesper Energy and was previously Vice President of Engineering Procurement and Construction for Vesper Energy and Lendlease Energy Development. Prior to joining the development business, he was responsible for transforming Lendlease’s Distributed Generation Construction Management business into a full engineering, procurement, and construction business. Before joining Lendlease, Juan held various EPC management positions at Gestamp and NRG. Juan was also Vice President at Unirac, a Hilti Group Company. He was a key leader in growing the company from $12M to $100M in revenue in five years. Juan earned a Bachelor of Science in Industrial Engineering from New Mexico State University. He also founded and operated a development and construction company, raising capital, permitting, financing, and constructing residential subdivisions for nine years.
+Krish has over two decades of finance and treasury experience in the renewable/conventional power as well in the banking sectors. He brings significant financing experience having closed transactions exceeding $15 billion (via corporate, project, vendor financings in form of debt and equity as well as M&A transactions) in the U.S and globally.
+Krish headed up finance & treasury departments at four major power companies (esVolta, NRG Energy, Edison Mission Energy & InterGen) spanning 20+ years. He also held energy banker role at WestLB originating and structuring energy transactions. Early in his career, Krish also had financial structuring roles at Shell Trading & The Williams Companies.
+Krish graduated with a distinguished MBA student award for Academic Excellence from the University of South Carolina, Columbia. He also has a Masters and Undergraduate degree in Commerce from University of Madras, India.
+Chad serves as Vesper Energy’s General Counsel and oversees the Company’s legal and compliance department. Chad has a diverse skillset and background derived from decades of experience working with and for global leaders in private equity, banking, and law. Chad joined Vesper Energy from Akin Gump Strauss Hauer & Feld LLP where he represented private equity companies, privately and publicly held companies, and ultra-high net worth investors in real estate transactions, mergers and acquisitions, financings (subscription, project, construction, and asset financings), and other transactions and corporate matters. Before beginning his legal career, Chad spent nearly a decade working for JPMorgan Chase Bank’s Private Bank where he assisted ultra-high net worth clients with investment, credit, and estate planning needs. While working for JP Morgan, Chad attended Texas A&M University Law School (formerly Texas Wesleyan University School of Law) where he graduated in the top of this class (Magna Cum Laude).
+Monica Opderdeck is the Chief Commercial Officer at Vesper Energy, where she oversees Corporate Development & M&A, Origination & Energy Markets, and Commercial Analytics teams with key responsibilities of driving enterprise growth through capital raising, customer engagement for power origination purposes, and analyzing market fundamentals to drive asset optimization and revenue modeling. She brings over 16 years of experience in the energy and renewables space, with a background in principal investing, financing, capital raising, and business development where she has led some of the largest transactions across the U.S. renewable energy market. Prior to Vesper, Monica served as Head of Commercial Origination and Senior Director of Corporate Development at Pattern Energy and spent 12 years at Wells Fargo, primarily as an investor and originator of renewable energy tax equity investments. She holds a Bachelor of Arts in Mathematics from the University of California, Santa Cruz.
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/partners/
+
+Working together, we’re creating a clean energy future. Since our founding, and through the decades that our team members have worked in the energy industry, we’ve built long-term relationships with landowners, customers, and communities. Along the way, we’ve developed a reputation for being a reliable and trusted partner through our collaborative and innovative approach to developing clean energy projects that contribute to a brighter energy future.
+Landowners
+Landowners see the value of using solar as an alternative crop. In addition to a stable income, solar helps landowners manage important resources like water. We develop lasting relationships with landowners to make the best use of their assets by providing a constant, reliable and long-term income stream.
+Communities
+We strive to be contributing members of the communities where we work by providing tax revenue, economic development, jobs creation, and providing clean, renewable energy. We also give back to our communities through employee volunteer opportunities or corporate-level sponsorships.
+Customers
+We utilize a wide range of technologies and deal structures to provide innovative energy projects and products. Whether you’re a company, municipality or utility seeking clean and competitive power, we’ll work closely and collaboratively with you to develop an energy solution that meets your unique needs.
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/news/
+
+Monica Opderbeck Appointed Chief Commercial Officer of Vesper Energy
+Vesper Energy announces the appointment of Monica Opderbeck to Chief Commercial Officer (CCO).
+In this expanded role, Monica will oversee all commercial functions at Vesper Energy, including Corporate Development, Mergers and Acquisitions, and Origination. She will drive enterprise growth through capital raising efforts, strategic investments, partnership arrangements, and create greater organizational alignment across departments on the overall monetization of assets.
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/vesper-energy-completes-sale-of-gaucho-and-nestlewood-solar-projects-to-octopus-energy-generation/
+
+Solar projects estimated to generate 100 MWac energy annually in Pennsylvania and Ohio
+Dallas, TX, June 18, 2024 — Vesper Energy, a developer, owner and operator of utility-scale renewable energy assets, announced today the sale of two PJM assets, Gaucho Solar and Nestlewood Solar, to Octopus Energy Generation. Octopus Energy Generation manages a global portfolio of nearly $9 billion of green energy assets. This marks Vesper Energy’s second major transaction in 2024.
+“Vesper Energy is excited to transition ownership of our Nestlewood and Gaucho projects to Octopus Energy Generation,” said Mark Rostafin, Co-CEO of Vesper Energy. “Our partnership exemplifies growing investor confidence in renewable energy developments and supports our organizations’ shared mission to advance a clean, reliable energy infrastructure.”
+Vesper Energy will continue to serve as asset manager for both the Nestlewood and Gaucho sites, ensuring a seamless transition for its partners and surrounding communities.
+The Nestlewood Solar project is located on 610 acres in Clermont and Brown County, Ohio and
+offsets power for a Fortune 100 e-commerce leader as part of a purchase power agreement (PPA). It is one of the first utility-scale solar facilities permitted, financed and constructed in Ohio and is one of the first U.S. sites to qualify as an energy community under the Inflation Reduction Act. The site provides on-peak power during the high-demand period of midday and late afternoon.
+Nestlewood Solar also contributes to the local community, supporting employment opportunities throughout the region and state and providing annual tax revenues to the host counties. Furthermore, the project promotes biodiversity while continually monitoring and managing stormwater and vegetative growth. All these efforts ensure Nestlewood is a good neighbor in the community.
+The Gaucho Solar project is located on 68 acres in Beaver County and Allegheny County, PA. Gaucho Solar is the largest solar project in Southwestern Pennsylvania to date — and one of the largest solar projects in Western Pennsylvania. Gaucho Solar contributes daily to the University of Pittsburgh’s sustainability and climate action goals with approximately 55,000 solar panels generating electricity just 25 miles from the Pittsburgh campus.
+Combined, the two projects will generate 100 MWac of energy annually, enough to power approximately 20,000 homes.
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/vesper-energy-cuts-ribbon-on-hornet-solar-one-of-the-largest-single-phase-solar-projects-in-the-us/
+
+TULIA, Texas — Vesper Energy hosted a ribbon-cutting ceremony on April 10, 2025, to celebrate the commercial operation of its flagship energy project, Hornet Solar, which is now fully operational. The event marks a major milestone not only for Vesper Energy, but also for Texas as a national leader in solar energy production.
+Hornet Solar includes over 1.36 million modules and spans more than six square miles in Swisher County, Texas, making it one of the largest solar installations in the country. The project will contribute more than $100 million in new tax revenue to Swisher County and deliver 600 MWac of energy.
+“Hornet Solar is a testament to how large-scale energy projects can deliver reliable, domestic power to American homes and businesses,” said Juan Suarez, Co-Chief Executive Officer at Vesper Energy. “This project isn’t just about solar panels—it’s about making energy more affordable while strengthening our nation’s energy security. With Hornet Solar fully operational, we’re helping power a community with domestically generated electricity, ensuring businesses & communities have the energy they need to grow and thrive.”
+The event marked this milestone toward energy independence with guided tours of the project, speeches by Vesper executives, and networking. Attendees included:
+- Michael Clawson, Swisher County Judge
+- Elsa Carrasco, Swisher County Justice of the Peace
+- Mike Sims, Swisher County Commissioner (Precinct 2)
+- Mark Stover, Executive Director of Texas Solar and Storage Association
+- Representatives from buyers of power products (offtakers)
+- Vesper employees
+- Landowners
+- Community members
+Vesper Energy began construction on Hornet Solar in the Fall of 2023 and announced that it secured $590 million in financing to further advance the project in January 2024. Since its inception, Hornet Solar has achieved several major milestones, including the installation of its one-millionth solar panel in December 2024 and the installation of its final module in January 2025.
+“The scale of Hornet Solar speaks for itself—1.36 million panels, over six square miles, and 600 MW of capacity. But the real impact is what this project delivers to Swisher County: more than $100 million in new tax revenue and meaningful investments in schools, infrastructure, and healthcare,” said Zach Wald, Vice President, EPC.
+Hornet Solar is generating significant economic benefits for Swisher County and the surrounding region. The project created over 300 jobs during construction and will contribute new tax revenue to essential public services, including $61 million for the Tulia Independent School District, $25 million for the County, and $12 million for the Swisher Memorial Hospital District.
+ABOUT VESPER ENERGY: Vesper Energy provides innovative solutions to today’s complex energy challenges. Headquartered in Irving, Texas, Vesper Energy is comprised of professionals who have collectively delivered more than 10 GW of energy projects globally. Today, Vesper Energy’s development pipeline includes over 55 solar and energy storage assets with a generating capacity of 17 GW—enough to power more than 2 million homes. Working with their customers, communities, and business partners, Vesper Energy develops, owns, and operates energy projects across the United States with the goal of building better energy infrastructure. www.vesperenergy.com/about
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/careers/
+
+To create a positive change, we recognize the importance of embracing diversity and promoting innovative thinking. We encourage individuals to challenge the status quo, make significant contributions, and provide impactful solutions. Collaboration is key, as we believe in thriving as individuals while achieving collective success.
+By joining our team, you will have the opportunity to continuously evolve and develop alongside some of the most talented minds in the industry. We are committed to supporting your growth, ensuring that each day brings new improvements. You will have the chance to redefine norms, work on groundbreaking renewable energy projects, and become an integral part of a team dedicated to creating a positive impact.
+Throughout every step of our recruitment process, Vesper Energy maintains a commitment to professionalism, transparency, and fairness with all candidates.
+To be considered for a role, send us your resume. We’re on the lookout for fresh talent to expand our team, so we welcome applicants from all walks of life.
+We love to hear from partners, vendors and customers.
+Please email us by clicking below.
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/contact/
+
+For any press inquiries, please contactAlex Neely, communications manager or call (201) 248-4008.
+Dallas, TX 75201
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/monica-opderbeck-appointed-chief-commercial-officer-of-vesper-energy/
+
+DALLAS, Aug. 20, 2025 — Vesper Energy, a leading developer, owner, and operator of utility-scale renewable energy projects across the United States, announced today the appointment of Monica Opderbeck to Chief Commercial Officer (CCO).
+In this expanded role, Monica will oversee all commercial functions at Vesper Energy, including Corporate Development, Mergers and Acquisitions, and Origination. She will drive enterprise growth through capital raising efforts, strategic investments, partnership arrangements, and create greater organizational alignment across departments on the overall monetization of assets.
+“I’m honored and excited to step into this role and look forward to building on the momentum Vesper has created in the market with a 2+ gigawatt (GW) near-term pipeline, out of the broader 14+ GW of solar, storage, and hybrid pipeline,” said Opderbeck.
+“Monica’s experience and strategic mindset will be instrumental to our growth and continued success,” said Mark Rostafin Co-CEO of Vesper Energy. “Since joining Vesper Energy as Vice President of Corporate Development earlier this year, Monica has hit the ground running by contributing to the company’s long-term growth strategy.”
+Before joining Vesper, Monica held leadership roles at Pattern Energy Group, including Head of Commercial Origination and Senior Director of Corporate Development, and at Wells Fargo Bank where she led utility-scale tax equity investments
+About Vesper Energy
+Vesper Energy provides innovative solutions to today’s complex energy challenges. Headquartered in Dallas, Texas, Vesper Energy is comprised of professionals who have collectively delivered more than 10 GW of renewable energy projects globally. Today, Vesper Energy’s development pipeline includes over 55 renewable energy and energy storage assets with a generating capacity of 14+ GW. Working with their customers, communities, and business partners, Vesper Energy develops, owns, and operates renewable energy projects across the United States with the goal of building better energy infrastructure. www.vesperenergy.com/about
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/vesper-energy-welcomes-vivian-chung-as-vice-president-controller-treasurer/
+
+Irving, Texas – Vesper Energy announced today the appointment of Vivian Chung as Vice President, Controller & Treasurer. She will lead the organization’s accounting and treasury functions, focusing on financial reporting & accounting operations, audit, financial compliance, and cash management.
+“I’m honored to take on this role at Vesper Energy,” said Chung. “This opportunity aligns with my commitment to financial integrity and sustainable growth. I look forward to working with colleagues and partners to support innovation, advance climate goals, and foster the trust & transparency required to create lasting value for our stakeholders.”
+Based in Orange County, California, Chung brings over 20 years of experience in accounting, financial reporting, investor relations, treasury and liquidity management within the renewable energy sector.
+“Vivian’s unique skillset covering both controllership and treasury functions along with her demonstrated experience at public and private companies will be invaluable to Vesper Energy,” said Krish Koomar, Chief Financial Officer of Vesper Energy.
+Before joining Vesper Energy, Chung served as Vice President, Controller & Treasurer at esVolta, where she built and led both the accounting & treasury teams. Her earlier roles include positions at NRG Energy, Clearway Energy Group, and Edison Mission Energy, with responsibilities spanning portfolio management, financial reporting, and accounting. She holds a bachelor’s degree in Economics with minors in Finance and Business Management from the University of California, Irvine.
+About Vesper Energy
+Vesper Energy provides innovative solutions to today’s complex energy challenges. Headquartered in Irving, Texas, Vesper Energy is comprised of professionals who have collectively delivered more than 10 GW of renewable energy projects globally. Today, Vesper Energy’s development pipeline includes over 55 renewable energy and energy storage assets with a generating capacity of 17 GW— enough to power more than 2 million homes. Working with their customers, communities, and business partners, Vesper Energy develops, owns, and operates renewable energy projects across the United States with the goal of building better energy infrastructure. www.vesperenergy.com/about
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/vesper-energy-appoints-monica-opderbeck-as-senior-vice-president-of-corporate-development/
+
+IRVING, Texas, May 13, 2025 — Vesper Energy, a leading developer, owner, and operator of utility-scale renewable energy projects across the United States, announced today the appointment of Monica Opderbeck as Senior Vice President of Corporate Development. In this role, Monica will be responsible for overseeing the planning and execution of strategic initiatives aimed at further enabling corporate growth.
+“Vesper Energy has a talented team of professionals, a solid reputation in the market, has built an attractive pipeline of utility-scale renewable energy and energy storage assets, and is led by Juan Suarez and Mark Rostafin, who have been with the company since inception,” said Opderbeck. “I’m excited to help support the next stage of growth at the company.”
+With over 16 years of experience in the energy and renewable energy markets, Monica brings expertise in principal investing, capital raising, financing, business development, and strategic deal execution. Her career spans both the investor and independent power producer sides of the industry, equipping her with a holistic perspective on value creation, disciplined capital deployment, and risk mitigation across energy assets and portfolios.
+“Monica is a proven leader in renewable energy finance, corporate and commercial strategy; we are thrilled to welcome her to the Vesper team,” said Mark Rostafin, Co-CEO of Vesper Energy. “Her ability to drive strategy and forge strong relationships with top-tier financial partners will be instrumental in accelerating our growth and supporting our mission.”
+Before joining Vesper, Monica held leadership roles at Pattern Energy Group, most recently serving as Head of Commercial Origination for the North American development pipeline and served as Senior Director of Corporate Development. In her time at Pattern, Monica was responsible for driving substantial deal closings that enabled strategic initiatives and led to the expansion of Pattern’s renewable energy portfolio. Prior to her time at Pattern, Monica spent 12 years at Wells Fargo where she primarily focused on renewable energy Tax Equity investments and at the start of her career, on the Commodity Derivatives trading desk.
+About Vesper Energy
+Vesper Energy provides innovative solutions to today’s complex energy challenges. Headquartered in Irving, Texas, Vesper Energy is comprised of professionals who have collectively delivered more than 10 GW of renewable energy projects globally. Today, Vesper Energy’s development pipeline includes over 55 renewable energy and energy storage assets with a generating capacity of 17 GW— enough to power more than 2 million homes. Working with their customers, communities, and business partners, Vesper Energy develops, owns, and operates renewable energy projects across the United States with the goal of building better energy infrastructure. www.vesperenergy.com/about
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/vesper-energy-reaches-major-milestone-with-hornet-solar-project-final-module-installed/
+
+Vesper Energy is proud to announce the successful installation of over 1 million panels at its Hornet Solar project. With 1.36 million total panels to be installed as part of the Hornet Solar project, this milestone represent significant progress toward Vesper Energy’s work to complete one of the largest single-phase solar projects in the United States.
+Located in Swisher County, Texas, the Hornet Solar project spans over six square miles and, once fully operational, it will deliver 600 MWac of renewable energy—enough to power 160,000 homes annually.
+“The milestone is a testament to the hard work and seamless coordination between our team, onsite members, and our EPC partner, Blattner Energy. This achievement brings us one step closer to realizing the full potential of Hornet Solar as a transformative renewable energy asset,” said Juan Suarez, Co-CEO at Vesper Energy.
+The Hornet Solar project employs bifacial photovoltaic modules mounted on a single axis tracking system, maximizing efficiency and energy output. The project interconnects to Oncor Electric’s transmission system in ERCOT and is contracted to provide power to four off-take partners through individual Power Purchase Agreements (PPAs).
+The project remains on track to reach full commercialization by the spring of 2025.
+About Vesper Energy
+Vesper Energy provides innovative solutions to today’s complex energy challenges. Headquartered in Irving, Texas, Vesper Energy comprises professionals who have collectively delivered more than 10 GW of renewable energy projects globally. Today, Vesper Energy’s development pipeline includes over 55 renewable energy and energy storage assets with a generating capacity of 17 GW— enough to power more than 2 million homes. Working with their customers, communities, and business partners, Vesper Energy develops, owns, and operates renewable energy projects across the United States with the goal to build better energy infrastructure. www.vesperenergy.com/about
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/vesper-energy-installs-1-million-panels-at-hornet-solar-project/
+
+Vesper Energy is proud to announce the successful installation of over 1 million panels at its Hornet Solar project. With 1.36 million total panels to be installed as part of the Hornet Solar project, this milestone represent significant progress toward Vesper Energy’s work to complete one of the largest single-phase solar projects in the United States.
+Located in Swisher County, Texas, the Hornet Solar project spans over six square miles and, once fully operational, it will deliver 600 MWac of renewable energy—enough to power 160,000 homes annually.
+“The milestone is a testament to the hard work and seamless coordination between our team, onsite members, and our EPC partner, Blattner Energy. This achievement brings us one step closer to realizing the full potential of Hornet Solar as a transformative renewable energy asset,” said Juan Suarez, Co-CEO at Vesper Energy.
+The Hornet Solar project employs bifacial photovoltaic modules mounted on a single axis tracking system, maximizing efficiency and energy output. The project interconnects to Oncor Electric’s transmission system in ERCOT and is contracted to provide power to four off-take partners through individual Power Purchase Agreements (PPAs).
+The project remains on track to reach full commercialization by the spring of 2025.
+About Vesper Energy
+Vesper Energy provides innovative solutions to today’s complex energy challenges. Headquartered in Irving, Texas, Vesper Energy comprises professionals who have collectively delivered more than 10 GW of renewable energy projects globally. Today, Vesper Energy’s development pipeline includes over 55 renewable energy and energy storage assets with a generating capacity of 17 GW— enough to power more than 2 million homes. Working with their customers, communities, and business partners, Vesper Energy develops, owns, and operates renewable energy projects across the United States with the goal to build better energy infrastructure. www.vesperenergy.com/about
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/vesper-energy-names-krish-koomar-as-new-cfo/
+
+Vesper Energy is pleased to announce the appointment of Krish Koomar as its new Chief Financial Officer (CFO), effective January 2025. A seasoned leader in the energy sector, Koomar brings over 20 years of experience in renewable energy, conventional power, and the banking sector.
+Koomar most recently served as Senior Vice President and CFO at esVolta LP. His prior roles include Vice President and Assistant Treasurer at NRG Energy Inc. and Managing Director of Finance at Edison Mission Energy, among other leadership positions.
+“I am honored to join Vesper Energy during this exciting time,” said Koomar. “I look forward to working with the talented team at Vesper Energy to advance the company’s financial strategy as we continue to grow our footprint throughout the industry and beyond.”
+Koomar succeeds Robert Scheuermann, who has decided to pursue other opportunities. Scheuermann’s leadership over the past four years was instrumental in Vesper Energy’s growth.
+“We extend our gratitude to Robert for his pivotal contributions in building our capital markets, FP&A, portfolio management, and accounting functions,” said Mark Rostafin, co-CEO of Vesper Energy. “We are also grateful for his continued support during this transition.”
+Koomar and Scheuermann will collaborate through December to ensure a smooth and seamless transition.
+About Vesper Energy
+Vesper Energy provides innovative solutions to today’s complex energy challenges. Headquartered in Irving, Texas, Vesper Energy comprises professionals who have collectively delivered more than 10 GW of renewable energy projects globally. Today, Vesper Energy’s development pipeline includes over 55 renewable energy and energy storage assets with a generating capacity of 17 GW— enough to power more than 2 million homes. Working with their customers, communities, and business partners, Vesper Energy develops, owns, and operates renewable energy projects across the United States with the goal to build better energy infrastructure. www.vesperenergy.com/about
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/vesper-energy-completes-refinancing-adds-50-million-revolving-credit-facility/
+
+Vesper Energy is pleased to announce the successful refinancing of its Letter of Credit Facility (the “LC Facility”) with Macquarie Group (“Macquarie”) and ICBC Standard Bank Plc (“ICBCS”). The facility, led and arranged by Macquarie’s Commodities and Global Markets business, now includes a new $50 million revolving credit component designed to support Vesper Energy’s growth and provide operational flexibility in developing renewable energy projects.
+In addition to providing letters of credit to support financial security requirements under off-take and interconnection agreements, the two-year renewed facility will allow Vesper Energy to fund essential development needs across various categories, including equipment procurement, real estate acquisitions, and security deposits. This enhancement will help Vesper further fund and advance its development portfolio.
+“The newly enhanced credit facility underscores our commitment to advancing Vesper Energy’s development portfolio while creating significant value for our investors,” said Mark Rostafin, Co-CEO at Vesper Energy. “The support from Macquarie and ICBCS empowers us to achieve greater flexibility and resilience as we continue to drive the energy transition.”
+“We are pleased to provide this LC facility, extending our existing relationship with Vesper Energy, a leading and innovative company supporting the energy transition, and with its equity sponsors – Elda River, Magnetar, and GCM Grosvenor,” commented Sherri Brudner, Managing Director in Macquarie’s Commodities and Global Markets business. “Vesper Energy continues to develop high-quality assets designed to address society’s energy challenges, and this financing further equips Vesper Energy to advance that goal.”
+“ICBC Standard Bank is delighted with our continued partnership with Vesper Energy in support of its ambitious growth plan in delivering high quality renewable generation capacity. This is another demonstration of our long-term commitment in powering America and in the transition towards a greener future,” commented John Xu, Head of Energy Commodities Business.
+This expanded credit facility marks another milestone in Vesper Energy’s growth as a leading renewable energy developer. It positions the company to respond effectively to market demands and quickly capitalize on new opportunities in the renewable energy landscape.
+About Vesper Energy
+Vesper Energy provides innovative solutions to today’s complex energy challenges. Headquartered in Irving, Texas, Vesper Energy is comprised of professionals who have collectively delivered more than 10 GW of renewable energy projects globally. Today, Vesper Energy’s development pipeline includes over 55 renewable energy and energy storage assets with a generating capacity of 17 GW— enough to power more than 2 million homes. Working with their customers, communities, and business partners, Vesper Energy develops, owns, and operates renewable energy projects across the United States with the goal to build better energy infrastructure. www.vesperenergy.com/about
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/news/page/2/
+
+Vesper Energy Finalizes Hornet Solar Debt Syndication, Representing $592 Million in Financing
+Vesper Energy, a leading renewable energy developer, has successfully finalized construction and term loan syndication for its Hornet Solar project, representing approximately $592 million in investments.
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/news/page/3/
+
+Vesper Energy Names Susannah Pedigo as Head of Government and Regulatory Affairs
+Vesper Energy is pleased to announce that Susannah Pedigo has been named Head of Government and Regulatory Affairs. Previously, Pedigo advanced business development and commercial efforts as a Senior Director of Origination.
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/news/page/4/
+
+Vesper Energy to Provide Renewable Solar Electricity to Power Pfizer’s North American Operations
+Vesper Energy announced that Pfizer – one of the world’s premier biopharmaceutical companies – has entered into a virtual power purchase agreement (VPPA) with the Company. Under the 15-year agreement, Vesper will deliver at least 310 MW of renewable energy to the grid, effectively powering 100 percent of the projected power needs of Pfizer’s North American operations through clean solar energy.
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/careers/development-engineer-electrical/
+
+The Development Engineer, Electrical serves as the internal subject matter expert for PV and battery storage project development, leading technical evaluations, early-stage design, and coordination of engineering activities across standalone BESS and PV+BESS projects. This role bridges technical expertise with project development by supporting equipment selection, system optimization, and external consultant management, while ensuring designs meet company standards, regulatory requirements, and financing needs. The Development Engineer plays a key role in advancing projects from concept through execution, providing critical technical guidance across the organization.
+Basic Qualifications:
+- Bachelor’s degree in electrical engineering or related discipline
+- 5+ years of relevant PV+BESS development engineering experience with preference given to those with a strong understanding of utility-scale BESS and PV + BESS projects.
+- Experience in sizing BESS systems for projects, including options for overbuild and augmentation. Installation, services & commissioning is a plus.
+- Basic knowledge of relevant codes and standards such as the National Electric Code, NFPA, and related standards.
+Responsibilities:
+Early-Stage Development
+- Act as the internal subject matter expert (SME) for PV and Battery Energy Storage Systems (BESS) and serve as the primary technical point of contact for all BESS-related items.
+- Provide early-stage sizing and conceptual design for standalone BESS, AC-coupled, and DC-coupled PV+BESS projects.
+- Define strategies for overbuild, augmentation, degradation, and round-trip efficiency.
+- Evaluate and recommend battery technologies and suppliers (general and project specific), considering costs, warranties, performance, and system architecture.
+- Recommend project and technology configurations, optimizing for market use cases and dispatch scenarios to maximize project financial viability.
+- Support creation of 10% designs for PV, PV+BESS, and standalone BESS projects.
+Technical Oversight & Design
+- Draft and review equipment specifications (batteries, inverters, DC-DC optimizers, transformers, etc.) and ensure alignment with company standards.
+- Review and coordinate technical studies, including:
+- Electrical (single/three-line diagrams, SCADA, short circuit, cable ampacity, load-flow, arc flash, protection coordination).
+- Civil (site layout, access roads, grading, drainage).
+- Geotechnical and hydrology studies.
+- BESS overbuild and augmentation analyses.
+- Lead design review meetings, provide QA/QC on engineering drawing packages, and ensure stakeholder markups are incorporated.
+- Ensure compliance with codes, standards, and local regulations while optimizing system performance.
+External & Internal Coordination
+- Manage and coordinate third-party engineering consultants and EPC partners to deliver conceptual and detailed designs.
+- Participate in RFI/RFP/RFQ development, bid evaluations, and recommendations for OEMs and EPCs.
+- Support day-to-day coordination with internal project teams (status updates, RFIs, revisions).
+- Facilitate technical interactions with Independent Engineers during project financing.
+Standards, Processes & Continuous Improvement
+- Support creation and maintenance of Standard Operating Procedures including design templates, processes and develop and maintain a repository of specifications for BESS and PV+BESS projects.
+- Identify and implement process improvements in engineering design, documentation, and procurement workflows.
+- Contribute to the development of cost models, benchmarking, and optimization strategies for BESS.
+Execution & Cross-Functional Support
+- Provide technical support during EPC contracting, procurement, and construction phases as needed.
+- Support the Director of Development Engineering and EPC team across engineering, procurement, and financing activities.
+- Assist in preparing documentation for EPC pricing requests and project financing deliverables.
+Desired Qualifications:
+In addition to BESS expertise, candidates with experience in high-voltage (HV) electrical systems are strongly preferred. This includes familiarity with substation design, main power transformer (MPT) selection and application, medium and high-voltage breakers, relays, and protection systems, as well as interconnection requirements with transmission operators and utilities. A working knowledge of HV equipment specifications, one-line and three-line diagram development, and substation layout/design will be considered a significant advantage, enabling the candidate to contribute more broadly to the integration of PV+BESS projects into the grid.
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/careers/director-of-origination/
+
+Vesper Energy is seeking an experienced Director of Origination & Energy Markets to lead efforts in originating, pricing, structuring, negotiating, and executing long term power offtake agreements to help commercialize a strong near-term pipeline of solar, solar + storage, and standalone storage assets.
+This role will require someone with knowledge of revenue optimization, market-fundamentals, market regulatory overlay, as well as competitive bidding and pricing analysis. Responsibilities include evaluating market demand drivers, identifying target customer opportunities, leading competitive bidding efforts to RFP submission and bilateral offers, building and cultivating customer relationships, negotiating and evaluating overall finance-ability of offtake counterparties and contract structures. The Director of Origination & Energy Markets will validate and audit financial model revenue modeling results as well as ensure that settlement terms are fully vetted from a base case, downside, and upside case perspective. In addition to the external facing relationship management elements of the role, the scope requires of mix of directing and coordinating with internal and external technical and quantitative resources to meet customer and Vesper corporate needs.
+Role Requirements
+Education: Bachelor’s degree in finance, economics, energy, engineering, business, or similar disciplines. MBA preferred.
+Years of Experience: 7-10 years of experience with a strong record of execution capabilities and accomplishments in utility scale power origination, business development, and energy market fundamentals roles
+Additional Skills, abilities & knowledge:
+- Proven record of accomplishment in successfully sourcing and executing renewable energy PPA’s with a deep understanding of energy markets and regulatory frameworks
+- Technically minded with deep knowledge of market mechanisms, revenue cash flows, and revenue contract terms
+- Strong understanding of revenue modeling and structuring, and market participant settlement terms
+- Proven experience negotiating and executing complex PPA structures, including hybrid battery projects and standalone storage tolling arrangements
+- Expertise in revenue optimization and technical modeling (throughout the life of the asset)
+- Confident navigating complex transactions and communicating value propositions to both internal and external stakeholders
+- Relationships with customers in various market segments including utilities, municipalities, cooperatives, trading houses, and corporate offtake clients
+- Experience in leading and managing cross-functional teams.
+- Knowledge of relevant industry software and tools for financial modeling and analysis.
+- Excellent problem-solving skills and a strategic mindset.
+Key Responsibilities
+Prepare regular reports and presentations on origination activities, contract status, execution risk, economic drivers, and potential market opportunities.
+Lead, develop, and execute the origination approach to market with includes – market fundamental research, identifying target customers, forming a view of project revenue thesis, bidding into RFPs, engage target customers bilaterally, and negotiating terms that meet cross functional needs across the organization to successful execution and completion.
+Identify market risks, asset risks, and execution risks, as well as become an expert in development and operating risks sufficient to navigate revenue structuring, developing an offtake product, and negotiating contract terms.
+Establish and strengthen relationships with key stakeholders, including utilities, municipalities, cooperatives, trading houses, and corporate offtake partners, and other potential offtake partners.
+Drive the negotiation and execution of long term PPAs and other revenue agreements such as capacity contracts, tolling agreements, REC agreements, hedging arrangements, VPPAs, and traditional utility PPAs, overseeing all aspects of the transaction lifecycle—due diligence, negotiation, and post-close management.
+Respond to Requests for Proposals (RFPs) and coordinate internal resources to deliver competitive, compelling bids that meet internal investment targets.
+Collaborate with the finance team to develop commercially viable revenue cash flows (throughout the life of the asset) for financial models and conduct analyses that supports deal structuring and decision-making.
+Manage and leverage technical and quantitative resources to inform decision making and transaction analysis.
+Collaborate with the development, legal, EPC, transmission, operations, and finance teams to structure and negotiate contracts ensuring that all aspects align with company objectives, best practices, risk management, economic hurdle rates, and industry best practices.
+Stay updated on industry trends, regulations, and incentives related to renewable energy to inform decision-making and ensure compliance with all relevant laws and policies.
+
+--------------------------------------------------------------------------------
+
+URL: https://vesperenergy.com/careers/director-of-project-valuation-analytics/
+
+Vesper Energy is seeking a highly experienced Director of Project Valuation & Analytics to lead various Structured Finance team initiatives. The Director of Project Valuation & Analytics will be responsible for project underwriting, valuation and financial modeling efforts within the company. The Director will also be responsible for maintaining consistency across projects and for best-in-class valuation standards.
+Role Requirements
+Education: Bachelor’s degree in finance, Economics, Business Administration, or Engineering. MBA or relevant advanced degree is strongly preferred.
+Years of Experience: 10+ years of experience in financial analysis, project financing (debt and tax equity) at independent power producer or utility or commercial/investment bank with a strong focus in energy or infrastructure sectors.
+Additional Skills, abilities & knowledge:
+- Proficiency in financial modeling, analysis, and relevant software/tools.
+- Solid understanding and hands-on experience with project underwriting, valuation and financial modeling.
+- Strong understanding of solar and storage project economics and financial modeling.
+- Hands-on experience with valuation of Solar + Storage (PV+BESS) projects.
+- Ability to understand power market fundamentals and interpret merchant revenue streams accurately.
+- Proven experience dealing with modeling construction loans, term loans, and tax equity structuring/modeling.
+- Analytical approach and a good understanding of structuring complex financial transactions.
+- A good understanding of capital markets, debt, equity and tax equity/credit financing, and financial instruments.
+- Strong management skills and ability to work with cross-functional teams.
+Key Responsibilities
+Financial Modeling:
+- Lead financial modeling efforts to support project financing, pricing decisions, and portfolio management.
+- Collaborate with legal, finance, and development teams to ensure consistency and best in class modeling and valuation.
+Project Underwriting:
+- Manage project underwriting criteria and work with cross functional teams to implement them.
+- Lead Modeling and underwriting criteria for PV + BESS projects
+Market Analysis:
+- Analyze and interpret the market fundamentals, forward curves for use in financial models.
+- Provide strategic guidance to senior management on market conditions, financing options, and capital allocation.
+Team Leadership:
+- Provide guidance and support to team members on financial structuring, negotiations, and market analysis.
+- Ensure effective communication and coordination across cross-functional teams to support financing initiatives.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+ROOT: https://fafco.com/
+SCRAPED_AT_UTC: 2026-02-11T20:04:36.326281Z
+PAGES_INCLUDED: 1
+
+================================================================================
+
+URL: https://fafco.com/
+
+Solar Pool Heating
+Genuine
+FAFCO SUPPLIES
+The Only Complete Source of Genuine Fafco Solar Pool Supplies!
+Call:
+Genuine
+Collectors
+Genuine
+Components
+Genuine
+Repair Kits
+Genuine
+Specialty Components
+Genuine
+Solid Body Tube
+Genuine
+Separated Tube
+
+--------------------------------------------------------------------------------

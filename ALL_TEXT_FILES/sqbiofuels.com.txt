@@ -1,0 +1,756 @@
+ROOT: https://sqbiofuels.com/
+SCRAPED_AT_UTC: 2026-02-11T20:36:16.421559Z
+PAGES_INCLUDED: 7
+
+================================================================================
+
+URL: https://sqbiofuels.com/
+
+Thank You and Farewell, Eugene!
+We opened our doors in August 2006 and have been a part of the Eugene/OR/PNW community ever since. After all these years, it has come time for us to close the SeQuential Retail business and say goodbye. To our customers, vendors, friends, and SQ Hub team members—thank you!
+86714 McVay Hwy
+Eugene, OR 97405
+Open Daily — 7am to 8pm
+Gasoline/Ethanol Blends
+E10 (87 octane) – 10% ethanol with 90% gasoline
+E85 (102 octane) – 85% ethanol with 15% gasoline (works in Flex Fuel vehicles)
+Renewable Diesel
+R99 – 99% renewable resources with 1% petroleum diesel
+Cooking Oil Drop Off
+We can take your residential or small business cooking oil at the SQ Hub. Just pull up to our gated area next to the used cooking oil sign and come into the store and check in with our team. We will advise you on how best to drop off your used cooking oil. The oil will then be picked and taken to Salem to be recycled into cleaner burning biodiesel, low carbon biodiesel!
+Our Commitment to Eco-Friendly Operations
+We receive 100% of the energy needed to operate from renewable energy sources, including solar panels and through EWEB’s wind power program. Atop the station, we planted 20 different native species in 5 inches of soil in order to help insulate the building, keeping it cool in the summer, without needing to water it during the hot months. You can shop with us knowing that we are dedicated to being a truly green business in our community, and setting an example for future generations.
+
+--------------------------------------------------------------------------------
+
+URL: https://sqbiofuels.com/r99-renewable-diesel/
+
+R99 Renewable Diesel
+We’re proud to partner with Neste to offer an alternative energy for your area.
+Learn more about R99 Renewable Diesel
+Renewable Diesel Technical Data
+We’re proud to partner with Neste to offer an alternative energy for your area.
+Learn more about R99 Renewable Diesel
+Renewable Diesel Technical Data
+
+--------------------------------------------------------------------------------
+
+URL: https://sqbiofuels.com/wp-content/uploads/2023/03/Neste-R99-Renewable-Diesel-SDS-July2022.pdf
+
+Revision date: 7/26/2022 Supersedes date: 11/11/2021
+ 
+SAFETY DATA SHEET
+Neste MY Renewable Diesel (R99); Neste Renewable Diesel (R99)
+1. Identification
+Product identifier
+Product name Neste MY Renewable Diesel (R99); Neste Renewable Diesel (R99)
+Product number ID 19555
+Recommended use of the chemical and restrictions on use
+Application Use as a fuel
+Details of the supplier of the safety data sheet
+Supplier Neste US, Inc.
+3040 Post Oak Blvd, Suite 1700, Houston, Texas 77056
++1 (713) 407 4400
+sds@neste.com (chemical safety)
+Emergency telephone number
+Emergency telephone +61 2 9186 1132, Chemwatch: International Emergency Response Phone Number
+National emergency telephone
+number
++358 800 147 111, +358 9 471 977, Poison Information Centre
+2. Hazard(s) identification
+Classification of the substance or mixture
+Physical hazards Flam. Liq. 4 - H227
+Health hazards Carc. 2 - H351 STOT RE 2 - H373 Asp. Tox. 1 - H304
+Label elements
+Hazard symbols
+ 
+Signal word Danger
+Hazard statements H227 Combustible liquid.
+H351 Suspected of causing cancer.
+H373 May cause damage to organs through prolonged or repeated exposure.
+H304 May be fatal if swallowed and enters airways.
+Precautionary statements P273 Avoid release to the environment.
+P210 Keep away from heat, sparks, open flames and hot surfaces. No smoking.
+P260 Do not breathe vapor/ spray.
+P301+P310 If swallowed: Immediately call a poison center/ doctor.
+P331 Do NOT induce vomiting.
+P501 Dispose of contents/ container in accordance with national regulations.
+Contains Alkanes, C10-20 -branched and linear, Fuels, diesel, Distillates (Fischer-Tropsch), C8-26 -
+branched and linear
+1/
+10
+
+Revision date: 7/26/2022 Supersedes date: 11/11/2021
+Neste MY Renewable Diesel (R99); Neste Renewable Diesel (R99)
+Other hazards
+Hazards not otherwise
+classified (HNOC)
+Risk of soil and ground water contamination. Repeated exposure may cause skin dryness or
+cracking.
+3. Composition/information on ingredients
+Mixtures
+Alkanes, C10-20 -branched and linear > 97 %
+CAS number: 928771-01-1
+Classification
+Flam. Liq. 4 - H227
+Asp. Tox. 1 - H304
+Fuels, diesel < 3 %
+CAS number: 68334-30-5
+Classification
+Flam. Liq. 3 - H226
+Acute Tox. 4 - H332
+Skin Irrit. 2 - H315
+Carc. 2 - H351
+STOT RE 2 - H373
+Asp. Tox. 1 - H304
+Not relevant.
+Distillates (Fischer-Tropsch), C8-26 - branched and linear < 2 %
+CAS number: 848301-67-7
+Classification
+Asp. Tox. 1 - H304
+The full text for all hazard statements is displayed in Section 16.
+Composition comments Mixture of renewable raw material fuel and additives. Contains middle distillate-range iso- and
+n-paraffinic hydrocarbons. Total aromatics at maximum: 1,0%
+4. First-aid measures
+Description of first aid measures
+Inhalation Unlikely to be hazardous by inhalation because of the low vapor pressure of the product at
+ambient temperature. If spray/mist has been inhaled, proceed as follows. Remove victim to
+fresh air and keep at rest in a position comfortable for breathing. Get medical attention if
+symptoms are severe or persist.
+Ingestion Do not induce vomiting. Get medical attention immediately.
+Skin Contact Remove contaminated clothing immediately and wash skin with soap and water. Get medical
+attention if irritation persists after washing.
+Eye contact Rinse immediately with plenty of water. Remove contact lenses, if present and easy to do.
+Continue rinsing. Get medical attention if irritation persists after washing.
+Most important symptoms and effects, both acute and delayed
+2/
+10
+
+Revision date: 7/26/2022 Supersedes date: 11/11/2021
+Neste MY Renewable Diesel (R99); Neste Renewable Diesel (R99)
+General information Repeated exposure may cause skin dryness or cracking. Spray/mists may cause respiratory
+tract irritation. Entry into the lungs following ingestion or vomiting may cause chemical
+pneumonitis.
+Indication of immediate medical attention and special treatment needed
+Notes for the doctor Treat symptomatically.
+5. Fire-fighting measures
+Extinguishing media
+Suitable extinguishing media Water spray, foam, dry powder or carbon dioxide.
+Unsuitable extinguishing
+media
+Water may be ineffective for extinguishment, unless used under favorable conditions by
+experienced fire fighters
+Special hazards arising from the substance or mixture
+Specific hazards Combustible liquid. Containers can burst violently or explode when heated, due to excessive
+pressure build-up.
+Hazardous combustion
+products
+Carbon dioxide (CO2). Carbon monoxide (CO).
+Advice for firefighters
+Protective actions during
+firefighting
+Cool containers exposed to heat with water spray and remove them from the fire area if it can
+be done without risk.
+Special protective equipment
+for firefighters
+Wear positive-pressure self-contained breathing apparatus (SCBA) and appropriate protective
+clothing.
+6. Accidental release measures
+Personal precautions, protective equipment and emergency procedures
+Personal precautions Wear adequate protective equipment at all operations.
+For emergency responders Prevent unauthorized access. Eliminate all ignition sources if safe to do so. Take
+precautionary measures against static discharge.
+Environmental precautions
+Environmental precautions Avoid release to the environment. Stop leak if safe to do so. Avoid the spillage or runoff
+entering drains, sewers or watercourses. Inform the relevant authorities if environmental
+pollution occurs (sewers, waterways, soil or air). Risk of soil and ground water contamination.
+Methods and material for containment and cleaning up
+Methods for cleaning up Immediately start clean-up of the liquid and contaminated soil. Contain spillage with sand,
+earth or other suitable non-combustible material. Pay attention to the fire and health hazards
+caused by the product.
+Reference to other sections For personal protection, see Section 8.
+7. Handling and storage
+Precautions for safe handling
+Usage precautions Avoid heat, flames and other sources of ignition. Take precautionary measures against static
+discharges. Use only outdoors or in a well-ventilated area. Avoid inhalation of vapors and
+contact with skin and eyes. Use personal protective equipment and/or local ventilation when
+needed. Do not eat, drink or smoke when using this product. Wash hands and any other
+contaminated areas of the body with soap and water before leaving the work site. During tank
+operations follow special instructions (risk of oxygen displacement and hydrocarbons).
+3/
+10
+
+Revision date: 7/26/2022 Supersedes date: 11/11/2021
+Neste MY Renewable Diesel (R99); Neste Renewable Diesel (R99)
+Conditions for safe storage, including any incompatibilities
+Storage precautions Flammable liquid storage. Store in accordance with local regulations. Store in a demarcated
+bunded area to prevent release to drains and/or watercourses. Only store in correctly labeled
+containers. Use containers made of the following materials: Carbon steel. Stainless steel.
+Specific end uses(s)
+Specific end use(s) Not known.
+8. Exposure controls/Personal protection
+Ingredient comments The individual limit values can be applied for the hydrocarbons.
+Diesel fuel as total hydrocarbons; ACGIH TLV®-TWA (8h) 100 mg/m3 (IFV).
+Exposure controls
+Appropriate engineering
+controls
+Provide adequate ventilation. Use personal protective equipment and/or local ventilation when
+needed. Handle in accordance with good industrial hygiene and safety practice. During tank
+operations follow special instructions (risk of oxygen displacement and hydrocarbons).
+Eye/face protection Spectacles.
+Hand protection Wear protective gloves. It is recommended that gloves are made of the following material:
+Nitrile rubber. Neoprene. Polyvinyl chloride (PVC). The breakthrough time for any glove
+material may be different for different glove manufacturers. Change protective gloves
+regularly.
+Other skin and body
+protection
+Protective clothing when needed. Wear anti-static protective clothing if there is a risk of
+ignition from static electricity.
+Respiratory protection Respiratory protection must be used if the airborne contamination exceeds the recommended
+occupational exposure limit. Wear a respirator fitted with the following cartridge: Combination
+filter, type A2/P2. Filter must be changed often enough. At high concentrations a breathing
+apparatus must be used (self-contained or fresh air hose breathing apparatus).
+Environmental exposure
+controls
+Store in a demarcated bunded area to prevent release to drains and/or watercourses.
+9. Physical and chemical properties
+Information on basic physical and chemical properties
+Appearance Liquid.
+Color Clear.
+Odor Mild.
+Odor threshold No information available.
+pH No information available.
+Melting point Pour point < -20°C @ 1013 hPa (BS4633, EC A1)
+Initial boiling point and range 180-320°C (EN ISO 3405)
+Flash point > 61°C (EN ISO 2719, EC A9)
+Upper/lower flammability or
+explosive limits
+No information available.
+Vapor pressure 0,087 kPa @ 25°C (EC A4)
+Vapor density No information available.
+4/
+10
+
+Revision date: 7/26/2022 Supersedes date: 11/11/2021
+Neste MY Renewable Diesel (R99); Neste Renewable Diesel (R99)
+Relative density 0,77 - 0,79 @ 15/4°C (EN ISO 12185, EC A3)
+Solubility(ies) Insoluble in water. ~ 0,075 mg/l water @ 25°C (calculated) Soluble in the following materials:
+Methanol. Hydrocarbons.
+Partition coefficient log Kow: > 6,5 (EC A8)
+Auto-ignition temperature 204°C (EC A15)
+Decomposition Temperature No information available.
+Viscosity Kinematic viscosity 4.0 mm2/s @ 20°C 2.6 mm2/s @ 40°C (OECD 114) Dynamic viscosity ≤ 5
+mPa s @ 20°C
+Explosive properties Not considered to be explosive. (EC A14)
+Oxidizing properties Does not meet the criteria for classification as oxidizing.
+Other information Not known.
+10. Stability and reactivity
+Reactivity There are no known reactivity hazards associated with this product.
+Stability Stable at normal ambient temperatures and when used as recommended.
+Possibility of hazardous
+reactions
+No potentially hazardous reactions known.
+Conditions to avoid Keep away from heat, sparks and open flame.
+Materials to avoid Oxidizing agents.
+Hazardous decomposition
+products
+Does not decompose when used and stored as recommended.
+11. Toxicological information
+Information on toxicological effects
+Toxicological effects Acute toxicity (any route of exposure) Based on available data the classification criteria are
+not met.
+Acute toxicity - inhalation
+ATE inhalation (vapours mg/l) 367.89
+Skin corrosion/irritation
+Skin corrosion/irritation Based on available data the classification criteria are not met. (EC B4) Repeated exposure
+may cause skin dryness or cracking. The product irritates mucous membranes and may
+cause abdominal discomfort if swallowed. May cause respiratory system irritation.
+Serious eye damage/irritation
+Serious eye damage/irritation Based on available data the classification criteria are not met. (EC B5)
+Skin sensitization
+Skin sensitization Based on available data the classification criteria are not met. (EC B6)
+Germ cell mutagenicity
+Genotoxicity - in vitro Based on available data the classification criteria are not met. (EC B10, B13/14 & B17).
+Carcinogenicity
+5/
+10
+
+Revision date: 7/26/2022 Supersedes date: 11/11/2021
+Neste MY Renewable Diesel (R99); Neste Renewable Diesel (R99)
+Carcinogenicity Suspected of causing cancer.
+Reproductive toxicity
+Reproductive toxicity - fertility Based on available data the classification criteria are not met. (OECD 416)
+Specific target organ toxicity - single exposure
+STOT - single exposure Not classified as a specific target organ toxicant after a single exposure.
+Specific target organ toxicity - repeated exposure
+STOT - repeated exposure May cause damage to organs through prolonged or repeated exposure.
+Aspiration hazard
+Aspiration hazard May be fatal if swallowed and enters airways. Entry into the lungs following ingestion or
+vomiting may cause chemical pneumonitis.
+Route of exposure Inhalation Ingestion Skin and/or eye contact
+Toxicological information on ingredients.
+Alkanes, C10-20 -branched and linear
+Acute toxicity - oral
+Notes (oral LD₅₀) LD₅₀ >2000 mg/kg, Oral, Rat (EC B1 tris)
+Acute toxicity - dermal
+Notes (dermal LD₅₀) LD₅₀ > 2000 mg/kg, Dermal, Rat (EC B3)
+Fuels, diesel
+Acute toxicity - oral
+Notes (oral LD₅₀) LD₅₀ > 5000 mg/kg, Oral, Rat (OECD 401, 420)
+Acute toxicity - dermal
+Notes (dermal LD₅₀) LD₅₀ > 4300 mg/kg, Dermal, Rabbit (OECD 434)
+Acute toxicity - inhalation
+Notes (inhalation LC₅₀) LC₅₀ 3,6 - 5,4 mg/l, Inhalation, (4h), Rat (OECD 403)
+ATE inhalation (vapours
+mg/l)
+11.0
+Distillates (Fischer-Tropsch), C8-26 - branched and linear
+Acute toxicity - oral
+Notes (oral LD₅₀) LD₅₀ > 5000 mg/kg, Oral, Rat
+Acute toxicity - dermal
+Notes (dermal LD₅₀) LD₅₀ > 2000 mg/kg, Dermal, Rat
+12. Ecological information
+Acute aquatic toxicity
+Summary Based on available data the classification criteria are not met.
+Chronic aquatic toxicity
+Summary Based on available data the classification criteria are not met.
+6/
+10
+
+Revision date: 7/26/2022 Supersedes date: 11/11/2021
+Neste MY Renewable Diesel (R99); Neste Renewable Diesel (R99)
+Ecological information on ingredients.
+Alkanes, C10-20 -branched and linear
+Acute aquatic toxicity
+Acute toxicity - fish LL₅₀, 96 hours: > 1000 mg/l, Fish
+WAF (OECD 203)
+Acute toxicity - aquatic
+invertebrates
+EL50, 48 hours: > 100 mg/l,
+WAF (OECD 202)
+Acute toxicity - aquatic
+plants
+EL50, 72 hours: > 100 mg/l, Algae
+WAF (OECD 201)
+Acute toxicity -
+microorganisms
+EC₅₀, 30 minutes: > 1000 mg/l, Micro-organisms (wastewater sludge)
+EC₅₀, 3 hours: > 1000 mg/l, Micro-organisms (wastewater sludge)
+(OECD 209)
+Chronic aquatic toxicity
+Chronic toxicity - aquatic
+invertebrates
+NOEC, 21 days: 1 mg/l,
+LOEC, 21 days: 3,2 mg/l,
+WAF (OECD 211)
+NOEC, 10 days: 373 mg/kg, Sediment organisms
+LOEC, 10 days: 1165 mg/kg, Sediment organisms
+LC₅₀, 10 days: 1200 mg/kg, Sediment organisms
+(OSPAR Protocols, Part A: Sediment Bioassay, 2005)
+Fuels, diesel
+Acute aquatic toxicity
+Acute toxicity - fish LL₅₀, 96 hours: 21 mg/l, Oncorhynchus mykiss (Rainbow trout)
+NOEL, 96 hours: 10 mg/l, Oncorhynchus mykiss (Rainbow trout)
+WAF (OECD 203, EC C.1)
+Acute toxicity - aquatic
+invertebrates
+EL50, 48 hours: 68 mg/l, Daphnia magna
+NOEL, 48 hours: 46 mg/l, Daphnia magna
+WAF (OECD 202, EC C.2)
+Acute toxicity - aquatic
+plants
+EbL50, 72 hours: 10 mg/l, Pseudokirchneriella subcapitata
+NOEL, 72 hours: 1 mg/l, Pseudokirchneriella subcapitata
+WAF (OECD 201, EC C.3)
+Acute toxicity -
+microorganisms
+EL50, 40 hours: > 1000 mg/l, Micro-organisms (wastewater sludge)
+NOEL, 40 hours: 3,22 mg/l, Micro-organisms (wastewater sludge)
+(QSAR)
+Chronic aquatic toxicity
+Chronic toxicity - fish early
+life stage
+NOEL, 14 days: 0,08 mg/l, Oncorhynchus mykiss (Rainbow trout)
+(QSAR)
+Chronic toxicity - aquatic
+invertebrates
+NOEL, 21 days: 0,2 mg/l, Daphnia magna
+(QSAR)
+Persistence and degradability
+Stability (hydrolysis) No significant reaction in water.
+Biodegradation Rapidly degradable
+(OECD 301B).
+7/
+10
+
+Revision date: 7/26/2022 Supersedes date: 11/11/2021
+Neste MY Renewable Diesel (R99); Neste Renewable Diesel (R99)
+Ecological information on ingredients.
+Fuels, diesel
+Biodegradation Inherently biodegradable.
+(OECD 301F)
+Bioaccumulative potential
+Bio-Accumulative Potential Possibly bioaccumulative.
+Partition coefficient log Kow: > 6,5 (EC A8)
+Mobility in soil
+Mobility Evaporates slowly. The product has poor water-solubility. The product contains substances
+which are bound to particulate matter and are retained in soil. Log Koc > 5.6 (EC C19).
+Other adverse effects
+Other adverse effects Not known.
+13. Disposal considerations
+Waste treatment methods
+Disposal methods Dispose of waste to licensed waste disposal site in accordance with the requirements of the
+local Waste Disposal Authority. When handling waste, the safety precautions applying to
+handling of the product should be considered. Care should be taken when handling emptied
+containers that have not been thoroughly cleaned or rinsed out. Product residues retained in
+emptied containers can be hazardous. Waste packaging should be collected for reuse or
+recycling.
+14. Transport information
+Sea transport notes This cargo is considered an Energy-rich fuel and effective 1 January 2019 should be carried
+subject to Annex I of MARPOL, see Annex 12 of MEPC.2/Circ.24. Please also refer to
+MEPC.1/Circ.879 - GUIDELINES FOR THE CARRIAGE OF ENERGY-RICH FUELS AND
+THEIR BLENDS
+UN Number
+UN No. (TDG) 1993
+UN No. (IMDG) Not classified under IMDG.
+UN No. (DOT) 1993
+UN proper shipping name
+Proper shipping name (TDG) UN 1993 Flammable Liquid, N.O.S. (Diesel fuel)
+Proper shipping name (DOT) UN 1993 Flammable liquid, N.O.S. (Diesel fuel)
+Transport hazard class(es)
+DOT hazard class 3
+TDG class 3
+Packing group
+TDG Packing Group III
+DOT packing group III
+Environmental hazards
+8/
+10
+
+Revision date: 7/26/2022 Supersedes date: 11/11/2021
+Neste MY Renewable Diesel (R99); Neste Renewable Diesel (R99)
+Environmentally Hazardous Substance
+No.
+Transport in bulk according to
+Annex II of MARPOL 73/78
+and the IBC Code
+Bulk (MARPOL 73/78, Annex I): Energy-rich fuels
+15. Regulatory information
+National regulations EU regulatory references for the safety data sheet:
+Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18
+December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of
+Chemicals (REACH) (as amended).
+Commission Regulation (EU) No 2015/830 of 28 May 2015.
+Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16
+December 2008 on classification, labelling and packaging of substances and mixtures (as
+amended).
+US State Regulations
+California Proposition 65 Carcinogens and Reproductive Toxins
+Not listed.
+Inventories
+EU - EINECS/ELINCS
+Not listed.
+Canada - DSL/NDSL
+Present.
+DSL
+US - TSCA
+Present.
+Australia - AIIC
+Present.
+China - IECSC
+Not listed.
+16. Other information
+Abbreviations and acronyms
+used in the safety data sheet
+ACGIH = American Conference of Governmental Industrial Hygienists
+TLV = Treshold Limit Value
+TWA = Time-Weighted Average
+WAF = Water Accommodated Fraction
+Key literature references and
+sources for data
+Regulations, databases, literature, own research. Chemical Safety Report Renewable
+hydrocarbons (diesel type fraction), 2017.
+Revision comments Updated, sections: 14. NOTE: Lines within the margin indicate significant changes from the
+previous revision.
+Revision date 7/26/2022
+Supersedes date 11/11/2021
+SDS No. 6327
+9/
+10
+
+Revision date: 7/26/2022 Supersedes date: 11/11/2021
+Neste MY Renewable Diesel (R99); Neste Renewable Diesel (R99)
+Hazard statements in full H226 Flammable liquid and vapor.
+H227 Combustible liquid.
+H304 May be fatal if swallowed and enters airways.
+H315 Causes skin irritation.
+H332 Harmful if inhaled.
+H351 Suspected of causing cancer.
+H373 May cause damage to organs through prolonged or repeated exposure.
+NFPA - health hazard 0
+NFPA - flammability hazard 2
+NFPA - instability hazard 0
+NFPA - special hazard -
+ACA HMIS Health rating. 2
+ACA HMIS Flammability
+rating.
+2
+ACA HMIS Physical hazard
+rating.
+0
+The information given is based on data currently available to us and is believed to be correct. No warranty is expressed or
+implied regarding the accuracy of this data or the results obtained from the use thereof. No responsibility is assumed for injury
+or damage from the use of the products described herein.The information given is designed only as a guidance for safe
+handling, use, processing, storage, transportation, disposal and release and is not to be considered a warranty or quality
+specification.
+10/
+10
+
+--------------------------------------------------------------------------------
+
+URL: https://sqbiofuels.com/wp-content/uploads/2023/03/NesteMY-RD-vs-biodiesel-comparison-chart.pdf
+
+Renewable Diesel vs. Other Diesel
+Impact in reducing 
+GHG emissions?
+Biodiesel (B20)Fossil Diesel
+NoneSigniﬁcant – up to 75% fewer 
+GHG emissions*
+Yes, from 100% sustainably 
+sourced waste raw materials
+Yes, but primarily 
+sourced from virgin 
+sources, not waste
+Depends on biodiesel/
+diesel blend ratio
+Made from renewable 
+sources?
+Performance in cold 
+temperatures?
+Cetane Number – 
+Higher value indicates 
+increased combustion 
+efﬁciency, quicker cold 
+starts and lower emissions
+Fuel Stability
+OEM Approval
+Modest – up to 15% 
+fewer GHG emissions
+No
+Excellent
+45-55
+Average
+Yes
+70+
+Excellent
+High
+Yes
+50
+Low
+Yes
+nestemy.com
+*Lifecycle greenhouse gas emission reductions compared to fossil diesel and based on current feedstock pathways. Calculation method complies with the LCFS CA-GREET 3.0.
+Neste US Inc. | nestemy.com
+
+--------------------------------------------------------------------------------
+
+URL: https://sqbiofuels.com/wp-content/uploads/2023/03/NesteMY-Alternative-energy-comparison-chart.pdf
+
+Biodiesel (B20)
+Renewable
+Natural Gas
+Varies3
+Fueling /
+charging time
+Performance 
+in cold weather
+Greenhouse 
+gas reduction
+Battery
+Electric
+< 4ºF
+< 4ºF
+< 10ºF1
+< 4ºF2
+Range
+(full tank or charge)
+Investment 
+requirements
+No
+No
+Yes
+Yes
+Short
+Short
+Short
+Long
+Varies4Hydrogen < 4ºFYes
+High
+High
+Medium
+High
+Low
+High
+Low
+Medium Short
+Data represents medium and heavy duty trucking. 1 Depends on the fossil fuel used for blending. 2 EV range can be reduced. 3 Depends on local grid carbon intensity. 4 Depends on hydrogen production method.
+Alternative Energy Comparison Chart
+Suitable for all diesel engines,
+no modifications required
+Up to 75% less GHG emissions 
+compared to fossil diesel
+Made from 100% sustainably sourced 
+renewable raw materials
+Reduce emissions, not performance with Neste MY Renewable Diesel
+nestemy.com
+Neste US Inc. | nestemy.com
+
+--------------------------------------------------------------------------------
+
+URL: https://sqbiofuels.com/wp-content/uploads/2023/03/Neste-MY-RD-Technical-Data-Sheet-Dec2022.pdf
+
+Dec 12, 2022
+min max min max Test Method min max Test Method
+Cetane number - 70 - 40 - ASTM D6890 70 - EN 15195
+Sulfur content mg/kg - 5 - 15 ASTM D5453 - 5 EN ISO 20846
+Flash point °C 61 - 52 - ASTM D93 55 - EN ISO 2719
+Carbon residue (on 10% distillation residue)% (m/m) - 0.1 - 0.35 ASTM D4530 - 0.3 EN ISO 10370 
+Ash content % (m/m) - 0.001 - 0.01 ASTM D482 - 0.01 EN ISO 6245
+Water and sediment % (m/m) - 0.02 - 0.05 ASTM D2709 - 0.02 EN ISO 12937
+Copper strip corrosion (3h at 50°C) rating ASTM D130 EN ISO 2160
+Oxidation stability g/m³ - 25 - 25 ASTM D2274 - 25 EN ISO 12205
+Lubricity, corrected wear scar diameter
+(wsd 1.4) at 60°C μm - 460 - 520 ASTM D6079 - 460 EN ISO 12156-1
+Viscosity at 40°C mm²/s 2 4 1.9 4.1 ASTM D445 2 4.5 EN ISO 3104
+Distillation 
+90% (V/V) recovered at °C 282 338 282 338 ASTM D86 - - -
+Distillation 
+95% (V/V) recovered at °C - 360 - - - - 360 EN ISO 3405
+Cloud Point °C - - ASTM D7689 - - EN 23015 & EN 116
+Appearance - - Visual - - Visual
+Total aromatics content % (m/m) - 1.1 - 35 ASTM D1319 - 1.1 EN 12916
+Conductivity pS/m 50 - 25 - ASTM D2624 - - -
+FAME content % v/v - 0 - 5 ASTM D7371 - 7 -
+As agreed
+Clear and bright
+Class 1 Class 3 Class 1
+Technical Data Sheet
+Neste MY Renewable Diesel
+Neste Renewable Diesel is a bio-based paraffinic diesel fuel defined in ASTM D975 and EN 15940 specifications.
+Properties Unit Neste MY Renewable Diesel ASTM D975 Diesel limits EN 15940 Paraffinic Diesel llimits
+
+--------------------------------------------------------------------------------
+
+URL: https://sqbiofuels.com/wp-content/uploads/2023/03/NesteMY-product-fact-sheet.pdf
+
+Lower emissions with 
+Neste MY Renewable Diesel ™
+Neste MY Renewable Diesel
+TM
+ is a fully renewable diesel fuel Neste has developed to reduce the climate impact 
+of transportation.
+Renewable diesel fuel has several advantages over fossil diesel. Compared to fossil diesel, renewable diesel 
+can reduce greenhouse gas emissions by up to 75% gas emissions (CO2 equivalent) over its life cycle.
+Neste MY Renewable Diesel is a drop-in fuel. This enables easy and quick switching without conversion costs 
+to either vehicles or fueling and storage infrastructure. It can also be used neat (100%) or blended with fossil 
+diesel. Just fuel and drive!
+What is renewable diesel?
+It’s not fossil diesel. It’s not biodiesel. Neste MY Renewable Diesel is a high quality diesel made from 
+renewable materials that do not release new carbon into the atmosphere. Neste’s proprietary NEXBTL 
+technology allows a wide range of fats, oils and waste products to be used as feedstocks, such as used 
+cooking oils and waste fats from the food industry and restaurants.
+The result is a product that is signiﬁcantly better for the environment than fossil diesel, while - thanks to its 
+chemical composition - delivering at least the same performance, if not better, and can be used without 
+modiﬁcations to the ﬂeet or infrastructure. Just fuel and drive!
+Where can I buy Neste MY Renewable Diesel?
+Neste has several distributors who offer ﬂexible solutions for your company. You can ﬁnd an overview 
+of distributors and their fueling stations selling Neste MY at www.nestemy.com.
+Advantages of Neste MY Renewable Diesel compared to fossil diesel
+TOP TIER
+TM
+ fuel
+The ﬁrst TOP TIER
+TM
+ 
+certiﬁed renewable 
+diesel for its high 
+quality and powerful 
+performance.
+Renewable and 
+sustainable
+Neste MY Renewable 
+Diesel uses a wide 
+range of fats, oils and 
+waste products.
+Smaller carbon 
+footprint
+In addition to a reduction 
+in tailpipe emissions. 
+greenhouse gas 
+emissions are also 
+reduced by up to 75%.
+Easy to use
+Fully compatible 
+with existing fuel 
+infrastructure, no 
+further investment 
+required.
+
+Excellent cold weather 
+performance 
+Suitable for cold weather conditions, 
+down to -4°F (-20°C) for Winter grade 
+and 10°F (-12°C) for the summer grade.
+Efﬁcient combustion 
+With a high cetane number (70+), 
+Neste MY ensures efﬁcient and clean 
+combustion.
+Excellent storage properties
+The fuel is stable and can be stored 
+for a long time without losing quality 
+or absorbing water.
+Odorless
+The fuel does not contain sulfur, 
+oxygen or aromatics.
+Lower maintenance costs 
+compared to other renewable 
+alternatives 
+Neste MY Renewable Diesel is a high 
+quality fuel, which could mean fewer 
+maintenance visits compared to other 
+renewable alternatives. 
+Pure hydrocarbon
+The chemical composition of Neste MY 
+Renewable Diesel is similar to ordinary 
+fossil diesel.
+No blending limit
+The fuel can be used neat (100% 
+Neste MY Renewable Diesel) or in any 
+ratio blended with fossil diesel.
+The solution to improve 
+local air quality
+Scientiﬁc studies and road tests have shown 
+that if you ﬁll up with 100% Neste MY Renewable 
+Diesel, in addition to a CO2e reduction of up to 
+75%, the following emissions* are reduced up to:
+• 33% lower levels of ﬁne particles
+• 9% lower nitrogen oxides (NOx)
+• 30% less hydrocarbons (HC)
+• 24% lower carbon monoxide (CO)
+• Reduced levels of polyaromatic hydrocarbons (PAH)
+In order to achieve today’s goals of eliminating fossil 
+fuel, Neste MY Renewable Diesel offers a drop-in 
+solution that all diesel vehicles can use immediately.
+*) The emissions of the vehicles have been compared to conventional 
+diesel. The results have been published in 40 scientiﬁc publications. 
+Approved by l eading manufactures.
+Approved by leading 
+manufacturers 
+Neste MY Renewable Diesel meets the ASTM D975 
+parafﬁnic fuel standard. Most heavy vehicle 
+manufacturers, such as Cummins, Detroit Diesel, 
+Caterpillar, Volvo Trucks, Paccar, Mack, John Deere, 
+plus many other international brands have approved 
+the use of neat renewable diesel in their engines.
+
+--------------------------------------------------------------------------------

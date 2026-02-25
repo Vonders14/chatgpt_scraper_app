@@ -1,0 +1,349 @@
+ROOT: https://getsunsights.com/
+SCRAPED_AT_UTC: 2026-02-11T20:07:33.139921Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://getsunsights.com/
+
+Our Products
+Our products are innovative IoT equipped, comparatively safer, portable, with endurance to provide uninterrupted renewable energy
+Trees Planted
+Inverter Shipped
+MW generated
+Sites
+Solar grid-tied rooftop system at company building
+Solar grid-tied rooftop system at residential home
+Solar grid-tied rooftop system at residential home
+Solar grid-tied rooftop system at company building
+The Client selected SLS considering the capacity to provide hybrid solution in a sustainable way....
+Solar grid-tied rooftop system at company building
+
+--------------------------------------------------------------------------------
+
+URL: https://www.getsunsights.com/about-us/
+
+System Level Solutions is an emerging global enterprise, head quartered in India, having 500+ employees, providing the most innovative and cost effective engineering solutions to clients.
+Provides you with innovative solutions from portable energy products to large-scale energy supply systems in the solar energy sector to solve intractable energy problems.
+Among the basket of renewable energy sources such as wind, solar and biomass, solar is much more adaptable to Indian conditions due to the availability of 330 sunny days across the year and high solar irradiation Global Horizontal Irradiance (GHI) of 5.1 across the country. By tapping the infinite source of sun energy through innovative technology, we can provide an uninterrupted quality grid connected electricity to homes, hospitals, factories, and schools.
+Trees Planted
+Inverter Shipped
+MW generated
+Sites
+
+--------------------------------------------------------------------------------
+
+URL: https://www.getsunsights.com/projects/solar-power-system-3kw-2/
+
+60kW, Anand, System Level Solutions(HQ) Solar grid-tied rooftop system at company building Leave a Reply Cancel reply Your email address will not be published. Required fields are marked *Comment Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Brighter Today, Sustainable Tomorrow Get Started Today!
+
+--------------------------------------------------------------------------------
+
+URL: https://www.getsunsights.com/projects/100k0w-ambala-advanced-microdevices/
+
+The Client selected SLS considering the capacity to provide hybrid solution in a sustainable way. On the other hand, SLS found this project as a great application case for its hybrid solar plants because of the remote locations of Advanced Microdevices facilities with excellent solar radiation.
+SLS developed a 100 kW rooftop solar plant using microinverter which could be controlled remotely with a proper monitoring system. The solution is scalable enough to meet increasing energy demand. It can also be adjusted according to the energy demands at any point of time.
+SLS worked as a solar solution provider and also offered sustainable hybrid system with microinverters and control devices. The SLS Solar Control system manages demand-based PV feed-in at the interface between the diesel-photovoltaic generator and the load, while leaving the genset control unaffected.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.getsunsights.com/projects/50kw-anand-bst-eltromat-india-private-limited/
+
+50kW, Anand, BST Eltromat India Private Limited Solar grid-tied rooftop system at company building Brighter Today, Sustainable Tomorrow Get Started Today!
+
+--------------------------------------------------------------------------------
+
+URL: https://www.getsunsights.com/projects/13-32kw-ahmadabad-residential-rooftop/
+
+13.32kW, Ahmadabad, Residential Rooftop Solar grid-tied rooftop system at residential home Brighter Today, Sustainable Tomorrow Get Started Today!
+
+--------------------------------------------------------------------------------
+
+URL: https://www.getsunsights.com/projects/19-24-kw-gandhinagar-residential-rooftop/
+
+19.24 kW, Gandhinagar, Residential Rooftop Solar grid-tied rooftop system at residential home Leave a Reply Cancel reply Your email address will not be published. Required fields are marked *Comment Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Brighter Today, Sustainable Tomorrow Get Started Today!
+
+--------------------------------------------------------------------------------
+
+URL: https://www.getsunsights.com/projects/100kw-silvasa-b-d-enterprises/
+
+100kW, Silvasa, B.D Enterprises Solar grid-tied rooftop system at company building Leave a Reply Cancel reply Your email address will not be published. Required fields are marked *Comment Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Brighter Today, Sustainable Tomorrow Get Started Today!
+
+--------------------------------------------------------------------------------
+
+URL: https://www.getsunsights.com/
+
+Our Products
+Our products are innovative IoT equipped, comparatively safer, portable, with endurance to provide uninterrupted renewable energy
+Trees Planted
+Inverter Shipped
+MW generated
+Sites
+Solar grid-tied rooftop system at company building
+Solar grid-tied rooftop system at residential home
+Solar grid-tied rooftop system at residential home
+Solar grid-tied rooftop system at company building
+The Client selected SLS considering the capacity to provide hybrid solution in a sustainable way....
+Solar grid-tied rooftop system at company building
+
+--------------------------------------------------------------------------------
+
+URL: https://www.getsunsights.com/sun-sights-live/
+
+SunSights Live
+A monitoring platform to get all installation information, solar Generation/Consumption tracking and analysis on fingertip from anywhere.
+SunSights Live is a solar IoT platform, available in the form of a web-application equipped with a dashboard. The SunSights Live enables monitoring the technical as well as the financial performance of one or more solar sites with SunSights products. It provides accurate information about the current and historical performance of each module individually and as a whole system, enabling users to detect and troubleshoot faults, efficiently assets management operations and analyze site profitability at any time from anywhere.
+It provides real-time actions which help to improve system performance and get notification whenever the system requires Intervention or maintenance.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.getsunsights.com/universal-inverter-stick-logger/
+
+“UNIVERSAL INVERTER STICK LOGGER (UISL)”, is a device that communicates to any String Inverter using RS485 / RS232 Interface, and then automatically transmits data through the internet (WiFi / GPRS) to cloud-based SunSights Live Portal. The UISL is ideal for customers looking for remote monitoring of Solar Rooftop Systems such as Residential, Commercial, Industrials, NGOs, and many more. In combination with SunSights Live Portal, it gives users the ability to Monitor & Control all the data such as Solar Generation, Voltage parameter, Current parameter, Power Factor, Fault Alerts, and many more. Users can also export the data for data visualization. The UISL is integrated with the SunSights mobile application & SunSights Live Portal, enabling customers to monitor and control the PV system remotely in real-time. It allows customers to visualise key performance indicators through a desktop or mobile interface in different formats like graphs, charts, reports, etc.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.getsunsights.com/downloads/
+
+Downloads
+Consider environment before printing
+SunSights Brochure
+DOWNLOADBIS Certificate
+DOWNLOADIEC 60068 Environment Test
+DOWNLOADIEC 61000 EMC Test
+DOWNLOADIEC 61683 Efficiency Test
+DOWNLOADIEC 62109 Safety Compliance
+DOWNLOADIEC 62116 Anti Islanding Test
+DOWNLOADStick Logger
+DOWNLOADUser Guide WIFI Configuration
+DOWNLOADWarranty Certificate
+DOWNLOADSunSight Energy LLP Profile
+DOWNLOAD
+
+--------------------------------------------------------------------------------
+
+URL: https://www.getsunsights.com/residential/
+
+Residential
+Saving Earth starts at home
+Boosting a rooftop’s usefulness turns it into a prized area, maximizing the value of present structures. The rooftop steps up from its regular part in decreasing our carbon effect.
+Green rooftops or solar arrays take this area to a new level, bringing beauty and aiding environmental health. Tapping into rooftops’ potential joins buildings with eco-awareness, paving a path for a cleaner, sustainable tomorrow.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.getsunsights.com/commercial/
+
+Commercial
+Better becomes the world when technology meets renewables
+At the forefront of environmental stewardship, our solution is tailored to empower industries in their commitment to reducing carbon footprints. By integrating advanced technologies and sustainable practices, we enable businesses to operate more responsibly.
+Additionally, our comprehensive approach includes a robust backup power system, featuring a diesel generator set. This ensures that even in the face of power outages, industries can maintain seamless operations, providing both reliability and sustainability in one integrated solution.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.getsunsights.com/news/
+
+In recent years, one of the most heated debates in the energy sector has been...
+One of the most challenging and fascinating projects that have taken over the world of...
+Over the last couple of years, Blockchain has evolved as a tool that solves plenty...
+The most abundantly available resource on the planet, "Solar energy" is widely regarded as the...
+With a newly revived impetus to strive towards combating climate change, there is every reason...
+Everyone believes in cleanliness, whether our house, car, or furniture, and all of these require...
+China has recently announced that it will build the world’s first commercial-scale solar power station...
+Water is a basic necessity for humans, animals, and vegetation. Without clean drinking water, economic...
+Demand Response (DR), an enabling technology, shifts the magnitude and timing of electricity demand, thus...
+Keeping its commitment to the Paris Agreement, India aims to produce 40% of electricity from...
+Universal access to affordable, reliable, and sustainable energy is the prerequisite for human development and...
+India Smart Utility week 2020
+Get to know what SunSights has to offer, from its varied products to its assorted...
+Demand Response (DR), an enabling technology, shifts the magnitude and timing of electricity demand, thus...
+
+--------------------------------------------------------------------------------
+
+URL: https://www.getsunsights.com/contact-us/
+
+Skip to content
+Home
+Products
+SunSights Live
+Universal Inverter Stick Logger
+Downloads
+Solutions
+Residential
+Commercial
+News
+NEW
+About Us
+Contact Us
+Contact us
+We listen, we think, we implement.
+Get in Touch
+India Office
+SunSights Energy LLP,
+32, D/4, Phase 1, G.I.D.C Estate,
+V. U. Nagar-388 121, Gujarat.
+91-2692-232 501 / 502 (Ext 47)
+info@getsunsights.com
+Register/Inquire Now
+First Name
+*
+Last Name
+*
+Phone
+*
+Email Address
+*
+Company Address
+Category All Solutions
+Products
+---
+Micro Inverter
+AC Distribution Box
+Data Logger
+SunSights Live
+Universal Inverter Stick Logger
+Solutions
+---
+Residential
+Commercial
+Wind Solar Hybrid
+Solar Water Pumping
+Your Message
+Brighter Today, Sustainable Tomorrow
+Get Started Today!
+
+--------------------------------------------------------------------------------
+
+URL: http://www.getsunsights.com/contact-us/
+
+Skip to content
+Home
+Products
+SunSights Live
+Universal Inverter Stick Logger
+Downloads
+Solutions
+Residential
+Commercial
+News
+NEW
+About Us
+Contact Us
+Contact us
+We listen, we think, we implement.
+Get in Touch
+India Office
+SunSights Energy LLP,
+32, D/4, Phase 1, G.I.D.C Estate,
+V. U. Nagar-388 121, Gujarat.
+91-2692-232 501 / 502 (Ext 47)
+info@getsunsights.com
+Register/Inquire Now
+First Name
+*
+Last Name
+*
+Phone
+*
+Email Address
+*
+Company Address
+Category All Solutions
+Products
+---
+Micro Inverter
+AC Distribution Box
+Data Logger
+SunSights Live
+Universal Inverter Stick Logger
+Solutions
+---
+Residential
+Commercial
+Wind Solar Hybrid
+Solar Water Pumping
+Your Message
+Brighter Today, Sustainable Tomorrow
+Get Started Today!
+
+--------------------------------------------------------------------------------
+
+URL: https://live.getsunsights.com/
+
+A Sustainable and Secure Source of
+Energy
+Sign In
+Forgot Password?
+Log In
+Don't have an account?
+Sign Up
+View Demo
+|
+Get In Touch SunSights
+Experience
+SunSights APP
+on mobile
+
+--------------------------------------------------------------------------------
+
+URL: http://www.getsunsights.com/calculator/
+
+(OR)
+Disclaimer: The calculation is indicative in nature. Generation may vary from location to location.
+
+--------------------------------------------------------------------------------
+
+URL: http://www.getsunsights.com/universal-inverter-stick-logger/
+
+“UNIVERSAL INVERTER STICK LOGGER (UISL)”, is a device that communicates to any String Inverter using RS485 / RS232 Interface, and then automatically transmits data through the internet (WiFi / GPRS) to cloud-based SunSights Live Portal. The UISL is ideal for customers looking for remote monitoring of Solar Rooftop Systems such as Residential, Commercial, Industrials, NGOs, and many more. In combination with SunSights Live Portal, it gives users the ability to Monitor & Control all the data such as Solar Generation, Voltage parameter, Current parameter, Power Factor, Fault Alerts, and many more. Users can also export the data for data visualization. The UISL is integrated with the SunSights mobile application & SunSights Live Portal, enabling customers to monitor and control the PV system remotely in real-time. It allows customers to visualise key performance indicators through a desktop or mobile interface in different formats like graphs, charts, reports, etc.
+
+--------------------------------------------------------------------------------
+
+URL: http://www.getsunsights.com/sun-sights-live/
+
+SunSights Live
+A monitoring platform to get all installation information, solar Generation/Consumption tracking and analysis on fingertip from anywhere.
+SunSights Live is a solar IoT platform, available in the form of a web-application equipped with a dashboard. The SunSights Live enables monitoring the technical as well as the financial performance of one or more solar sites with SunSights products. It provides accurate information about the current and historical performance of each module individually and as a whole system, enabling users to detect and troubleshoot faults, efficiently assets management operations and analyze site profitability at any time from anywhere.
+It provides real-time actions which help to improve system performance and get notification whenever the system requires Intervention or maintenance.
+
+--------------------------------------------------------------------------------
+
+URL: http://www.getsunsights.com/residential/
+
+Residential
+Saving Earth starts at home
+Boosting a rooftop’s usefulness turns it into a prized area, maximizing the value of present structures. The rooftop steps up from its regular part in decreasing our carbon effect.
+Green rooftops or solar arrays take this area to a new level, bringing beauty and aiding environmental health. Tapping into rooftops’ potential joins buildings with eco-awareness, paving a path for a cleaner, sustainable tomorrow.
+
+--------------------------------------------------------------------------------
+
+URL: http://www.getsunsights.com/commercial/
+
+Commercial
+Better becomes the world when technology meets renewables
+At the forefront of environmental stewardship, our solution is tailored to empower industries in their commitment to reducing carbon footprints. By integrating advanced technologies and sustainable practices, we enable businesses to operate more responsibly.
+Additionally, our comprehensive approach includes a robust backup power system, featuring a diesel generator set. This ensures that even in the face of power outages, industries can maintain seamless operations, providing both reliability and sustainability in one integrated solution.
+
+--------------------------------------------------------------------------------
+
+URL: http://www.getsunsights.com/case-studies/
+
+Case Studies
+We listen, we think, we implement.
+Solar grid-tied rooftop system at company building
+Solar grid-tied rooftop system at residential home
+Solar grid-tied rooftop system at residential home
+Solar grid-tied rooftop system at company building
+The Client selected SLS considering the capacity to provide hybrid solution in a sustainable way. On the other hand, SLS...
+Solar grid-tied rooftop system at company building
+Solar grid-tied rooftop system at commercial building
+Solar grid-tied rooftop system at residential home
+Solar grid-tied rooftop system at school.
+Wind Solar Hybrid power system
+
+--------------------------------------------------------------------------------
+
+URL: https://www.getsunsights.com/projects/3kw-solar-power-system-for-home-use/
+
+10kW, Anand, Supernova Technologies Pvt. Ltd. Wind Solar Hybrid power system Leave a Reply Cancel reply Your email address will not be published. Required fields are marked *Comment Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Brighter Today, Sustainable Tomorrow Get Started Today!
+
+--------------------------------------------------------------------------------

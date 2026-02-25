@@ -1,0 +1,21 @@
+ROOT: https://monalee.co/
+SCRAPED_AT_UTC: 2026-02-11T20:20:05.875071Z
+PAGES_INCLUDED: 2
+
+================================================================================
+
+URL: https://monalee.co/
+
+As of September 2025, we’ve paused all new solar and storage installations as we transition our focus to technology and support.
+If you’re an existing customer, nothing changes — we will continue to fully support your system.
+For assistance, email care@monalee.co
+
+--------------------------------------------------------------------------------
+
+URL: https://care@monalee.co/
+
+As of September 2025, we’ve paused all new solar and storage installations as we transition our focus to technology and support.
+If you’re an existing customer, nothing changes — we will continue to fully support your system.
+For assistance, email care@monalee.co
+
+--------------------------------------------------------------------------------

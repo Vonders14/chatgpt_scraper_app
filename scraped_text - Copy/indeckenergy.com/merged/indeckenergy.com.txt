@@ -1,0 +1,469 @@
+ROOT: https://indeckenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:14:20.858568Z
+PAGES_INCLUDED: 11
+
+================================================================================
+
+URL: https://indeckenergy.com/
+
+Developing Renewable Energy Solutions for Tomorrow
+Who We Are
+Indeck Energy is a leading developer of power generation projects, bringing extraordinary knowledge, skill, and experience to every project. We continue to transform the industry by providing communities with sustainable energy solutions.
+Megawatts developed
+Projects
+Decades of Experience
+Expertise
+From concept through execution and operation, we bring our expertise to every aspect of energy generation projects.
+Greenfield Development
+We analyze market demand and use our experience to identify strategic energy development opportunities. Once a site is identified, we complete all of the necessary development activities to achieve “shovel ready” status. This includes real estate, permitting, interconnection, and power offtake.
+Community Relations
+We work hard to be good neighbors and good stewards of the environment. Community support for our projects is earned through open communication and information exchange in public forums. We work closely with local government officials, citizens, and other community stakeholders to explain the nature of our projects, demonstrate benefits to the community, and address any concerns.
+Environmental Permitting
+We coordinate and obtain all necessary permits and government approvals, including all biological, cultural, water review, and zoning requirements.
+Project Management & Engineering
+We manage all engineering procurement, and construction activities from preliminary design to commercial operations.
+Project Finance
+We’ve closed over $2 billion in financing for energy plants in the United States and abroad. Our structures include straight corporate finance to multi-tiered, non-recourse debt with tax-advantaged equity structures and multiple currencies.
+Construction Management
+We oversee construction to ensure projects are completed safely, timely, and on-budget.
+Asset Management
+Our team of asset management professionals manages generation facilities throughout their lifecycle to maximize performance and value.
+Operations & Maintenance
+We operate over 1 GW of generating capacity across a wide range of technologies. Our operating availability consistently exceeds industry averages and our performance is second-to-none.
+Project Highlights
+Developing and operating utility-scale power generation projects across a wide range of technologies is what we do best. As stewards of the environment, we aim to bring innovation and sustainability to all aspects of every project.
+News
+Learn more about how we are making a difference, shaping the future, and helping clients succeed.
+Port of Indiana handles project cargoes for $1 billion Michigan power plant project
+Port of Indiana-Burns Harbor is handling the primary shipments for a $1 billion power plant...
+
+--------------------------------------------------------------------------------
+
+URL: https://indeckenergy.com/projects/
+
+Projects
+x
+Big River Boyceville Ethanol
+Capacity: 55 MGPY
+Produced: Ethanol
+Location: Boyceville, WI
+x
+Indeck Niles
+Plant Capacity:
+1085 MW
+Technology:
+2×1 Combined Cycle
+Fuel Type:
+Natural Gas
+Location:
+Niles, MI
+Market:
+PJM
+x
+Indeck Rockford I & II
+Plant Capacity:
+450 MW
+Technology:
+3×0 Simple Cycle
+Fuel Type:
+Natural Gas
+Location:
+Rockford, IL
+Market:
+PJM
+x
+Indeck Yerkes
+Plant Capacity:
+53 MW
+Technology:
+1×1 Combined Cycle
+Fuel Type:
+Natural Gas
+Location:
+Tonawanda, NY
+Market:
+NYISO
+x
+Indeck Silver Springs
+Plant Capacity:
+55 MW
+Technology:
+1×1 Combined Cycle
+Fuel Type:
+Natural Gas
+Location:
+Silver Springs, NY
+Market:
+NYISO
+x
+Indeck Oswego
+Plant Capacity:
+50 MW
+Technology:
+1×1 Combined Cycle
+Fuel Type:
+Natural Gas
+Location:
+Oswego, NY
+Market:
+NYISO
+x
+Indeck Bourbonnais
+Plant Capacity:
+1,000 MW
+Technology:
+2x2x1 Combined Cycle
+Fuel Type:
+Natural Gas
+Location:
+Bourbonnais, IL
+x
+Indeck Olean
+Plant Capacity:
+79 MW
+Technology:
+1×1 Combined Cycle
+Fuel Type:
+Natural Gas
+Location:
+Olean, NY
+Market:
+NYISO
+x
+Indeck West Enfield Biomass
+Plant Capacity:
+25 MW
+Technology:
+Circulating Fluidized Bed
+Fuel Type:
+Biomass
+Location:
+West Enfield, ME
+Market:
+ISO NE
+x
+Indeck Ilion
+Plant Capacity:
+58 MW
+Technology:
+1×1 Combined Cycle
+Fuel Type:
+Natural Gas
+Location:
+Ilion, NY
+Market:
+NYISO
+x
+Indeck Corinth
+Plant Capacity:
+132 MW
+Technology:
+1×1 Combined Cycle
+Fuel Type:
+Natural Gas
+Location:
+Corinth, NY
+Market:
+NYISO
+x
+Indeck Turners Falls
+Plant Capacity:
+20 MW
+Technology:
+Stoker
+Fuel Type:
+Coal
+Location:
+Turners Falls, MA
+Market:
+ISO NE
+x
+Indeck Alexandria
+Plant Capacity:
+15 MW
+Technology:
+Stoker
+Fuel Type:
+Biomass
+Location:
+Alexandria, NH
+Market:
+ISO NE
+x
+Indeck Jonesboro
+Plant Capacity:
+25 MW
+Technology:
+Circulating Fluidized Bed
+Fuel Type:
+Biomass
+Location:
+Jonesboro, ME
+Market:
+ISO NE
+x
+Highwater Ethanol
+Plant Capacity:
+57 MGPY
+Fuel Produced:
+Ethanol
+Location:
+Lamberton, MN
+x
+Indeck Ladysmith
+Plant Capacity:
+90,000 TPY
+Fuel Produced:
+Biomass Pellets
+Location:
+Ladysmith, WI
+x
+United Wisconsin Ethanol
+Plant Capacity:
+58 MGPY
+Fuel Produced:
+Ethanol
+Location:
+Friesland, WI
+x
+Little Sioux Ethanol
+Plant Capacity:
+92 MGPY
+Fuel Produced:
+Ethanol
+Location:
+Marcus, IA
+x
+Cardinal Ethanol
+Plant Capacity:
+100 MGPY
+Fuel Produced:
+Ethanol
+Location:
+Winchester, IN
+x
+KAAPA Ethanol
+Plant Capacity:
+60 MGPY
+Fuel Produced:
+Ethanol
+Location:
+Minden, NE
+x
+Lincolnland Ethanol
+Plant Capacity:
+45 MGPY
+Fuel Produced:
+Ethanol
+Location:
+Robinson, IL
+x
+Big River Dyersville Ethanol
+Plant Capacity:
+110 MGPY
+Fuel Produced:
+Ethanol
+Location:
+Dyersville, IA
+x
+Big River Burlington Ethanol
+Plant Capacity:
+105 MGPY
+Fuel Produced:
+Ethanol
+Location:
+West Burlington, IA
+x
+Indeck Blue Mound Energy Center
+Capacity: 409 MW
+Technology: PV Solar + Storage
+Location: Central Illinois
+Market: MISO
+x
+West Enfield Hydro
+Plant Capacity:
+13 MW
+Technology:
+Hydro
+Fuel Type:
+Run of River
+Location:
+West Enfield, ME
+Market:
+ISO NE
+x
+Big River Galva Ethanol
+Plant Capacity:
+110 MGPY
+Fuel Produced:
+Ethanol
+Location:
+Galva, IL
+x
+Senneterre
+Plant Capacity:
+25 MW
+Technology:
+Stoker
+Fuel Type:
+Biomass
+Location:
+Senneterre, Quebec
+x
+Enfield
+Plant Capacity:
+380 MW
+Technology:
+Combined Cycle
+Fuel Type:
+Natural Gas
+Location:
+Enfield, England
+x
+Esquintla
+Plant Capacity:
+40 MW
+Technology:
+Reciprocating Engines
+Fuel Type:
+Heavy Fuel Oil
+Location:
+Esquintla, Guatemala
+international
+Canada
+UK
+Guatemala
+Power Generation
+Ethanol Production
+Wood Pellet Production
+Renewable Energy Projects
+Zero-emissions power generation holds the key to a brighter, greener world. We are ambitiously pursuing a pipeline of renewable energy projects that will help define the future.
+Thermal Generation Projects
+Indeck is a leader in developing state-of-the-art thermal generation projects. We have developed conventional fuel projects including cogeneration, simple, and combined cycle. These projects provide access to reliable and affordable power generation.Biofuel Projects
+Indeck has taken a significant position in biofuel production across the United States. From developing and operating a wood fuel pellet production facility to participating in the management of corn-based ethanol production, we continue to look for unique opportunities to make a difference.
+
+--------------------------------------------------------------------------------
+
+URL: https://indeckenergy.com/team/
+
+Team
+Executive Team
+William R. Garth – President
+Offering over 30 years of experience and leadership in the independent power industry and a technical background in engineering, Mr. Garth brings a unique perspective and varied experience to the role of President of Indeck Energy Services, Inc. During his career, Bill has been instrumental in the growth of Indeck, negotiating and restructuring project finance transactions and building a successful track record in all aspects of power generation, including business development, asset management, hedging, plant operations, and mergers and acquisitions. Prior to joining Indeck, Bill was employed as a mechanical design engineer for the Superconducting Super Collider and as an industrial engineer for General Dynamics. Bill holds an MBA from the University of Dallas and a BS in Industrial Engineering from Purdue University.
+Michael D. Stein – Chief Financial Officer
+Mr. Stein is responsible for managing the company’s finances and the oversight of financial reporting. Mike has over 25 years of experience in the power generation and retail energy industries, with detailed knowledge in technical accounting, tax, project finance, financial planning and analysis, mergers and acquisitions, budgeting, and financial modeling. Mike holds a Master of Science in Taxation (MST) and a BS in Accounting, both from the University of Illinois at Urbana-Champaign.
+Brian S. Coninx – VP, Business Development
+Mr. Coninx is responsible for leading the company’s business development efforts for renewable and conventional power generation projects across the United States. He has over 20 years of diversified experience in real estate with a focus on energy facility preliminary engineering and permitting, sustainable land development, project financing, construction oversight, and market analysis. Brian is passionate about working together with all stakeholders to create successful development opportunities. Mr. Coninx has a BS in Civil and Environmental Engineering from Marquette University and an MBA from DePaul University.
+Michael D. Ferguson – VP, Asset Management & Operations
+Mr. Ferguson is responsible for the company’s facility operations and asset management and has more than 30 years of experience in the energy industry. His ongoing responsibilities involve fuel supply, risk management, contract administration, corporate regulatory compliance, and full operations direction. Before joining Indeck, Mike was an energy consultant for various industrial clients on demand-side management opportunities. Mike has a BS in Chemical Engineering from the University of Illinois.
+Ken Brenner – Director, Project Management
+Mr. Brenner is responsible for managing the engineering and construction of renewable and thermal power generation projects for the company. With over 15 years of experience in business development, project management, construction oversight, and plant operations, Ken provides technical and commercial support across the full lifecycle of Indeck’s power generation portfolio. Ken has a BS in Mechanical Engineering and an MS in Energy Engineering from the University of Illinois at Chicago.
+THOMAS L. KRYSIAK – ENVIRONMENTAL, HEALTH & SAFETY MANAGER
+Mr. Krysiak is responsible for all environmental activities at Indeck operating facilities and new projects. He is also responsible for all health & safety compliance activities at the Indeck operating facilities. He has more than 35 years of operating, maintenance and compliance experience in the power and energy industry. Mr. Krysiak spent 8-years active duty in the U.S. Navy, Nuclear Power program as a plant operator and radiological controls supervisor.
+ROSE V. HARMS – DIRECTOR, HUMAN RESOURCES
+Ms. Harms leads the company–wide human resources function and has over 25 years of experience in a variety of public, non-profit, private, and startup companies. Her current focus is to seamlessly assist in establishing productive business relationships, organizational compliance, risk management, and complete employee life cycle support. Rose defines her approach as someone who has dedicated her career as an employee advocate, while simultaneously supporting the organization’s goals and growth. To complement her degree in Human Resources Management and Workplace Mediation, Rose has achieved her PHR and SHRM-CP professional accreditations.
+
+--------------------------------------------------------------------------------
+
+URL: https://indeckenergy.com/about/
+
+About indeck energy
+Imagine. Innovate. Build. Operate.
+Our industry-leading expertise spans every stage of a project. We are bringing this best-in-class approach to help transition the world to more sustainable and reliable energy production.
+Committed to Collaboration
+Throughout our history, we have cultivated relationships with project stakeholders that, like us, aspire to succeed. These trusted and committed partnerships with communities, contractors, suppliers, and financial institutions help us provide unsurpassed value to all involved.
+Setting Our Sights on the Future
+At Indeck Energy, we have set our sights on providing communities with access to safe, sustainable, and reliable energy solutions.
+Indeck Group of Companies
+The Indeck Group of Companies excel at all aspects of power generation as well as boiler design and manufacturing.
+Indeck Power Equipment CoMPANY
+Founded in 1960, Indeck Power Equipment Company has become North America’s largest supplier in the rental, lease and sale of steam power systems and other industrial components used in the refinery, paper, textile, energy, chemical, manufacturing, municipal, food and utility industries. The company also sells water treatment systems, generators, HVAC systems, chillers and auxiliary equipment. In addition to acting as a distributor, the company also manufactures water treatment systems, rebuilds steam equipment, and provides design and engineering services.
+Indeck Keystone Energy, LLC
+Indeck Keystone Energy, LLC is an industry leader specializing in the design and manufacturing of industrial boilers, including upgrades, modifications, performance studies, design improvements and system retrofits. With a comprehensive OEM spare parts inventory and 24-hour availability, Indeck Keystone Energy facilitates enhanced operational availability and maintainability.
+Indeck Boiler CORPORATION
+Indeck Boiler Corporation is a leading manufacturer of gas and oil-fired boilers. Located in St. Hyacinthe, Quebec, the company has access to most major railways across North America, as well as barge access through the St. Lawrence River. All IBC boilers can be purchased with Indeck’s proven combustion management system design.
+
+--------------------------------------------------------------------------------
+
+URL: https://indeckenergy.com/news/
+
+NEWS Port of Indiana handles project cargoes for $1 billion Michigan power plant project read more GE’s HA Gas Turbine to Power Indeck Niles Energy Center read more Indeck Niles Energy Center read more Head-turning power: Massive power plant project in Niles takes shape read more
+
+--------------------------------------------------------------------------------
+
+URL: https://indeckenergy.com/contact/
+
+Contact
+Contact Us
+Indeck Energy Services, Inc.
+600 N. Buffalo Grove Road
+Suite 300
+Buffalo Grove, IL 60089
+847-520-3212
+info@indeckenergy.com
+Join the Future
+At Indeck Energy, we are ushering in a future of renewable energy and are continually looking to develop our talent base. If you are an experienced, highly motivated professional who shares our passion for the potential of renewable energy, complete the form below and upload your resume. Someone from our team will contact you if a position becomes available that fits your interests and experience.
+
+--------------------------------------------------------------------------------
+
+URL: https://indeckenergy.com/port-of-indiana-handles-project-cargoes-for-1-billion-michigan-power-plant-project/
+
+Port of Indiana-Burns Harbor is handling the primary shipments for a $1 billion power plant project under construction in Niles, Michigan. The six ships carrying over 600 pieces is one of the largest shipments in port’s 50-year history.
+Port of Indiana-Burns Harbor is handling the primary shipments for a $1 billion power plant project under construction in Niles, Michigan. The six ships carrying over 600 pieces is one of the largest shipments in port’s 50-year history.
+
+--------------------------------------------------------------------------------
+
+URL: https://info@indeckenergy.com/
+
+Developing Renewable Energy Solutions for Tomorrow
+Who We Are
+Indeck Energy is a leading developer of power generation projects, bringing extraordinary knowledge, skill, and experience to every project. We continue to transform the industry by providing communities with sustainable energy solutions.
+Megawatts developed
+Projects
+Decades of Experience
+Expertise
+From concept through execution and operation, we bring our expertise to every aspect of energy generation projects.
+Greenfield Development
+We analyze market demand and use our experience to identify strategic energy development opportunities. Once a site is identified, we complete all of the necessary development activities to achieve “shovel ready” status. This includes real estate, permitting, interconnection, and power offtake.
+Community Relations
+We work hard to be good neighbors and good stewards of the environment. Community support for our projects is earned through open communication and information exchange in public forums. We work closely with local government officials, citizens, and other community stakeholders to explain the nature of our projects, demonstrate benefits to the community, and address any concerns.
+Environmental Permitting
+We coordinate and obtain all necessary permits and government approvals, including all biological, cultural, water review, and zoning requirements.
+Project Management & Engineering
+We manage all engineering procurement, and construction activities from preliminary design to commercial operations.
+Project Finance
+We’ve closed over $2 billion in financing for energy plants in the United States and abroad. Our structures include straight corporate finance to multi-tiered, non-recourse debt with tax-advantaged equity structures and multiple currencies.
+Construction Management
+We oversee construction to ensure projects are completed safely, timely, and on-budget.
+Asset Management
+Our team of asset management professionals manages generation facilities throughout their lifecycle to maximize performance and value.
+Operations & Maintenance
+We operate over 1 GW of generating capacity across a wide range of technologies. Our operating availability consistently exceeds industry averages and our performance is second-to-none.
+Project Highlights
+Developing and operating utility-scale power generation projects across a wide range of technologies is what we do best. As stewards of the environment, we aim to bring innovation and sustainability to all aspects of every project.
+News
+Learn more about how we are making a difference, shaping the future, and helping clients succeed.
+Port of Indiana handles project cargoes for $1 billion Michigan power plant project
+Port of Indiana-Burns Harbor is handling the primary shipments for a $1 billion power plant...
+
+--------------------------------------------------------------------------------
+
+URL: https://indeckenergy.com/ges-ha-gas-turbine-to-power-indeck-niles-energy-center/
+
+ATLANTA; May 20, 2019 – GE Power (NYSE: GE) today announced an order for its HA gas turbine technology for the Indeck Niles Energy Center in Niles, Michigan.
+ATLANTA; May 20, 2019 – GE Power (NYSE: GE) today announced an order for its HA gas turbine technology for the Indeck Niles Energy Center in Niles, Michigan.
+
+--------------------------------------------------------------------------------
+
+URL: https://indeckenergy.com/indeck-niles-energy-center/
+
+Indeck Niles Energy Center The Indeck Niles Energy Center is a proposed 1GW natural gas-fired combined-cycle power plant (CCPP) in Michigan, US. Read full article here
+
+--------------------------------------------------------------------------------
+
+URL: https://indeckenergy.com/head-turning-power-massive-power-plant-project-in-niles-takes-shape/
+
+NILES — The scale of the Indeck Niles Energy Center has the ability to make most other construction projects look like a Fisher-Price playset.
+NILES — The scale of the Indeck Niles Energy Center has the ability to make most other construction projects look like a Fisher-Price playset.
+
+--------------------------------------------------------------------------------

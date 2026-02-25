@@ -1,0 +1,35 @@
+ROOT: https://dynamic-renewables.com/
+SCRAPED_AT_UTC: 2026-02-11T19:58:45.976150Z
+PAGES_INCLUDED: 1
+
+================================================================================
+
+URL: https://dynamic-renewables.com/
+
+ABOUT US
+Sagepoint Energy is a resource efficiency platform specializing in the development and operation of waste-to-energy solutions. Headquartered in Carmel, Indiana, Sagepoint is led by a team of experienced professionals with a deep understanding of the waste-to-fuels sector and employs more than 70 dedicated professionals operating across the United States.
+Sagepoint at a glance
+200+ Years
+Collective Project Development & Operational Experience
+Operational Excellence
+Dairy & Landfill RNG Operations
+~75-person team
+Proven management team track record
+THE SAGEPOINT ENERGY TEAM
+The most dependable and experienced team in renewable energy
+OUR SOLUTIONS
+Sagepoint Energy inspires deep trust through insightful consultation and trusted customer service while setting a high industry standard by offering reliable, full-service operations.
+Dairy Operations
+Sagepoint Energy’s team partners with dairy farm owners to successfully convert their organic waste into pipeline-quality renewable natural gas (RNG). We manage the complexities, allowing you to focus on farming while unlocking new revenue streams.
+Landfill Operations
+With comprehensive, full-service expertise in landfill-derived renewable natural gas (RNG), we make your transition to RNG seamless and efficient. From project development to gas production and delivery, we manage every step of the process —helping you meet your sustainability goals with confidence.
+Logistics
+Our fleet ensures the continuous delivery of organic waste to biodigestion facilities, supporting uninterrupted production of renewable natural gas.
+NEWSROOM
+In the Media
+COMPANY VIDEOS
+See Us in Action
+Midwest Manure Summit BC Organics Tour Video
+NWTC 's Dairy Science Tour of BC Organics
+
+--------------------------------------------------------------------------------

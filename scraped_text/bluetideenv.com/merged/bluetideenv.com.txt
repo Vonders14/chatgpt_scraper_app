@@ -1,0 +1,25 @@
+ROOT: https://bluetideenv.com/
+SCRAPED_AT_UTC: 2026-02-11T19:52:09.214065Z
+PAGES_INCLUDED: 1
+
+================================================================================
+
+URL: https://bluetideenv.com/
+
+Meet one of North America’s leading re-refiners of high-performance base and process oils. With the world’s newest, most advanced plant, Blue Tide’s products deliver consistency and circularity — adding value to the companies we partner with.
+Raising the Bar
+Access to high-quality oils is closer than you think. Our re-refined products help lubricate the vehicles we drive, power the equipment that keeps our economy moving, and serve as a key ingredient in goods that contribute to our health and well-being. With such a wide range of applications, there are only a few industries we don’t touch.
+Introducing CirCol
+Our new line of sustainable, high-performance specialty oils are engineered for industries that demand reliability and responsibility.
+News & Press
+Featured Article: NORA Member Spotlight on Blue Tide
+Blue Tide’s commitment to becoming the leading re-refiner of high-performance base oils has been recognized...
+Read more
+Health, Safety & Environment Value in Action
+Blue Tide's core values mean significant benefits for our customers like ensuring continuity of the...
+Read more
+Integrity & Respect Value in Action
+Blue Tide (BT) continues to make great strides in re-refining with our Core Values as...
+Read more
+
+--------------------------------------------------------------------------------

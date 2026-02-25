@@ -1,0 +1,445 @@
+ROOT: https://medrec.org/
+SCRAPED_AT_UTC: 2026-02-11T20:20:07.495485Z
+PAGES_INCLUDED: 23
+
+================================================================================
+
+URL: https://medrec.org/
+
+A Propos MEDREC
+Le Centre Méditerranéen des énergies renouvlables (MEDREC) est un groupe de réflexion et une plateforme opérationnelle de coopération régionale. Sa mission principale est de soutenir et de dynamiser la collaboration pour développement durable et la transition énergétique en Méditerranée, principalement par la conception et la mise en oeuvre de projets avec le soutien de différents organismes de financement.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/
+
+A Propos MEDREC
+Le Centre Méditerranéen des énergies renouvlables (MEDREC) est un groupe de réflexion et une plateforme opérationnelle de coopération régionale. Sa mission principale est de soutenir et de dynamiser la collaboration pour développement durable et la transition énergétique en Méditerranée, principalement par la conception et la mise en oeuvre de projets avec le soutien de différents organismes de financement.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/?lang=en
+
+A Propos MEDREC
+Le Centre Méditerranéen des énergies renouvlables (MEDREC) est un groupe de réflexion et une plateforme opérationnelle de coopération régionale. Sa mission principale est de soutenir et de dynamiser la collaboration pour développement durable et la transition énergétique en Méditerranée, principalement par la conception et la mise en oeuvre de projets avec le soutien de différents organismes de financement.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/presentation/
+
+Accueil > A Propos > Présenatation
+Présentation
+Le Centre Méditerranéen des Energies Renouvlables (MEDREC) est un groupe de réflexion et une plateforme opérationnelle de coopération régionale. Sa mission prinicpale est de soutenir et de dynamiser la collaboration pour le développement durable et la transition énergétique en Méditerrannée, principalement par la conception et la mise en oeuvre de projets avec le soutien de différents organismes de financement.
+MEDREC est un groupement d’intéret Economique à but non lucratif basé à Tunis, créé conjointement par le Ministère italien de l’Environnement et le Ministère tunisien de l’Energie avec la participation de différentes agences en charge de la gestion de l’énergie dans la région méditerrannéenne.
+Les travaux de MEDREC couvrent différents sujets, principalement :
+- Développement durable.
+- Adaptation et atténuation du changement climatique.
+- Innovation technologique pour le développement durable.
+- Emplois verts pour une croissance durable.
+- Energies renouvelables et efficacité énergétique.
+- Gestion durable des ressources naturelles.
+- Eco-innovation et économie circulaire.
+Grâce à une équipe hautement qualifiée et engagée, MEDREC accompagne efficacement les acteurs publics et privés et les ONG méditerranéennes avec une expertise dans :
+- Conception de projets.
+- Gestion et mise en oeuvre de projets.
+- Renforcement des capacités et diffusion.
+- Valorisation de la recherche.
+- Services de conseil divers.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/equipe/
+
+Accueil > A Propos > Equipe
+L'Equipe
+Marco Polverari
+Directeur
+Directeur de MEDREC et Directeur Général de l’agence de coopération italo-méditerranéenne APREIME et de l’agence pour la promotion des relations économiques italo-tunisiennes-européennes APREITE depuis leur fondation en 1996, était auparavant point opérationnel de l’IMELS en Tunisie, de la Région Lombardie en Tunisie et de Confartigianato (Association italienne des petites entreprises) en Afrique du Nord, de l’Université Bocconi de Milan en Tunisie, et délégué de la foire de Milan en Tunisie et de la foire de Vérone en Afrique du Nord, a été le conseiller du fonds d’investissement de 50 millions d’euros Euromed créé par Finlombarda, un fonds de capital-risque et de titres de capital-investissement lancé en 2006 dans le but d’investir dans les pays de la zone euro-méditerranéenne.
+Hassan El Agrebi
+Directeur
+Directeur de MEDREC depuis 2016 et Directeur Adjoint en charge de la Coopération Internationale à l’Agence Nationale Tunisienne pour la Maitrise de l’Energie (ANME), a contribué à plusieurs projetts de coopération avec des partenaires institutionnels européens et africains, soutenu l’initiative de MEDENER, l’Association Méditerranéenne des Agences Nationales pour la Maitrise de l’Energie.
+Aida Fehri
+Responsable financier – Relations publiques
+Aida Fehri a occupé plusieurs postes pendant 8 ans au sein du cabinets de conseil en e-commerce et en management. De 2016 à 2020, elle a été chargée de communication au ministère tunisien de l’Agriculture pendant plus de 3 ans en tant que conseillère du ministre. Depuis février 2020, Aida est membre de MEDREC en tant qu’experte en relations publiques et en est actuellement la directrice financière.
+Inès Khalifa
+Responsable technique
+Ines est titulaire d’un diplôme d’ingénieur industriel et d’un doctorat en systèmes énergétiques, spécialisé en modélisation et simulation de la performance énergétique des bâtiments (École nationale d’ingénieurs de Tunis). De 2011 à 2015, elle a dispensé des cours aux étudiants ingénieurs en gestion de configuration et contrôle statistique des procédés pour des applications industrielles, ainsi que des formations en modélisation et simulation dynamiques des systèmes d’énergies renouvelables. Ines a rejoint MEDREC en 2016, où elle a acquis de l’expérience en conception, gestion et coordination de projets, principalement dans le domaine de l’efficacité énergétique et des énergies renouvelables. Ines est actuellement responsable technique de MEDREC et coordinatrice du projet MedEcoSuRe, financé par l’UE.
+Imen Fatnassi
+Adjointe administrative
+Assure l’assistance administrative au sein de MEDREC depuis 2017 : Comptabilité, Gestion des Ressources Humaines, achats… et possède une expérience dans la coordination et l’organisation de séminaires et d’événements de réseautage.
+Hatem Labidi
+Expert technique – Activités de stratégie et de conception de projets
+Hatem a obtenu son doctorat en physique à l’Université Paris-Sud. Pendant une dizaine d’années, il a occupé différents postes de recherche et d’enseignement, principalement en France et au Canada, où il a rédigé des articles de recherche à fort impact et déposé des brevets, et contribué à la conception et à la mise en œuvre de différents projets de recherche. Sensible aux enjeux environnementaux, Hatem a rejoint MEDREC en 2019, où il dirige désormais les activités de stratégie et de conception de projets.
+Souha Ferchichi
+Experte technique – Activités de valorisation de la recherche
+Souha a obtenu son doctorat et ses études d’ingénieur à l’Ecole Nationale d’Ingénieurs de Tunis (ENIT), ou elle s’est spécialisée en ingénierie solaire thermique, de la conception à la mise en oeuvre en passant par la modélisation numérique. Elle a activement participé à différents projets de recherche et développement dans le cadre du 7e PC, ou elle a principalement participé à la mise en oeuvre et à l’évaluation des performances d’une centrale électrique hybride solaire (CSP) et biomasse, destinée à produire de la chaleur et de l’électricité pour l’ENIT (projets REELCOOP et RenewValue). Depuis 2019, Souha est experte technique au sein de MEDREC, ou elle a participé à la conception, à l’élaboration et à la gestion de projets de coopération. Elle fait notamment partie de l’équipe de coordination du projet Med-EcoSuRe, financé par l’UE.
+Moez Zouaoui
+Expert technique – Unité de gestion du projet REFAT
+Coordinateur du projet REFAT, ingénieur en instrumentation et maintenance industrielle de l’Institut National des Sciences Appliquées et de Technologie (INSAT). Pour l’obtention de son diplôme, Moez a intégré l’équipe de recherche du projet OPWIND (Contrôle opérationnel des centrales éoliennes), financé par l’UE et mené par SINTEF Energy Research en coopération avec l’Université norvégienne des sciences et technologies (NTNU). Membre actif de l’IEEE (Institute of Electrical and Electronics Engineers) pendant quatre ans, Moez a présidé la section Énergie de l’IEEE de son université et a représenté l’IEEE Power & Energy Society (PES) tunisienne lors du congrès Énergie de l’IEEE qui s’est tenu à São Paulo, au Brésil, en 2018. De plus, Moez faisait partie de l’équipe tunisienne qui a atteint les demi-finales du concours d’entrepreneuriat social « Hult Prize » à Toronto, au Canada.
+Aicha Ben Smida
+Experte technique – Unité de gestion du projet Med-EcoSuRe
+Assistante de coordination du projet Med-EcoSuRe, ingénieure en instrumentation et maintenance industrielle de l’Institu National des Sciences Appliquées et de Technologie (INSAT), Aicha a intégré l’équipe de gestion de projet de Cdiscount à Bordeaux (premier site de vente en ligne en France) en tant que cheffe de projet junior en amélioration continue. Membre active de l’EEE (Institute of Electrical and Electronics Engineers) pendant 4 ans, Aicha a été vice-présidente de la section IEEE Industry Application Society de sons université et a représenté les étudiants tunisiens de l’IEEE lors de l’IYCE17 (Conférence internationale des jeunes sur l’énergie) qui s’est tenue à Budapest, en Hongrie, en 2017.
+Eya Bourguiba
+Unité de gestion du projet ICAPT
+Ingénieure industrielle diplômée de l’Institut National des Sciences Appliquées et de Technologie (INSAT), Eya a rejoint l’équipe de MEDREC en 2021 en tant que coordinatrice junior du projet ICAPT. Elle a travaillé dans le secteur industriel automobile pendant près de deux ans en tant qu’ingénieure qualité projet. Elle a également été membre active de l’Institute of Electrical and Electronics Engineers (IEEE) pendant trois ans, période durant laquelle elle a représenté son institut à la réunion annuelle de l’IEEE IAS 2018 à Portland, aux États-Unis, où elle a remporté le prix de présidente de section étudiante exceptionnelle de l’IAS. Elle a également été membre du comité de programme du Sommet international IEEE WIE 2018, qui s’est tenu pour la première fois en Tunisie.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/comite-scientifique/
+
+Accueil > A Propos > Comité Scientifique
+Comité Scientifique
+Chiheb Bouden
+Président
+Professeur titulaire de systèmes énergétiques à l’Ecole Nationale d’Ingénieurs de Tunis (ENIT), a occupé plusieurs postes de direction : Ministre de l’Enseignement Supérieur et de la Recherche Scientifique en Tunisie, Doyen de l’ENIT, Directeur Général de l’Enseignement Supérieur…, a dirigé et coordonné 28 projets de recherche sur les EnR financés par les ministères tunisiens, la Comission européenne et le British Council dans les domaines de l’énergie et comple plus de 50 publications internationales.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/partenaires/
+
+Accueil
+A Propos
+Présentation
+Equipe
+Comité Scientifique
+Partenaires
+Emploi
+Expertise
+Projets
+Actualités
+Dissémination
+Evénements
+Etudes et rapports
+Médias
+Contact
+English
+Accueil
+A Propos
+Présentation
+Equipe
+Comité Scientifique
+Partenaires
+Emploi
+Expertise
+Projets
+Actualités
+Dissémination
+Evénements
+Etudes et rapports
+Médias
+Contact
+Accueil > A Propos >
+Réseau de partenaires
+Nos Partenaires
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/emploi/
+
+Accueil > Emploi
+Opportunités
+Rejoignez notre équipe dynamique à Tunis !
+MEDREC (Centre Méditerranéen des Énergies Renouvelables) cherche à renforcer son équipe avec des talents engagés et passionnés pour accompagner ses activités. Postes ouverts: Chargé(e) de communication (Annonce de recrutement - Chargé de communication) Chargé(e) de...
+Le MEDREC recrute un(e) Chargé(e) de Projet !
+Pour voir le profil demandé : Cliquez ici Pour postuler, il faut envoyer le dossier de candidature par e-mail à l’adresse suivante : contact@medrec.org avec comme objet : « Chargé de Projet MED 01/2022 »
+[ICAPT] Le Centre Méditerranéen des Energies Renouvelables recrute un auditeur externe
+Le Centre Méditerranéen des Energies Renouvelables (MEDREC), partenaire du projet ICAPT, a lancé un appel pour sélectionner un auditeur externe afin de mener le processus de vérification des dépenses. La date limite de réception des offres est le 31 Aout 2022 à 12h00...
+[SEACAP 4SDG] Le Centre Méditerranéen des Energies Renouvelables recrute un auditeur externe
+Le Centre Méditerranéen des Energies Renouvelables (MEDREC), partenaire du projet SEACAP 4SDG, a lancé un appel pour sélectionner un auditeur externe afin de mener le processus de vérification des dépenses. La date limite de réception des offres est le 06 juillet 2022...
+[SEACAP 4SDG] MEDREC recrute un/des expert(s) pour l’assistance aux municipalités tunisiennes dans l’évaluation et la planification des mesures de maîtrise de l’énergie
+le Centre Méditerranéen des Energies Renouvelables (MEDREC), partenaire du projet SEACAP 4SDG, lance une consultation afin de sélectionner un(des) Expert(s) national(aux) spécialiste(s) de la maitrise de l’énergie dans le secteur des bâtiments, pour l’« Assistance aux...
+Le MEDREC recrute un(e) assistant(e) de projet !
+Le MEDREC recrute un(e) assistant(e) de projet ! Pour voir le profil demandé : Cliquez ici Pour postuler, il faut envoyer le dossier de candidature par e-mail à l’adresse suivante : contact@medrec.org avec comme objet : « Assistant de Projet MED 02/2022...
+Le MEDREC recrute un(e) Chargé(e) de Projet !
+Le MEDREC recrute un(e) Chargé(e) de Projet ! Pour voir le profil demandé : Cliquez ici Pour postuler, il faut envoyer le dossier de candidature par e-mail à l’adresse suivante : contact@medrec.org avec comme objet : « Chargé de Projet MED 01/2022...
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/expertise/
+
+Accueil > Expertise
+Expertise
+Gestion et mise en oeuvre de projet
+Que ce soit en tant que coordinateur de projets de coopération ou en tant qu’agence d’exécution mandatée par des organisations régionales, MEDREC a été saluée par différentes parties prenantes et agences de financement pour sa gestion efficace des projets. L’engagement du centre envers l’excellence se reflète dans de vastes procédures de gestion de projets de qualité, notamment :
+- Exécution dynamique et efficace des activités du projet.
+- Des procédures financières et administratives rigoureuses et transparentes
+- Stratégies efficaces d’atténuation des risques.
+- Des outils innovants offrant sécurité et facilité dans le suivi de la gestion administrative et financière.
+Conception de projet
+Grâce à un groupe de travail d’experts dédiés, MEDREC coordonne les efforts pour concevoir des projets de coopération innovants et obtient avec succès leur financement, principalement via des programmes européens tels que IEV-CBC-MED, Italie-Tunisie et H2020. MEDREC accompagne également les principaux acteurs régionaux publics et privés dans la conception de projets et de programmes soutenant la mise en œuvre de stratégies nationales et régionales de développement durable et de transition énergétique. MEDREC peut apporter à ses partenaires académiques et socio-économiques méditerranéens une assistance dans :
+- Identification et analyse des appels à propositions et autres opportunités de financement.
+- Mise en réseau, création et coordination de consortiums.
+- Préparation de documents administratifs et financiers.
+- Elaboration de propositions de projets techniques.
+- Définition du budget.
+Renforcement des capacités
+En collaboration avec ses partenaires académiques et socio-économiques, MEDREC conçoit et met en oeuvre différentes activités de formation, de renforcement des capacités, de rencontres B2B et de diffusion pour :
+- Efficacité énergétique des les batiments.
+- Mise en oeuvre des technologies d’énergie renouvelable dans différents secteurs.
+- Adaptation de l’agriculture au changement climatique.
+- Gestion durable de la gestion de l’eau.
+- Entrepreneuriat vert.
+Valorisation de la recherche
+Les défis auxquels la région méditerranéenne est confrontée pour mettre en oeuvre des stratégies de développement durable, de transition énergétique et d’adaptation/atténuation du changement climatique requièrent des approches innovantes ainsi que des innovations scientifiques et technologiques. Les institutions de recherche ont donc un role particulièrement important à jouer à cet égard. Avec une équipe d’anciens chercheurs, un comité scientifique formé d’universitaires de renom et un large réseau de partenaires académiques, MEDREC vise à à être un centre d’échange pour accroître les activités de valorisation de la recherche dans la région méditerranéenne en :
+- Concevoir différentes activités et projets associant institutions de recherche et acteurs socio-économiques.
+- Assurer une veille technologique pour identifier les technologies les plus prometteuses et les plus adaptés.
+- Collecter, préparer et diffuser des informations et des données utiles aux institutions de recherche ainsi qu’aux acteurs publics et privés.
+- Organisation d’événements de diffusion scientifique.
+Services de conseil
+MEDREC fournit à divers acteurs clés nationaux et régionaux dans le domaine du développement durable des services d’expertise et de conseil tels que :
+Rélalisation d’études de faisabilité et stratégiques permettant la mise en oeuvre de plusieurs équipements dans la région méditerranéenne.
+Fournir une assistance technique aux projets et aux institutions.
+Contribuer à l’élaboration de lignes directrices nationales et régionales, de feuilles de route et de plans stratégiques basés sur les leçons apprises, les cas de réussite et les initiatives, les meilleures pratiques et les expériences.
+Organiser des événements et ateliers thématiques pertinents tout en impliquant les acteurs clés que les décideurs aux niveaux national et régional.
+Intéressé par notre expertise pour vos projets ou activités ?
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/projets/
+
+Accueil > Projets
+Projets
+Appel à candidature pour le recrutement d’un chercheur Post-Doc
+Dans le cadre du projet LAB-PtH2, cofinancé par l’Union Européenne à travers le programme INTERREG Next Italie-Tunisie, l’École Nationale d’Ingénieurs de Tunis (ENIT) lance un appel à candidature pour le recrutement d’un chercheur Post-Doc. Date limite de dépôt du...
+Lancement du projet de coopération transfrontalière LAB-PtH2 Tunis, 30 janvier 2026
+Le projet de coopération transfrontalière LAB-PtH2 a été officiellement lancé le 30 janvier 2026 à Tunis, lors d’un événement organisé à l’École Nationale des Ingénieurs de Tunis (ENIT). Financé par l’Union européenne dans le cadre du programme INTERREG NEXT...
+[ICAPT] Diagnostic et élaboration de cahiers de charges pour la réhabilitation et remise en marche de l’unité de conditionnement et de conservation à Sousse
+En partenariat avec le Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche, le Centre Méditerranéen des Energies Renouvelables (MEDREC), en tant qu’agence d’exécution du projet ICAPT « Mise en œuvre de pratiques agricoles intelligentes face au...
+[LAB-PtH2]: Consultation – Service d’interprétation simultanée
+Le projet LAB-PtH2 est co-financé par l’Union Européenne à travers le programme de coopération transfrontalière INTERREG Next Italie-Tunisie. Il a pour principal objectif PtH2 de développer deux solutions d’aide à la décision et de démonstration, permettant aux...
+[ICAPT] Diagnostic et élaboration de cahiers de charges pour la mise en place d’une unité intégrée de transformation et valorisation de produits agricoles alimentée par l’énergie photovoltaïque à Kairouan
+En partenariat avec le Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche, le Centre Méditerranéen des Energies Renouvelables (MEDREC), en tant qu’agence d’exécution du projet ICAPT « Mise en œuvre de pratiques agricoles intelligentes face au...
+[ICAPT] Diagnostic et élaboration de cahiers de charges pour la réhabilitation et remise en marche de l’unité de conditionnement et de conservation à Sousse
+En partenariat avec le Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche, le Centre Méditerranéen des Energies Renouvelables (MEDREC), en tant qu’agence d’exécution du projet ICAPT « Mise en œuvre de pratiques agricoles intelligentes face au...
+MAENA
+MAENA (Replenishing the small water cycle towards a more resilient Agriculture) is a cooperation project funded by the European Union through the Interreg NEXT MED programme. The programme is managed by the Autonomous Region of Sardinia (Italy) and aims to promote...
+[MAENA] Consultation restreinte N°MAE01/2025: Conception, impression et diffusion de supports de communication
+En tant que responsable de la mise en œuvre des activités de communication du projet MAENA (Replenishing the sMall wAter cyclE towards a more resilieNt Agriculture), le MEDREC G.I.E lance une consultation restreinte pour la conception, l’impression et la diffusion de...
+PROSOL Residential
+Lancé en 2005, PROSOL est un projet conjoint du ministère tunisien de l'Industrie, de l'Énergie et des Petites et Moyennes Entreprises, de l'Agence nationale pour la maîtrise de l'énergie (ANME) et du Programme des Nations Unies pour l'environnement (PNUE). PROSOL a...
+PROSOL Elec
+Lancé en 2010, PROSOL Elec est un dispositif de soutien à la diffusion des systèmes photovoltaïques dans le secteur résidentiel afin de couvrir partiellement les besoins en énergie électrique. Ce programme vise à atteindre, d'ici 2016, l'installation de 15 MW de...
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/actualites/
+
+Accueil > Actualités
+Actualités
+Appel à candidature pour le recrutement d’un chercheur Post-Doc
+Dans le cadre du projet LAB-PtH2, cofinancé par l’Union Européenne à travers le programme INTERREG Next Italie-Tunisie, l’École Nationale d’Ingénieurs de Tunis (ENIT) lance un appel à candidature pour le recrutement d’un chercheur Post-Doc. Date limite de dépôt du...
+Lancement du projet de coopération transfrontalière LAB-PtH2 Tunis, 30 janvier 2026
+Le projet de coopération transfrontalière LAB-PtH2 a été officiellement lancé le 30 janvier 2026 à Tunis, lors d’un événement organisé à l’École Nationale des Ingénieurs de Tunis (ENIT). Financé par l’Union européenne dans le cadre du programme INTERREG NEXT...
+[ICAPT] Diagnostic et élaboration de cahiers de charges pour la réhabilitation et remise en marche de l’unité de conditionnement et de conservation à Sousse
+En partenariat avec le Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche, le Centre Méditerranéen des Energies Renouvelables (MEDREC), en tant qu’agence d’exécution du projet ICAPT « Mise en œuvre de pratiques agricoles intelligentes face au...
+[LAB-PtH2]: Consultation – Service d’interprétation simultanée
+Le projet LAB-PtH2 est co-financé par l’Union Européenne à travers le programme de coopération transfrontalière INTERREG Next Italie-Tunisie. Il a pour principal objectif PtH2 de développer deux solutions d’aide à la décision et de démonstration, permettant aux...
+[ICAPT] Diagnostic et élaboration de cahiers de charges pour la mise en place d’une unité intégrée de transformation et valorisation de produits agricoles alimentée par l’énergie photovoltaïque à Kairouan
+En partenariat avec le Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche, le Centre Méditerranéen des Energies Renouvelables (MEDREC), en tant qu’agence d’exécution du projet ICAPT « Mise en œuvre de pratiques agricoles intelligentes face au...
+[ICAPT] Diagnostic et élaboration de cahiers de charges pour la réhabilitation et remise en marche de l’unité de conditionnement et de conservation à Sousse
+En partenariat avec le Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche, le Centre Méditerranéen des Energies Renouvelables (MEDREC), en tant qu’agence d’exécution du projet ICAPT « Mise en œuvre de pratiques agricoles intelligentes face au...
+[ICAPT] Appel d’offres N° ICT01/2025: Extension de la centrale photovoltaïque de la SONEDE
+En partenariat avec le Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche (MARHP) et le Ministère Italien de l’Environnement et de la Sécurité Energétique (MASE), le Centre Méditerranéen des Énergies Renouvelables (MEDREC), en tant qu’agence...
+[MAENA] Consultation restreinte N°MAE01/2025: Conception, impression et diffusion de supports de communication
+En tant que responsable de la mise en œuvre des activités de communication du projet MAENA (Replenishing the sMall wAter cyclE towards a more resilieNt Agriculture), le MEDREC G.I.E lance une consultation restreinte pour la conception, l’impression et la diffusion de...
+[REFAT] Consultation: Extension de la station de pompage photovoltaique de zaafrana
+En partenariat avec le Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche, le Centre Méditerranéen des Energies Renouvelables (MEDREC), en tant qu’agence d’exécution du projet REFAT « Énergies Renouvelables pour le Développement Agricole et Rural...
+LAB- PtH2 au centre de l’atelier jeunesse, climat et développement durable en Méditerranée
+Le projet LAB-PtH2 a pris part à l’événement tenu à Tunis le 24 juin 2025, co-organisé par le MEDREC, autour du thème : « Jeunesse, climat et développement durable en Méditerranée : l’Italie et la Tunisie pour une nouvelle génération de coopération ». Cet événement a...
+[REFAT] Prolongation des délais de l’appel d’offre: Mise en place d’une unité de dessalement d’eaux saumâtres alimentée par une installation photovoltaïque
+En partenariat avec le Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche (MARHP), le Centre Méditerranéen des Énergies Renouvelables (MEDREC), en tant qu’agence d’exécution du projet REFAT « Énergies Renouvelables pour le Développement Agricole et...
+[REFAT] Prolongation des délais de la consultation: Extension de la station de pompage photovoltaique de zaafrana
+En partenariat avec le Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche, le Centre Méditerranéen des Energies Renouvelables (MEDREC), en tant qu’agence d’exécution du projet REFAT « Énergies Renouvelables pour le Développement Agricole et Rural...
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/evenements/
+
+Accueil > Événements
+Événements
+EAUSIRIS organise un atelier autour de l’agriculture face au changement climatique en Tunisie et en Sicile
+Sous l’égide de son excellence Monsieur Abdelmonem Belati, Ministre de l’Agriculture, des Ressources Hydrauliques et de la Pêche, l’Ecole Supérieure des Ingénieurs de Medjez El Bab organise dans le cadre du projet EauSIRIS (Nouvelle Stratégie de gestion des Eaux,...
+MEDREC à la COP26 !
+Les emplois verts sont au cœur de la croissance et du développement durable et apportent une réponse aux enjeux mondiaux de la protection de l’environnement, du développement économique et de l’inclusion sociale. Dans ce contexte, le Centre Méditerranéen des Énergies...
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/etudes-et-rapports/
+
+Accueil >Dissémination > Études et Rapports
+Études
+[ICAPT] Etude diagnostique des Périmètres Publics Irrigués (PPIs) dans la zone aval du barrage Nabhena
+Projet ICAPT Etude diagnostique des Périmètres Publics Irrigués (PPIs) dans la zone aval du barrage Nabhena. Le présent rapport est relatif à l’étude confiée par MEDREC au bureau d’étude AGER, portant sur le diagnostic des périmètres publics irrigués (PPI),...
+[ICAPT] Etude prospective de l’évolution du système Nabhena à l’horizon 2050
+Projet ICAPT Etude Prospective du système Nabhena à l’horizon 2050 Le présent rapport est relatif à l’étude prospective du système Nabhena à l’horizon 2050 confiée par MEDREC au bureau d’étude TPAD. Il s’agit d’un plan d’action du scénario le plus probable de...
+Rapports
+Résultats clés de Med-EcoSuRe favorisant la rénovation énergétique innovante et éco durable des bâtiments universitaires
+Med-EcoSuRe, un projet de coopération transfrontalière mené depuis 4 ans, est arrivé à son terme ! Le projet a proposé et mis en œuvre un processus de rénovation innovant et éco-durable pour les bâtiments universitaires en Méditerranée, en adoptant une approche de...
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/medias/
+
+Accueil
+A Propos
+Présentation
+Equipe
+Comité Scientifique
+Partenaires
+Emploi
+Expertise
+Projets
+Actualités
+Dissémination
+Evénements
+Etudes et rapports
+Médias
+Contact
+English
+Accueil
+A Propos
+Présentation
+Equipe
+Comité Scientifique
+Partenaires
+Emploi
+Expertise
+Projets
+Actualités
+Dissémination
+Evénements
+Etudes et rapports
+Médias
+Contact
+Accueil > Dissémination >
+Médias
+Albums Photos
+Vidéos
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/contact/
+
+Accueil > Contact Formulaire de Contact Sujet Nom & Prénom E-mail Message (facultatif) Envoyer Nous Contacter Adresse Rue Caracalla, Tunis. Email info@company.com Téléphone +216 71 552 555 Localisation Adresse : Rue Caracalla, Tunis. Email : info@company.com Téléphone : +21671552555
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/appel-a-candidature-pour-le-recrutement-dun-chercheur-post-doc/
+
+Dans le cadre du projet LAB-PtH2, cofinancé par l’Union Européenne à travers le programme INTERREG Next Italie-Tunisie, l’École Nationale d’Ingénieurs de Tunis (ENIT) lance un appel à candidature pour le recrutement d’un chercheur Post-Doc.
+Date limite de dépôt du dossier de candidature : 20 février 2026
+Lien de l’appel à candidature pour le recrutement d’un chercheur Post-Doc sur le site de l’ENIT :https://enit.rnu.tn/2026/01/17/appel-a-candidature-pour-un-post-doc-21/
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/lancement-du-projet-de-cooperation-transfrontaliere-lab-pth2-tunis-30-janvier-2026/
+
+Le projet de coopération transfrontalière LAB-PtH2 a été officiellement lancé le 30 janvier 2026 à Tunis, lors d’un événement organisé à l’École Nationale des Ingénieurs de Tunis (ENIT). Financé par l’Union européenne dans le cadre du programme INTERREG NEXT Italie–Tunisie, ce projet s’inscrit dans les priorités européennes en matière de transition énergétique, d’innovation et de coopération euro-méditerranéenne.
+La journée de lancement a réuni des représentants institutionnels, des chercheurs, des acteurs industriels ainsi que des étudiants, illustrant la volonté du projet de renforcer les synergies entre la recherche scientifique et le monde socio-économique.
+La journée a démarré par une visite du laboratoire de recherche LAMOED, qui dispose déjà d’une unité expérimentale de production d’hydrogène. Cette visite a permis aux participants de découvrir des installations concrètes et d’échanger autour des perspectives de développement et des applications industrielles de l’hydrogène vert.
+La cérémonie officielle s’est ensuite ouverte par l’allocution du Pr Kamel Ben Saad, directeur de l’ENIT, qui a souligné le rôle stratégique des établissements d’enseignement supérieur et de recherche dans l’accompagnement des transitions technologiques. Il a rappelé que l’innovation scientifique constitue un levier essentiel du développement industriel et économique, appelant à un renforcement des collaborations entre universités, centres de recherche et acteurs industriels.
+Dans son intervention, Mme Daniela Segreto, représentante de l’Autorité de gestion du programme INTERREG NEXT MED Italie–Tunisie, a présenté les objectifs et les priorités du programme, en mettant l’accent sur l’importance de la coopération transfrontalière dans le bassin méditerranéen. Elle a notamment souligné le rôle stratégique du partenariat entre la région sicilienne et la Tunisie, en particulier dans le domaine des énergies renouvelables, et rappelé la contribution de projets tels que LAB-PtH2 aux objectifs européens de neutralité climatique et de développement durable.
+De son côté, M. Marco Polverari, directeur du Centre Méditerranéen des Énergies Renouvelables (MEDREC), a présenté les missions du centre ainsi que son engagement dans plusieurs projets financés par l’Union européenne. Il a mis en avant l’expérience du MEDREC dans la coordination de projets de coopération internationale et l’importance des partenariats établis avec les institutions tunisiennes et italiennes pour favoriser le transfert de connaissances et l’innovation appliquée.
+À propos du projet LAB-PtH2
+Le projet LAB-PtH2 – Laboratoire d’excellence et de démonstration de la conversion de l’énergie en hydrogène vert et de son exploitation est un projet de coopération transfrontalière financé par l’Union européenne dans le cadre du programme INTERREG NEXT Italie–Tunisie.
+Doté d’un budget total d’un million d’euros, financé à 90 % par l’Union européenne, le projet s’étend sur une durée de 36 mois.
+Le Centre Méditerranéen des Énergies Renouvelables (MEDREC) assure la coordination du projet en tant que chef de file d’un consortium composé de six partenaires. Celui-ci réunit trois institutions tunisiennes — le MEDREC, l’École Nationale d’Ingénieurs de Monastir (ENIM) et l’École Nationale d’Ingénieurs de Tunis (ENIT) — ainsi que trois partenaires italiens : le Conseil National de la Recherche d’Italie – Institut ITAE (CNR-ITAE) et deux opérateurs privés, Power Evolution S.r.l. (PEV) et MI Welding Technology S.r.l. (MIWT). La Société Tunisienne de l’Électricité et du Gaz (STEG) participe au projet en tant que partenaire associé.
+LAB-PtH2 vise le développement d’un outil innovant d’aide à la décision couvrant l’ensemble de la chaîne de valeur de l’hydrogène vert. Le projet prévoit également la mise en place d’un démonstrateur multi-sites, destiné à tester et valider les solutions proposées en conditions réelles, contribuant ainsi au déploiement de solutions énergétiques durables dans la région euro-méditerranéenne.
+Restez connectés pour suivre les prochaines phases, les activités clés et les résultats du projet LAB-PtH2, au cœur de l’innovation et de la transition énergétique.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/icapt-diagnostic-et-elaboration-de-cahiers-de-charges-pour-la-rehabilitation-et-remise-en-marche-de-lunite-de-conditionnement-et-de-conservation-a-sousse-2/
+
+En partenariat avec le Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche, le Centre Méditerranéen des Energies Renouvelables (MEDREC), en tant qu’agence d’exécution du projet ICAPT « Mise en œuvre de pratiques agricoles intelligentes face au climat en Tunisie », a lancé une consultation pour la: « Diagnostic et élaboration de cahiers de charges pour la réhabilitation et remise en marche de l’unité de conditionnement et de conservation à Sidi Bou Ali (Gouvernorat de Sousse)»
+Pour les sociétés intéressées par cet avis, veuillez envoyer une demande d’accès au Dossier de consultation N°ICT 01/2026 auprès du MEDREC aux adresses électroniques suivantes : contact@medrec.org et medrecentre@gmail.com portant l’objet suivant : «Demande de retrait du Dossier de la consultation N° ICT 01/2026 »
+- La date limite d’acceptation des offres est fixée pour le lundi 26 Janvier 2026 à 12H00 (Heure de Tunis),
+- Les questions techniques relatives à cette consultation sont à adresser uniquement sous forme écrite aux adresses électroniques suivantes : contact@medrec.org et medrecentre@gmail.com et ce, au plus tard le lundi 19 Janvier 2026 à 16H00 (Heure de Tunis)
+- Les modalités de soumission seront expliquées dans les termes de références de la consultation N°ICT 01/2026,
+- Les offres doivent parvenir au siège du MEDREC à l’adresse suivante : « MEDREC 03, Rue Moslem Ibn Alwalid, Notre dame, Mutuelle Ville, Tunis – 1082 »
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/lappth2-consultation-service-dinterpretation-simultanee/
+
+Le projet LAB-PtH2 est co-financé par l’Union Européenne à travers le programme de coopération transfrontalière INTERREG Next Italie-Tunisie. Il a pour principal objectif PtH2 de développer deux solutions d’aide à la décision et de démonstration, permettant aux parties prenantes des deux territoires de prendre des décisions informées sur l’approvisionnement, la production, le stockage et l’utilisation de l’hydrogène vert, en tant que solution clé pour accélérer la transition énergétique.
+Le MEDREC lance une consultation afin de sélectionner un prestataire pour assurer l’interprétation simultanée de l’italien vers le français et vice versa pour le projet LAB-PtH2.
+L’offre doit parvenir sous pli fermé (par voie postale ou par porteur) à l’adresse suivante : 03 Rue Moslim Ibn El Walid, Notre Dame – Mutuelle Ville, 1082 Tunis,Tunisie en indiquant sur l’enveloppe extérieur la mention suivante :« Consultation n°LAB01/2025 : service d’interprétation simultanée pour le projet LAB-PtH2 »
+Ou par courrier électronique à l’adresse suivante : contact@medrec.org avec comme objet de l’email : « Consultation n°LAB01/2025 : service d’interprétation simultanée pour le projet LAB-PtH2 ».
+Le dernier délai de soumission des offres est le 05/01/2026 à 12 h 00 (heure de Tunis), le cachet de réception du MEDREC faisant foi ainsi que l’heure de réception de l’email dans le cas échéant.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/icapt-diagnostic-et-elaboration-de-cahiers-de-charges-pour-la-mise-en-place-dune-unite-integree-de-transformation-et-valorisation-de-produits-agricoles-alimentee-par-lenergie-photo/
+
+En partenariat avec le Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche, le Centre Méditerranéen des Energies Renouvelables (MEDREC), en tant qu’agence d’exécution du projet ICAPT « Mise en œuvre de pratiques agricoles intelligentes face au climat en Tunisie », a lancé une consultation pour la: « Diagnostic et élaboration de cahiers de charges pour la mise en place d’une unité intégrée de transformation et valorisation de produits agricoles alimentée par l’énergie photovoltaïque – PPI de Sisseb-Dar Jamaia (Kairouan)»
+Pour les sociétés intéressées par cet avis, veuillez envoyer une demande d’accès au Dossier de consultation N°ICT 02/2025 auprès du MEDREC aux adresses électroniques suivantes : contact@medrec.org et medrecentre@gmail.com portant l’objet suivant : « Demande de retrait du Dossier de la consultation N° ICT 02/2025 »
+- La date limite d’acceptation des offres est fixée pour le lundi 22 Décembre 2025 à 12H00 (Heure de Tunis),
+- Les questions techniques relatives à cette consultation sont à adresser uniquement sous forme écrite aux adresses électroniques suivantes : contact@medrec.org et medrecentre@gmail.com et ce, au plus tard le jeudi 11 Décembre 2025 à 16H00 (Heure de Tunis),
+- Les modalités de soumission seront expliquées dans les termes de références de la consultation N°ICT 02/2025,
+- Les offres doivent parvenir au siège du MEDREC à l’adresse suivante :
+« MEDREC 03, Rue Moslem Ibn Alwalid, Notre dame, Mutuelle Ville, Tunis – 1082 »
+
+--------------------------------------------------------------------------------
+
+URL: https://medrec.org/presentation/
+
+Accueil > A Propos > Présenatation
+Présentation
+Le Centre Méditerranéen des Energies Renouvlables (MEDREC) est un groupe de réflexion et une plateforme opérationnelle de coopération régionale. Sa mission prinicpale est de soutenir et de dynamiser la collaboration pour le développement durable et la transition énergétique en Méditerrannée, principalement par la conception et la mise en oeuvre de projets avec le soutien de différents organismes de financement.
+MEDREC est un groupement d’intéret Economique à but non lucratif basé à Tunis, créé conjointement par le Ministère italien de l’Environnement et le Ministère tunisien de l’Energie avec la participation de différentes agences en charge de la gestion de l’énergie dans la région méditerrannéenne.
+Les travaux de MEDREC couvrent différents sujets, principalement :
+- Développement durable.
+- Adaptation et atténuation du changement climatique.
+- Innovation technologique pour le développement durable.
+- Emplois verts pour une croissance durable.
+- Energies renouvelables et efficacité énergétique.
+- Gestion durable des ressources naturelles.
+- Eco-innovation et économie circulaire.
+Grâce à une équipe hautement qualifiée et engagée, MEDREC accompagne efficacement les acteurs publics et privés et les ONG méditerranéennes avec une expertise dans :
+- Conception de projets.
+- Gestion et mise en oeuvre de projets.
+- Renforcement des capacités et diffusion.
+- Valorisation de la recherche.
+- Services de conseil divers.
+
+--------------------------------------------------------------------------------
+
+URL: https://medrec.org/projets/
+
+Accueil > Projets
+Projets
+Appel à candidature pour le recrutement d’un chercheur Post-Doc
+Dans le cadre du projet LAB-PtH2, cofinancé par l’Union Européenne à travers le programme INTERREG Next Italie-Tunisie, l’École Nationale d’Ingénieurs de Tunis (ENIT) lance un appel à candidature pour le recrutement d’un chercheur Post-Doc. Date limite de dépôt du...
+Lancement du projet de coopération transfrontalière LAB-PtH2 Tunis, 30 janvier 2026
+Le projet de coopération transfrontalière LAB-PtH2 a été officiellement lancé le 30 janvier 2026 à Tunis, lors d’un événement organisé à l’École Nationale des Ingénieurs de Tunis (ENIT). Financé par l’Union européenne dans le cadre du programme INTERREG NEXT...
+[ICAPT] Diagnostic et élaboration de cahiers de charges pour la réhabilitation et remise en marche de l’unité de conditionnement et de conservation à Sousse
+En partenariat avec le Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche, le Centre Méditerranéen des Energies Renouvelables (MEDREC), en tant qu’agence d’exécution du projet ICAPT « Mise en œuvre de pratiques agricoles intelligentes face au...
+[LAB-PtH2]: Consultation – Service d’interprétation simultanée
+Le projet LAB-PtH2 est co-financé par l’Union Européenne à travers le programme de coopération transfrontalière INTERREG Next Italie-Tunisie. Il a pour principal objectif PtH2 de développer deux solutions d’aide à la décision et de démonstration, permettant aux...
+[ICAPT] Diagnostic et élaboration de cahiers de charges pour la mise en place d’une unité intégrée de transformation et valorisation de produits agricoles alimentée par l’énergie photovoltaïque à Kairouan
+En partenariat avec le Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche, le Centre Méditerranéen des Energies Renouvelables (MEDREC), en tant qu’agence d’exécution du projet ICAPT « Mise en œuvre de pratiques agricoles intelligentes face au...
+[ICAPT] Diagnostic et élaboration de cahiers de charges pour la réhabilitation et remise en marche de l’unité de conditionnement et de conservation à Sousse
+En partenariat avec le Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche, le Centre Méditerranéen des Energies Renouvelables (MEDREC), en tant qu’agence d’exécution du projet ICAPT « Mise en œuvre de pratiques agricoles intelligentes face au...
+MAENA
+MAENA (Replenishing the small water cycle towards a more resilient Agriculture) is a cooperation project funded by the European Union through the Interreg NEXT MED programme. The programme is managed by the Autonomous Region of Sardinia (Italy) and aims to promote...
+[MAENA] Consultation restreinte N°MAE01/2025: Conception, impression et diffusion de supports de communication
+En tant que responsable de la mise en œuvre des activités de communication du projet MAENA (Replenishing the sMall wAter cyclE towards a more resilieNt Agriculture), le MEDREC G.I.E lance une consultation restreinte pour la conception, l’impression et la diffusion de...
+PROSOL Residential
+Lancé en 2005, PROSOL est un projet conjoint du ministère tunisien de l'Industrie, de l'Énergie et des Petites et Moyennes Entreprises, de l'Agence nationale pour la maîtrise de l'énergie (ANME) et du Programme des Nations Unies pour l'environnement (PNUE). PROSOL a...
+PROSOL Elec
+Lancé en 2010, PROSOL Elec est un dispositif de soutien à la diffusion des systèmes photovoltaïques dans le secteur résidentiel afin de couvrir partiellement les besoins en énergie électrique. Ce programme vise à atteindre, d'ici 2016, l'installation de 15 MW de...
+
+--------------------------------------------------------------------------------
+
+URL: https://www.medrec.org/icapt-diagnostic-et-elaboration-de-cahiers-de-charges-pour-la-rehabilitation-et-remise-en-marche-de-lunite-de-conditionnement-et-de-conservation-a-sousse/
+
+En partenariat avec le Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche, le Centre Méditerranéen des Energies Renouvelables (MEDREC), en tant qu’agence d’exécution du projet ICAPT « Mise en œuvre de pratiques agricoles intelligentes face au climat en Tunisie », a lancé une consultation pour la:« Diagnostic et élaboration de cahiers de charges pour la réhabilitation et remise en marche de l’unité de conditionnement et de conservation à Sidi Bou Ali (Gouvernorat de Sousse)»
+Pour les sociétés intéressées par cet avis, veuillez envoyer une demande d’accès au Dossier de consultation N°ICT 01/2025 auprès du MEDREC aux adresses électroniques suivantes : contact@medrec.org et medrecentre@gmail.com portant l’objet suivant :« Demande de retrait du Dossier de la consultation N° ICT 01/2025 »
+- La date limite d’acceptation des offres est fixée pour le lundi 22 Décembre 2025 à 12H00 (Heure de Tunis),
+- Les questions techniques relatives à cette consultation sont à adresser uniquement sous forme écrite aux adresses électroniques suivantes : contact@medrec.org et medrecentre@gmail.com et ce, au plus tard le jeudi 11 Décembre 2025 à 16H00 (Heure de Tunis),
+- Les modalités de soumission seront expliquées dans les termes de références de la consultation N°ICT 01/2025,
+- Les offres doivent parvenir au siège du MEDREC à l’adresse suivante :
+« MEDREC 03, Rue Moslem Ibn Alwalid, Notre dame, Mutuelle Ville, Tunis – 1082 »
+
+--------------------------------------------------------------------------------

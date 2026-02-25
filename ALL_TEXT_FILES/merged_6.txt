@@ -1,0 +1,250 @@
+ROOT: https://ugs.solutions/
+SCRAPED_AT_UTC: 2026-02-11T20:42:36.282563Z
+PAGES_INCLUDED: 20
+
+================================================================================
+
+URL: https://ugs.solutions/
+
+Product Gas Compressor at Illinois Landfill. Shipped: October 2023
+Containerized Biogas Upgrading System in Wisconsin. Installed & Commissioned: October 2023
+Biogas Upgrading System in California. Installed & Commissioned: 2021
+Biogas Upgrading System at Illinois Landfill. Installed & Commissioned: 2022
+Biogas Upgrading System at Illinois Landfill. Installed & Commissioned: 2022
+
+--------------------------------------------------------------------------------
+
+URL: https://ugs.solutions/Services
+
+Services
+We deliver a range of services to keep your systems running efficiently, including full-service packages and spare parts options.
+Trust our expertise to maintain smooth and reliable operations for your business.
+We deliver a range of services to keep your systems running efficiently, including full-service packages and spare parts options.
+Trust our expertise to maintain smooth and reliable operations for your business.
+Preventive Maintenance
+Minimize downtime and extend system life
+Corrective Maintenance and Repairs
+Quick issue resolution to restore operations
+Plant Installation and Commissioning
+Seamless setup and operational readiness
+Upgrades and Optimization
+Boost efficiency and adapt to your needs
+Remote Support
+Fast, expert assistance anytime, anywhere
+
+--------------------------------------------------------------------------------
+
+URL: https://ugs.solutions/About
+
+About UGS
+Unconventional Gas Solutions (UGS) was established in 2013 by a team of experienced engineers and scientists who specialized in developing advanced membranes for gas generation and processing. Since its inception, UGS has evolved from offering compact gas treatment systems for well site, utilities, to providing systems and plants for the complete range of gas generation and treatment, across various industry sectors worldwide.
+
+--------------------------------------------------------------------------------
+
+URL: https://ugs.solutions/Solutions
+
+Our 3 stage systems are the state of the art in biogas upgrading technology. Compact design, highest performance, reliability and user friendliness. Our system can upgrade biogas from any agricultural or industrial feedstock source to any RNG specification
+Learn MoreDesigned to remove CO2 and high concentrations of N2 from heavily contaminated landfill gas, our hybrid Membrane/PSA system ensures the production of high-quality RNG.
+Learn MoreMeet our biomethane polishing solution for a decentralized 'green' LNG supply chain. This simple membrane separation system ensures <50 ppm CO2 in your biomethane, making it ready for further liquefaction and distribution.
+Learn MoreEnsure grid compliance of your biomethane with our catalytic De-Oxo system. Reduce O2 content in biomethane to below 0.1%.
+Learn MoreCustomized gas compression systems for helium, biogas, hydrogen, and more. Designed for pressures from 5.5 to 275 barg (80 to 4,000 psig) and flows up to 5,500 Nm³/h, our solutions ensure flexibility, energy efficiency, and reliable performance across diverse applications.
+Learn MoreOur Nitrogen Rejection Units (NRUs) provide versatile and reliable solutions for nitrogen removal from gases. Whether for LFG upgrading, natural gas purification, or hydrogen and syngas processing, our NRUs deliver exceptional performance with flow capacities ranging from 4 to 3,500 SCFM, offering best-in-class methane recovery and energy efficiency.
+Learn More
+
+--------------------------------------------------------------------------------
+
+URL: https://ugs.solutions/Biogas_Upgrading
+
+SOLUTIONS
+Our biogas upgrading technology is engineered to deliver maximum efficiency and unmatched reliability in biomethane production. Designed for smooth integration and consistent performance, it’s the ideal solution for sustainable energy projects.
+Thanks to our advanced high-efficiency membranes, our system achieves an impressive methane recovery rate of ≥ 99.5%, ensuring biomethane quality that meets the strictest grid injection standards.
+Our standardized modular design lowers fixed installation costs, while space-saving containerized units reduce on-site installation time and expenses. The robust and reliable components guarantee high operational availability without using chemicals or producing liquid effluent.
+Fully automatic operation with remote control capability makes our system user-friendly. Biomethane is produced at a pressure suitable for most natural gas networks, ensuring easy integration.
+
+--------------------------------------------------------------------------------
+
+URL: https://ugs.solutions/Landfill_Gas_Upgrading
+
+SOLUTIONS
+Landfill gas (LFG) presents unique challenges for gas treatment technologies due to its high levels of impurities. Efficient pre-treatment systems are essential to remove VOCs, siloxanes, and other contaminants effectively. At UGS, we combine expertise and experience to design reliable, cost-efficient pre-treatment solutions tailored to the specific needs of each landfill.
+Our comprehensive solutions include regenerative TSA systems, adsorption filters, and biological scrubbing systems, ensuring optimal performance and compliance with environmental standards.
+One of the key challenges with LFG is its typically high nitrogen (N₂) concentration, which reduces the heating value of biomethane when using conventional technologies. To address this, UGS has developed an innovative two-stage hybrid system that combines membrane and our unique NRU (Nitrogen rejection unit). This advanced design effectively removes CO₂ and N₂ from LFG, delivering a high heating value and achieving industry-leading CH₄ recovery rates.
+
+--------------------------------------------------------------------------------
+
+URL: https://ugs.solutions/Biomethane_Polishing
+
+SOLUTIONS
+The growing demand for LNG can be met through decentralized biogas production systems, offering grid independence and adding significant green value to the fuel industry. In areas without direct gas injection infrastructure, biomethane liquefaction becomes a critical solution for efficient distribution.
+While conventional biogas upgrading technologies reduce CO₂ concentrations to approximately 1% in biomethane, UGS takes this further with an advanced membrane separation process. Our technology achieves CO₂ levels of less than 50 ppm, meeting the stringent requirements for biomethane liquefaction.
+The simplicity and efficiency of UGS’s membrane separation process address one of the most complex technical challenges in the Renewable LNG (R-LNG) value chain. With UGS, you gain a reliable, scalable, and innovative solution to maximize the value of your biogas production.
+
+--------------------------------------------------------------------------------
+
+URL: https://ugs.solutions/Biomethane_Deoxygenation
+
+SOLUTIONS
+Grid injection limits for oxygen (O₂) often turn promising biomethane projects into non-starters. Our innovative catalytic solution reduces O₂ levels directly in the purified biomethane, ensuring compliance with grid standards efficiently and cost-effectively.
+Minimal Methane Loss
+Catalytic oxidation consumes only a small fraction of CH₄.
+Higher Energy Efficiency
+Due to lower process temperatures of around 400 to 450 F.
+Corrosion Resistance
+Due to the selection of high quality materials.
+Lower Generation of Halogenated Acids
+Flexibility for Any Scale
+Handles flow rates from 300 to 5,000 Nm³/h, adaptable to diverse projects.
+Streamlined Operations
+Reliable and easy-to-integrate systems for downstream processing.
+
+--------------------------------------------------------------------------------
+
+URL: https://ugs.solutions/Gas_Compression_Systems
+
+SOLUTIONS
+At UGS, we provide custom-designed gas compression systems tailored to meet specific industry needs. Our expertise spans various applications, including helium, biogas, fuel gas, bio-methane, CO₂, hydrogen, and syngas compression.
+We offer a range of solutions, such as gas collection blower packages, feed gas compressors (FGCs) using Mayekawa systems, and product gas compressors (PGCs) with pressures up to 275 barg (4,000 psig). For standardized applications, we integrate compressor packages from renowned manufacturers.
+Our systems are designed to handle pressures from 5.5 to 82.7 barg (80 to 1,200 psig) and flow capacities of 50 to 3,400 SCFM (80 to 5,500 Nm³/h). Every package is a custom design or a repeat of a previous custom system, ensuring flexibility, energy efficiency, and superior performance, particularly for biogas applications.
+
+--------------------------------------------------------------------------------
+
+URL: https://ugs.solutions/NRU
+
+SOLUTIONS
+UGS specializes in Nitrogen Rejection Units (NRUs), providing advanced solutions for removing nitrogen from gases. Our NRUs are versatile, supporting applications beyond Landfill Gas (LFG) upgrading, including nitrogen removal from natural gas and purification of hydrogen and syngas.
+Complete Systems or Stand-Alone Units
+UGS offers NRUs as stand-alone systems or as part of a broader package, depending on your requirements.
+Comprehensive Scope
+Our capabilities include pilot plant designs and full-scale installations tailored to your needs.
+Wide Operating Range
+Our NRUs handle flow rates from 4 SCFM to 3,500 SCFM, efficiently extracting nitrogen concentrations between 5% and 40%, depending on the desired nitrogen product concentration.
+Technical Excellence
+Whether standard or customized, our designs are optimized for best-in-class methane recovery and low energy consumption, ensuring superior operational efficiency.
+
+--------------------------------------------------------------------------------
+
+URL: https://ugs.solutions/Technologies
+
+At UGS, we are proud to offer advanced membrane technology for gas separation, designed to meet the evolving needs of the industry. Our membranes exhibit high selectivity and permeability, leveraging the latest advances in materials science to ensure optimal performance.
+Learn MoreIn the pressure swing adsorption system designed by UGS, pressurized gas flows through the adsorbent vessel. Highly adsorbing components are adsorbed in an adsorption media under pressure, while less adsorbing components are concentrated at the outlet of the adsorption vessel.
+Learn MoreTemperature Swing Adsorption (TSA) is a proven technology for removing impurities such as siloxanes, VOCs, CO₂, and moisture from biogas or landfill gas, ensuring high-quality biomethane.
+Learn MoreAt UGS, innovation is in our DNA. With access to over 70 patents in gas separation technology, we have been at the forefront of membrane technology development since its inception. Driven by a passion for discovery and a relentless curiosity, we continuously explore new ideas and applications to improve and expand our product offerings.
+Learn More
+
+--------------------------------------------------------------------------------
+
+URL: https://ugs.solutions/Membrane_Separation
+
+TECHNOLOGIES
+At UGS, we are proud to offer advanced membrane technology for gas separation, designed to meet the evolving needs of the industry. Our membranes exhibit high selectivity and permeability, leveraging the latest advances in materials science to ensure optimal performance.
+A state-of-the-art membrane system is used to remove CO2 from the biogas stream. The separation process takes place when biogas flows through the hollow fibers of the membrane modules. Components such as CO2, which permeate quickly, move to the shell side of the membrane module. Meanwhile, most of the slow-permeating CH4 remains in the hollow fiber at high pressure. At the end of the membrane module, the highly concentrated CH4 stream is collected and made available for further use at approximately 12 barg pressure.
+Combined with our expertise in process design and system manufacturing, we deliver high-performance solutions in applications such as hydrogen recovery, nitrogen production, and carbon dioxide removal. Our scalable and customizable membrane systems provide cost-effective and energy-efficient solutions across various industries.
+
+--------------------------------------------------------------------------------
+
+URL: https://ugs.solutions/PSA-NRU
+
+TECHNOLOGIES
+In the pressure swing adsorption system designed by UGS, pressurized gas flows through the adsorbent vessel. Highly adsorbing components are adsorbed in an adsorption media under pressure, while less adsorbing components are concentrated at the outlet of the adsorption vessel.
+Applied to biogas upgrading, CO2 is adsorbed in the media, while CH4 is rejected and concentrated at the outlet of the vessel, producing Biomethane. After saturation of the media, CO2 is desorbed again by reducing the pressure in the vessel down to below 100 mbara, regenerating the media for a new adsorption cycle.
+Combined with our expertise in process design and system manufacturing, we deliver high-performance solutions in applications such as hydrogen recovery, nitrogen production, and carbon dioxide removal. Our scalable and customizable membrane systems provide cost-effective and energy-efficient solutions across various industries.
+
+--------------------------------------------------------------------------------
+
+URL: https://ugs.solutions/Temperature_Swing_Adsorption
+
+TECHNOLOGIES
+Temperature Swing Adsorption (TSA) is a proven technology for removing impurities such as siloxanes, VOCs, CO₂, and moisture from biogas or landfill gas, ensuring high-quality biomethane.
+During the adsorption phase, the gas passes through a column filled with adsorbent material (e.g., activated carbon or zeolites) at ambient temperature. Contaminants bind to the adsorbent, allowing purified methane to exit the system. Once the adsorbent reaches saturation, the desorption phase begins. The adsorbent is heated to release the captured impurities, which are safely vented or collected.
+After desorption, the adsorbent is cooled and ready for reuse. TSA’s ability to regenerate adsorbents makes it highly cost-effective and efficient. The system operates cyclically, ensuring continuous gas cleaning.
+TSA is ideal for biogas upgrading and landfill gas applications, achieving strict purity requirements for grid injection, LNG production, or energy recovery. With its reliable performance and scalability, TSA provides a sustainable solution for transforming raw gas into clean, valuable biomethane.
+
+--------------------------------------------------------------------------------
+
+URL: https://ugs.solutions/Research_and_Development
+
+TECHNOLOGIES
+At UGS, innovation is in our DNA. With access to over 70 patents in gas separation technology, we have been at the forefront of membrane technology development since its inception. Driven by a passion for discovery and a relentless curiosity, we continuously explore new ideas and applications to improve and expand our product offerings.
+Our R&D approach is comprehensive, encompassing the full cycle of product development. From designing innovative processes from scratch to virtual simulations, process modeling, and pilot plant testing, we ensure every product meets or exceeds performance expectations before it reaches the market.
+UGS has pioneered advancements in membrane technology, PSA, TSA, and various hybrid solutions that seamlessly combine different technologies. Our expertise also extends to the hydrogen sector, where we have developed an innovative clean hydrogen production system.
+Through our commitment to innovation, we don’t just follow industry trends—we create them, delivering solutions that shape the future of gas separation and beyond.
+
+--------------------------------------------------------------------------------
+
+URL: https://ugs.solutions/Contact
+
+100 N FM 3083 Rd E NorthStar Industrial Park,Bldg D, 77303Conroe, TX
+sales@ugs.solutions+1 346 353 1048
+An der Pönt 4440885 Ratingen,Germany
+info@ugseurope.com+49 2102 5649 730
+
+--------------------------------------------------------------------------------
+
+URL: https://ugs.solutions/Careers
+
+Toggle navigation
+About
+Solutions
+Biogas Upgrading
+Landfill Gas Upgrading
+Biomethane Polishing
+Biomethane De-Oxygenation
+Gas Compression Systems
+Nitrogen Rejection Units (NRU)
+Technologies
+Membrane Separation
+Pressure Swing Adsorption (PSA/NRU)
+Temperature Swing Adsorption (TSA)
+Research & Development
+Services
+Contact
+Careers
+LinkedIn
+About
+Solutions
+Technologies
+Services
+Contact
+Solutions
+Biogas Upgrading
+Landfill Gas Upgrading
+Biomethane Polishing
+Biomethane De-Oxygenation
+Gas Compression Systems
+Nitrogen Rejection Units (NRU)
+Back
+Technologies
+Membrane Separation
+Pressure Swing Adsorption (PSA/NRU)
+Temperature Swing Adsorption (TSA)
+Research & Development
+Back
+Under Construction...
+
+--------------------------------------------------------------------------------
+
+URL: https://ugs.solutions/linkedin
+
+Stay connected with our latest news and updates
+Stay informed about our projects, innovations, and industry insights through our LinkedIn posts. Connect with us to learn more about our work in gas separation technology and energy transition solutions.
+
+--------------------------------------------------------------------------------
+
+URL: https://ugs.solutions/index.html
+
+Product Gas Compressor at Illinois Landfill. Shipped: October 2023
+Containerized Biogas Upgrading System in Wisconsin. Installed & Commissioned: October 2023
+Biogas Upgrading System in California. Installed & Commissioned: 2021
+Biogas Upgrading System at Illinois Landfill. Installed & Commissioned: 2022
+Biogas Upgrading System at Illinois Landfill. Installed & Commissioned: 2022
+
+--------------------------------------------------------------------------------
+
+URL: https://ugs.solutions/Disclaimer
+
+The information contained in this website is for general information purposes only. The information is provided by UGS LLC and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.
+Through this website you are able to link to other websites which are not under the control of UGS LLC. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
+Every effort is made to keep the website up and running smoothly. However, UGS LLC takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
+
+--------------------------------------------------------------------------------

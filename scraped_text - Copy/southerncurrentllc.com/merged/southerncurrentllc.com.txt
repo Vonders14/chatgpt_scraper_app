@@ -1,0 +1,18 @@
+ROOT: https://southerncurrentllc.com/
+SCRAPED_AT_UTC: 2026-02-11T20:36:33.335013Z
+PAGES_INCLUDED: 1
+
+================================================================================
+
+URL: https://southerncurrentllc.com/
+
+Generation
+Harnessing energy to power our communities.
+Transmission
+Modernizing energy infrastructure to efficiently deliver affordable, reliable electricity.
+Storage
+Increasing grid reliability and resiliency with advanced battery systems.
+Securing our energy future
+Building and delivering reliable power directly to where people live is not only our opportunity—it is our responsibility.
+
+--------------------------------------------------------------------------------

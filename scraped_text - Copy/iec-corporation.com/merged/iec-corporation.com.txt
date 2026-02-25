@@ -1,0 +1,415 @@
+ROOT: https://iec-corporation.com/
+SCRAPED_AT_UTC: 2026-02-11T20:13:52.713859Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://iec-corporation.com/
+
+IEC Corporation is a multi-discipline engineering, design, and construction firm dedicated to Shaping the Future of Energy™ in the electric power industry. We provide full service and turnkey support from design and engineering through construction, implementation, testing and operations. Our extensive experience and proven capability with a variety of power technologies gives our clients the resources needed to successfully complete projects on time and under budget. We invite you to learn more about our experience and services.
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/services
+
+Solar Photovoltaic
+Wind Energy
+Hydroelectric
+Battery Energy Storage Systems
+Power Plant + BESS Integration
+Microgrid
+Pumped Storage
+Transmission and Distribution
+Substations
+Substation + BESS Integration
+Controls & Protection
+Carbon Reduction Upgrades
+Hydrogen/ Natural Gas Blending
+Renewable Fuels
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/jobs
+
+"I enjoy the open work culture at IEC; the atmosphere is welcoming and supportive. We get to work with some of the most exciting projects in the industry and there is always room to learn and implement new skills."
+"At IEC, employees are empowered and are constantly reminded that we are the most important resource. There’s an appealing combination of entrepreneurial spirit and teamwork here that makes each day interesting."
+IEC Corporation is seeking Senior Electrical Engineers with power industry experience to provide engineering, design, and project management services for utility-scale electrical systems for our Sacramento, California office.
+IEC Corporation is seeking Junior Electrical Engineers to support electrical power projects for our Sacramento, California office. Specific work will include supporting the design of power plants, high voltage substations, and electrical service facilities. This is a permanent full-time position.
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/contact
+
+Sacramento Headquarters
+8775 Folsom Blvd., Suite 110
+Sacramento, CA 95826
+Phone: 916.383.6000
+Fax: 916.383.6010
+New Business
+Eric Quintero, President
+Phone: 916.345.0301
+Email: equintero@iec-corporation.com
+Chan Lam, EPC Program Manager
+Phone: 916.345.0307
+Email: clam@iec-corporation.com
+Accounting & Billing
+Brenda Evans
+Phone: 916.345.0331
+Email: bevans@iec-corporation.com
+Sacramento Headquarters
+3100 Zinfandel Drive, Suite 350
+Rancho Cordova, CA 95670
+Phone: 916.383.6000
+Fax: 916.383.6010
+New Business
+Eric Quintero, Managing Principal
+Phone: 916.345.0301
+Email: equintero@iec-corporation.com
+Accounting & Billing
+Brenda Evans
+Phone: 916.345.0331
+Email: bevans@iec-corporation.com
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/renewable-energy
+
+Engineering and building tomorrow's power
+Engineering and building tomorrow's power
+IEC Corporation provides energy consulting services in the areas of wind, geothermal, biomass, photovoltaic, solar thermal, hydropower, landfill gas, municipal solid waste, biodiesel, and digester gas. This includes developing complete solicitations; performing resource assessment and feasibility studies for multiple renewable technologies; and providing design, engineering, and construction management services for both large and small projects. We focus on renewable technologies with high development potential such as: wind, solar, biomass and landfill gas. But we are also able to introduce our clients to additional emerging technologies of interest.
+IEC has diverse engineering and consulting experience in the deployment of solar power technologies for both commercial and utility installations. Our project experience ranges from small PV installations to large utility-scale projects, with several megawatts currently producing power. Our consulting team helps each client navigate key PV project issues prior to project development—including permitting, siting, physical orientation, and cost competitiveness—to identify project constraints and determine financial viability. We are then able to apply our field-tested experience to move the project through the design and installation phases.
+IEC professionals are highly experienced in the conceptual and detailed development of wind plants, having been involved in wind projects from initial assessment and design through project operations and maintenance. This unique perspective gives us the ability to identify wind projects that will be efficient in energy production and cost-effective in the construction and O&M phases.
+IEC Corporation provides analysis, engineering, design, and construction services to support both new hydroelectric developments and the rehabilitation or modernization of existing hydroelectric facilities. Our staff has worked on large hydroelectric facilities throughout the western United States ranging in size from less than 6 MW to more than 1,000 MW. These projects have included high-head and low-head plants, large reservoir, and pumped storage facilities, and configurations that include underground cavern and surface powerhouses.
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/energy-storage
+
+Saving Power for Tomorrow
+Saving Power for Tomorrow
+Energy Storage has become a focal point within the industry as its potential for transforming the grid and reducing carbon emissions becomes more economically feasible. As a full-service energy market expert, IEC provides all phases of energy storage services, from initial market assessment through turnkey engineering, procurement, and construction (EPC) services, for utility-scale and commercial energy storage projects.
+As a turnkey energy storage contractor, IEC designs and installs energy storage projects for multiple technologies, including battery energy storage systems for utilities, commercial clients, and school districts. Our contracting team conducts permitting, design, and engineering and executes project implementation, including construction, installation, and commissioning to achieve commercial operation.
+Center Peaker Battery Energy Storage (BES) Project (10MW)
+Owner: Southern California Edison
+IEC was contracted to provide complete design services for a Battery Energy Storage project owned by Southern California Edison (SCE). For the Center Peaker Battery Energy Storage Project, IEC was the Engineer of Record (EOR) and provided detailed engineering services for civil/structural, electrical, and mechanical. IEC’s scope of work included developing and designing complete permit and construction packages which required us to develop a project design criteria and work closely with the owner, equipment suppliers, and construction contractor to ensure all project requirements were met. The project was approved by both SCE and the local building department and became operational early 2017. The battery project includes a 10MW/4.3MWh (AC) General Electric Co. (“GE”) Battery Energy Storage System that will be fully integrated with an existing power plant.
+Grapeland Peaker BES Project (10MW)
+Owner: Southern California Edison
+IEC was contracted to provide complete design services for a second Battery Energy Storage project owned by Southern California Edison (SCE). For the Grapeland Peaker Battery Energy Storage Project, IEC was the Engineer of Record (EOR) and provided detailed engineering services for civil/structural, electrical, and mechanical. IEC’s scope of work included developing and designing complete permit and construction packages which required us to develop a project design criteria and work closely with the owner, equipment suppliers, and construction contractor to ensure all project requirements were met. The project was approved by both SCE and the local building department and became operational early 2017. The battery technology utilizes lithium ion battery modules in a prefabricated enclosure, connected to industrial grade power inverters, and is connected to the existing peaker plant 13.8 kV electrical system. This project is also a 10MW/4.3MWh (AC) General Electric Co. (“GE”) Battery Energy Storage System that will be fully integrated with an existing power plant.
+OCI Solar Battery Energy Storage (BES) System
+Owner: OCI Solar Power LLC
+The OCI Solar Battery Energy Storage Project is a new 1 MW battery storage system and PV System at the Alamo 1 Substation. The new battery storage ties into the existing substation and provides an additional source to the grid. IEC provided engineering design services for modifying the existing substation protection scheme to incorporate the new energy storage system. Services included designing a new control scheme between the solar plant, battery energy storage project, existing substation and utility interconnection. The new substation protection design ensures automatic electrical coordination for both solar and energy storage systems.
+Fort Hunter Liggett and Camp Parks BES
+Owner: PG&E and U.S. Army Corps, CA
+IEC prepared several feasibility studies to install battery energy storage (BES) systems for the U.S. Army Corps at their Fort Hunter Liggett and Camp Parks facilities in California.
+As the Army Corps’ facilitator, Pacific Gas & Electric (PG&E) was responsible to hire a battery storage expert to complete the study. Through a solicitation process, PG&E called upon the expertise of IEC to provide engineering services. The study involved selecting BES equipment, preparing preliminary design drawings, and providing an engineer’s cost estimate for four (4) sites which included various system configurations at each site. The BES system sizes evaluated were 3MW/6MWh; 2MW/4MWh; 500kW/1MWh; 250kW/500kWh.
+Two sites had existing solar PV systems that the Army Corps wanted to integrate with the BES. IEC engineered AC-coupled and DC-coupled configuration options for connecting the existing PV systems to new BES systems. For each configuration involving solar, a life cycle cost savings evaluation was prepared using facility electric rates, PV system generation, and BES storage capacity.
+IEC is committed to helping our clients work through the various technical, commercial, and permitting hurdles to meet the unique energy storage needs of each client and implement clean and cost-effective energy storage solutions into their energy portfolio. Our experience and continued focus on clean, reliable, and cost-effective energy solutions give our clients the tools they need to create a sustainable future.
+Our experts also evaluate and model the potential capital costs and technical variables involved for each energy storage project—such as peak output, energy storage duration, response time, technology, durability, market scenarios, and business models—to weigh against expected benefits. This is a crucial component of the energy planning process.
+IEC evaluates and balances each energy storage solution to consider capital costs, operating costs and revenue streams such as energy arbitrage, flexible capacity value, system balancing and congestion management. Due to each project’s unique criteria, IEC works with our clients to develop customized financial models to evaluate and rank each potential project based on potential value streams and the client’s energy goals.
+IEC advises our utility, commercial, and industrial clients on the best fit storage technology for their application. Our consulting capabilities include technical knowledge for both large grid-scale energy storage applications as well as smaller commercial-scale solutions. Technologies include battery storage, pumped hydro, thermal energy storage (TES), compressed air energy storage (CAES), and hydrogen.
+Our project team evaluates battery storage options to develop and execute customized solutions that meet the specific needs and demands of our utility and commercial clients based on resources, location/footprint, regulations, existing systems, environment, and schedules. As an EPC contractor, we are not attached to one type of technology, and are instead focused on finding the right state-of-the art battery technology for each project, including lithium-ion technologies, lead-acid products, and flow cell batteries. We maintain relationships with a wide variety of product developers and suppliers to facilitate a timely procurement process and ensure quality equipment. In addition, our engineers are experienced in developing projects that integrate battery storage systems with existing power generation facilities.
+Pumped storage is a proven grid-scale energy storage technology with the capacity to store large quantities of electricity. These facilities supply a sustainable, reliable, and emission-free energy source that provides frequency control and reserve generation. The technology is also dispatchable to help accommodate increasing amounts of intermittent energy. IEC's staff has worked on large hydroelectric facilities throughout the western United States ranging in size from less than 6 MW to more than 400 MW. These projects have included turbines and pump-turbines configured in and aboveground and belowground powerhouses. Our team is able to develop functional designs for fully integrated hydroelectric pumped-storage powerhouses while facilitating regulatory acceptance and ensuring optimal integration with the overall utility systems and power grid. We maintain a particular focus on properly addressing environmental and community impacts and ensuring safety during construction and operations.
+Thermal Energy Storage (TES) Systems allow excess thermal energy to be collected for later use while expanding the capacity of existing chilled water systems. These systems save utility costs, reduce the need for new generating facilities and/or grid upgrades, and assist in peak shaving efforts. Our team has supported a wide range of thermal energy and energy storage options for facilities ranging from hospitals, hotels, and prisons to utility-scale power facilities and industrial facilities. IEC works with our utility and commercial/industrial clients to model and analyze the optimum TES equipment and configuration, as well as providing detailed engineering design, procurement and construction of the system.
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/power-delivery
+
+Delivering Reliability
+Delivering Reliability
+Electric utilities must continually assess demands and issues such as regulatory compliance, aging facilities and antiquated technology, interconnection issues, competition, and limited resources to upgrade electric T&D infrastructure. These challenges mean utilities and interconnecting generators require consultants with in-depth industry knowledge and experience.
+At IEC Corporation, our experts are able to analyze a wide range of technical and business-related issues associated with the transmission and distribution power system and are experienced with solving the unique challenges involved with the planning, operations, and maintenance of electric utility systems and equipment.
+This expertise allows us to solve power system problems and guide our clients in maintaining compliance, extending asset life, controlling costs, negotiating and managing interconnection, and improving reliability and performance.
+IEC works closely with each client to determine whether existing lines or substations can be retrofitted and modernized to increase capacity or whether new facilities are required. Our engineers and specialists also maintain a particular focus on cost, maintenance, safety, reliability, and visual impact when designing each project. IEC serves our clients through the entire design process – from initial site, system, and facility review and planning to detailed engineering, construction and commissioning – for distribution and high voltage transmission substations, including new station designs through 230 kV, and station expansions and upgrades.
+Power protection systems do just what the name implies: they protect your equipment from the effects of power surges and power failures. The electrical power system is a highly complex, dynamic entity, and the entire grid could be put at risk by one malfunction or a carelessly set relay. IEC employs electrical engineers with extensive experience as system protection and control engineers. Our engineers are familiar with both electro-mechanical and microprocessor-based relays for transmission, distribution, and generation protection systems.
+With a properly designed SCADA system, a system operator can immediately identify issues and send repair crews to the site of the problem. IEC’s engineers work closely with utility and public agency engineers in issues involving RTU and SCADA, and stay current with the related technology and standards. Our experts can program enhanced features into each electric SCADA system to control breakers and tie switches to allow ease of load transfers from one feeder or substation to another. Our utility clients can then see the exact configuration and easily monitor the operational status of the system at all times.
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/power-generation
+
+Trusted Experience
+Trusted Experience
+Power generation systems are significant investments which will, if planned, designed, and maintained correctly, remain in operation for decades. IEC provides comprehensive engineering and design services for new generating facilities, expansions, modifications, upgrades, and scheduled improvements to keep power generation facilities in service and generating power at optimal efficiency. IEC provides consulting and technical services from planning and conceptual design through design implementation and operations.
+IEC Corporation provides technical and management services for gas-fired power generation facilities in all configurations: simple cycle/peaker, combined cycle, and cogeneration. Services include support for the design, expansion, modification, and repowering of facilities from small (5 MW) to large (500+ MW) power plants. IEC is helping to guide its utility clients in the design of new plants and the retrofit of existing plants. We have successfully provided engineering and/or construction management services for more than 30 utility scale gas fired power generation projects. This includes experience with a diverse range of gas turbines including GE LMS100, GE LM6000, GE Frame 5, GE Frame 7FA, GE Frame 7E, Rolls Royce, Pratt & Whitney FT4, Siemens V84.2 and Siemens-Westinghouse 501FD units, among others.
+Reciprocating engine power plants have advantageous characteristics for today's electricity markets, including quick-start capability, flexible dispatching for peaking operation, modular designs, ability to operate on multiple fuels, less complicating project siting, and increased reliability and efficiency. Reciprocating engine sizes for power generation range from 4 to 20 MW.
+IEC's engineering team is skilled in both medium- and high-speed reciprocating engine design and engineering. Our experts design experience extends from single-engine black-start or emergency/back-up generators to multi-engine prime power installations using a variety of fuels, including natural gas, light fuel oil, heavy fuel oil, biodiesel, biofuels, and crude oil.
+Fuel cells are available in many different application areas from small power up to utility-scale and are appropriate for both intermittent use and supplemental power. As the costs have been significantly reduced over the past few years, fuel cells offer a viable business case today for many of our clients.
+IEC is well versed in the development and installation of fuel cells for use in portable and stationary applications. We work with our clients and fuel cell manufacturers to model and install the optimal components and systems for each site. We also perform reliability and safety assessments and warranty review to ensure our clients receive the fuel cell solution best suited for their needs.
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/project-gallery
+
+SOLAR ENERGY
+WIND ENERGY
+HYDRO GENERATION
+BATTERY STORAGE
+ADVANCED RENEWABLES
+POWER DELIVERY
+GAS-FIRED & COGENERATION
+POWER STUDIES & ANALYSIS
+Solar Energy Project Profiles
+Wind Energy Project Profiles
+Hydro Generation Project Profiles
+Battery Storage Project Profiles
+Advanced Renewables Project Profiles
+Power Delivery Project Profiles
+Gas-Fired & Cogeneration Project Profiles
+Power Studies & Analysis Project Profiles
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/projects/algonquin-repowering-feasibility-study
+
+IEC performed an engineering feasibility study to repower a Westinghouse combustion turbine with a GE LM6000 PC SPRINT combustion turbine at Sanger, a combined cycle cogeneration facility. The study included developing plant performance and characteristics, evaluating equipment adequacy and capability, designing site layout and scope of work, etc. Based on the results of this study, Algonquin Power then hired IEC to provide preliminary design to begin the project.
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/projects/smud-mcclellan-upgrade-project-due-diligence-report
+
+The McClellan Combustion Turbine Plant was encountering significant problems related to its ultra-high temperature catalyst (1,005F). The Sacramento Municipal Utility District hired IEC to develop an economically viable alternative to bring the power plant into air emissions compliance. The report recommended installing a quench air system to reduce the exhaust duct to 850 degrees F and replacing the catalyst from an ultra high temperature catalyst to a high temperature catalyst. The report also included a capital cost estimate and schedule.
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/projects/silicon-valley-power-cogeneration-facility-feasibility-study
+
+IEC performed an engineering feasibility study to replace Silicon Valley Power's aging Allison 501-KB5 gas turbines with comparable but more efficient gas turbines. The study also involved developing plant performance profiles, evaluating equipment adequacy and capability, designing the site layout, and providing a scope of work document for the project.
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/projects/mid-woodland-generation-station-alternate-water-feasibility-study
+
+The Modesto Irrigation District identified a source of good-quality wastewater generated by the Foster Farms Dairy, a milk-processing facility located less than a mile from MID’s Power Plant. This water would potentially be suitable to replace raw water use at the Woodland Generation Station (WGS). IEC prepared a preliminary analysis of the feasibility of using this water to replace some of the WGS water demands. The report included a complete water quality analysis, potential uses within the power plant and its impact on the existing water quality. The report included a final recommendation and a cost benefit analysis.
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/projects/powercet-auburn-casino-cost-study
+
+IEC was contracted by PowerCET Corporation to develop a cost study to support the development of the Auburn Casino in Placer County. IEC engineers developed the equipment cost study to include a detailed line item spreadsheet outlining budgetary capital, O&M costs, present worth analysis, and payback periods for primary power generating equipment capable of producing 5MW as well as back-up generation. IEC evaluated four options in simple cycle and cogeneration confi guration for primary power: gas turbine using natural gas, small reciprocating generators using natural gas, large reciprocating generators using natural gas, and peak shaving using microturbines and PG&E. IEC also compared these four options with the traditional PG&E utility service options available to PG&E customers and evaluated two rate structures (primary and transmission). In addition to the primary electrical power supply, IEC evaluated back-up power generation options.
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/projects/cache-creek-casino-resort-feasibility-study
+
+IEC prepared a comprehensive feasibility study for the Cache Creek Hotel and Casino. The study consisted of conceptual schematics, engineering analysis, economic analysis, and a final recommendation. IEC evaluated the following options to meet the estimated 8MW electrical peak load for the hotel/casino and the estimated 35,000-lbs/hr steam load for the hotel (HVAC, hot water, laundry, etc.) The options studied included:
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/projects/mid-power-plant-operational-cost-model
+
+IEC prepared a complete Operational Cost Model for four (4) power plants for Modesto Irrigation District (MID). These plants included Woodland Power Generation Stations 1 & 2, McClure Power Generation Station, and Ripon Generation Station. The purpose of the study was to provide the cost for MID Operators to determine the best way to dispatch the plants. The cost model included inputs for fuel prices and power desired and calculated non-fuel variable operating costs and total operating cost. The model used custom heat rate curves prepared by IEC for each plant. MID was able to utilize the information provide by IEC to program their dispatch model and use it to dispatch their thermal plants.
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/projects/tulare-evolutions-plaza-feasibility-study
+
+IEC conducted a feasibility study for the Evolutions Plaza Building being developed by Tulare District Hospital in Tulare, CA. Evolutions Plaza is a commercial building housing retail shops and a fitness center. The study evaluated the feasibility of using two natural gas, lean-burn reciprocating engines to create electricity with cogeneration heat used for heating swimming pools in the facility. The reciprocating engines referenced were high efficiency, low emission models designed for continuous duty. IEC evaluated all equipment and services necessary to provide a turnkey package including switchgear, heat exchangers, emission reduction equipment, enclosures, site layout, utility routing, and interconnection.
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/projects/station-casinos-power-plant-performance-study
+
+For Station Casinos, IEC developed a performance study to determine the best alternative for distributive generation for their proposed casinos. The study evaluated a number of reciprocating engines and small gas turbines and matched the operational profiles with the demand profiles to determine the best technology and equipment size.
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/projects/feather-falls-casino-feasibility-study
+
+For the Feather Falls Casino, IEC conducted a feasibility study for an on-site power generation facility. The evaluation and report focused on three areas: 1) Power Plant Selection and Performance; 2) Natural Gas Interconnection; and 3) Electrical Transmission Interconnection and heat recovery for building heating and cooling. The study included identification and evaluation of several reciprocating engines and gas turbines. IEC provided recommendations and requirements for each area of the study and identified the steps necessary to develop the project.
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/projects/pilkington-heat-feasibility-study
+
+IEC provided conceptual engineering for Pilkington’s waste heat recovery project. Pilkington’s Lathrop facility manufactures flat glass products and, in the process, releases a substantial amount of thermal energy in the form of high temperature flue gas from the glass furnace. IEC evaluated the economics of developing a steam turbine generator (STG) facility powered by a waste heat boiler, which would be heated using the high temperature flue gas stream.
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/projects/smud-professional-engineering-services-contract-power-generation-department-feasibility-study
+
+These multiple contracts with the SMUD Generation Operations Department consisted of multidisciplinary engineering support for all of SMUD’s generation projects on an as-needed basis. SMUD’s generation plants include gas-fired plants powered by a variety of turbines, wind plant facilities, hydroelectric facilities, and solar arrays. To ensure responsive engineering services, IEC stayed flexible by subcontracting work to specialty firms and being able to quickly hire qualified engineers and other technical support staff for projects that were not originally anticipated. This cooperative approach is what clearly set IEC apart from other prime contractors and competitors. Work Authorizations: Work Authorizations, in order of assignment, included:
+- FERC/NERC Critical Infrastructure Protection Assessment & Compliance
+- Develop RFP for Meteorological Services for SMUD’s Weather Modification Program
+- Civil/Structural CBO Support for the Cosumnes Power Plant
+- Solano Wind Project Engineering Support
+- Solano Wind O&M Engineering Support
+- Solano Wind RTU DCN Engineering Support
+- Technical Support for Camino Hydro Powerhouse Unit #2 Outage
+- Review and Calibration of CHEOPs Model for Hydro Relicensing of Upper American River Project (UARP)
+- Design Services for Procter & Gamble Gas Pipeline Station Improvement
+- Technical Proposal Writing Support for CHP Solicitation
+- McClellan SCR Replacement Project Engineering Services
+- Russell Substation Final Design and Project Engineering
+- Engineering and Drafting Services for Hydro RTU Replacement Project
+- Camp Far West Hydro Controller Upgrade Engineering
+- Solano Wind Project Engineering Support and RFP Development
+- Economic Impact Analysis of UARP Iowa Hill Pumped Storage Development
+- Solano Wind Project Land Bank Engineering Support
+- Iowa Hill Pumped Storage Property Value Study
+- UARP Noise Assessment
+- Renewable Power Resources Preparation of Request for Information and Request for Proposals
+- Engineering and Specifications for UARP Governor/TSV Controls Upgrade Project
+- Gas Pipeline High Consequence Area Determination
+- Solano Wind Project Cal ISO Participating Intermittent Resource Program (PIRP) Engineering Support
+- Jaybird Hydro Adit Repair and Gerle Canal Liner Construction Management Inspection
+- UARP Relicensing Economic Studies Review
+- Jaybird Hydro Adit Repair Geological Consulting
+- Green Waste to Energy Economic Feasibility Study
+- Combined Heat and Power Opportunities Assessment
+- Solano Wind Project Engineering Support
+- White Rock Hydro Unit #2 Inspection
+- Solano Wind Project Construction Management Support
+- Jaybird Canyon Hydro Powerhouse Rock Fall Inspection and Recommendations
+- Review of Solar Thermal Power Purchase Agreement Proposals
+- Gas Pipeline Integrity Management Review and Engineering Procedures Development
+- PV Pioneer 1 Construction Management and Permitting Support
+- FERC UARP Flood Study Scope Development
+- Natural Gas Pipeline Vendor List Development and Pre-qualification
+- Gas Pipeline Internal Line Inspection RFP Development
+- Winters Inter-tie Station Improvement, Project Controls, and Coordination
+- Jaybird Hydro Penstock Rock Fall Inspection and Recommendations
+- Camp Far West Diversion Dam Level Sensing PLC Program Support
+- UARP and Valley RTU Retrofits
+- Civil/Structural Support for SMUD/El Dorado Irrigation District Bridge Proposal
+- Controls Support for McClellan Turbine Controls Upgrade RFP
+- Solano Wind Project Sale/Tax Benefit Monetization Technical Support
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/projects/smud-engineering-services-for-design-analysis-and-specification-preparation-for-generation-assets-and-supporting-infrastructure
+
+This contract with the SMUD Generation Operations Department was again awarded to IEC to provide multidisciplinary engineering support to all of SMUD’s generation projects on an as-needed basis. SMUD’s generation plants include gas-fired plants powered by a variety of turbines, wind plant facilities, hydroelectric facilities, and solar arrays. Work Authorizations: Work Authorizations, in order of assignment, have so far included:
+- Solano Wind Project Tax Benefit Technical Support
+- Co-Gen Plant RTU Upgrade Project
+- Gas Pipeline DOT Compliance Audit Support
+- McClellan CT Repair
+- UARP Governor/TSV Controls Upgrade and McClellan Controls Upgrade Projects DCN Packages
+- Gas Pipeline Flow Study
+- Business Continuity and Continuity of Operations Plans
+- Environmental and Preliminary Engineering Services for LM6000 Fleet Upgrades
+- Air Quality Compliance Audits
+- Due Diligence on Sacramento County Airport’s CHP and CUP system
+- RTU Upgrade for Power Generation Facilities
+- Solano Wind Project Meteorological Services
+- Landfill Gas for Combustion Turbines Feasibility & Cost Estimating
+- CVFA Digester Gas Processing
+- CVFA/CPP Digester Gas Air Quality Support
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/projects/smud-generation-operations-department-cosumnes-power-plant-project
+
+This contract with the SMUD Generation Operations Department was awarded to IEC to provide multidisciplinary engineering support. The work began as a small contract and quickly expanded into a multiple-year commitment for project coordination, owner’s engineering, Chief Building Official services, and construction management services.. Work Authorizations: Work Authorizations, in order of assignment, included 30-plus tasks:
+- Cosumnes Licensing and Engineering
+- SCA Peaker Project I&C Work
+- Engineering Design to Modify Morrison Creek Cross-Tie Station
+- Construction Services RFQ Development
+- Cultural Resource Remote Sensing Geophysical Survey
+- CBO Review Support
+- Document Control
+- Assistance with Permit Drawings
+- Fire Protection Engineering
+- Design and Drafting for Pipeline Extension
+- CEC Compliance and CBO Document Control Support
+- Gas Pipeline Inspection
+- Quality Assurance Support
+- Construction Engineering Services
+- Licensing and Compliance Project Management
+- Team Development & Right-of-Way Verification
+- Team Development & Safety Program
+- Worker Environmental Awareness Training Video Production
+- Special Inspection, Testing, and Laboratory Services
+- Development of Gas Pipeline Pigging RFP
+- Surveying Services and Development of Base Map
+- Development of Environmental Drawings
+- Gas Pipeline Resident Engineer
+- Inspector Training
+- Construction Superintendent (Chief Inspector)
+- Pre-Construction Surveying Support
+- Gas Pipeline Inspection
+- Contract Administration Support Services
+- Field Electrical Engineer
+- CBO Review Support Services
+- Gas Pipeline Submittal Verification Coordinator
+- Water Supply Integrity Evaluation
+- Piping & Support Design Analysis
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/projects/smud-ar-dgt-department-technical-support-services-contracts
+
+These various contracts with the SMUD AR&DGT Department consist of multidisciplinary technical support services for all of SMUD’s renewable and distributed generation projects on an as-needed basis. Work Authorizations included:
+Advanced Renewables, Distributed Generation and Greenhouse Gas
+- Identify Eligible Renewables from LFG
+- GHG Emissions Accounting & Reporting Process Documentation
+- Implement GHG Tracking & Reporting Software
+- Develop CCAR Certifiable GHG Accounting for SMUD Business & Maintenance Facilities
+- Climate Change Issue Risk Assessment
+- Minor Support for CalEPA
+- CHP Program Technical Assistance
+- Prepare RFO for Renewable Energy Projects
+- Railyards Integrated Energy Plan Feasibility Study
+- Climate Change Issue Risk Assessment
+- CHP Economic Feasibility Studies
+- Landfill Gas to Electricity Ownership Options Study
+- 2006 Renewables RFO Results Analyses
+- Fredonyer Wind Data Reports
+- Railyards Addition of County Loads Option
+Distributed Generation and Combined Cooling, Heating, and Power
+- Railyards Addition of County Loads Option (con’t.)
+- Railyards Cooling Only Option
+- Kaiser Folsom CCHP Feasibility Study
+- Railyards Value Engineering Study
+- Holiday Inn Characterization Study
+- CCHP Programmatic Support
+- Folsom Prison Fuel Cell CHP Feasibility Study
+- Railyards Feasibility Study Support
+- Airport Due Diligence Additional Scope
+- Sutter Elk Grove Cogeneration Study
+- Railyards Feasibility Study Support and Update
+- Railyards Ice Thermal Energy Storage
+- Kaister Permanente Sacramento Medical Center CHP Feasibility Study
+- Folsom Prison Cogeneration Study Tariff Update & Sensitivity Study
+Renewable Portfolio Standard & Electrical Transmission
+- Analysis of RFO Proposals
+- Susanville Met Towers
+- Fredonyer Wind 3&4 Q07
+- Evaluate RFO Proposals
+- Repair of Fredonyer Met Towers
+- Local Renewable Generation Assessment
+- Evaluation of 2008 Renewables RFO
+- Thermal & Hydro Benchmarking Services
+- Food Waste & Liquid Food Processing Waste Survey
+- Feasibility Study of the Use of Additives to Enhance Biogas Production
+- CCHP Market Assessment for Biogas Plants
+- Food Waste Pre-Processing for Co-Digestion Demonstration
+- CSI Proposal Development Support
+- Commissioning PV/Battery Telecom System
+- Lassen & Abert Rim Wind Data Monitoring and Quarterly Reports
+Biomass
+- POTW Grease Waste Feasibility Study
+- Assist with Due Diligence on Conversion Technologies
+- Preliminary Assessment of Co-Digestion WDRs and Impact on Digesters
+Photovoltaic
+- General PV Consulting
+- Solarsmart Training
+- ZEH Distribution
+- Advanced PV Training Course
+- Conduct PV System Workshop
+- PV Inverter Circuit Board Repairs and Training
+- CEC ReGen Report
+- AstroPower Report
+- CEC ReGen Final Report
+- Editing Subcontractors Drafts
+- Finalizing Evaluation of PV Proposals in 2008
+- Commissioning PV/Battery Powered Telecom System
+- Highway 50 Photovoltaic Study, Rendering, and Reports
+
+--------------------------------------------------------------------------------
+
+URL: https://iec-corporation.com/projects/smud-sacramento-airport-central-utility-plant-cost-analysis
+
+IEC conducted this analysis relating to the Central Utility Plant (CUP) and combined heat and power (CHP) at the Sacramento International Airport to evaluate the cost and equipment selection for an advanced energy facility to serve the planned new terminal, hotel, and concourse at the Airport. In addition to the due diligence study, IEC performed financial analysis of SMUD ownership of a CHP and CUP plant, modeled TES, and evaluated the use of a larger engine for the SMUD ownership case. The financial analysis determined the net present cost (NPC) of each ownership scenario. This allowed the District to compare real value of different system scenarios. In addition, net present value (NPV) and internal rate of return (IRR) were determined for each proposed cogeneration unit under various ownership options. To calculate the NPV and IRR values, IEC estimated the capital costs and operation and maintenance costs, taxes, and incentives for each financial evaluation. These results enabled IEC to estimate potential tariffs that could be realized for hot water and chilled water sales from the central utility plant.
+
+--------------------------------------------------------------------------------

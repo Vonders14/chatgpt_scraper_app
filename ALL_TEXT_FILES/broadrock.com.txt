@@ -1,0 +1,25 @@
+ROOT: https://broadrock.com/
+SCRAPED_AT_UTC: 2026-02-11T19:53:56.060474Z
+PAGES_INCLUDED: 1
+
+================================================================================
+
+URL: https://broadrock.com/
+
+There is no one solution to the world’s or our customers’ energy needs. At EDL, tailored solutions means options. Our extensive global experience allows us to think differently. Always developing, our energy expertise expands across seven key areas.
+Anaerobic digestion (AD) is a natural process that uses microorganisms to break down organic waste—such as food scraps, crops and agricultural by-products—in the absence of oxygen.
+Read more
+As the world transitions to renewables, EDL is growing its portfolio of world-class wind and solar projects across Australia, with an increasing emphasis on market leading high penetration renewables for off-grid locations.
+Read more
+EDL is a world leader in the development and operation of ground breaking high penetration renewable hybrid technologies which use sustainable energy sources alongside proven conventional technologies.
+Read more
+EDL is providing industry-leading solutions for a significant number of major global coal miners in Australia by using their mine gas to generate electricity and reducing site emissions.
+Read more
+EDL pioneered the introduction and development of the landfill gas energy sector in Australia and continues to lead the way in its advancement globally.
+Read more
+EDL has a proven reputation for continually innovating to deliver tailored solutions for our LNG customers to meet their energy needs.
+Read more
+EDL is investing in work that goes beyond the conversion of gas to electricity, and upgrading LFG and WCMG to green gas or renewable natural gas (RNG).
+Read more
+
+--------------------------------------------------------------------------------

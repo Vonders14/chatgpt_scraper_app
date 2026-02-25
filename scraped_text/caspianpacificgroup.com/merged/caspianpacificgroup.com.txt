@@ -1,0 +1,322 @@
+ROOT: https://caspianpacificgroup.com/
+SCRAPED_AT_UTC: 2026-02-11T19:55:01.805984Z
+PAGES_INCLUDED: 20
+
+================================================================================
+
+URL: https://caspianpacificgroup.com/
+
+Caspian Pacific Group
+United Kingdom 3rd Floor. 86-90,Paul Street London EC2A 4NE United Kingdom +44 20 7754 5509 groupinfo@caspianpacificgroup.com
+Nigeria 3rd Floor, Ocean Rise House 19, Allen Avenue Ikeja, Lagos +234 906 283 2027 powernigeria@caspianpacificgroup.com
+Sierra Leone 63, Berwick Street Freetown Sierra Leone +232 99 81 37 37 sierraleone@caspianpacificgroup.com
+To find our more about our services, please contact us using the details below
++442077545509
+
+--------------------------------------------------------------------------------
+
+URL: https://www.caspianpacificgroup.com/projects/
+
+The Goldridge Caspian Pacific Power Nigeria has been established to exclusively provide electricity in an ecofriendly way to the un-served and under-served Nigerians. Caspian Pacific Power Nigeria business activities involve generating off grid captive electricity for Nigeria residents living around Alfa Bay/Ibeju Lekki, a suburb part of Lagos. Particularly, we focus on leveraging disruptive technologies and innovative business models in increasing electricity access especially in achieving the UN SDG 7 (universal access by 2030).
+Admiralty homes is a real estate company situated at Igbo-Efon in Ibeju-Lekki local government area of Lagos state. They are among the largest real estate companies in Nigeria that deal majorly in building up of residential estates which are mostly serviced apartments and flats. They have developed different estates around the Lekki corridor with not less than 2,000 houses within their portfolio. With the rapid development and population growth in Lagos, houses have sprung up around the Alfa Bay Lekki which the national grid has been unable to cater for.
+Against the background above, The Goldridge Caspian Pacific Power Ltd is developing a captive off grid natural gas fired power solution together with its distribution infrastructures to cater for the people identified above. The Goldridge Caspian Pacific Power is developing a 2.4MW Natural Gas Power Plant together with its transmission and distribution infrastructures in Alfa Bay area of Lekki
+Admiralty homes is responsible for the provision of power supply to all their estates, this is from the national grid through agreements with the Eko electricity distribution company and the use of central mini diesel generators. With the rapid development and population growth in Lagos, houses have sprung up around the Alfa Bay Lekki which the national grid has been unable to cater for.
+Caspian Pacific Power Nigeria has therefore developed power solutions for the following estates based on their energy requirements as set out in the table below.
+The basic concept for power plant is to arrange equipment based on their individual function(s) as well as interaction with other dependent plant ancillaries. This is to facilitate ease of coordination / monitoring on one side and to ensure safe operation of the entire power plant on the other hand. The main equipment which is an electro-mechanical equipment shall be containerized and installed on a portion of the plant while its ancillaries that can be accommodated on top of the containerized equipment shall be so located. Other Balance of Plant (BOP) items like step-up or station transformers shall be arranged to ensure safe operation of the plant. A section of the land shall be used for downloading / receiving bay for the chosen fuel (LNG). All necessary equipment needed for the fuel system shall be located on this axis. The proposed site shall consist of an electrical room and administrative office which shall together form one storey building. Other important plant associated equipment like fire water tank, fire water pumps, fire water pipe reticulation network shall be located based on functionality, aesthetic and safety. Area to be covered and impacted by the proposed power plant is marked out in the plant in the next section below.
+At the project location, a comfortable land footprint is earmarked for the project and shall be enough to accommodate all generation main equipment, balance of plant (BOP) and building. The equipment shall be arranged in such a way to face the nearby major access road. The layout has been divided into electromechanical section, fuel bay section, control room / admin building section, car park section and open space. The layout will accommodate the main equipment, balance of plant (BOP) and other plant ancillaries. Provision is made for LNG area with adequate consideration for easy manoeuvring of trucks within the power plant. The generators were arranged to allow for good ventilation as well as easy access for vehicular and personnel movement around the main equipment during top end or major overhaul maintenance. Electrical control room and administrative building shall be a one storey building.
+For the purposed of future expansion, extra concrete plinths is provided to accommodate installation of new gas generators at each project location. Provision shall has also been made in the electrical panel for connection and integration of the generator if so installed in future.
+The operation philosophy for the power station is determined by the available load profile during operation. During commissioning, all gas generators shall be integrated and synchronized to use any one generator or combination of more than one to meet the load demand.
+The primary aim of this initial development is to install gas generators and get them synchronized as maintenance will be carried out at off-peak load periods such that at least one gas generator will be in operation to meet up the power demands of consumers and ensure that there is no downtime. For this purpose, gas generators shall be brought online to respond to load demand based on priority given to each generator as programmed during commissioning.
+Operation of the proposed power plant is carried out by experienced technical personnel who will be trained up to OEM certification level for an operator. This will ensure that downtime is reduced to the barest minimum or totally eliminated where possible.
+Operators are deployed in two or three shifts per day and each shift shall comprise of at least two technical operators (Mechanical & Electrical). These operators shall carry out day-to-day running of the plant, data gathering and plant monitoring. The plant operators shall also carry out preventive and scheduled maintenance as directed in the OEM manual. However, scheduled and shutdown maintenance that requires specialized skills and tools shall be carried out by OEM representative on a call-out basis.
+Power evacuation is one of the integral parts of this project as it defines how power generated will get to the respective end users. Power distribution network serves as interface between the generation station on one hand and the metering system on the other hand. The custody transfer point shall serve as the battery limit for generation work and take-off for distribution. The battery limit for generation on this project shall be at the two (2) outgoing feeders in the 11kV or 11kv MV switchgear. 11kV network and all LV lines are to be constructed and installed in conformity with NEMSA regulations and standards. The Project is taking a holistic approach to see that
+power is evacuated from generation station and distributed to the end users within a reasonable budget. Detailed distribution design shall ensure that energy loss during transmission is reduced to the barest minimum.
+For distribution work, customers are categorized based on their physical location to form what is known as distribution layout. The market was divided into eleven (11) sections. Adequate consideration was given to each section to ensure that their energy demand is proportional to electrical distribution infrastructure planned to be deployed to each section.
+Due to other consideration the proposed distribution route shall be fully underground. This is a system of distribution network where electric wires /cables, are buried underground while transformers and other distribution equipment are suspended on supports with the aid of square concrete.
+Distribution topology being proposed for each of the project location is a Ring Network. A ring network is the preferred option because of its robustness and high reliability. In the ring network, distribution equipment is powered by more than one feeder. In this case if one of the two feeders is out due to fault or maintenance, the distribution network can still be energized from the other feeder connected to the network. In this way, the supply to the consumers is not disrupted. In addition to this, the ring main system is provided with section isolators at different strategic points along the network. If any fault occurs on any section of the ring, the section can easily be isolated by opening the associated section isolators on both sides of the faulty zone transformer directly which implies that when there is distribution failure / problem on a section, it can be fed from another section thereby guaranteeing power supply most of the times, hence the high reliability. The distribution topology to be adopted is an overhead system with 40-feet precast square concrete poles. The 11KV overhead distribution network will be constructed with pole-mounted 11/0.415kV Transformers with varying sizes based on the load profile and power demand of the area.
+The underground distribution network has several advantages compared to the overhead technology, namely:
+(i) It is less prone to wind and natural disasters as heavy winds pulls down overhead poles and also overhead line are more prone to thunder strikes.
+(ii) It minimizes power theft as it is difficult to tap.
+(iii) The underground cables are difficult to vandalize as it requires serious digging before this can be done.
+The transformer capacities will range from a minimum of 100kVA to a maximum of 500kVA and 11/0.415kV Transformers are to be protected by panels which have been installed by adequately rated protective breakers. The entire 11kV Distribution network shall be protected at the 11KV Medium Voltage panels with the appropriate protective devices.
+Substations on this project shall be Step-down substations and shall be for distribution only. Substation shall be constructed at strategic locations according to section or division of the community. This is to be able to produce usable voltage required by customers in the market and for operational flexibility. Substation for this project shall consist of the following:
+i. Primary power lines which shall be at 11kV
+ii. Secondary power line which shall be at 415V and 220V.
+iii. Ground wire and strips for earthing of substation
+iv. Step-down transformer for voltage conversion
+v. Ring Master Unit (RMU)
+vi. Low voltage Panel
+vii. Security mesh fencing
+viii. Lightning arrestor
+
+--------------------------------------------------------------------------------
+
+URL: https://www.caspianpacificgroup.com/projects/"
+
+The Goldridge Caspian Pacific Power Nigeria has been established to exclusively provide electricity in an ecofriendly way to the un-served and under-served Nigerians. Caspian Pacific Power Nigeria business activities involve generating off grid captive electricity for Nigeria residents living around Alfa Bay/Ibeju Lekki, a suburb part of Lagos. Particularly, we focus on leveraging disruptive technologies and innovative business models in increasing electricity access especially in achieving the UN SDG 7 (universal access by 2030).
+Admiralty homes is a real estate company situated at Igbo-Efon in Ibeju-Lekki local government area of Lagos state. They are among the largest real estate companies in Nigeria that deal majorly in building up of residential estates which are mostly serviced apartments and flats. They have developed different estates around the Lekki corridor with not less than 2,000 houses within their portfolio. With the rapid development and population growth in Lagos, houses have sprung up around the Alfa Bay Lekki which the national grid has been unable to cater for.
+Against the background above, The Goldridge Caspian Pacific Power Ltd is developing a captive off grid natural gas fired power solution together with its distribution infrastructures to cater for the people identified above. The Goldridge Caspian Pacific Power is developing a 2.4MW Natural Gas Power Plant together with its transmission and distribution infrastructures in Alfa Bay area of Lekki
+Admiralty homes is responsible for the provision of power supply to all their estates, this is from the national grid through agreements with the Eko electricity distribution company and the use of central mini diesel generators. With the rapid development and population growth in Lagos, houses have sprung up around the Alfa Bay Lekki which the national grid has been unable to cater for.
+Caspian Pacific Power Nigeria has therefore developed power solutions for the following estates based on their energy requirements as set out in the table below.
+The basic concept for power plant is to arrange equipment based on their individual function(s) as well as interaction with other dependent plant ancillaries. This is to facilitate ease of coordination / monitoring on one side and to ensure safe operation of the entire power plant on the other hand. The main equipment which is an electro-mechanical equipment shall be containerized and installed on a portion of the plant while its ancillaries that can be accommodated on top of the containerized equipment shall be so located. Other Balance of Plant (BOP) items like step-up or station transformers shall be arranged to ensure safe operation of the plant. A section of the land shall be used for downloading / receiving bay for the chosen fuel (LNG). All necessary equipment needed for the fuel system shall be located on this axis. The proposed site shall consist of an electrical room and administrative office which shall together form one storey building. Other important plant associated equipment like fire water tank, fire water pumps, fire water pipe reticulation network shall be located based on functionality, aesthetic and safety. Area to be covered and impacted by the proposed power plant is marked out in the plant in the next section below.
+At the project location, a comfortable land footprint is earmarked for the project and shall be enough to accommodate all generation main equipment, balance of plant (BOP) and building. The equipment shall be arranged in such a way to face the nearby major access road. The layout has been divided into electromechanical section, fuel bay section, control room / admin building section, car park section and open space. The layout will accommodate the main equipment, balance of plant (BOP) and other plant ancillaries. Provision is made for LNG area with adequate consideration for easy manoeuvring of trucks within the power plant. The generators were arranged to allow for good ventilation as well as easy access for vehicular and personnel movement around the main equipment during top end or major overhaul maintenance. Electrical control room and administrative building shall be a one storey building.
+For the purposed of future expansion, extra concrete plinths is provided to accommodate installation of new gas generators at each project location. Provision shall has also been made in the electrical panel for connection and integration of the generator if so installed in future.
+The operation philosophy for the power station is determined by the available load profile during operation. During commissioning, all gas generators shall be integrated and synchronized to use any one generator or combination of more than one to meet the load demand.
+The primary aim of this initial development is to install gas generators and get them synchronized as maintenance will be carried out at off-peak load periods such that at least one gas generator will be in operation to meet up the power demands of consumers and ensure that there is no downtime. For this purpose, gas generators shall be brought online to respond to load demand based on priority given to each generator as programmed during commissioning.
+Operation of the proposed power plant is carried out by experienced technical personnel who will be trained up to OEM certification level for an operator. This will ensure that downtime is reduced to the barest minimum or totally eliminated where possible.
+Operators are deployed in two or three shifts per day and each shift shall comprise of at least two technical operators (Mechanical & Electrical). These operators shall carry out day-to-day running of the plant, data gathering and plant monitoring. The plant operators shall also carry out preventive and scheduled maintenance as directed in the OEM manual. However, scheduled and shutdown maintenance that requires specialized skills and tools shall be carried out by OEM representative on a call-out basis.
+Power evacuation is one of the integral parts of this project as it defines how power generated will get to the respective end users. Power distribution network serves as interface between the generation station on one hand and the metering system on the other hand. The custody transfer point shall serve as the battery limit for generation work and take-off for distribution. The battery limit for generation on this project shall be at the two (2) outgoing feeders in the 11kV or 11kv MV switchgear. 11kV network and all LV lines are to be constructed and installed in conformity with NEMSA regulations and standards. The Project is taking a holistic approach to see that
+power is evacuated from generation station and distributed to the end users within a reasonable budget. Detailed distribution design shall ensure that energy loss during transmission is reduced to the barest minimum.
+For distribution work, customers are categorized based on their physical location to form what is known as distribution layout. The market was divided into eleven (11) sections. Adequate consideration was given to each section to ensure that their energy demand is proportional to electrical distribution infrastructure planned to be deployed to each section.
+Due to other consideration the proposed distribution route shall be fully underground. This is a system of distribution network where electric wires /cables, are buried underground while transformers and other distribution equipment are suspended on supports with the aid of square concrete.
+Distribution topology being proposed for each of the project location is a Ring Network. A ring network is the preferred option because of its robustness and high reliability. In the ring network, distribution equipment is powered by more than one feeder. In this case if one of the two feeders is out due to fault or maintenance, the distribution network can still be energized from the other feeder connected to the network. In this way, the supply to the consumers is not disrupted. In addition to this, the ring main system is provided with section isolators at different strategic points along the network. If any fault occurs on any section of the ring, the section can easily be isolated by opening the associated section isolators on both sides of the faulty zone transformer directly which implies that when there is distribution failure / problem on a section, it can be fed from another section thereby guaranteeing power supply most of the times, hence the high reliability. The distribution topology to be adopted is an overhead system with 40-feet precast square concrete poles. The 11KV overhead distribution network will be constructed with pole-mounted 11/0.415kV Transformers with varying sizes based on the load profile and power demand of the area.
+The underground distribution network has several advantages compared to the overhead technology, namely:
+(i) It is less prone to wind and natural disasters as heavy winds pulls down overhead poles and also overhead line are more prone to thunder strikes.
+(ii) It minimizes power theft as it is difficult to tap.
+(iii) The underground cables are difficult to vandalize as it requires serious digging before this can be done.
+The transformer capacities will range from a minimum of 100kVA to a maximum of 500kVA and 11/0.415kV Transformers are to be protected by panels which have been installed by adequately rated protective breakers. The entire 11kV Distribution network shall be protected at the 11KV Medium Voltage panels with the appropriate protective devices.
+Substations on this project shall be Step-down substations and shall be for distribution only. Substation shall be constructed at strategic locations according to section or division of the community. This is to be able to produce usable voltage required by customers in the market and for operational flexibility. Substation for this project shall consist of the following:
+i. Primary power lines which shall be at 11kV
+ii. Secondary power line which shall be at 415V and 220V.
+iii. Ground wire and strips for earthing of substation
+iv. Step-down transformer for voltage conversion
+v. Ring Master Unit (RMU)
+vi. Low voltage Panel
+vii. Security mesh fencing
+viii. Lightning arrestor
+
+--------------------------------------------------------------------------------
+
+URL: https://www.caspianpacificgroup.com/projects-2/
+
+Caspian Pacific Group
+United Kingdom 3rd Floor. 86-90,Paul Street London EC2A 4NE United Kingdom +44 20 7754 5509 groupinfo@caspianpacificgroup.com
+Nigeria 3rd Floor, Ocean Rise House 19, Allen Avenue Ikeja, Lagos +234 906 283 2027 powernigeria@caspianpacificgroup.com
+Sierra Leone 63, Berwick Street Freetown Sierra Leone +232 99 81 37 37 sierraleone@caspianpacificgroup.com
+
+--------------------------------------------------------------------------------
+
+URL: https://www.caspianpacificgroup.com/corporate-strategy/
+
+Focusses on extracting upside value from existing African production assets with low-risk predictable profiles. We deliver our strategy through three key strategic initiatives:
+Against the background above, we collaborate on select production assets to deliver the following:
+Our strategy, strategic initiatives and operational plans delivers the following to our strategic partners amongst other things:
+Our power sector strategy is divided into four key perspectives of:
+Against these four strategic perspectives, our approach therefore is to design and decide the best energy solution for our customers taking their environmental and socioeconomic perspectives into consideration.
+A very important success factor significant to delivering our strategic initiatives is strategic collaboration and relationship with EPC organisations. To this end, we have a backward integration investment strategy into an EPC company- Dafram Worldwide Limited. Dafram has successfully design, build and managed several gas power plants.
+Energy projects are capital intensive projects, therefore we explore various sources for sourcing fund to deliver our projects ranging from Commercial Banks; Development Finance Institutes (DFIs) such as African Development Banks (AfDB), USAID, GCF and others. We also leverage on various countries EXIM Banks.
+We parade technically competent team that ensures that our operations and maintenance infrastructures are consistently delivering solid, uninterrupted and of optimum output.
+Our vision is to organically capture the African energy market setting a new pace of excellence in both off grid and national grid energy solution and service delivery in Africa. We deliver this through our four key strategic initiatives leveraging on our technical and financially competent people.
+Our vision is to ensure that our customers have access to latest electricity innovation, clean, modern, and reliable electrical infrastructures providing them with increased productivity, efficiency and the highest safety standards.
+Our depth of experience in providing energy and electrical infrastructure solutions has enabled us to develop a world class response to our client’s demands. We focus on working to the highest professional standards and seek to develop strong and sustainable relationships with our customers, with an emphasis on ensuring electricity are delivered on a 24-hour basis in a clean and efficient manner.
+Our people are seasoned professionals with strategic, tactical, and operational experience in power generation, transmission and distribution; business strategy; financial controls and financial reporting; electrical maintenance, marketing management, structured and trade finance; logistics, oil and gas; civil engineering and construction.
+Caspian Pacific Group is anchored on robust business strategy, strong corporate governance, and effective enterprise risk management to drive a customer focussed energy generation, transmission, and distribution business where customer service and operational excellence is the watchword.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.caspianpacificgroup.com/about-us/
+
+Caspian Pacific Group (CPG) is an established company across various sectors including Oil and Gas, Power, and Energy; Professional and Business Management Advisory Services; Pharmaceuticals; Agriculture; as well as Transports and Logistics.
+Caspian Pacific Group has expertise and project delivery track records in upstream, mid-stream and downstream sectors. It has interests via equity and joint venture in Ocea Energy Limited, an E&P company whose strategy focusses on extracting upside value from existing African production assets with the following key strategic initiatives:
+Caspian Pacific Group via equity ownerships in The Goldridge Caspian Pacific Power Ltd and Caspian Pacific Sierra Leone Limited as operating entities also specialises in building and managing power generation, transmission, and distribution plants across Africa. The group strategy along this sector involves:
+Caspian Pacific Group is currently developing a 30,000 metric tonne LPG with potential to upscale into LNG storage and shipping terminal facilities in Bonny Island, Port Harcourt in Nigeria in partnership with Ecosse Global Energy Limited.
+The group has investment in agriculture via The Goldridge Industries Limited in Nigeria and the Goldridge Trading Company Ltd in the UK, with various farms in Nigeria that is into animal husbandry, crop production and agro- allied processing. This unit agricultural unit is currently exploring options to develop rice mills in Southwestern part of Nigeria including a backward integration strategy of an out-grower rice and cassava farming to feed into its production facilities and export market.
+The group investment in pharmaceuticals at this stage is still at retail pharmaceutical trading via Medicell Medical Group with retail pharmaceuticals stores in United Arab Emirates and Nigeria. This business unit vision is to grow their retail stores organically and through acquisition as well as backward integration investment strategy into pharmaceutical production of generic medicines.
+RFR Professionals International Group is the business advisory and consulting arm of the group. It provides advisory services such as Merger and Acquisition; Project Financial Advisory Services; Strategy Consulting; Enterprises Risk Management and other professional services.
+RFR Professionals International Group is currently operating in over ten countries including United Kingdom, Nigeria, The Philippines, United Arab Emirates, Zambia, Zimbabwe, and others.
+To become Africa’s leading energy generating, transmitting and distribution Company effectively providing the energy requirement of Africa
+Develop, generate, transmit and distribute clean energy in Africa and delivering value to Africans through optimal energy pricing and metering system.
+As a company we are committed to sustainability, safety, integrity, honesty, efficiency and reliability.
+To find our more about our services, please contact us using the details below
+
+--------------------------------------------------------------------------------
+
+URL: https://www.caspianpacificgroup.com/
+
+Caspian Pacific Group
+United Kingdom 3rd Floor. 86-90,Paul Street London EC2A 4NE United Kingdom +44 20 7754 5509 groupinfo@caspianpacificgroup.com
+Nigeria 3rd Floor, Ocean Rise House 19, Allen Avenue Ikeja, Lagos +234 906 283 2027 powernigeria@caspianpacificgroup.com
+Sierra Leone 63, Berwick Street Freetown Sierra Leone +232 99 81 37 37 sierraleone@caspianpacificgroup.com
+To find our more about our services, please contact us using the details below
++442077545509
+
+--------------------------------------------------------------------------------
+
+URL: https://groupinfo@caspianpacificgroup.com/
+
+Caspian Pacific Group
+United Kingdom 3rd Floor. 86-90,Paul Street London EC2A 4NE United Kingdom +44 20 7754 5509 groupinfo@caspianpacificgroup.com
+Nigeria 3rd Floor, Ocean Rise House 19, Allen Avenue Ikeja, Lagos +234 906 283 2027 powernigeria@caspianpacificgroup.com
+Sierra Leone 63, Berwick Street Freetown Sierra Leone +232 99 81 37 37 sierraleone@caspianpacificgroup.com
+To find our more about our services, please contact us using the details below
++442077545509
+
+--------------------------------------------------------------------------------
+
+URL: https://powernigeria@caspianpacificgroup.com/
+
+Caspian Pacific Group
+United Kingdom 3rd Floor. 86-90,Paul Street London EC2A 4NE United Kingdom +44 20 7754 5509 groupinfo@caspianpacificgroup.com
+Nigeria 3rd Floor, Ocean Rise House 19, Allen Avenue Ikeja, Lagos +234 906 283 2027 powernigeria@caspianpacificgroup.com
+Sierra Leone 63, Berwick Street Freetown Sierra Leone +232 99 81 37 37 sierraleone@caspianpacificgroup.com
+To find our more about our services, please contact us using the details below
++442077545509
+
+--------------------------------------------------------------------------------
+
+URL: https://www.caspianpacificgroup.com/our-entities/
+
+Caspian Pacific Group
+United Kingdom 3rd Floor. 86-90,Paul Street London EC2A 4NE United Kingdom +44 20 7754 5509 groupinfo@caspianpacificgroup.com
+Nigeria 3rd Floor, Ocean Rise House 19, Allen Avenue Ikeja, Lagos +234 906 283 2027 powernigeria@caspianpacificgroup.com
+Sierra Leone 63, Berwick Street Freetown Sierra Leone +232 99 81 37 37 sierraleone@caspianpacificgroup.com
+
+--------------------------------------------------------------------------------
+
+URL: https://www.caspianpacificgroup.com/board-and-senior-management/
+
+A Senior Business Executive; Chartered Accountant; maritime; aviation; petrochemical; and energy professional with expansive strategy, corporate governance, Governance Risk and Controls (GRC), project management and corporate finance experience across multi-billion-dollar global operations.
+Devised and successfully delivered strategic projects and initiatives with a proven history of leading successful and engaged teams. Wide breadth of cross-functional and diversified experience in maritime, aviation, petrochemical, energy, and power; oil and gas.
+Track record of delivering revenue generating and improvement strategies; tangible cost savings and efficiencies with an ability to operate and influence at the highest levels in large multinational organisation.
+Advanced Project Management Skills with multiple project deliverables across 70 countries in maritime, aviation, power; petrochemical under financial, operational, engineering and procurement functions.
+Awareness of diverse cultures which was gained through over 25 years extensive international work experience in over 30 countries.
+Emmanuel Rominiyi career highlights include but not limited to:
+He also manage and delivered the following projects at Coreso
+While working at the United Kingdom National Grid as Power Systems Engineer, Paget delivered:
+While at IUS in Republic of Ireland, Paget was
+In the United States of America, Paged worked at Landmark Electrical to deliver;
+While in Zimbabwe, Paget
+Paget has a M.Sc. in Electrical Power Systems from University of Bath; Certificate in Management and City & Guilds Technician Certificate in General Transmission and Distribution
+
+--------------------------------------------------------------------------------
+
+URL: https://www.caspianpacificgroup.com/technology/
+
+The flow of electricity in a solar cell
+The movement of electrons, each carrying a negative charge, toward the front surface of the solar photovoltaic cell creates an imbalance of electrical charge between the cell’s front and back surfaces. This imbalance, in turn, creates a voltage potential like the negative and positive terminals of a battery. Electrical conductors on the cell absorb the electrons. When the conductors are connected in an electrical circuit to an external load, such as a battery, electricity flows through the circuit.
+Caspian Pacific Energy Group also deplores thermal generation technology solution harnessing the heat energy released from combustion of hydrocarbon fuel (natural gas) to produce mechanical power. The mechanical power produced is converted to electrical energy with the aid of an alternator for the required electricity.
+Our power solution uses a reciprocating spark ignition gas generators to generate power. Our preference for reciprocating gas generator as against gas turbine technology was to allow for flexibility in size or quantum of power to be generated. Where appropriate, we also deploy gas turbine technology.
+Our choice of technology is therefore driven by project size with full consideration for investment cost, fuel consumption and medium-term maintenance cost.
+We deploy reciprocating power equipment made by Caterpillar (MWM) Energy Solution Gas Generators of Germany, Austria based Jenbacher JGC320GS-NL gas fired technology, the Spanish HIMOINSA gas fired reciprocating engine and other relevant reciprocating engine manufacturers in the United Kingdom, France, China, the United States and other.
+These manufacturers are renowned world leaders in manufacturing of gas generators and these gas generators are confirmed and proven technology that can be used in warm, humid and remote location with numerous references and thousands of firing hours.
+These Gas engines are lean burn gas generator that complies with TA LUFT standards. The generators are design for high power output, high efficiency, and low NOx emission.
+Key Features of Reciprocating Gas Generators
+• Easily Scale- able with the ability to generate as low as 1MW of electricity and as high as 50+MW at a single location depending on the requirement.
+• Highest efficiency in class.
+• State-of-the-art 16-cylinder V-engines with Turbo-charging and two-phase- inter-cooling.
+• Total electronic management (TEM) and anti-knock controls for each cylinder
+• Optimised engine components
+• 50% less lube oil consumption.
+• Excellent pedigree – a tradition of many years in engines manufacturing
+Thermal Generation Plants Fuel Supply and Logistics
+Our thermal generation technology solution plants are powered by Natural gas which are delivered in any or combined of the three stated below.
+1. Piped Natural Gas (PNG)
+2. Liquefied Natural Gas (LNG)
+3. Compressed Natural Gas (CNG)
+Thermal Generation Plants Fuel Supply and Logistics
+In plants without access to pipelines and far from any downloading station, the primary fuel deployed is natural gas and is supplied in the form of Liquefied Natural Gas (LNG).
+Caspian Pacific Energy has developed a robust virtual pipeline strategy to ensure LNG is delivered via cryogenic tanks to all our thermal plants. We install Cryogenic Storage tanks at each project location to receive and store the gas based on the plant’s installed capacity.
+Compressed Natural Gas (CNG)
+Compressed Natural Gas (CNG) are used for plants with reasonable distance to gas downloading stations.
+We design our CNG areas in such a way to accommodate between three to six gas skids depending on the plant’s capacity, to guarantee adequate gas availability. Pressure Reduction and Metering System (PRMS) are also installed, and interconnecting piping connected from the PRMS to respective gas generator.
+Natural gas has come of age to become fuel of choice against other high-density liquid fuel. Based on OEM recommendation, the natural gas shall meet the minimum methane number requirement as well as proportional percentage composition.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.caspianpacificgroup.com/sierra-leone/
+
+On 28 February 2019, Caspian Pacific Group (CPG) through its operating company Caspian Pacific Sierra Leone signed a Memorandum of Understanding (MOU) with the Government of Sierra Leone through the Ministry of Energy to generate, transmit and distribute 40MW (scalable to 100MW) of electricity to the above mentioned 7 provinces in Sierra Leone. Funding for this project is being managed by United Capital Plc. who also doubles as financial advisors to this transaction. United Capital Plc. is the investment banking arm of United Bank for Africa (UBA) Plc.
+The Sierra Leone Solar Power Project is therefore divided into seven projects based on its locations with each project to be operated independently as an Independent Power Company
+The project locations are as stated below.
+Sierra Leone Photovoltaic (PV) Solar Power Plants, its distribution, storage, and logistics infrastructures are expected to cost approximately US$150 million which shall be financed by a combination of debt and equity in the ratio of 90: 10.
+African Development Bank (AfDB); African Finance Corporation (AFC); and USAID are potential multilateral lenders being considered for this project debt financing.
+The following environmental impact is expected from this project:
+This project will project the following benefits amongst others
+Our energy solution is designed with the lowest impact on the environment.
+This is demonstrated in the types of solution being deployed using a photovoltaic (PV) Solar Plant Energy Solution.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.caspianpacificgroup.com/%ef%83%982-4-mw-lagos-airport-hotel-independent-power-plant/
+
+Lagos Airport Hotel is the foremost indigenous hotel in Nigeria having been founded since 1942 and it’s a member of Odu’a Group of Companies. It has a long history and niche as a hospitality solution provider with a grand attention. The Hotel has recently been re-positioned to serve its numerous guests better with the refurbishment of its facilities coupled with an efficient and effective service delivery.
+The hotel has 277 rooms comprising of a Monarchial Suite, Presidential Suites, Executive Suites, Business Suites, Luxury Rooms, Classic Rooms, Deluxe Rooms, Flats 1 & 2, Standard and Budget Rooms.
+The hotel is constantly advancing personalized service which makes them to see their guests and customers as integral part of our sustenance. Guests are treated as owners and relationships are nurtured. No cosmetics in their services all is real and natural to make our guests feel desired, value and pampered. As a year-round luxury city hotel, it is for discerning business travelers, holiday makers, leisure seekers and corporate executives seeking relations.
+It is centrally located in the business district of Ikeja, the Capital of Lagos State; Lagos Airport Hotel sits majestically on Obafemi Awolowo Way, near the Lagos State Secretariat offering easy access to both the Murtala Mohammed International Airport, the Local Airport and the sprawling Ikeja Industrial Estate.
+Lagos Airport Hotels Limited is responsible for the provision of power supply to all facilities and building within their hotel complex. Caspian Pacific Power Nigeria is taking this over as an IPP managed outsourced provider and linking a few surrounding hotels and facilities to the complex.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.caspianpacificgroup.com/3-5-mw-lafarge-sagamu-independent-power-plant/
+
+Lafarge Africa Plc is a member of the Holcim Group – the global leader in innovative and sustainable building solutions. It was incorporated on 24th February, 1959 and listed as a publicly quoted company on the Nigerian Exchange on 17th February, 1979. Lafarge serves Nigeria with a wide range of building and construction solutions designed to meet housing and construction needs from small projects like individual home buildings to major construction and infrastructure projects.
+With plants in Ewekoro and Sagamu in the South-West, Mfamosing in the South and Ashaka in the North-East of Nigeria, Lafarge Africa Plc currently has an installed cement production capacity of 10.5MTPA and has plans to grow in the near term.
+Lafarge Africa plc Sagamu is responsible for the provision of power supply to its factory and estate , this is through an existing leased gas powered independent power plant and the use of central mini diesel generators. The present installed capacity of the Independent power plant is 7MW
+Although the factory has an installed capacity of 15MW but it presently runs at a peak of 5MW and an off-peak load of 1.3MW, this is dependent on the production schedule mainly.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.caspianpacificgroup.com/contact-us/
+
+3rd Floor. 86-90,Paul Street
+London
+EC2A 4NE
+United Kingdom
+: groupinfo@caspianpacificgroup.com
+: +44 20 7754 5509
+3rd Floor, Ocean Rise House
+19, Allen Avenue
+Ikeja, Lagos
+: powernigeria@caspianpacificgroup.com
+: +234 906 283 2027
+63, Berwick Street
+Freetown
+Sierra Leone
+: sierraleone@caspianpacificgroup.com
+: +232 99 81 37 37
+
+--------------------------------------------------------------------------------
+
+URL: https://caspianpacificgroup.com/"
+
+Caspian Pacific Group
+United Kingdom 3rd Floor. 86-90,Paul Street London EC2A 4NE United Kingdom +44 20 7754 5509 groupinfo@caspianpacificgroup.com
+Nigeria 3rd Floor, Ocean Rise House 19, Allen Avenue Ikeja, Lagos +234 906 283 2027 powernigeria@caspianpacificgroup.com
+Sierra Leone 63, Berwick Street Freetown Sierra Leone +232 99 81 37 37 sierraleone@caspianpacificgroup.com
+To find our more about our services, please contact us using the details below
++442077545509
+
+--------------------------------------------------------------------------------
+
+URL: https://www.caspianpacificgroup.com/"
+
+Caspian Pacific Group
+United Kingdom 3rd Floor. 86-90,Paul Street London EC2A 4NE United Kingdom +44 20 7754 5509 groupinfo@caspianpacificgroup.com
+Nigeria 3rd Floor, Ocean Rise House 19, Allen Avenue Ikeja, Lagos +234 906 283 2027 powernigeria@caspianpacificgroup.com
+Sierra Leone 63, Berwick Street Freetown Sierra Leone +232 99 81 37 37 sierraleone@caspianpacificgroup.com
+To find our more about our services, please contact us using the details below
++442077545509
+
+--------------------------------------------------------------------------------
+
+URL: https://groupinfo@caspianpacificgroup.com/"
+
+Caspian Pacific Group
+United Kingdom 3rd Floor. 86-90,Paul Street London EC2A 4NE United Kingdom +44 20 7754 5509 groupinfo@caspianpacificgroup.com
+Nigeria 3rd Floor, Ocean Rise House 19, Allen Avenue Ikeja, Lagos +234 906 283 2027 powernigeria@caspianpacificgroup.com
+Sierra Leone 63, Berwick Street Freetown Sierra Leone +232 99 81 37 37 sierraleone@caspianpacificgroup.com
+To find our more about our services, please contact us using the details below
++442077545509
+
+--------------------------------------------------------------------------------
+
+URL: https://powernigeria@caspianpacificgroup.com/"
+
+Caspian Pacific Group
+United Kingdom 3rd Floor. 86-90,Paul Street London EC2A 4NE United Kingdom +44 20 7754 5509 groupinfo@caspianpacificgroup.com
+Nigeria 3rd Floor, Ocean Rise House 19, Allen Avenue Ikeja, Lagos +234 906 283 2027 powernigeria@caspianpacificgroup.com
+Sierra Leone 63, Berwick Street Freetown Sierra Leone +232 99 81 37 37 sierraleone@caspianpacificgroup.com
+To find our more about our services, please contact us using the details below
++442077545509
+
+--------------------------------------------------------------------------------

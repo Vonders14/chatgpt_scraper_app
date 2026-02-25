@@ -1,0 +1,601 @@
+ROOT: https://solarpowerworldonline.com/suppliers/spg-solar
+SCRAPED_AT_UTC: 2026-02-11T20:33:31.775329Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://solarpowerworldonline.com/suppliers/spg-solar
+
+SPG Solar
+Petaluma, CA
+Year Founded: 2001
+www.spgsolar.com
+SPG Solar’s EPC team takes customers through the entire solar project lifecycle, from custom design, finance, installation to service & warranty. By keeping the solar development process in house, SPG Solar creates efficiencies and passes along the savings to our customers. SPG Solar delivers the highest quality systems – built on time, on budget and with the greatest financial returns.
+|
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/leadership/2022-leadership-in-solar-winners/
+
+Congratulations!
+Celebrating the companies and individuals leading the solar PV industry.
+Solar Power World announces the winners of our Leadership in Solar program. Nominees were released in our January issue, and our user community voted on which companies they felt best exemplify solar leadership. Congratulations to the winners!
+| Batteries/Storage | |
+| Carports | |
+| Components | |
+| Consulting | |
+| Enclosures | |
+| Installation | |
+| Inverters | |
+| Measurement | |
+| Panels | |
+| Racking and Mounting | |
+| Software | |
+| Wire Management |
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/leadership/2023-leadership-in-solar-winners/
+
+Congratulations!
+Celebrating the companies and individuals leading the solar PV industry.
+Solar Power World announces the winners of our Leadership in Solar program. Nominees were released in our January issue, and our user community voted on which companies they felt best exemplify solar leadership. Congratulations to the winners!
+| Batteries/Storage | |
+| Carports | |
+| Components | |
+| Consulting | |
+| Enclosures | |
+| Installation | |
+| Integrators | |
+| Inverters | |
+| Materials | |
+| Panels | |
+| Racking and Mounting | |
+| Software / Monitoring | |
+| Wire Management |
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/leadership/
+
+2025 Winners
+2024 Winners
+Advertise
+2025 Winners
+2024 Winners
+Advertise
+Login
+Register
+Login
+Register
+Featured Resource
+FACTORY TOMORROW: SUSTAINABLE MANUFACTURING
+Explore how our suppliers are leveraging new forms of technology to design a sustainable future for manufacturing.
+Learn More
+Featured Company
+Snake Tray
+Learn More
+Featured Category: Installation
+Baker Electric
+Featured Category: Inverters
+Browse Solar Companies by Category
+Components
+Consulting
+Distributors
+Enclosures
+Installation
+Inverters
+Materials
+Measurement
+Panel/Collector Manufacturing
+Racking & Mounting
+CAB® Solar
+Roof Tech
+Software
+Anza
+SiteCapture
+Storage Software
+Storage Technologies
+FranklinWH
+Browse Wind Companies by Category
+Bearings
+Electrical/Electronic
+Fastening/Joining
+Hardware/Components
+Operations & Maintenance
+Sensors
+Support Services
+Towers
+2026 leaders
+Anza
+Baker Electric
+CAB® Solar
+FranklinWH
+Roof Tech
+SiteCapture
+Snake Tray
+Sungrow USA Corp.
+Leadership in
+Renewable Energy
+2025 Winners
+Components
+Consulting
+Enclosures
+Fastening/Joining
+Hardware & Components
+Installation
+Inverters
+Inverters & Storage Technologies - Batteries
+Materials
+Operations & Maintenance
+Panels
+Racking & Mounting
+Software
+Storage Technologies
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/
+
+Energy and temperature solutions provider Aggreko has completed solar projects on two service centers — a 100-kW system in St. Louis, Missouri, and an 87.3-kW system in Bridgeport, New Jersey. The two solar installations will reduce Aggreko’s grid power usage. The St. Louis solar panels provide about 40% of the service center’s annual electricity needs,…
+Latest News See More >
+Feature Stories See More >
+Anonymous donor helps Philadelphia Habitat for Humanity homes go solar
+Solar Power World’s Projects of Impact.
+Solar Power World’s project coverage usually focuses on arrays just starting development or construction, or on systems that have received permission to operate. However, the real effects on a community are seen during a solar project’s 25-year or longer lifespan. In reaction to this, Solar Power World has started Projects of Impact, a series highlighting…
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/2025/01/how-solar-energy-services-cut-project-timelines-by-80-with-scanifly/
+
+Solar Energy Services (SES) was founded in 2006 with the goal of delivering high-quality solar systems to customers.
+- Company leaders also want to invest in both their team and local community, though some inefficiencies in the surveying process made that difficult in the past.
+- Scanifly helped the team eliminate revisions and shorten the project lifecycle by 2+ weeks, adding the capacity and resources SES needed to further invest in its community.
+The Challenge: Building an Efficient, People-First Solar Company
+By the time Roger Perry founded Solar Energy Services (SES) in 2006, he’d already been in the industry for nearly 30 years. Entering the solar industry in 1978 with solar pool heating systems, he built a wealth of experience that helped SES take off from day one.
+As the company grew, however, the challenge emerged of keeping up with demand, while continuing to provide top-notch quality to customers.
+In particular, the manual process of surveying created issues:
+- Time: Manual surveying processes meant the team could only complete 1-2 per day maximum.
+- Safety: Climbing on the roof created safety risks for Surveyors.
+- Comprehensiveness: Some roof planes were inaccessible, meaning teams couldn’t measure everything by hand.
+- Accuracy: Working by hand with pen and paper–while trying to stay stable on the roof–led to documentation challenges.
+Using manual methods, it took 2-3 weeks to go from a survey to a plan set and could easily be hit with even bigger delays.
+“If the measurements that we took in the field and wrote down on a piece of paper weren’t perfect, we could end up going to the site, rolling crews out, and then getting a call from our crew leader saying we’re going to lose a panel,” said Ethan Goddard, VP of Energy Technology at SES.
+Yet the company wanted to speed up its process so people could invest more time in community initiatives like the Amicus Solar community and installing more solar for lower-income housing.
+Realizing the value of an accurate survey—both in terms of customer experience and saving hours for the team—SES leadership looked for a better solution.
+The Solar Energy Services team ultimately chose Scanifly, which provided the significant efficiency bump that allowed SES to invest in its community more than it had in the past.
+Saving Hours & Dollars with Scanifly
+The Solar Energy Services team was drawn to Scanifly because it offered the full package: drones with Scanifly’s mobile app made surveys safer and more accurate while Scanifly’s Solar Design Services and core platform meant high-quality, Engineer-stamped plan sets faster than ever before.
+Scanifly solved the aforementioned issues of time, safety, comprehensiveness, and accuracy, but did so in a more nuanced and holistic way than other solutions.
+Here’s how the SES team leveraged Scanifly to save time and money:
+1. Surveyor Capacity & Safety: Pre-Scanifly, the team would regularly need to send two surveyors to every job and possibly conduct another truck roll if there were any redesigns.
+With Scanifly, only one surveyor is necessary and drones capture full site context, meaning no additional truck rolls. Surveyors can also do more volume because it takes only 10 minutes on average to fly a site using drones.
+“We might have been able to do one or two site visits a day… now we can do two to four,” said Ethan. “It allows us to sustain our existing costs while increasing scale to build more consistent profitability, and use that extra money to invest in the business.”
+2. Centralized Data: Before Scanifly, the team took photos on their phones and had hand-drawn measurements that needed to be sent to Designers.
+With Scanifly’s mobile app, everything is captured and centralized, making small adjustments simple.
+“All the information is always in the same place,” said Ethan. “It doesn’t get lost in the noise. It makes it really easy for admin changes or module dimension changes. It’s been a really big improvement for us.”
+3. Survey Accuracy: Pre-Scanifly, the SES team conducted the best surveys they could with manual methods. However, sometimes mistakes happened in translating data from the field to design, or when certain roof planes were inaccessible.
+Scanifly now helps the team capture 100% of the roof planes with equal accuracy to hand measurements.
+“I was reluctant at first because I’m used to pulling a tape measure,” said Kevin Hoang, Project Manager at SES. “After a few projects we’ve flown with Scanifly, I’m pretty blown away by the accuracy and how many fewer revisions we had to go back and deal with.”
+4. Working with Scanifly Design Services: SES’s in-house teams regularly worked with third-party designers using spreadsheets, email, and disjointed processes to manage post-sale designs and permitting. However, they found both delivery timelines and work quality to be inconsistent across their design consultants.
+Ethan and the SES team chose Scanifly Design Services to centralize and streamline designs and engineering docs on one platform. This enables them to easily order customized post-sale design outputs with the click of a button from within their Scanifly account.
+Working with Scanifly Design Services as a single provider, SES now gets consistently high-quality plan sets within 48 hours (or less).
+“Drafting in-house took much longer,” said Ethan. “The turnaround time [with Scanifly Design Services] is tremendous.”
+“Plan sets used to take 3 weeks. Now we go from survey to a stamped plan set in 3 days with zero revisions,” said Ethan.
+Working with Scanifly has even opened new business opportunities for SES as customers (and their friends and neighbors) are fascinated by drone technology.
+“Customers are pretty wow’d,” said Ethan. “Solar is high-tech; when customers see us bringing out high-tech equipment, that instills trust.”
+Driving Community Investment Through Business Efficiency
+A key to Solar Energy Services’ growth has been team and community investment. That’s always happened, but now the team has more time and resources to dedicate to it.
+Before Scanifly, a project used to take 14-21 days to go from survey to plan set. That timeline is now down to 3-4 days with Scanifly. With the hours Scanifly saves the team, SES is able to continue to grow the business, be more active in the Amicus Solar community, and start building solar developments in lower-income areas.
+Sponsored Content by Scanifly
+Tell Us What You Think!
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/2025/09/policy-update-how-a-solar-system-qualifies-for-25d-the-30-investment-tax-credit/
+
+One of the most confusing aspects of the OBBB involves Section 25D, the 30% homeowner tax credit for solar.
+The language in the actual bill says that a system needs to be “paid for” by December 31, 2025. But what does that actually mean? Do you just need to pay for the system by that date to get the credit? Do you need to start construction? Does it need to be completely up and running?
+Tell Us What You Think!
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/2025/11/what-homeowners-think-about-solar-as-the-federal-tax-credit-winds-down/
+
+As the 30% federal Investment Tax Credit (ITC) on solar begins its phase-out at the end of 2025, new survey data reveals a striking truth: while interest in solar is growing, confusion about costs, incentives, and savings could leave thousands of homeowners and installers on the sidelines.
+We surveyed 1,000 U.S. consumers age 25 and over to understand what they know — and don’t know — about going solar. The findings uncover widespread enthusiasm, major misconceptions, and an opportunity to make solar “policy-proof.”
+Tell Us What You Think!
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/2026/01/wondering-why-your-electric-bill-is-so-high-go-ask-ai-about-data-centers/
+
+Your electric bill has been going up. You may have just noticed recently, or you may have been tracking the increases over years, but one thing is for sure: Electricity is getting noticeably more expensive.
+Of course, with any market as complex as the energy market, there are many causes for this rise. But here’s one we bet you didn’t think of: data centers. We’ve all heard of the AI boom and how we need more and more data centers to keep up. Well, the thing about data centers is that they use a lot of electricity (and water, it turns out).
+No sweat, right? They use the electricity, they pay for it. Well… it’s not quite that simple. According to a recent analysis by Yale Climate Connections, the price that commercial and data centers are charged for electricity has started falling, even while they are driving more electricity demand than ever.
+Tell Us What You Think!
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/2026/02/as-solar-ad-cvd-investigation-continues-for-india-indonesia-and-laos-petitioners-now-cite-critical-circumstances/
+
+The Dept. of Commerce was scheduled to release its preliminary antidumping/countervailing duty (AD/CVD) tariff amounts for Indian, Indonesian and Laotian solar cell and panel imports before the end of 2025. The U.S. International Trade Commission (ITC) determined in August that the U.S. industry has been materially injured by imports from the three countries, and Commerce was to announce its tariff amounts by December. But the 43-day government shutdown in October and November pushed back investigation timelines.
+Now the original petitioner for the AD/CVD investigation, the Alliance for American Solar Manufacturing and Trade, is asking the Dept. of Commerce to postpone its preliminary AD determination even further — by another 50 days. The Alliance, represented by Tim Brightbill and Wiley Rein LLP, said the extension is necessary because “these investigations cover solar cells and modules from multiple countries, and thus require a significant amount of resources to fully investigate. Second, there are still numerous outstanding supplemental questionnaires, and the department will likely need to issue additional rounds of questionnaires prior to making its preliminary determination.”
+This could push the preliminary AD determination release to April 21, 2026. There doesn’t appear to be an extension asked for the CVD determination, and that may still be released around Feb. 20.
+American panel manufacturers first requested the investigation in July 2025, alleging that solar panel manufacturers had relocated their operations to India, Indonesia and Laos to avoid tariffs placed on imports from Cambodia, Malaysia, Thailand and Vietnam. While cell and panel imports from India have been relatively steady over the last two years, the data shows that imports from Indonesia and Laos have increased a great deal since 2024.
+Once the ITC determined that U.S. solar panel manufacturers were being harmed by imports from India, Indonesia and Laos, the Dept. of Commerce began its own investigation to determine tariff amounts in response.
+Critical circumstances allegation
+The Alliance, which includes First Solar, Mission Solar, Qcells and Talon PV, escalated efforts on Jan. 26 when filing a “critical circumstances” allegation with the Sec. of Commerce Howard Lutnick.
+The document says that imports from India, Indonesia and Laos have surged, activity that “strongly indicates that these imports are being rushed into the United States in an effort to avoid the imposition of antidumping and countervailing duties.” A significant jump in both panel and cell imports from Indonesia can be seen in the above graphs.
+The Alliance is asking the Dept. of Commerce to expedite a critical-circumstances decision as soon as possible and “certainly” by the preliminary CVD determination date of Feb. 20. A critical-circumstances determination would impose duties retroactively on imports entered up to 90 days before the tariffs are announced. That could put retroactive tariffs on the 2.4 GW of solar panels and 1.4 GW of cells from Indonesia that entered the United States in November 2025, in addition to the solar imports from India and Laos.
+During the 2024 AD/CVD investigation into solar imports from Southeast Asia, the Alliance also filed a critical circumstances allegation after seeing an increase in imports from Vietnam and Thailand. Commerce agreed with the Alliance then and ordered retroactive duties on all cells and panels imported from Vietnam and Thailand (except from JA Solar and JinkoSolar).
+The solar industry should have a clearer picture on the tariffs for solar imports from India, Indonesia and Laos in the next few months.
+Tell Us What You Think!
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/2026/02/chinese-parent-company-plans-quick-sale-of-boviet-solar-panel-business/
+
+The parent company behind Boviet Solar wants out of the solar industry and is exploring sale options of Boviet’s Vietnam and U.S. entities.
+Ningbo Boway Alloy Material, a China-based technology company involved in the alloy, semiconductor and machinery industries, acquired Boviet Solar in 2016. Boviet originally got its start in Vietnam in 2013, and Boway Alloy has increased its standing in the global solar panel manufacturing market. Boviet operates a silicon solar cell manufacturing site in Vietnam and a 3-GW solar panel assembly facility in North Carolina. A solar cell manufacturing plant is currently under construction next door to the North Carolina panel factory.
+In filings to the Shanghai Stock Exchange (SSE), Boway Alloy has provided a review of its solar business. The company largely cited the U.S. Dept. of Commerce’s tariffs on Vietnamese imports as difficult to navigate, with product from the Vietnamese solar cell plant unable to enter the U.S. market. Boway Alloy explored options to relocate equipment from the 3-GW solar cell manufacturing plant in Vietnam but ultimately decided that it would not be profitable. Boway also notes the new FEOC stipulations in the United States, which require solar product companies to not exceed 25% Chinese ownership. Boviet Solar, while under Boway ownership, would not meet the FEOC threshold.
+Boviet Solar said construction is still ongoing on its solar cell factory in North Carolina. The outer shell of the factory is complete, and Boviet began interior work in November 2025. The factory was expected to come online by the end of 2026. Boviet estimated it would have 900+ employees working on the North Carolina cell and panel manufacturing campus once fully operational.
+Boway Alloy intends to redirect investments to its special alloy materials business. February filings on the SSE confirm that Boway Alloy’s future capital allocation will focus on high-performance alloy materials rather than “new energy” and solar.
+Boviet Solar has released news over the last month reaffirming its commitment to the solar market and U.S. manufacturing. Approximately 95% of Boviet’s solar panels are supplied to the U.S. utility-scale market, the company says.
+“Our U.S. manufacturing activities reflect a deliberate, long-term commitment to the American solar market,” said Songul Atacan, head of global brand and marketing at Boviet Solar, in a press release. “We are investing in real capacity, real jobs and real infrastructure because we believe in the future of U.S. solar manufacturing and in supporting our customers with dependable, domestic supply.”
+As of this month, Boway Alloy said it is in negotiations to sell the Boviet business.
+Boviet Solar released an extended statement on Feb. 6, which can be found here. The company noted that day-to-day operations are continuing and Boviet is meeting customer commitments. “Boviet Solar remains fully operational and continues to serve the U.S. utility-scale solar market with reliable, bankable PV module solutions.”
+Story edited Feb. 6 to clarify Boviet Solar statements.
+Tell Us What You Think!
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/2026/02/disconnected-data-is-draining-your-solar-portfolio/
+
+Manual reporting, scattered systems and month-end chaos are quietly eroding margins across clean energy portfolios. Here’s how automated, integrated reporting puts profitability back where it belongs.
+With incentives receding, financing tightening and projects taking longer to reach commissioning, solar asset managers and O&M providers must focus on making their existing projects as profitable as possible.
+That goal requires unified data management, but legacy asset reporting systems often constrain too many independent power producers (IPPs) and asset managers from managing their portfolios effectively. Most legacy systems worked adequately when portfolios of projects were small, but now with thousands of projects under management, companies must reckon with the costs of relying on older systems, where data is untrustworthy and locked-in to vendors by contract.
+Disconnected spreadsheets, static PDFs and the required manual labor hamper flexibility and agility. In short, legacy systems have not kept pace with the complexity of modern asset groups. These liabilities not only affect individual companies’ profitability but the overall viability of the industry itself.
+How manual work hurts the bottom line
+As portfolios have grown, so too have the size of individual projects, whose geographical locations span regions with different weather and landscape challenges. The more diverse an asset grouping is, the more confusing and challenging a patchwork of legacy systems becomes. Each system contains its own data silo that doesn’t speak easily with other data in the company.
+The resulting manual labor necessary to reconcile these disparate data sources takes valuable time away from focusing on performance and injects unnecessary risk into the protocols. Reconciliation has quietly become one of the most expensive hidden processes in renewable asset management. Every spreadsheet, PDF and manual adjustment adds friction, delays decision-making and increases the probability of revenue leakage.
+With different pieces of data trickling in from multiple silos — each handled manually at the end of the month — errors in the process are almost inevitable. This means inaccurate invoices, missed service-level agreement (SLA) obligations and delayed payments from customers can erode trust and harm the bottom line. When margins are tight, even small reporting errors compound quickly. Delayed invoices, missed SLA penalties or unclaimed performance incentives can turn operational inefficiency into a material financial risk.
+The integration gap that turns reporting into rework
+End-of-month reporting or invoicing can be tedious, time-consuming and treacherous to do by hand. Most asset managers would prefer to focus on making their portfolios operate at peak performance instead of toiling over spreadsheets. Automating the process with a modern energy business management platform could save them from the strain and stress of manual reporting particularly as portfolios scale thousands of assets and data points per month.
+The human and technical hurdles behind the automation promise
+While the shift from manual reporting to automated, AI-driven platforms is an operational necessity, the transition is rarely as simple as “flipping a switch.” The primary challenge lies in data interoperability — integrating fragmented data from diverse hardware OEMs and legacy sensors into a single, clean stream.
+Furthermore, technology alone isn’t a silver bullet; it requires a cultural shift within organizations to move away from legacy workflows. Automation provides the “what,” but asset managers still need to provide the “why” — leveraging these insights to drive strategic decisions rather than just replacing one reporting headache with a new digital one. Using innovative energy business management solutions, customers have seen average portfolio performance improvements of 7.5%, driven by faster detection of issues and better prioritization of financially material actions.
+Reporting that runs itself — and actually works
+The most effective platforms don’t just aggregate reports — they standardize raw operational and financial data at the source. By connecting directly to existing data sources and contract structures without forcing hardware replacement, they create a consistent data foundation that eliminates reconciliation work altogether.
+Do stakeholders need to see a profitability snapshot? Managers can generate a report in minutes. Need to monitor SLA performance to prevent missed deadlines and obligations? A modern system offers that information at the touch of a button or automatically through AI-driven workflows. AI-driven diagnostics and root-cause analysis have reportedly helped cut issue resolution time by roughly 50%, preserving revenue that would otherwise be lost to prolonged underperformance. Best of all, these reports can be scheduled to hit stakeholders’ inboxes whenever they need it: daily, monthly or after specific events.
+How profitable a portfolio is depends on the details. Automatic reporting can produce fully white-labeled, polished and professional reports without the pain of manual collation. Finally, systems built for today’s portfolios should scale as the portfolio grows — eliminating costly software upgrades or hardware replacements every time the company wants to grow.
+Stop fighting data. Start driving performance.
+In today’s market, asset managers don’t win by adding more assets — they win by extracting more value from the assets they already operate. That requires moving beyond fragmented tools and toward integrated, automated systems built for scale. Data should no longer be something teams fight. It should be the engine that drives performance, trust and growth.
+Legacy systems, while useful when the industry was in its infancy, can no longer do the job. With a single source of truth and fewer moving parts, solar asset managers can focus on what they do best: managing assets at optimum capacity.
+In a market where capital is constrained and scrutiny is rising, operational clarity and financial accuracy are no longer back-office functions, they are a competitive advantage.
+Alon Mashkovich, CEO and co-founder of enSights, is an entrepreneur with more than 20 years of experience in strategic business development, operations management, energy efficiency, and renewable energy. Previously as a business and energy efficiency consultant, Alon saw the challenges that his clients faced with energy management and optimization, which led him to create enSights with his co-founders. Alon is passionate about helping enterprises in their digital and clean energy transformation.
+Tell Us What You Think!
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/2026/02/oregon-awards-12-million-to-24-projects-in-community-renewable-energy-grant-program/
+
+The Oregon Dept. of Energy has selected 24 recipients to receive nearly $12 million in Community Renewable Energy Grant Program funds. The program supports planning and construction of renewable energy or energy resilience projects for Tribes, public bodies and consumer-owned utilities.
+ODOE received 76 applications requesting over $46 million to support projects for this fourth round of grant funding. Awards were chosen on a competitive basis with the help of a grant application evaluation committee, which included community-based organizations, renewable energy advocates, industry leaders and technical experts from across the state. Committee members considered project feasibility and strength, equity considerations, cost savings, economic development and other features to select the 24 awarded projects.
+The Salem Housing Authority has been awarded about $295,000 to construct a net-metered solar system that will offset energy costs for 114 apartments for seniors at two low-income housing locations. Pinehurst School District’s $219,500 award will support installation of a 19-kW solar array, along with 71.5 kWh of energy storage to mitigate routine power interruptions at Pinehurst Elementary School. The school serves as an emergency resilience hub for a remote community in the mountains east of Ashland. The City of Pendleton has also been awarded $1 million to install a 500-kW energy storage system that will pair with an existing micro-hydropower generation system at the Byers Aquifer Storage and Recovery Well Site. The added battery storage will optimize grid operations, particularly during outages or emergencies. The Confederated Tribes of Coos, Lower Umpqua and Siuslaw Indians has been awarded a $100,000 planning grant for a Tribal-wide renewable solar and storage resilience project at the Three Rivers Health Center. A $63,811 grant award to Oakridge School District will support planning for solar and energy storage, including a potential solar and biomass combined heat and power system at three area schools and a Parent Resource Center.
+ODOE was also pleased to see program participants that received previous planning grants return to request construction funds to put those plans into action. The Curry Public Library District was awarded a planning grant in 2024, and will now receive nearly $1 million to install three solar canopies paired with energy storage. In addition to producing energy savings, the library will serve as a community emergency center during potential outages or other emergencies. The City of Cascade Locks also received a planning grant in 2024 and is now awarded nearly $778,000 to install rooftop solar and paired battery storage that will support Cascade Locks Fire Station operations during outages and emergencies. In total, ODOE’s program is supporting eight planning and 16 construction projects.
+“The Oregon Department of Energy is proud to announce these new grant awardees,” said ODOE Director Janine Benner. “This grant program supports projects across the state that bolster clean electricity and strengthen resilience in Oregon communities – two of five pathways we’ve identified in the Oregon Energy Strategy.”
+ODOE will finalize performance agreements with the awardees, which outline their responsibilities for receiving the funds. After finalizing the agreements, the agency can release up to 30% of the grant, with the remaining funds released upon project completion and verification.
+The Community Renewable Energy Grant Program was created by the Oregon Legislature in 2021 to support projects outside Portland city limits. ODOE also announced grant awardees in 2022, 2023 and 2024.
+ALL AWARDEES
+Silver Falls Library District | Construction Resilience | $589,147
+Installation of a 71-kW PV solar system, estimated to produce 82,359 kWh annually, along with a 240-kWh battery storage system to supplement energy use. The project will offset costs and allow the building to act as an emergency response and community support center during outages. This project is a prior grant recipient to support planning activities for this construction project.
+City of Gresham | Construction Resilience | $998,766
+Installation of a net-metered, 155-kW PV solar system capable of producing up to 173,160 kWh annually, including 480 kWh of battery energy storage. The project will support four buildings at the Rockwood Village Apartments. Project partners included Feed’em Freedom Foundation, Community Development Partners and the City of Gresham. This project is a prior grant recipient for planning activities for this construction project.
+Salem Housing Authority | Construction Renewable | $294,967
+Installation of a net-metered PV solar system estimated to generate 163,000 kWh annually to support and offset energy costs for 114 one-bedroom apartments for seniors at two low-income housing locations.
+Umpqua Indian Utility Cooperative | Construction Renewable | $1,000,000
+Installation of 4-MW of solar generation across five site locations to provide electricity for the Cow Creek Band of the Umpqua Indians, resulting in an estimated annual savings of $706 per Tribal member households.
+Pinehurst School District #94 | Construction Resilience | $219,500
+Installation of a 19-kW solar photovoltaic array generating up to 25,825 kWh per year, along with 71.5 kWh of energy storage to mitigate routine power interruptions at Pinehurst Elementary School. The school serves as a community emergency resilience hub for a remote community in the mountains east of Ashland.
+Central Oregon Intergovernmental Council | Construction Resilience | $292,923
+Installation of a 37-kW PV solar system generating up to 53,389 kWh annually, including 111 kWh battery energy storage system and 12 publicly available electric vehicle charging ports at the Heart of Oregon Corps’ new youth workforce development central campus in Redmond. The organization serves disadvantaged youth and the broader community.
+Klamath County | Construction Renewable – $321,988
+Installation of a 148-kW solar system estimated to produce up to 243,028 kWh annually to offset utility costs for the Klamath County Juvenile and Public Departments, as well as the Veterans Services Office.
+City of Pendleton | Construction Resilience | $1,000,000
+Installation of 500-kW nameplate energy storage system paired with an existing micro-hydro generation system at the Byers Aquifer Storage and Recovery Well Site. The project will optimize grid operations and sustain power during outages or emergencies.
+Curry Public Library District | Construction Resilience | $999,161
+Installation of three ground-mounted PV solar canopies, totaling 90 kW nameplate capacity, that are able to produce up to 131,100 kWh annually. They will be paired with a 184-kW energy storage setup to offset energy costs. The building will serve as a community emergency incidence center during outages and emergency events. This project is a prior grant recipient for supporting planning activities for this construction project.
+Rogue River Rural Fire Protection District | Construction Resilience | $603,630
+Installation of an 87-kW PV storage and 184-kWh storage capacity pole mount system that will allow critical fire, EMS and 911 operations to continue uninterrupted in the event of a major disaster without the need for diesel fuel deliveries.
+Ochoco Irrigation District | Construction Renewable | $700,000
+Installation of a 764-kW floating solar project on a reservoir to provide affordable energy to local residents.
+Confederated Tribes of the Warm Springs | Construction Resilience | $1,000,000
+Installation of community-scale solar and battery storage systems at 34 Tribe-owned affordable and supportive housing locations, as well as a community center. The project will be capable of generating up to 239,000 kWh of renewable energy annually.
+Central Oregon Intergovernmental Council | Construction Resilience | $380,000
+Installation of a 30-kW photovoltaic array estimated to produce 41,483 kWh per year, paired with a 240-kWh battery storage system. The project will support 40 low-income households at a new affordable housing project in Sisters developed by partner Northwest Housing Alternatives.
+Oregon State University Cascades | Construction Renewable | $1,000,000
+Installation of solar at five campus locations, including classroom and residence halls and the Student Success Center. The projects are estimated to generate 1,128,000 kWh annually to provide clean campus energy and offset costs.
+City of Cascade Locks | Construction Resilience | $777,851
+Installation of a 64-kW rooftop solar array, generating 76,891 kWh per year, paired with a 125-kW battery storage system. The project will offset energy costs and support facility operation during outages and emergences at the Cascade Locks Fire Station. This project is a prior grant recipient for planning activities for this construction project.
+Multnomah County | Construction Resilience | $998,763
+Installation of a net-metered 31-kW PV solar system with estimated annual renewable energy production of 340,109 kWh, paired with a 33-kWh battery energy storage system in Troutdale. The project will support an onsite walk-in cooler and refrigeration trailer, and provide barn lighting in partnership with Feed’em Freedom Foundation, the county’s CROP program, which also serves as a Black Community Food Center.
+City of Gresham | Planning Resilience | $100,000
+Planning for a microgrid solar power and storage system linking four non-profit agencies at the Rockwood Community Campus in Gresham.
+Coos County Area Transportation District | Planning Resilience | $100,000
+Planning for a microgrid with multi-type solar arrays and energy storage systems for a new transit hub, including possible planning and consideration of a modern hydrogen methane pyrolysis system.
+Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians | Planning Resilience | $100,000
+Planning for a Tribal-wide renewable energy resilience project at the Three Rivers Health Center using solar and battery energy storage systems.
+Oakridge School District 76 | Planning Resilience | $63,811
+Planning for solar and energy storage, including a potential photovoltaic and biomass combined heat and power system at three area schools and a Parent Resource Center.
+Hood River County School District | Planning Resilience | $100,000
+Planning for a net-metered rooftop 110-kW photovoltaic system with 300-kWh battery storage potential at the elementary school, including possible addition of vehicle-to-building EV charging system.
+Tualatin Hills Park & Recreation District | Planning Resilience | $100,000
+Planning to conduct comprehensive feasibility studies for solar systems and potential resiliency options at multiple building sites at the Howard M. Terpenning Recreation Complex.
+Eugene Water & Electric Board | Planning Renewable | $100,000
+Planning to design expanded EV charging infrastructure at EWEB’s headquarters to support the long-term electrification of its light-duty fleet, which typically includes 50 pickup trucks and 14 SUVs.
+East Fork Irrigation District | Planning Renewable | $100,000
+Planning for an in-conduit hydropower facility of approximately 850-950 kW that would generate approximately 2.6 million kWh annually.
+Tell Us What You Think!
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/2026/02/aggreko-finishes-solar-projects-on-two-us-service-centers/
+
+Energy and temperature solutions provider Aggreko has completed solar projects on two service centers — a 100-kW system in St. Louis, Missouri, and an 87.3-kW system in Bridgeport, New Jersey.
+The two solar installations will reduce Aggreko’s grid power usage. The St. Louis solar panels provide about 40% of the service center’s annual electricity needs, while the Bridgeport array will supply about 64% of the facility’s power needs.
+“We are excited to continue our drive to install distributed solar at Aggreko’s various service centers,” says Todd Aston, VP of ESG at Aggreko. “Supplanting grid energy with on-site renewable power at our St. Louis and Bridgeport locations demonstrates to customers Aggreko’s commitment to keeping our customers and communities powered on through our Energizing Change sustainability framework. We look forward to continuing our service center solar installations in 2026 as we take practical steps to align Aggreko with the low-emissions focus guiding many of our customers.”
+Aggreko’s Energizing Change campaign seeks to reduce company-wide emissions, and a major part of this effort is meeting the energy needs of service centers through distributed, renewable resources. Last year, the company completed installation of a solar facility at its New Orleans service center, with the rooftop panels supplying over 92% of the facility’s power needs. Through the rest of 2026, Aggreko is continuing work to complete solar projects at several additional service centers in the United States.
+News item from Aggreko
+Tell Us What You Think!
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/2025/10/solar-spotlight-building-a-domestic-content-strategy/
+
+The Trump Administration has reversed Inflation Reduction Act tax incentives that have bolstered solar’s domestic manufacturing and installation footprints. While they technically are still active, these credits are operating with a shorter runway. On this episode of Solar Spotlight, Liz Reicherts, Global Head of Government Affairs, and Kleber Facchini, Director of CC&I Products & Applications at SolarEdge, discuss the state of domestic solar subsidies and how to use them while they’re still intact. Additionally, SolarEdge has partnered with solar mounting company Enstall and its subsidiaries, IronRidge and Panelclaw, to help PV contractors qualify for domestic content incentives.
+A written portion of this podcast is below but be sure to listen to the full episode here or on your preferred podcast service.
+SPW: Liz, let’s start with the regulatory landscape. What changed with HR1 — or the one big, beautiful Bill Act — regarding domestic content bonus credits, and why should solar project developers care about this right now?
+Liz Reicherts: Yeah, there were several impacts to the tax credits in HR1 for the domestic content bonus. The law fixed a congressional drafting error that was in the inflation reduction act under Section 48 Cap E. So, projects that begin construction after June 16, 2025, now need to meet 45% domestic content instead of 40% to obtain the domestic content bonus adder of 10%, and then there’s an annual 5% increase after that. So, in 2026 you’ll have to meet 50% domestic content, and in 2027 55%.
+Can you break down what PFE and FEOC compliance actually mean in practical terms, like, what do project developers need to understand about these requirements, including which components they apply to, and what documentation is needed to maintain their tax credit eligibility?
+LR: Yeah, it’s a bit complicated, and we are waiting on additional guidance from the Dept. of the Treasury, so FEOC rules will continue to evolve. But let me try to break it down as simple as possible with what we know today. So first, FEOC, which stands for foreign entity of concern, is defined by Russia, North Korea, Iran and China. Here we’re really talking about restrictions on Chinese components. PFE stands for prohibited foreign entity. The definition of PFE includes both specified foreign entities, or SFE, and foreign influenced entities, FIE. These are all new terms that were defined in HR1.
+Kleber, handing it over to you. What are you seeing in the market? How are customers responding to these domestic content requirements, and what’s making the difference between those who embrace it vs. those who are hesitant?
+Kleber Facchini: The domestic content bonus credit has gained a lot of interest, especially in the past year when domestically manufactured products became a reality, with inverters and with racking. We really started to have that available. That’s when the interest really started to gain momentum. We started seeing a big divide in the industry. We have the big players, the large scale customers. They’ve done their homework, locked into their positions and safe harbor products. And for them, this is not just an opportunity. This is their long term strategy.
+How is SolarEdge helping customers navigate and simplify this compliance process? What’s been the response from those customers who have adopted your domestic content solutions?
+KF: When we look at the challenges developers are facing with domestic content compliance, we realized that the market needed more than just information. We needed a clear path forward, so we focused on helping customers on several fronts: Providing guidance and education, partnering with key suppliers, creating practical solutions that simplify compliance.
+This podcast is sponsored by SolarEdge
+Tell Us What You Think!
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/2026/02/elite-solar-delivers-a-us-strategy-masterclass-for-egypt-and-oci-holdings/
+
+For two decades, the U.S. solar module supply chain has navigated more turbulence than nearly any other global market. Yet it remains a key target for overseas companies, enticed by premium U.S. pricing and the prestige of serving the world’s leading economy.
+Asia has dominated module supply channels since 2010, but the overseas focus is now shifting toward the Middle East and Africa (MEA). The drivers of this transition can be seen through the lens of ELITE Solar, a prominent U.S. supplier since 2020 that recently set up in Egypt but is still partnering with OCI Holdings on polysilicon and wafer supply from Malaysia and Vietnam.
+How did Asia come to dominate the U.S. market? It first starts with Japan.
+The Sony blueprint: Japan’s early manufacturing push
+Before 2005, the U.S. solar market was a niche, policy-driven space. Growth was largely fueled by state and federal programs, off-grid projects and institutional procurement. At the time, the global solar industry was in its early, high-cost phase, so neither U.S. nor overseas manufacturers had a strong reason to build large-scale domestic production.
+However, Japanese manufacturers prioritized the U.S. market, first as a key export opportunity, then for domestic module assembly – overlapping with the introduction of the Energy Policy Act of 2005 (creating the investment tax credit) and the California Solar Initiative in 2006.
+This wasn’t a new tactic for Japanese companies. Since the post-war era, Japanese electronics firms had targeted U.S. markets, combining local production with brand awareness. Sony laid the blueprint with its TV assembly plant in San Diego in 1972.
+By the early 2000s, companies such as Sharp, Kyocera, Mitsubishi Electric and Sanyo were applying the same playbook to U.S. solar. Sharp and Kyocera emerged as U.S. frontrunners – Sharp with a module assembly plant in Memphis, Tennessee, and Kyocera with a facility in San Diego. The Korean companies were also investing globally, with solar factories in the U.K., Mexico and Czech Republic.
+Polysilicon volatility and the Hemlock conflict
+The PV industry shifted into a scale-driven phase where Japan’s cost position was undercut by rapidly expanding manufacturers in Taiwan and China. And while the ITC boosted demand in the United States, there was no manufacturing credit to help these Japanese-owned U.S. factories.
+Worse still, polysilicon spot prices skyrocketed in 2007, eventually peaking well above $300/kg as industry demand surged in response to new European PV incentives. To secure feedstock, leading module suppliers (most producing wafers and cells) signed long-term agreements with polysilicon suppliers that had traditionally served the semiconductor sector.
+These “take-or-pay” contracts would define the PV industry in the late 2000s, with the relationship between Kyocera and Hemlock Semiconductor (primarily owned by Dow Corning) a prime example. Between 2005 and 2008, Kyocera signed multiple agreements with Hemlock to secure polysilicon supply for its global operations.
+When polysilicon prices dropped as new capacity came online in China, some Western polysilicon suppliers renegotiated contracts. However, Hemlock was notably resolute in its enforcement against Kyocera, while also somewhat intransigent during case actions with SolarWorld and JA Solar.
+Fast-forward to 2025 – Corning acquires JA Solar’s module facility in Phoenix, Arizona, to complement its manufacturing plans in America, starting with Hemlock’s polysilicon.
+The domestic void and the rise of imports
+This global turmoil forced the exit of major Japanese players from the U.S. solar manufacturing market. Other overseas entities filled the empty space.
+A notable example was Suntech’s Goodyear, Arizona, plant – the first major Chinese-owned facility in the United States. Opened in 2010, the factory was shuttered just three years later. This was followed in 2015 by the acquisition of (the “original”) Suniva, a prominent American cell producer, by Shunfeng – owner of Wuxi Suntech – in a bid to secure a U.S. manufacturing base.
+Other Chinese players followed a similar path. China Sunergy established a module fab in Sacramento that struggled to achieve scale before its assets were briefly acquired by SPI Energy through its Solar4America subsidiary.
+Two of the industry’s prominent South Korean participants also invested in America at this time. OCI got involved through a U.S. holding entity, establishing Mission Solar in San Antonio, Texas. LG Electronics began production of a module facility in Huntsville, Alabama, in 2019 but closed down operations within three years.
+Rounding out this overseas assault on the U.S. market would be incomplete without a mention of German company SolarWorld.
+SolarWorld’s U.S. story began in the late 2000s with its Hillsboro, Oregon, facility, quickly becoming the country’s largest integrated silicon-based solar plant. The company led the charge on trade cases against Chinese imports but faced a major setback when its German parent went bankrupt in 2017, forcing the sale of the U.S. operations to SunPower in 2018.
+However, with federal incentives remaining fragmented and global manufacturing increasingly concentrated in Asia, these inward investments failed to prevent a deep dependency on imports. Between 2010 and 2025, the U.S. domestic panel supply was largely a void, with First Solar’s thin-film production standing as the only significant American-made exception to the rule.
+ELITE Solar: a case study in strategic realignment
+The story of U.S. module imports is often framed around tariffs, but a more insightful approach is to track how overseas companies have adapted global footprints to survive.
+ELITE Solar (formerly ET Solar) serves as a definitive case study in this regard. The company has been one of the leading importers of solar modules to the United States in the past few years.
+Alongside Imperial Star Solar and New East Solar Energy, ELITE Solar belongs to a small group of overseas entities that have successfully navigated the complexities of U.S. trade regulations. Outside the major global powerhouses of JinkoSolar, JA Solar, Trina Solar, LONGi Green Energy and Canadian Solar, these three companies form a “new wave” of suppliers that have quietly secured meaningful U.S. market presence.
+The rise, fall, and rebirth of the ET Solar brand
+During a 2010 business trip to Shanghai – as China was taking its first steps into solar – I met with (former) ET Solar personnel at the company’s corporate offices. At the time, ET Solar was one of dozens of entrepreneurial firms founded to capitalize on Europe’s expanding feed-in-tariff schemes. The company was also an early proponent of downstream expansion to ground-mount project development and construction.
+In 2013, the company reappeared on my radar during the UK’s first ground-mount growth phase, where its downstream arm, ET Solutions, was acting as an EPC for the likes of Lightsource Renewable Energy (now Lightsource BP).
+Seeking further expansion, the company established ET Solar in the United States in 2012. However, by 2017, a shift toward a purely downstream model collided with global policy changes, forcing the U.S. operations into bankruptcy. Shortly after, its Chinese operations were curtailed when the lead shareholder also filed for bankruptcy.
+The turning point came in 2018, when a new holding entity controlled by Derek Liu acquired ET Solar, folding it into a Hong Kong-registered vehicle. By 2020, a “new” ET Solar emerged with a focus on international business, marking the start of a third chapter.
+The three-pivot strategy: surviving the trade wars
+The 2020 iteration of ET Solar began as a specialist cell manufacturer, years after the Dept. of Commerce imposed anti-dumping tariffs on Chinese panels in 2012.
+By establishing cell capacity in Vietnam and Cambodia, ET Solar joined a wave of suppliers relocating production to Southeast Asia. The company quickly became a key supplier to regional module assembly hubs, serving major brands such as JA Solar and Seraphim.
+By 2021, the company executed its second pivot by moving into module supply through OEM arrangements with other companies in Southeast Asia, now shipping ET-branded modules from Southeast Asia to the United States.
+ET Solar quickly gained recognition as a serious contender for utility-scale solar farms in America, securing a high-profile client roster that included Goldman Sachs Asset Management and other major investors in renewables.
+In 2023, ET Solar rebranded as ELITE Solar. Another decisive shift occurred in 2024 as the regulatory landscape tightened. The window for shipping America-bound modules using cells produced in Vietnam and Cambodia began to close due to new AD/CVD restrictions.
+Most of the companies with capacity in Southeast Asia sought temporary workarounds to sustain module operations in the four targeted countries (Cambodia, Malaysia, Thailand and Vietnam), sourcing cells from elsewhere. However, ELITE Solar shuttered its cell and module activities in Vietnam and Cambodia completely.
+ELITE puts South Korea firmly on the global supply-chain stage
+The next move for ELITE Solar was more emphatic; relocating cell and module production to Indonesia and Egypt during 2024 and 2025, while modifying the corporate ownership structure of its new wafer facility in Vietnam by enticing South Korea’s OCI Holdings into its new U.S. module supply strategy.
+Through these actions, ELITE Solar effectively provided OCI with a masterclass in building a resilient silicon PV supply chain. In a two-step corporate transfer, ELITE Solar’s new wafer facility in Vietnam was absorbed into an OCI-controlled joint venture, with a significant portion of OCI’s polysilicon output reserved for the joint-venture’s wafer production – designed to give ELITE Solar a fully-compliant module offering for the U.S. market from 2026 onward. By housing the majority stake within a Singaporean special purpose vehicle (OCI ONE), OCI appears to have created a legal separation from the broader Southeast Asian manufacturing landscape.
+The scale of this achievement cannot be understated. For about 20 years, OCI (formerly DC Chemical) had navigated the same difficult solar path as other South Korean conglomerates (or “chaebols”) such as Hanwha, LG Electronics and Hyundai.
+These Korean companies each stepped into the solar sector from different industrial roots – OCI as a specialty chemicals producer, Hanwha as a diversified petrochemicals and industrial conglomerate, LG Electronics as a consumer electronics and appliance entity and Hyundai through energy project diversification.
+The result has been a two-decade cycle of industrial challenges, questionable acquisitions and mothballed overseas investments by Hanwha, Hyundai and OCI, with LG Electronics being the first of these chaebols to call time on PV back in 2022.
+Samsung, the largest chaebol in South Korea, also briefly flirted with CIGS thin-film production, but the operations barely got beyond a pilot line in 2011.
+As South Korean firms have struggled to remain relevant, Chinese competition essentially commoditized the market in a more efficient, proactive and coordinated manner.
+ELITE Solar’s involvement of OCI Holdings for its new U.S. module supply strategy represents one of the most significant engagements of a South Korean company in the PV supply-chain since the chaebols entered the manufacturing arena and could turn out to be Derek Liu’s most astute move yet.
+ELITE’s new Egypt operations
+Until 10 days ago, there were two things I never imagined doing: standing at the base of the Great Pyramid of Giza and having a guided tour of a 2-GW TOPCon cell line in Egypt. I am not sure which experience surprised me most.
+Let’s review ELITE Solar’s new 2-GW cell, 3-GW module fab in Egypt’s Suez Canal Economic Zone (SCZone). Thankfully, the equipment is all “new” – an important point given the history of Southeast Asian production lines moving from one country to another to evade tariffs.
+The TOPCon cell lines are largely comprised of new Shenzhen S.C New Energy Technology tools with Jiangsong Science and Technology automation, deploying S.C New Energy’s preferred plasma-enhanced chemical vapor deposition (PECVD) tools for the key TOPCon steps.
+The choice of S.C New Energy differs from T1 Energy’s selection of LAPLACE Renewable Energy, presumably utilizing its low pressure chemical vapor deposition (LPCVD) approach to TOPCon.
+Over the past few years, S.C New Energy and LAPLACE have become rivals during what has become a defining technical battle of the TOPCon era, with S.C New Energy seeing strong adoption for PECVD in new TOPCon lines – to accomplish tunnel oxide growth, deposition of the poly-Si layer and crystallization/doping – after the use of LPCVD that was championed largely by Jinko.
+What next for ELITE Solar?
+While ramping up the Egypt facility, ELITE Solar is likely mapping its 2030 trajectory. Several factors will define its role in the industry at this point.
+The initial output from the SCZone hub targets ELITE Solar’s U.S. pipeline, yet this cell and module base is a clear stepping stone into the global supply arena. Egypt’s plan to transform from a service economy into an industrial export powerhouse designates ELITE Solar’s factory as a test case for the country’s long-term goals.
+Currently, ELITE Solar serves the United States via Egypt and Indonesia. However, an exit from Indonesia is likely already drafted, ending a successful Southeast Asian chapter for cell and module production. Conversely, the association with OCI remains a Southeast Asian anchor, utilizing Malaysian polysilicon and wafers produced in Vietnam. As the strategic “brains” with the end-market connections, ELITE Solar essentially balances OCI’s majority ownership in the wafer JV with its own operational know-how.
+OCI’s Malaysian operations – now rebranded as OCI TerraSus – provide one of the few non-Chinese polysilicon offerings. Given the scarcity of “clean” polysilicon feedstock, these Malaysian assets have likely already surfaced as prime acquisition targets.
+Another topic relates to U.S. manufacturing. To secure long-term U.S. revenue through 2030, domestic cell and module production is essential to access 45X production credits. In this context, the “availability” of OCI’s Mission Solar module assembly facility in San Antonio, Texas, should be considered. This facility is now almost 12 years old and despite OCI’s intentions to add cell capacity, the Texas operations has generally lacked any strong direction or purpose.
+Navigating prohibited foreign entity thresholds remains the final hurdle. Here, ELITE Solar appears to hold a structural advantage: OCI (South Korea) owns 65% of the Vietnam wafer facility via the Singapore-based OCI ONE special purpose vehicle. This ownership level should keep ELITE Solar one step ahead of the trade regulations that many of the company’s competitors have yet to address.
+chris crump says
+One of the best articles on solar I have read in my 17 year solar career.
+Excellent!
+
+--------------------------------------------------------------------------------
+
+URL: http://solarpowerworldonline.com/top-solar-contractors/
+
+Solar Power World, the leading solar publication covering technology, development and installation, publishes the Top Solar Contractors List annually. The list includes hundreds of solar contractors and developers in the United States, listed and categorized by state/territory, service and market.
+The list includes solar PV companies that provide the following services: sales, EPC contracting, development, construction/installation, electrical work and/or rooftop-specific installations. Companies can do work in any market segment, including utility, commercial, community and residential, and they are sorted into their specified market categories based on the kilowatts they installed only in those respective markets.
+-
+- The 2025 list in full can be viewed right here!
+- Download our Top Solar Contractors special report that features infographics and a pdf of the main list.
+- Read our FAQs (including information on how the list is compiled) here.
+- To see more specific market, service and state lists, choose from the options below.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/recent-solar-power-articles/
+
+By Kelly Pickerel |
+By Billy Ludt |
+By Billy Ludt |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Billy Ludt |
+By Billy Ludt |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Alon Mashkovich, CEO of enSights |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Billy Ludt |
+By Billy Ludt |
+By Billy Ludt |
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/category/industry-news/
+
+By Kelly Pickerel |
+By Billy Ludt |
+By Billy Ludt |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Billy Ludt |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Billy Ludt |
+By Billy Ludt |
+By Billy Ludt |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Billy Ludt |
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/spw-state-news-hub/
+
+Click below to read the latest solar + storage project updates, policy happenings and other news in each state (plus select districts and territories).
+States: Alabama • Alaska • Arizona • Arkansas • California • Colorado • Connecticut • Delaware • Florida • Georgia • Hawaii • Idaho • Illinois • Indiana • Iowa • Kansas • Kentucky • Louisiana • Maine • Maryland • Massachusetts • Michigan • Minnesota • Mississippi • Missouri • Montana • Nebraska • Nevada • New Hampshire • New Jersey • New Mexico • New York • North Carolina • North Dakota • Ohio • Oklahoma • Oregon • Pennsylvania • Rhode Island • South Carolina • South Dakota • Tennessee • Texas • Utah • Vermont • Virginia • Washington • West Virginia • Wisconsin • Wyoming
+Districts & Territories: Washington, D.C. • Puerto Rico
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/tag/ira/
+
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelsey Misbrener |
+By Kelsey Misbrener |
+By Billy Ludt |
+By Kelsey Misbrener |
+By Kelly Pickerel |
+By Billy Ludt |
+By Kelsey Misbrener |
+By Kelsey Misbrener |
+By Kelsey Misbrener |
+By Kelly Pickerel |
+By Kelsey Misbrener |
+By Kelsey Misbrener |
+By Kelsey Misbrener |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelsey Misbrener |
+By Kelly Pickerel |
+By Kelsey Misbrener |
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/2025/07/submit-your-questions-about-the-changes-coming-to-solar-tax-credits/
+
+Now that the budget bill has been signed into law and President Trump has already issued an additional executive order around solar and wind incentives, Solar Power World wants to know what questions readers have about the impending changes to solar tax credits.
+Submit your question below to help guide SPW’s reporting.
+Tell Us What You Think!
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/2025/07/dept-of-interior-to-begin-elevated-review-of-solar-wind-projects-on-federal-lands/
+
+On July 17, the Dept. of the Interior announced Sec. Doug Burgum would begin an “elevated review” process for solar and wind projects on federal lands. The announcement comes in response to President Trump’s Executive Order 14315, which required DOI to examine their reviews of solar and wind projects. The DOI, via the Bureau of Land Management, approves wind and solar projects on public lands.
+DOI said Department-related decisions and actions concerning wind and solar energy facilities will now undergo elevated review by the Office of the Secretary, including leases, rights-of-way, construction and operation plans, grants, consultations and biological opinions. DOI said it will address provisions in the One Big Beautiful Bill Act to “eliminate longstanding right-of-way and capacity fee discounts for existing and future wind and solar projects.”
+“Today’s announcement by the Department of the Interior amounts to a tsunami of red tape and roadblocks for private investment in wind and solar energy projects,” said Ray Long, President and CEO of the American Council on Renewable Energy (ACORE), in a press statement. “Requiring Interior Secretary Doug Burgum’s personal approval on at least 69 distinct permitting actions — from site leasing to rights of way applications — on potentially hundreds of projects represents an unnecessary and inefficient approach to permitting that will lead to significant delays and uncertainty. It stands in direct conflict with the Secretary’s stated goals as chair of the National Energy Dominance Council: to increase domestic energy production and streamline development.”
+Tell Us What You Think!
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/2025/08/new-treasury-guidance-requires-large-scale-solar-projects-to-use-physical-work-test-for-itc-safe-harbor/
+
+On August 15, the Dept. of the Treasury released new guidance related to safe harboring solar projects under the ITC in response to a July executive order from President Trump. Safe harboring allows companies to demonstrate a good-faith effort at starting a solar project to secure the applicable tax credits in place that year.
+- Projects larger than 1.5 MW must use “physical work test”
+- Physical work test is narrowed and does not include “preliminary activities”
+- Projects using the physical work test must maintain “continuous program of construction”
+- Projects smaller than 1.5 MW can still use 5% safe harbor
+- All projects still have four years to be placed in service under the continuity safe harbor
+The new guidance requires projects larger than 1.5 MW to use the physical work test to safe harbor the ITC — the method proving significant physical labor has begun on a site. Large projects can no longer use the 5% safe harbor — the method proving significant costs have been incurred for the project. The guidance also narrows the physical work test to “the installation of racks or other structures to affix photovoltaic (PV) panels, collectors or solar cells to a site.” It does not include “preliminary activities” like grading the land, conducting studies or clearing a site. The guidance also requires projects using the physical work test to “maintain a continuous program of construction,” where the “physical work performed is of a significant nature.”
+The guidance did not raise the percentage required for the 5% safe harbor, which, as the name implies, remains at 5%. It also did not change the amount of time developers have to place a safe-harbored project in service, whether it’s using the physical work test or 5% safe harbor. That continuity safe harbor time period is still set at four years.
+The new rules take effect on September 2, 2025, and are not retroactive.
+Solar industry groups spoke out against the changes, but Roth Capital Partners said the guidance was “substantially better than expected.”
+“The Treasury Dept.’s new guidance to further restrict energy tax credits is part of an unprecedented side deal the administration made with anti-clean energy ideologues to undermine Congress and further harm America’s solar industry,” said Abigail Ross Hopper, president and CEO of the SEIA. “This is a blatant rejection of what Congress passed in HR1, and it threatens thousands of small businesses across the country that are the backbone of our clean energy economy.”
+CEO says
+Killing the NEM in California and Killing the ITC in the US is a direct win for the Patti Poppe (CEO of PG&E) who is an advocate for ending the freedom for citizens of California to produce their own power. It is also a big win for Salim Ramji, CEO of the Vanguard Group in which that company is the largest shareholder of PG&E who is another advocate for Killing solar. We know this through their actions. Donald Trump and the people currently in his administration are advocates of ‘money for the super rich’ which means that they are against everyday average Americans from gaining any freedom to supply their own power. The ITC is a big driver not only to curb people like Patti Poppe CEO of PG&E, Darren Woods ,CEO of ExxonMobile, and Mike Wirth, CEO of Chevron, (just to name a few) the ability to hold American’s hostage, but also allowing us to become a little more financially secure. And by US I mean every day hard working Americans. The people (currently) running our governments are in it for the money and will do whatever it takes to help their bribery income known as “campaign contributions.” It is unfortunate that the United States of America is becoming weaker by the day because of the actions of these weak people.
+James E Hamik says
+I think it’s horrible trump needs to go
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solarpowerworldonline.com/tag/tariffs/
+
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Billy Ludt |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Billy Ludt |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+By Kelly Pickerel |
+
+--------------------------------------------------------------------------------

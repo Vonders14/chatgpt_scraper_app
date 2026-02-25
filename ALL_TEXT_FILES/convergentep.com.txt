@@ -1,0 +1,784 @@
+ROOT: https://convergentep.com/
+SCRAPED_AT_UTC: 2026-02-11T19:57:34.870284Z
+PAGES_INCLUDED: 21
+
+================================================================================
+
+URL: https://convergentep.com/
+
+Energy storage systems (with or without solar PV) allow electricity to be stored—and then discharged—at the most strategic times. Today, Lithium-ion batteries, the same batteries that are used in cell phones and electric vehicles, are the most commonly used type of energy storage.
+Energy Storage: What You Need to Know
+Who We Serve
+Convergent finances and manages all aspects of on-site renewable energy development and operations to significantly and sustainably lower electricity bills for the industrial sector, electric cooperatives, and municipal utilities, and investor owned utilities. Convergent also serves as a capital partner and resource for solar and storage developers.
+Convergent is delivering significant savings, increasing reliability, and supporting sustainability goals for Fortune 100 businesses, grid operators, municipal utilities, and electric cooperatives.
+Our customers include:
+”Convergent has a strong track record of delivering cost savings and resiliency services to large industrial customers. This energy storage offering complements the broader suite of solutions, including energy efficiency and energy management, that we already provide.
+Eric BradleyGlobal General Manager Connected Energy, Shell New Energies
+Convergent and Shell New Energies’ Battery Storage System
+Commitment to Sustainability and ESG
+As we like to say, “energy storage is the linchpin of the clean energy transition,” and we could not be more excited or motivated to be part of the solution to the greatest global challenge of our time: climate change.
+In our annual Sustainability and Impact Report, we share how we integrate Environmental, Social, and Governance (ESG) performance into our overall success metrics.
+Convergent’s ESG Risk Rating
+We are proud to report that both within and outside of our industry, Convergent is considered a “low risk” company with strong management of potential ESG issues. In fact, as of April, 2023, we were rated 7th out of 706 assessed utility-industry companies!
+Why Convergent?
+Savings
+We finance and develop MW-scale projects that have saved businesses up to 40% off their electricity bills and deferred multimillion infrastructure upgrades for utilities
+Reliability
+We guarantee the battery will perform when you need it to
+Optimization
+Our PEAK IQ® energy storage intelligence collects and analyzes over 150M data points per day
+Expertise
+With over a decade of experience, we have the storage development cycle down pat
+Partnership
+We put our money into the projects, so we are literally invested in making them successful
+Sustainability
+Our systems advance corporate social responsibility and the broader clean energy transition
+
+--------------------------------------------------------------------------------
+
+URL: https://convergentep.com/leadership/
+
+Executive Leadership
+Johannes Rittershausen
+Co-CEO
+Johannes Rittershausen
+Johannes Rittershausen serves as Convergent's Co-CEO and member of the board. Prior to co-founding Convergent with Frank Genova in 2011, Johannes worked as a senior project manager in corporate strategic planning and the electric vehicle readiness unit at Southern California Edison (“SCE”) from January 2007 to November 2011. Johannes began his career in the utility industry in 2007 as an analyst in SCE’s power procurement business unit, performing functions in commodity trading, long-term resource planning, and ISO market settlements. Johannes holds a Bachelor of Arts in Philosophy, Politics and Economics, with a focus in Economics, from Pomona College and a Master of Arts from Georgetown University’s School of Foreign Services.
+Frank Genova
+Co-CEO
+Frank Genova
+Frank Genova serves as Convergent's Co-CEO and member of the board. Prior to co-founding Convergent with Johannes Rittershausen in 2011, Frank worked in project development and finance with Fisher Brothers and Plaza Construction, focusing on renewable development, renewable integration, complex mechanical and electrical system integration, and corporate strategy. He also co-founded RG Capital Partners in 2011, where he served as Managing Director until July 2015. Frank holds a Bachelor of Arts in Mechanical Engineering from Villanova University and a Master of Business Administration in Finance, Phi Kappa Phi, from Fordham University’s Graduate School of Business. Since April 2016, he serves a Member of Advisory Board of Villanova University’s College of Engineering.
+Sebastián Villaveces
+Chief Legal and People Officer
+Sebastián Villaveces
+Sebastián serves as Chief Legal and People Officer, leading the company’s legal and people operations functions, as well as the project and land acquisitions teams. Prior, he served as Convergent’s Deputy General Counsel. Sebastián is committed to advancing the clean energy transition and brings over a decade of experience as a transactional lawyer in which he advised on projects and transactions in 15 jurisdictions throughout the Americas. Before joining Convergent, Sebastián served as Senior Associate in the Energy Transactions and Projects group at Vinson & Elkins LLP, as Senior Associate in the Projects group at Herbert Smith Freehills, as Counsel at New Fortress Energy, and as an Associate at Cleary Gottlieb Steen & Hamilton LLP. Sebastián holds a Juris Doctorate equivalent degree from Universidad de los Andes in Colombia, a Masters of Laws from Northwestern Pritzker School of Law, and a Certificate in Business Administration from Northwestern Kellogg School of Management.
+Leandro Abreu
+Chief Operating Officer
+Leandro Abreu
+Leandro Abreu serves as Convergent’s Chief Operating Officer.
+Leandro brings more than two decades of experience leading complex organizations, building high performing teams, and delivering operational excellence across multiple industries, including in renewable energy and technology. Prior to joining Convergent, Leandro served as the CEO of Prospera + Greener where he led the strategic expansion and merger of Prospera with Greener, forming an ESG-driven energy platform aimed at reducing consumer carbon footprints through solar generation. Prior, Leandro served as Vice President for Digital Grid Solutions for Siemens, overseeing a high-impact regional portfolio with focus on digitalization, automation, and modernization of energy infrastructure. Previously, Leandro also served as a General Manager for Enel X, where he led the rapid expansion of Enel X’s solar division, and as an Executive (Cloud & Technology Services) for IBM Brazil.
+Leandro holds two Masters in Business Administration from Fundação Getulio Vargas (FGV) and Fundação Dom Cabral (FDC), as well as a Bachelor in Business Administration from USCS.
+Russ Laplante
+Chief Financial Officer
+Russ Laplante
+Russ Laplante serves as Convergent’s Chief Financial Officer. Russ joins Convergent from Savion, a utility-scale solar and energy storage project development company, where he served as Chief Investment Officer and spent a decade overseeing M&A as well as leading tax equity transactions, project finance, and valuation. Prior to joining Savion, Laplante was Vice President of Business Development at Tradewind Energy and a founding member of OwnEnergy, a utility scale wind development company where he managed development, offtake and construction financing. Laplante began his career at Goldman Sachs as a financial analyst and holds the Chartered Financial Analyst® designation.
+Russ lives in Jersey City, NJ with his son and fiancé.
+Management
+Kevin Borden
+SVP, Product
+Kevin Borden
+Kevin Borden serves as Convergent’s Senior Vice President, Product. Prior to joining Convergent, Kevin was the Head of Marketing for Enel X’s energy services in North America, which includes distributed energy resources and demand response. He also led customer-centric product innovation efforts at Emerson and Yingli Solar and has launched several new products and services. Kevin holds a Bachelor of Science in Civil Engineering from Cornell University and a Master’s in Business Administration from Kellogg School of Management.
+Peter Cavan
+SVP, Market Development
+Peter Cavan
+Peter Cavan serves as Convergent's Senior Vice President of Market Development and leads the team responsible for answering the question, "Where next?" Peter has spent over a decade in distributed energy for commercial and utility customers. Prior to joining Convergent, Peter led regulatory affairs for Centrica Business Solutions North America, covering demand response, solar, storage, energy efficiency, EV charging, and other matters at the state and federal levels. He also served in regulatory and commercial roles at EnerNOC and Pulse Energy. Peter holds a Bachelor in Philosophy, Politics & Economics from the University of Durham and a Master of Management from the University of British Columbia's Sauder Business School.
+Adam Green
+SVP, Commercial Operations
+Adam Green
+Adam Green serves as Convergent’s Senior Vice President, Commercial Operations and has been with Convergent since 2018. He leads the team responsible for structuring, negotiation, and execution of long-term offtake agreements with utility and C&I customers. Adam has over ten years of experience with energy storage and solar, having developed hundreds of megawatts in three continents, most recently as Director of Development at SolarReserve. He has also written technical papers on solar and thermal storage and holds two patents. Adam graduated Phi Beta Kappa and Magna Cum Laude from Brown University with a concentration of his own design entitled “Rationality and Decision Making,” and holds Master’s in Business Administration from the UCLA Anderson School of Management.
+Lisa Katz
+Head of Sales
+Lisa Katz
+Lisa Katz is Head of Sales at Convergent. She joined the company in 2021 after serving as Director of Business Development & Marketing and as an Executive Leadership Team member at CEM Engineering, where she guided clients through project feasibility, engineering, and EPC delivery for a variety of distributed energy solutions, including combined heat and power (CHP), biomass, biogas, and district energy. Lisa began her career at DCL International, spending nearly a decade in various sales roles, where she successfully implemented strategies for emissions control technologies across diverse markets and territories.
+Based in Toronto, Ontario, Lisa enjoys spending time outdoors with her family and is passionate about mountain biking and trail running.
+Katie Guerry
+SVP, Regulatory and Government Affairs
+Katie Guerry
+Katie Guerry serves as Convergent’s Senior Vice President, Regulatory and Government Affairs. Katie’s 19-year energy market career includes diverse commercial, legal, risk, and regulatory experience in North America supported portfolios of diverse commodities and technology types including wind, solar, DR, DER, energy storage, EV charging, natural gas, and oil. Prior to Convergent, she was the Head of Regulatory Affairs in North America for Italian-based Enel X; with similar regulatory leadership positions at demand response provider EnerNOC before its acquisition by Enel X in 2018. Her first 10 years in energy were at Hess Corporation supporting their competitive energy supplier business. Katie has twice served as Chair and Vice-Chair of PJM Member’s and Liaison Committees and provided expert testimony for Federal and State agencies. She holds a Bachelor of Arts in Political Science and English from the College of William and Mary and a Juris Doctorate from Rutgers Law School.
+Steve Meyers
+Senior Vice President, Asset Portfolio Management
+Steve Meyers
+Steve Meyers is Senior Vice President of Asset Portfolio Management at Convergent, where he oversees the performance and profitability of the company’s fleet of operating battery storage and solar energy systems.
+Steve brings nearly three decades of experience at the intersection of energy technology and finance. Prior to joining Convergent, he served as Chief Product Officer at Sparkfund, where he led product strategy and corporate development. He has held senior leadership roles in both public and private companies, including serving as President of EnerPath, where he guided the company through a successful acquisition by Lime Energy
+Earlier in his career, Steve worked with growth companies across the energy ecosystem—as a consultant to global energy firms and cleantech startups, an investor in distributed energy resources, an engineer in ESCOs in the US and Asia, and a research scientist at Lawrence Berkeley National Lab. He has deep expertise in software, distributed energy, energy markets, and commercial strategy.
+Steve holds a Bachelor of Science in Physics from Haverford College, a Master of Science in Mechanical Engineering from the University of California, Berkeley, and a Master of Business Administration in Energy Finance from the McCombs School of Business at The University of Texas at Austin.
+He lives in Austin, Texas with his wife and three children and is an avid cyclist, skier, and guitarist who enjoys spending time outdoors.
+David Nie
+SVP, Analytics
+David Nie
+David serves as Convergent’s Senior Vice President, Analytics, and has played a central role in identifying opportunities for and driving the performance of the company’s energy storage and solar-plus-storage portfolio since 2015. Prior to joining Convergent, David worked at EnerNOC on the demand response team managing its portfolio in the PJM region. He has experience in day-to-day operations and long-term strategy execution in capacity and energy markets. David holds a Bachelor of Arts from Dartmouth in Mathematics and Economics.
+Kate Siskel
+SVP, Marketing and Communications
+Kate Siskel
+Kate Siskel serves as Convergent’s Senior Vice President, Marketing and Communications, and has led marketing at Convergent since March 2018. Prior to joining Convergent, Kate drove marketing and media strategies, along with influencer engagement, at the national nonprofit the Alliance for a Healthier Generation. She previously owned all marketing and communications efforts at startup BrightFarms, where she led a team to rebrand the company and secured strategic media placements including Forbes, The New York Times, and The Washington Post. In 2009, Kate entered the media sector as a production assistant at CBS News’ The Early Show (now CBS This Morning). Kate holds a Bachelor of Arts from Yale University and a Master of Arts from New York University.
+Tremor Temchin
+SVP, Business Development and Head of Canada
+Tremor Temchin
+Tremor Temchin serves as Convergent’s Senior Vice President, Business Development, and Head of Canada. Since joining Convergent in 2014, Tremor has been instrumental in developing, operating, and maintaining many of Convergent’s energy storage solutions, and he represents Convergent on Energy Storage Canada’s Board of Directors. Prior to joining Convergent, Tremor served as the Founder and Executive Director of the Rotary Pacific Water for Life Foundation. Tremor graduated with honors with a Bachelor of Arts from Pomona College and holds a Master of Arts from the University of the South Pacific’s Centre for Environment and Sustainable Development.
+Cortney Zaret
+Corporate Controller
+Cortney Zaret
+Cortney Zaret serves as Corporate Controller and is responsible for Convergent’s accounting and tax operations. Prior to joining Convergent, Cortney served as Controller at Ørsted North America, where she managed the growth and integration of all US accounting areas including Audit, Financial Reporting, Tax, Treasury, Payroll and Payables. Cortney subsequently served as Head of Accounting and Administration at Bluestar Energy Capital, where she created and built out financial operations and administrative functions in a renewables-focused start-up environment. Cortney has over 17 years of experience in a broad range of accounting and finance leadership and consulting roles across several industries including real estate, manufacturing and environmental services.
+Cortney holds a Bachelor of Science in economics from McGill University and a Master of Science in accountancy from Walsh College of Business. She also holds Certified Public Accountant and Certified Management Accountant designations.
+
+--------------------------------------------------------------------------------
+
+URL: https://convergentep.com/our-story/
+
+Convergent has Consistently Been Ahead of the Curve in the Energy Storage Sector
+”It’s been exciting and enormously fulfilling to be a part of and help guide the energy storage industry since its inception. The inability to cost-effectively store electrons has been the biggest obstacle to a more renewable-powered grid, but not anymore. Energy storage—most often lithium-ion-based battery storage—allows businesses to avoid peak pricing and utilities to reduce wholesale demand and energy costs while increasing reliability and supporting the clean energy transition. 2021 was the inflection point for the energy storage industry in North America.
+About Convergent: A Brief History
+Convergent was founded over a decade ago, in 2011. Our mission has not wavered: build an energy landscape that is less expensive, more reliable, and increasingly sustainable—one that benefits our employees, customers, communities, and planet.
+Back in 2011, deploying commercial-, industrial-, and utility-scale battery storage to support the electric grid was a relatively new concept. While other firms shared our mission to accelerate the clean energy transition through AI-powered energy storage, few understood how to actually execute projects to reduce costs and create new value for electricity customers and the grid at large.
+We remain trailblazers in the energy storage sector; we’ve continually delivered many industry “firsts,” proving time and again that energy storage is ready for prime time and can contribute meaningfully to a clean energy future.
+The market now fully agrees with our founding premise. In 2019, the energy and infrastructure fund ECPpurchased Convergent, providing us with the financial resources to continue setting energy storage sector milestones.
+Today, the growth and maturation of the energy storage sector is not only great news for Convergent; it is necessary for our planet to move away from fossil fuels and more quickly realize a clean energy future. There is strong alignment among the various stakeholders, sector champions, and investors that energy storage is here to stay, as reflected by “hockey-stick” growth in 2021.
+Now that maximizing renewable energy, reducing energy costs, and increasing reliability with an energy storage or solar-plus-storage system is a mainstream concept, we are more convinced than ever that energy storage is the linchpin of the clean energy transition. That energizes us to continue developing energy storage and solar-plus-storage systems that embody our tagline, “powered by results.”
+
+--------------------------------------------------------------------------------
+
+URL: https://convergentep.com/leadership/?hsLang=en
+
+Executive Leadership
+Johannes Rittershausen
+Co-CEO
+Johannes Rittershausen
+Johannes Rittershausen serves as Convergent's Co-CEO and member of the board. Prior to co-founding Convergent with Frank Genova in 2011, Johannes worked as a senior project manager in corporate strategic planning and the electric vehicle readiness unit at Southern California Edison (“SCE”) from January 2007 to November 2011. Johannes began his career in the utility industry in 2007 as an analyst in SCE’s power procurement business unit, performing functions in commodity trading, long-term resource planning, and ISO market settlements. Johannes holds a Bachelor of Arts in Philosophy, Politics and Economics, with a focus in Economics, from Pomona College and a Master of Arts from Georgetown University’s School of Foreign Services.
+Frank Genova
+Co-CEO
+Frank Genova
+Frank Genova serves as Convergent's Co-CEO and member of the board. Prior to co-founding Convergent with Johannes Rittershausen in 2011, Frank worked in project development and finance with Fisher Brothers and Plaza Construction, focusing on renewable development, renewable integration, complex mechanical and electrical system integration, and corporate strategy. He also co-founded RG Capital Partners in 2011, where he served as Managing Director until July 2015. Frank holds a Bachelor of Arts in Mechanical Engineering from Villanova University and a Master of Business Administration in Finance, Phi Kappa Phi, from Fordham University’s Graduate School of Business. Since April 2016, he serves a Member of Advisory Board of Villanova University’s College of Engineering.
+Sebastián Villaveces
+Chief Legal and People Officer
+Sebastián Villaveces
+Sebastián serves as Chief Legal and People Officer, leading the company’s legal and people operations functions, as well as the project and land acquisitions teams. Prior, he served as Convergent’s Deputy General Counsel. Sebastián is committed to advancing the clean energy transition and brings over a decade of experience as a transactional lawyer in which he advised on projects and transactions in 15 jurisdictions throughout the Americas. Before joining Convergent, Sebastián served as Senior Associate in the Energy Transactions and Projects group at Vinson & Elkins LLP, as Senior Associate in the Projects group at Herbert Smith Freehills, as Counsel at New Fortress Energy, and as an Associate at Cleary Gottlieb Steen & Hamilton LLP. Sebastián holds a Juris Doctorate equivalent degree from Universidad de los Andes in Colombia, a Masters of Laws from Northwestern Pritzker School of Law, and a Certificate in Business Administration from Northwestern Kellogg School of Management.
+Leandro Abreu
+Chief Operating Officer
+Leandro Abreu
+Leandro Abreu serves as Convergent’s Chief Operating Officer.
+Leandro brings more than two decades of experience leading complex organizations, building high performing teams, and delivering operational excellence across multiple industries, including in renewable energy and technology. Prior to joining Convergent, Leandro served as the CEO of Prospera + Greener where he led the strategic expansion and merger of Prospera with Greener, forming an ESG-driven energy platform aimed at reducing consumer carbon footprints through solar generation. Prior, Leandro served as Vice President for Digital Grid Solutions for Siemens, overseeing a high-impact regional portfolio with focus on digitalization, automation, and modernization of energy infrastructure. Previously, Leandro also served as a General Manager for Enel X, where he led the rapid expansion of Enel X’s solar division, and as an Executive (Cloud & Technology Services) for IBM Brazil.
+Leandro holds two Masters in Business Administration from Fundação Getulio Vargas (FGV) and Fundação Dom Cabral (FDC), as well as a Bachelor in Business Administration from USCS.
+Russ Laplante
+Chief Financial Officer
+Russ Laplante
+Russ Laplante serves as Convergent’s Chief Financial Officer. Russ joins Convergent from Savion, a utility-scale solar and energy storage project development company, where he served as Chief Investment Officer and spent a decade overseeing M&A as well as leading tax equity transactions, project finance, and valuation. Prior to joining Savion, Laplante was Vice President of Business Development at Tradewind Energy and a founding member of OwnEnergy, a utility scale wind development company where he managed development, offtake and construction financing. Laplante began his career at Goldman Sachs as a financial analyst and holds the Chartered Financial Analyst® designation.
+Russ lives in Jersey City, NJ with his son and fiancé.
+Management
+Kevin Borden
+SVP, Product
+Kevin Borden
+Kevin Borden serves as Convergent’s Senior Vice President, Product. Prior to joining Convergent, Kevin was the Head of Marketing for Enel X’s energy services in North America, which includes distributed energy resources and demand response. He also led customer-centric product innovation efforts at Emerson and Yingli Solar and has launched several new products and services. Kevin holds a Bachelor of Science in Civil Engineering from Cornell University and a Master’s in Business Administration from Kellogg School of Management.
+Peter Cavan
+SVP, Market Development
+Peter Cavan
+Peter Cavan serves as Convergent's Senior Vice President of Market Development and leads the team responsible for answering the question, "Where next?" Peter has spent over a decade in distributed energy for commercial and utility customers. Prior to joining Convergent, Peter led regulatory affairs for Centrica Business Solutions North America, covering demand response, solar, storage, energy efficiency, EV charging, and other matters at the state and federal levels. He also served in regulatory and commercial roles at EnerNOC and Pulse Energy. Peter holds a Bachelor in Philosophy, Politics & Economics from the University of Durham and a Master of Management from the University of British Columbia's Sauder Business School.
+Adam Green
+SVP, Commercial Operations
+Adam Green
+Adam Green serves as Convergent’s Senior Vice President, Commercial Operations and has been with Convergent since 2018. He leads the team responsible for structuring, negotiation, and execution of long-term offtake agreements with utility and C&I customers. Adam has over ten years of experience with energy storage and solar, having developed hundreds of megawatts in three continents, most recently as Director of Development at SolarReserve. He has also written technical papers on solar and thermal storage and holds two patents. Adam graduated Phi Beta Kappa and Magna Cum Laude from Brown University with a concentration of his own design entitled “Rationality and Decision Making,” and holds Master’s in Business Administration from the UCLA Anderson School of Management.
+Lisa Katz
+Head of Sales
+Lisa Katz
+Lisa Katz is Head of Sales at Convergent. She joined the company in 2021 after serving as Director of Business Development & Marketing and as an Executive Leadership Team member at CEM Engineering, where she guided clients through project feasibility, engineering, and EPC delivery for a variety of distributed energy solutions, including combined heat and power (CHP), biomass, biogas, and district energy. Lisa began her career at DCL International, spending nearly a decade in various sales roles, where she successfully implemented strategies for emissions control technologies across diverse markets and territories.
+Based in Toronto, Ontario, Lisa enjoys spending time outdoors with her family and is passionate about mountain biking and trail running.
+Katie Guerry
+SVP, Regulatory and Government Affairs
+Katie Guerry
+Katie Guerry serves as Convergent’s Senior Vice President, Regulatory and Government Affairs. Katie’s 19-year energy market career includes diverse commercial, legal, risk, and regulatory experience in North America supported portfolios of diverse commodities and technology types including wind, solar, DR, DER, energy storage, EV charging, natural gas, and oil. Prior to Convergent, she was the Head of Regulatory Affairs in North America for Italian-based Enel X; with similar regulatory leadership positions at demand response provider EnerNOC before its acquisition by Enel X in 2018. Her first 10 years in energy were at Hess Corporation supporting their competitive energy supplier business. Katie has twice served as Chair and Vice-Chair of PJM Member’s and Liaison Committees and provided expert testimony for Federal and State agencies. She holds a Bachelor of Arts in Political Science and English from the College of William and Mary and a Juris Doctorate from Rutgers Law School.
+Steve Meyers
+Senior Vice President, Asset Portfolio Management
+Steve Meyers
+Steve Meyers is Senior Vice President of Asset Portfolio Management at Convergent, where he oversees the performance and profitability of the company’s fleet of operating battery storage and solar energy systems.
+Steve brings nearly three decades of experience at the intersection of energy technology and finance. Prior to joining Convergent, he served as Chief Product Officer at Sparkfund, where he led product strategy and corporate development. He has held senior leadership roles in both public and private companies, including serving as President of EnerPath, where he guided the company through a successful acquisition by Lime Energy
+Earlier in his career, Steve worked with growth companies across the energy ecosystem—as a consultant to global energy firms and cleantech startups, an investor in distributed energy resources, an engineer in ESCOs in the US and Asia, and a research scientist at Lawrence Berkeley National Lab. He has deep expertise in software, distributed energy, energy markets, and commercial strategy.
+Steve holds a Bachelor of Science in Physics from Haverford College, a Master of Science in Mechanical Engineering from the University of California, Berkeley, and a Master of Business Administration in Energy Finance from the McCombs School of Business at The University of Texas at Austin.
+He lives in Austin, Texas with his wife and three children and is an avid cyclist, skier, and guitarist who enjoys spending time outdoors.
+David Nie
+SVP, Analytics
+David Nie
+David serves as Convergent’s Senior Vice President, Analytics, and has played a central role in identifying opportunities for and driving the performance of the company’s energy storage and solar-plus-storage portfolio since 2015. Prior to joining Convergent, David worked at EnerNOC on the demand response team managing its portfolio in the PJM region. He has experience in day-to-day operations and long-term strategy execution in capacity and energy markets. David holds a Bachelor of Arts from Dartmouth in Mathematics and Economics.
+Kate Siskel
+SVP, Marketing and Communications
+Kate Siskel
+Kate Siskel serves as Convergent’s Senior Vice President, Marketing and Communications, and has led marketing at Convergent since March 2018. Prior to joining Convergent, Kate drove marketing and media strategies, along with influencer engagement, at the national nonprofit the Alliance for a Healthier Generation. She previously owned all marketing and communications efforts at startup BrightFarms, where she led a team to rebrand the company and secured strategic media placements including Forbes, The New York Times, and The Washington Post. In 2009, Kate entered the media sector as a production assistant at CBS News’ The Early Show (now CBS This Morning). Kate holds a Bachelor of Arts from Yale University and a Master of Arts from New York University.
+Tremor Temchin
+SVP, Business Development and Head of Canada
+Tremor Temchin
+Tremor Temchin serves as Convergent’s Senior Vice President, Business Development, and Head of Canada. Since joining Convergent in 2014, Tremor has been instrumental in developing, operating, and maintaining many of Convergent’s energy storage solutions, and he represents Convergent on Energy Storage Canada’s Board of Directors. Prior to joining Convergent, Tremor served as the Founder and Executive Director of the Rotary Pacific Water for Life Foundation. Tremor graduated with honors with a Bachelor of Arts from Pomona College and holds a Master of Arts from the University of the South Pacific’s Centre for Environment and Sustainable Development.
+Cortney Zaret
+Corporate Controller
+Cortney Zaret
+Cortney Zaret serves as Corporate Controller and is responsible for Convergent’s accounting and tax operations. Prior to joining Convergent, Cortney served as Controller at Ørsted North America, where she managed the growth and integration of all US accounting areas including Audit, Financial Reporting, Tax, Treasury, Payroll and Payables. Cortney subsequently served as Head of Accounting and Administration at Bluestar Energy Capital, where she created and built out financial operations and administrative functions in a renewables-focused start-up environment. Cortney has over 17 years of experience in a broad range of accounting and finance leadership and consulting roles across several industries including real estate, manufacturing and environmental services.
+Cortney holds a Bachelor of Science in economics from McGill University and a Master of Science in accountancy from Walsh College of Business. She also holds Certified Public Accountant and Certified Management Accountant designations.
+
+--------------------------------------------------------------------------------
+
+URL: https://convergentep.com/careers
+
+Take Charge of Your Career With Convergent
+Our mission is to build an energy landscape that is less expensive, more reliable, and increasingly sustainable—one that benefits our employees, customers, communities, and planet.
+Energy Storage: The Linchpin of the Clean Energy Transition
+Energy storage systems (with or without solar PV) allow electricity to be stored—and then discharged—at the most strategic times. Today, Lithium-ion batteries, the same batteries that are used in cell phones and electric vehicles, are the most commonly used type of energy storage.
+About Convergent
+Convergent Energy and Power (Convergent), a leading provider of energy storage solutions in North America, has over 800 MW / 1 GWh of energy storage and solar-plus-storage systems operating or under development, which is equivalent to the power consumed by approximately 750,000 homes. Convergent has over $1bn invested in or committed to systems in operation or under development.
+What We Do
+Convergent finances and manages all aspects of energy storage and solar-plus-storage development and operations to significantly and sustainably lower electricity bills for the industrial and utilities sectors. Convergent also serves as a capital partner and resource for solar and storage developers. Convergent is has lowered our industrial customers’ energy bills by up to 40% and deferred multimillion dollar upgrades for utilities.
+Hybrid-Remote Work Environment
+Comprehensive Medical, Dental, and Vision Insurance
+Generous Vacation Policy
+Employer-Matched 401K
+Robust Professional Development Resources
+Passionate, Talented, Driven Colleagues!
+Convergent Ranked Among Best Workplaces
+Convergent has been named to Inc. Magazine’s annual Best Workplaces list for 2023. The award is the result of a comprehensive measurement of American companies that have excelled in creating exceptional workplaces and company culture.
+The survey, conducted by Quantum Workplace, included topics such as management effectiveness, perks, fostering employee growth, and overall company culture. The organization’s benefits were also audited to determine overall score and ranking.
+Commitment to Diversity, Equity, Inclusion, and Belonging (DEIB)
+At Convergent, we are committed to fostering a work environment where diversity, equity, inclusion, and belonging are seen as a strategic advantage and celebrated. As part of the energy sector recruiting in STEM, we believe it is imperative not to perpetuate the historical demographics of these fields.
+We define diversity as (but not limited to) differences in race, ethnicity, religion, gender, gender expression, sexual orientation, age, culture, ability, social and economic class, employment level, veteran status, and political beliefs. We strive to foster a culture where people can bring their most productive versions of themselves to work and experience a sense of belonging with their colleagues. Language is ever-evolving, just like our industry, which is why Convergent’s definition of diversity is subject to expansion and iteration.
+We value how folks’ unique backgrounds and experiences can improve the workplace for individuals and enhance Convergent’s overall performance.
+We value how folks’ unique backgrounds and experiences can improve the workplace for individuals and enhance Convergent’s overall performance.
+Featured DEIB Resources and Communities at Convergent
+- Annual employee survey on DEIB, which drives and informs priorities for the following year.
+- Convergent Diversity, Equity, Inclusion and Belonging Working Group meets monthly to support DEIB priorities
+- Multiple employee-led resource groups (ERG), each with a specific mission, community served, budget, and executive sponsor.
+- Internal Speaker Series that brings in outside experts to share their experiences with a DEIB lens
+- Volunteer Time Off (VTO) for every full-time-employee with a non-profit organization of their choice
+- Convergent-supported employee giving and matching program
+Commitment to Environment, Social, and Governance (ESG) Performance
+In our second annual Sustainability and Impact Report, we share how we integrate Environmental, Social, and Governance (ESG) performance into our overall success metrics.
+As we like to say, “energy storage is the linchpin of the clean energy transition,” and we could not be more excited or motivated to be part of the solution to the greatest global challenge of our time: climate change.
+Spotlight: Approach to Talent
+Our Talent Acquisition Philosophy is anchored in transparency, intentionality, and a resolute commitment to diversity and innovation. We aim to attract, retain, and nurture the best talent, ultimately contributing to the ongoing success and excellence of Convergent.
+We embrace a vibrant culture that thrives on the principles of continuous learning and development, flexibility, holistic growth, and employee well-being. These values form the foundation of our organization and guide us in creating an environment where every individual can flourish both personally and professionally.
+Spotlight: Rotation Analyst Program
+To achieve the global transition to renewable energy over the coming decades, millions of new experienced professionals will be needed. At Convergent, we’re committed to supporting every employee’s career growth and goals. One example of this commitment is our entry-level Rotation Analyst program. It provides opportunities for recent graduates to enter the renewables sector and contribute immediately to projects across Convergent while acquiring industry knowledge and skills as the foundation for a career in the industry.
+For those interested in being part of Convergent’s Rotation Analyst Program, please send your resume and cover letter to careers[at]convergentep.com.
+Meet Our 2023-2024 Rotation Analysts
+Alex
+Clay
+Olivia
+Mackenzi
+Desean
+Theo
+”My journey in renewable energy started almost twenty years ago as an entry-level utility analyst. Because of that opportunity to learn about the electricity industry from the ground up, I was positioned to help start Convergent.
+Johannes RittershausenCEO
+CEO Johannes Rittershausen and Convergent’s Rotation Analysts
+Energize Your Career Today
+Convergent is a rapidly growing company in a rapidly growing sector. If you’re interested in being part of a team that is directly accelerating the future of energy through AI-powered energy storage, join us!
+We encourage people from minority or marginalized groups to apply. If you don’t meet 100% of the above qualifications, but see yourself contributing, please submit an application.
+
+--------------------------------------------------------------------------------
+
+URL: https://convergentep.com/energy-storage
+
+Why Energy Storage
+Energy storage is the linchpin of the clean energy transition. The more renewable energy on the grid, the better—but these resources only produce power when the sun is shining, or the wind is blowing. Energy storage can “firm up” renewable resources, maximizing their value to the grid. In addition, energy storage can reduce the cost of electricity (storing energy when it is cheapest, dispatching it when it is most expensive), and increase the reliability of our aging electric grid increasingly strained by climate change.
+Solar-Plus-Storage: 3 Reasons Why They’re Better Together
+Why Energy Storage NOW
+Historically, power on the grid has flowed in one direction (from generation to transmission to distribution to customers) but with more and more customers producing their own power, i.e., solar panels at businesses or residences, power is now flowing in multiple directions. The grid was not built for this. Nor was it built for the proliferation of extreme weather events produced by climate change.
+The future of energy depends on our ability to store it. We need energy storage to accelerate the clean energy transition, reduce costs, and increase reliability for businesses, utilities, and communities.
+The Key Benefits of Energy Storage
+Maximize Renewable Energy
+Reduce Electricity Costs
+Increase Grid Reliability
+Energy Storage 101: How Energy Storage Works
+Energy storage systems allow electricity to be stored—and then discharged—at the most strategic times. Today, Lithium-ion batteries, the same batteries that are used in cell phones and electric vehicles, are the most commonly used type of energy storage. Like the batteries in your cell phone, commercial-, industrial-, and utility-scale battery energy storage systems can be charged with electricity from the grid, stored, and discharged when there is a deficit in supply or when energy is most expensive. Increasingly, battery energy storage is being paired with solar PV, which maximizes the value of solar energy to the grid (i.e., storing solar-generated electricity for when it is cloudy or after the sun sets).
+Convergent’s AI-powered energy storage intelligence, PEAK IQ®, makes data-driven decisions about when and how to charge and discharge energy storage systems for optimal value creation and value stacking.
+Primary Energy Storage Technologies
+Battery Storage
+Battery energy storage systems (BESS) are charged and discharged with electricity from the grid. Lithium-ion batteries are the dominant form of energy storage today because they hold a charge longer than other types of batteries, are less expensive, and have a smaller footprint. Batteries do not generate power; batteries store power. As a result, knowing when to charge and discharge a battery storage system is critical. In most cases, this means charging when energy is least expensive and discharging when energy is most expensive. Battery storage is an increasingly popular solution for businesses and utilities looking to reduce their energy costs and carbon footprint at the same time.
+Solar-Plus-Storage
+Solar panels only generate electricity when the sun is shining. Humans, of course, do not only use electricity when the sun is out. This is why finding a way to reliably store and access those electrons (i.e. energy storage) is key to the clean energy transition. A solar-plus-storage system is a battery system that is charged by a connected solar system, such as a photovoltaic (PV) one. In other words, solar-plus-storage combines a battery energy storage system with solar PV to reduce a customer’s energy costs and carbon footprint at the same time.
+Flywheels
+Flywheels store energy as kinetic energy by accelerating a rotor (also known as a flywheel) to very high speeds and maintaining that energy in the form of rotational energy. Flywheels have storage capacities comparable to batteries and faster discharge rates. They are mainly used to provide load leveling or grid frequency regulation services by balancing changes between supply and demand.
+Pumped Hydropower
+Hydropower, or hydroelectric power, is one of the original and most prevalent forms of renewable energy, using the natural flow of moving water to generate electricity. Pumped storage hydropower (PSH) is a form of hydroelectric energy storage that uses water reservoirs at two different elevations that can behave similarly to a giant battery. In PSH, water is pumped from the lower reservoir to the higher reservoir and generates energy when released. While a highly sustainable form of energy storage, PHS requires access to a very specific landscape, limiting its use.
+The Key Applications for Energy Storage
+Coincident Peak Demand Charge Avoidance
+PEAK IQ, Convergent’s energy storage intelligence software, can forecast electric system peaks and discharge the system at those times, reducing electricity costs and the need for additional generation. This is also known as “peak hitting” or “peak shaving.”
+Non-Coincident Peak Demand Charge Avoidance
+PEAK IQ can forecast a facility’s peak usage times and dispatch an energy storage system during those hours, reducing electricity costs.
+Energy Arbitrage
+Because electricity historically could not be stored, electricity prices are usually time-dependent – i.e., they are more expensive during times when people need it most (e.g., a hot summer afternoon) and cheapest when it’s needed least. Energy arbitrage takes advantage of “time of use” electricity pricing by charging an energy storage system when electricity is cheapest and discharging when it is most expensive.
+Solar Firming
+Solar firming with energy storage uses the asset to “firm” or smooth any gaps that may arise between the solar energy supply and the demand due to clouds or time of day.
+Non-Wires-Alternative (NWA)
+The power lines on which electricity is transported (“transmission” and “distribution” lines) are expensive to build and maintain, and incredibly difficult to site, as most people do not want new power lines near them. By increasing capacity and resiliency on the grid at the most strategic times, intelligently deployed energy storage avoids or defers the need to build out new infrastructure (wires), which is called a Non-Wires Alternative.
+Capacity
+Energy storage provides additional local and system capacity at the most critical times.
+Ancillary Services
+Energy storage intelligence like PEAK IQ enables an asset to provide ancillary services to the electric grid, including Frequency Regulation and Operating Reserves.
+Energy Storage Sector Key Takeaways
+Battery storage creates a smarter, more flexible, and more reliable grid.
+Energy storage is the linchpin of our clean energy future.
+There are multiple applications for energy storage to add value to customers and the grid today.
+Ultimately, both short- and long-duration energy storage are essential to transitioning away from fossil fuels.
+Ensuring equal treatment of battery storage from both policy and market perspectives will further accelerate the clean energy transition.
+
+--------------------------------------------------------------------------------
+
+URL: https://convergentep.com/news
+
+Convergent Newsroom
+Stay current with the latest updates from Convergent
+Media Coverage
+Press Releases
+”The future of energy depends on our ability to store it. And, for the first time in history, there’s an investment tax credit for energy storage. There has never been a more critical time to accelerate the clean energy transition through AI-powered energy storage.
+
+--------------------------------------------------------------------------------
+
+URL: https://resources.convergentep.com/
+
+Frequently Asked Questions: How Will (and Won’t!) the OBBBA Impact Your Energy Storage Plans? READ MORE
+PJM Capacity Price Spikes Reach All-Time High and How Battery Storage Can Protect Your Organization READ MORE
+
+--------------------------------------------------------------------------------
+
+URL: https://resources.convergentep.com/ercots-growing-load-what-texas-data-centers-need-to-know-about-energy-storage
+
+ERCOT’s Growing Load: What Texas Data Centers Need to Know About Energy Storage
+ERCOT’s power grid is facing an energy inflection point—one that has a huge impact on Texas’ data centers.
+Texas leads the nation in data center expansion. That growth, however, brings new pressure from regulators, utilities, and local communities to manage large energy loads responsibly.
+Texas’ peak demand is projected to rise from 87 gigawatts in 2025 to 138 gigawatts by 2030, an increase of nearly 60%.
+Starting in 2026, Senate Bill 6 (SB-6) will require new facilities drawing more than 75 megawatts from the grid to curtail load during emergency events–introducing potential new risks to uptime, power quality, and thermal stability.
+For decision makers at Texas data centers, battery energy storage now represents the most effective way to strengthen reliability, manage energy during peak demand periods, and minimize any negative impacts from mandatory or voluntary curtailment.
+Without on-site storage, data centers are fully exposed to:
+- ERCOT curtailment orders under SB-6 and potential uptime disruptions
+- Volatile energy prices and demand charges during peak hours
+- Interconnection delays or capacity limitations due to grid congestion
+- Power quality issues from voltage fluctuations or sudden grid events
+- Community and regulatory scrutiny around grid strain and emissions
+Energy storage changes the equation by giving operators control over when and how they use grid power—without sacrificing five-nines commitments or tenant satisfaction.
+Energy Storage and Data Centers: Supporting Reliability and Compliance
+Energy storage systems allow electricity to be stored—and then discharged—at the most strategic times. Today, Lithium-ion batteries, the same batteries that are used in cell phones and electric vehicles, are the most commonly used type of energy storage. Like the batteries in your cell phone, industrial-scale battery energy storage systems can be charged with electricity from the grid, stored, and discharged when there is a deficit in supply or when energy is most expensive.
+Adding a battery storage system allows your data center to:
+🔓 Unlock and accelerate capacity for new developments or site expansions while easing interconnection approvals by reducing grid strain during peak demand
+✅ Comply with curtailment events under SB-6 by relying on stored energy during grid stress to either meet curtailment obligations or transition over to backup generators
+🔌 Maintain power quality and uptime through ride-through support, ramp-rate smoothing, and seamless bridging during grid outages or switchovers
+💪 Enhance power performance by stabilizing nonlinear loads
+⬇️ Reduce peak energy costs by storing electricity when it’s inexpensive and discharging when prices surge
+💰 Pass savings to tenants or retain them internally to strengthen competitiveness
+Battery storage allows facilities to store electricity and dispatch it when demand is highest, turning a potential cost into a strategic advantage. Unlike diesel backup generators, battery storage works continuously, optimizing daily energy use, not just responding to emergencies.
+The Case for Acting Now
+SB-6 enforcement begins in 2026, and ERCOT’s interconnection queue is already full. Battery storage projects require design, permitting, and grid studies—so early planning delivers better economics and reliability outcomes.
+Waiting too long can mean higher costs, longer timelines, and reduced flexibility to meet compliance requirements or secure optimal interconnection terms. Data centers that act now will be positioned to lock in savings before battery prices rise as a result of FEOC, ensure operational readiness, and avoid getting caught in the next wave of grid congestion.
+Facilities that act now won’t just comply with SB-6—they’ll lead the next generation of resilient, grid-ready data centers in Texas.
+Types of Battery Storage Partnership Models
+Every data center has unique energy and reliability needs, but all share the same requirement: continuous, uninterrupted operations. Battery storage systems are designed to integrate seamlessly with existing infrastructure, delivering energy savings and resilience without disrupting day-to-day performance.
+Data centers can choose the battery storage contract model that best fits their financial and operational goals.
+1. Lease Model
+The battery storage system is owned and operated by a third party -who pays you a fixed monthly price to site a battery on your site. Your facility retains all savings and benefits from lower energy costs and improved reliability without capital investment, maintenance responsibilities, or operational impact.
+2. Shared Savings Model
+Similar to the lease model, the battery is owned and operated by a third party, with whom you share the savings the battery generates. In this model, value is typically fully passed or at least partially passed to your tenants, aimed at improving tenant satisfaction and retention.
+3. Tolling Agreement
+Your team manages the battery storage system and determines how and when stored energy is used, capturing full financial and operational value while maintaining uptime and system stability. Oftentimes, tolling agreements are favored by data centers looking to gain capacity from utilities and grid providers.
+All three approaches can be customized to align with your site’s specific priorities and long-term energy strategy.
+Convergent Energy and Power: Proven Battery Storage Expertise
+Now is the time for Texas’ data centers to capitalize on the challenges facing the electric grid in ERCOT and take control of their energy future—and energy costs.
+For over a decade, Convergent Energy and Power (Convergent) has gained deep expertise by working closely with industrial businesses to take the hassle out of on-site renewable solutions by building, owning, and operating systems on our customers’ behalf. We’ve been developing battery storage systems for ~15 years, and have been around as long as the battery storage sector itself.
+If you’re looking to future-proof your facility with an on-site battery storage system, schedule a free, no-obligation introductory call with our team today.
+GianPaula Hulten is a manager on the Business Development team where she supports the origination of behind-the-meter projects in the U.S. and Canada.
+Sources
+
+--------------------------------------------------------------------------------
+
+URL: https://resources.convergentep.com/what-pjm-data-centers-need-to-know-about-energy-storage
+
+What PJM Data Centers Need to Know About Energy Storage
+PJM Interconnection will need 43 gigawatts of new energy storage by 2045, according to a Brattle Group analysis commissioned by the U.S. Energy Storage Coalition.
+The report cites an expected 19% increase in peak load by 2030, long lead times for new generation, and a significant backlog in PJM’s interconnection queue—all of which threaten grid reliability.
+PJM’s latest capacity auction underscored how sensitive the system is to supply constraints. Prices rose to their highest level on record, reflecting tightening supply and limited new generation. The July 2025 auction cleared at $329.17 per MW-day, up 22 percent from the prior year’s auction—according to Reuters and RTO Insider.
+By managing load during PJM’s five highest-demand hours, battery storage helps businesses lower future capacity costs while reducing grid stress.
+Battery storage can be deployed faster than any other grid asset, providing peak-shaving, load-shifting, and demand-response capabilities that strengthen reliability now—not a decade from now.
+For decision makers at data centers, battery energy storage represents the most effective way to strengthen reliability, manage energy during peak demand periods, and minimize any negative impacts from mandatory or voluntary curtailment.
+Energy Storage and Data Centers: Supporting Reliability and Compliance
+Energy storage systems allow electricity to be stored—and then discharged—at the most strategic times. Today, Lithium-ion batteries, the same batteries that are used in cell phones and electric vehicles, are the most commonly used type of energy storage. Like the batteries in your cell phone, industrial-scale battery energy storage systems can be charged with electricity from the grid, stored, and discharged when there is a deficit in supply or when energy is most expensive.
+Adding a battery storage system allows your data center to:
+🔓 Unlock and accelerate capacity for new developments or site expansions while easing interconnection approvals by reducing grid strain during peak demand
+✅ Comply with curtailment events by relying on stored energy during grid stress to either meet curtailment obligations or transition over to backup generators
+🔌 Maintain power quality and uptime through ride-through support, ramp-rate smoothing, and seamless bridging during grid outages or switchovers
+💪 Enhance power performance by stabilizing nonlinear loads
+⬇️ Reduce peak energy costs by storing electricity when it’s inexpensive and discharging when prices surge
+💰 Pass savings to tenants or retain them internally to strengthen competitiveness
+Battery storage allows facilities to store electricity and dispatch it when demand is highest, turning a potential cost into a strategic advantage. Unlike diesel backup generators, battery storage works continuously, optimizing daily energy use, not just responding to emergencies.
+The Case for Acting Now
+Without on-site storage, PJM’s data centers are fully exposed to:
+- Rising capacity costs (up 22% YoY)
+- Interconnection delays or capacity limitations due to grid congestion
+- Power quality issues from voltage fluctuations or sudden grid events
+- Community and regulatory scrutiny around grid strain and emissions
+Battery storage changes the equation by giving operators control over when and how they use grid power—without sacrificing five-nines commitments or tenant satisfaction.
+Further, waiting too long can mean higher costs, longer timelines, and reduced flexibility to meet compliance requirements or secure optimal interconnection terms. Data centers that act now will be positioned to lock in savings before battery prices rise as a result of FEOC, ensure operational readiness, and avoid getting caught in the next wave of grid congestion.
+Types of Battery Storage Partnership Models
+Every data center has unique energy and reliability needs, but all share the same requirement: continuous, uninterrupted operations. Battery storage systems are designed to integrate seamlessly with existing infrastructure, delivering energy savings and resilience without disrupting day-to-day performance.
+Data centers can choose the battery storage contract model that best fits their financial and operational goals.
+1. Lease Model
+The battery storage system is owned and operated by a third party -who pays you a fixed monthly price to site a battery on your site. Your facility retains all savings and benefits from lower energy costs and improved reliability without capital investment, maintenance responsibilities, or operational impact.
+2. Shared Savings Model
+Similar to the lease model, the battery is owned and operated by a third party, with whom you share the savings the battery generates. In this model, value is typically fully passed or at least partially passed to your tenants, aimed at improving tenant satisfaction and retention.
+3. Tolling Agreement
+Your team manages the battery storage system and determines how and when stored energy is used, capturing full financial and operational value while maintaining uptime and system stability. Oftentimes, tolling agreements are favored by data centers looking to gain capacity from utilities and grid providers.
+All three approaches can be customized to align with your site’s specific priorities and long-term energy strategy.
+Convergent Energy and Power: Proven Battery Storage Expertise
+PJM early adopters of battery storage will be best positioned to capture both economic and reliability benefits relative to their peers.
+Now is the time for PJM data centers to capitalize on the challenges facing the electric grid in PJM and take control of their energy future—and energy costs.
+For over a decade, Convergent Energy and Power (Convergent) has gained deep expertise by working closely with industrial businesses to take the hassle out of on-site renewable solutions by building, owning, and operating systems on our customers’ behalf. We’ve been developing battery storage systems for ~15 years, and have been around as long as the battery storage sector itself.
+If you’re looking to future-proof your facility with an on-site battery storage system, schedule a free, no-obligation introductory call with our team today.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.convergentep.com/leadership/
+
+Executive Leadership
+Johannes Rittershausen
+Co-CEO
+Johannes Rittershausen
+Johannes Rittershausen serves as Convergent's Co-CEO and member of the board. Prior to co-founding Convergent with Frank Genova in 2011, Johannes worked as a senior project manager in corporate strategic planning and the electric vehicle readiness unit at Southern California Edison (“SCE”) from January 2007 to November 2011. Johannes began his career in the utility industry in 2007 as an analyst in SCE’s power procurement business unit, performing functions in commodity trading, long-term resource planning, and ISO market settlements. Johannes holds a Bachelor of Arts in Philosophy, Politics and Economics, with a focus in Economics, from Pomona College and a Master of Arts from Georgetown University’s School of Foreign Services.
+Frank Genova
+Co-CEO
+Frank Genova
+Frank Genova serves as Convergent's Co-CEO and member of the board. Prior to co-founding Convergent with Johannes Rittershausen in 2011, Frank worked in project development and finance with Fisher Brothers and Plaza Construction, focusing on renewable development, renewable integration, complex mechanical and electrical system integration, and corporate strategy. He also co-founded RG Capital Partners in 2011, where he served as Managing Director until July 2015. Frank holds a Bachelor of Arts in Mechanical Engineering from Villanova University and a Master of Business Administration in Finance, Phi Kappa Phi, from Fordham University’s Graduate School of Business. Since April 2016, he serves a Member of Advisory Board of Villanova University’s College of Engineering.
+Sebastián Villaveces
+Chief Legal and People Officer
+Sebastián Villaveces
+Sebastián serves as Chief Legal and People Officer, leading the company’s legal and people operations functions, as well as the project and land acquisitions teams. Prior, he served as Convergent’s Deputy General Counsel. Sebastián is committed to advancing the clean energy transition and brings over a decade of experience as a transactional lawyer in which he advised on projects and transactions in 15 jurisdictions throughout the Americas. Before joining Convergent, Sebastián served as Senior Associate in the Energy Transactions and Projects group at Vinson & Elkins LLP, as Senior Associate in the Projects group at Herbert Smith Freehills, as Counsel at New Fortress Energy, and as an Associate at Cleary Gottlieb Steen & Hamilton LLP. Sebastián holds a Juris Doctorate equivalent degree from Universidad de los Andes in Colombia, a Masters of Laws from Northwestern Pritzker School of Law, and a Certificate in Business Administration from Northwestern Kellogg School of Management.
+Leandro Abreu
+Chief Operating Officer
+Leandro Abreu
+Leandro Abreu serves as Convergent’s Chief Operating Officer.
+Leandro brings more than two decades of experience leading complex organizations, building high performing teams, and delivering operational excellence across multiple industries, including in renewable energy and technology. Prior to joining Convergent, Leandro served as the CEO of Prospera + Greener where he led the strategic expansion and merger of Prospera with Greener, forming an ESG-driven energy platform aimed at reducing consumer carbon footprints through solar generation. Prior, Leandro served as Vice President for Digital Grid Solutions for Siemens, overseeing a high-impact regional portfolio with focus on digitalization, automation, and modernization of energy infrastructure. Previously, Leandro also served as a General Manager for Enel X, where he led the rapid expansion of Enel X’s solar division, and as an Executive (Cloud & Technology Services) for IBM Brazil.
+Leandro holds two Masters in Business Administration from Fundação Getulio Vargas (FGV) and Fundação Dom Cabral (FDC), as well as a Bachelor in Business Administration from USCS.
+Russ Laplante
+Chief Financial Officer
+Russ Laplante
+Russ Laplante serves as Convergent’s Chief Financial Officer. Russ joins Convergent from Savion, a utility-scale solar and energy storage project development company, where he served as Chief Investment Officer and spent a decade overseeing M&A as well as leading tax equity transactions, project finance, and valuation. Prior to joining Savion, Laplante was Vice President of Business Development at Tradewind Energy and a founding member of OwnEnergy, a utility scale wind development company where he managed development, offtake and construction financing. Laplante began his career at Goldman Sachs as a financial analyst and holds the Chartered Financial Analyst® designation.
+Russ lives in Jersey City, NJ with his son and fiancé.
+Management
+Kevin Borden
+SVP, Product
+Kevin Borden
+Kevin Borden serves as Convergent’s Senior Vice President, Product. Prior to joining Convergent, Kevin was the Head of Marketing for Enel X’s energy services in North America, which includes distributed energy resources and demand response. He also led customer-centric product innovation efforts at Emerson and Yingli Solar and has launched several new products and services. Kevin holds a Bachelor of Science in Civil Engineering from Cornell University and a Master’s in Business Administration from Kellogg School of Management.
+Peter Cavan
+SVP, Market Development
+Peter Cavan
+Peter Cavan serves as Convergent's Senior Vice President of Market Development and leads the team responsible for answering the question, "Where next?" Peter has spent over a decade in distributed energy for commercial and utility customers. Prior to joining Convergent, Peter led regulatory affairs for Centrica Business Solutions North America, covering demand response, solar, storage, energy efficiency, EV charging, and other matters at the state and federal levels. He also served in regulatory and commercial roles at EnerNOC and Pulse Energy. Peter holds a Bachelor in Philosophy, Politics & Economics from the University of Durham and a Master of Management from the University of British Columbia's Sauder Business School.
+Adam Green
+SVP, Commercial Operations
+Adam Green
+Adam Green serves as Convergent’s Senior Vice President, Commercial Operations and has been with Convergent since 2018. He leads the team responsible for structuring, negotiation, and execution of long-term offtake agreements with utility and C&I customers. Adam has over ten years of experience with energy storage and solar, having developed hundreds of megawatts in three continents, most recently as Director of Development at SolarReserve. He has also written technical papers on solar and thermal storage and holds two patents. Adam graduated Phi Beta Kappa and Magna Cum Laude from Brown University with a concentration of his own design entitled “Rationality and Decision Making,” and holds Master’s in Business Administration from the UCLA Anderson School of Management.
+Lisa Katz
+Head of Sales
+Lisa Katz
+Lisa Katz is Head of Sales at Convergent. She joined the company in 2021 after serving as Director of Business Development & Marketing and as an Executive Leadership Team member at CEM Engineering, where she guided clients through project feasibility, engineering, and EPC delivery for a variety of distributed energy solutions, including combined heat and power (CHP), biomass, biogas, and district energy. Lisa began her career at DCL International, spending nearly a decade in various sales roles, where she successfully implemented strategies for emissions control technologies across diverse markets and territories.
+Based in Toronto, Ontario, Lisa enjoys spending time outdoors with her family and is passionate about mountain biking and trail running.
+Katie Guerry
+SVP, Regulatory and Government Affairs
+Katie Guerry
+Katie Guerry serves as Convergent’s Senior Vice President, Regulatory and Government Affairs. Katie’s 19-year energy market career includes diverse commercial, legal, risk, and regulatory experience in North America supported portfolios of diverse commodities and technology types including wind, solar, DR, DER, energy storage, EV charging, natural gas, and oil. Prior to Convergent, she was the Head of Regulatory Affairs in North America for Italian-based Enel X; with similar regulatory leadership positions at demand response provider EnerNOC before its acquisition by Enel X in 2018. Her first 10 years in energy were at Hess Corporation supporting their competitive energy supplier business. Katie has twice served as Chair and Vice-Chair of PJM Member’s and Liaison Committees and provided expert testimony for Federal and State agencies. She holds a Bachelor of Arts in Political Science and English from the College of William and Mary and a Juris Doctorate from Rutgers Law School.
+Steve Meyers
+Senior Vice President, Asset Portfolio Management
+Steve Meyers
+Steve Meyers is Senior Vice President of Asset Portfolio Management at Convergent, where he oversees the performance and profitability of the company’s fleet of operating battery storage and solar energy systems.
+Steve brings nearly three decades of experience at the intersection of energy technology and finance. Prior to joining Convergent, he served as Chief Product Officer at Sparkfund, where he led product strategy and corporate development. He has held senior leadership roles in both public and private companies, including serving as President of EnerPath, where he guided the company through a successful acquisition by Lime Energy
+Earlier in his career, Steve worked with growth companies across the energy ecosystem—as a consultant to global energy firms and cleantech startups, an investor in distributed energy resources, an engineer in ESCOs in the US and Asia, and a research scientist at Lawrence Berkeley National Lab. He has deep expertise in software, distributed energy, energy markets, and commercial strategy.
+Steve holds a Bachelor of Science in Physics from Haverford College, a Master of Science in Mechanical Engineering from the University of California, Berkeley, and a Master of Business Administration in Energy Finance from the McCombs School of Business at The University of Texas at Austin.
+He lives in Austin, Texas with his wife and three children and is an avid cyclist, skier, and guitarist who enjoys spending time outdoors.
+David Nie
+SVP, Analytics
+David Nie
+David serves as Convergent’s Senior Vice President, Analytics, and has played a central role in identifying opportunities for and driving the performance of the company’s energy storage and solar-plus-storage portfolio since 2015. Prior to joining Convergent, David worked at EnerNOC on the demand response team managing its portfolio in the PJM region. He has experience in day-to-day operations and long-term strategy execution in capacity and energy markets. David holds a Bachelor of Arts from Dartmouth in Mathematics and Economics.
+Kate Siskel
+SVP, Marketing and Communications
+Kate Siskel
+Kate Siskel serves as Convergent’s Senior Vice President, Marketing and Communications, and has led marketing at Convergent since March 2018. Prior to joining Convergent, Kate drove marketing and media strategies, along with influencer engagement, at the national nonprofit the Alliance for a Healthier Generation. She previously owned all marketing and communications efforts at startup BrightFarms, where she led a team to rebrand the company and secured strategic media placements including Forbes, The New York Times, and The Washington Post. In 2009, Kate entered the media sector as a production assistant at CBS News’ The Early Show (now CBS This Morning). Kate holds a Bachelor of Arts from Yale University and a Master of Arts from New York University.
+Tremor Temchin
+SVP, Business Development and Head of Canada
+Tremor Temchin
+Tremor Temchin serves as Convergent’s Senior Vice President, Business Development, and Head of Canada. Since joining Convergent in 2014, Tremor has been instrumental in developing, operating, and maintaining many of Convergent’s energy storage solutions, and he represents Convergent on Energy Storage Canada’s Board of Directors. Prior to joining Convergent, Tremor served as the Founder and Executive Director of the Rotary Pacific Water for Life Foundation. Tremor graduated with honors with a Bachelor of Arts from Pomona College and holds a Master of Arts from the University of the South Pacific’s Centre for Environment and Sustainable Development.
+Cortney Zaret
+Corporate Controller
+Cortney Zaret
+Cortney Zaret serves as Corporate Controller and is responsible for Convergent’s accounting and tax operations. Prior to joining Convergent, Cortney served as Controller at Ørsted North America, where she managed the growth and integration of all US accounting areas including Audit, Financial Reporting, Tax, Treasury, Payroll and Payables. Cortney subsequently served as Head of Accounting and Administration at Bluestar Energy Capital, where she created and built out financial operations and administrative functions in a renewables-focused start-up environment. Cortney has over 17 years of experience in a broad range of accounting and finance leadership and consulting roles across several industries including real estate, manufacturing and environmental services.
+Cortney holds a Bachelor of Science in economics from McGill University and a Master of Science in accountancy from Walsh College of Business. She also holds Certified Public Accountant and Certified Management Accountant designations.
+
+--------------------------------------------------------------------------------
+
+URL: https://convergentep.com/energy-capital-partners/
+
+In June 2019, Energy Capital Partners (ECP) acquired Convergent Energy and Power. ECP is a leading infrastructure investor based in Summit, New Jersey, and been investing across energy transition, electrification sustainability, and decarbonization infrastructure assets for nearly 20 years. The firm invests with the goal of powering a sustainable future and has raised $31 billion in capital commitments since 2005. Their deeply experienced team has invested across numerous energy transitions, while partnering with businesses to drive innovation, generate growth, ensure reliability, and have a lasting impact. ECP primarily invests across five key asset classes: power generation, renewables, storage solutions, environmental infrastructure and sustainability, efficiency & reliability assets.
+
+--------------------------------------------------------------------------------
+
+URL: https://convergentep.com/our-values/
+
+Our Commitments
+Continuous Improvement
+We know that the work to achieve a more equitable society requires an ongoing and unending commitment to improvement.
+Diversity, Equity, and Inclusion
+Although the STEM fields and energy sector are widely regarded to be among the least diverse, we are committed to fostering a work environment where diversity, equity, and inclusion are valued and progressed.
+Ethical Governance
+We are dedicated to operating with the highest standard of ethics, which extends to our team, vendors, communities, and investors.
+Safety
+We are committed to ensuring the safety of our systems and the well-being of our customers, community partners, employees, and vendors.
+Sustainability
+We continually strive to reduce waste and the emission of pollutants, recycle, and conserve natural resources.
+The Clean Energy Transition
+Climate change poses the greatest threat of our time and we are working to mitigate the catastrophic impact of a warming planet on current and future generations.
+Convergent’s Annual Sustainability and Impact Report
+In our third annual Sustainability and Impact Report, we share how we integrate Environmental, Social, and Governance (ESG) performance into our overall success metrics.
+As we like to say, “energy storage is the linchpin of the clean energy transition,” and we could not be more excited or motivated to be part of the solution to the greatest global challenge of our time: climate change.
+Our Environment, Social, and Governance (ESG) Performance
+Being a good corporate citizen is core to Convergent. We were one of the first privately-held companies to engage the ESG rating agency Sustainalytics, a Morningstar company, to benchmark our performance against robust ESG standards, establish data-driven goals, and receive an annual third-party audit of our progress.
+We are proud to report that both within and outside of our industry, Convergent is considered a “low risk” company with strong management of potential ESG issues. In fact, as of April, 2023, we were rated 7th out of 706 assessed utility-industry companies! Read Convergent’s full ESG Risk Rating Summary below.
+What's Next?
+We founded an energy storage company because we saw the opportunity to build a profitable business while also having a positive impact on the future of energy and our planet. But we also know it is not enough to just be a clean energy leader; there is always room for improvement!
+Read our 2024 Sustainability and Impact Report to see Convergent’s commitments to improve.
+
+--------------------------------------------------------------------------------
+
+URL: https://resources.convergentep.com/esg-three-letters-guiding-an-impact-investing-revolution/?hsLang=en
+
+ESG: Three Letters Guiding an Impact Investing Revolution
+In a world that is getting measurably hotter and includes more extreme weather events–from hurricanes to wildfires—the threat of climate change is now our reality. Amidst a global pandemic and a long overdue social justice reckoning, it’s no longer possible to “mind our own business,” nor is it prudent or ethical.
+That’s why we want to talk about the concept defined by the categories of Environmental, Social, and Governance, more commonly known as “ESG.”
+ESG Defined
+So, what exactly is ESG?
+ESG refers to the three central factors in measuring the sustainability and societal impact of a company or business. It literally stands for “Environmental,” “Social,” “Governance,” with each leg of the stool supporting a self-aware and transparent ethos for conducting business responsibly and prosperously in the 21st century. In a business world guided by ESG principles, “responsibly” and “prosperously” are no longer at odds, but rather necessarily entwined.
+Let’s take a closer look at each of the pillars of ESG:
+E is for environmental
+In ESG, the environmental component refers to factors that determine a company’s impact on the earth, in both positive and negative ways. These factors include:
+- Usage of renewable energy including wind and solar
+- Carbon footprint and carbon intensity (pollution and emissions)
+- Greenhouse gas emissions goals
+- Climate change policies, plans, and disclosures
+- Recycling and safe disposal practices
+- Water-related issues and goals
+S is for social
+The social component of ESG consists of people-related elements like company culture and issues that impact employees, customers, consumers, and suppliers – both within the company and in greater society. Social parameters include:
+- Mission or higher purpose of the business (or lack thereof)
+- Ethical supply chain sourcing
+- Employee treatment, pay, benefits, and perks
+- Diversity and inclusion in hiring and in advancement opportunities
+- Employee safety policies including sexual harassment prevention
+- Public stance on social justice issues, as well as lobbying efforts
+G is for corporate governance
+Finally, we come to governance, i.e., those items relating to corporate governance and behavior, such as board quality and effectiveness. Key governance topics include:
+- Compensation tied to metrics that drive long-term business value, not short-term share price targets
+- Diversity of the board of directors and management team
+- Whether a company has a classified board of directors
+- Whether chairman and CEO roles are separate
+- Transparency in communicating with shareholders, and history of lawsuits brought by shareholders
+- Executive compensation, bonuses, and perks
+Why ESG Matters
+ESG is big concept. It’s meant to be a “comprehensive” framework, a 360-degree view of a business and its behaviors and impacts that can continue to grow and evolve with the times. Could other bullets be added to the lists above? Yes, and that’s the point.
+In a recent poll of thousands of institutional investors around the world, over 50% of institutional investors agreed that companies with better ESG track records generate better investment returns.
+Put another way, the world is watching – and that world includes investors, supply chain partners, customers, and employees. And these stakeholders care.
+Why ESG Matters to Us
+At Convergent Energy + Power, we echo the growing enthusiasm from both consumers and investors for ESG. We find ESG to be a useful framework to guide business operations – and improve them – while also making it easier for stakeholders to evaluate and compare business performance and potential growth.
+As the most dependable provider of energy storage solutions in North America, we are committed to helping our customers reduce their electricity costs and carbon footprint at the same time. And we are committed to being part of the clean energy transition and future of energy, which requires energy storage.
+ESG at Convergent Energy + Power
+At Convergent, ESG is baked into our mission, our vision, our hiring process, our company culture, and our operations.
+To ensure we’re “walking the talk,” we engaged Sustainalytics, a Morningstar company and leading, independent ESG rating agency, to evaluate our ESG performance.
+Sustainalytics rates companies based on their preparedness, disclosure, and performance, as well as the likelihood of potential ESG controversies, assigning them a number – on a scale of 0 to 100. Companies are also rated against global industry peers. The lower the score, the lower the company’s perceived ESG risk.
+Now for the good news. We did great!
+Convergent received a Sustainalytics score of 13.9 out of 100, placing us squarely in the “low risk” category of companies. For context, a score under 10 is considered “negligible risk,” while a score over 40 is considered “severe risk.”
+Of 597 companies in the utilities sector rated by Sustainalytics, Convergent has the eighth lowest risk. Of 71 companies in the renewable power production sector, Convergent came in fifth. Additionally, Convergent has had no events that may negatively impact stakeholders, the environment, or the company’s operations.
+One Small Step for Convergent, One Large Step for … Our Customers
+Obviously, we love that we got a low score. It means we are doing many things right – right for people and the planet. But we know we can always do more. This is the start of something, not the end.
+Delivering on our promises to all of our stakeholders—internal and external—may not be directly captured by Sustainalytics but is how we rate ourselves.
+We’re proud to be part of the future of energy, the clean energy transition, and helping customers of all types, including Shell New Energies, reduce their electricity costs by millions of dollars while improving grid sustainability and reliability.
+There has never been a more critical time to be part of the solution.
+ESG and Your Organization
+Please email us if you’d like to learn more about reducing your organization’s carbon footprint and electricity costs with energy storage or Convergent’s commitment to ESG performance: info@convergentep.com.
+Mariko McDonagh Meier is the Chief Strategy Officer at Convergent Energy + Power. Mariko is responsible for identifying and commercializing new products and markets as well as coordinating commercial opportunities across Convergent’s business.
+
+--------------------------------------------------------------------------------
+
+URL: https://convergentep.com/community-engagement
+
+What Community Engagement Means to Us
+Community engagement is the process of proactively coordinating, communicating, explaining, and seeking input from local stakeholders, neighbors, customers, and the general public to improve understanding, increase community benefits, and provide opportunities.
+Our Approach to Community Engagement
+Corporate Values and ESG
+A commitment to internal and external stakeholders across “environment, social, governance” practices.
+Corporate Donations and Volunteering
+Support for company VTO policy and corporate giving
+Educational Programming
+Share knowledge and expertise in the clean energy transition, the energy storage sector, and STEM
+Locally Driven Engagement
+Seek input from communities on system permitting and design, and general feedback
+Successful community engagement is an ongoing effort with participation required across the entire company as a shared responsibility. Convergent’s approach to community engagement includes four core focus areas aligned with Convergent’s core values and industry best practices:
+Our Commitment to Safety and Wellbeing
+Above all, Convergent is dedicated to ensuring the safety of our systems and the wellbeing of our customers, community partners, employees, and vendors.
+Safety is a value our entire team holds as a priority—and our safety team is part of the process from the initial conversations with a potential customer, through the ongoing operations of our systems.
+As a leading provider of energy storage solutions in North America, we’re constantly collecting data from the over 800 MW / 1 GWh we have on the grid or under development in order to evaluate our practices and procedures. In addition, we are also working with industry-leading consultants to support our efforts in evaluating our suppliers’ safety practices, system compliance, and hazard mitigation.
+Educational Resources on the Climate Crisis, Biodiversity, and the Role of Energy Storage
+Spotlight: Commitment to ESG
+As businesses make increasing claims about ESG, corporate social responsibility, or sustainability more broadly, Convergent is prepared to be transparent about its strengths and opportunities for growth. In other words, Convergent will walk the walk rather than just talk the talk. The company looks forward to working closely with its partners to make a positive impact in communities where it operates and to consider the effect of the business on all constituents and the planet at large.
+Is Energy Storage Right for Your Utility?
+If you’ve resolved to significantly reduce wholesale demand or energy costs this year, increase reliability, or integrate renewables, Convergent can help.
+Contact us to determine the feasibility of storage on your grid and the exact savings or infrastructure solutions a battery storage system can provide for your utility.
+I’d Like a Free, Customized Evaluation
+If there is an RFP or RFI in which you’d like Convergent to participate, please click here.
+Convergent’s Annual Sustainability and Impact Report
+In our third annual Sustainability and Impact Report, we share how we integrate Environmental, Social, and Governance (ESG) performance into our overall success metrics.
+As we like to say, “energy storage is the linchpin of the clean energy transition,” and we could not be more excited or motivated to be part of the solution to the greatest global challenge of our time: climate change.
+
+--------------------------------------------------------------------------------
+
+URL: https://convergentep.com/canada
+
+Who We Help
+We use energy storage to help large commercial and industrial facilities reduce their electricity spend $1M or more – and improve their carbon footprint – at no cost.
+Energy Storage in Ontario: A No-Brainer
+Large commercial and industrial power consumers in Ontario pay 65% more for electricity than in the rest of Canada.
+This is due to the structure of the Global Adjustment charge.
+Battery Storage Savings
+$450,000/MW X 5MW = $2,250,000 PER YEAR
+Convergent finances, owns, and operates battery energy storage systems to reduce Global Adjustment charges by “peak shaving,” or dispatching the battery when electricity is most expensive.
+Using electricity from the battery—rather than the grid—during those peaks saves $450,000/MW at current pricing. If a facility’s load is 5MW, a Convergent battery system can save $2,250,000 annually, which is shared between Convergent and our customers.
+Why Convergent
+~ 8 0 %
+of all operating Ontario energy storage assets are owned by Convergent
+1 0 0 %
+project completion rate
+$ 1 bn
+invested in projects in operation or allocated to projects under development
+2 5 0 k
+Accurate PEAK IQ® predictions have saved individual customers $250k more per year than public market forecasts
+# 1
+largest C&I battery storage system in Canada was developed by Convergent as of 2019
+Spotlight: Our Joint Venture with Shell New Energies
+Shell New Energies selected Convergent to develop battery storage systems at two of their facilities, located in Sarnia, Ontario and Brockville, Ontario. The systems reduce the consumption of energy for the facilities by up to one third of typical demand while increasing the reliability and long-term sustainability of the grid.
+This 10 MW / 20 MWh battery energy storage project is the biggest behind-the-meter battery energy storage system in North America (as of 2019).
+”Convergent has a strong track record of delivering cost savings and resiliency services to large industrial customers. This energy storage offering complements the broader suite of solutions, including energy efficiency and energy management, that we already provide.
+Eric BradleyGlobal General Manager Connected Energy, Shell New Energies
+Save Big with PEAK IQ®
+A battery that is not effectively managed is just a giant paperweight. The real value comes from how it is operated.
+Convergent’s proprietary PEAK IQ® asset management platform has saved individual customers $250k more per year than public market forecasts. With over 300,000 hours of system operations, PEAK IQ® collects and analyzes over 150M data points per day. PEAK IQ® has saved businesses up to 40% off their electricity bills and deferred multimillion infrastructure upgrades for utilities.
+
+--------------------------------------------------------------------------------
+
+URL: https://convergentep.com/portfolio/sarnia-ontario/?hsLang=en
+
+Shell Sarnia Manufacturing Centre
+-
+Status
+Operational
+Application
+Behind-the-Meter Peak Shaving
+Size
+10 MW | 20 MWh
+-
+Technology
+Lithium-Ion
+Interconnection Voltage
+27.6kV
+Solution
+This system is tied for the largest behind-the-meter energy storage system in North America and is reducing Global Adjustment charges for the facility.
+
+--------------------------------------------------------------------------------
+
+URL: https://convergentep.com/portfolio/bolton-on/?hsLang=en
+
+Husky Injection Molding Systems Ltd.
+-
+Status
+Operational
+Application
+Behind-the-Meter Peak Shaving
+Size
+4.2 MW I 8.5 MWh
+-
+Technology
+Lithium-Ion
+Interconnection Voltage
+13.8kV
+Solution
+This system is reducing Global Adjustment charges for Husky Injection Molding Systems, a large industrial facility, and was the first ever Global Adjustment system to come online in Ontario.
+
+--------------------------------------------------------------------------------
+
+URL: https://convergentep.com/portfolio/sault-ste-marie-on/?hsLang=en
+
+PUC Services, Inc.
+-
+Status
+Operational
+Application
+Renewables Integration and Grid Services
+Size
+7 MW | 7 MWh
+-
+Technology
+Lithium-Ion
+Interconnection Voltage
+33kV
+Solution
+This system is increasing the reliability and efficiency of the grid, which has a very high penetration of intermittent renewable generation in a remote region of the grid.
+
+--------------------------------------------------------------------------------
+
+URL: https://convergentep.com/united-states
+
+Six Benefits of On-Site Renewable Energy
+7-Figure Savings on Your Electricity Bill
+Long-Term Hedge Against Rising Energy Prices
+Lower Facility Greenhouse Gas Emissions
+Potential Eligibility for Renewable Energy Credits (RECs)
+No Change to Operations
+No Capital Investment for Your Business
+Industries We Partner With Include:
+Select Partnerships:
+About Energy Storage
+Without energy storage (i.e., how the electric grid has been for the past century), electricity must be produced and consumed exactly at the same time. Energy storage systems allow energy to be stored when it is least expensive—and least carbon-intensive–and discharged—at the most expensive, carbon-heavy times. A win-win!
+Success Story: Shell New Energies
+Shell New Energies selected Convergent to develop battery storage systems at two of their facilities. The systems reduce the consumption of energy for the facilities by up to one-third of typical demand while increasing the reliability and long-term sustainability of the grid. One was the biggest behind-the-meter battery energy storage system in North America as of 2019.
+Learn More about Convergent and Energy Storage
+FAQs
+Q: How will this impact my plant’s operations?
+A: The power systems (storage, PV, or combination thereof) are connected to your plant, behind the meter, and parallel with the utility, meaning the plant will never see any fluctuations or power quality impacts from power provided by our system. You will not know they are operating unless you are looking at a system dashboard.
+Q: Who is responsible for maintenance?
+A: As an energy service provider, we cover everything required to design, install, finance, operate, maintain, and, if required at the end of life, decommission the system.
+Q: How does power generated relate to power needed?
+A: In the design phase we size the system to serve load. In some jurisdictions the utility will allow excess power from PV systems to be credited, which will be factored into our modeling up front. During operation utility grade metering allows us to match supply and demand dynamically.
+Q: We have a unique plant, will it even work?
+A: Every industrial plant is unique. As part of our due diligence process we gather a host of pertinent site details, ensuring we can integrate seamlessly based on voltage levels, equipment age, metering configurations, electrical infrastructure, and available space.
+Q: How much can Convergent lower my energy bill?
+A: It depends on how much energy you use and where your plant is located. We’ve lowered customers’ energy bills by up to 40%. Customers can typically expect multi-million dollar savings.
+Q: How long do the batteries last?
+A: We work with our integration partners to ensure the battery chemistry, design, and augmentation schedule match the proposed use profile and term. Our systems can be designed to last anywhere between 10 and 20 years.
+Q: Where do you have systems installed and operating?
+A: We have systems installed and operating across North America, including California, New York, Pennsylvania, and Ontario. We are under development in over 10 additional states, territories, and provinces.
+Q: How long is a typical energy service contract?
+A: Depending on the technology, utility, and region of the country, we can structure a project under terms that range from 10 to 30 years.
+If you have additional questions or would like more information, please contact us directly.
+We’re reducing costs and carbon emissions for customers including Shell and Ford and now we want to partner with you.
+
+--------------------------------------------------------------------------------
+
+URL: https://convergentep.com/utilities
+
+Is Energy Storage Part of Your Integrated Resource Plan?
+With increasing renewable generation coming online, energy storage is a critical tool for ensuring reliability in the face of growing intermittency. While solar and wind provide energy—utility-scale energy storage is the proven pathway to increasing capacity, deferring costly system upgrades, and addressing power quality concerns. The future of energy is already here.
+Convergent has over a decade of expertise designing, owning, and operating energy storage systems that increase reliability and reduce costs for utilities.
+”When I joined Convergent almost a decade ago, energy storage was a new tool for system planners. Today, it is an essential and cost-effective way to reduce wholesale demand and energy costs while improving system resilience and reliability.
+Customer Spotlight: Central Maine Power
+Resources
+Select Customers and Partners
+The Key Applications for Energy Storage
+Coincident Peak Demand Charge Avoidance
+PEAK IQ, Convergent’s energy storage intelligence software, can forecast electric system peaks and discharge the system at those times, reducing electricity costs and the need for additional generation. This is also known as “peak hitting” or “peak shaving.”
+Energy Arbitrage
+Because electricity historically could not be stored, electricity prices are usually time-dependent – i.e., they are more expensive during times when people need it most (e.g., a hot summer afternoon) and cheapest when it’s needed least. Energy arbitrage takes advantage of “time of use” electricity pricing by charging an energy storage system when electricity is cheapest and discharging when it is most expensive.
+Solar Firming
+Solar firming with energy storage uses the asset to “firm” or smooth any gaps that may arise between the solar energy supply and the demand due to clouds or time of day.
+Non-Coincident Peak Demand Charge Avoidance
+PEAK IQ can forecast a facility’s peak usage times and dispatch an energy storage system during those hours, reducing electricity costs.
+Non-Wires-Alternative (NWA)
+The power lines on which electricity is transported (“transmission” and “distribution” lines) are expensive to build and maintain, and incredibly difficult to site, as most people do not want new power lines near them. By increasing capacity and resiliency on the grid at the most strategic times, intelligently deployed energy storage avoids or defers the need to build out new infrastructure (wires), which is called a Non-Wires Alternative.
+Capacity
+Energy storage provides additional local and system capacity at the most critical times.
+Ancillary Services
+Energy storage intelligence like PEAK IQ enables an asset to provide ancillary services to the electric grid, including Frequency Regulation and Operating Reserves.
+PEAK IQ® = The Convergent Difference
+Convergent’s PEAK IQ® energy storage intelligence is creating maximum value for our customers. We have saved businesses up to 40% off their electricity bills and deferred multimillion infrastructure upgrades for utilities with PEAK IQ®. We do this using state-of-the-art machine learning, artificial intelligence, and advanced analytics to make data-driven decisions about when and how to dispatch energy storage for optimal value creation.
+Partnering with Convergent – How it Works
+For the majority of our customers, Convergent finances, designs, and owns the battery storage system on their behalf, a model referred to as a “storage capacity agreement.” For these customers, the battery system reduces costs for members or ratepayers starting on day one and requires no capital outlay.
+Convergent also has flexible options for utilities who would like to invest their own capital into the projects.
+Is Energy Storage Right for Your Utility?
+If you’ve resolved to significantly reduce wholesale demand or energy costs this year, increase reliability, or integrate renewables, Convergent can help.
+Contact us to determine the feasibility of storage on your grid and the exact savings or infrastructure solutions a battery storage system can provide for your utility.
+I’d Like a Free, Customized Evaluation
+If there is an RFP or RFI in which you’d like Convergent to participate, please click here.
+
+--------------------------------------------------------------------------------

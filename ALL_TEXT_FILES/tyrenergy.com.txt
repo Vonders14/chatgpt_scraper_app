@@ -1,0 +1,1367 @@
+ROOT: https://tyrenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:43:21.668760Z
+PAGES_INCLUDED: 20
+
+================================================================================
+
+URL: https://tyrenergy.com/
+
+Investor, owner, manager and service provider for electric power generation facilities
+ABOUT
+Tyr Energy represents the North American cornerstone of the ITOCHU Corporation global electric power strategy, focused on clean and renewable generation and technology solutions.
+Tyr Energy is active in the development, acquisition and financing of electric power assets and provides comprehensive management and oversight services to power generation and electric utility companies.
+
+--------------------------------------------------------------------------------
+
+URL: https://tyrenergy.com/itochu-announces-investment-in-a-new-wind-power-plant-in-us-state-of-texas/
+
+ITOCHU Corporation (headquartered in Minato-ku, Tokyo; Keita Ishii, President & COO; hereinafter “ITOCHU”) announced today that through its wholly-owned subsidiary, Tyr Energy, Inc. (headquartered in Kansas, USA; hereinafter “Tyr”), it has reached an agreement with major North American alternative investment manager and developer, Fengate Asset Management (headquartered in Toronto and Houston, hereinafter “Fengate”), to invest in the Prairie Switch Wind Project (hereinafter “the Project”), which is currently under construction in Texas and will have a total generating capacity of 160 MW.
+Development of the Project is underway near Houston in the US state of Texas, which has one of the most favorable wind resources in the US. A long-term corporate power purchase agreement (PPA) has been executed with Meta Platforms, Inc., and the Project will be comprised of 48 wind turbines with a generating capacity of 3.4 MW each and a total generating capacity of 160 MW. The Project is scheduled to reach commercial operation at the end of 2023. Power sale management in Texas power market will be jointly handled by ITOCHU subsidiaries Tyr and NAES Corporation (headquartered in Washington, USA; hereinafter “NAES”). Through a special purpose entity newly established for the Project, ITOCHU will invest in the project together with Fengate and GE Energy Financial Services (GE EFS).
+Through Tyr, ITOCHU has invested in six wind power projects to date, and has invested and actively managed over 30 power plants in total in the US. Through Tyr Energy Development Renewables, LLC (headquartered in Kansas, USA), a wholly-owned subsidiary of Tyr, ITOCHU is developing renewable energy projects (primarily solar) with a combined generating capacity of approximately 2 GW. ITOCHU also aims to expand the renewable energy business in North America by leveraging the capability of NAES, another wholly-owned subsidiary and the largest independent power plant operation and maintenance service company in the world.
+ITOCHU will continue to execute its strategy of contributing to the realization of a decarbonized society, sustainable local communities and a reduced impact on the global environment.
+
+--------------------------------------------------------------------------------
+
+URL: https://tyrenergy.com/team/
+
+Mr. Venteicher is the Chief Executive Officer of Tyr Energy and is a member of its Board of Directors. He joined the company in 2003 shortly after it was founded. Prior to his appointment as CEO in 2017, Mr. Venteicher served as Chief Financial Officer with responsibility for sourcing and structuring capital for Tyr Energy’s electric generation investments; managing partner, lender and shareholder relationships; and oversight of financial reporting and treasury functions for Tyr Energy and its portfolio companies.
+Mr. Herrold joined Tyr Energy in 2017 as the Chief Financial Officer, leading our treasury, finance, accounting, tax and risk management functions. He is also responsible for sourcing and structuring capital for Tyr Energy’s investments and managing various partner, lender and shareholder relationships. Mr. Herrold holds a bachelor’s degree in accounting from Kansas State University and is a Certified Public Accountant.
+Mr. So is an Executive Officer and has overall responsibility for all legal matters pertaining to Tyr Energy, its subsidiaries and its business activities. In addition to his legal responsibilities, Mr. So is actively involved in corporate strategy and transaction structuring work at Tyr. Mr. So received his B.A. from New York University and his J.D. from Fordham University School of Law, where he was a Senior Editor of the Fordham Law Review.
+Mr. Taylor is responsible for developing and maintaining banking relationships and for raising capital for Tyr’s investments. Mr. Taylor is actively involved in structuring and negotiating project financing transactions. In addition to providing financial oversight for proposed acquisition and development projects, Mr. Taylor received both a B.S. in Business Management, and an MBA from Brigham Young University.
+Mr. Calhoon leads our asset management functions and is responsible for overseeing our generation portfolio and related strategy initiatives. Mr. Calhoon holds a bachelor’s degree in Business Administration and Accounting from the University of Kansas. Mr. Calhoon also earned an MBA, with emphasis in finance, from Rockhurst University (formerly Rockhurst College).
+Dr. Moye joined Tyr Energy in 2019 as Senior Vice President and is responsible for providing energy management services to Tyr’s existing generating assets and to other resource owners in the industry. Dr. Moye has Bachelor of Science in Electrical Engineering, Master of Engineering, Master of Business Administration degrees, and a PhD in Electrical Engineering from the University of Florida. He is also a registered professional engineer.
+Mr. Argetsinger joined Tyr Energy in 2009. He is responsible for commercial optimization of our generation portfolio and corporate strategy initiatives. Mr. Argetsinger holds a Bachelor of Political Science with emphasis in national security and public policy; a Master of Business Administration with emphasis in finance, investments, and portfolio management; and a Juris Doctor degree, all from the University of Kansas.
+Mr. Carrell leads Tyr Energy’s capital raising and joint venture initiatives, sourcing capital from domestic and international investors. He also develops strategies to invest partnership capital in power and infrastructure opportunities. Mr. Carrell holds a B.A. from Vanderbilt University and an M.B.A. from the University of Texas. He is a Chartered Financial Analyst.
+
+--------------------------------------------------------------------------------
+
+URL: https://tyrenergy.com/history/
+
+About Tyr Energy
+Tyr Energy represents the North American cornerstone of the ITOCHU Corporation global electric power strategy, focused on clean and renewable generation and technology solutions. Tyr Energy is active in the development, acquisition and financing of electric power assets and provides comprehensive asset management and oversight services to power generation and electric utility companies.
+Tyr's mission statement and core advantages
+Tyr Energy’s mission is to be a committed owner and manager of power generation assets recognized and respected for the creativity and integrity of our staff, the success of our business and the quality of our investments and services.
+Tyr Energy brings value through a creditworthy, committed parent and investment partners, coupled with experienced and disciplined focus on target markets, customers and assets consistent with our growth strategy.
+Tyr's commitment to compliance
+Tyr Energy maintains a company-wide commitment to compliance with the law. Our officers and other employees are committed to high ethical standards, regardless of culture, education, or background. We also advise our suppliers, customers, and other interested stakeholders on the values and expectations our Company holds in our business relationships.
+
+--------------------------------------------------------------------------------
+
+URL: https://tyrenergy.com/business-development/
+
+Our investment strategy is focused on sustainable assets and companies that are vital to the North American electric power infrastructure. Tyr looks for opportunities to bring value beyond just providing capital. We strive to leverage our expertise in the electric power markets in addition to supporting other ITOCHU affiliate companies.
+Areas of focus
+INNOVATION
+Battery Energy Storage Systems (BESS)
+Distributed Energy Resources
+Equipment & Software
+Digital Transformation
+Virtual Power Plants
+Market Analytics
+CONVENTIONAL
+Combined Heat & Power (CHP) facilities
+Combined Cycle Natural Gas
+Simple Cycle Natural Gas
+INVESTMENT PHILOSOPHY
+Our desire is to partner with like-minded asset developers and owners to build and manage environmentally responsible and economically viable projects that have a sustainable future.
+Development Assets
+TED Renewables, a wholly-owned subsidiary of Tyr Energy, supports Tyr in the development of wind, solar, battery storage and other low-carbon assets across the United States.
+
+--------------------------------------------------------------------------------
+
+URL: https://tyrenergy.com/energy-management/
+
+We specialize in working with Independent Power Producers, Large Industrial Users, Investor-Owned Utilities, Municipal Utilities and Joint Action Agencies to provide customized energy services. Our team leverages market knowledge with the strengths of our customers to determine the ideal combinations of projects to optimize results.
+SERVICES WE PROVIDE
+Bilateral Power Markets
+Strategy development & implementation
+- Execution of customer hedging strategies
+- Long-term power and fuel supply origination support
+- Strategic transmission and transportation purchases
+- Load & price forecasting services
+Near-term asset optimization through
+- Hourly / next-day trading activities
+- Transmission purchasing & optimization
+- Real-time fuel optimization support
+Post trade analysis & reporting
+Credit & contracts management
+- Credit monitoring
+- Credit analysis
+- Contracts administration
+Results analysis and reporting
+RTO/ISO Services
+Asset registration
+Resource parameter management
+Long-term power and transmission analysis and strategy development
+Congestion rights optimization and management
+Short-term load Forecasting
+Resource offer and load bid strategy development and execution
+Market clearing results monitoring and management
+Resource outage communications and reporting
+Settlements and invoicing
+Reporting
+Natural Gas Support
+Natural gas supply, transportation and hedging strategy development and execution.
+Pipeline capacity and storage management and optimization
+Natural gas supply coordination and scheduling
+Settlement services
+ENERGY MANAGEMENT TEAM
+Customers
+Independent Power Producers
+Large Industrial Users
+Investor-Owned Utilities
+Municipal Utilities
+Joint Action Agencies
+
+--------------------------------------------------------------------------------
+
+URL: https://tyrenergy.com/asset-management/
+
+Tyr Energy is an investor in and manager of North American independent power projects (IPPs.) Tyr Energy represents the North American cornerstone of the ITOCHU Corporation global IPP strategy, currently owning interests in IPPs as shown on the map below.
+Location: New Church, VA
+Owners, affiliates of: Tyr Energy Inc.
+Technology: Ultra Low Sulfur Diesel Peaking
+Output (mw): 315
+Commercial Opr. Date: 2000 & 2001
+NERC Region: RFC
+Status: Operating
+Location: Rusk County, TX
+Partners/Investors, affiliates of: Tyr Energy Inc., Tenaska
+Technology: Natural Gas or Fuel Oil Combined-cycle
+Output (mw): 845
+Commercial Opr. Date: 2001
+NERC Region: ERCOT / SERC / SPP
+Status: Operating
+Location: Carson County, TX
+Partners/Investors, affiliates of: Tyr Energy Inc., RWE Clean Energy
+Technology: Wind
+Output (mw): 211
+Commercial Opr. Date: 2014
+NERC Region: ERCOT
+Status: Operating
+Location: Lawrence County, PA
+Owner, affiliates of: Tyr Energy, Inc., Kansai Electric Power Co., Siemens Financial Services
+Technology: Natural Gas Combined-cycle
+Output (mw): 1,000
+Commercial Opr. Date: May 2020
+NERC Region: PJM
+Status: Operating
+Location: Kiowa, OK
+Partners/Investors, affiliates of: Tyr Energy Inc., Tenaska
+Technology: Natural Gas Combined-cycle
+Output (mw): 1,220
+Commercial Opr. Date: April 2003
+NERC Region: SPP / ERCOT
+Status: Operating
+Location: Kimball Co., NE
+Partners/Investors, affiliates of: Aspenall Energies, LLC
+Technology: Wind
+Output (mw): 30
+Commercial Opr. Date: 2018
+NERC Region: SPP
+Status: Operating
+Location: Floyd County, TX
+Partners/Investors, affiliates of: Apex Clean Energy, Northleaf Capital
+Technology: Wind
+Output (mw): Old Settler – 151.2;
+Cotton Plains I – 50.4;
+Commercial Opr. Date: 2017
+NERC Region: ERCOT
+Status: Operating
+Location: Killeen, TX
+Partners/Investors, affiliates of: Apex Clean Energy, Northleaf Capital
+Technology: Solar
+Output (mw): 15.4
+Commercial Opr. Date: 2017
+NERC Region: ERCOT
+Status: Operating
+Location: Arvada, CO
+Partners/Investors, affiliates of: Tyr Energy Inc.
+Technology: Natural Gas Peaker
+Output (mw): 228.6
+Commercial Opr. Date: 2002 (PE I) & 2008 (PE II)
+NERC Region: WECC
+Status: Operating
+Location: Wharton Co., TX
+Partners/Investors, affiliates of: Tyr Energy Inc., Fengate Asset Management, GE Energy Financial Services
+Technology: Wind
+Output (mw): 160 MW
+Commercial Opr. Date: 2024
+NERC Region: ERCOT
+Status: Operating
+Location: Rathdrum, ID
+Partners/Investors, affiliates of: Tyr Energy Inc.
+Technology: Natural Gas Combined-cycle
+Output (mw): 275
+Commercial Opr. Date: 2001
+NERC Region: WECC
+Status: Operating
+Location: Jackson Co., MN
+Partners/Investors, affiliates of: Aspenall Energies, LLC
+Technology: Wind
+Output (mw): 13
+Commercial Opr. Date: 2016
+NERC Region: MISO
+Status: Operating
+Location: Fluvanna County, VA
+Partners/Investors, affiliates of: Tyr Energy Inc., Tenaska
+Technology: Natural Gas or Fuel Oil Combined-cycle
+Output (mw): 940
+Commercial Opr. Date: May 2004
+NERC Region: SERC
+Status: Operating
+
+--------------------------------------------------------------------------------
+
+URL: https://tyrenergy.com/news/
+
+Mr. Venteicher is the Chief Executive Officer of Tyr Energy and is a member of its Board of Directors. He joined the company in 2003 shortly after it was founded. Prior to his appointment as CEO in 2017, Mr. Venteicher served as Chief Financial Officer with responsibility for sourcing and structuring capital for Tyr Energy’s electric generation investments; managing partner, lender and shareholder relationships; and oversight of financial reporting and treasury functions for Tyr Energy and its portfolio companies.
+He was awarded an MBA in Finance from Indiana University and a BA in Economics and International Affairs from the University of Nebraska. Mr. Venteicher is a CFA Charterholder.
+
+--------------------------------------------------------------------------------
+
+URL: https://tyrenergy.com/tyr-energy-affiliate-american-renewables-sells-100-mw-biomass-plant-to-southern-power-company/
+
+Tyr Energy, Inc. (Tyr) is pleased to announce that American Renewables, LLC (AR, a Boston based company), in which Tyr, a wholly-owned subsidiary of ITOCHU Corporation and ITOCHU International Inc., owns a 49% interest, has completed development and has sold 100% of the Nacogdoches Power Project, a 100MW biomass power project in eastern Texas, to Southern Power, an affiliate of Southern Company which is one of the largest utilities in United States.
+Through this transaction, the project will move forward with the construction phase and is expected to begin commercial operation in the summer of 2012. After commencement of commercial operation, the project will sell electricity to Austin Energy, the city-owned utility in Austin, Texas for 20 years under a long term power purchase agreement.
+Tyr Energy established AR with BayCorp Holdings, Ltd. and Energy Management, Inc. in August 2008 and has been engaged in the development of biomass power projects, which can provide more stable power than other renewable power sources, against the backdrop of accelerated introduction of renewable energy in United States.
+Through this, the first of its project developments, AR will continue to focus on the development of biomass power projects and aims to be one of leading companies in this field in United States.
+The Nacogdoches Power Project also marks Tyr’s first renewable project development in North America. Tyr Energy continues to pursue greenfield development opportunities for additional renewable power projects, as well as the acquisition, operation, development of conventional IPPs by making the best use of expertise in ITOCHU group, the investment and management capabilities of Tyr Energy and the O&M capabilities of NAES Corporation.
+About Southern Power Company
+Southern Power is an affiliate of Southern Company, an Atlanta based company, one of the largest generators of electricity in the nation with more than 42,000 megawatts of electric generating capacity, a grid of transmission and distribution lines. Southern Power is among the largest wholesale energy providers in the Southeast, meeting the electricity needs of municipalities, electric cooperatives and investor-owned utilities. The company owns and operates more than 7,500 megawatts with facilities in Alabama, Florida, Georgia and North Carolina and has an additional 820 megawatts committed to construction in North Carolina and Texas.
+About BayCorp Holdings
+BayCorp is an unregulated holding company incorporated in Delaware in 1996 and in 2005 became part of the Tavistock Group of companies. The Tavistock Group is a global, private investment company that was founded 30 years ago by investor Joe Lewis and includes a broad portfolio of interests in over 170 companies in 15 countries.
+BayCorp is a merchant energy company that owns power assets as well as natural gas and oil production and development assets. Baycorp previously held a joint ownership interest in the Seabrook Nuclear Power Project in Seabrook, New Hampshire. Today, BayCorp owns and operates a hydroelectric generation facility and is developing additional generation in Vermont; through its Great Bay Power Marketing, Inc. subsidiary supplies wholesale power in the New England power market; and through its subsidiary BayCorp Resources owns and operates interests in oil and natural gas development and production projects located throughout Texas. BayCorp is also the majority owner of HoustonStreet, a web-based platform for the trading of crude oil and refined petroleum products.
+About Energy Management, Inc.
+EMI is a privately held energy company with more than 30 years of experience in energy conservation and energy development. In 1986, EMI developed, financed and constructed Alexandria Power Associates, a 15 MW wood-fired power production facility in Alexandria, New Hampshire. Following Alexandria, EMI developed six natural gas-fired electric generation projects totaling more than 860 MW of capacity and including the first true independent and merchant power projects in New England. EMI is also currently developing the Cape Wind Project, a 470 MW offshore wind project to be located in Nantucket Sound off the southern coast of Cape Cod, Massachusetts.
+About Tyr Energy
+An IPP Company wholly-owned by ITOCHU Corp. and ITOCHU International, Inc., Tyr Energy and an affiliate, Tyr Capital, LLC, currently own equity interests in two power plants in California totaling 250MW, and Tyr Energy independently owns equity interests in two power plants located in Virginia and Wisconsin totaling 915MW. Net capacity of Tyr Energy is totaling 665MW. Tyr Energy, through an affiliate, provides asset management services to those IPPs and had provided the services for other IPPs owned by financial investors.
+About NAES Corporation
+A subsidiary wholly-owned by ITOCHU International, Inc. and ITOCHU Corp. who is the industry’s largest independent, third-party provider of power plant operations and maintenance services. NAES is providing O&M services to 105 plants in 10 countries, which are equivalent to 30,000 MW. In addition, NAES operates 10 plants/269MW biomass-fueled power plants, the most experienced operator of the technologies of its kind. NAES is providing maintenance services for gas turbine, steam turbine and boiler other than O&M services.
+
+--------------------------------------------------------------------------------
+
+URL: https://tyrenergy.com/itochu-joins-general-electric-by-co-investing-in-oklahoma-wind-farm/
+
+NEW YORK, Oct. 21 /PRNewswire/ — ITOCHU Corporation (headquartered in Minato-ku, Tokyo; hereinafter “ITOCHU”) and General Electric Company (headquartered in Fairfield, CT, USA) announced today that they have completed the first transaction under their collaboration agreement by making a co-investment in the estimated $319 million CPV Keenan II wind farm under construction in Oklahoma.
+GE Energy Financial Services has sold a portion of its $65 million preferred equity interest in the wind farm to Tyr Keenan II, LLC, an indirect subsidiary of ITOCHU Corporation. This co-investment is the first transaction under the collaboration and cooperation agreement that GE and ITOCHU finalized in May to identify co-investment opportunities in renewable energy worldwide. ITOCHU and GE also retain the option to jointly invest an additional $100 million in partnership equity upon commencement of Keenan II’s commercial operation, expected in December.
+GE Energy Financial Services originally acquired Keenan II, a 152-megawatt wind farm developed by CPV Renewable Energy Company, in February of this year. Located 12 miles southwest of Woodward, Oklahoma, the project will consist of 66 2.3-megawatt wind turbines spread over 8,000 acres, and is expected to generate enough electricity to power approximately 45,000 average Oklahoma homes and displace approximately 413,000 short tons a year in greenhouse gas emissions(1) — the equivalent of taking nearly 72,000 cars off the road. The project has secured a 20-year power purchase agreement with Oklahoma Gas & Electric Company. The construction, led by Delaney Group, Inc., is on schedule. Major construction milestones include the development of access roads, laying of turbine foundations, developing a power collection system, substation, transmission line, meteorological towers and erection of the turbines. Operations and maintenance services have previously been contracted to NAES Corporation, a wholly-owned subsidiary of ITOCHU and the world’s largest independent, third-party provider of power plant operations and maintenance services.
+Wind comprises more than 80 percent of GE Energy Financial Services’ renewable energy portfolio. The portfolio includes equity investments in 58 wind farms with a total capacity to produce 6.1 Gigawatts of electricity, as well as loans to 38 wind farms totaling 1.4 Gigawatts. GE Energy Financial Services’ renewable energy investments reinforce GE’s ecomagination initiative, a program to help its customers meet their environmental challenges while expanding its own portfolio of cleaner energy products. GE Energy Financial Services’ renewable energy investments have helped 20 states meet their renewable portfolio standards, regulations requiring increased electricity generation from renewable sources. GE Energy Financial Services holds a renewable energy investment portfolio of US $6 billion, working with a wide variety of developer and investment partners. The investments span wind, solar, biomass, hydroelectric and geothermal power generation projects.
+ITOCHU, in its Frontier(e) 2010 medium-term management plan, is forging ahead with the development of new businesses in the Life & Healthcare area, which comprises medical and health-related businesses; the Infrastructure area, focusing on functional infrastructure and social infrastructure; the New Technologies & Materials area, mainly biotechnology, new materials, and clean technologies; and the Environment & New Energy area. Taking the initial letter of each business area and synergy, ITOCHU refers to these business areas as L-I-N-E-s. Along with the strategy, ITOCHU is set to aggressively pursue investment opportunities in the infrastructure area, including power generating assets utilizing renewable energy.
+About CPV Renewable Energy Company
+CPV Renewable Energy Company, an affiliate of Competitive Power Ventures, Inc., is advancing a broad portfolio of wind and photovoltaic power generation across North America. Led by a blue chip management team and the financial backing of the investment fund Warburg Pincus, CPV REC is fast becoming a leader in the development of renewable energy. For more information about the project and Competitive Power Ventures, please go to www.cpv.com.
+About GE Energy Financial Services
+GE Energy Financial Services’ experts invest globally across the capital spectrum in essential, long-lived and capital-intensive energy assets that meet the world’s energy needs. In addition to capital, GE Energy Financial Services offers the best of GE’s technical know-how, technology innovation, financial strength and rigorous risk management. Based in Stamford, Connecticut, USA, the GE business unit helps its customers and GE grow through new investments, strong partnerships and optimization of its US $21 billion in assets. For more information, visit www.geenergyfinancialservices.com.
+About GE
+GE (NYSE: GE) is a diversified infrastructure, finance and media company taking on the world’s toughest challenges. From aircraft engines and power generation to financial services, health care solutions, and television programming, GE operates in more than 100 countries and employs about 300,000 people worldwide. For more information, visit the company’s Web site at www.ge.com.
+About ITOCHU Corporation
+ITOCHU is a diverse trading and industrial company headquartered in Tokyo with revenues of more than 3,416 billion yen in the fiscal year ending March 31, 2010. It operates over 400 subsidiaries and affiliates involved in textile, machinery, information and communications technology, aerospace, electronics, energy, metals, minerals, chemicals, forest products, general merchandise, food, finance, realty, insurance, and logistics services. For more information, please visit www.itochu.co.jp.
+About Tyr Energy, Inc.
+Tyr Energy is the dedicated IPP investment holding company of ITOCHU Corporation. Tyr Energy focuses on investment and development of North American power generation assets. Current portfolio of equity ownership and development includes gas fired facilities and biomass in various states.
+(1) According to U.S. Environmental Protection Agency methodology
+
+--------------------------------------------------------------------------------
+
+URL: https://tyrenergy.com/itochu-corporation-invests-in-gainesville-renewable-energy-center-power-project/
+
+ITOCHU Corporation (headquartered in Minato-ku, Tokyo; Masahiro Okafuji, President & CEO; hereinafter “ITOCHU”) announced equity participation in Gainesville Renewable Energy Center, a 100MW biomass power project located in Gainesville, Florida (“Project”), through indirect affiliates.
+The Project was jointly developed by BayCorp Holdings, Ltd. (“Bay Corp”), Energy Management Inc. (“EMI”), and Tyr Energy Inc. (“Tyr Energy”, a wholly-owned Independent Power Producer (“IPP”) company of ITOCHU Corporation), and is the second 100MW class biomass power project developed by the group. The Project is one of the largest biomass fueled electric generating facilities in the United States, with an emission control system designed to meet or exceed all U.S. and Florida requirements.
+Tyr Energy has contributed equity to the Project together with BayCorp, EMI and Fagen Inc. The group of commercial banks, the Bank of Tokyo-Mitsubishi UFJ as Coordinating Lead Arranger, Natixis, Rabobank Nederland, ING Capital, Credit Agricole, and Societe Generale (6 Banks), provided the debt for the construction of the Project. Total project cost is approximately USD 500 million.
+Following financial closing, the project will move forward to the construction phase and is expected to begin commercial operation in 2013. After commencement of commercial operation, the project will deliver electricity to Gainesville Regional Utilities, the city-owned utility in Gainesville, Florida, under a 30 year long term power purchase agreement. NAES Corporation, the largest independent Operation & Maintenance provider, which operates the largest fleet of biomass facilities in US, will provide Operation & Maintenance service to the project.
+ITOCHU has defined the IPP business as a priority area in its medium-term management plan Brand-New-Deal 2012, to generate sustained earnings over the long term. ITOCHU, through Tyr Energy, is actively working to add to its portfolio of IPP assets in both greenfield development and operating power plants.
+About Tyr Energy, Inc. (Headquarters: Overland Park, Kansas)
+CEO and President: Kaoru Usami An IPP Company wholly-owned by ITOCHU Corp. and ITOCHU International, Inc., Tyr Energy and its affiliates, own equity interests in 15 power plants located in Alabama, California, Georgia, Oklahoma, Oregon, Texas, Virginia and Wisconsin, with total gross capacity of 7,000MW.
+About Energy Management, Inc. (Headquarters: Boston, Massachusetts)
+EMI is a privately held energy company with more than 30 years of experience in energy conservation and energy development. In 1986, EMI developed, financed and constructed Alexandria Power Associates, a 15 MW wood-fired power production facility in Alexandria, New Hampshire. Following Alexandria, EMI developed six natural gas-fired electric generation projects totaling more than 860 MW of capacity and including the first true independent and merchant power projects in New England. EMI is also currently developing the Cape Wind Project, a 470 MW offshore wind project to be located in Nantucket Sound off the southern coast of Cape Cod, Massachusetts.
+About BayCorp Holdings, Ltd. (Headquarters: Portsmouth, New Hampshire)
+BayCorp is an unregulated holding company incorporated in Delaware in 1996 and in 2005 became part of the Tavistock Group of companies. The Tavistock Group is a global, private investment company that was founded 30 years ago by investor Joe Lewis and includes a broad portfolio of interests in over 170 companies in 15 countries. BayCorp is a merchant energy company that owns power assets as well as natural gas and oil production and development assets. Baycorp previously held a joint ownership interest in the Seabrook Nuclear Power Project in Seabrook, New Hampshire. Today, BayCorp owns and operates a hydroelectric generation facilities in Vermont; through its Great Bay Power Marketing, Inc. subsidiary supplies wholesale power in the New England power market; and through its subsidiary BayCorp Resources owns and operates interests in oil and natural gas development and production projects. BayCorp is also the majority owner of HoustonStreet, a web-based platform for the trading of crude oil and refined petroleum products.
+About Fagen Inc.
+Founded in 1988 by President & CEO Ron Fagen, Fagen is a civil, mechanical and electrical contractor specializing in heavy industrial construction and maintenance work Serving customers throughout the United States. The Company has grown to become 37th largest general contractor in the United States as ranked by Engineering News-Record magazine.
+About NAES Corporation (Headquarters: Seattle, Washington)
+CEO and President: John P. Brewster The leading independent service provider for the energy and related infrastructure markets for over 30 years, offers facility operations & maintenance, engineering and construction, turbine repair and overhaul, technical support, and staffing. NAES is providing O&M services to 119 plants in 5 countries, which are equivalent to 35,485 MW. In addition, NAES operates 9 plants/247MW biomass-fueled power plants, the most experienced operator of the technologies of its kind.
+
+--------------------------------------------------------------------------------
+
+URL: https://tyrenergy.com/tyr-energy-led-consortium-agrees-to-purchase-interests-in-four-power-projects/
+
+OVERLAND PARK, Kansas – Tyr Energy, Inc. (“Tyr”), John Hancock Financial Services (“John
+Hancock”) and Prudential Capital Group, an investment business of Newark, N.J.-based Prudential
+Financial (NYSE: PRU) (“Prudential”) announced today that they have agreed to purchase certain
+interests in four electric generating projects owned by affiliates of Energy Investors Funds (“EIF”).
+The four projects are the 275-megawatt (MW) Rathdrum Power Station near Rathdrum, Idaho; the 229-
+MW Plains End Generating Station near Denver, Colorado; the 249-MW Whitewater cogeneration
+project located in Whitewater, Wisconsin and the 245-MW Cottage Grove cogeneration project in
+Cottage Grove, Minnesota. Each of the projects has long-term power purchase or tolling agreements in
+place with local load serving entities.
+Tyr, John Hancock and Prudential will acquire the interests through a special purpose vehicle. Tyr led the
+transaction on behalf of the three partners and will assume asset management responsibilities for the
+portfolio. The new company will become owner of 100 percent of the Rathdrum and Plains End projects
+and 35 percent of the Whitewater and Cottage Grove projects. Each of the four projects is operated by
+NAES Corporation, which is a subsidiary of ITOCHU International Inc., the U.S. affiliate of ITOCHU
+Corporation.
+“These are quality, well-operated, strategic assets that we will successfully optimize,” said Tyr CEO Karl
+Usami. He added, “We are pleased to enhance our relationship with John Hancock and Prudential, and we
+look forward to working with these partners on future opportunities.”
+Morgan Stanley & Co. LLC acted as exclusive financial advisor to Tyr, John Hancock and Prudential.
+The transaction is subject to regulatory approvals and consents and is expected to close at or around the
+end of Q1 2013. Transaction terms were not disclosed.
+About Tyr Energy, Inc.
+Based in Overland Park, Kansas, Tyr Energy, Inc. is wholly-owned by ITOCHU Corporation and
+ITOCHU International Inc. The company and its affiliates own equity interests in 14 power projects
+located in Alabama, California, Georgia, Oklahoma, Oregon, Texas, Virginia and Wisconsin, with total
+gross capacity of 7,000 MW. With operations in over 80 countries covering a broad range of industries,
+ITOCHU is among the world’s largest corporations. For more information, visit www.tyrenergy.com.
+About John Hancock Financial and Manulife Financial Corporation
+John Hancock Financial is a unit of Manulife Financial Corporation, a leading Canada-based financial
+services group with principal operations in Asia, Canada and the United States. Operating as Manulife
+Financial in Canada and in most of Asia, and primarily as John Hancock in the United States, Manulife
+Financial Corporation offers clients a diverse range of financial protection products and wealth
+management services through its extensive network of employees, agents and distribution partners. Funds
+under management by Manulife Financial and its subsidiaries were C$532 billion (US$535 billion) as at
+December 31, 2012. Manulife Financial Corporation trades as ‘MFC’ on the TSX, NYSE and PSE, and
+under ‘945’ on the SEHK. Manulife Financial can be found on the Internet at manulife.com.
+The John Hancock unit, through its insurance companies, comprises one of the largest life insurers in the
+United States. John Hancock offers a broad range of financial products and services, including life
+insurance, annuities, fixed products, mutual funds, 401(k) plans, long-term care insurance, college
+savings, and other forms of business insurance. Additional information about John Hancock may be
+found at johnhancock.com, and on Facebook, Twitter, Linkedin and YouTube.
+About Prudential Capital Group
+Prudential Capital Group has been a leading provider of private debt, mezzanine and equity securities to
+companies worldwide for more than 70 years. Managing a portfolio of $64.9 billion as of Dec. 31, 2012,
+Prudential Capital offers senior debt and mezzanine capital, leveraged leases, credit tenant leases, and
+equipment finance to companies, worldwide. The global regional office network has locations in Atlanta,
+Chicago, Dallas, Frankfurt, London, Los Angeles, Minneapolis, Newark, N.J., New York, Paris and San
+Francisco. For more information, please visit www.prudentialcapitalgroup.com.
+
+--------------------------------------------------------------------------------
+
+URL: https://tyrenergy.com/itochu-announces-investment-in-new-wind-solar-power-generation-plants-in-texas-in-the-united-states/
+
+ITOCHU Corporation (headquartered in Minato-ku, Tokyo; Masahiro Okafuji, President & CEO; hereinafter “ITOCHU”) announced today that it has agreed to invest in the Cotton Plains Wind/Solar Hybrid Power Generation Project (hereinafter the “Project”), which has a generation capacity of 217 megawatts and is under construction in Texas in the United States.
+The Project was originated by Apex Clean Energy (headquartered in Virginia, the United States, hereinafter “Apex”) in Texas, one of the most notable areas in the United States in terms of wind power potential. Once constructed, the Project will consist of 84 wind power generators, each with a capacity of 2.4 megawatts, as well as a 15.4 megawatt (alternating current) solar power plant. Commercial operation will start in the first half of 2017 and will produce enough electricity for approximately 76,000 ordinary households in the United States. The generated electricity will be mainly supplied to the Texas power market. ITOCHU will take part in the Project through a new subsidiary that will be established together with other investors, including Northleaf Capital Partners.
+ITOCHU has been working actively to expand the power generation business in many parts of the world, particularly in North America. ITOCHU is involved in the management and development of more than 15 power generation plants in the United States through Tyr Energy Inc. (hereinafter the “Tyr Energy”), a wholly owned subsidiary, and this is the third investment in a wind power project in the United States for ITOCHU and Tyr Energy. ITOCHU also runs a service business in the United States, operating and maintaining (hereinafter the “O&M”) power plants through NAES Corporation, a wholly owned subsidiary. NAES provides the O&M for more than 130 power plants, mainly in the United States, and generation capacity of 35,000 megawatts in total as one of the largest O&M service providers in the world. ITOCHU continues to diversify its power related business with a focus on generating power and providing services, seeking to further enhance the value of the portfolio companies.
+About Apex Clean Energy
+Apex Clean Energy builds, owns, and operates utility-scale wind and solar power facilities. Last year, Apex completed 1,042 megawatts of new wind capacity, enough clean energy to supply the population of a city the size of Boston or San Francisco each year for the life of the facilities. With a team of over 200 professionals and the nation’s largest wind energy project pipeline, Apex is a leader in the transition to a clean energy future. For more information, visit www.apexcleanenergy.com.
+
+--------------------------------------------------------------------------------
+
+URL: https://tyrenergy.com/contact/
+
+Send us a message
+CORPORATE OFFICE
+7500 College Boulevard, Suite 400 | Overland Park, KS 66210
+PHONE – 913.754.5800
+FAX – 913.754.5701
+TYR ENERGY MANAGEMENT OFFICE
+203 Ft. Wade Road, Suite 330 | Ponte Vedra, FL 32081
+PHONE – 904.834.6051
+FAX – 913.754.5701
+careers
+OPPORTUNITIES
+Tyr Energy is a growing company, which from time to time may require qualified candidates to fill available positions. Tyr Energy retains and hires when there are business needs. Tyr Energy is an equal opportunity employer and contractor. However, as business needs change, opportunities described may be changed or withdrawn by Tyr Energy at any time and for any reason.
+Any individual interested in an open career opportunity should direct inquiries as specified and should in all responses include a resume, preferred contact information and professional or industry references. Position specifications may require additional information.
+current positions
+- No open positions at this time.
+
+--------------------------------------------------------------------------------
+
+URL: https://tyrenergy.com/overland-capital-partners-closes-on-the-purchase-of-a-50-interest-in-an-ercot-wind-project/
+
+Overland Capital Partners (“OCP” or the “Fund”), a private equity fund investing in renewable energy projects newly formed by Tyr Energy, Inc. (“Tyr”), has acquired from a subsidiary of BlackRock a 50% equity interest in the Grandview wind project (“Grandview”) located in Carson County, TX.
+Grandview is a 211 MW operating wind project utilizing GE 1.79 MW turbines and supplies 90% of its electricity via a long-term offtake agreement with an investment-grade counterparty. Grandview is now jointly owned by OCP and a subsidiary of RWE Clean Energy (“RWE”), a leading renewable energy company in the United States with more than 9 GW net installed capacity of onshore wind, solar and battery storage assets from coast to coast. RWE will continue in its roles as Operator and Asset Manager of Grandview.
+Richard Carrell of Tyr Capital Advisors issued a statement noting, “The OCP team is excited about its first transaction in the Fund. Grandview is a tremendous asset that is strategically located in one of the highest wind resource regions in the country and has performed well under the stewardship of RWE and BlackRock. We look forward to our long-term partnership with RWE and to being part of the Grandview story.”
+About OCP
+OCP is a newly formed private equity fund established with the purpose of investing in renewable energy projects in the United States. The Fund is managed by Tyr as the General Partner and limited partner investors include Sumitomo Mitsui Trust Bank, Fuyo General Lease Co., and Tokyu Land Corporation.
+About Tyr
+Headquartered in Overland Park, KS, Tyr is an owner, manager, and developer of North American independent power projects. Since its inception in 2003, Tyr has developed and invested in more than 30 power plants in the United States, including eight investments in wind and solar assets. Tyr, through its wholly-owned subsidiary, Tyr Energy Development Renewables, LLC, is currently developing solar power projects and storage batteries with a total capacity of approximately 4 GW. Tyr is also an affiliate of NAES Corporation, the world’s largest independent O&M provider, which operates approximately 250 thermal power plants with a capacity of 57 GW, as well as approximately 1,400 solar power facilities with a capacity of 2 GW.
+
+--------------------------------------------------------------------------------
+
+URL: https://tyrenergy.com/hickory-run-energy-commences-commercial-operations-may-18-2020/
+
+OVERLAND PARK, KS –
+Tyr Energy, Inc. (Tyr Energy), ITOCHU Corporation (ITOCHU), Kansai Electric Power Co., Inc. (Kansai) and Siemens Financial Services, Inc. (Siemens) announced today that the Hickory Run Energy Center, LLC Power Plant (Hickory Run) began commercial operations in May. Hickory Run is a nominal 1,000 megawatt (MW) natural gas power plant located near North Beaver Township, Lawrence County, approximately 45 miles northwest of Pittsburgh, PA.
+Tyr Energy led development of the project, including permitting, major equipment and contractor selection, PJM interconnection and market participation, fuel supply and financing. Kiewit Power Constructors Co. (Kiewit) was the lead engineering, procurement and construction contractor for the project. BNP Paribas Securities Corp., Bank of America Merrill Lynch and Crédit Agricole Corporate and Investment Bank, together with Mitsubishi UFJ Financial Group, Development Bank of Japan, Sumitomo Mitsui Banking Corporation, ABN AMRO, National Australia Bank, and Shinhan Bank, acted as the coordinating lead arrangers.
+Tyr Energy, LLC provides all asset management services and oversees energy management. NAES Corporation (NAES), a Tyr affiliate, will provide operations and maintenance (O&M) services to the project, employing approximately 23 full time individuals locally.
+“Tyr Energy is proud to formally announce the commercial operation of the Hickory Run Energy Center,” said Garrick Venteicher, President and Chief Executive Officer of Tyr Energy. “We are pleased to have collaborated with two world class partners, Kiewit Power and Siemens, to bring this important energy infrastructure project to completion. In addition, I can’t say enough about the support we received from Lawrence County and the local community. The highly skilled workforce from the surrounding area has been outstanding. We look forward to building on these relationships in the years ahead.”
+“We are delighted that we contributed to this significant milestone of Hickory Run in collaboration with Tyr Energy and Siemens”, said Hiroshi Nakajima, Managing Executive Officer, in charge of International Business and Cooperation. “Hickory Run is our first greenfield project in North America, which we recognize as one of the most important power markets. Kansai is committed to expanding its power business overseas by making active use of the technological strength and expertise cultivated throughout our company’s history.”
+Primary equipment includes two Siemens SGT6-8000H gas turbine generators, two heat recovery steam generators (HRSGs), and a Siemens steam turbine generator. Hickory Run will produce enough electricity for approximately one million households, through the PJM market, the largest power wholesale market in United States. “We are proud to be a part of this project with Tyr Energy and Kansai, adding efficient, clean and reliable energy to the PJM region’s energy supply with our proven combined-cycle technology,” said John Gibson, Executive VP and Head of Sales; North America, Siemens Energy.
+Hickory Run is constructed with state-of-the-art emission control technology comprised of selective catalytic reduction for NOx control, and an oxidation catalyst for the reduction of CO and VOC. The project also made a significant investment to protect and improve the water quality of the Mahoning River. Hickory Run reclaims treated municipal wastewater from the New Castle Sanitation Authority Unrestricted treatment facility. This beneficial reuse of reclaimed wastewater enhances the local and downstream environment. Revenue generated by the sale of the reclaimed wastewater to Hickory Run Energy will provide a sustainable source of income to the New Castle Sanitation Authority allowing for system upgrades and maintenance, which over time should improve the quality of the reclaimed water.
+About Tyr Energy
+Tyr Energy represents the North American cornerstone of the ITOCHU global electric power strategy, focused on clean and renewable generation and technology solutions. Tyr Energy currently holds interests in seventeen operating electric generation projects with gross capacity of approximately 7,500 MW, including renewable capacity of approximately 400 MW. Tyr Energy is active in the development, acquisition and financing of electric power assets and provides comprehensive asset management and oversight services to power generation and electric utility companies. Its affiliate NAES also provides operations and maintenance (O&M) services throughout the industry. More information about Tyr is available at http://www.tyrenergy.com/
+About Kansai
+Kansai Electric Power Co., Inc. is the leading utility in Japan with a track record of innovation and leadership in the industry holding over 32GW of generation capacity in Japan. Kansai currently participates in 19 overseas projects in power generation and transmission across 12 countries worldwide including Asia, Europe and the U.S. by utilizing the experience and expertise cultivated in our international business for more than 20 years. More information about Kansai is available at https://www.kepco.co.jp/english
+About Siemens
+Siemens Financial Services (SFS) – the financing arm of Siemens – provides business-to-business financial solutions. Siemens AG (Berlin and Munich) is a global technology powerhouse that has stood for engineering excellence, innovation, quality, reliability and internationality for more than 170 years. The company is active around the globe, focusing on the areas of intelligent infrastructure for buildings and distributed energy systems, and automation and digitalization in the process and manufacturing industries. Through the separately managed companies Siemens Energy, the global energy business of Siemens, and Siemens Mobility, a leading supplier of smart mobility solutions for rail and road transport, Siemens is shaping the energy systems of today and tomorrow as well as the world market for passenger and freight services. Due to its majority stakes in the publicly listed companies Siemens Healthineers AG and Siemens Gamesa Renewable Energy (as part of Siemens Energy), Siemens is also a world-leading supplier of medical technology and digital healthcare services as well as environmentally friendly solutions for onshore and offshore wind power generation. In fiscal 2019, which ended on September 30, 2019, Siemens generated revenue of €86.8 billion and net income of €5.6 billion. At the end of September 2019, the company had around 385,000 employees worldwide. Further information is available on the Internet www.siemens.com.
+
+--------------------------------------------------------------------------------
+
+URL: https://tyrenergy.com/tyr_v2_wp/contact/
+
+Send us a message
+CORPORATE OFFICE
+7500 College Boulevard, Suite 400 | Overland Park, KS 66210
+PHONE – 913.754.5800
+FAX – 913.754.5701
+TYR ENERGY MANAGEMENT OFFICE
+203 Ft. Wade Road, Suite 330 | Ponte Vedra, FL 32081
+PHONE – 904.834.6051
+FAX – 913.754.5701
+careers
+OPPORTUNITIES
+Tyr Energy is a growing company, which from time to time may require qualified candidates to fill available positions. Tyr Energy retains and hires when there are business needs. Tyr Energy is an equal opportunity employer and contractor. However, as business needs change, opportunities described may be changed or withdrawn by Tyr Energy at any time and for any reason.
+Any individual interested in an open career opportunity should direct inquiries as specified and should in all responses include a resume, preferred contact information and professional or industry references. Position specifications may require additional information.
+current positions
+- No open positions at this time.
+
+--------------------------------------------------------------------------------
+
+URL: https://tyrenergy.com/data-privacy-notice/
+
+DATA PRIVACY NOTICE
+Tyr Energy, Inc., (“we”, “our” and “us”), its subsidiaries and affiliates (collectively, “Tyr Energy”) has adopted this Data Privacy Notice to inform you of our privacy practices for https://tyrenergy.com and apply solely to information collected by this website.
+Information We Collect. Tyr Energy is the owner of the information collected on this site. We will use your information for the reason you contacted us and will not share your information with any third party outside of Tyr Energy. We collect personal information of current and potential business contacts, current and former employees, job applicants, independent contractors, and others who submit their information through the Tyr Energy website, including:
+- Identifiers such as name, address, telephone number, and unique personal numbers;
+- Professional and employment-related information such as employment history, job performance evaluations, salary and other compensation information, background check information, and documentation relating to immigration status;
+- Education information such as transcripts, skills, proficiencies, and training;
+- Demographics such as age, race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender), sexual orientation, veteran or military status, and genetic information; and
+- Internet or other network activity associated with use of Tyr Energy-provided equipment, networks, or other resources; we also may collect information via cookies placed on the Tyr Energy website.
+Use and Disclosure of Personal Information. We may use or disclose your personal information to fulfill the purposes for which it was collected, such as:
+- Workforce Management: Managing work activities and personnel, including recruitment, compensation administration, processing accounts payable and receivable and directories.
+- Communications and Emergencies: Facilitating communication with you, ensuring business continuity, managing company-owned property, protecting the health and safety of employees and others, and facilitating communication with your designated contacts in an emergency.
+- Business Management: Processing, administering and developing our business relationship with you and the entity you represent.
+- Business Operations: Operating and managing IT and communications systems (including those hosted by Tyr Energy and by unaffiliated third parties), managing company assets, project management, business continuity, data security, maintaining records and
+- Compliance: Complying with internal policies and procedures, legal and other requirements, such as record-keeping and reporting obligations, requests from government or other public authorities, responding to legal process, defending litigation and managing
+- Monitoring Use of Technology: We collect information about the use of our IT assetsand resources, including internet access, electronic communications and application usage.
+Questions. If you have any questions or comments about this Data Privacy Notice, the ways in which we collect and use your personal information, or your choices and rights regarding such use, contact the Compliance Officer or the Legal Department at legal@tyrenergy.com. You may also access our Compliance Hotline at 844-269-9218 or itochuinternational.ethicspoint.com.
+
+--------------------------------------------------------------------------------
+
+URL: https://tyrenergy.com/tyr_v2_wp/wp-content/uploads/2020/05/Information-for-Business-Partners-Final-20180401.pdf
+
+April 2018 
+ 
+Information for Tyr Energy Business Partners 
+Tyr Energy, Inc. and its subsidiaries (“Tyr Energy”) , as part of the ITOCHU Group of companies, have specified 
+Integrity as one of the Values, under which we declare that each one of us in the ITOCHU Group "will never 
+obstruct competition through illicit means nor develop inappropriate relationships, such as those with public 
+officials, for our own interests." 
+ITOCHU Corporation traces its management philosophy back to that of its founder, Chubei Ito, who, as an Ohmi 
+merchant, operated under the philosophy of sampō yoshi (good in three ways: good for the seller, good for the 
+buyer, good for society). Reflecting this tradition, ITOCHU Group’s corporate philosophy is “Committed to the 
+Global Good,” and to fulfill this philosophy, ITOCHU Group has adopted as one of its core values “integrity,” 
+which includes keeping promises, acting without hypocrisy, and always maintaining strong ethics in all places and 
+with respect to everyone, a concept analogous to adhering to compliance. 
+ 
+1. Tyr Energy Due Diligence 
+For Tyr Energy to implement its anti-corruption policies, we require the cooperation of business partners 
+including but not limited to investment partners (“Business Partners” or “BP’s”). That generally means that Tyr 
+Energy will conduct due diligence on BP’s. The nature and extent of due diligence will depend on the business 
+relationship; those business relationships that may involve direct or indirect contact with public officials, quasi-
+public officials, or their representatives (“Public Officials”) may require more detailed due diligence. 
+ 
+2. Doing Business with Tyr Energy 
+Tyr Energy strongly endorses the international movement to outlaw the use of bribery and government corruption 
+in business dealings. In many countries, including the US, providing gifts, gratuities, and entertainment to Public 
+Officials is illegal and, in the limited cases where it is legal, still raises ethical concerns. Local laws and 
+regulations may also preclude Public Officials from accepting such courtesies. 
+The US statute that addresses bribery of Public Officials is known as the “Foreign Corrupt Practices Act"; similar 
+laws exist in other countries, such as Japan. Tyr Energy specifically prohibits bribery and other illegal business 
+practices. Our requirements include: 
+
+April 2018 
+ 
+• No money, entertainment, gifts, or anything of value shall be given to or received from any Public 
+Official. Exceptions, where legally permitted, require advance, written approval by the Tyr Energy legal 
+department. Exceptions are never allowed for illicit gain. 
+• No money, entertainment, gifts, or anything of value to obtain illicit gain shall be given to or received 
+from any director, officer or employee of any private entity. All things of value exchanged between 
+representatives of Tyr Energy and any BP must be reasonable under the circumstances and for legitimate 
+business purposes. 
+• In addition to banning bribery, Tyr Energy’s internal rules prohibit officers and employees from receiving 
+improper advantages from Public Officials and BP’s (including potential BP’s), deeming such acts to be a 
+mix of business with personal affairs and therefore a conflict of interest. 
+• We also manage Tyr Energy political contributions, charitable donations, and sponsorship activities so 
+that these do not constitute corruption. Procedures exist so that approval of donations and sponsorships 
+validate that such activities are legal, socially just and meet ethical standards. 
+• Tyr Energy believes in free and fair business competition. We will compete vigorously, but ethically, and 
+in compliance with all applicable competition laws. Tyr Energy will not have communications with 
+competitors concerning prices or credit terms, submission of bids or offers, allocation of markets or 
+orders, limitations on production or distribution, boycotts of suppliers or customers, or any similar 
+matters, unless such communications are (a) legal and (b) reviewed and approved in advance by the Tyr 
+Energy legal department. 
+This summary of business principles is not all inclusive, does not replace specific contractual or legal 
+requirements with BP’s or otherwise, and is not intended as legal advice. If you believe that a Tyr Energy 
+representative is not following these business principles in their dealings on behalf of Tyr Energy, please contact 
+the Tyr Energy legal department at legal@tyrenergy.com. Tyr Energy thanks you for your understanding and 
+cooperation.
+
+--------------------------------------------------------------------------------
+
+URL: https://tyrenergy.com/tyr_v2_wp/wp-content/uploads/2020/05/hickory-run-crcp.pdf
+
+HICKORY RUN COMPLIANCE RULES
+AND SYSTEM BACKGROUND
+Hickory Run Holdings, LLC (HRH), the owner of the Hickory Run power 
+plant, has adopted and implemented the following Compliance Rules, 
+summarized here: 
+• Policies and procedures designed to address external
+and internal compliance risks (proportionate to the risk)
+• Risk assessment regarding the nature and extent of the
+exposure of HRH and its subsidiaries collectively, the
+(Company) to anti-corruption, antitrust and money laundering
+laws, within two years after adoption of the Compliance Rules
+• Communicating compliance expectations to, and
+implementing compliance training for, personnel
+and management of the Company
+• Mechanism for reporting potential violations
+• Process for investigating, and where
+possible, remediating any violations
+• Process for testing and evaluating the
+effectiveness of the Compliance Rules
+• Person or group of persons who will have
+dedicated responsibility for compliance
+• Periodic review by the Board of Managers at least
+annually following the adoption of the Compliance Rules
+CONTACT
+INFORMATION:
+Address:
+7500 College
+Boulevard, Suite 400
+Overland Park,
+KS 66210
+Phone:
+913.754.5800
+Fax:
+913.754.5701 
+Email:
+legal@tyrenergy.com
+HICKORY RUN
+ENERGY
+
+
+HICKORY RUN COMPLIANCE RULES
+Hickory Run Holdings, LLC (HRH), the owner of the Hickory Run power plant, has adopted and implemented the 
+following Compliance Rules:
+1. Top-Level Commitment
+The culture of integrity and compliance at Hickory Run Holdings, LLC and its subsidiaries (collectively, the 
+“Company”) starts at the top. HRH is committed to advocating compliance with law and the Company’s policies 
+regarding business conduct. The Compliance Rules are the foundation of the Company’s compliance system. 
+2. Management
+The Board appointed the Tyr Energy Member as the Member responsible for appointing a Compliance Officer 
+for the Company. The Compliance Officer has the responsibility for the Company’s compliance efforts, 
+designing and implementing internal controls, policies and procedures to verify compliance with the Compliance 
+Rules, and with applicable local, state and federal laws and regulations and third-party guidelines, and 
+managing audits and investigations into regulatory and compliance issues. The Board may remove and replace 
+the Compliance Officer at any time.
+The Board of Managers will forward compliance-related matters to the Compliance Officer. To carry this out, the 
+Board of Managers stresses the importance of (i) ethical conduct, and (ii) strict compliance with law and the 
+Company’s Compliance Rules. Compliance with law and the Company’s Compliance Rules is always required 
+under all circumstances. 
+Compliance is an individual responsibility. All of the Company’s members, directors, officers, and other agents 
+and representatives (e.g., consultants and contractors, collectively, “Representatives”), must work together to 
+comply with applicable laws and the Compliance Rules.
+3. Company-wide compliance with Laws and Regulations
+All Representatives must comply with applicable laws and regulations, including, but not limited to: (1) 
+anti-corruption or anti-bribery law or regulation in a U.S. or any non-U.S. country or jurisdiction, including the 
+U.S. Foreign Corrupt Practices Act, or similar laws and regulations in any other applicable jurisdictions 
+(collectively, “Anti-Corruption Laws”), (2) law or regulation in a U.S. or any non-U.S. country or jurisdiction 
+concerning or relating to anti-money laundering (collectively, “AML Laws”), and (3) Compliance Laws and Export 
+Control Regulations, meaning (a) all applicable Anti-Corruption Laws, AML Laws, antitrust, and data protection 
+laws and regulations; (b) all applicable national and international (re-)export control, customs and foreign trade 
+regulations, including, but not limited to, those of the Federal Republic of Germany, of the European Union, and 
+of the United States of America; and (c) all applicable laws and regulations concerning Sanctions. 
+Representatives who fail to comply with such Laws will be subject to disciplinary sanction up to, and including, 
+discharge from employment or engagement with the Company.
+4. Fair Competition and Antitrust Laws
+All Representatives are required to abide by the Laws of fair competition. Representatives must not:
+• talk to competitors about prices, output, capacities, sales, bids, profits, profit margins, costs, methods of 
+distribution or any other parameter that determines or influences the Company’s competitive behavior with 
+the aim to solicit parallel behavior from the competitor;
+• enter into an agreement with a competitor not to compete, to restrict dealings with suppliers, to submit 
+bogus offers for bidding or to divide up customers, markets, territories or production programs; or
+• have any influence on the resale prices charged by purchasers or attempt to make them restrict the export 
+or import of goods supplied by the Company.
+Moreover, no Representative may obtain confidential information of a competitor by using industrial espionage, 
+bribery, theft or electronic eavesdropping, or communicate knowingly false information about a competitor or 
+its products or services.
+5. Anti-Corruption: Offering and Granting Advantages
+No Representative may, directly or indirectly, offer, promise, grant or authorize the giving of money or anything 
+else of value to a government official to influence official action or obtain an improper advantage. The same 
+applies to a private commercial counterparty in a business transaction in consideration for an improper 
+advantage. Any offer, promise, grant or gift must comply with the Law and these Compliance Rules, and not 
+raise an appearance of bad faith or impropriety. This means that no such offer, promise, grant or gift may be 
+made if it could reasonably be understood as an effort to improperly influence a government official or as a 
+bribe to a commercial counterparty to grant the Company a business advantage. The term “government 
+official” is defined broadly to include officials or employees of any government or other public body, agency or 
+legal entity, at any level, including officers or employees of state-owned enterprises and public international 
+organizations. It also includes candidates for political office, political party officials and employees, as well as 
+political parties.
+In addition, Representatives may not give money or anything of value indirectly (for example, to a consultant, 
+agent, business partner or other third party) if the circumstances indicate that all or part of the money or thing 
+of value may be directly or indirectly passed on to a government official to influence official action or obtain an 
+improper advantage or to a private commercial counterparty in consideration of an unfair advantage in a 
+business transaction.
+For that reason, Representatives responsible for hiring or selecting contractors, consultants, agents, or partners 
+in joint ventures, construction projects or comparable entities, must act as appropriate to:
+• set expectations so that third parties understand and comply with the Law and these Compliance Rules; and
+• evaluate the qualifications and reputation of such third parties to verify they will comply with the Law and 
+these Compliance Rules.
+This rule applies if Representatives have contact with government officials on behalf of the Company or if the 
+third party is an Intermediary. “Intermediary” means any business partner that fulfills all of the following 
+criteria: (i) the business partner acts in the interest, or on behalf, of the Company; (ii) the business partner is in 
+a position to influence decisions or the conduct of third parties for the benefit of the Company; and (iii) the 
+business partner receives a fee or other financial benefit (including price reductions) in connection with its 
+representation of, or association with, the Company in connection with any project or activity undertaken or 
+sponsored by the Company, including, without limitation, any sales agents, business consultants, distributors, 
+resellers, customs agents, lobbyists, or other intermediaries.
+Finally, each investment decision made by the Company – whether it is the purchase of a controlling interest in a 
+company or a minority interest, or a joint venture arrangement – must include a review and assessment of the 
+investment entity and/or joint venture partner(s) to verify that the entity has or will set standards for compliance 
+with the Law and these Compliance Rules.
+6. Gifts and Entertainment: Demanding and Accepting Advantages
+Representatives are not permitted to use their jobs to solicit, demand, accept, obtain or be promised 
+advantages. This does not apply to the acceptance of occasional gifts of purely symbolic or nominal value or 
+meals or entertainment reasonable in value that are consistent with local customs and practices and Company 
+policies and otherwise in accordance with Laws. Representatives must refuse any other gifts, meals or 
+entertainment that are outside of these standards. Contact the Compliance Officer with questions concerning 
+specific instances regarding the acceptance of gifts, meals or entertainment. 
+7. Political Contributions, Charitable Donations and Sponsoring
+The Company may not make political contributions (donations to politicians, political parties or political 
+organizations) without the prior consent of all members of the Board of Managers. As a responsible member of 
+the local community and society, the Company may make monetary or product donations for education and 
+science, art and culture, social and humanitarian projects, and other charitable purposes in accordance with 
+Laws. Sponsorships for which the Company receives advertising are not considered donations, nor are 
+contributions to industry associations or fees for memberships in organizations that serve business interests.
+Some donations are always prohibited, including donations:
+• to for-profit organizations;
+• to organizations whose goals are incompatible with the Company’s corporate principles; or
+• that would damage the Company’s reputation.
+All donations must be transparent. This means, among other things, that the recipient’s identity and planned use 
+of the donation must be clear and the reason and purpose for the donation must be justifiable and documented. 
+Quasi-donations, meaning donations that appear to be compensation for a service but are substantially larger 
+than the value of the service, are prohibited as violating the principles of transparency.
+“Sponsoring” means any contribution in money or in kind by the Company towards an event organized by a 
+third party or tangible property offered to a third party in return for the opportunity to advertise the Company 
+name by, for example, displaying the Company logo, being mentioned in opening or closing addresses, public 
+service announcements and news releases, or the participation of a speaker on a discussion panel, as well as 
+obtaining tickets to any events. All sponsoring contributions must be transparent, pursuant to written agreement, 
+for legitimate business purposes, and commensurate with the consideration offered by the event host. 
+Contributions may not be promised, offered or made to secure unjustified competitive advantages for the 
+Company or for other improper purposes, and they may not be made towards events organized by individuals 
+or organizations that have goals incompatible with the Company’s corporate principles or that would damage 
+the Company’s reputation.
+8. Anti-money Laundering
+Money laundering is the process of disguising the nature and source of money connected with criminal activity 
+– such as terrorism, drug trafficking or bribery – by integrating dirty money into the stream of commerce so that 
+it appears legitimate or its true source or owner cannot be identified. It is the Company’s objective to conduct 
+business with reputable customers, consultants and business partners who are involved in lawful business 
+activities and whose funds are derived from legitimate sources. The Company does not facilitate money 
+laundering. All Representatives must abide by applicable anti-money laundering laws. To avoid problems in this 
+area, all employees must be attentive to and report suspicious behavior by customers, consultants and business 
+partners. Employees must also follow all accounting, record-keeping and financial reporting requirements 
+applicable to cash and payments in connection with other transactions and contracts.
+9. Trade Controls
+The Company will comply with all applicable export controls and customs laws and regulations. Export controls 
+generally apply to the transfer of goods, services, hardware, software or technology across certain national 
+borders, including by email. Export control laws may be triggered in connection with direct or indirect exports 
+to or imports from sanctioned countries or parties, who, for example, may be designated based on national 
+security grounds or because of participation in criminal activity. Violations of these laws and regulations may 
+lead to serious penalties, including fines and governmental withdrawal of simplified import and export 
+procedures (interruption of seamless supply chain). Representatives involved in the import and export of goods, 
+services, hardware, software or technology as described above must follow applicable economic sanctions, 
+export control and import laws and regulations.
+10. Compliance Implementation, Training and Monitoring
+The Company’s Compliance Officer is tasked with the distribution of these Compliance Rules, communicating 
+expectations to all Representatives and Compliance Rules implementation. The Compliance Officer will 
+carefully monitor compliance with the Law and the Compliance Rules on a regular basis and will advise the 
+Board of Managers on potential improvements to the compliance system, particularly with respect to the 
+components involving anti-corruption and money laundering laws. The Company’s Board of Managers, with the 
+assistance of the Compliance Officer, will conduct a periodic review no less than annually following the 
+adoption of the Compliance Rules, regarding the effectiveness of and any recommended enhancements to the 
+Company’s compliance system.
+Furthermore, the Company understands that successful implementation of the Compliance Rules requires 
+communication with Representatives. The Company places emphasis on setting the expectations with those 
+Representatives who perform sensitive functions such as legal, purchasing, sales and project management or 
+who will have contact with Government Officials. These Representatives are responsible to review the 
+Compliance Rules, understand their requirements, and comply with the Compliance Rules.
+ 
+11. Risk Assessment
+On a biennial basis, the Company will conduct a risk assessment to determine the nature and extent of the 
+exposure its business operations face regarding external and internal compliance risks, particularly with 
+respect to applicable anti-corruption, antitrust and money laundering laws. The Compliance Officer will have 
+responsibility for conducting this assessment and will report the results to the Board, the Company’s senior 
+management, and the Members of the Company every two (2) calendar years following the adoption of the 
+Compliance Rules.
+12. Complaints and Comments
+Any Representative may lodge a complaint with the Compliance Officer or some other person designated for 
+this purpose, without fear of retaliation. Any Board of Manager member shall be accessible in case someone 
+wishes to raise compliance concerns, ask questions, or discuss potential compliance. Circumstances that 
+point to a potential violation of the Compliance Rules must be reported to the Compliance Officer. All 
+complaints may be submitted both confidentially and anonymously, and all complaints will be investigated. 
+Corrective measures will be implemented if necessary. All documentation will be kept confidential to the 
+extent permitted by Law.
+HICKORY RUN
+ENERGY
+
+
+HICKORY RUN COMPLIANCE RULES
+Hickory Run Holdings, LLC (HRH), the owner of the Hickory Run power plant, has adopted and implemented the 
+following Compliance Rules:
+1. Top-Level Commitment
+The culture of integrity and compliance at Hickory Run Holdings, LLC and its subsidiaries (collectively, the 
+“Company”) starts at the top. HRH is committed to advocating compliance with law and the Company’s policies 
+regarding business conduct. The Compliance Rules are the foundation of the Company’s compliance system. 
+2. Management
+The Board appointed the Tyr Energy Member as the Member responsible for appointing a Compliance Officer 
+for the Company. The Compliance Officer has the responsibility for the Company’s compliance efforts, 
+designing and implementing internal controls, policies and procedures to verify compliance with the Compliance 
+Rules, and with applicable local, state and federal laws and regulations and third-party guidelines, and 
+managing audits and investigations into regulatory and compliance issues. The Board may remove and replace 
+the Compliance Officer at any time.
+The Board of Managers will forward compliance-related matters to the Compliance Officer. To carry this out, the 
+Board of Managers stresses the importance of (i) ethical conduct, and (ii) strict compliance with law and the 
+Company’s Compliance Rules. Compliance with law and the Company’s Compliance Rules is always required 
+under all circumstances. 
+Compliance is an individual responsibility. All of the Company’s members, directors, officers, and other agents 
+and representatives (e.g., consultants and contractors, collectively, “Representatives”), must work together to 
+comply with applicable laws and the Compliance Rules.
+3. Company-wide compliance with Laws and Regulations
+All Representatives must comply with applicable laws and regulations, including, but not limited to: (1) 
+anti-corruption or anti-bribery law or regulation in a U.S. or any non-U.S. country or jurisdiction, including the 
+U.S. Foreign Corrupt Practices Act, or similar laws and regulations in any other applicable jurisdictions 
+(collectively, “Anti-Corruption Laws”), (2) law or regulation in a U.S. or any non-U.S. country or jurisdiction 
+concerning or relating to anti-money laundering (collectively, “AML Laws”), and (3) Compliance Laws and Export 
+Control Regulations, meaning (a) all applicable Anti-Corruption Laws, AML Laws, antitrust, and data protection 
+laws and regulations; (b) all applicable national and international (re-)export control, customs and foreign trade 
+regulations, including, but not limited to, those of the Federal Republic of Germany, of the European Union, and 
+of the United States of America; and (c) all applicable laws and regulations concerning Sanctions. 
+Representatives who fail to comply with such Laws will be subject to disciplinary sanction up to, and including, 
+discharge from employment or engagement with the Company.
+4. Fair Competition and Antitrust Laws
+All Representatives are required to abide by the Laws of fair competition. Representatives must not:
+• talk to competitors about prices, output, capacities, sales, bids, profits, profit margins, costs, methods of 
+distribution or any other parameter that determines or influences the Company’s competitive behavior with 
+the aim to solicit parallel behavior from the competitor;
+• enter into an agreement with a competitor not to compete, to restrict dealings with suppliers, to submit 
+bogus offers for bidding or to divide up customers, markets, territories or production programs; or
+• have any influence on the resale prices charged by purchasers or attempt to make them restrict the export 
+or import of goods supplied by the Company.
+Moreover, no Representative may obtain confidential information of a competitor by using industrial espionage, 
+bribery, theft or electronic eavesdropping, or communicate knowingly false information about a competitor or 
+its products or services.
+5. Anti-Corruption: Offering and Granting Advantages
+No Representative may, directly or indirectly, offer, promise, grant or authorize the giving of money or anything 
+else of value to a government official to influence official action or obtain an improper advantage. The same 
+applies to a private commercial counterparty in a business transaction in consideration for an improper 
+advantage. Any offer, promise, grant or gift must comply with the Law and these Compliance Rules, and not 
+raise an appearance of bad faith or impropriety. This means that no such offer, promise, grant or gift may be 
+made if it could reasonably be understood as an effort to improperly influence a government official or as a 
+bribe to a commercial counterparty to grant the Company a business advantage. The term “government 
+official” is defined broadly to include officials or employees of any government or other public body, agency or 
+legal entity, at any level, including officers or employees of state-owned enterprises and public international 
+organizations. It also includes candidates for political office, political party officials and employees, as well as 
+political parties.
+In addition, Representatives may not give money or anything of value indirectly (for example, to a consultant, 
+agent, business partner or other third party) if the circumstances indicate that all or part of the money or thing 
+of value may be directly or indirectly passed on to a government official to influence official action or obtain an 
+improper advantage or to a private commercial counterparty in consideration of an unfair advantage in a 
+business transaction.
+For that reason, Representatives responsible for hiring or selecting contractors, consultants, agents, or partners 
+in joint ventures, construction projects or comparable entities, must act as appropriate to:
+• set expectations so that third parties understand and comply with the Law and these Compliance Rules; and
+• evaluate the qualifications and reputation of such third parties to verify they will comply with the Law and 
+these Compliance Rules.
+This rule applies if Representatives have contact with government officials on behalf of the Company or if the 
+third party is an Intermediary. “Intermediary” means any business partner that fulfills all of the following 
+criteria: (i) the business partner acts in the interest, or on behalf, of the Company; (ii) the business partner is in 
+a position to influence decisions or the conduct of third parties for the benefit of the Company; and (iii) the 
+business partner receives a fee or other financial benefit (including price reductions) in connection with its 
+representation of, or association with, the Company in connection with any project or activity undertaken or 
+sponsored by the Company, including, without limitation, any sales agents, business consultants, distributors, 
+resellers, customs agents, lobbyists, or other intermediaries.
+Finally, each investment decision made by the Company – whether it is the purchase of a controlling interest in a 
+company or a minority interest, or a joint venture arrangement – must include a review and assessment of the 
+investment entity and/or joint venture partner(s) to verify that the entity has or will set standards for compliance 
+with the Law and these Compliance Rules.
+6. Gifts and Entertainment: Demanding and Accepting Advantages
+Representatives are not permitted to use their jobs to solicit, demand, accept, obtain or be promised 
+advantages. This does not apply to the acceptance of occasional gifts of purely symbolic or nominal value or 
+meals or entertainment reasonable in value that are consistent with local customs and practices and Company 
+policies and otherwise in accordance with Laws. Representatives must refuse any other gifts, meals or 
+entertainment that are outside of these standards. Contact the Compliance Officer with questions concerning 
+specific instances regarding the acceptance of gifts, meals or entertainment. 
+7. Political Contributions, Charitable Donations and Sponsoring
+The Company may not make political contributions (donations to politicians, political parties or political 
+organizations) without the prior consent of all members of the Board of Managers. As a responsible member of 
+the local community and society, the Company may make monetary or product donations for education and 
+science, art and culture, social and humanitarian projects, and other charitable purposes in accordance with 
+Laws. Sponsorships for which the Company receives advertising are not considered donations, nor are 
+contributions to industry associations or fees for memberships in organizations that serve business interests.
+Some donations are always prohibited, including donations:
+• to for-profit organizations;
+• to organizations whose goals are incompatible with the Company’s corporate principles; or
+• that would damage the Company’s reputation.
+All donations must be transparent. This means, among other things, that the recipient’s identity and planned use 
+of the donation must be clear and the reason and purpose for the donation must be justifiable and documented. 
+Quasi-donations, meaning donations that appear to be compensation for a service but are substantially larger 
+than the value of the service, are prohibited as violating the principles of transparency.
+“Sponsoring” means any contribution in money or in kind by the Company towards an event organized by a 
+third party or tangible property offered to a third party in return for the opportunity to advertise the Company 
+name by, for example, displaying the Company logo, being mentioned in opening or closing addresses, public 
+service announcements and news releases, or the participation of a speaker on a discussion panel, as well as 
+obtaining tickets to any events. All sponsoring contributions must be transparent, pursuant to written agreement, 
+for legitimate business purposes, and commensurate with the consideration offered by the event host. 
+Contributions may not be promised, offered or made to secure unjustified competitive advantages for the 
+Company or for other improper purposes, and they may not be made towards events organized by individuals 
+or organizations that have goals incompatible with the Company’s corporate principles or that would damage 
+the Company’s reputation.
+8. Anti-money Laundering
+Money laundering is the process of disguising the nature and source of money connected with criminal activity 
+– such as terrorism, drug trafficking or bribery – by integrating dirty money into the stream of commerce so that 
+it appears legitimate or its true source or owner cannot be identified. It is the Company’s objective to conduct 
+business with reputable customers, consultants and business partners who are involved in lawful business 
+activities and whose funds are derived from legitimate sources. The Company does not facilitate money 
+laundering. All Representatives must abide by applicable anti-money laundering laws. To avoid problems in this 
+area, all employees must be attentive to and report suspicious behavior by customers, consultants and business 
+partners. Employees must also follow all accounting, record-keeping and financial reporting requirements 
+applicable to cash and payments in connection with other transactions and contracts.
+9. Trade Controls
+The Company will comply with all applicable export controls and customs laws and regulations. Export controls 
+generally apply to the transfer of goods, services, hardware, software or technology across certain national 
+borders, including by email. Export control laws may be triggered in connection with direct or indirect exports 
+to or imports from sanctioned countries or parties, who, for example, may be designated based on national 
+security grounds or because of participation in criminal activity. Violations of these laws and regulations may 
+lead to serious penalties, including fines and governmental withdrawal of simplified import and export 
+procedures (interruption of seamless supply chain). Representatives involved in the import and export of goods, 
+services, hardware, software or technology as described above must follow applicable economic sanctions, 
+export control and import laws and regulations.
+10. Compliance Implementation, Training and Monitoring
+The Company’s Compliance Officer is tasked with the distribution of these Compliance Rules, communicating 
+expectations to all Representatives and Compliance Rules implementation. The Compliance Officer will 
+carefully monitor compliance with the Law and the Compliance Rules on a regular basis and will advise the 
+Board of Managers on potential improvements to the compliance system, particularly with respect to the 
+components involving anti-corruption and money laundering laws. The Company’s Board of Managers, with the 
+assistance of the Compliance Officer, will conduct a periodic review no less than annually following the 
+adoption of the Compliance Rules, regarding the effectiveness of and any recommended enhancements to the 
+Company’s compliance system.
+Furthermore, the Company understands that successful implementation of the Compliance Rules requires 
+communication with Representatives. The Company places emphasis on setting the expectations with those 
+Representatives who perform sensitive functions such as legal, purchasing, sales and project management or 
+who will have contact with Government Officials. These Representatives are responsible to review the 
+Compliance Rules, understand their requirements, and comply with the Compliance Rules.
+ 
+11. Risk Assessment
+On a biennial basis, the Company will conduct a risk assessment to determine the nature and extent of the 
+exposure its business operations face regarding external and internal compliance risks, particularly with 
+respect to applicable anti-corruption, antitrust and money laundering laws. The Compliance Officer will have 
+responsibility for conducting this assessment and will report the results to the Board, the Company’s senior 
+management, and the Members of the Company every two (2) calendar years following the adoption of the 
+Compliance Rules.
+12. Complaints and Comments
+Any Representative may lodge a complaint with the Compliance Officer or some other person designated for 
+this purpose, without fear of retaliation. Any Board of Manager member shall be accessible in case someone 
+wishes to raise compliance concerns, ask questions, or discuss potential compliance. Circumstances that 
+point to a potential violation of the Compliance Rules must be reported to the Compliance Officer. All 
+complaints may be submitted both confidentially and anonymously, and all complaints will be investigated. 
+Corrective measures will be implemented if necessary. All documentation will be kept confidential to the 
+extent permitted by Law.
+HICKORY RUN
+ENERGY
+
+
+HICKORY RUN COMPLIANCE RULES
+Hickory Run Holdings, LLC (HRH), the owner of the Hickory Run power plant, has adopted and implemented the 
+following Compliance Rules:
+1. Top-Level Commitment
+The culture of integrity and compliance at Hickory Run Holdings, LLC and its subsidiaries (collectively, the 
+“Company”) starts at the top. HRH is committed to advocating compliance with law and the Company’s policies 
+regarding business conduct. The Compliance Rules are the foundation of the Company’s compliance system. 
+2. Management
+The Board appointed the Tyr Energy Member as the Member responsible for appointing a Compliance Officer 
+for the Company. The Compliance Officer has the responsibility for the Company’s compliance efforts, 
+designing and implementing internal controls, policies and procedures to verify compliance with the Compliance 
+Rules, and with applicable local, state and federal laws and regulations and third-party guidelines, and 
+managing audits and investigations into regulatory and compliance issues. The Board may remove and replace 
+the Compliance Officer at any time.
+The Board of Managers will forward compliance-related matters to the Compliance Officer. To carry this out, the 
+Board of Managers stresses the importance of (i) ethical conduct, and (ii) strict compliance with law and the 
+Company’s Compliance Rules. Compliance with law and the Company’s Compliance Rules is always required 
+under all circumstances. 
+Compliance is an individual responsibility. All of the Company’s members, directors, officers, and other agents 
+and representatives (e.g., consultants and contractors, collectively, “Representatives”), must work together to 
+comply with applicable laws and the Compliance Rules.
+3. Company-wide compliance with Laws and Regulations
+All Representatives must comply with applicable laws and regulations, including, but not limited to: (1) 
+anti-corruption or anti-bribery law or regulation in a U.S. or any non-U.S. country or jurisdiction, including the 
+U.S. Foreign Corrupt Practices Act, or similar laws and regulations in any other applicable jurisdictions 
+(collectively, “Anti-Corruption Laws”), (2) law or regulation in a U.S. or any non-U.S. country or jurisdiction 
+concerning or relating to anti-money laundering (collectively, “AML Laws”), and (3) Compliance Laws and Export 
+Control Regulations, meaning (a) all applicable Anti-Corruption Laws, AML Laws, antitrust, and data protection 
+laws and regulations; (b) all applicable national and international (re-)export control, customs and foreign trade 
+regulations, including, but not limited to, those of the Federal Republic of Germany, of the European Union, and 
+of the United States of America; and (c) all applicable laws and regulations concerning Sanctions. 
+Representatives who fail to comply with such Laws will be subject to disciplinary sanction up to, and including, 
+discharge from employment or engagement with the Company.
+4. Fair Competition and Antitrust Laws
+All Representatives are required to abide by the Laws of fair competition. Representatives must not:
+• talk to competitors about prices, output, capacities, sales, bids, profits, profit margins, costs, methods of 
+distribution or any other parameter that determines or influences the Company’s competitive behavior with 
+the aim to solicit parallel behavior from the competitor;
+• enter into an agreement with a competitor not to compete, to restrict dealings with suppliers, to submit 
+bogus offers for bidding or to divide up customers, markets, territories or production programs; or
+• have any influence on the resale prices charged by purchasers or attempt to make them restrict the export 
+or import of goods supplied by the Company.
+Moreover, no Representative may obtain confidential information of a competitor by using industrial espionage, 
+bribery, theft or electronic eavesdropping, or communicate knowingly false information about a competitor or 
+its products or services.
+5. Anti-Corruption: Offering and Granting Advantages
+No Representative may, directly or indirectly, offer, promise, grant or authorize the giving of money or anything 
+else of value to a government official to influence official action or obtain an improper advantage. The same 
+applies to a private commercial counterparty in a business transaction in consideration for an improper 
+advantage. Any offer, promise, grant or gift must comply with the Law and these Compliance Rules, and not 
+raise an appearance of bad faith or impropriety. This means that no such offer, promise, grant or gift may be 
+made if it could reasonably be understood as an effort to improperly influence a government official or as a 
+bribe to a commercial counterparty to grant the Company a business advantage. The term “government 
+official” is defined broadly to include officials or employees of any government or other public body, agency or 
+legal entity, at any level, including officers or employees of state-owned enterprises and public international 
+organizations. It also includes candidates for political office, political party officials and employees, as well as 
+political parties.
+In addition, Representatives may not give money or anything of value indirectly (for example, to a consultant, 
+agent, business partner or other third party) if the circumstances indicate that all or part of the money or thing 
+of value may be directly or indirectly passed on to a government official to influence official action or obtain an 
+improper advantage or to a private commercial counterparty in consideration of an unfair advantage in a 
+business transaction.
+For that reason, Representatives responsible for hiring or selecting contractors, consultants, agents, or partners 
+in joint ventures, construction projects or comparable entities, must act as appropriate to:
+• set expectations so that third parties understand and comply with the Law and these Compliance Rules; and
+• evaluate the qualifications and reputation of such third parties to verify they will comply with the Law and 
+these Compliance Rules.
+This rule applies if Representatives have contact with government officials on behalf of the Company or if the 
+third party is an Intermediary. “Intermediary” means any business partner that fulfills all of the following 
+criteria: (i) the business partner acts in the interest, or on behalf, of the Company; (ii) the business partner is in 
+a position to influence decisions or the conduct of third parties for the benefit of the Company; and (iii) the 
+business partner receives a fee or other financial benefit (including price reductions) in connection with its 
+representation of, or association with, the Company in connection with any project or activity undertaken or 
+sponsored by the Company, including, without limitation, any sales agents, business consultants, distributors, 
+resellers, customs agents, lobbyists, or other intermediaries.
+Finally, each investment decision made by the Company – whether it is the purchase of a controlling interest in a 
+company or a minority interest, or a joint venture arrangement – must include a review and assessment of the 
+investment entity and/or joint venture partner(s) to verify that the entity has or will set standards for compliance 
+with the Law and these Compliance Rules.
+6. Gifts and Entertainment: Demanding and Accepting Advantages
+Representatives are not permitted to use their jobs to solicit, demand, accept, obtain or be promised 
+advantages. This does not apply to the acceptance of occasional gifts of purely symbolic or nominal value or 
+meals or entertainment reasonable in value that are consistent with local customs and practices and Company 
+policies and otherwise in accordance with Laws. Representatives must refuse any other gifts, meals or 
+entertainment that are outside of these standards. Contact the Compliance Officer with questions concerning 
+specific instances regarding the acceptance of gifts, meals or entertainment. 
+7. Political Contributions, Charitable Donations and Sponsoring
+The Company may not make political contributions (donations to politicians, political parties or political 
+organizations) without the prior consent of all members of the Board of Managers. As a responsible member of 
+the local community and society, the Company may make monetary or product donations for education and 
+science, art and culture, social and humanitarian projects, and other charitable purposes in accordance with 
+Laws. Sponsorships for which the Company receives advertising are not considered donations, nor are 
+contributions to industry associations or fees for memberships in organizations that serve business interests.
+Some donations are always prohibited, including donations:
+• to for-profit organizations;
+• to organizations whose goals are incompatible with the Company’s corporate principles; or
+• that would damage the Company’s reputation.
+All donations must be transparent. This means, among other things, that the recipient’s identity and planned use 
+of the donation must be clear and the reason and purpose for the donation must be justifiable and documented. 
+Quasi-donations, meaning donations that appear to be compensation for a service but are substantially larger 
+than the value of the service, are prohibited as violating the principles of transparency.
+“Sponsoring” means any contribution in money or in kind by the Company towards an event organized by a 
+third party or tangible property offered to a third party in return for the opportunity to advertise the Company 
+name by, for example, displaying the Company logo, being mentioned in opening or closing addresses, public 
+service announcements and news releases, or the participation of a speaker on a discussion panel, as well as 
+obtaining tickets to any events. All sponsoring contributions must be transparent, pursuant to written agreement, 
+for legitimate business purposes, and commensurate with the consideration offered by the event host. 
+Contributions may not be promised, offered or made to secure unjustified competitive advantages for the 
+Company or for other improper purposes, and they may not be made towards events organized by individuals 
+or organizations that have goals incompatible with the Company’s corporate principles or that would damage 
+the Company’s reputation.
+8. Anti-money Laundering
+Money laundering is the process of disguising the nature and source of money connected with criminal activity 
+– such as terrorism, drug trafficking or bribery – by integrating dirty money into the stream of commerce so that 
+it appears legitimate or its true source or owner cannot be identified. It is the Company’s objective to conduct 
+business with reputable customers, consultants and business partners who are involved in lawful business 
+activities and whose funds are derived from legitimate sources. The Company does not facilitate money 
+laundering. All Representatives must abide by applicable anti-money laundering laws. To avoid problems in this 
+area, all employees must be attentive to and report suspicious behavior by customers, consultants and business 
+partners. Employees must also follow all accounting, record-keeping and financial reporting requirements 
+applicable to cash and payments in connection with other transactions and contracts.
+9. Trade Controls
+The Company will comply with all applicable export controls and customs laws and regulations. Export controls 
+generally apply to the transfer of goods, services, hardware, software or technology across certain national 
+borders, including by email. Export control laws may be triggered in connection with direct or indirect exports 
+to or imports from sanctioned countries or parties, who, for example, may be designated based on national 
+security grounds or because of participation in criminal activity. Violations of these laws and regulations may 
+lead to serious penalties, including fines and governmental withdrawal of simplified import and export 
+procedures (interruption of seamless supply chain). Representatives involved in the import and export of goods, 
+services, hardware, software or technology as described above must follow applicable economic sanctions, 
+export control and import laws and regulations.
+10. Compliance Implementation, Training and Monitoring
+The Company’s Compliance Officer is tasked with the distribution of these Compliance Rules, communicating 
+expectations to all Representatives and Compliance Rules implementation. The Compliance Officer will 
+carefully monitor compliance with the Law and the Compliance Rules on a regular basis and will advise the 
+Board of Managers on potential improvements to the compliance system, particularly with respect to the 
+components involving anti-corruption and money laundering laws. The Company’s Board of Managers, with the 
+assistance of the Compliance Officer, will conduct a periodic review no less than annually following the 
+adoption of the Compliance Rules, regarding the effectiveness of and any recommended enhancements to the 
+Company’s compliance system.
+Furthermore, the Company understands that successful implementation of the Compliance Rules requires 
+communication with Representatives. The Company places emphasis on setting the expectations with those 
+Representatives who perform sensitive functions such as legal, purchasing, sales and project management or 
+who will have contact with Government Officials. These Representatives are responsible to review the 
+Compliance Rules, understand their requirements, and comply with the Compliance Rules.
+ 
+11. Risk Assessment
+On a biennial basis, the Company will conduct a risk assessment to determine the nature and extent of the 
+exposure its business operations face regarding external and internal compliance risks, particularly with 
+respect to applicable anti-corruption, antitrust and money laundering laws. The Compliance Officer will have 
+responsibility for conducting this assessment and will report the results to the Board, the Company’s senior 
+management, and the Members of the Company every two (2) calendar years following the adoption of the 
+Compliance Rules.
+12. Complaints and Comments
+Any Representative may lodge a complaint with the Compliance Officer or some other person designated for 
+this purpose, without fear of retaliation. Any Board of Manager member shall be accessible in case someone 
+wishes to raise compliance concerns, ask questions, or discuss potential compliance. Circumstances that 
+point to a potential violation of the Compliance Rules must be reported to the Compliance Officer. All 
+complaints may be submitted both confidentially and anonymously, and all complaints will be investigated. 
+Corrective measures will be implemented if necessary. All documentation will be kept confidential to the 
+extent permitted by Law.
+HICKORY RUN
+ENERGY
+
+
+HICKORY RUN COMPLIANCE RULES
+Hickory Run Holdings, LLC (HRH), the owner of the Hickory Run power plant, has adopted and implemented the 
+following Compliance Rules:
+1. Top-Level Commitment
+The culture of integrity and compliance at Hickory Run Holdings, LLC and its subsidiaries (collectively, the 
+“Company”) starts at the top. HRH is committed to advocating compliance with law and the Company’s policies 
+regarding business conduct. The Compliance Rules are the foundation of the Company’s compliance system. 
+2. Management
+The Board appointed the Tyr Energy Member as the Member responsible for appointing a Compliance Officer 
+for the Company. The Compliance Officer has the responsibility for the Company’s compliance efforts, 
+designing and implementing internal controls, policies and procedures to verify compliance with the Compliance 
+Rules, and with applicable local, state and federal laws and regulations and third-party guidelines, and 
+managing audits and investigations into regulatory and compliance issues. The Board may remove and replace 
+the Compliance Officer at any time.
+The Board of Managers will forward compliance-related matters to the Compliance Officer. To carry this out, the 
+Board of Managers stresses the importance of (i) ethical conduct, and (ii) strict compliance with law and the 
+Company’s Compliance Rules. Compliance with law and the Company’s Compliance Rules is always required 
+under all circumstances. 
+Compliance is an individual responsibility. All of the Company’s members, directors, officers, and other agents 
+and representatives (e.g., consultants and contractors, collectively, “Representatives”), must work together to 
+comply with applicable laws and the Compliance Rules.
+3. Company-wide compliance with Laws and Regulations
+All Representatives must comply with applicable laws and regulations, including, but not limited to: (1) 
+anti-corruption or anti-bribery law or regulation in a U.S. or any non-U.S. country or jurisdiction, including the 
+U.S. Foreign Corrupt Practices Act, or similar laws and regulations in any other applicable jurisdictions 
+(collectively, “Anti-Corruption Laws”), (2) law or regulation in a U.S. or any non-U.S. country or jurisdiction 
+concerning or relating to anti-money laundering (collectively, “AML Laws”), and (3) Compliance Laws and Export 
+Control Regulations, meaning (a) all applicable Anti-Corruption Laws, AML Laws, antitrust, and data protection 
+laws and regulations; (b) all applicable national and international (re-)export control, customs and foreign trade 
+regulations, including, but not limited to, those of the Federal Republic of Germany, of the European Union, and 
+of the United States of America; and (c) all applicable laws and regulations concerning Sanctions. 
+Representatives who fail to comply with such Laws will be subject to disciplinary sanction up to, and including, 
+discharge from employment or engagement with the Company.
+4. Fair Competition and Antitrust Laws
+All Representatives are required to abide by the Laws of fair competition. Representatives must not:
+• talk to competitors about prices, output, capacities, sales, bids, profits, profit margins, costs, methods of 
+distribution or any other parameter that determines or influences the Company’s competitive behavior with 
+the aim to solicit parallel behavior from the competitor;
+• enter into an agreement with a competitor not to compete, to restrict dealings with suppliers, to submit 
+bogus offers for bidding or to divide up customers, markets, territories or production programs; or
+• have any influence on the resale prices charged by purchasers or attempt to make them restrict the export 
+or import of goods supplied by the Company.
+Moreover, no Representative may obtain confidential information of a competitor by using industrial espionage, 
+bribery, theft or electronic eavesdropping, or communicate knowingly false information about a competitor or 
+its products or services.
+5. Anti-Corruption: Offering and Granting Advantages
+No Representative may, directly or indirectly, offer, promise, grant or authorize the giving of money or anything 
+else of value to a government official to influence official action or obtain an improper advantage. The same 
+applies to a private commercial counterparty in a business transaction in consideration for an improper 
+advantage. Any offer, promise, grant or gift must comply with the Law and these Compliance Rules, and not 
+raise an appearance of bad faith or impropriety. This means that no such offer, promise, grant or gift may be 
+made if it could reasonably be understood as an effort to improperly influence a government official or as a 
+bribe to a commercial counterparty to grant the Company a business advantage. The term “government 
+official” is defined broadly to include officials or employees of any government or other public body, agency or 
+legal entity, at any level, including officers or employees of state-owned enterprises and public international 
+organizations. It also includes candidates for political office, political party officials and employees, as well as 
+political parties.
+In addition, Representatives may not give money or anything of value indirectly (for example, to a consultant, 
+agent, business partner or other third party) if the circumstances indicate that all or part of the money or thing 
+of value may be directly or indirectly passed on to a government official to influence official action or obtain an 
+improper advantage or to a private commercial counterparty in consideration of an unfair advantage in a 
+business transaction.
+For that reason, Representatives responsible for hiring or selecting contractors, consultants, agents, or partners 
+in joint ventures, construction projects or comparable entities, must act as appropriate to:
+• set expectations so that third parties understand and comply with the Law and these Compliance Rules; and
+• evaluate the qualifications and reputation of such third parties to verify they will comply with the Law and 
+these Compliance Rules.
+This rule applies if Representatives have contact with government officials on behalf of the Company or if the 
+third party is an Intermediary. “Intermediary” means any business partner that fulfills all of the following 
+criteria: (i) the business partner acts in the interest, or on behalf, of the Company; (ii) the business partner is in 
+a position to influence decisions or the conduct of third parties for the benefit of the Company; and (iii) the 
+business partner receives a fee or other financial benefit (including price reductions) in connection with its 
+representation of, or association with, the Company in connection with any project or activity undertaken or 
+sponsored by the Company, including, without limitation, any sales agents, business consultants, distributors, 
+resellers, customs agents, lobbyists, or other intermediaries.
+Finally, each investment decision made by the Company – whether it is the purchase of a controlling interest in a 
+company or a minority interest, or a joint venture arrangement – must include a review and assessment of the 
+investment entity and/or joint venture partner(s) to verify that the entity has or will set standards for compliance 
+with the Law and these Compliance Rules.
+6. Gifts and Entertainment: Demanding and Accepting Advantages
+Representatives are not permitted to use their jobs to solicit, demand, accept, obtain or be promised 
+advantages. This does not apply to the acceptance of occasional gifts of purely symbolic or nominal value or 
+meals or entertainment reasonable in value that are consistent with local customs and practices and Company 
+policies and otherwise in accordance with Laws. Representatives must refuse any other gifts, meals or 
+entertainment that are outside of these standards. Contact the Compliance Officer with questions concerning 
+specific instances regarding the acceptance of gifts, meals or entertainment. 
+7. Political Contributions, Charitable Donations and Sponsoring
+The Company may not make political contributions (donations to politicians, political parties or political 
+organizations) without the prior consent of all members of the Board of Managers. As a responsible member of 
+the local community and society, the Company may make monetary or product donations for education and 
+science, art and culture, social and humanitarian projects, and other charitable purposes in accordance with 
+Laws. Sponsorships for which the Company receives advertising are not considered donations, nor are 
+contributions to industry associations or fees for memberships in organizations that serve business interests.
+Some donations are always prohibited, including donations:
+• to for-profit organizations;
+• to organizations whose goals are incompatible with the Company’s corporate principles; or
+• that would damage the Company’s reputation.
+All donations must be transparent. This means, among other things, that the recipient’s identity and planned use 
+of the donation must be clear and the reason and purpose for the donation must be justifiable and documented. 
+Quasi-donations, meaning donations that appear to be compensation for a service but are substantially larger 
+than the value of the service, are prohibited as violating the principles of transparency.
+“Sponsoring” means any contribution in money or in kind by the Company towards an event organized by a 
+third party or tangible property offered to a third party in return for the opportunity to advertise the Company 
+name by, for example, displaying the Company logo, being mentioned in opening or closing addresses, public 
+service announcements and news releases, or the participation of a speaker on a discussion panel, as well as 
+obtaining tickets to any events. All sponsoring contributions must be transparent, pursuant to written agreement, 
+for legitimate business purposes, and commensurate with the consideration offered by the event host. 
+Contributions may not be promised, offered or made to secure unjustified competitive advantages for the 
+Company or for other improper purposes, and they may not be made towards events organized by individuals 
+or organizations that have goals incompatible with the Company’s corporate principles or that would damage 
+the Company’s reputation.
+8. Anti-money Laundering
+Money laundering is the process of disguising the nature and source of money connected with criminal activity 
+– such as terrorism, drug trafficking or bribery – by integrating dirty money into the stream of commerce so that 
+it appears legitimate or its true source or owner cannot be identified. It is the Company’s objective to conduct 
+business with reputable customers, consultants and business partners who are involved in lawful business 
+activities and whose funds are derived from legitimate sources. The Company does not facilitate money 
+laundering. All Representatives must abide by applicable anti-money laundering laws. To avoid problems in this 
+area, all employees must be attentive to and report suspicious behavior by customers, consultants and business 
+partners. Employees must also follow all accounting, record-keeping and financial reporting requirements 
+applicable to cash and payments in connection with other transactions and contracts.
+9. Trade Controls
+The Company will comply with all applicable export controls and customs laws and regulations. Export controls 
+generally apply to the transfer of goods, services, hardware, software or technology across certain national 
+borders, including by email. Export control laws may be triggered in connection with direct or indirect exports 
+to or imports from sanctioned countries or parties, who, for example, may be designated based on national 
+security grounds or because of participation in criminal activity. Violations of these laws and regulations may 
+lead to serious penalties, including fines and governmental withdrawal of simplified import and export 
+procedures (interruption of seamless supply chain). Representatives involved in the import and export of goods, 
+services, hardware, software or technology as described above must follow applicable economic sanctions, 
+export control and import laws and regulations.
+10. Compliance Implementation, Training and Monitoring
+The Company’s Compliance Officer is tasked with the distribution of these Compliance Rules, communicating 
+expectations to all Representatives and Compliance Rules implementation. The Compliance Officer will 
+carefully monitor compliance with the Law and the Compliance Rules on a regular basis and will advise the 
+Board of Managers on potential improvements to the compliance system, particularly with respect to the 
+components involving anti-corruption and money laundering laws. The Company’s Board of Managers, with the 
+assistance of the Compliance Officer, will conduct a periodic review no less than annually following the 
+adoption of the Compliance Rules, regarding the effectiveness of and any recommended enhancements to the 
+Company’s compliance system.
+Furthermore, the Company understands that successful implementation of the Compliance Rules requires 
+communication with Representatives. The Company places emphasis on setting the expectations with those 
+Representatives who perform sensitive functions such as legal, purchasing, sales and project management or 
+who will have contact with Government Officials. These Representatives are responsible to review the 
+Compliance Rules, understand their requirements, and comply with the Compliance Rules.
+ 
+11. Risk Assessment
+On a biennial basis, the Company will conduct a risk assessment to determine the nature and extent of the 
+exposure its business operations face regarding external and internal compliance risks, particularly with 
+respect to applicable anti-corruption, antitrust and money laundering laws. The Compliance Officer will have 
+responsibility for conducting this assessment and will report the results to the Board, the Company’s senior 
+management, and the Members of the Company every two (2) calendar years following the adoption of the 
+Compliance Rules.
+12. Complaints and Comments
+Any Representative may lodge a complaint with the Compliance Officer or some other person designated for 
+this purpose, without fear of retaliation. Any Board of Manager member shall be accessible in case someone 
+wishes to raise compliance concerns, ask questions, or discuss potential compliance. Circumstances that 
+point to a potential violation of the Compliance Rules must be reported to the Compliance Officer. All 
+complaints may be submitted both confidentially and anonymously, and all complaints will be investigated. 
+Corrective measures will be implemented if necessary. All documentation will be kept confidential to the 
+extent permitted by Law.
+HICKORY RUN
+ENERGY
+
+
+HICKORY RUN COMPLIANCE RULES
+Hickory Run Holdings, LLC (HRH), the owner of the Hickory Run power plant, has adopted and implemented the 
+following Compliance Rules:
+1. Top-Level Commitment
+The culture of integrity and compliance at Hickory Run Holdings, LLC and its subsidiaries (collectively, the 
+“Company”) starts at the top. HRH is committed to advocating compliance with law and the Company’s policies 
+regarding business conduct. The Compliance Rules are the foundation of the Company’s compliance system. 
+2. Management
+The Board appointed the Tyr Energy Member as the Member responsible for appointing a Compliance Officer 
+for the Company. The Compliance Officer has the responsibility for the Company’s compliance efforts, 
+designing and implementing internal controls, policies and procedures to verify compliance with the Compliance 
+Rules, and with applicable local, state and federal laws and regulations and third-party guidelines, and 
+managing audits and investigations into regulatory and compliance issues. The Board may remove and replace 
+the Compliance Officer at any time.
+The Board of Managers will forward compliance-related matters to the Compliance Officer. To carry this out, the 
+Board of Managers stresses the importance of (i) ethical conduct, and (ii) strict compliance with law and the 
+Company’s Compliance Rules. Compliance with law and the Company’s Compliance Rules is always required 
+under all circumstances. 
+Compliance is an individual responsibility. All of the Company’s members, directors, officers, and other agents 
+and representatives (e.g., consultants and contractors, collectively, “Representatives”), must work together to 
+comply with applicable laws and the Compliance Rules.
+3. Company-wide compliance with Laws and Regulations
+All Representatives must comply with applicable laws and regulations, including, but not limited to: (1) 
+anti-corruption or anti-bribery law or regulation in a U.S. or any non-U.S. country or jurisdiction, including the 
+U.S. Foreign Corrupt Practices Act, or similar laws and regulations in any other applicable jurisdictions 
+(collectively, “Anti-Corruption Laws”), (2) law or regulation in a U.S. or any non-U.S. country or jurisdiction 
+concerning or relating to anti-money laundering (collectively, “AML Laws”), and (3) Compliance Laws and Export 
+Control Regulations, meaning (a) all applicable Anti-Corruption Laws, AML Laws, antitrust, and data protection 
+laws and regulations; (b) all applicable national and international (re-)export control, customs and foreign trade 
+regulations, including, but not limited to, those of the Federal Republic of Germany, of the European Union, and 
+of the United States of America; and (c) all applicable laws and regulations concerning Sanctions. 
+Representatives who fail to comply with such Laws will be subject to disciplinary sanction up to, and including, 
+discharge from employment or engagement with the Company.
+4. Fair Competition and Antitrust Laws
+All Representatives are required to abide by the Laws of fair competition. Representatives must not:
+• talk to competitors about prices, output, capacities, sales, bids, profits, profit margins, costs, methods of 
+distribution or any other parameter that determines or influences the Company’s competitive behavior with 
+the aim to solicit parallel behavior from the competitor;
+• enter into an agreement with a competitor not to compete, to restrict dealings with suppliers, to submit 
+bogus offers for bidding or to divide up customers, markets, territories or production programs; or
+• have any influence on the resale prices charged by purchasers or attempt to make them restrict the export 
+or import of goods supplied by the Company.
+Moreover, no Representative may obtain confidential information of a competitor by using industrial espionage, 
+bribery, theft or electronic eavesdropping, or communicate knowingly false information about a competitor or 
+its products or services.
+5. Anti-Corruption: Offering and Granting Advantages
+No Representative may, directly or indirectly, offer, promise, grant or authorize the giving of money or anything 
+else of value to a government official to influence official action or obtain an improper advantage. The same 
+applies to a private commercial counterparty in a business transaction in consideration for an improper 
+advantage. Any offer, promise, grant or gift must comply with the Law and these Compliance Rules, and not 
+raise an appearance of bad faith or impropriety. This means that no such offer, promise, grant or gift may be 
+made if it could reasonably be understood as an effort to improperly influence a government official or as a 
+bribe to a commercial counterparty to grant the Company a business advantage. The term “government 
+official” is defined broadly to include officials or employees of any government or other public body, agency or 
+legal entity, at any level, including officers or employees of state-owned enterprises and public international 
+organizations. It also includes candidates for political office, political party officials and employees, as well as 
+political parties.
+In addition, Representatives may not give money or anything of value indirectly (for example, to a consultant, 
+agent, business partner or other third party) if the circumstances indicate that all or part of the money or thing 
+of value may be directly or indirectly passed on to a government official to influence official action or obtain an 
+improper advantage or to a private commercial counterparty in consideration of an unfair advantage in a 
+business transaction.
+For that reason, Representatives responsible for hiring or selecting contractors, consultants, agents, or partners 
+in joint ventures, construction projects or comparable entities, must act as appropriate to:
+• set expectations so that third parties understand and comply with the Law and these Compliance Rules; and
+• evaluate the qualifications and reputation of such third parties to verify they will comply with the Law and 
+these Compliance Rules.
+This rule applies if Representatives have contact with government officials on behalf of the Company or if the 
+third party is an Intermediary. “Intermediary” means any business partner that fulfills all of the following 
+criteria: (i) the business partner acts in the interest, or on behalf, of the Company; (ii) the business partner is in 
+a position to influence decisions or the conduct of third parties for the benefit of the Company; and (iii) the 
+business partner receives a fee or other financial benefit (including price reductions) in connection with its 
+representation of, or association with, the Company in connection with any project or activity undertaken or 
+sponsored by the Company, including, without limitation, any sales agents, business consultants, distributors, 
+resellers, customs agents, lobbyists, or other intermediaries.
+Finally, each investment decision made by the Company – whether it is the purchase of a controlling interest in a 
+company or a minority interest, or a joint venture arrangement – must include a review and assessment of the 
+investment entity and/or joint venture partner(s) to verify that the entity has or will set standards for compliance 
+with the Law and these Compliance Rules.
+6. Gifts and Entertainment: Demanding and Accepting Advantages
+Representatives are not permitted to use their jobs to solicit, demand, accept, obtain or be promised 
+advantages. This does not apply to the acceptance of occasional gifts of purely symbolic or nominal value or 
+meals or entertainment reasonable in value that are consistent with local customs and practices and Company 
+policies and otherwise in accordance with Laws. Representatives must refuse any other gifts, meals or 
+entertainment that are outside of these standards. Contact the Compliance Officer with questions concerning 
+specific instances regarding the acceptance of gifts, meals or entertainment. 
+7. Political Contributions, Charitable Donations and Sponsoring
+The Company may not make political contributions (donations to politicians, political parties or political 
+organizations) without the prior consent of all members of the Board of Managers. As a responsible member of 
+the local community and society, the Company may make monetary or product donations for education and 
+science, art and culture, social and humanitarian projects, and other charitable purposes in accordance with 
+Laws. Sponsorships for which the Company receives advertising are not considered donations, nor are 
+contributions to industry associations or fees for memberships in organizations that serve business interests.
+Some donations are always prohibited, including donations:
+• to for-profit organizations;
+• to organizations whose goals are incompatible with the Company’s corporate principles; or
+• that would damage the Company’s reputation.
+All donations must be transparent. This means, among other things, that the recipient’s identity and planned use 
+of the donation must be clear and the reason and purpose for the donation must be justifiable and documented. 
+Quasi-donations, meaning donations that appear to be compensation for a service but are substantially larger 
+than the value of the service, are prohibited as violating the principles of transparency.
+“Sponsoring” means any contribution in money or in kind by the Company towards an event organized by a 
+third party or tangible property offered to a third party in return for the opportunity to advertise the Company 
+name by, for example, displaying the Company logo, being mentioned in opening or closing addresses, public 
+service announcements and news releases, or the participation of a speaker on a discussion panel, as well as 
+obtaining tickets to any events. All sponsoring contributions must be transparent, pursuant to written agreement, 
+for legitimate business purposes, and commensurate with the consideration offered by the event host. 
+Contributions may not be promised, offered or made to secure unjustified competitive advantages for the 
+Company or for other improper purposes, and they may not be made towards events organized by individuals 
+or organizations that have goals incompatible with the Company’s corporate principles or that would damage 
+the Company’s reputation.
+8. Anti-money Laundering
+Money laundering is the process of disguising the nature and source of money connected with criminal activity 
+– such as terrorism, drug trafficking or bribery – by integrating dirty money into the stream of commerce so that 
+it appears legitimate or its true source or owner cannot be identified. It is the Company’s objective to conduct 
+business with reputable customers, consultants and business partners who are involved in lawful business 
+activities and whose funds are derived from legitimate sources. The Company does not facilitate money 
+laundering. All Representatives must abide by applicable anti-money laundering laws. To avoid problems in this 
+area, all employees must be attentive to and report suspicious behavior by customers, consultants and business 
+partners. Employees must also follow all accounting, record-keeping and financial reporting requirements 
+applicable to cash and payments in connection with other transactions and contracts.
+9. Trade Controls
+The Company will comply with all applicable export controls and customs laws and regulations. Export controls 
+generally apply to the transfer of goods, services, hardware, software or technology across certain national 
+borders, including by email. Export control laws may be triggered in connection with direct or indirect exports 
+to or imports from sanctioned countries or parties, who, for example, may be designated based on national 
+security grounds or because of participation in criminal activity. Violations of these laws and regulations may 
+lead to serious penalties, including fines and governmental withdrawal of simplified import and export 
+procedures (interruption of seamless supply chain). Representatives involved in the import and export of goods, 
+services, hardware, software or technology as described above must follow applicable economic sanctions, 
+export control and import laws and regulations.
+10. Compliance Implementation, Training and Monitoring
+The Company’s Compliance Officer is tasked with the distribution of these Compliance Rules, communicating 
+expectations to all Representatives and Compliance Rules implementation. The Compliance Officer will 
+carefully monitor compliance with the Law and the Compliance Rules on a regular basis and will advise the 
+Board of Managers on potential improvements to the compliance system, particularly with respect to the 
+components involving anti-corruption and money laundering laws. The Company’s Board of Managers, with the 
+assistance of the Compliance Officer, will conduct a periodic review no less than annually following the 
+adoption of the Compliance Rules, regarding the effectiveness of and any recommended enhancements to the 
+Company’s compliance system.
+Furthermore, the Company understands that successful implementation of the Compliance Rules requires 
+communication with Representatives. The Company places emphasis on setting the expectations with those 
+Representatives who perform sensitive functions such as legal, purchasing, sales and project management or 
+who will have contact with Government Officials. These Representatives are responsible to review the 
+Compliance Rules, understand their requirements, and comply with the Compliance Rules.
+ 
+11. Risk Assessment
+On a biennial basis, the Company will conduct a risk assessment to determine the nature and extent of the 
+exposure its business operations face regarding external and internal compliance risks, particularly with 
+respect to applicable anti-corruption, antitrust and money laundering laws. The Compliance Officer will have 
+responsibility for conducting this assessment and will report the results to the Board, the Company’s senior 
+management, and the Members of the Company every two (2) calendar years following the adoption of the 
+Compliance Rules.
+12. Complaints and Comments
+Any Representative may lodge a complaint with the Compliance Officer or some other person designated for 
+this purpose, without fear of retaliation. Any Board of Manager member shall be accessible in case someone 
+wishes to raise compliance concerns, ask questions, or discuss potential compliance. Circumstances that 
+point to a potential violation of the Compliance Rules must be reported to the Compliance Officer. All 
+complaints may be submitted both confidentially and anonymously, and all complaints will be investigated. 
+Corrective measures will be implemented if necessary. All documentation will be kept confidential to the 
+extent permitted by Law.
+HICKORY RUN
+ENERGY
+
+--------------------------------------------------------------------------------

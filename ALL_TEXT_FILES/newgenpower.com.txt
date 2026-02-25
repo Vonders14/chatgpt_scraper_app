@@ -1,0 +1,401 @@
+ROOT: https://newgenpower.com/
+SCRAPED_AT_UTC: 2026-02-11T20:22:07.664820Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://newgenpower.com/
+
+Everything we do contributes to a larger mission of helping the world combat the climate crisis by delivering renewable energy in a way that is environmentally, socially, and economically sustainable transforming the worlds energy systems from fossil based to carbon neutral sources of energy
+Renewable Power
+Delivering the next generation of utility scale power through renewables addressing multiple economic, social and environmental issues
+Global Portfolio
+Spanning 3 continents and all renewable types including wind, solar, hydro, storage, waste to energy & landfill to natural gas
+Climate Impact
+Developing renewable power projects with diverse technologies that make an impact on climate change for a low-carbon future
+Energy Leader
+Leadership with extensive experience creating value for shareholders globally across multiple power generation sectors
+We're transforming how we produce and use energy
+New Generation Power is providing for a sustainable climate necessary for ecosystems, economies and societies on our planet to thrive
+- De-carbonizing the global energy supply with renewable energy
+- Sustainably developing energy assets providing reliable, affordable, clean power
+- Innovating new clean technologies accelerating a reduction in global temperature rise
+- Promoting energy independence and economic growth
+Meet our Founder and Chairman
+An Indian-American investor, businessperson, physician, philanthropist and co-founder of New Generation Power currently serving as its Chairman
+Dr. Chirinjeev Kathuria
+Dr. Kathuria co-founded American Teleradiology NightHawks, Inc. which merged with NighHawk Radiology Holdings, Inc. and the combined company went pubic on NASDAQ. Dr. Kathuria was a director of The X-Stream Networks Inc., an internet service provider which was sold to Liberty Surf Group S.A. and subsequently went public on the Paris Stock Exchange. He has also been involved in space exploration, and was the Founding Director of MirCorp, the first commercial company to privately launch and fund manned space programs. Dr. Kathuria ran for U.S. Senate in Illinois, becoming the first Indian-American to run for the US Senate in US history. Dr. Kathuria received a BS and MD from Brown University and a MBA from Stanford University
+Our Projects
+Through a variety of methods and technologies, we are able to harness wind, solar, hydro, biomass and geothermal energies into clean, viable and sustainable outputs transitioning to a global clean energy system
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/projects/
+
+Powering a sustainable future one project at a time
+With every new project, we renew our commitment to a clean energy future by developing, acquiring and operating renewable power generation assets with geographical and technological diversification making an impact on environmental and climate change efforts globally
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/about-us/
+
+Our vision to transition the world to renewable energy
+To create a paradigm shift towards a clean energy future helping the world combat a changing climate by providing sustainable renewable power generation to meet rapidly rising energy demands globally contributing to the global supply of low cost, renewably sourced energy
+Meet Our Founder
+Founded in 2009 by an entrepreneurial team led by Dr. Chirinjeev Kathuria, New Generation Power has assembled a global portfolio with geographical & technological diversification investing in renewable projects that create environmental benefits for a low carbon future generating power with purpose
+Dr. Chirinjeev Kathuria
+Dr. Chirinjeev Kathuria is an Indian-American investor, businessperson, and philanthropist.
+Dr. Kathuria co-founded New Generation Power and currently serves as its Chairman.
+Dr. Kathuria ran for U.S. Senate in Illinois, becoming the first Indian-American to run for the US Senate in US history, in a race that included eventual winner, President Barack Obama.
+Dr. Kathuria co-founded American Teleradiology NightHawks, Inc. which merged with NightHawk Radiology Holdings, Inc. and the combined company went public on NASDAQ.
+Dr. Kathuria was a director of The X-Stream Networks Inc., an internet service provider which was sold to Liberty Surf Group S.A. and subsequently went public on the Paris Stock Exchange.
+Dr. Kathuria has also been involved in space exploration, and was the Founding Director of MirCorp, the first commercial company to privately launch and fund manned space programs.
+Dr. Kathuria helped set up the first US Investment bank office in India and served as the manager of the investment bank division for Morgan Stanley.
+Dr. Kathuria received a Bachelor of Science degree and Doctorate of Medicine from Brown University and a Master of Business Administration from Stanford University.
+As a fully integrated independent power producer we utilize our global operating platform and expertise to deliver the next generation of clean and sustainable renewable energy solutions, organically add value, and efficiently integrate new assets
+Our business operates through an integrated strategy for growth, underpinned by stable cash flows, with a majority of our power contracted under long-term inflation-linked contracts to create the worlds foremost global renewable energy and technology platform
+Innovation
+International Partnerships
+Local Networks
+Collaboration with local developers, suppliers and contractors with resources on the ground and local knowhow
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/projects/distributive-energy-generation/
+
+Distributive Energy Resources, Rural Village Electrification, India
+Project Details
+A rural village electrification Initiative in India enabling flexible power generation and reliable power distribution, providing cost efficient technology and access to electricity to the 1.2 billion people currently unelectrified
+- NGP’s initiative in India will include solar canal installation and provide electricity under the Remote Village Electrification (RVE) Program launched by the Ministry of New and Renewable Energy (MNRE), India
+- NGP’s Rural Village Electrification (RVE) initiative will employ Distributed Energy Resources (DERs) to electrify villages
+- Rural Electrification for 500 to 1000 people can be achieved using DERs around a village with electrification and housing for 100 homes in a remote location with scheduled power supply, under ~100kWp system
+- Power generation systems can be remotely operated, managed, and controlled using IoT, Drones and Artificial Intelligence (AI)
+Flexible Power Generation
+Small sizes and the short construction lead times compared to most types of larger central power plants, flexibility could allow participants other than electric utilities, such as homeowners, businesses, farmers, manufactures, non-profits to respond to changing traditional methods of power generation
+Reliable Power Distribution
+Installation of DEG systems is one of the many ways to improve reliability of the power distribution in rural areas where there is regular interruption and shortage of electricity supply
+Cost Efficient Technology
+The concept of onsite production could result in cost savings in transmission and distribution of about 30% of electrical energy costs. Furthermore, locating the generation close to the loads could also contribute to reduced grid losses
+Environmental Benefits
+Renewable energy sources are by nature small-scale and dispersed over the grid, installing DEG provides the opportunity to exploit the cleaner energy within proximity. DEG with renewable resources are not only capable of producing environmentally friendly electric energy, but DEG helps in minimizing the emissions generated by conventional central power plants
+Grid Integration
+Grid integration of DEG systems not only promises more reliable function of power systems, but also promise the inclusion of renewable energy resources in the main energy framework by introducing smart grid and microgrid (with storage devices) in the existing or new distribution networks
+Accessibility
+Distributed Generation will provide access to populations that do not have access to reliable electricity. 1.2 billion people worldwide are still without access to electricity, 63 million rural Indians, the equivalent of the population of Britain, do not have access to reliable energy to have clean water to drink, cook or wash
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/projects/punjab-bioenergy/
+
+1GW Biomass + 3GW Solar clean energy projects in Northern India
+Project Details
+Developing biomass and solar clean energy projects in Punjab, India to offset Delhi’s severe air quality crisis partially caused by the local Punjab agricultural process of rice paddy stubble burning reversing the environmental consequences throughout the region
+- The Project is being developed on a build, own, operate and transfer basis with the Project being transferred to the State of Punjab after 15 years
+- The power produced will be fed directly into the Punjab State Power Corporation Limited (PSPCL) grid
+- Each plant will be located strategically near a major PSPCL electrical sub-station for interconnection of the power into the grid
+- Feedstock to operate the biomass plants will be provided by the government ensuring a stable long-term reliable biomass feedstock supply to operate the biomass plants
+- 3GWs of utility scale solar power generation with government backed PPA’s will provide reliable clean electricity to supply the growing power demand throughout India
+Proven Technology
+NGP will deploy thermo-chemical conversion processes such as gasification and thermal conversion like incineration with state-of-art emission control. Both the technologies are proven and decompose organic matter under high temperature
+Base Load Energy
+Biomass is a fuel that can generate baseload renewable electricity. Basis estimated availability of 20 million MT of rice straw as government guaranteed feedstock delivered to each plant allows for up to 2 GW of biomass plant operations in Punjab
+Environmental Benefits
+The project will reverse the environmental consequences of stubble burning, allow for a massive value creating economic opportunity to exist for Punjab farmers and will solve the rice stubble burning issue throughout Punjab, Haryana and the National Capital Region
+Economic Growth
+The construction/operations and the procurement, transportation and storage of paddy is expected to create over a half a million new jobs in Punjab. Substantial trickle-down employment adds to the total job count. The project will also allow for a massive value creating economic opportunity to exist for Punjab farmers as they will receive income, a tipping fee, for rice stubble collected and transported from their farm by the government which will increased farm productivity and investment in agricultural implements, labor, fertilizer and reliable energy produced by the project
+Governmental Support
+NGP is considered a power development priority by emerging market governments with a majority of power output contracted under long-term Governmental PPAs/FiTs
+Ancillary Benefits
+The project will have ancillary benefits allowing other industries to thrive because the government aims to boost availability of rice stubble feedstock with more affordable and reliable transport methods, to manufacture rice stubble briquettes for fuel and to enable local biogas, bioethanol, or bio-CNG production capability
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/projects/asia-renewable-portfolio/
+
+Asia Renewable Portfolio
+Acquiring one of Asia’s first private sector renewable energy companies
+Project Details
+Acquisition of one of Asia’s first private sector renewable energy companies a strategic acquisition with legacy fully operational wind, solar and hydro plants to meet the demand for powering remote areas generating renewable energy to power remote areas where grid supply is intermittent or unavailable
+- Meeting the demand for powering remote areas generating renewable energy for grid supply in locations where electric utility grids are not adequate
+- Adding 321MW of a high-quality, fully operational power plants in Asia: 181MW wind, 110MW hydro and 30MW solar with an expansion pipeline of 1,200MW solar, 1,400MW wind to our portfolio
+- All operational assets are contracted under Feed-in Tariffs, with the exception of 2 hydro projects that operate on a merchant power basis
+- Includes 14 operational hydro projects, 7 operational wind projects and 2 operational solar projects with the expansion of an additional 2.6 GW of solar and wind beginning construction in 2020
+Socio Economic Highlight
+Energy Mix
+The mix of NPG’s full array
+of renewable resources
+enables energy access to
+the un-electrified/ under-electrified rural masses
+through centralized and
+decentralized clean energy
+power
+Intrinsic Value
+Driven by the objective of creating sustainable longterm value, 93% of installed capacity has lucrative longterm PPA’s which will provide reliable affordable
+energy for economic growth
+Strategic Edge
+With in-house design and implementation capabilities, the company’s strategic edge is in having designed and implemented nearly all of its power plants making the portfolio well poised for expansion
+Management Expertise
+With over two decades of extensive experience in developing green energy projects in both public and private sector, the company’s team of proven capabilities aligns with NGP’s growth strategy and goals
+Geographical Focus
+Projects are strategically located in geographical areas with untapped development potential for further expansion
+Socially Responsible
+The company has developed several high school and industrial training institutes in rural areas that provides modern education and income generation programs
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/projects/southeastern-europe-hydro-2/
+
+Developing the second largest pumped storage reversible hydropower plant in SE Europe
+Project Details
+Developing the second largest pumped storage reversible hydropower power plant in Southeastern Europe, a 600 MW environmentally friendly, carbon-free, baseload renewable energy project on the Drina River Basin in the Republic of Srpska
+- A 600 MW reversible pumped hydroelectric energy storage project in the Republic of Srpska on the Drina River Basin providing environmentally friendly, carbon-free, baseload energy production of 1,388 GWh/year
+- The Project’s expansion potential is 300 MW for a total baseload capacity of 900MW with an additional future 223 MW Upper Drina river basin expansion plan further adding to the overall capacity of the Project
+- The Project’s PPA with European Union Members is estimated at 6.00€￠/kWh
+- Upon Project completion in 2025, the facility’s 100 year life cycle will supply flexible energy deployment capability with ancillary Benefits to the European grid including frequency regulation, improved voltage stability, significant reduction in resource cycling and renewable wind power curtailment
+- NGP has a fully executed “Cooperation Agreement” with the Republic of Srpska and all front-end pre-construction engineering designs with technical studies, environmental reports and critical analysis are complete and accepted by the Government
+- This environmentally friendly power plant provides the transition to clean renewable energy by storing variable & excess solar, wind and hydro energy then feeding stored energy into the grid during peak demand and grid instability
+Intrinsic Value
+Sound project economics is established by the high value of the hydropower plants Power Purchase Agreement with European Union Members, paid in Euros, the low project cost of the value-engineered embankment dam, and the longer-term investment profile based on the design lifespan of 100 years
+Increased Economic Stability
+Locally, the Project provides increased employment, tourism, state revenues, improved living standards and poverty reduction. Nationally, it provides regional energy stabilization, GDP growth, favorable foreign exchange balance, monetary stability and influx of foreign capital
+Government Support
+The Project is fully supported by the Republic of Srpska, its Ministry of Industry, Energy and Mining and the State Utility. All clearances, licenses, permits, land, and documentation necessary have the full backing of all government related agencies for expeditious implementation of the project
+Enhanced Economic Growth
+The hydropower plant and the appurtenant infrastructure facilities will create favorable conditions for the development of economic activities, while accelerating economic growth and contributing a positive effect on the country’s national economic status and GDP
+Renewable and Eco-friendly
+Hydropower’s high quality regulated electric power is eco-friendly, reduces greenhouse gas emissions and air pollution, provides flood control and fish and wildlife habitat and protects the environment
+Strategic Regional Importance
+Strategic plant of regional importance, given its capability to produce significant quantities of clean energy providing energy security to the Balkans while delivering electricity to the expanding SE European markets
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/projects/matoc/
+
+U.S. Army Corps of Engineers’ $25 Billion Multiple-Award Task Order Contract
+Project Details
+Multiple Award Task Order Contract (MATOC) for renewable and alternative energy production for the U.S. Department of Defense (DOD) installations, technologies include geothermal $4bn, wind $2.5bn, solar $2.5bn, and biomass $16bn
+- New Generation Power was awarded four Multiple Award Task Order Contracts (MATOC) for renewable and alternative energy production for the U.S. Department of Defense (DOD) installations
+- The DoD has allocated $25 billion through this MATOC program for the development of renewable energy projects in four technologies: geothermal, solar, wind and biomass
+- New Generation Power’s MATOC maximum contract values: Solar: $2,500,000,500, Wind: $2,500,000,500, Biomass: $16,000,000,500, Geothermal: $4,000,000,500
+- The MATOC is a contract vehicle that establishes a pool of qualified firms/contractors for four renewable energy technologies to compete for individual task order contracts. The MATOC will be used by the DoD to procure reliable, locally generated, renewable and alternative energy for DoD installations through PPAs
+- The total capacity will be expended for PPAs to procure energy during a period of up to 30 years from renewable energy generation systems that are designed, financed, constructed, operated and maintained by contractors using private sector financing
+- NGP formed a consortium of industry leading firms to participate in solicitation of renewable and alternative energy power production on U.S. Department of Defense installations
+- NGP is qualified and approved in all four technology areas that include solar, wind, biomass and geothermal for the benefit of the Energy Initiatives Task Force and the US Army Corps of Engineers
+- NGP is the prime contractor and operator for supplying the renewable energy projects under the MATOC award as per the Renewable and Alternative Energy Power Production for Department of Defense
+U.S. Army Renewables Objective
+The investment will help the Army reach its goal of having 25 percent of its energy come from renewable sources by 2025
+Net-Zero Installation
+The U.S. Army’s goal is a net-zero installation of renewable energy generation facilities, a strategy that produces as much energy as it uses and is one that New Generation Power will provide
+Guaranteed Power Purchase
+The U.S. Army and DoD are mandated to only purchase power from third-party contractors like NGP who own, operate or maintain the generating assets. This would be a guaranteed off-take of the power generated by the projects
+Small Business Advantage
+NGP as a Small Business will be considered first in the selection process of Army and DoD projects up to 12 MW
+Energy Security and Independence
+The energy security and independence for the U.S. Army and DoD is achieved by enhancement of both the Army Base Energy Supply and the U.S. electric grid
+Local Employment Benefits
+Construction and operations of renewable energy on the U.S. Army military bases will provide employment for the nearby Army base community residents
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/projects/rockford-solar/
+
+One of the largest commercial airport solar generation projects in the USA.
+Project Details
+Rockford Solar Farm at the Chicago Rockford International Airport in Rockford, Illinois, USA, one of the largest commercial airport solar farms in the USA and a landmark achievement in complex intergovernmental cooperation in solar power plant development
+- The 62 MW Rockford Solar Farm Project is located at the Chicago Rockford International Airport in Rockford, Illinois, USA is one of the largest commercial airport solar farms in the United States and currently generates 3,900 MWh/year
+- The Project’s 3.06 MW Phase I is complete and was fully operational in 2012 with 56 additional acres fully approved by Rockford, Winnebago County, State of Illinois and the FAA for immediate development of the 14 MW Phase II and scaling the Project to 62 MW
+- The off-taker is Ameren Illinois, Ameren serves 1.2 million electric customers in central and southern Illinois. The PPA term is 20 years
+Strategically Located
+The neighborhood surrounding the Greater Rockford International Airport is adequately supported with infrastructure, public policy and opportunistic linkages to attract logistics related growth
+State and Federal Support
+Federal and state policies continue to support Rockford Solar and the renewable energy industry in the U.S. with solar projects like Rockford Solar being more adaptable to varied environments
+Solar Farm Performance
+The solar farm has historically produced more power than anticipated per the original design criteria. The solar farm’s 2014 delivery year energy production of 3.767 MWh produced 0.338 MWh over and above the contracted electrical energy supply requirement and the 2015 production of 3.934 MWh similarly overproduced 0.505 MWh excess energy
+Expansion
+Phase II and Phase III expansion are fully approved for development with land commitments in place and will provide for additional energy generation to the grid and economic growth for the Rockford area
+Landmark Achievement
+The Rockford Solar Farm is unique in comparison to other power projects undertaken in the country and represents a landmark achievement in complex solar power plant development as the Project was a model public-private partnership, bringing together domestic & foreign companies, community groups and Federal, State & local governmental authorities
+Renewable Energy Credits
+RECs for excess power above the annual quantity commitment can be banked and/or sold on the current Illinois REC market. The 2016 production year over-production allowed 437 RECs to be banked and with previous year over-production banking of 343 RECs produced 780 RECs
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/projects
+
+Powering a sustainable future one project at a time
+With every new project, we renew our commitment to a clean energy future by developing, acquiring and operating renewable power generation assets with geographical and technological diversification making an impact on environmental and climate change efforts globally
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/sustainability/
+
+The Global Challenge
+We’re dedicated to our vision to transition the world to renewable power generation and mitigating the climate crisis with ambitious, affordable and scalable solutions to reduce global warming for a cleaner, brighter tomorrow
+Evidence
+The evidence for rapid climate change is compelling with global temperature rise, warming oceans, shrinking ice sheets, glacial retreat, extreme events and ocean acidification
+Causes
+Scientists attribute the global warming trend observed to the human expansion of industrial activity the “greenhouse effect” or atmospheric pollution blocking heat from escaping
+Effects
+The global climate is projected to continue to change over this century and beyond. The magnitude change depends primarily on the amount of heat-trapping gases emitted globally
+Solutions
+The climate crisis requires dramatic changes in how we produce and use energy. Reducing emissions of and
+stabilizing the levels of heat-trapping greenhouse gases in the atmosphere
+Through innovative methods and low-emission technologies we are further advancing sustainable development, cutting carbon and working towards a clean energy future across attractive markets in North America, Europe and Asia
+Emission Reduction
+Committed to the reduction of atmospheric pollution and mitigating the climate crisis we’re developing clean energy assets to reduce the flow of negative emissions and promote energy efficiency
+Low-Carbon Solution
+In helping to solve the climate crisis we’re supplying Bioenergy, which will play a key role in facilitating a global energy transition that limits global temperature rise to less than 2°C
+Energy Breakthroughs
+Through our innovative clean technologies, we will accelerate the transition to a clean energy future by removing harmful negative emissions from the atmosphere ensuring a prosperous and sustainable future
+Sustainable Development
+Through the roll-out of our renewable energy solutions we provide access to electricity, protect the environment and act as a catalyst for economic growth and poverty alleviation in markets worldwide
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/category/news/
+
+Category: News
+MAPEXPATH: NewGeneration Power is excited to announce its association with Mapex Path, to develop and build 10GW worth of renewable energy projects in India. Mapex Path Private Limited is an India based renewable energy project developer. NGPG is inspired by Indian Prime Minister Mr. Narendra Modi’s “We need to harness renewable energy to fight climate
+Read MoreCHANDIGARH: To address the problem of stubble burning in Punjab, a US-based businessman has proposed to invest Rs 25,000 crore in a project which claims to convert this menace affecting Punjab, Haryana and NCR to a business model creating employment opportunities in the region. The proposal is to invest in a 4,000 MW power project
+Read MoreTo address the problem of the stubble burning, an India born NRI businessman has proposed to set up 1,000 MW biomass energy generating plants in his home state Punjab. Read more
+Read MoreThe US-based Chirinjeev Kathuria told IANS here on Friday that his company New Generation Power International has plans to invest in 4,000 MW in power projects in Punjab. Read More
+Read MoreIn the follow-up visit to the US, the Republic of Srpska Delegation visited the World Bank along with representatives of New Generation Power Company (NGP) from Chicago. NGP and the Government of the Republic of Srpska, signed a Memorandum of Understanding on the development of the Buk Bijela Reversible Hydro Power Plant project on the
+Read MoreU.S. Army Corps of Engineers Power Purchase agreement program names New Generation Power under MATOC award, July 1, 2016 Read More
+Read MoreHailey, ID – New Generation Power, Inc. (NGP) has been awarded a Multiple Award Task Order Contract (MATOC) by the US Army to develop geothermal and solar power generation projects for Department of Defense installations. POWER Engineers has been named project lead for geothermal projects under this award… Read More
+Read MoreTwo Chicago-based firms made the short list to compete for part of $7 billion the Pentagon plans to spend on clean energy over the next few decades…. Read More
+Read MoreUS Army awards second technology under $7 billion MATOC clean energy contract, August 28, 2013 Read More
+Read MoreChicago-based New Generation Partners, headed by president Dr. Chirinjeev Kathuria, and the company’s consortium partners Eaton Corp. and Chicago-based Jones Lang LaSalle Capital Markets, has signed a cooperation agreement with the Republic of Srpska (one of the two main entities of Bosnia and Herzegovina) for four hydro projects totaling 365 megawatts on the Lower Drina
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/u-s-company-to-invest-in-a-mega-power-project-to-address-environmental-concerns-in-punjab-india-november-7-2019/
+
+Categories News U.S. Company to invest in a power project to address environmental concerns in Punjab, India. Post author By admin Post date November 7, 2019 Home /News/News/U.S. Company to invest... The US-based Chirinjeev Kathuria told IANS here on Friday that his company New Generation Power International has plans to invest in 4,000 MW in power projects in Punjab. Read More ← Republic of Srpska delegation visits the World Bank with New Generation Power → Indian government and New Generation Power to tackle environmental crisis in Punjab, India with renewable energy
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/ngp-is-ecited-to-announce-its-association-with-mapexpath/
+
+MAPEXPATH: NewGeneration Power is excited to announce its association with Mapex Path, to develop and build 10GW worth of renewable energy projects in India. Mapex Path Private Limited is an India based renewable energy project developer.
+NGPG is inspired by Indian Prime Minister Mr. Narendra Modi’s “We need to harness renewable energy to fight climate change”. NGP wants to do its part in contributing to Mr. Modiji’s target of 175GW of renewable energy by the year 2020. To this effect, NGPG has selected Mapex Path as its partner in developing and building renewable energy projects in India. With its diverse portfolio, NGPG aims to develop different renewable energy projects across different states of India.
+For any queries related to Indian projects, please email mapex@newgenpower.com.
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/the-us-armys-7-billion-clean-energy-contract-awards-new-generation-power-matoc-contracts-october-1-2013/
+
+Hailey, ID – New Generation Power, Inc. (NGP) has been awarded a Multiple Award Task Order Contract (MATOC) by the US Army to develop geothermal and solar power generation projects for Department of Defense installations. POWER Engineers has been named project lead for geothermal projects under this award…
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/new-generation-power-wins-faa-and-doe-approval-to-build-commercial-airport-based-solar-power-farm-in-the-u-s-december-12-2011/
+
+Rockford Solar Partners, a renewable energy development joint venture between Wanxiang America and New Generation Power, receives DOE and FAA environmental approval to proceed on America’s commercial airport solar farm.
+In a release, New Generation Power noted details of the airport solar project:
+Why the Chicago-Rockford International Airport for such as large 20 MW solar array? The airport has over 70 prime acres to install the solar panels, and Rockford is well known for its other green practices and incentives.
+The Federal Aviation Administration and the Department of Energy issued the FONSI “Finding of No Significant Impact” for the 20 MW Solar Farm at the Rockford Airport.
+The Environmental Assessment was prepared by Jennifer Anderson of Rockford based Anderson Environmental and Engineering Co. with civil engineering done by Kevin Lewis of IG Consulting.
+
+--------------------------------------------------------------------------------
+
+URL: https://info@newgenpower.com/
+
+Everything we do contributes to a larger mission of helping the world combat the climate crisis by delivering renewable energy in a way that is environmentally, socially, and economically sustainable transforming the worlds energy systems from fossil based to carbon neutral sources of energy
+Renewable Power
+Delivering the next generation of utility scale power through renewables addressing multiple economic, social and environmental issues
+Global Portfolio
+Spanning 3 continents and all renewable types including wind, solar, hydro, storage, waste to energy & landfill to natural gas
+Climate Impact
+Developing renewable power projects with diverse technologies that make an impact on climate change for a low-carbon future
+Energy Leader
+Leadership with extensive experience creating value for shareholders globally across multiple power generation sectors
+We're transforming how we produce and use energy
+New Generation Power is providing for a sustainable climate necessary for ecosystems, economies and societies on our planet to thrive
+- De-carbonizing the global energy supply with renewable energy
+- Sustainably developing energy assets providing reliable, affordable, clean power
+- Innovating new clean technologies accelerating a reduction in global temperature rise
+- Promoting energy independence and economic growth
+Meet our Founder and Chairman
+An Indian-American investor, businessperson, physician, philanthropist and co-founder of New Generation Power currently serving as its Chairman
+Dr. Chirinjeev Kathuria
+Dr. Kathuria co-founded American Teleradiology NightHawks, Inc. which merged with NighHawk Radiology Holdings, Inc. and the combined company went pubic on NASDAQ. Dr. Kathuria was a director of The X-Stream Networks Inc., an internet service provider which was sold to Liberty Surf Group S.A. and subsequently went public on the Paris Stock Exchange. He has also been involved in space exploration, and was the Founding Director of MirCorp, the first commercial company to privately launch and fund manned space programs. Dr. Kathuria ran for U.S. Senate in Illinois, becoming the first Indian-American to run for the US Senate in US history. Dr. Kathuria received a BS and MD from Brown University and a MBA from Stanford University
+Our Projects
+Through a variety of methods and technologies, we are able to harness wind, solar, hydro, biomass and geothermal energies into clean, viable and sustainable outputs transitioning to a global clean energy system
+
+--------------------------------------------------------------------------------
+
+URL: https://info@newgenpower.com/projects
+
+Powering a sustainable future one project at a time
+With every new project, we renew our commitment to a clean energy future by developing, acquiring and operating renewable power generation assets with geographical and technological diversification making an impact on environmental and climate change efforts globally
+
+--------------------------------------------------------------------------------
+
+URL: https://info@newgenpower.com/projects/
+
+Powering a sustainable future one project at a time
+With every new project, we renew our commitment to a clean energy future by developing, acquiring and operating renewable power generation assets with geographical and technological diversification making an impact on environmental and climate change efforts globally
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/contact-us/
+
+Contact Us Home /Contact Us Contact Form First Name (required) Your Email (required) Subject Your Message Contact Form Please share your details so we may contact you. First Name (required) Your Email (required) Subject Your Message
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/news/
+
+MAPEXPATH: NewGeneration Power is excited to announce its association with Mapex Path, to develop and build 10GW worth of renewable energy projects in India. Mapex Path Private Limited is an India based renewable energy project developer. NGPG is inspired by Indian Prime Minister Mr. Narendra Modi’s “We need to harness renewable energy to fight climate
+Read MoreCHANDIGARH: To address the problem of stubble burning in Punjab, a US-based businessman has proposed to invest Rs 25,000 crore in a project which claims to convert this menace affecting Punjab, Haryana and NCR to a business model creating employment opportunities in the region. The proposal is to invest in a 4,000 MW power project
+Read MoreTo address the problem of the stubble burning, an India born NRI businessman has proposed to set up 1,000 MW biomass energy generating plants in his home state Punjab. Read more
+Read MoreThe US-based Chirinjeev Kathuria told IANS here on Friday that his company New Generation Power International has plans to invest in 4,000 MW in power projects in Punjab. Read More
+Read MoreIn the follow-up visit to the US, the Republic of Srpska Delegation visited the World Bank along with representatives of New Generation Power Company (NGP) from Chicago. NGP and the Government of the Republic of Srpska, signed a Memorandum of Understanding on the development of the Buk Bijela Reversible Hydro Power Plant project on the
+Read MoreU.S. Army Corps of Engineers Power Purchase agreement program names New Generation Power under MATOC award, July 1, 2016 Read More
+Read MoreHailey, ID – New Generation Power, Inc. (NGP) has been awarded a Multiple Award Task Order Contract (MATOC) by the US Army to develop geothermal and solar power generation projects for Department of Defense installations. POWER Engineers has been named project lead for geothermal projects under this award… Read More
+Read MoreTwo Chicago-based firms made the short list to compete for part of $7 billion the Pentagon plans to spend on clean energy over the next few decades…. Read More
+Read MoreUS Army awards second technology under $7 billion MATOC clean energy contract, August 28, 2013 Read More
+Read MoreChicago-based New Generation Partners, headed by president Dr. Chirinjeev Kathuria, and the company’s consortium partners Eaton Corp. and Chicago-based Jones Lang LaSalle Capital Markets, has signed a cooperation agreement with the Republic of Srpska (one of the two main entities of Bosnia and Herzegovina) for four hydro projects totaling 365 megawatts on the Lower Drina
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/category/press-and-headlines/
+
+Category: Press and Headlines
+MAPEXPATH: NewGeneration Power is excited to announce its association with Mapex Path, to develop and build 10GW worth of renewable energy projects in India. Mapex Path Private Limited is an India based renewable energy project developer. NGPG is inspired by Indian Prime Minister Mr. Narendra Modi’s “We need to harness renewable energy to fight climate
+Read MoreHailey, ID – New Generation Power, Inc. (NGP) has been awarded a Multiple Award Task Order Contract (MATOC) by the US Army to develop geothermal and solar power generation projects for Department of Defense installations. POWER Engineers has been named project lead for geothermal projects under this award… Read More
+Read MoreRockford Solar Partners, a renewable energy development joint venture between Wanxiang America and New Generation Power, receives DOE and FAA environmental approval to proceed on America’s commercial airport solar farm. In a release, New Generation Power noted details of the airport solar project: Why the Chicago-Rockford International Airport for such as large 20 MW solar
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/author/admin/
+
+Author: admin
+MAPEXPATH: NewGeneration Power is excited to announce its association with Mapex Path, to develop and build 10GW worth of renewable energy projects in India. Mapex Path Private Limited is an India based renewable energy project developer. NGPG is inspired by Indian Prime Minister Mr. Narendra Modi’s “We need to harness renewable energy to fight climate
+Read MoreCHANDIGARH: To address the problem of stubble burning in Punjab, a US-based businessman has proposed to invest Rs 25,000 crore in a project which claims to convert this menace affecting Punjab, Haryana and NCR to a business model creating employment opportunities in the region. The proposal is to invest in a 4,000 MW power project
+Read MoreTo address the problem of the stubble burning, an India born NRI businessman has proposed to set up 1,000 MW biomass energy generating plants in his home state Punjab. Read more
+Read MoreThe US-based Chirinjeev Kathuria told IANS here on Friday that his company New Generation Power International has plans to invest in 4,000 MW in power projects in Punjab. Read More
+Read MoreIn the follow-up visit to the US, the Republic of Srpska Delegation visited the World Bank along with representatives of New Generation Power Company (NGP) from Chicago. NGP and the Government of the Republic of Srpska, signed a Memorandum of Understanding on the development of the Buk Bijela Reversible Hydro Power Plant project on the
+Read MoreU.S. Army Corps of Engineers Power Purchase agreement program names New Generation Power under MATOC award, July 1, 2016 Read More
+Read MoreHailey, ID – New Generation Power, Inc. (NGP) has been awarded a Multiple Award Task Order Contract (MATOC) by the US Army to develop geothermal and solar power generation projects for Department of Defense installations. POWER Engineers has been named project lead for geothermal projects under this award… Read More
+Read MoreTwo Chicago-based firms made the short list to compete for part of $7 billion the Pentagon plans to spend on clean energy over the next few decades…. Read More
+Read MoreUS Army awards second technology under $7 billion MATOC clean energy contract, August 28, 2013 Read More
+Read MoreChicago-based New Generation Partners, headed by president Dr. Chirinjeev Kathuria, and the company’s consortium partners Eaton Corp. and Chicago-based Jones Lang LaSalle Capital Markets, has signed a cooperation agreement with the Republic of Srpska (one of the two main entities of Bosnia and Herzegovina) for four hydro projects totaling 365 megawatts on the Lower Drina
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/new-generation-power-suggests-power-generation-from-stubble-in-punjab-india-november-7-2019/
+
+CHANDIGARH: To address the problem of stubble burning in Punjab, a US-based businessman has proposed to invest Rs 25,000 crore in a project which claims to convert this menace affecting Punjab, Haryana and NCR to a business model creating employment opportunities in the region. The proposal is to invest in a 4,000 MW power project across Punjab in which 3,000 MW will be solar power and 1,000 MW as biomass energy.
+
+--------------------------------------------------------------------------------
+
+URL: https://newgenpower.com/2-indian-government-and-new-generation-power-to-tackle-environmental-crisis-in-punjab-india-with-renewable-energy-november-7-2019/
+
+Categories News Indian government and New Generation Power to tackle environmental crisis in Punjab, India with renewable energy Post author By admin Post date November 7, 2019 Home /News/News/Indian government and New... To address the problem of the stubble burning, an India born NRI businessman has proposed to set up 1,000 MW biomass energy generating plants in his home state Punjab. Read more ← U.S. Company to invest in a power project to address environmental concerns in Punjab, India. → New Generation Power suggests power generation from stubble in Punjab, India.
+
+--------------------------------------------------------------------------------

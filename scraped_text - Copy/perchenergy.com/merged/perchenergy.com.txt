@@ -1,0 +1,81 @@
+ROOT: https://perchenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:25:49.142788Z
+PAGES_INCLUDED: 3
+
+================================================================================
+
+URL: https://perchenergy.com/
+
+Lower your electricity bills with community solar
+As easy as 1-2-3
+Get started with Perch in minutes
+Check if there's a solar farm in your area
+Provide your utility account information or upload an image of your bill
+Add a preferred payment method
+Start saving and feel good about helping the planet
+Frequently asked questions
+If you pay an electricity bill, you can sign up!
+Community solar is supported by local and national organizations
+Community solar's benefits go beyond your bill
+More solar projects being built in your state means more quality jobs for workers.
+Community solar farms can power thousands of homes and businesses without releasing CO2 into the atmosphere.
+Solar projects pump clean energy onto the overall electric grid, helping lessen our dependence over time on fossil fuel power.
+Our environment will thrive as more solar farms lead to the decommissioning of traditional power plants that are highly pollutive.
+Zoning laws have sometimes allowed for the development of hazardous power plants in disadvantaged or low-income communities. Solar farms, in turn, are planet-friendly and people-friendly.
+Some solar projects Perch manages use agrivoltaics, when panels are installed on existing agricultural farmland. Farmers lease their land and gain an additional revenue source to help sustain their operations.
+
+--------------------------------------------------------------------------------
+
+URL: https://perchenergy.com/community-solar/how-it-works
+
+ABOUT COMMUNITY SOLAR
+Subscribe to a local solar farm, get rewarded by your state
+To meet America’s renewable energy goals, states receive federal funding to incentivize more solar development—allowing solar project owners to pass on energy bill discounts to residents and businesses as a reward for helping reduce carbon emissions.
+Community solar is free to join with no cancellation fee
+U.S. Department of Energy
+: "Community solar is rapidly growing across the country. It allows everyone to benefit from solar energy, even if they can't put panels on a rooftop."HOW COMMUNITY SOLAR WORKS
+It pays to go green with community solar
+Perch subscribes you to a local solar farm for free
+Along with your friends, neighbors, schools, city hall, and your favorite restaurants.
+It sends power to the electric grid
+This helps lessen dependence on fossil fuels that pollute the environment.
+You earn government-enabled credits toward your utility bill
+The energy your solar farm generates turns into credits, awarded thanks to your state’s renewable energy incentives.
+Pay for a percentage of the credits, get the rest as a discount
+We pass your payment to the solar farm. You get the same utility bill with the remaining savings applied automatically!
+HOW TO JOIN
+Full transparency, no surprises—just savings
+Check if there’s a solar farm in your area
+Community solar is new to many states and doesn’t even exist in some. Input your zip code and our matching platform will look at availability near you.
+Provide Perch your utility account information or an image of your bill
+Your savings are in part dictated by your electricity usage. We analyze your historical usage so we know what size solar subscription you’ll need.
+Add a way to pay (don’t worry, you still net out with savings over time)
+You pay for a percentage of the credits your subscription earns, keeping the rest as a discount. Perch acts as the middleman, passing the payment along to the solar farm owner. For example, if you get $100 of solar credits, this amount is subtracted from your utility bill. If you have a 10% savings rate, you pay $90, resulting in $10 savings. Depending on your payment type, you may get a separate solar credits bill from Perch.
+Get subscribed, start saving, and feel good about helping the planet
+Perch gets to work, coordinating with the utility and solar farm owner to secure your spot—and lock in your long-term savings.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.perchenergy.com/community-solar/savings-calculator
+
+Check your savings and impact
+See how much you could save with community solar. What's your average monthly electric bill?
+Community Solar Discount (10%)
+$15.00
+Reduced Electric Bill
+$150
+$135.00
+Yearly Savings
+$180.00
+Example based on a 10% savings rate. Your exact savings may vary.
+kWh estimate is based off your average monthly bill amount, using 2022 U.S. data from the Energy Information Administration (EIA).
+1,000+
+Managed Solar Projects
+$90 Million+
+Discounts Delivered
+3 GW
+of solar capacity
+Solar power is the most abundant energy source on Earth. It's time everyone benefited.
+Everyone has a place on this Perch. Get started now.
+
+--------------------------------------------------------------------------------

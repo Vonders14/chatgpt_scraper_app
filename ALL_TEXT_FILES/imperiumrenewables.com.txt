@@ -1,0 +1,12 @@
+ROOT: https://imperiumrenewables.com/
+SCRAPED_AT_UTC: 2026-02-11T20:15:31.783150Z
+PAGES_INCLUDED: 1
+
+================================================================================
+
+URL: https://imperiumrenewables.com/
+
+Environmental, Social and Governance Efforts
+At Chevron, leading with our values has led to great results. In 2022, we were proud to be recognized at the local, national and international level for the positive impact our products and business have on our communities, the environment and the economy.
+
+--------------------------------------------------------------------------------

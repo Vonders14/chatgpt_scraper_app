@@ -1,0 +1,1885 @@
+ROOT: https://connectm.com/
+SCRAPED_AT_UTC: 2026-02-11T19:56:34.372370Z
+PAGES_INCLUDED: 20
+
+================================================================================
+
+URL: https://connectm.com/
+
+Our service provider-facing digital platform automates many back office functions, unlocks bulk purchasing, and enables cross-selling of distributed energy solutions–which leads to increased revenue and higher margins.
+We license our Energy Intelligence Network data to light commercial service providers so they can proactively perform maintenance and replacement jobs outside of peak season.
+Our IoT platform for fleet management and battery diagnostics helps original equipment manufacturers and mobility companies manage connected operations and plan for growth.
+Our last mile delivery software combines the functionality of Uber and FedEx: facilitating the B2B transport of heavy goods rapidly and efficiently.
+A leading automotive company faced a significant challenge in integrating three distinct components from different suppliers. Read More
+The public bus system operating a fleet of 630 vehicles faced challenges maintaining profitability due to inconsistent passenger numbers. Read More
+262
+Megawatts of energy per day replacing fossil fuel use
+201
+Metric tons of C02 sequestered per day
+477,256
+Green miles per day, eliminating 18,356 gallons of fossil fuel per day
+
+--------------------------------------------------------------------------------
+
+URL: https://connectm.com/about-connectm/
+
+Our Leadership
+Bhaskar Panigrahi
+Chairman & CEO
+Nayeem Hussain
+President
+Corporate Development
+Bala Padmakumar
+Vice-Chairman & Office of Technology
+Girish Subramanya
+CTO & Managing Director, India
+Ryan Fant
+EVP, Head of Global Ops
+Mahesh Choudhury
+SVP, Finance & Compliance
+Kevin Stateham
+SVP, Business Development
+John Pitcavage
+President of Home & Building Electrification
+Tom Judge
+CEO, DeliveryCircle
+
+--------------------------------------------------------------------------------
+
+URL: https://www.connectm.com/investor-relations/
+
+Home
+Platform
+Platform
+Smart Mobility
+Heat Pump
+Solutions
+Company
+About ConnectM
+About Keen Labs
+Keen Home
+Insights
+Investor Relations
+Contact
+Ethics
+Home
+Platform
+Platform
+Smart Mobility
+Heat Pump
+Solutions
+Company
+About ConnectM
+About Keen Labs
+Keen Home
+Insights
+Investor Relations
+Contact
+Ethics
+Investor Relations
+Investor Relations Home
+Stock Data
+SEC Filings
+Press Releases
+Governance
+Analysts
+Email Alerts
+Read More
+Leading The Global
+Electrification Economy
+Investor Presentation (Oct 2025)
+ThinkEquity Presentation
+Join our Community
+Diamond Equity Research Report
+Stock Data
+Press Releases
+
+--------------------------------------------------------------------------------
+
+URL: https://www.connectm.com/about-keen-labs/
+
+About Keen Labs
+Keen Labs is ConnectM’s wholly owned technology subsidiary, developing the AI, control, and energy intelligence platforms that underpin the Company’s solutions for the modern energy economy. We serve service providers (HVAC, solar, and battery installers), mobility OEMs (EV and legacy automotive), infrastructure operators (such as wireless tower companies), robotics-powered manufacturing enterprises, and businesses requiring distributed energy solutions.
+Keen Labs’ portfolio includes industrial IoT hardware, the Hi-C™ and Hi-E™ lines of energy storage systems, smart heat pumps, and connected vehicle technologies. These are all integrated through our Energy Intelligent Network™ to optimize performance across fleets, facilities, and distributed energy assets.
+Our platform consolidates AI, battery systems, and industrial IoT technologies into unified solutions, enabling strategic focus and capital efficiency. Through organic development and strategic M&A, we accelerate innovation across mobility, logistics, and energy transition markets—positioning our B2B customers to capitalize on the modern energy economy.
+About Keen Labs
+Keen Labs is ConnectM’s wholly owned technology subsidiary, developing the AI, control, and energy intelligence platforms that underpin the Company’s solutions for the modern energy economy. We serve service providers (HVAC, solar, and battery installers), mobility OEMs (EV and legacy automotive), infrastructure operators (such as wireless tower companies), robotics-powered manufacturing enterprises, and businesses requiring distributed energy solutions.
+Keen Labs’ portfolio includes industrial IoT hardware, the Hi-C™ and Hi-E™ lines of energy storage systems, smart heat pumps, and connected vehicle technologies. These are all integrated through our Energy Intelligent Network™ to optimize performance across fleets, facilities, and distributed energy assets.
+Our platform consolidates AI, battery systems, and industrial IoT technologies into unified solutions, enabling strategic focus and capital efficiency. Through organic development and strategic M&A, we accelerate innovation across mobility, logistics, and energy transition markets—positioning our B2B customers to capitalize on the modern energy economy.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.connectm.com/about-connectm/
+
+Our Leadership
+Bhaskar Panigrahi
+Chairman & CEO
+Nayeem Hussain
+President
+Corporate Development
+Bala Padmakumar
+Vice-Chairman & Office of Technology
+Girish Subramanya
+CTO & Managing Director, India
+Ryan Fant
+EVP, Head of Global Ops
+Mahesh Choudhury
+SVP, Finance & Compliance
+Kevin Stateham
+SVP, Business Development
+John Pitcavage
+President of Home & Building Electrification
+Tom Judge
+CEO, DeliveryCircle
+
+--------------------------------------------------------------------------------
+
+URL: https://www.connectm.com/technology/
+
+Our Energy Intelligence Network
+At ConnectM, we power the future of the modern energy economy through our Energy Intelligence Network, enabling OEMs, third-party service providers, infrastructure providers, and enterprises to increase revenue, lower energy expenses, and run more efficiently.
+Our Energy Intelligence Network
+At ConnectM, we power the future of the modern energy economy through our Energy Intelligence Network, enabling OEMs, third-party service providers, infrastructure providers, and enterprises to increase revenue, lower energy expenses, and run more efficiently.
+AI-Powered Platform
+Our AI-powered software platform monitors and manages physical assets throughout their entire lifecycle, collecting valuable anonymized usage and performance data. This data trains and refines our proprietary LLMs and AI models and consistently improves the performance of our network.
+Data collected from service providers, enterprise customers, infrastructure providers, and OEMs fuels a data-driven intelligence loop. This will position ConnectM as a leader across actuarial risk calculation, built environment digital security, utility computing, and other areas at the intersection of AI + physical assets + data.
+ConnectM’s Energy Intelligence Network currently collects more than 30 GBs of data daily across 120,000+ physical assets.
+AI-Powered Platform
+Our AI-powered software platform monitors and manages physical assets throughout their entire lifecycle, collecting valuable anonymized usage and performance data. This data trains and refines our proprietary LLMs and AI models and consistently improves the performance of our network.
+Data collected from service providers, enterprise customers, infrastructure providers, and OEMs fuels a data-driven intelligence loop. This will position ConnectM as a leader across actuarial risk calculation, built environment digital security, utility computing, and other areas at the intersection of AI + physical assets + data.
+ConnectM’s Energy Intelligence Network currently collects more than 30 GBs of data daily across 120,000+ physical assets.
+Contact Us
+We can help you connect your assets to the cloud and turn data into revenue.
+Contact Us
+We can help you connect your assets to the cloud and turn data into revenue.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.connectm.com/technology/evs/
+
+Empowering the Future of Electric Mobility
+Smart Edge, Connectivity, Cloud & AI for Electric Mobility Assets
+ConnectM strategically invests in portfolio companies at the forefront of the zero-emission mobility revolution. These companies provide essential hardware and software services for EV fleet management and battery diagnostics to Original Equipment Manufacturers (OEMs). This critical role within the electric vehicle ecosystem generates recurring revenue through integration with ConnectM’s Energy Intelligence Network. By empowering OEMs and mobility companies with connected operations, our portfolio companies directly contribute to their continued explosive growth.
+OEMS
+White-label integration with cost-effective subscriptions
+- Advanced hardware: Connected display clusters, digital control units, vehicle control units
+- Robust software stacks for enhanced user experience and OEM insights
+Fleet Operators
+Comprehensive digital solutions
+- Sustainable fleet management
+- Support for innovative business models (e.g., Vehicle-as-a-Service)
+Infrastructure Providers
+Dynamic platform for clean energy management
+- Battery charging and swapping solutions
+- Integrated hardware and software for next-gen energy providers
+Powering Innovation with AI-Driven Technology
+Our full-stack platform harnesses the power of Edge and Cloud AI to deliver actionable insights, driving performance and reducing costs for EV OEM customers.
+292+
+Million KM of EV data analyzed
+25,000+
+Electric vehicles on our network
+477,256
+EV OEM customers using our platform
+Why ConnectM
+Advanced Battery Protection
+Prevent voltage deviation damage and get real-time thermal runaway monitoring and alerts.
+Seamless Over-the-Air Updates
+Remote firmware and configuration updates for VCU, BMS, and MCU. Plus, eliminate costly recalls.
+Enhanced User Experience
+Personalized features: battery status, vehicle locator, remote control.
+Data-Driven Decision Making
+Edge and Cloud data monitoring and analysis offer powerful insights for critical business decisions.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.connectm.com/technology/heat-pump/
+
+Intelligent Heat Pump System
+Efficient Home Heating and Cooling with Advanced Technology
+Our AI-driven heat pump system is designed to optimize home heating and cooling, reducing energy costs and carbon footprint. Integrated with our Energy Intelligence Network, this innovative system leverages IoT technology and AI engine to ensure peak performance and efficiency.
+Key Features
+AI-Driven Efficiency
+Predictive maintenance and real-time monitoring for optimal performance.
+Harsh Climate Performance
+Engineered to withstand various weather conditions for consistent results.
+Energy Efficiency
+High-efficiency design reduces heating and cooling costs, with the option to utilize renewable energy from solar panels.
+Quiet Operation
+Designed for reduced noise levels, ensuring a comfortable indoor atmosphere.
+Efficiency Without Complexity
+Advanced technology made accessible and easy to use.
+Comprehensive Warranty
+Backed by a 10-year parts and labor warranty.
+Why Choose Our Intelligent Heat Pump System?
+Reduce energy consumption and utility bills.
+Lower your carbon footprint and contribute to a more sustainable future.
+Enjoy a comfortable and quiet indoor atmosphere.
+Benefit from advanced technology without the complexity.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.connectm.com/keen-home/
+
+Healthier Living, Lower Bills, and Energy Independence
+Welcome to a new era of sustainable and energy efficient living with Keen Home. A leader in residential and commercial electrification, energy efficiency and decarbonization, Keen Home is on a mission to help power healthier buildings, lower utility bills and enable energy independence, while reversing the impacts of climate change.
+About Keen Home
+At Keen Home, our network of companies specializes in the comprehensive electrification of homes through leading solutions.These include solar power, intelligent heating and cooling systems, state-of-the-art battery storage, efficient EV chargers, and home energy assessments. By replacing outdated systems with intelligent technology, we enable you to generate energy and monitor and optimize energy usage. This refined intelligence for residential electric systems leads to substantial utility savings and a significantly reduced carbon footprint.
+1. Solar Power
+Transform your power consumption into substantial savings with our residential solar energy solutions. At Keen Home, we offer the latest and most innovative solar products and services to enhance your energy experience.
+2. Heating and Cooling
+Keep your home at the perfect temperature year-round with our intelligent heating and cooling solutions. Partnering with industry-leading service providers, we ensure your living space remains cool in the summer and warm and cozy during the winter.
+3. Battery Storage
+Gain independence from the power grid with our advanced solar battery storage system. Generate your own power when you need it most and enjoy significant utility cost savings.
+4. EV Chargers
+EV Chargers Power your electric vehicle with the charging efficiency it deserves. Integrate a high-performance EV charger from Keen Home, capable of delivering a powerful charge to any electric vehicle on today’s market.
+5. Roofing
+Rely on our award-winning roofing providers, renowned for high-quality, sustainable roofing solutions. When you need roofing services done right every time, trust the experts at Keen Home.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.connectm.com/insights/
+
+Insights
+-
+2024: A Year of Growth and Momentum
+Building the Future of Clean Energy At ConnectM, we believe that everyone deserves access to clean, reliable, and affordable energy. Since our founding in 2019, our mission has been to electrify homes, businesses, and transportation to reduce energy costs, improve the quality of life and combat climate change. In July 2024, we took a significant…
+
+--------------------------------------------------------------------------------
+
+URL: https://www.connectm.com/whistleblower/
+
+Welcome to the reporting channel of ConnectM Technology Solutions Inc.
+File a report on suspected breaches of law, policies and regulations related to the organization, as well as human rights or environmental risks or violations within the organization or in its supply chain.
+Confidential
+Your identity is protected. We do not record your IP address.
+Secure
+Your messages are encrypted with state-of-the-art encryption algorithms.
+Accessible
+Track the progress of your report and stay in touch using your inbox.
+We use web-based, secure and confidential whistleblowing system called Trusty:
+
+--------------------------------------------------------------------------------
+
+URL: https://connectm.com/technology/heat-pump/
+
+Intelligent Heat Pump System
+Efficient Home Heating and Cooling with Advanced Technology
+Our AI-driven heat pump system is designed to optimize home heating and cooling, reducing energy costs and carbon footprint. Integrated with our Energy Intelligence Network, this innovative system leverages IoT technology and AI engine to ensure peak performance and efficiency.
+Key Features
+AI-Driven Efficiency
+Predictive maintenance and real-time monitoring for optimal performance.
+Harsh Climate Performance
+Engineered to withstand various weather conditions for consistent results.
+Energy Efficiency
+High-efficiency design reduces heating and cooling costs, with the option to utilize renewable energy from solar panels.
+Quiet Operation
+Designed for reduced noise levels, ensuring a comfortable indoor atmosphere.
+Efficiency Without Complexity
+Advanced technology made accessible and easy to use.
+Comprehensive Warranty
+Backed by a 10-year parts and labor warranty.
+Why Choose Our Intelligent Heat Pump System?
+Reduce energy consumption and utility bills.
+Lower your carbon footprint and contribute to a more sustainable future.
+Enjoy a comfortable and quiet indoor atmosphere.
+Benefit from advanced technology without the complexity.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.connectm.com/insights/customer-stories/automotive-technology-integrations-now-streamlined-seamless-and-smart/
+
+Industry
+Multinational Transportation Corporation
+Solution
+Automotive Technology Integration: Digital Control Unit
+The Challenge
+A leading automotive company faced a significant challenge in integrating three distinct components from different suppliers: the instrument cluster, Vehicle Control Unit (VCU), and telematics. This integration process was complex and inefficient, with each supplier working in isolation, leading to coordination and integration difficulties.
+The Solution
+ConnectM introduced its Digital Control Unit (DCU), a groundbreaking solution designed to streamline vehicle technology integrations The DCU consolidated the instrument cluster, VCU, and telematics into a single, unified system. This integration facilitated seamless interaction between hardware and software components, significantly simplifying the previously complex process. Additionally, the DCU came equipped with smart features such as mobile app-controlled speed limits, side stand sensors, and enhanced safety measures, including movement restrictions during charging and overheating alerts.
+The Impact
+The DCU significantly improved connectivity, offered detailed battery insights, and enhanced vehicle aesthetics. Its successful integration during the company’s new vehicle launch showcased its pivotal role in transforming complex vehicle technology into a seamless, efficient system, marking a key achievement for the customer. The smart features added by the DCU enhanced vehicle safety and improved the overall user experience.
+2023
+- Total vehicles: 13k
+- Miles driven: 39,147
+- Value Generated: 9% increase in revenue
+- Carbon savings: 25,354 tons
+
+--------------------------------------------------------------------------------
+
+URL: https://www.connectm.com/insights/customer-stories/innovative-software-drives-profitability-in-city-bus-operations/
+
+Industry
+Public Transportation
+Solution
+Software-as-a-Service
+The Challenge
+The public bus system operating a fleet of 630 vehicles faced challenges maintaining profitability due to inconsistent passenger numbers and the government’s payment model based on distance traveled.
+The Solution
+ConnectM’s subscription-based software system transformed the city’s bus operations. By providing real-time insights and enhancing overall efficiency, the software platform turned buses into strategic assets adept at navigating complex financial models.
+- Driver App played a critical role in keeping drivers on schedule and promoting operational efficiency.
+- Operations Command Center leveraged real-time data to optimize every aspect of the service, from route planning to passenger load management.
+- Uptime Module was instrumental in maintaining the health of the buses.
+- Maintenance Command Center focused on preemptive measures to minimize unexpected costs.
+By leveraging data analytics, the software provided invaluable insights into expenses, driver behavior, and hardware issues, guiding the bus operations towards greater cost-effectiveness and operational excellence.
+The Impact
+ConnectM’s software solution transformed the city’s public transportation system from a potential financial burden into a sustainable, efficient enterprise. By converting buses into data-driven, cost-saving assets, the software aligned operational efficiency with the government’s kilometer-based payment model. This alignment ensured that every kilometer traveled served the city’s transportation needs and contributed significantly to the financial success and sustainability of the operation. The result was a more stable, efficient, and financially viable public transportation system that effectively meets the needs of the city’s population.
+2023
+- Total vehicles: 630
+- Miles driven: 26, 791
+- Value Generated: 7% increase in profitability
+- Carbon Savings: 25,353 tons
+
+--------------------------------------------------------------------------------
+
+URL: https://info@connectm.com/
+
+Our service provider-facing digital platform automates many back office functions, unlocks bulk purchasing, and enables cross-selling of distributed energy solutions–which leads to increased revenue and higher margins.
+We license our Energy Intelligence Network data to light commercial service providers so they can proactively perform maintenance and replacement jobs outside of peak season.
+Our IoT platform for fleet management and battery diagnostics helps original equipment manufacturers and mobility companies manage connected operations and plan for growth.
+Our last mile delivery software combines the functionality of Uber and FedEx: facilitating the B2B transport of heavy goods rapidly and efficiently.
+A leading automotive company faced a significant challenge in integrating three distinct components from different suppliers. Read More
+The public bus system operating a fleet of 630 vehicles faced challenges maintaining profitability due to inconsistent passenger numbers. Read More
+262
+Megawatts of energy per day replacing fossil fuel use
+201
+Metric tons of C02 sequestered per day
+477,256
+Green miles per day, eliminating 18,356 gallons of fossil fuel per day
+
+--------------------------------------------------------------------------------
+
+URL: https://info@connectm.com/about-connectm/
+
+Our Leadership
+Bhaskar Panigrahi
+Chairman & CEO
+Nayeem Hussain
+President
+Corporate Development
+Bala Padmakumar
+Vice-Chairman & Office of Technology
+Girish Subramanya
+CTO & Managing Director, India
+Ryan Fant
+EVP, Head of Global Ops
+Mahesh Choudhury
+SVP, Finance & Compliance
+Kevin Stateham
+SVP, Business Development
+John Pitcavage
+President of Home & Building Electrification
+Tom Judge
+CEO, DeliveryCircle
+
+--------------------------------------------------------------------------------
+
+URL: https://www.connectm.com/
+
+Our service provider-facing digital platform automates many back office functions, unlocks bulk purchasing, and enables cross-selling of distributed energy solutions–which leads to increased revenue and higher margins.
+We license our Energy Intelligence Network data to light commercial service providers so they can proactively perform maintenance and replacement jobs outside of peak season.
+Our IoT platform for fleet management and battery diagnostics helps original equipment manufacturers and mobility companies manage connected operations and plan for growth.
+Our last mile delivery software combines the functionality of Uber and FedEx: facilitating the B2B transport of heavy goods rapidly and efficiently.
+A leading automotive company faced a significant challenge in integrating three distinct components from different suppliers. Read More
+The public bus system operating a fleet of 630 vehicles faced challenges maintaining profitability due to inconsistent passenger numbers. Read More
+262
+Megawatts of energy per day replacing fossil fuel use
+201
+Metric tons of C02 sequestered per day
+477,256
+Green miles per day, eliminating 18,356 gallons of fossil fuel per day
+
+--------------------------------------------------------------------------------
+
+URL: https://www.connectm.com/wp-content/uploads/2025/12/KEEN-Brochure-v2.2.pdf
+
+Mini-Split Heating and Cooling Systems
+Ducted and Ductless Systems
+
+1 KEEN Heat Pump
+A Heat Pump engineered 
+for cold climates
+Up to 100% Heating Capacity
+with COP up to 2.0*
+*
+*Varies by equipment model
+at 5°F
+Continuous Operation
+at temperatures as low as -22°F
+Flexible Design Options
+to meet the needs of every home
+
+
+2keenheatpump.com
+10 Year Parts & Labor Warranty
+Experience peace of mind like never before, with an 
+industry leading 10 year warranty for parts and labor.
+A new standard for labor 
+and equipment warranties
+Complete Peace of Mind
+Complete coverage for both parts and labor
+Adds Value to the Home 
+A transferable warranty that buyers love
+Protection from Rising Costs
+Labor rates may climb, your costs stay locked
+
+Multi Zone Condensers
+KEENHYZHP36AA
+Multi Zone Condensers
+KEENHYZHP49AA
+KEENHYZHP55AA
+KEENHYZHP60AA
+Multi Zone Condensers
+KEENHYZHP20AA
+KEENHYZHP27AA
+Single Zone Condensers
+KEENHYMHP06AA
+KEENHYMHP09AA
+KEENHYMHP12AA
+KEENHYMHP18AA
+3 KEEN Heat Pump
+Outdoor Condensers
+
+KEENOWAH09AA KEENOWAH18AA 
+KEENHYMAH18AA
+Pancake Coils [Ducted]
+KEENSTPAH18AA
+KEENSTPAH24AA
+KEENSTPAH36AA
+Floor and Ceiling [Ductless]
+KEENFCAH18AA
+KEENFCAH24AA
+Ceiling Cassettes [Ductless]
+KEENOWAH06AA KEENOWAH12AA 
+Wall Mounted [Ductless]
+KEENHYMAH612A
+KEENULDAH24AA
+KEENULDAH36AA
+KEENULDAH48AA
+KEENULDAH60AA
+Ultra Heat Air Handlers [Ducted]
+Hyper Heat Air Handlers [Ducted]
+KEENHYDAH24AA
+KEENHYDAH36AA
+KEENHYDAH48AA
+KEENHYDAH60AA
+4keenheatpump.com
+Indoor Equipment
+
+KEEN Heat Pump Model Series 
+KEEN ST D AH 06 XX
+Brand
+KEEN = KEEN 
+ Heat Pump
+Family
+ST = Standard
+HY = Hyper-Heat
+UL = Ultra Heat 
+Type
+D = Ducted
+P = Pancake
+M = Wall Mounted
+OW = Ceiling Cassette
+FC = Floor and Ceiling
+Z = Multizone 
+Component
+AH = Air Handler
+HP = Condenser
+Approximate 
+Capacity (BTU)
+06 = 6k 
+09 = 9k 
+12 = 12k 
+18 = 18k 
+20 = 20k 
+24 = 24k 
+27 = 27k
+30 = 30k 
+36 = 36k 
+48 = 48k 
+49 = 49k
+55 = 55k
+60 = 60k
+612 = Wall Mounted 
+ 6k, 9k & 12k
+ 
+Series
+AA = Updates
+5 KEEN Heat Pump
+Model Number Nomenclature
+
+KEENHYMAH612A KEENHYMAH612A KEENHYMAH612A KEENHYMAH18AA
+KEENHYMHP06AA KEENHYMHP09AA KEENHYMHP12AA KEENHYMHP18AA
+V-Hz-Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph
+V 187 - 253 187 - 253 187 - 253 187 - 253
+Cooling Capacity Btu/h 6,000 9,000 12,000 18,000
+Cooling Input W 343 529 840 1,200
+Cooling Current A 2.1 3.1 3.7 5.5
+SEER2 Btu/h/W 35 33.3 29.4 25.6
+EER2 Btu/h/W 17.4 17 14.2 15
+Cooling Capacity Range Btu/h 3,100 ~ 16,500 3,100 ~ 16,500 3,100 ~ 16,500 12,600 ~ 27,900
+Cooling Input (range) W 180 ~ 1,380 180 ~ 1,380 180 ~ 1,380 940 ~ 2,280
+Cooling Current (range) A 1.2 ~ 6.2 1.2 ~ 6.2 1.2 ~ 6.2 4.3 ~ 10.0
+Heating Capacity Btu/h 9,000 12,000 12,000 20,000
+Heating Input W 660 977 977 1,332
+Heating Current A 3.9 4.3 4.3 5.9
+HSPF2-4 Btu/h/W 30 22 14.5 16.2
+HSPF2-5 Btu/h/W 25 16 10 12.9
+COP W/W 4 3.6 3.6 4.4
+Heating Capacity Range Btu/h 4,100 ~ 17,200 4,100 ~ 17,200 4,100 ~ 17,200 9,700 ~ 29,700
+Heating Input (range) W 200 ~ 1,585 200 ~ 1,585 200 ~ 1,585 525 ~ 2,440
+Heating Current (range) A 1.1 ~ 7.2 1.1 ~ 7.2 1.1 ~ 7.2 2.9 ~ 10.7 
+Cooling at 109°F (43°C) Rated 
+capacity Btu/h 15,000 15,000 15,000 23,300
+Cooling at 5°F (-15°C) Btu/h 13,000 13,000 13,000 27,000
+Heating at 17°F (-8.33°C) Rated 
+capacity Btu/h 14,500 14,500 14,500 23,200
+Heating (H42) 5°F (-15°C) Rated 
+capacity Btu/h 13,500 13,500 13,500 22,600
+Heating at -4°F (-20°C) Rated 
+capacity Btu/h 10,000 10,000 10,000 16,400
+Heating at -13°F (-25°C) Rated 
+capacity Btu/h 9,000 9,000 9,000 14,700
+Heating at -22°F (-30°C) Rated 
+capacity Btu/h 7,500 7,500 7,500 11,900
+Indoor air flow (Turbo/Hi/Mi/Lo/Si) m □/ h 950 / 720 / 360 / 260 / 
+260
+950 / 720 / 360 / 260 / 
+260
+950 / 720 / 360 / 260 / 
+260
+1380 / 1050 / 700 / 540 
+/ 540
+Indoor air flow (Turbo/Hi/Mi/Lo/Si) CFM 559.2 / 423.8 / 211.9 / 
+153 /153
+559.2 / 423.8 / 211.9 / 
+153 /153
+559.2 / 423.8 / 211.9 / 
+153 /153
+812.3 / 618.0 / 412.0 / 
+317.8 / 317.8
+Indoor noise level 
+(Turbo/Hi/Mi/Lo/Si) dB(A) 41.5 / 41.5 / 33 / 23 / 19 41.5 / 41.5 / 33 / 23 / 19 41.5 / 41.5 / 33 / 23 / 19 54.5 / 43.5 / 38.5 / 27 / 
+16
+Outdoor noise level (Hi) dB(A) 57 57 57 61.5
+N.A. Design pressure PSI 550 / 340 550 / 340 550 / 340 550 / 340
+Outdoor Refrigerant type R454B R454B R454B R454B
+Outdoor Refrigerant charge oz 44.09 44.09 44.09 63.49
+Outdoor Additional charge per feet oz/ft 0.16 0.16 0.16 0.32
+Outdoor Throttle type EXV EXV EXV EXV + Throttle valve
+Liquid side mm(inch) 6.35mm (1/4in) 6.35mm (1/4in) 6.35mm (1/4in) 9.52mm (3/8in)
+Gas side mm(inch) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in) 15.9mm (5/8in)
+Max. refrigerant pipe length m 25 25 25 50
+Max. Piping Length ft 82 82 82 164
+Max. difference in level m 15 15 15 25
+Max. Height Difference ft 49.2 49.2 49.2 82
+Indoor Operating Temp. Range 
+(Cooling) °F 60 ~ 90 60 ~ 90 60 ~ 90 60 ~ 90
+Outdoor Operating Temp. Range 
+(Heating) °F -22 ~ 75 -22 ~ 75 -22 ~ 75 -22 ~ 75
+Indoor Operating Temp. Range 
+(Heating) °F 32 - 86 32 - 86 32 - 86 32 - 86
+Outdoor Operating Temp. Range 
+(Cooling) °F -22 ~ 122 -22 ~ 122 -22 ~ 122 -22 ~ 122
+Indoor Item Net/Gross weight lb 28.22 / 36.82 28.22 / 36.82 28.22 / 36.82 43.65 / 55.56
+Indoor Unit Dimension WxDxH inch 40.06 x 9.72 x 12.60 40.06 x 9.72 x 12.60 40.06 x 9.72 x 12.60 46.85 x 11.20 x 14.59
+Outdoor Item Net/Gross weight lb 99.65 / 107.80 99.65 / 107.80 99.65 / 107.80 130.29 / 141.31
+Outdoor Unit Dimension WxDxH inch 35.04 x 13.46 x 26.50 35.04 x 13.46 x 26.50 35.04 x 13.46 x 26.50 37.24 x 16.14 x 31.89
+Basic 
+Parameter 
+(NC)
+Size/Weight
+Indoor Model
+Outdoor Model
+Voltage rangePower supply
+National 
+Certification
+6keenheatpump.com
+Wall Mounted Units
+
+7 KEEN Heat Pump
+KEENFCAH18AA KEENFCAH24AA
+KEENUMHP18AA KEENUMHP24AA
+V-Hz-Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph
+V 187-253 187-253
+Cooling Capacity Btu/h 17,000 22,000
+Cooling Input W 1,350 1,833
+Cooling Current A 8.7 8.2
+SEER2 Btu/h/W 20.4 20.4
+EER2 Btu/h/W 12.5 12
+Cooling Capacity Range Btu/h 7,400 ~ 19,200 12,700 ~ 25,600
+Cooling Input (range) W 500 ~ 1,670 980 ~ 2,300
+Cooling Current (range) A 2.5 ~ 7.4 4.5 ~ 10.1
+Heating Capacity Btu/h 19,000 26,000
+Heating Input W 1,814 2,194
+Heating Current A 11 10.1
+HSPF2-4 Btu/h/W 10.3 12.1
+HSPF2-5 Btu/h/W 8.2 9.8
+COP W/W 3.07 3.34
+Heating Capacity Range Btu/h 8,300 ~ 20,700 11,300 ~ 29,500
+Heating Input (range) W 525 ~ 1,830 630 ~ 2,570
+Heating Current (range) A 2.8 ~ 8.0 3.4 ~ 11.3 
+Cooling at 109°F (43°C) Rated 
+capacity Btu/h 14,500 21,200
+Cooling at 5°F (-15°C) Btu/h 19,700 27,600
+Heating at 17°F (-8.33°C) Rated 
+capacity Btu/h 20,200 23,300
+Heating at 5°F (-15°C) Rated 
+capacity Btu/h 17,000 24,200
+Heating at -4°F (-20°C) Rated 
+capacity Btu/h 14,800 16,500
+Heating at -13°F (-25°C) Rated 
+capacity Btu/h 10,900 13,300
+Heating at -22°F (-30°C) Rated 
+capacity Btu/h 8,400 10,400
+Indoor air flow 
+(Turbo/Hi/Mi/Lo/Si) m□/h 980 / 930 / 825 / 715 / N/A 1,250 / 1,200 / 1,030 / 770 / 640
+Indoor air flow 
+(Turbo/Hi/Mi/Lo/Si) CFM 576.8 / 547.4 / 485.6 / 420.8 / N/A 735.8 / 706.3 / 606.3 / 453.2 / 376.7
+Indoor noise level 
+(Turbo/Hi/Mi/Lo/Si) dB(A) 45 / 42.5 / 39.5 / 30.5 / 29 51.5 / 49 / 45 / 34 / 29
+Outdoor noise level (Hi) dB(A) 58 62
+N.A. Design pressure PSI 550 / 340 550 / 340
+Outdoor Refrigerant type R454B R454B
+Outdoor Refrigerant charge oz 55.38 63.49
+Outdoor Additional charge oz/ft 0.16 0.32
+Outdoor Throttle type EXV+Throttle valve EXV+Throttle valve
+Liquid side mm(inch) 6.35mm (1/4in) 9.52mm (3/8in)
+Gas side mm(inch) 12.7mm (1/2in) 15.9mm (5/8in)
+Max. refrigerant pipe length m 30 50
+Max. Piping Length ft 98.4 164
+Max. difference in level m 20 25
+Max. Height Difference ft 65.6 82
+Indoor Operating Temp. Range 
+(Cooling) °F 60㹼90 60㹼90
+Outdoor Operating Temp. 
+Range(Cooling) °F -22㹼122 -22㹼122
+Indoor Operating Temp. Range 
+(Heating) °F 32㹼86 32㹼86
+Outdoor Operating Temp. Range 
+(Heating) °F -22㹼75 -22㹼75
+Indoor Item Net/Gross weight lb 58.42 / 70.55 61.29 / 73.19
+Indoor Unit Dimension WxDxH inch 42.05 x 26.57 x 9.25 42.05 x 26.57 x 9.25
+Outdoor Item Net/Gross weight lb 99.87 / 107.80 130.29 / 141.31
+Outdoor Unit Dimension WxDxH inch 35.04 x 13.46 x 26.50 37.24 x 16.14 x 31.89
+Size/Weight
+Voltage range
+Indoor Model
+Outdoor Model
+Power Supply
+National 
+Certification
+Basic 
+Parameter 
+(NC)
+Floor and Ceiling Units
+
+8keenheatpump.com
+KEENOWAH06AA KEENOWAH09AA KEENOWAH12AA KEENOWAH18AA
+KEENUMHP06AA KEENUMHP09AA KEENUMHP12AA KEENUMHP18AA
+V-Hz-Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph
+V 187 - 253 187 - 253 187-253 187 - 253
+Cooling Capacity Btu/h 6,500 9,000 12,000 16,700
+Cooling Input W 427 610 923 1,337
+Cooling Current A 3 4.5 4.3 8.3
+SEER2 Btu/h/W 22 24 23 20.6
+EER2 Btu/h/W 15 14.6 13 12.5
+Cooling Capacity Range Btu/h 3,600 ~ 11,200 4,000 ~ 12,900 4,000 ~ 13,900 5,700 ~ 19,000
+Cooling Input (range) W 155 ~ 680 147 ~ 1,150 147 ~ 1,230 550 ~ 1,700
+Cooling Current (range) A 1.2 ~ 4.3 1.2 ~ 5.1 1.2 ~ 5.4 3.7 ~ 8.3
+Heating Capacity Btu/h 7,400 10,900 12,500 20,000
+Heating Input W 578 860 1,030 1,950
+Heating Current A 4 3.8 4.6 12
+HSPF2-4 Btu/h/W 12 12.1 10 12.2
+HSPF2-5 Btu/h/W 10.3 9.5 8 9.2
+COP W/W 3.75 3.71 3.56 3.01
+Heating Capacity Range Btu/h 3,700 ~ 11,500 3,800 ~ 13,900 4,600 ~ 15,200 8,900 ~ 22,000
+Heating Input (range) W 290 ~ 950 300 ~ 1,350 362 ~ 1,377 850 ~ 1,990
+Heating Current (range) A 1.4 ~ 4.2 1.5 ~ 5.9 1.7 ~ 6.1 5.6 ~ 12
+Cooling at 109°F (43°C) Rated 
+capacity Btu/h 11,200 11,200 11,900 14,500
+Cooling at 5°F (-15°C) Btu/h 12,200 12,500 13,200 18,800
+Heating at 17°F (-8.33°C) Rated 
+capacity Btu/h 9,500 11,900 11,900 18,800
+Heating at 5°F (-15°C) Rated 
+capacity Btu/h 8,100 10,600 11,500 17,500
+Heating at -4°F (-20°C) Rated 
+capacity Btu/h 6,400 8,600 8,600 14,500
+Heating at -13°F (-25°C) Rated 
+capacity Btu/h 5,300 6,300 6,300 11,000
+Heating at -22°F (-30°C) Rated 
+capacity Btu/h 4,100 5,100 5,100 9,500
+Indoor air flow 
+(Turbo/Hi/Mi/Lo/Si) m□/ h 580 / 500 / 440 / 400 
+/ 400
+580 / 500 / 440 / 400 / 
+400
+600 / 530 / 480 / 420 / 
+300
+680 / 598 / 510 / 352 / 
+352
+Indoor air flow 
+(Turbo/Hi/Mi/Lo/Si) CFM 341.4 / 294.3 / 259.0 / 
+235.4 / 235.4
+341.4 / 294.3 / 259.0 / 
+235.4 / 235.4
+353.2 / 312.0 / 282.5 / 
+247.2 / 176.6
+400.2 / 352.0 / 300.2 / 
+207.2 / 207.2
+Indoor noise level 
+(Turbo/Hi/Mi/Lo/Si) dB(A) 46.5 / 37.5 / 35.5 / 26 
+/ 23.5 38 / 38 / 36 / 33 / 24 41 / 41 / 37 / 33 / 24 44 / 44 / 41.5 / 31 / 26
+Outdoor noise level (Hi) dB(A) 54 55 56 59
+N.A. Design pressure PSI 550 / 340 550 / 340 550 / 340 550 / 340
+Outdoor Refrigerant type R454B R454B R454B R454B
+Outdoor Refrigerant charge oz 32.45 35.27 35.27 55.38
+Outdoor Additional charge per feet oz/ft 0.16 0.16 0.16 0.16
+Outdoor Throttle type EXV EXV EXV EXV + Throttle valve
+Liquid side mm(inch) 6.35mm (1/4in) 6.35mm (1/4in) 6.35mm (1/4in) 6.35mm (1/4in)
+Gas side mm(inch) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in) 12.7mm (1/2in)
+Max. refrigerant pipe length m 25 25 25 30
+Max. Piping Length ft 82.02 82.02 82.02 98.43
+Max. difference in level m 15 15 15 20
+Max. Height Difference ft 49.21 49.21 49.21 65.62
+Indoor Operating Temp. Range 
+(Cooling) °F 60㹼90 60㹼90 60㹼90 60㹼90
+Outdoor Operating Temp. Range 
+(Heating) °F -22㹼122 -22㹼122 -22㹼122 -22㹼122
+Indoor Operating Temp. Range 
+(Heating) °F 32㹼86 32㹼86 32㹼86 32㹼86
+Outdoor Operating Temp. Range 
+(Cooling) °F -22㹼75 -22㹼75 -22㹼75 -22㹼75
+Indoor Item Net/Gross weight lb 45.19 / 82.45 45.19 / 82.45 45.19 / 82.45 45.19 / 82.89
+Indoor Unit Dimension WxDxH inch 50.31 x 13.19 x 8.98 50.31 x 13.19 x 8.98 50.31 x 13.19 x 8.98 50.31 x 13.19 x 8.98
+Outdoor Item Net/Gross weight lb 62.17 / 67.68 72.75 / 78.70 72.75 / 78.70 99.87 / 107.80
+Outdoor Unit Dimension WxDxH inch 30.12 x 11.93 x 21.85 31.69 x 12.99 x 21.81 31.69 x 12.99 x 21.81 35.04 x 13.46 x 26.50
+Basic 
+Parameter 
+(NC)
+Size/Weight
+Indoor Model
+Outdoor Model
+Voltage rangePower supply
+National 
+Certification
+Ceiling Cassettes
+
+9 KEEN Heat Pump
+KEENHYZHP20AA KEENHYZHP27AA KEENHYZHP36AA KEENHYZHP49AA KEENHYZHP55AA
+Power Supply (Volts; Hz; Phase) V-Hz-Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph
+Voltage Range V 187 - 253 187 - 253 187 - 253 187 - 253 187 - 253
+Cooling Capacity Btu/h 19,000 27,000 36,000 47,000 51,000
+Cooling Input W 1,265 2,125 2,750 3,917 4,250
+Cooling Current A 5.6 9.5 12 17.3 18.5
+SEER2 Btu/h/W 25 23 23 23 22.2
+EER2 Btu/h/W 15 12.5 13 12 12
+Cooling Capacity Range Btu/h 5,400 ~ 28,000 7,200 ~ 37,000 9,000 ~ 43,000 12,000 ~ 57,000 19,000 ~ 59,000
+Cooling Input (range) W 400 ~ 2,250 500 ~ 3,620 600 ~ 4,000 800 ~ 5,400 1,200 ~ 5,400
+Cooling Current (range) A 3.5 ~ 10 4.0 ~ 16 5.2 ~ 17.8 7.0 ~ 24 10.5 ~ 24
+Heating Capacity Btu/h 20,000 27,000 36,000 49,000 55,000
+Heating Input W 1,465 2,082 2,638 3,881 4,605
+Heating Current A 6.5 9.1 11.5 17.3 20.1
+HSPF2-4 Btu/h/W 10.4 10.5 10.7 11 10.5
+HSPF2-5 Btu/h/W 8.5 8.5 8.5 9 8.5
+COP W/W 4 3.8 4 3.7 3.5
+Heating Capacity Range Btu/h 5,700 ~ 27,000 8,400 ~ 36,000 10,000 ~ 44,000 13,000 ~ 57,000 20,000 ~ 59,000
+Heating Input (range) W 350 ~ 2,300 500 ~ 3,400 600 ~ 3,750 800 ~ 5,200 1,200 ~ 5,200
+Heating Current (range) A 3 ~ 10 4 ~ 15 5.2 ~ 16.6 7 ~ 23 10.5 ~ 23
+Cooling Capacity at 109°F (43°C) Btu/h 19,600 32,000 39,000 43,000 45,000
+Cooling Capacity at 5°F (-15°C) Btu/h 30,000 36,000 47,500 60,000 74,000
+Heating Capacity at 17°F(-8.33°C) Btu/h 19,000 28,000 42,000 51,500 52,000
+Heating Capacity at 5°F (-15°C) Btu/h 19,000 27,000 36,000 47,000 47,000
+Heating Capacity at -4°F (-20°C) Btu/h 15,000 21,000 34,400 36,000 38,500
+Heating Capacity at -13°F (-25°C) Btu/h 12,000 17,000 28,000 30,000 32,000
+Heating Capacity at -22°F (-30°C) Btu/h 10,000 14,000 22,400 24,600 26,400
+Outdoor noise level (Hi) dB(A) 62 61 65 65 65
+N.A. Design pressure PSI 550 / 340 550 / 340 550 / 340 550 / 340 550 / 340
+Outdoor Refrigerant type R454B R454B R454B R454B R454B
+Outdoor Refrigerant charge ozs 78.31 120.63 134.04 151.68 151.68
+Outdoor Additional refrigerant per ft oz/ft 0.16 0.16 0.16 0.16 0.16
+Outdoor Throttle type EXV+Capillary EXV EXV EXV EXV
+Liquid side mm(inch) 3 x 6.35mm 
+(3 x 1/4in)
+4 x 6.35mm 
+(4 x 1/4in)
+5 x 6.35mm 
+(5 x 1/4in)
+6 x 6.35mm 
+(6 x 1/4in)
+6 x 6.35mm 
+(6 x 1/4in)
+Gas side mm(inch) 3 x 9.52mm (3 x 3/8in)
+3 x 9.52mm + 1 x 
+12.7mm (3 x 3/8in + 1 x 
+1/2in)
+3 x 9.52mm + 2 x 
+12.7mm (3 x 3/8in + 2 x 
+1/2in)
+4 x 9.52mm + 2 x 
+12.7mm (4 x 3/8in + 2 x 
+1/2in)
+4 x 9.52mm + 2 x 
+12.7mm (4 x 3/8in + 2 x 
+1/2in)
+Max. Length per each indoor unit m 30 35 35 35 35
+Max. Length per each indoor unit ft 98.4 114.8 114.8 114.8 114.8
+Total Maximum Piping Length per 
+system m 60 80 80 80 80
+Total Maximum Piping Length per 
+system ft 196.8 262.4 262.4 262.4 262.4
+Max. difference in level m 15 15 15 15 15
+Max. Height Difference ft 49.2 49.2 49.2 49.2 49.2
+Indoor Operating Temp. Range 
+(Cooling) °F 60 ~ 90 60 ~ 90 60 ~ 90 60 ~ 90 60 ~ 90
+Outdoor Operating Temp. Range 
+(Cooling) °F -22 ~ 122 -22 ~ 122 -22 ~ 122 -22 ~ 122 -22 ~ 122 
+Indoor Operating Temp. Range 
+(Heating) °F 32 - 86 32 - 86 32 - 86 32 - 86 32 - 86
+Outdoor Operating Temp. Range 
+(Heating) °F -22 ~ 75 -22 ~ 75 -22 ~ 75 -22 ~ 75 -22 ~ 75
+Outdoor Item Net/Gross weight lb 137.35 / 148.15 168.43 / 179.67 211.86 / 244.71 246.47 / 276.68 246.47 / 276.68
+Outdoor Unit Dimension WxDxH inch 37.24 x 16.14 x 31.89 37.24 x 16.14 x 31.89 38.58 x 16.34 x 38.39 37.48 x 16.34 x 52.48 37.48 x 16.34 x 52.48
+Outdoor Model
+Power 
+Supply 
+National 
+Certification
+Basic 
+Parameter 
+(NC)
+Size/Weight
+Hyper Heat Multi-Zone Condensers
+
+10keenheatpump.com
+KEENHYZHP20AA KEENHYZHP27AA KEENHYZHP36AA KEENHYZHP49AA KEENHYZHP55AA
+Power Supply (Volts; Hz; Phase) V-Hz-Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph
+Voltage Range V 187 - 253 187 - 253 187 - 253 187 - 253 187 - 253
+Cooling Capacity Btu/h 19,000 27,000 36,000 47,000 51,000
+Cooling Input W 1,265 2,125 2,750 3,917 4,250
+Cooling Current A 5.6 9.5 12 17.3 18.5
+SEER2 Btu/h/W 25 23 23 23 22.2
+EER2 Btu/h/W 15 12.5 13 12 12
+Cooling Capacity Range Btu/h 5,400 ~ 28,000 7,200 ~ 37,000 9,000 ~ 43,000 12,000 ~ 57,000 19,000 ~ 59,000
+Cooling Input (range) W 400 ~ 2,250 500 ~ 3,620 600 ~ 4,000 800 ~ 5,400 1,200 ~ 5,400
+Cooling Current (range) A 3.5 ~ 10 4.0 ~ 16 5.2 ~ 17.8 7.0 ~ 24 10.5 ~ 24
+Heating Capacity Btu/h 20,000 27,000 36,000 49,000 55,000
+Heating Input W 1,465 2,082 2,638 3,881 4,605
+Heating Current A 6.5 9.1 11.5 17.3 20.1
+HSPF2-4 Btu/h/W 10.4 10.5 10.7 11 10.5
+HSPF2-5 Btu/h/W 8.5 8.5 8.5 9 8.5
+COP W/W 4 3.8 4 3.7 3.5
+Heating Capacity Range Btu/h 5,700 ~ 27,000 8,400 ~ 36,000 10,000 ~ 44,000 13,000 ~ 57,000 20,000 ~ 59,000
+Heating Input (range) W 350 ~ 2,300 500 ~ 3,400 600 ~ 3,750 800 ~ 5,200 1,200 ~ 5,200
+Heating Current (range) A 3 ~ 10 4 ~ 15 5.2 ~ 16.6 7 ~ 23 10.5 ~ 23
+Cooling Capacity at 109°F (43°C) Btu/h 19,600 32,000 39,000 43,000 45,000
+Cooling Capacity at 5°F (-15°C) Btu/h 30,000 36,000 47,500 60,000 74,000
+Heating Capacity at 17°F(-8.33°C) Btu/h 19,000 28,000 42,000 51,500 52,000
+Heating Capacity at 5°F (-15°C) Btu/h 19,000 27,000 36,000 47,000 47,000
+Heating Capacity at -4°F (-20°C) Btu/h 15,000 21,000 34,400 36,000 38,500
+Heating Capacity at -13°F (-25°C) Btu/h 12,000 17,000 28,000 30,000 32,000
+Heating Capacity at -22°F (-30°C) Btu/h 10,000 14,000 22,400 24,600 26,400
+Outdoor noise level (Hi) dB(A) 62 61 65 65 65
+N.A. Design pressure PSI 550 / 340 550 / 340 550 / 340 550 / 340 550 / 340
+Outdoor Refrigerant type R454B R454B R454B R454B R454B
+Outdoor Refrigerant charge ozs 78.31 120.63 134.04 151.68 151.68
+Outdoor Additional refrigerant per ft oz/ft 0.16 0.16 0.16 0.16 0.16
+Outdoor Throttle type EXV+Capillary EXV EXV EXV EXV
+Liquid side mm(inch) 3 x 6.35mm 
+(3 x 1/4in)
+4 x 6.35mm 
+(4 x 1/4in)
+5 x 6.35mm 
+(5 x 1/4in)
+6 x 6.35mm 
+(6 x 1/4in)
+6 x 6.35mm 
+(6 x 1/4in)
+Gas side mm(inch) 3 x 9.52mm (3 x 3/8in)
+3 x 9.52mm + 1 x 
+12.7mm (3 x 3/8in + 1 x 
+1/2in)
+3 x 9.52mm + 2 x 
+12.7mm (3 x 3/8in + 2 x 
+1/2in)
+4 x 9.52mm + 2 x 
+12.7mm (4 x 3/8in + 2 x 
+1/2in)
+4 x 9.52mm + 2 x 
+12.7mm (4 x 3/8in + 2 x 
+1/2in)
+Max. Length per each indoor unit m 30 35 35 35 35
+Max. Length per each indoor unit ft 98.4 114.8 114.8 114.8 114.8
+Total Maximum Piping Length per 
+system m 60 80 80 80 80
+Total Maximum Piping Length per 
+system ft 196.8 262.4 262.4 262.4 262.4
+Max. difference in level m 15 15 15 15 15
+Max. Height Difference ft 49.2 49.2 49.2 49.2 49.2
+Indoor Operating Temp. Range 
+(Cooling) °F 60 ~ 90 60 ~ 90 60 ~ 90 60 ~ 90 60 ~ 90
+Outdoor Operating Temp. Range 
+(Cooling) °F -22 ~ 122 -22 ~ 122 -22 ~ 122 -22 ~ 122 -22 ~ 122 
+Indoor Operating Temp. Range 
+(Heating) °F 32 - 86 32 - 86 32 - 86 32 - 86 32 - 86
+Outdoor Operating Temp. Range 
+(Heating) °F -22 ~ 75 -22 ~ 75 -22 ~ 75 -22 ~ 75 -22 ~ 75
+Outdoor Item Net/Gross weight lb 137.35 / 148.15 168.43 / 179.67 211.86 / 244.71 246.47 / 276.68 246.47 / 276.68
+Outdoor Unit Dimension WxDxH inch 37.24 x 16.14 x 31.89 37.24 x 16.14 x 31.89 38.58 x 16.34 x 38.39 37.48 x 16.34 x 52.48 37.48 x 16.34 x 52.48
+Outdoor Model
+Power 
+Supply 
+National 
+Certification
+Basic 
+Parameter 
+(NC)
+Size/Weight
+KEENULDAH18AA KEENULDAH24AA KEENULDAH36AA KEENULDAH48AA KEENULDAH60AA
+KEENHYDHP18AA KEENHYDHP24AA KEENULDHP36AA KEENHYDHP48AA KEENHYDHP60AA
+115/208/230V, 60Hz, 1Ph 115/208/230V, 60Hz, 1Ph 115/208/230V, 60Hz, 1Ph 115/208/230V, 60Hz, 1Ph 115/208/230V, 60Hz, 1Ph
+208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph
+Cooling Capacity Btu/h 18,000 24,000 36,000 48,000 54,000
+Cooling Input W 1,440 2,150 3,000 4,266 4,851
+Cooling Current A 9.3 9.1 13.4 18 20.5
+SEER2 Btu/h/W 19 18.6 17.7 17.5 17.5
+EER2 Btu/h/W 12.5 12 12 12 12
+Cooling Capacity Range Btu/h 4,600 ~ 23,100 6,400 ~ 28,700 14,800 ~ 41,700 18,000 ~ 52,000 11,400 ~ 60,000
+Cooling Input (range) W 530 ~ 2,020 830 ~ 2,850 1180 ~ 3,930 1300 ~ 4,870 1540 ~ 6,720
+Cooling Current (range) A 4.1 ~ 8.9 3.7 ~ 12.5 5.5 ~ 17.4 6.1 ~ 21.6 7.2 ~ 29.7
+Heating Capacity Btu/h 18,000 24,000 36,000 48,000 55,000
+Heating Input W 1,465 2,150 2,930 4,521 5,015
+Heating Current A 9.4 9.1 13.3 18.9 21.5
+HSPF2-4 Btu/h/W 10.1 10 10 9.5 9.5
+HSPF2-5 Btu/h/W 8.5 8.1 8 7.7 7.7
+COP W/W 3.6 3.49 3.6 3.28 3.35
+Heating Capacity Range Btu/h 5,700 ~ 23,100 6,700 ~ 29,100 10,700 ~ 38,400 13,500 ~ 52,000 8,600 ~ 60,000
+Heating Input (range) W 410 ~ 1,900 405 ~ 2,450 645 ~ 3,110 925 ~ 3,880 775 ~ 5,720
+Heating Current (range) A 2.2 ~ 8.4 2.2 ~ 10.8 3.5 ~ 13.8 5.0 ~ 17.3 4.2 ~ 26.7 
+Cooling Capacity at 109°F (43°C) Btu/h 17,900 23,800 34,600 45,500 53,000
+Cooling Capacity at 5°F (-15°C) Btu/h 23,600 25,200 39,800 50,000 54,000
+Heating Capacity at 17°F (-8.33°C) Btu/h 19,500 22,800 33,000 48,000 54,000
+Heating Capacity at 5°F (-15°C) Btu/h 18,600 20,600 32,600 48,000 54,000
+Heating Capacity at -4°F (-20°C) Btu/h 16,400 17,800 27,600 39,500 49,500
+Heating Capacity at -13°F (-25°C) Btu/h 14,100 14,800 22,900 32,400 44,000
+Heating Capacity at -22° (-30°C) Btu/h 11,800 12,100 19,200 27,200 37,300
+Indoor air flow (Turbo/Hi/Mi/Lo/Si) m □/h 1,050 / 980 / 900 / 830 / 
+N/A
+1,400 / 1290 / 1180 / 1070 
+/ N/A
+2,100 / 1950 / 1800 / 1650 
+/ N/A
+2,720 / 2450 / 2150 / 1850 
+/ N/A
+3,060 / 2,800 / 2,550 / 
+2,100 / N/A
+Indoor air flow (Turbo/Hi/Mi/Lo/Si) CFM 618.0 / 576.8 / 529.7 / 
+488.5 / N/A
+824.0 / 759.3 / 694.5 / 
+629.8 / N/A
+1,236.1 / 1,147.8 / 1,059.5 / 
+971.2 / N/A
+1,601. / 1,442.1 / 1,265.5 / 
+1,088.9 / N/A
+1,801.1 / 1,648.1 / 1,500.9 / 
+1,236.1 / N/A
+Indoor noise level 
+(Turbo/Hi/Mi/Lo/Si) dB(A) N/A / 42.5 / 40.5 / 37 / 
+N/A N/A / 47.5 / 44 / 33 / N/A N/A / 49.5 / 48/ 31.5 / 
+N/A
+N/A / 53 / 49.5 / 33.5 / 
+N/A 60 / 57 / 54.5 / 37 / N/A
+Outdoor noise level (Hi) dB(A) 57 59 63 65 65
+Design pressure PSI 550 / 340 550 / 340 550 / 340 550 / 340 550 / 340
+Outdoor Refrigerant type R454B R454B R454B R454B R454B
+Outdoor Refrigerant charge oz 74.08 74.08 126.99 134.04 183.42
+Outdoor Additional charge oz/ft 0.7 0.7 0.7 0.7 0.7
+Outdoor Throttle type EXV EXV EXV EXV EXV
+Liquid side mm(inch) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in)
+Gas side mm(inch) 19mm (3/4in) 19mm (3/4in) 19mm (3/4in) 19mm (3/4in) 19mm (3/4in)
+Max. refrigerant pipe length m 50 50 65 75 75
+Max. Piping Length ft 164 164 213.2 246 246
+Max. difference in level m 25 25 30 30 30
+Max. Height Difference ft 82 82 98.4 98.4 98.4
+Indoor Operating Temp. Range 
+(Cooling) °F 60 ~ 90 60 ~ 90 60 ~ 90 60 ~ 90 60 ~ 90
+Outdoor Operating Temp. Range 
+(Cooling) °F -22 ~ 122 -22 ~ 122 -22 ~ 122 -22 ~ 122 -22 ~ 122
+Indoor Operating Temp. Range 
+(Heating) °F 32 - 86 32 - 86 32 - 86 32 - 86 32 - 86
+Outdoor Operating Temp. Range 
+(Heating) °F -22 ~ 75 -22 ~ 75 -22 ~ 75 -22 ~ 75 -22 ~ 75
+Indoor Net/Gross Weight lb 123.02 / 154.76 123.02 / 154.76 149.25 / 182.10 186.51 / 232.14 188.05 / 238.32
+Indoor Unit Dimension WxDxH inch 21 x 14 x 49 21 x 14 x 49 21 x 17 x 54 21 x 17 x 54 21 x 17 x 54
+Outdoor Net/Gross Weight lb 101.41 / 109.13 102.29 / 109.13 166.67 / 176.37 232.59 / 201.50 242.95 / 275.13
+Outdoor Unit Dimension WxDxH inch 35 x 13 x 26 35 x 13 x 26 37 x 16 x 31 38 x 16 x 38 37 x 16 x 52
+Basic 
+Parameter (NC)
+Size/Weight
+Outdoor Model
+Indoor Model
+IDU Power Supply (Volts; Hz; Phase)
+ODU Power Supply (Volts; Hz; Phase)
+Basic 
+Parameter
+National 
+Certification
+Ultra Heat Ducted Air Handlers
+
+11 KEEN Heat Pump
+KEENHYZHP20AA KEENHYZHP27AA KEENHYZHP36AA KEENHYZHP49AA KEENHYZHP55AA
+Power Supply (Volts; Hz; Phase) V-Hz-Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph
+Voltage Range V 187 - 253 187 - 253 187 - 253 187 - 253 187 - 253
+Cooling Capacity Btu/h 19,000 27,000 36,000 47,000 51,000
+Cooling Input W 1,265 2,125 2,750 3,917 4,250
+Cooling Current A 5.6 9.5 12 17.3 18.5
+SEER2 Btu/h/W 25 23 23 23 22.2
+EER2 Btu/h/W 15 12.5 13 12 12
+Cooling Capacity Range Btu/h 5,400 ~ 28,000 7,200 ~ 37,000 9,000 ~ 43,000 12,000 ~ 57,000 19,000 ~ 59,000
+Cooling Input (range) W 400 ~ 2,250 500 ~ 3,620 600 ~ 4,000 800 ~ 5,400 1,200 ~ 5,400
+Cooling Current (range) A 3.5 ~ 10 4.0 ~ 16 5.2 ~ 17.8 7.0 ~ 24 10.5 ~ 24
+Heating Capacity Btu/h 20,000 27,000 36,000 49,000 55,000
+Heating Input W 1,465 2,082 2,638 3,881 4,605
+Heating Current A 6.5 9.1 11.5 17.3 20.1
+HSPF2-4 Btu/h/W 10.4 10.5 10.7 11 10.5
+HSPF2-5 Btu/h/W 8.5 8.5 8.5 9 8.5
+COP W/W 4 3.8 4 3.7 3.5
+Heating Capacity Range Btu/h 5,700 ~ 27,000 8,400 ~ 36,000 10,000 ~ 44,000 13,000 ~ 57,000 20,000 ~ 59,000
+Heating Input (range) W 350 ~ 2,300 500 ~ 3,400 600 ~ 3,750 800 ~ 5,200 1,200 ~ 5,200
+Heating Current (range) A 3 ~ 10 4 ~ 15 5.2 ~ 16.6 7 ~ 23 10.5 ~ 23
+Cooling Capacity at 109°F (43°C) Btu/h 19,600 32,000 39,000 43,000 45,000
+Cooling Capacity at 5°F (-15°C) Btu/h 30,000 36,000 47,500 60,000 74,000
+Heating Capacity at 17°F(-8.33°C) Btu/h 19,000 28,000 42,000 51,500 52,000
+Heating Capacity at 5°F (-15°C) Btu/h 19,000 27,000 36,000 47,000 47,000
+Heating Capacity at -4°F (-20°C) Btu/h 15,000 21,000 34,400 36,000 38,500
+Heating Capacity at -13°F (-25°C) Btu/h 12,000 17,000 28,000 30,000 32,000
+Heating Capacity at -22°F (-30°C) Btu/h 10,000 14,000 22,400 24,600 26,400
+Outdoor noise level (Hi) dB(A) 62 61 65 65 65
+N.A. Design pressure PSI 550 / 340 550 / 340 550 / 340 550 / 340 550 / 340
+Outdoor Refrigerant type R454B R454B R454B R454B R454B
+Outdoor Refrigerant charge ozs 78.31 120.63 134.04 151.68 151.68
+Outdoor Additional refrigerant per ft oz/ft 0.16 0.16 0.16 0.16 0.16
+Outdoor Throttle type EXV+Capillary EXV EXV EXV EXV
+Liquid side mm(inch) 3 x 6.35mm 
+(3 x 1/4in)
+4 x 6.35mm 
+(4 x 1/4in)
+5 x 6.35mm 
+(5 x 1/4in)
+6 x 6.35mm 
+(6 x 1/4in)
+6 x 6.35mm 
+(6 x 1/4in)
+Gas side mm(inch) 3 x 9.52mm (3 x 3/8in)
+3 x 9.52mm + 1 x 
+12.7mm (3 x 3/8in + 1 x 
+1/2in)
+3 x 9.52mm + 2 x 
+12.7mm (3 x 3/8in + 2 x 
+1/2in)
+4 x 9.52mm + 2 x 
+12.7mm (4 x 3/8in + 2 x 
+1/2in)
+4 x 9.52mm + 2 x 
+12.7mm (4 x 3/8in + 2 x 
+1/2in)
+Max. Length per each indoor unit m 30 35 35 35 35
+Max. Length per each indoor unit ft 98.4 114.8 114.8 114.8 114.8
+Total Maximum Piping Length per 
+system m 60 80 80 80 80
+Total Maximum Piping Length per 
+system ft 196.8 262.4 262.4 262.4 262.4
+Max. difference in level m 15 15 15 15 15
+Max. Height Difference ft 49.2 49.2 49.2 49.2 49.2
+Indoor Operating Temp. Range 
+(Cooling) °F 60 ~ 90 60 ~ 90 60 ~ 90 60 ~ 90 60 ~ 90
+Outdoor Operating Temp. Range 
+(Cooling) °F -22 ~ 122 -22 ~ 122 -22 ~ 122 -22 ~ 122 -22 ~ 122 
+Indoor Operating Temp. Range 
+(Heating) °F 32 - 86 32 - 86 32 - 86 32 - 86 32 - 86
+Outdoor Operating Temp. Range 
+(Heating) °F -22 ~ 75 -22 ~ 75 -22 ~ 75 -22 ~ 75 -22 ~ 75
+Outdoor Item Net/Gross weight lb 137.35 / 148.15 168.43 / 179.67 211.86 / 244.71 246.47 / 276.68 246.47 / 276.68
+Outdoor Unit Dimension WxDxH inch 37.24 x 16.14 x 31.89 37.24 x 16.14 x 31.89 38.58 x 16.34 x 38.39 37.48 x 16.34 x 52.48 37.48 x 16.34 x 52.48
+Outdoor Model
+Power 
+Supply 
+National 
+Certification
+Basic 
+Parameter 
+(NC)
+Size/Weight
+KEENHYDAH18AA KEENHYDAH24AA KEENHYDAH36AA KEENHYDAH48AA KEENHYDAH60AA
+KEENHYDHP18AA KEENHYDHP24AA KEENHYDHP36AA KEENHYDHP48AA KEENHYDHP60AA
+IDU Power Supply (Volts; 
+Hz; Phase) V-Hz-Ph 115 / 208 / 230V, 60Hz, 
+1Ph
+115 / 208 / 230V, 60Hz, 
+1Ph
+115 / 208 / 230V, 60Hz, 
+1Ph
+115 / 208 / 230V, 60Hz, 
+1Ph
+115 / 208 / 230V, 60Hz, 
+1Ph
+ODU Power Supply 
+(Volts; Hz; Phase) V 208 / 230V, 60Hz, 1Ph 208 / 230V, 60Hz, 1Ph 208 / 230V, 60Hz, 1Ph 208 / 230V, 60Hz, 1Ph 208 / 230V, 60Hz, 1Ph
+Cooling Capacity Btu/h 18,000 23,000 36,000 48,000 54,000
+Cooling Input W 1,445 1,965 3,076 4,690 5,400
+Cooling Current A 6.6 9 13.4 20 23.3
+SEER2 Btu/h/W 19 18.3 17.4 16.5 16
+EER2 Btu/h/W 12.5 11.7 11.7 10.5 10
+Cooling Capacity Range Btu/h 5,600 ~ 22,000 7,200 ~ 27,000 9,700 ~ 42,000 15,600 ~ 51,000 11,400 ~ 56,300
+Cooling Input (range) W 440 ~ 1,950 530 ~ 2,870 820 ~ 4,440 1,345 ~ 5,180 1,540 ~ 6,430
+Cooling Current (range) A 2 ~ 9.5 3.4 ~ 12.6 5.6 ~ 19.7 6.4 ~ 22.9 7.2 ~ 28.4
+Heating Capacity Btu/h 19,000 24,000 37,000 50,000 56,000
+Heating Input W 1,740 2,112 3,012 4,750 5,300
+Heating Current A 7.6 9.5 13.1 20.5 23.1
+HSPF2-4 Btu/h/W 9.7 10 10.2 9.5 9
+HSPF2-5 Btu/h/W 8 8 8.6 8 8
+COP W/W 3.2 3.33 3.6 3.4 3.1
+Heating Capacity Range Btu/h 6,000 ~ 22,000 7,100 ~ 30,000 11,000 ~ 48,000 15,500 ~ 57,300 8,100 ~ 64,500
+Heating Input (range) W 500 ~ 1,950 440 ~ 2,730 665 ~ 4,370 1,045 ~ 5,200 725 ~ 5,970
+Heating Current (range) A 3.2 ~ 9.5 2.40 ~ 12.0 3.6 ~ 19.4 5.7 ~ 23.1 4.0 ~ 30.6 
+Cooling Capacity at 
+109 °F (43°C) Btu/h 17,400 25,000 35,000 41,200 50,900
+Cooling Capacity at 
+5°F (-15°C) Btu/h 23,400 25,600 40,000 52,000 54,000
+Heating Capacity at 17°F 
+(-8.33°C) Btu/h 21,600 22,000 41,000 48,000 50,400
+Heating Capacity at 
+5°F (-15°C) Btu/h 18,000 21,600 39,000 46,000 52,000
+Heating Capacity at 
+-4°F (-20°C) Btu/h 16,600 17,300 36,000 40,700 46,700
+Heating Capacity at 
+-13°F (-25°C) Btu/h 14,000 14,400 30,800 34,200 41,600
+Heating Capacity at 
+-22°F (-30°C) Btu/h 11,000 12,000 27,800 25,900 30,900
+Indoor air flow 
+(Turbo/Hi/Mi/Lo/Si) m□ /h 1,050 / 980 / 900 / 830 / 
+N/A
+1,400 / 1290 / 1180 / 1070 
+/ N/A
+2,020 / 1840 / 1650 / 
+1470 / N/A
+2,720 / 2,500 / 2,180 / 
+1,860 / N/A
+3,070 / 2,690 / 2,310 / 
+1,930 / N/A
+Indoor air flow 
+(Turbo/Hi/Mi/Lo/Si) CFM 618.0 / 576.8 / 529.7 / 
+488.5 / N/A
+824.0 / 759.3 / 694.5 / 
+629.8 / N/A
+1,189.0 / 1,083.0 / 971.2 / 
+865.2 / N/A
+1,601.0 / 1,471.5 / 1,283.1 
+/ 1,094.8 / N/A
+1,807.0 / 1,583.3 / 1,359.7 
+/ 1,136.0 / N/A
+Indoor noise level 
+(Turbo/Hi/Mi/Lo/Si) dB(A) N/A / 41 / 39 / 33 / 
+N/A N/A / 44 / 42 / 28 / N/A 49 / 48.0 / 45.5 / 25.5 / 
+N/A N/A / 52 / 50 / 34 / N/A 54.5 / 52 / 49.5 / 34.5 / 
+N/A
+Outdoor noise level (Hi) dB(A) 59 60 62.5 65 65
+N.A. Design pressure PSI 550 / 340 550 / 340 550 / 340 550 / 340 550 / 340
+Outdoor Refrigerant type R454B R454B R454B R454B R454B
+Liquid side mm (inch) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in)
+Gas side mm (inch) 19mm (3/4in) 19mm (3/4in) 19mm (3/4in) 19mm (3/4in) 19mm (3/4in)
+Max. refrigerant pipe lengthm 30 50 75 75 75
+Max. Piping Length ft 98.4 164 246 246 246
+Max. difference in level m 20 25 30 30 30
+Max. Height Difference ft 65.6 82 98.4 98.4 98.4
+Indoor Unit Net/Gross weightlb 105.82 / 126.76 105.60 / 127.43 129.41 / 153.88 162.92 / 190.92 162.92 / 190.92
+Indoor Unit Dimension 
+WxDxH inch 21.02 x 17.52 x 45.00 21.02 x 17.52 x 45.00 21.02 x 21.02 x 49.02 21.02 x 24.49 x 52.99 21.02 x 24.49 x 52.99
+Outdoor Unit Net/Gross 
+weight lb 101.41 / 109.13 102.29 / 109.13 204.15 / 235.23 201.06 / 232.36 242.95 / 275.13
+Outdoor Unit Dimension 
+WxDxH inch 35.04 x 13.46 x 26.50 35.04 x 13.46 x 26.50 38.58 x 16.34 x 38.39 38.58 x 16.34 x 38.39 37.48 x 16.34 x 52.48
+Indoor Model
+Outdoor Model
+Power Supply
+National 
+Certification
+Basic 
+Parameter 
+(NC)
+Size/Weight
+Hyper Heat Ducted Air Handlers
+
+
+12keenheatpump.com
+KEENHYZHP20AA KEENHYZHP27AA KEENHYZHP36AA KEENHYZHP49AA KEENHYZHP55AA
+Power Supply (Volts; Hz; Phase) V-Hz-Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph
+Voltage Range V 187 - 253 187 - 253 187 - 253 187 - 253 187 - 253
+Cooling Capacity Btu/h 19,000 27,000 36,000 47,000 51,000
+Cooling Input W 1,265 2,125 2,750 3,917 4,250
+Cooling Current A 5.6 9.5 12 17.3 18.5
+SEER2 Btu/h/W 25 23 23 23 22.2
+EER2 Btu/h/W 15 12.5 13 12 12
+Cooling Capacity Range Btu/h 5,400 ~ 28,000 7,200 ~ 37,000 9,000 ~ 43,000 12,000 ~ 57,000 19,000 ~ 59,000
+Cooling Input (range) W 400 ~ 2,250 500 ~ 3,620 600 ~ 4,000 800 ~ 5,400 1,200 ~ 5,400
+Cooling Current (range) A 3.5 ~ 10 4.0 ~ 16 5.2 ~ 17.8 7.0 ~ 24 10.5 ~ 24
+Heating Capacity Btu/h 20,000 27,000 36,000 49,000 55,000
+Heating Input W 1,465 2,082 2,638 3,881 4,605
+Heating Current A 6.5 9.1 11.5 17.3 20.1
+HSPF2-4 Btu/h/W 10.4 10.5 10.7 11 10.5
+HSPF2-5 Btu/h/W 8.5 8.5 8.5 9 8.5
+COP W/W 4 3.8 4 3.7 3.5
+Heating Capacity Range Btu/h 5,700 ~ 27,000 8,400 ~ 36,000 10,000 ~ 44,000 13,000 ~ 57,000 20,000 ~ 59,000
+Heating Input (range) W 350 ~ 2,300 500 ~ 3,400 600 ~ 3,750 800 ~ 5,200 1,200 ~ 5,200
+Heating Current (range) A 3 ~ 10 4 ~ 15 5.2 ~ 16.6 7 ~ 23 10.5 ~ 23
+Cooling Capacity at 109°F (43°C) Btu/h 19,600 32,000 39,000 43,000 45,000
+Cooling Capacity at 5°F (-15°C) Btu/h 30,000 36,000 47,500 60,000 74,000
+Heating Capacity at 17°F(-8.33°C) Btu/h 19,000 28,000 42,000 51,500 52,000
+Heating Capacity at 5°F (-15°C) Btu/h 19,000 27,000 36,000 47,000 47,000
+Heating Capacity at -4°F (-20°C) Btu/h 15,000 21,000 34,400 36,000 38,500
+Heating Capacity at -13°F (-25°C) Btu/h 12,000 17,000 28,000 30,000 32,000
+Heating Capacity at -22°F (-30°C) Btu/h 10,000 14,000 22,400 24,600 26,400
+Outdoor noise level (Hi) dB(A) 62 61 65 65 65
+N.A. Design pressure PSI 550 / 340 550 / 340 550 / 340 550 / 340 550 / 340
+Outdoor Refrigerant type R454B R454B R454B R454B R454B
+Outdoor Refrigerant charge ozs 78.31 120.63 134.04 151.68 151.68
+Outdoor Additional refrigerant per ft oz/ft 0.16 0.16 0.16 0.16 0.16
+Outdoor Throttle type EXV+Capillary EXV EXV EXV EXV
+Liquid side mm(inch) 3 x 6.35mm 
+(3 x 1/4in)
+4 x 6.35mm 
+(4 x 1/4in)
+5 x 6.35mm 
+(5 x 1/4in)
+6 x 6.35mm 
+(6 x 1/4in)
+6 x 6.35mm 
+(6 x 1/4in)
+Gas side mm(inch) 3 x 9.52mm (3 x 3/8in)
+3 x 9.52mm + 1 x 
+12.7mm (3 x 3/8in + 1 x 
+1/2in)
+3 x 9.52mm + 2 x 
+12.7mm (3 x 3/8in + 2 x 
+1/2in)
+4 x 9.52mm + 2 x 
+12.7mm (4 x 3/8in + 2 x 
+1/2in)
+4 x 9.52mm + 2 x 
+12.7mm (4 x 3/8in + 2 x 
+1/2in)
+Max. Length per each indoor unit m 30 35 35 35 35
+Max. Length per each indoor unit ft 98.4 114.8 114.8 114.8 114.8
+Total Maximum Piping Length per 
+system m 60 80 80 80 80
+Total Maximum Piping Length per 
+system ft 196.8 262.4 262.4 262.4 262.4
+Max. difference in level m 15 15 15 15 15
+Max. Height Difference ft 49.2 49.2 49.2 49.2 49.2
+Indoor Operating Temp. Range 
+(Cooling) °F 60 ~ 90 60 ~ 90 60 ~ 90 60 ~ 90 60 ~ 90
+Outdoor Operating Temp. Range 
+(Cooling) °F -22 ~ 122 -22 ~ 122 -22 ~ 122 -22 ~ 122 -22 ~ 122 
+Indoor Operating Temp. Range 
+(Heating) °F 32 - 86 32 - 86 32 - 86 32 - 86 32 - 86
+Outdoor Operating Temp. Range 
+(Heating) °F -22 ~ 75 -22 ~ 75 -22 ~ 75 -22 ~ 75 -22 ~ 75
+Outdoor Item Net/Gross weight lb 137.35 / 148.15 168.43 / 179.67 211.86 / 244.71 246.47 / 276.68 246.47 / 276.68
+Outdoor Unit Dimension WxDxH inch 37.24 x 16.14 x 31.89 37.24 x 16.14 x 31.89 38.58 x 16.34 x 38.39 37.48 x 16.34 x 52.48 37.48 x 16.34 x 52.48
+Outdoor Model
+Power 
+Supply 
+National 
+Certification
+Basic 
+Parameter 
+(NC)
+Size/Weight
+KEENULDAH18AA KEENULDAH24AA KEENULDAH36AA KEENULDAH48AA KEENULDAH60AA
+KEENHYDHP18AA KEENHYDHP24AA KEENULDHP36AA KEENHYDHP48AA KEENHYDHP60AA
+115/208/230V, 60Hz, 1Ph 115/208/230V, 60Hz, 1Ph 115/208/230V, 60Hz, 1Ph 115/208/230V, 60Hz, 1Ph 115/208/230V, 60Hz, 1Ph
+208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph 208/230V, 60Hz, 1Ph
+Cooling Capacity Btu/h 18,000 24,000 36,000 48,000 54,000
+Cooling Input W 1,440 2,150 3,000 4,266 4,851
+Cooling Current A 9.3 9.1 13.4 18 20.5
+SEER2 Btu/h/W 19 18.6 17.7 17.5 17.5
+EER2 Btu/h/W 12.5 12 12 12 12
+Cooling Capacity Range Btu/h 4,600 ~ 23,100 6,400 ~ 28,700 14,800 ~ 41,700 18,000 ~ 52,000 11,400 ~ 60,000
+Cooling Input (range) W 530 ~ 2,020 830 ~ 2,850 1180 ~ 3,930 1300 ~ 4,870 1540 ~ 6,720
+Cooling Current (range) A 4.1 ~ 8.9 3.7 ~ 12.5 5.5 ~ 17.4 6.1 ~ 21.6 7.2 ~ 29.7
+Heating Capacity Btu/h 18,000 24,000 36,000 48,000 55,000
+Heating Input W 1,465 2,150 2,930 4,521 5,015
+Heating Current A 9.4 9.1 13.3 18.9 21.5
+HSPF2-4 Btu/h/W 10.1 10 10 9.5 9.5
+HSPF2-5 Btu/h/W 8.5 8.1 8 7.7 7.7
+COP W/W 3.6 3.49 3.6 3.28 3.35
+Heating Capacity Range Btu/h 5,700 ~ 23,100 6,700 ~ 29,100 10,700 ~ 38,400 13,500 ~ 52,000 8,600 ~ 60,000
+Heating Input (range) W 410 ~ 1,900 405 ~ 2,450 645 ~ 3,110 925 ~ 3,880 775 ~ 5,720
+Heating Current (range) A 2.2 ~ 8.4 2.2 ~ 10.8 3.5 ~ 13.8 5.0 ~ 17.3 4.2 ~ 26.7 
+Cooling Capacity at 109°F (43°C) Btu/h 17,900 23,800 34,600 45,500 53,000
+Cooling Capacity at 5°F (-15°C) Btu/h 23,600 25,200 39,800 50,000 54,000
+Heating Capacity at 17°F (-8.33°C) Btu/h 19,500 22,800 33,000 48,000 54,000
+Heating Capacity at 5°F (-15°C) Btu/h 18,600 20,600 32,600 48,000 54,000
+Heating Capacity at -4°F (-20°C) Btu/h 16,400 17,800 27,600 39,500 49,500
+Heating Capacity at -13°F (-25°C) Btu/h 14,100 14,800 22,900 32,400 44,000
+Heating Capacity at -22° (-30°C) Btu/h 11,800 12,100 19,200 27,200 37,300
+Indoor air flow (Turbo/Hi/Mi/Lo/Si) m □/h 1,050 / 980 / 900 / 830 / 
+N/A
+1,400 / 1290 / 1180 / 1070 
+/ N/A
+2,100 / 1950 / 1800 / 1650 
+/ N/A
+2,720 / 2450 / 2150 / 1850 
+/ N/A
+3,060 / 2,800 / 2,550 / 
+2,100 / N/A
+Indoor air flow (Turbo/Hi/Mi/Lo/Si) CFM 618.0 / 576.8 / 529.7 / 
+488.5 / N/A
+824.0 / 759.3 / 694.5 / 
+629.8 / N/A
+1,236.1 / 1,147.8 / 1,059.5 / 
+971.2 / N/A
+1,601. / 1,442.1 / 1,265.5 / 
+1,088.9 / N/A
+1,801.1 / 1,648.1 / 1,500.9 / 
+1,236.1 / N/A
+Indoor noise level 
+(Turbo/Hi/Mi/Lo/Si) dB(A) N/A / 42.5 / 40.5 / 37 / 
+N/A N/A / 47.5 / 44 / 33 / N/A N/A / 49.5 / 48/ 31.5 / 
+N/A
+N/A / 53 / 49.5 / 33.5 / 
+N/A 60 / 57 / 54.5 / 37 / N/A
+Outdoor noise level (Hi) dB(A) 57 59 63 65 65
+Design pressure PSI 550 / 340 550 / 340 550 / 340 550 / 340 550 / 340
+Outdoor Refrigerant type R454B R454B R454B R454B R454B
+Outdoor Refrigerant charge oz 74.08 74.08 126.99 134.04 183.42
+Outdoor Additional charge oz/ft 0.7 0.7 0.7 0.7 0.7
+Outdoor Throttle type EXV EXV EXV EXV EXV
+Liquid side mm(inch) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in)
+Gas side mm(inch) 19mm (3/4in) 19mm (3/4in) 19mm (3/4in) 19mm (3/4in) 19mm (3/4in)
+Max. refrigerant pipe length m 50 50 65 75 75
+Max. Piping Length ft 164 164 213.2 246 246
+Max. difference in level m 25 25 30 30 30
+Max. Height Difference ft 82 82 98.4 98.4 98.4
+Indoor Operating Temp. Range 
+(Cooling) °F 60 ~ 90 60 ~ 90 60 ~ 90 60 ~ 90 60 ~ 90
+Outdoor Operating Temp. Range 
+(Cooling) °F -22 ~ 122 -22 ~ 122 -22 ~ 122 -22 ~ 122 -22 ~ 122
+Indoor Operating Temp. Range 
+(Heating) °F 32 - 86 32 - 86 32 - 86 32 - 86 32 - 86
+Outdoor Operating Temp. Range 
+(Heating) °F -22 ~ 75 -22 ~ 75 -22 ~ 75 -22 ~ 75 -22 ~ 75
+Indoor Net/Gross Weight lb 123.02 / 154.76 123.02 / 154.76 149.25 / 182.10 186.51 / 232.14 188.05 / 238.32
+Indoor Unit Dimension WxDxH inch 21 x 14 x 49 21 x 14 x 49 21 x 17 x 54 21 x 17 x 54 21 x 17 x 54
+Outdoor Net/Gross Weight lb 101.41 / 109.13 102.29 / 109.13 166.67 / 176.37 232.59 / 201.50 242.95 / 275.13
+Outdoor Unit Dimension WxDxH inch 35 x 13 x 26 35 x 13 x 26 37 x 16 x 31 38 x 16 x 38 37 x 16 x 52
+Basic 
+Parameter (NC)
+Size/Weight
+Outdoor Model
+Indoor Model
+IDU Power Supply (Volts; Hz; Phase)
+ODU Power Supply (Volts; Hz; Phase)
+Basic 
+Parameter
+National 
+Certification
+KEENHYDAH18AA KEENHYDAH24AA KEENHYDAH36AA KEENHYDAH48AA KEENHYDAH60AA
+KEENHYDHP18AA KEENHYDHP24AA KEENHYDHP36AA KEENHYDHP48AA KEENHYDHP60AA
+IDU Power Supply (Volts; 
+Hz; Phase) V-Hz-Ph 115 / 208 / 230V, 60Hz, 
+1Ph
+115 / 208 / 230V, 60Hz, 
+1Ph
+115 / 208 / 230V, 60Hz, 
+1Ph
+115 / 208 / 230V, 60Hz, 
+1Ph
+115 / 208 / 230V, 60Hz, 
+1Ph
+ODU Power Supply 
+(Volts; Hz; Phase) V 208 / 230V, 60Hz, 1Ph 208 / 230V, 60Hz, 1Ph 208 / 230V, 60Hz, 1Ph 208 / 230V, 60Hz, 1Ph 208 / 230V, 60Hz, 1Ph
+Cooling Capacity Btu/h 18,000 23,000 36,000 48,000 54,000
+Cooling Input W 1,445 1,965 3,076 4,690 5,400
+Cooling Current A 6.6 9 13.4 20 23.3
+SEER2 Btu/h/W 19 18.3 17.4 16.5 16
+EER2 Btu/h/W 12.5 11.7 11.7 10.5 10
+Cooling Capacity Range Btu/h 5,600 ~ 22,000 7,200 ~ 27,000 9,700 ~ 42,000 15,600 ~ 51,000 11,400 ~ 56,300
+Cooling Input (range) W 440 ~ 1,950 530 ~ 2,870 820 ~ 4,440 1,345 ~ 5,180 1,540 ~ 6,430
+Cooling Current (range) A 2 ~ 9.5 3.4 ~ 12.6 5.6 ~ 19.7 6.4 ~ 22.9 7.2 ~ 28.4
+Heating Capacity Btu/h 19,000 24,000 37,000 50,000 56,000
+Heating Input W 1,740 2,112 3,012 4,750 5,300
+Heating Current A 7.6 9.5 13.1 20.5 23.1
+HSPF2-4 Btu/h/W 9.7 10 10.2 9.5 9
+HSPF2-5 Btu/h/W 8 8 8.6 8 8
+COP W/W 3.2 3.33 3.6 3.4 3.1
+Heating Capacity Range Btu/h 6,000 ~ 22,000 7,100 ~ 30,000 11,000 ~ 48,000 15,500 ~ 57,300 8,100 ~ 64,500
+Heating Input (range) W 500 ~ 1,950 440 ~ 2,730 665 ~ 4,370 1,045 ~ 5,200 725 ~ 5,970
+Heating Current (range) A 3.2 ~ 9.5 2.40 ~ 12.0 3.6 ~ 19.4 5.7 ~ 23.1 4.0 ~ 30.6 
+Cooling Capacity at 
+109 °F (43°C) Btu/h 17,400 25,000 35,000 41,200 50,900
+Cooling Capacity at 
+5°F (-15°C) Btu/h 23,400 25,600 40,000 52,000 54,000
+Heating Capacity at 17°F 
+(-8.33°C) Btu/h 21,600 22,000 41,000 48,000 50,400
+Heating Capacity at 
+5°F (-15°C) Btu/h 18,000 21,600 39,000 46,000 52,000
+Heating Capacity at 
+-4°F (-20°C) Btu/h 16,600 17,300 36,000 40,700 46,700
+Heating Capacity at 
+-13°F (-25°C) Btu/h 14,000 14,400 30,800 34,200 41,600
+Heating Capacity at 
+-22°F (-30°C) Btu/h 11,000 12,000 27,800 25,900 30,900
+Indoor air flow 
+(Turbo/Hi/Mi/Lo/Si) m□ /h 1,050 / 980 / 900 / 830 / 
+N/A
+1,400 / 1290 / 1180 / 1070 
+/ N/A
+2,020 / 1840 / 1650 / 
+1470 / N/A
+2,720 / 2,500 / 2,180 / 
+1,860 / N/A
+3,070 / 2,690 / 2,310 / 
+1,930 / N/A
+Indoor air flow 
+(Turbo/Hi/Mi/Lo/Si) CFM 618.0 / 576.8 / 529.7 / 
+488.5 / N/A
+824.0 / 759.3 / 694.5 / 
+629.8 / N/A
+1,189.0 / 1,083.0 / 971.2 / 
+865.2 / N/A
+1,601.0 / 1,471.5 / 1,283.1 
+/ 1,094.8 / N/A
+1,807.0 / 1,583.3 / 1,359.7 
+/ 1,136.0 / N/A
+Indoor noise level 
+(Turbo/Hi/Mi/Lo/Si) dB(A) N/A / 41 / 39 / 33 / 
+N/A N/A / 44 / 42 / 28 / N/A 49 / 48.0 / 45.5 / 25.5 / 
+N/A N/A / 52 / 50 / 34 / N/A 54.5 / 52 / 49.5 / 34.5 / 
+N/A
+Outdoor noise level (Hi) dB(A) 59 60 62.5 65 65
+N.A. Design pressure PSI 550 / 340 550 / 340 550 / 340 550 / 340 550 / 340
+Outdoor Refrigerant type R454B R454B R454B R454B R454B
+Liquid side mm (inch) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in)
+Gas side mm (inch) 19mm (3/4in) 19mm (3/4in) 19mm (3/4in) 19mm (3/4in) 19mm (3/4in)
+Max. refrigerant pipe lengthm 30 50 75 75 75
+Max. Piping Length ft 98.4 164 246 246 246
+Max. difference in level m 20 25 30 30 30
+Max. Height Difference ft 65.6 82 98.4 98.4 98.4
+Indoor Unit Net/Gross weightlb 105.82 / 126.76 105.60 / 127.43 129.41 / 153.88 162.92 / 190.92 162.92 / 190.92
+Indoor Unit Dimension 
+WxDxH inch 21.02 x 17.52 x 45.00 21.02 x 17.52 x 45.00 21.02 x 21.02 x 49.02 21.02 x 24.49 x 52.99 21.02 x 24.49 x 52.99
+Outdoor Unit Net/Gross 
+weight lb 101.41 / 109.13 102.29 / 109.13 204.15 / 235.23 201.06 / 232.36 242.95 / 275.13
+Outdoor Unit Dimension 
+WxDxH inch 35.04 x 13.46 x 26.50 35.04 x 13.46 x 26.50 38.58 x 16.34 x 38.39 38.58 x 16.34 x 38.39 37.48 x 16.34 x 52.48
+Indoor Model
+Outdoor Model
+Power Supply
+National 
+Certification
+Basic 
+Parameter 
+(NC)
+Size/Weight
+KEENSTPAH18AA KEENSTPAH24AA KEENSTPAH36AA
+KEENHYDHP18AA KEENHYDHP24AA KEENHYDHP36AA
+IDU Power Supply (Volts; Hz; 
+Phase) V-Hz-Ph 115/208/230, 60Hz, 1Ph 115/208/230, 60Hz, 1Ph 115/208/230, 60Hz, 1Ph
+ODU Power Supply (Volts; Hz; 
+Phase) V 208/230, 60Hz, 1Ph 208/230, 60Hz, 1Ph 208/230, 60Hz, 1Ph
+Cooling Capacity Btu/h 18,000 24,000 36,000
+Cooling Input W 2 2,222 3,529
+Cooling Current A 10 9.8 15.3
+SEER2 Btu/h/W 16.8 17.5 15.4
+EER2 Btu/h/W 12 10.8 10.2
+Cooling Capacity Range Btu/h 6,000 ~ 20,000 7,400 ~ 27,000 11,100 ~ 40,000
+Cooling Input (range) W 600 ~ 2,000 700 ~ 2,900 800 ~ 4,350
+Cooling Current (range) A 2.5 ~ 10.5 4.5 ~ 13 5.7 ~ 19.4
+Heating Capacity Btu/h 19,000 26,000 37,000
+Heating Input W 1,590 2,209 3,286
+Heating Current A 10.2 9.8 14.3
+HSPF2-4 Btu/h/W 10.5 9.2 9.8
+HSPF2-5 Btu/h/W 8.5 7.5 8
+COP W/W 3.5 3.45 3.3
+Heating Capacity Range Btu/h 6,600 ~ 22,800 9,200 ~ 32,200 10,700 ~ 45,000
+Heating Input (range) W 500 ~ 1,950 600 ~ 2,750 750 ~ 4,460
+Heating Current (range) A 2.8 ~ 10.5 3 ~ 12 4.1 ~ 19.8 
+Cooling Capacity at 109°F 
+(43°C) Btu/h 17,500 23,600 34,200
+Cooling Capacity at 5°F
+(-15°C) Btu/h 20,800 24,600 39,000
+Heating Capacity at 17°F
+(-8.33°C) Btu/h 23,000 23,000 38,000
+Heating Capacity at 5°F 
+(-15°C) Btu/h 19,000 20,000 36,000
+Heating Capacity at -4°F 
+(-20°C) Btu/h 19,100 15,600 36,000
+Heating Capacity at -13°F 
+(-25°C) Btu/h 16,000 15,000 30,000
+Heating Capacity at -22°F 
+(-30°C) Btu/h 9,600 11,500 27,000
+Indoor air flow 
+(Turbo/Hi/Mi/Lo/Si) m□/h 1,020 / 960 / 900 / 830 / 
+830
+1,400 / 1,290 / 1,100 / 
+1,070 / 1,070
+2,020 / 1,840 / 1,650 / 
+1,470 / 1,470
+Indoor air flow 
+(Turbo/Hi/Mi/Lo/Si) CFM 600 / 565 / 530 / 489 / 
+489
+824 / 759 / 647 / 630 / 
+630
+1,189 / 1,083 / 971 / 865 / 
+865
+Indoor noise level 
+(Turbo/Hi/Mi/Lo/Si) dB(A) 55.5 / 55.5 / 52.5 / 50.5 / 
+50.5
+56.5 / 56.5 / 53.5 / 51.5 / 
+51.5 59.5 / 59.5 / 57 / 48 / 48
+Outdoor noise level (Hi) dB(A) 59 59 65
+N.A. Design pressure PSI 550 / 340 550 / 340 550 / 340
+Outdoor Refrigerant type R454B R454B R454B
+Outdoor Refrigerant charge oz 74.08 74.08 126.99
+Outdoor Additional charge per 
+feet oz/ft 0.7 0.7 0.7
+Outdoor Throttle type EXV EXV EXV
+Liquid side mm(inch) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in)
+Gas side mm(inch) 19mm (3/4in) 19mm (3/4in) 19mm (3/4in)
+Max. refrigerant pipe length m 30 50 75
+Max. Piping Length ft 98 164 246
+Max. difference in level m 20 25 30
+Max. Height Difference ft 66 82 98
+Indoor Unit Net/Gross weight lb 118 / 127.87 127.87 / 138.89 143.3 / 156.75
+Indoor Unit Dimension WxDxH inch 43.23 x 23.33 x 10.93 49.13 x 23.33 x 10.93 62.13 x 23.33 x 10.93
+Outdoor Unit Net/Gross weight lb 101.41 / 109.13 101.41 / 109.13 204.15 / 235.23
+Outdoor Unit Dimension WxDxH inch 35.04 x 13.46 x 26.5 35.04 x 13.46 x 26.5 38.58 x 16.34 x 38.39
+Size/Weight
+Indoor Model
+Outdoor Model
+Power 
+Supply
+National 
+Certification
+Basic 
+Parameter 
+(NC)
+Pancake Coil Ducted Units
+
+
+13 KEEN Heat Pump
+KEENHYDAH18AA KEENHYDAH24AA KEENHYDAH36AA KEENHYDAH48AA KEENHYDAH60AA
+KEENHYDHP18AA KEENHYDHP24AA KEENHYDHP36AA KEENHYDHP48AA KEENHYDHP60AA
+IDU Power Supply (Volts; 
+Hz; Phase) V-Hz-Ph 115 / 208 / 230V, 60Hz, 
+1Ph
+115 / 208 / 230V, 60Hz, 
+1Ph
+115 / 208 / 230V, 60Hz, 
+1Ph
+115 / 208 / 230V, 60Hz, 
+1Ph
+115 / 208 / 230V, 60Hz, 
+1Ph
+ODU Power Supply 
+(Volts; Hz; Phase) V 208 / 230V, 60Hz, 1Ph 208 / 230V, 60Hz, 1Ph 208 / 230V, 60Hz, 1Ph 208 / 230V, 60Hz, 1Ph 208 / 230V, 60Hz, 1Ph
+Cooling Capacity Btu/h 18,000 23,000 36,000 48,000 54,000
+Cooling Input W 1,445 1,965 3,076 4,690 5,400
+Cooling Current A 6.6 9 13.4 20 23.3
+SEER2 Btu/h/W 19 18.3 17.4 16.5 16
+EER2 Btu/h/W 12.5 11.7 11.7 10.5 10
+Cooling Capacity Range Btu/h 5,600 ~ 22,000 7,200 ~ 27,000 9,700 ~ 42,000 15,600 ~ 51,000 11,400 ~ 56,300
+Cooling Input (range) W 440 ~ 1,950 530 ~ 2,870 820 ~ 4,440 1,345 ~ 5,180 1,540 ~ 6,430
+Cooling Current (range) A 2 ~ 9.5 3.4 ~ 12.6 5.6 ~ 19.7 6.4 ~ 22.9 7.2 ~ 28.4
+Heating Capacity Btu/h 19,000 24,000 37,000 50,000 56,000
+Heating Input W 1,740 2,112 3,012 4,750 5,300
+Heating Current A 7.6 9.5 13.1 20.5 23.1
+HSPF2-4 Btu/h/W 9.7 10 10.2 9.5 9
+HSPF2-5 Btu/h/W 8 8 8.6 8 8
+COP W/W 3.2 3.33 3.6 3.4 3.1
+Heating Capacity Range Btu/h 6,000 ~ 22,000 7,100 ~ 30,000 11,000 ~ 48,000 15,500 ~ 57,300 8,100 ~ 64,500
+Heating Input (range) W 500 ~ 1,950 440 ~ 2,730 665 ~ 4,370 1,045 ~ 5,200 725 ~ 5,970
+Heating Current (range) A 3.2 ~ 9.5 2.40 ~ 12.0 3.6 ~ 19.4 5.7 ~ 23.1 4.0 ~ 30.6 
+Cooling Capacity at 
+109 °F (43°C) Btu/h 17,400 25,000 35,000 41,200 50,900
+Cooling Capacity at 
+5°F (-15°C) Btu/h 23,400 25,600 40,000 52,000 54,000
+Heating Capacity at 17°F 
+(-8.33°C) Btu/h 21,600 22,000 41,000 48,000 50,400
+Heating Capacity at 
+5°F (-15°C) Btu/h 18,000 21,600 39,000 46,000 52,000
+Heating Capacity at 
+-4°F (-20°C) Btu/h 16,600 17,300 36,000 40,700 46,700
+Heating Capacity at 
+-13°F (-25°C) Btu/h 14,000 14,400 30,800 34,200 41,600
+Heating Capacity at 
+-22°F (-30°C) Btu/h 11,000 12,000 27,800 25,900 30,900
+Indoor air flow 
+(Turbo/Hi/Mi/Lo/Si) m□ /h 1,050 / 980 / 900 / 830 / 
+N/A
+1,400 / 1290 / 1180 / 1070 
+/ N/A
+2,020 / 1840 / 1650 / 
+1470 / N/A
+2,720 / 2,500 / 2,180 / 
+1,860 / N/A
+3,070 / 2,690 / 2,310 / 
+1,930 / N/A
+Indoor air flow 
+(Turbo/Hi/Mi/Lo/Si) CFM 618.0 / 576.8 / 529.7 / 
+488.5 / N/A
+824.0 / 759.3 / 694.5 / 
+629.8 / N/A
+1,189.0 / 1,083.0 / 971.2 / 
+865.2 / N/A
+1,601.0 / 1,471.5 / 1,283.1 
+/ 1,094.8 / N/A
+1,807.0 / 1,583.3 / 1,359.7 
+/ 1,136.0 / N/A
+Indoor noise level 
+(Turbo/Hi/Mi/Lo/Si) dB(A) N/A / 41 / 39 / 33 / 
+N/A N/A / 44 / 42 / 28 / N/A 49 / 48.0 / 45.5 / 25.5 / 
+N/A N/A / 52 / 50 / 34 / N/A 54.5 / 52 / 49.5 / 34.5 / 
+N/A
+Outdoor noise level (Hi) dB(A) 59 60 62.5 65 65
+N.A. Design pressure PSI 550 / 340 550 / 340 550 / 340 550 / 340 550 / 340
+Outdoor Refrigerant type R454B R454B R454B R454B R454B
+Liquid side mm (inch) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in)
+Gas side mm (inch) 19mm (3/4in) 19mm (3/4in) 19mm (3/4in) 19mm (3/4in) 19mm (3/4in)
+Max. refrigerant pipe lengthm 30 50 75 75 75
+Max. Piping Length ft 98.4 164 246 246 246
+Max. difference in level m 20 25 30 30 30
+Max. Height Difference ft 65.6 82 98.4 98.4 98.4
+Indoor Unit Net/Gross weightlb 105.82 / 126.76 105.60 / 127.43 129.41 / 153.88 162.92 / 190.92 162.92 / 190.92
+Indoor Unit Dimension 
+WxDxH inch 21.02 x 17.52 x 45.00 21.02 x 17.52 x 45.00 21.02 x 21.02 x 49.02 21.02 x 24.49 x 52.99 21.02 x 24.49 x 52.99
+Outdoor Unit Net/Gross 
+weight lb 101.41 / 109.13 102.29 / 109.13 204.15 / 235.23 201.06 / 232.36 242.95 / 275.13
+Outdoor Unit Dimension 
+WxDxH inch 35.04 x 13.46 x 26.50 35.04 x 13.46 x 26.50 38.58 x 16.34 x 38.39 38.58 x 16.34 x 38.39 37.48 x 16.34 x 52.48
+Indoor Model
+Outdoor Model
+Power Supply
+National 
+Certification
+Basic 
+Parameter 
+(NC)
+Size/Weight
+KEEN Eﬀiciency Matchup
+SEER2
+Model # /gid00012/gid00006/gid00006/gid00015/gid00009/gid00026/gid00014/gid00009/gid00017/gid01087/gid01093/gid00002/gid00002 /gid00012/gid00022/gid00020/gid00002/gid00013/gid01087/gid01096/gid01088/gid00002
+/gid00019/gid01091/gid01092/gid01091/gid00003 /gid00019/gid01091/gid01092/gid01091/gid00003 /gid00019/gid01090/gid01089
+/gid00014/gid00022/gid00027/gid01162/gid00007/gid00025/gid01087/gid01093/gid00015/gid00013/gid00009/gid00027
+/gid01090/gid01092 /gid01089/gid01094/gid01090/gid01092
+/gid01090/gid01087 /gid01088/gid01090/gid01141/gid01092/gid01088/gid01090
+/gid01088/gid01090/gid01142/gid01092/gid01087/gid01087 /gid01088/gid01089/gid01142/gid01087/gid01087/gid01087/gid00001/gid01088/gid01089/gid01142/gid01093/gid01087/gid01087
+/gid01096/gid01142/gid01087/gid01087/gid01087 /gid01088/gid01088/gid01142/gid01087/gid01087/gid01087/gid01096/gid01142/gid01087/gid01087/gid01087
+/gid01095/gid01089/gid00001/gid00517 /gid01093/gid01092/gid00001/gid00517/gid01093/gid01092/gid00001/gid00517
+/gid00017/gid00002/gid00019/gid00021/gid00020/gid00001/gid01181/gid00001/gid00004/gid00016/gid00014/gid00017/gid00019/gid00006/gid00020/gid00020/gid00016/gid00019/gid00001
+/gid01748/gid00001/gid00013/gid00002/gid00003/gid00016/gid00019
+/gid01088/gid01087/gid00001/gid00026/gid00032/gid00028/gid00045/gid00046 /gid01092/gid01181/gid01094/gid00001/gid00026/gid00032/gid00028/gid00045/gid00046
+/gid00017/gid00002/gid00019/gid00021/gid00020/gid00001/gid01181/gid00001/gid00004/gid00016/gid00014/gid00017/gid00019/gid00006/gid00020/gid00020/gid00016/gid00019 /gid00017/gid00002/gid00019/gid00021/gid00020/gid00001/gid01181/gid00001/gid00004/gid00016/gid00014/gid00017/gid00019/gid00006/gid00020/gid00020/gid00016/gid00019
+/gid01092/gid01181/gid01094/gid00001/gid00026/gid00032/gid00028/gid00045/gid00046
+/gid01162/gid01090/gid01087/gid01700/gid00007 /gid01162/gid01090/gid01088/gid01700/gid00007/gid01162/gid01089/gid01089/gid01700/gid00007
+HSPF2
+Refrigerant
+Rated BTU Output 
+@ 5°F
+Rated BTU Output 
+@ 47°F
+Region IV
+Max Lineset 
+Distance
+Warranty
+Standard
+Minimum Continuous 
+Operating Temperature
+Mitsubishi LG
+
+
+14keenheatpump.com
+KEENHYDAH18AA KEENHYDAH24AA KEENHYDAH36AA KEENHYDAH48AA KEENHYDAH60AA
+KEENHYDHP18AA KEENHYDHP24AA KEENHYDHP36AA KEENHYDHP48AA KEENHYDHP60AA
+IDU Power Supply (Volts; 
+Hz; Phase) V-Hz-Ph 115 / 208 / 230V, 60Hz, 
+1Ph
+115 / 208 / 230V, 60Hz, 
+1Ph
+115 / 208 / 230V, 60Hz, 
+1Ph
+115 / 208 / 230V, 60Hz, 
+1Ph
+115 / 208 / 230V, 60Hz, 
+1Ph
+ODU Power Supply 
+(Volts; Hz; Phase) V 208 / 230V, 60Hz, 1Ph 208 / 230V, 60Hz, 1Ph 208 / 230V, 60Hz, 1Ph 208 / 230V, 60Hz, 1Ph 208 / 230V, 60Hz, 1Ph
+Cooling Capacity Btu/h 18,000 23,000 36,000 48,000 54,000
+Cooling Input W 1,445 1,965 3,076 4,690 5,400
+Cooling Current A 6.6 9 13.4 20 23.3
+SEER2 Btu/h/W 19 18.3 17.4 16.5 16
+EER2 Btu/h/W 12.5 11.7 11.7 10.5 10
+Cooling Capacity Range Btu/h 5,600 ~ 22,000 7,200 ~ 27,000 9,700 ~ 42,000 15,600 ~ 51,000 11,400 ~ 56,300
+Cooling Input (range) W 440 ~ 1,950 530 ~ 2,870 820 ~ 4,440 1,345 ~ 5,180 1,540 ~ 6,430
+Cooling Current (range) A 2 ~ 9.5 3.4 ~ 12.6 5.6 ~ 19.7 6.4 ~ 22.9 7.2 ~ 28.4
+Heating Capacity Btu/h 19,000 24,000 37,000 50,000 56,000
+Heating Input W 1,740 2,112 3,012 4,750 5,300
+Heating Current A 7.6 9.5 13.1 20.5 23.1
+HSPF2-4 Btu/h/W 9.7 10 10.2 9.5 9
+HSPF2-5 Btu/h/W 8 8 8.6 8 8
+COP W/W 3.2 3.33 3.6 3.4 3.1
+Heating Capacity Range Btu/h 6,000 ~ 22,000 7,100 ~ 30,000 11,000 ~ 48,000 15,500 ~ 57,300 8,100 ~ 64,500
+Heating Input (range) W 500 ~ 1,950 440 ~ 2,730 665 ~ 4,370 1,045 ~ 5,200 725 ~ 5,970
+Heating Current (range) A 3.2 ~ 9.5 2.40 ~ 12.0 3.6 ~ 19.4 5.7 ~ 23.1 4.0 ~ 30.6 
+Cooling Capacity at 
+109 °F (43°C) Btu/h 17,400 25,000 35,000 41,200 50,900
+Cooling Capacity at 
+5°F (-15°C) Btu/h 23,400 25,600 40,000 52,000 54,000
+Heating Capacity at 17°F 
+(-8.33°C) Btu/h 21,600 22,000 41,000 48,000 50,400
+Heating Capacity at 
+5°F (-15°C) Btu/h 18,000 21,600 39,000 46,000 52,000
+Heating Capacity at 
+-4°F (-20°C) Btu/h 16,600 17,300 36,000 40,700 46,700
+Heating Capacity at 
+-13°F (-25°C) Btu/h 14,000 14,400 30,800 34,200 41,600
+Heating Capacity at 
+-22°F (-30°C) Btu/h 11,000 12,000 27,800 25,900 30,900
+Indoor air flow 
+(Turbo/Hi/Mi/Lo/Si) m□ /h 1,050 / 980 / 900 / 830 / 
+N/A
+1,400 / 1290 / 1180 / 1070 
+/ N/A
+2,020 / 1840 / 1650 / 
+1470 / N/A
+2,720 / 2,500 / 2,180 / 
+1,860 / N/A
+3,070 / 2,690 / 2,310 / 
+1,930 / N/A
+Indoor air flow 
+(Turbo/Hi/Mi/Lo/Si) CFM 618.0 / 576.8 / 529.7 / 
+488.5 / N/A
+824.0 / 759.3 / 694.5 / 
+629.8 / N/A
+1,189.0 / 1,083.0 / 971.2 / 
+865.2 / N/A
+1,601.0 / 1,471.5 / 1,283.1 
+/ 1,094.8 / N/A
+1,807.0 / 1,583.3 / 1,359.7 
+/ 1,136.0 / N/A
+Indoor noise level 
+(Turbo/Hi/Mi/Lo/Si) dB(A) N/A / 41 / 39 / 33 / 
+N/A N/A / 44 / 42 / 28 / N/A 49 / 48.0 / 45.5 / 25.5 / 
+N/A N/A / 52 / 50 / 34 / N/A 54.5 / 52 / 49.5 / 34.5 / 
+N/A
+Outdoor noise level (Hi) dB(A) 59 60 62.5 65 65
+N.A. Design pressure PSI 550 / 340 550 / 340 550 / 340 550 / 340 550 / 340
+Outdoor Refrigerant type R454B R454B R454B R454B R454B
+Liquid side mm (inch) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in) 9.52mm (3/8in)
+Gas side mm (inch) 19mm (3/4in) 19mm (3/4in) 19mm (3/4in) 19mm (3/4in) 19mm (3/4in)
+Max. refrigerant pipe lengthm 30 50 75 75 75
+Max. Piping Length ft 98.4 164 246 246 246
+Max. difference in level m 20 25 30 30 30
+Max. Height Difference ft 65.6 82 98.4 98.4 98.4
+Indoor Unit Net/Gross weightlb 105.82 / 126.76 105.60 / 127.43 129.41 / 153.88 162.92 / 190.92 162.92 / 190.92
+Indoor Unit Dimension 
+WxDxH inch 21.02 x 17.52 x 45.00 21.02 x 17.52 x 45.00 21.02 x 21.02 x 49.02 21.02 x 24.49 x 52.99 21.02 x 24.49 x 52.99
+Outdoor Unit Net/Gross 
+weight lb 101.41 / 109.13 102.29 / 109.13 204.15 / 235.23 201.06 / 232.36 242.95 / 275.13
+Outdoor Unit Dimension 
+WxDxH inch 35.04 x 13.46 x 26.50 35.04 x 13.46 x 26.50 38.58 x 16.34 x 38.39 38.58 x 16.34 x 38.39 37.48 x 16.34 x 52.48
+Indoor Model
+Outdoor Model
+Power Supply
+National 
+Certification
+Basic 
+Parameter 
+(NC)
+Size/Weight
+Unmatched Heating Eﬀiciency
+Every KEEN Heat Pump is tested and certified under the U.S. Federal Trade Commission 
+and Department of Energy’s EnergyGuide labeling program. This trusted label helps 
+homeowners compare the energy eﬀiciency of diﬀerent appliances. 
+The KEEN Heat Pump sticker above shows an incredible heating eﬀiciency 
+rating (HSPF2) of 29 - 30. This means that the KEEN Single-Zone Heat Pump is 
+twice as eﬀicient compared to EnergyGuide’s current Most Eﬀicient models, rated 
+at HSPF2 of 14.6. 
+Oﬀicial Federal Program
+Issued under the U.S. Department of 
+Energy to help consumers compare 
+appliance eﬀiciency.
+Standardized Testing
+All data comes from laboratory tests 
+conducted according to DOE and AHRI 
+(Air-Conditioning, Heating, and 
+Refrigeration Institute) standards.
+EnergyGuide sticker for KEEN Single Zone System
+EnergyGuide Certification
+
+
+Contact
+KeenHeatPump.com
+Support@KeenHeatPump.com
+2 Mount Royal Avenue, 
+Suite 550 Marlborough
+Massachusetts 01752. United States
+
+--------------------------------------------------------------------------------
+
+URL: https://www.connectm.com/insights/2024-a-year-of-growth-and-momentum/
+
+Building the Future of Clean Energy
+At ConnectM, we believe that everyone deserves access to clean, reliable, and affordable energy. Since our founding in 2019, our mission has been to electrify homes, businesses, and transportation to reduce energy costs, improve the quality of life and combat climate change.
+In July 2024, we took a significant step forward by becoming a public company, marking a new chapter in our growth. The 8 months have reinforced our belief that the transition to an electrified energy economy is not only necessary but inevitable—and we are committed to leading this transformation.
+ConnectM is enabling a faster, smarter transition to an all-electric future through its AI-driven energy intelligence platform. The company integrates electrified energy assets with proprietary technology solutions, enabling residential, commercial, and transportation customers to efficiently transition from fossil fuels to renewable energy sources. With 120,000+ connected assets and growing, ConnectM is uniquely positioned in the rapidly expanding $2 trillion electrification market.
+2024 Highlights: Scaling Innovation and Impact
+Beginning our journey as a public company, we focused on scaling our solutions, strengthening our financial position, and expanding our market presence. Some of our key achievements include:
+Sustainable Revenue Growth
+- Continued our history of quarterly revenue growth, demonstrating the robustness of our business model.
+- Projected a $45M revenue run rate, with cash-flow breakeven expected in early 2025.
+- Created scalable revenue streams through product sales, software subscriptions, and managed energy services.
+Strategic Acquisitions and Expansion
+- Acquired MHz Invensys, a leader in wireless communication for smart metering, adding $15M in projected revenue by 2027.
+- Strengthened our building electrification and last-mile logistics business through the acquisitions of DeliveryCircle and Green Energy Gains.
+- Developed a pipeline of high-growth acquisition opportunities to further growour enterprise value.
+Financial Strength and Institutional Support
+- Eliminated $31M in debt via equity conversion, de-risking our balance sheet.
+- Secured $25M in strategic financing to support expansion and technology development.
+- Looking Ahead: The Future of Electrification
+As the world accelerates its shift toward decarbonization and electrification, ConnectM is well-positioned to enter its next phase of growth. Our strategy for 2025 and beyond includes:
+- Scaling our Energy Intelligence Network (EIN) by expanding our AI-driven platform to integrate more renewable energy assets and optimize energy management.
+- Supporting our portfolio companies in their efforts to expand their AI-powered electrification solutions.
+- Increasing enterprise value through strategic acquisitions by continuing to invest in synergistic growth opportunities that strengthen our competitive position.
+- Maintaining financial discipline by balancing steady expansion with smart capital allocation to drive long-term shareholder value.
+A Commitment to a Cleaner Future
+Our first 8 months as a public company have been a milestone in our journey, but we are just getting started. We remain committed to delivering high ROI, scalable, and high-impact energy solutions that support the global transition to clean and electrified systems.
+To our customers, employees, and shareholders — thank you for your trust and support. Together, we are shaping the future of energy.
+
+--------------------------------------------------------------------------------
+
+URL: https://info@connectm.com/technology/heat-pump/
+
+Intelligent Heat Pump System
+Efficient Home Heating and Cooling with Advanced Technology
+Our AI-driven heat pump system is designed to optimize home heating and cooling, reducing energy costs and carbon footprint. Integrated with our Energy Intelligence Network, this innovative system leverages IoT technology and AI engine to ensure peak performance and efficiency.
+Key Features
+AI-Driven Efficiency
+Predictive maintenance and real-time monitoring for optimal performance.
+Harsh Climate Performance
+Engineered to withstand various weather conditions for consistent results.
+Energy Efficiency
+High-efficiency design reduces heating and cooling costs, with the option to utilize renewable energy from solar panels.
+Quiet Operation
+Designed for reduced noise levels, ensuring a comfortable indoor atmosphere.
+Efficiency Without Complexity
+Advanced technology made accessible and easy to use.
+Comprehensive Warranty
+Backed by a 10-year parts and labor warranty.
+Why Choose Our Intelligent Heat Pump System?
+Reduce energy consumption and utility bills.
+Lower your carbon footprint and contribute to a more sustainable future.
+Enjoy a comfortable and quiet indoor atmosphere.
+Benefit from advanced technology without the complexity.
+
+--------------------------------------------------------------------------------

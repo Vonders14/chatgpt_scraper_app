@@ -1,0 +1,1282 @@
+ROOT: https://solaranalytics.com/
+SCRAPED_AT_UTC: 2026-02-11T20:32:02.235779Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://solaranalytics.com/
+
+Discover how much rooftop solar, a battery or hot water heat pump can save you
+Free, independent and personalised report on which Smart Energy option will save you the most
+Already have solar and want to increase your savings? See how much extra you can save with our free 30 day trial
+Get more solar savingsTake the guesswork out of managing your solar. Find your best electricity plan, make sure your system is performing as it should, and know when to add a battery
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/about-us
+
+Our mission is to power the world with rooftop solar.
+We are an Australian company founded in 2013 by passionate solar experts, and are now Australia’s leading solar software company.
+Our team of dedicated professionals is made up of solar industry pioneers, Photovoltaic Engineers, PhDs, MBAs, Software Developers, Data Scientists, Designers, Solar Technicians and more. Together we can have more than 100 years of solar experience.
+We also celebrate the diversity of our staff by representing over 15 different countries!
+We are committed to meeting the highest standards of company performance, public transparency, and legal accountability to balance profit and purpose. Our mission is to cover the rooftops of the world with solar to provide everyone with energy control and freedom.
+Solar Analytics has won numerous awards including Best For The World for Environment category; Smart Cities for Best Residential Innovation; Clean Energy Council for Outstanding Contribution to the Industry; Green Globe Awards finalist for Innovation; and Australian Growth Company Awards for Sustainability and Cleantech.
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/what-it-does
+
+Looking to reduce your electricity bill even more with your solar? Our Plan Optimiser tool takes the guesswork out of finding the right solar energy plan based on your actual home energy usage data.
+Try the free version nowWatch your solar savings grow with the most accurate savings calculations and track your payback.
+Understand when you produce and use energy so you can shift your electricity usage and make the most of your solar
+Make sure your solar is performing at 100%, and if it's not, our solar performance management tool will let you know.
+Know when it's the right time to invest in a battery and which size is right for you
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/how-it-works
+
+• You have a single phase inverter
+• You have a load that you want to control or if you have an inverter that needs export limiting (but not necessary)
+• A Subscription free option
+• You have WiFi connectivity
+Key features:
+- 5 minute data
+- Dynamic control (all inverters, batteries and EV chargers)
+- Dynamic flexible exports
+Cost:
+Free with your CATCH Control device
+• You have a Fronius, Sungrow, GoodWe, GE Solar or LG inverter
+• A consumption meter is recommended for live data
+• Or day-behind data may be an option with Integrated+
+• You have WiFi or ethernet connectivity
+Key features:
+- 5 minute data
+- Dynamic control (hybrid inverters and batteries)
+Cost:
+Subscription starts from $6/month
+• You have any inverter type or AC load
+• You have specific site requirements
+• You need 4G connectivity
+Key features:
+- Real-time 5 second data
+- Additional sub-circuit monitoring
+Cost:
+Subscription starts from $8/month
+Wattwatchers smart monitoring device quoted separately by your retailer
+Having a consumption meter means you can keep an eye on how much power you’re using (and when), and take advantage of load shifting i.e. using energy-hungry appliances when you’re producing your solar. Tracking your consumption patterns will also make it easier for you to decide when to invest in a battery
+If you need to see live consumption data, a consumption meter (or CATCH Control/Wattwatchers hardware) may be your best option. If day-behind consumption data is okay, you may be able to access it via Integrated+. Find out more.
+Note: Our CATCH Control and Wattwatcher integrated Classic solutions already collect consumption data via the connected hardware.
+Solar Analytics’ subscription pricing can be found on our website here. You will need to know:
+- Your preferred payment plan (monthly, yearly, 5 or 10 years)
+If you choose the CATCH Control integrated solution, your Solar Analytics subscription will be free.
+If your system uses a Sungrow, Fronius, GoodWe, GE Solar or LG inverter, you can trial Solar Analytics Integrated free for 30 days by signing up here. Note that your system needs to be equipped with a consumption meter to be able to access the full Solar Analytics experience. For any other system brands or set-ups, it is best to talk to a solar retailer who will be able to cater to your specific system requirements.
+Without energy consumption tracking, your Solar Analytics experience will be limited to performance monitoring only. You won’t be able to understand how to optimise your big energy loads, check your electricity bills or find a plan better suited to your needs. That’s why we strongly advise you to check your consumption status before activating Solar Analytics. If your consumption information is missing, consider adding a consumption meter to your system or installing the CATCH Control or Wattwatchers hardware.
+Alternatively, if you live in Australia (ex-NT and WA) and have a Fronius, Sungrow, GoodWe, GE Solar or LG inverter, you may be able to get consumption data directly from your energy retailer with Integrated+.
+Solar Analytics Integrated currently connects to Sungrow, Fronius, GoodWe, GE Solar and LG inverters. For any other inverter brand, you can choose to install the Wattwatchers smart monitoring device to access Solar Analytics via our CATCH Control or Wattwatcher integrated solutions, or keep an eye on our future releases. We are expecting to expand our compatible range of inverters and API connections over the coming months and will share new updates soon!
+Both of these require hardware installation, which needs to be done by a qualified electrician, and ideally by an experienced solar installer. Even if you have the technical know-how, working in a switchboard has an elevated level of risk, and should only be done by a qualified electrician. They will know the correct model unit number for your home and the safest way to manage the installation.
+Any qualified electrician can install the CATCH Control or Wattwatchers hardware, however we always recommend that you work with an accredited solar retailer for all your solar installation and maintenance needs, who will have the right expertise to ensure that you get the best service.
+If your solar retailer hasn't heard of Solar Analytics, ask them to get in touch with our sales team for more information. We'll be happy to talk to them.
+Solar Quotes and Solar Choice are two great Australian businesses who qualify solar retailers as reputable businesses.
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/subscription-prices
+
+All prices above are RRP per device in AUD, including GST, and apply only to Australia. Ask your solar retailer about our discounted
+two-for-one subscription offer for sites requiring more than one device. See our Terms and Conditions for details.
+All prices above are RRP per device in AUD, including GST, and apply only to Australia and New Zealand. See our Terms and Conditions for details.
+All prices above are RRP per device in AUD, including GST, and apply only to Australia and New Zealand. See our Terms and Conditions for details.
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/getting-started
+
+If you are in the process of buying solar panels, ask your solar retailer to include Solar Analytics with your quote. You can get a Solar Analytics
+solar monitoring system upon installation with our Integrated Fronius, Sungrow, GoodWe, GE Solar or LG inverter solution. For more information, have a look at
+how it works.Looking for a reputable solar installer? Visit
+Solar Quotes
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/retailer
+
+Giving your customers extra savings has never been easier.
+You choose the hardware, and we'll Auto Connect them. And with Integrated+, you don't even need a consumption meter.
+It's pretty simple really.
+Get Auto Connect
+Sign up here in just sixty seconds!
+Choose how you want Solar Analytics to be offered to your customers and we'll Auto Connect your Sungrow, Fronius, GoodWe, GE Solar & LG inverter sites to Solar Analytics.
+With Integrated+, even sites without consumption meters may be able to get consumption data.
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/contact-us
+
+Solar Analytics works closely with solar retailers to deliver you the most comprehensive experience with your solar. To get started with Solar Analytics™ talk to your solar retailer or Contact us for more information.
+We acknowledge the Ngoorabul people as the Traditional Custodians of the land on which our office is located and pay our respect to their Elders past and present.
+
+--------------------------------------------------------------------------------
+
+URL: https://my.solaranalytics.com/au/
+
+One moment please, we are processing this request
+
+--------------------------------------------------------------------------------
+
+URL: https://info.solaranalytics.com/s/
+
+Loading
+×
+Sorry to interrupt
+CSS Error
+Refresh
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/smart-energy-tool
+
+What it does
+How it works
+Pricing
+Getting started
+I am a Retailer
+About Solar Analytics
+Contact us
+Login
+Support
+Privacy policy
+Terms and conditions
+What it does
+How it works
+Pricing
+I am a Retailer
+Get started
+Login
+GET STARTED
+Solar Maximiser
+Get Your Results in Just 60 Seconds!
+Try our free tool now
+Wondering if now is the time to get rooftop solar? Is a battery right for you? Should you upgrade to an energy-efficient hot water heat pump?
+Discover the best way to reduce your energy bill using our personalised Smart Energy calculator.
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/buying-solar
+
+What it does
+How it works
+Pricing
+Getting started
+I am a Retailer
+About Solar Analytics
+Contact us
+Login
+Support
+Privacy policy
+Terms and conditions
+What it does
+How it works
+Pricing
+I am a Retailer
+Get started
+Login
+GET STARTED
+Buying solar
+If you are new to solar or in the process of getting it for your home, here are some resources to get you started on your solar journey.
+Home
+>
+Buying solar
+Fronius Smart Meter Monitoring: An Essential Guide
+November 3, 2023
+Mastering Solar Power with a GoodWe Solar Inverter
+Read More
+Solar Analytics
+November 2, 2023
+How to Read Sungrow Solar Inverters: A Step-by-Step Guide
+Read More
+Solar Analytics
+November 2, 2023
+Fronius Smart Meter Monitoring: An Essential Guide
+Read More
+Solar Analytics
+June 22, 2023
+Which Smart Energy is right for me? Solar, battery or heat pump
+Read More
+Solar Analytics
+February 1, 2023
+Contemplating the Benefits of Rooftop Solar?
+Read More
+Solar Analytics
+January 16, 2023
+Buying a house with a solar system? Read this.
+Read More
+Solar Analytics
+December 6, 2022
+What size solar system should I get? Answer: Cover Your Roof!
+Read More
+Rui Tang
+November 15, 2022
+Does a battery make financial sense in 2022?
+Read More
+Solar guide
+Everything you need to know about how to make the most of your rooftop solar and increase your solar savings.
+Buying solar
+Mastering Solar Power with a GoodWe Solar Inverter
+How to Read Sungrow Solar Inverters: A Step-by-Step Guide
+Fronius Smart Meter Monitoring: An Essential Guide
+Which Smart Energy is right for me? Solar, battery or heat pump
+Contemplating the Benefits of Rooftop Solar?
+Buying a house with a solar system? Read this.
+What size solar system should I get? Answer: Cover Your Roof!
+Does a battery make financial sense in 2022?
+Solar performance
+How La Niña impacts your rooftop solar!
+Monitoring your solar - Get the most out of your rooftop solar
+Does cleaning your solar panels make a difference?
+How do clouds affect your solar?
+Impact of shading on your solar output
+5 things NOT to do when cleaning solar panels
+Optimising your energy
+Choosing a Heat Pump Water Heater | Solar Analytics
+Optimising Savings through Energy Consumption Tracking
+When is the best time to use your solar power?
+Guide to charging your EV with rooftop solar
+Electricity bills and plans
+How to lower your power bill (or even eliminate it)
+What are solar feed-in tariffs? Your questions answered.
+Saving with solar
+5 tips to maximise your solar savings
+How to reduce your hot water bill
+How Plan Optimiser helped me save almost $800 pa
+Community News
+Announcing automatic plan updates
+Smart charging for motorcycles: a Zen approach
+Electricity prices are skyrocketing! What should I do?
+Just released: Plan Optimiser!
+How to reduce your dependence on the grid
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/buying-solar/mastering-solar-power-with-a-goodwe-solar-inverter
+
+Mastering Solar Power with a GoodWe Solar Inverter
+On this page:
+Understanding GoodWe Solar Inverter Technology
+GoodWe are the world's fifth largest solar inverter manufacturer, and also make inverters for GE and LG. Due to their competitive price point, wide range, good quality and reliability they have grown to be the second most popular solar inverter in Australia in 2023.
+If you have a rooftop solar system with a GoodWe inverter, or are thinking of buying one, this article will explain how to get the most out of your GoodWe solar system. If you are considering buying a solar system, read this article for independent advice.
+Solar Analytics and GoodWe have partnered to provide an even better solar experience for solar owners. The native GoodWe app, called their SEMS portal, provides a good basic level of monitoring for your solar system. You can add additional functionality and unlock more solar savings by adding a 30 day free trial of Solar Analytics with a single click from the GoodWe app (see below for benefits).
+Why Consumption Monitoring with GoodWe and Solar Analytics matters
+GoodWe inverters all have WiFi connection so you can track your solar energy generation. We always recommend adding the GoodWe consumption meter so you can also see your energy usage - to see why consumption monitoring is important, read this article. In summary, consumption monitoring will measure how much electricity you are consuming, which allows you maximise your savings by choosing the best retail electricity plan, shifting your big energy loads, and determining when it makes financial sense to add a battery or other smart energy appliance. Find out more about how it works here.
+If you already have a GoodWe inverter, you can see if you have the consumption meter by logging into your GoodWe SEMS portal. If you can see your energy consumption and your solar energy produced, then you have a consumption meter. If you can't see your consumption data, you can now get this through Solar Analytics thanks to the Australian government having recently forced your energy retailer to share your energy management data with authorised third parties through Consumer Data Rights (CDR) open energy. Solar Analytics is the first company to be authorised under open energy CDR, which means you can authorise access and get all the extra savings and benefits even if you don't have a consumption meter.
+Simple to setup - Setting Up Your GoodWe Monitoring
+When your GoodWe inverter is installed, your solar installer should connect your GoodWe inverter to your home WiFi. You can then download the GoodWe SEMS app, and start monitoring your solar.
+If your GoodWe inverter has not yet been connected to your WiFi, you can follow the simple steps here. If your WiFi does not extend to reach your GoodWe inverter, you will need to add a WiFi extender.
+Once you are connected, we highly recommend adding the 30 day free trial with Solar Analytics to increase your solar savings. To do this simply click and follow the steps listed at Solar Analytics.
+Solar Analytics will save you an extra $400 every year and maximise your solar savings by:
+- True Performance - make sure your solar is performing at 100%
+- Plan Optimiser - takes the guesswork out of finding the right solar energy plan
+- Battery Calculator - know when it's the right time to invest in a battery and which size
+- Energy Insights - shift your electricity usage and make the most of your solar
+- Open Energy - consumption data from CDR (if you don't have a consumption meter)
+Powering Up Your Solar Game: GoodWe in Action
+Now that you have access to your GoodWe and Solar Analytics apps, let’s see how they help you make the most of your solar system. Below are images of the main dashboard for a typical solar system. You can also see a walk through here for Solar Analytics, and here for GoodWe.
+Your dashboard provides an overview of your solar production and energy consumption, as well as your savings.
+For more insights into getting more from your solar, read this article.
+Energy Insights: Your Window to Solar Success
+The most common reasons to use your solar dashboard are:
+- Check my solar system is working
+- See when is the best time to run my big energy appliances
+- See how much my solar has saved me
+- Figure out why I just got an unexpectedly high electricity bill
+- Decide if I should add a solar battery to reduce my energy bill
+- Decide if I should shift my off peak hot water to run from my solar to optimise power consumption
+Counting Your Savings: Solar’s Superpower
+The most common reason we get rooftop solar is to save money. So once your solar system has been installed it is good to check you are saving as much as you expected, and see what else you can do to save more
+Both the GoodWe app and Solar Analytics show your savings, however Solar Analytics is much more accurate because it includes your specific electricity rates or tariff (soon you will be able to have this information automatically added and updated through your open energy CDR authorisation, saving you time and providing even more accurate savings and insights.
+Why GoodWe and Solar Analytics Beats Traditional Energy Monitoring
+Traditional energy monitoring provides basic information on energy production but lacks the functionality and benefits of advanced solutions like Solar Analytics. The most important features are finding the cheapest electricity plan and advice on what else you can do to save even more.
+GoodWe Consumption Meter Advantages: When you absolutely need one
+Having a GoodWe consumption meter installed is required for any of the following situations:
+- You have a solar battery
+- You have a static export limit imposed by your local electricity network (also called a DNSP), eg 5kW maximum export is common for single phase homes
+- You have a flexible export, eg in Sth Australia this is required for many new solar systems. Typically this allows you to export up to 10kW of solar most of the time, but you will occasionally have your solar exports restricted by the DNSP to match available capacity on the network
+- It allows you to detect voltage on production and consumption for optimal performance and safety
+Getting Started with GoodWe and Solar Analytics
+The simplest way to get your GoodWe and Solar Analytics setup correctly is to ask your solar retailer to do it when they install your solar system. If that is not possible then you can follow the simple steps here to connect your inverter to your home WiFi.
+Once you have done that, connect to Solar Analytics here or through your GoodWe SEMS portal app to get your 30 day free trial and increase your solar savings.
+Make it a habit to check your Solar Analytics and GoodWe Smart Meter dashboards regularly. This allows you to stay informed about your energy performance and see how else you can reduce your electricity bill.
+Explore the many features of your solar app to gain deeper insights into your energy usage patterns and maximise your solar savings.
+If you are having trouble connecting either GoodWe or Solar Analytics, you can contact your solar retailer or https://info.solaranalytics.com/s/owner-knowledge or https://support.goodwe.com/portal/en/home.
+Frequently Asked Questions
+Do I need internet connectivity for these monitoring systems?
+Yes, both Solar Analytics and GoodWe require a local WiFi connection to provide real-time data and updates. Ensure a stable internet connection for optimal performance.
+How often should I check my monitoring dashboards?
+Regular check-ins, at least once a week, are recommended to stay informed about your energy performance and quickly address any issues that may arise.
+Why is my GoodWe Consumption Meter not detected?
+If you can see solar generation in your GoodWe SEMS app, but not consumption, then your GoodWe consumption meter is not being correctly detected. This can be difficult to rectify, so we recommend contacting either your solar retailer or GoodWe.
+Can I access historical data and reports through these monitoring systems to track my energy usage over time?
+Yes, both GoodWe and SOlar ANalytics will show all historical data.
+What extra value does the Solar Analytics app add?
+On average Solar Analytics will save you an extra $400 every year through::
+- Detailed tariff and savings
+- Plan optimiser to find the best electricity plan
+- Data from your main electricity meter
+- More accurate fault identification and alerts
+- Battery calculator to know when to get a battery
+Is it possible to integrate other smart home devices or appliances into the monitoring systems to further optimise energy consumption?
+Yes this is possible, but it depends on your Smart Home control system which will determine if it can integrate with either GoodWe or Solar Analytics. Solar Analytics is working on Google Home, Apple and Alexa integration.
+Can I monitor both my energy production and consumption with GoodWe?
+Yes. If you have the GoodWe consumption meter installed, then you will see both solar production and energy consumption. If you don't have a consumption meter installed, then you can use Solar Analytics and CDR open energy to receive your consumption data.
+How do I access and view the data collected by the GoodWe monitoring system?
+Once your GoodWe inverter is connected to your WiFi, you can login here for easy and convenient operation.
+Are there any subscription fees or additional costs associated with GoodWe Consumption Monitoring?
+The GoodWe SEMS portal is free. Solar Analytics costs $6pm or $60pa or $250 for five years for a residential site.
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/buying-solar/how-to-read-sungrow-solar-inverters-a-step-by-step-guide
+
+How to Read Sungrow Solar Inverters: A Step-by-Step Guide
+On this page:
+Understanding Your Sungrow Solar Inverter
+Sungrow are one of the world's leading solar inverter manufacturers, with 77GW of solar inverters shipped in 2022 (enough to power Australia). Providing an extensive range of residential and commercial solar inverters and storage products, their high reliability and build quality has made them the most popular solar inverter sold in Australia in 2023.
+If you have a rooftop solar system with a Sungrow inverter, or are thinking of buying one, this article will explain how to get the most out of your Sungrow solar system. If you are considering buying a solar system, read this article for independent advice.
+Solar Analytics and Sungrow have integrated to provide an enhanced experience and increased savings for solar owners. Sungrow’s iSolarCloud app provides a good basic level of solar monitoring, however by adding on Solar Analytics you will increase your solar savings (see benefits below).
+Why you Want a Consumption Meter with a Sungrow Inverter
+Sungrow inverters all have WiFi connection to show you your solar energy generation. You can also get an additional consumption meter so you can also see your energy usage - to see why consumption monitoring is important, read this article. In summary, consumption monitoring will measure how much electricity you are consuming, which allows you maximise your savings by choosing the best retail electricity plan, shifting your big energy loads, and determining when it makes financial sense to add a battery or other smart energy appliance. Find out more about how it works here.
+If you have a Sungrow inverter, you can see your consumption meter by logging into iSolarCloud. If you can see your energy consumption and your solar energy produced, then you have a consumption meter. If you can't see your energy consumption data, don’t worry, most people can now get this through Solar Analytics courtesy of Consumer Data Rights (CDR) and open energy. Once authorised by you, the Australian government now compels your energy retailer to share your energy data with authorised third parties through. Solar Analytics is the first company to be authorised under open energy CDR, which means you can getall of the extra savings and benefits even if you don't have a consumption meter.
+Having a Sungrow consumption meter installed is required for any of the following situations:
+- You have a solar battery
+- You have a static export limit imposed by your local electricity network (also called a DNSP), eg 5kW maximum export is common for single phase homes
+- You have a flexible export, eg in Sth Australia this is required for many new solar systems. Typically this allows you to export up to 10kW of solar most of the time, but you will occasionally have your solar exports restricted by the DNSP to match available capacity on the network
+Getting Your Sungrow Inverter Setup and Online
+Once your Sungrow inverter has been installed and powered up, your solar installer will connect your Sungrow inverter to your home WiFi network. You can then download the Sungrow iSolarCloud app, and start monitoring your solar.
+Simplifying the Sungrow Inverter WiFi Connection Process and Boosting Solar Savings
+If your Sungrow inverter is not yet connected to your WiFi, follow these steps. If your WiFi does not extend to reach your Sungrow inverter, you will need to add a WiFi extender.
+Once you are connected, we suggest signing up for a 30 day free trial with Solar Analytics to increase your solar savings. You can find the instructions here.
+Solar Analytics saves you on average an extra $400 every year and maximises your savings by:
+- True Performance - make sure your solar is performing at 100%
+- Plan Optimiser - takes the guesswork out of finding the right solar energy plan
+- Battery Calculator - know when it's the right time to invest in a battery and which size
+- Energy Insights - shift your electricity usage and make the most of your solar
+- Open Energy - consumption data from CDR (if you don't have a consumption meter)
+Accessing Key Information on Your Inverter Screen
+You can also see some basic information directly on the LCD screen on the front of your Sungrow inverter.
+A typical Sungrow inverter will have an LCD display panel on the front similar to the below.
+This screen will show you how much power is being generated right now, and the status of the inverter. This may also cycle through a number of other basic operating parameters like grid voltage, frequency and total energy. Checking this display on a daily or weekly basis is a simple way to check your solar system is still operating. To know if your solar system is working at its full potential, you can go to your Solar Analytics dashboard which will show you exactly how well your system is working after taking into account local weather and your system specifications.
+More detailed information on using your Sungrow inverter can be found in your user manual which can be downloaded here.
+Maximising Solar Efﬁciency with Sungrow and Solar Analytics
+Unlocking the full potential of your solar system is a straightforward process with iSolarCloud and Solar Analytics at your disposal. As you gain access to these invaluable tools, you're poised to take control of your solar energy journey. In the following sections, we'll walk you through the home screens of both applications, providing a comprehensive understanding of how to interpret real-time solar production data. To get started, let's delve into the intricacies of these applications and harness the power of real-time solar data interpretation.
+Using your App and Interpreting Real-Time Solar Production Data
+Once you have access to iSolarCloud and Solar Analytics, you can start to make the most out of your solar system. The home screen from each app is shown below. You can also see a walk through here for Solar Analytics, and here for Sungrow.
+The home screen on your dashboard provides an overview of your solar production and energy consumption, as well as your savings. This includes displaying how much energy your solar system is generating, and how much energy your household is consuming in real time.
+The key thing that most people want to know is “how much of my solar am I using?”. This is because by self consuming your solar you are maximising your savings.
+Energy Insights: Analysing Historical Performance and Using Inverter Data to Optimise Energy Consumption
+The most popular reasons to access your dashboard are to answer one of the following questions:
+- Is my solar system is working properly?
+- When is the best time to run my big energy appliances?
+- How much has my solar system has saved me this month?
+- Why is my recent electricity bill so much higher than usual?
+- Should I add a solar battery to reduce my energy bill further?
+- Should I shift my off peak hot water to run from my solar during daylight hours?
+The Sungrow app provides you with a good energy generation and consumption graph that allows you to calculate and answer some of the above questions (see below). The Solar Analytics app has a number of additional pages and features that will make answering these questions simplicity itself (refer to sample image below).
+For more insights into getting more from your solar, read this article.
+Tracking Your Solar Savings
+The main reason most people buy a solar system is to reduce their energy bills. Both iSolarCloud and Solar Analytics show your savings, however Solar Analytics is much more accurate because it includes your specific electricity rates or tariff (and you soon be able to have this information automatically added and updated through open energy CDR, saving you time and providing even more accurate savings and insights).
+Monitoring Solar Output and Selecting Your Energy Plan for Peak Performance
+Other than self consuming your own solar by using as much energy as possible in the middle of the day, the most important thing you can do to reduce your electricity bill is to select the cheapest electricity plan available. This includes deciding between:
+- Flat rate, Time of Use (ToU), Demand, Stepped or other available tariff types
+- Flexible or static export limit (Sth Australia only at present)
+- Which electricity retailer
+- Which electricity plan
+The simplest way to do this is to use Plan Optimser from Solar Analytics (see below). Plan Optimiser will compare every energy plan available in your area, and rank them accorinding to cost. Alternatively you can use your iSolarCloud app and energymadeeasy.gov.au to search for the best plan.
+Troubleshooting Tips for Sungrow Inverter Readings
+If you are unable to see your solar generation and home energy consumption data in your app, or if your energy bill is higher than usual, there are a few potential causes.
+- Communications error. Your Sungrow inverter may have disconnected from your WiFi. To remedy this follow these steps.
+- No data on Solar Analytics app (but is on iSolarCloud). Either your subscription period with Solar Analytics has ended and you need to resubscribe from your Solar Analytics app, or you need to share your iSolarCloud data – as detailed here.
+- Low or zero energy generation. There are many potential causes – inverter fault, grid fault, solar panel fault, DC isolator fault, excessive shading or soiling etc. If your inverter appears to be operating from looking at the Sungrow LCD display, unless you have Solar Analytics you will need your solar retailer or installer to assist with diagnosing and rectifying the issue.
+- Clipping. If your solar generation is flat during the middle of the day, this is because you have a fixed export limit, usually 5 kW. In this case you should move some of your energy consumption into the middle of the day to take advantage of this free solar energy.
+- Intermittent outage. Even if your solar system is working correctly, you may have periods of time where your inverter either reduces the power output or switches off completely. This can be due to high voltages on the main electricity grid. Solar Analytics can be used to provide your local Distributed Network Service Provider (DNSP) with evidence of this and in many cases they can adjust the local network transformer settings to remedy this issue.
+If you have Solar Analytics, then you will already have been sent an email alerting you to the potential issue, and providing you and your solar retailer with detailed guidance on how to rectify any issues.
+Refer to the user manual (downloaded from here) for further information on:
+- identifying and resolving inverter issues
+- reading Sungrow error messages
+- understanding diagnostic codes.
+If you are having trouble connecting either Sungrow or Solar Analytics, you can contact your solar retailer or https://info.solaranalytics.com/s/owner-knowledge or https://support.Sungrow.com/portal/en/home.
+Best practices for maximising the lifespan and effectiveness of Sungrow Solar Inverters
+For optimal performance and longevity your Sungrow inverter should be installed in a location that is:
+- Well ventilated so that the fan can expel any excess heat
+- Does not get exposed to excessive sunlight, especially harsh afternoon sun
+- Is at least partially protected from driving rain or snow
+While your Sungrow inverter is rated for outdoor installation, like any electronic equipment it will last longer if it is well situated.
+You should inspect your Sungrow inverter annual and clear away any build up of leaf material or spider webs from around your inverter.
+What are the beneﬁts of choosing Sungrow Solar Inverters over other brands in the market?
+Sungrow is the most popular solar inverter currently sold in Australia, with a good local technical support team and a long history in Australia.
+The key attributes of a solar inverter are:
+- Efficiency – Sungrow models range from 97.7% to 98.6%
+- Reliability – provides a ten year warranty
+- Suitability – has the appropriate specifications for your specific requirements
+- Price – Sungrow provide excellent bang for your buck
+They have been independently reviewed by Solar Quotes here.
+Frequently Asked Questions
+Are there different models or types of Sungrow Solar Inverters available, and how do they compare?
+Sungrow has an extensive range of solar inverters. The most appropriate model will depend on your individual needs. Your solar retailer will be able to recommend the best model.
+If you don’t have a solar retailer, you can get a quote from validated and reputable solar retailers from Solar Quotes.
+Can Sungrow Solar Inverters be integrated with monitoring systems or apps for real-time data access?
+Yes. Both iSolarCloud and Solar Analytics offer real time energy insights and monitoring.
+Do I need internet connectivity for these monitoring systems?
+Yes, both Solar Analytics and Sungrow require a local WiFi connection to provide real-time data and updates. Ensure a stable internet connection for optimal performance. If you don’t have any WiFi connection available, you can get the Classic Solar Analytics solution which uses 4G communications.
+What extra value does Solar Analytics add?
+On average Solar Analytics will save you an extra $400 every year through:
+- Detailed tariff and savings
+- Plan optimiser to find the best electricity plan
+- Data from your main electricity meter
+- More accurate fault identification and alerts
+- Battery calculator to know when to get a battery
+https://www.solaranalytics.com.au/what-it-does
+Can I monitor both my energy production and consumption with Sungrow?
+Yes. If you have the Sungrow consumption meter installed, then you will see both solar production and energy consumption. If you don't have a consumption meter installed, then you can use Solar Analytics and CDR open energy to receive your consumption data.
+How do I access and view the data collected by the Sungrow monitoring system?
+Once your Sungrow inverter is connected to your WiFi, you can login here for easy and convenient operation.
+Are there any subscription fees or additional costs associated with Sungrow Consumption Monitoring?
+The Sungrow iSolarCloud is free. Solar Analytics costs $6pm or $60pa or $250 for five years for a residential site.
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/buying-solar/fronius-smart-meter-monitoring-an-essential-guide
+
+Fronius Smart Meter Monitoring: An Essential Guide
+On this page:
+Understanding Fronius Smart Meter Technology
+Fronius make high quality solar inverters, and is one of the leading solar inverter providers in Australia. So if you have a Fronius rooftop solar system, or are thinking of buying one, this article will explain how to get the most out of your Fronius solar system. If you are considering buying a solar system, read this article for independent advice.
+Solar Analytics and Fronius Smart Meter are two cutting-edge technologies designed to provide homeowners with real-time insights into their solar energy production and consumption. Solar Analytics is a comprehensive monitoring platform that goes beyond the standard monitoring systems. It offers detailed analytics, helping you understand how your solar system is performing and identify opportunities for improvement. The Fronius Smart Meter is a monitoring device that measures the energy consumption in your household. It seamlessly integrates with Fronius inverters and provides valuable data on how much energy your solar panels are generating and how much energy your home is consuming.
+Unlocking the Power of Consumption Monitoring with Fronius Solar Inverters and Smart Meters
+All Fronius inverters come with built in WiFi so that you can track your solar energy generation. To learn more about monitoring your solar system, and why getting a Fronius Smart Meter for consumption monitoring is important, read this article. In summary, consumption monitoring will measure how much electricity you are consuming, which allows you maximise your savings by choosing the best retail electricity plan, shifting your big energy loads, and determining when it makes financial sense to add a battery or other smart energy appliance. Find out more about how it works here.
+If you already have a Fronius solar system, you can see if you have a Fronius Smart consumption meter by logging into your Fronius app seeing if you can see your energy consumption as well as energy produced. Fortunately for those without a Fronius Smart consumption meter, the Australian government has recently forced your energy retailer to allow you to share your energy data with authorised third parties through Consumer Data Rights (CDR) open energy. Solar Analytics is the first company to be authorised under open energy CDR, which means you can authorise access and get all the extra savings benefits even if you don't have a consumption meter.
+A Breeze to Install: Setting Up Your Fronius Smart Meter and Monitoring
+When you have your Fronius solar system installed, your solar installer or retailer will most likely set up your Fronius inverter to connect to your home WiFi. You can then download the Fronius SolarWeb app, and start monitoring your solar.
+If your Fronius inverter has not yet been connected to your WiFi, you can follow the simple steps here courtesy of solar retailer MC Electrical. If your WiFi does not extend to reach your Fronius inverter, you will need to add a wifi extender.
+Once you are connected, we highly recommend adding the 30 day free trial with Solar Analytics to increase your solar savings. To do this follow the steps listed at Solar Analytics.
+Why also get Solar Analytics? Fronius has a good solar app, but it is missing a number of key features that will save you an extra $400 every year and maximise your solar savings:
+- True Performance - make sure your solar is performing at 100%
+- Plan Optimiser - takes the guesswork out of finding the right solar energy plan
+- Battery Calculator - know when it's the right time to invest in a battery and which size
+- Energy Insights - shift your electricity usage and make the most of your solar
+- Open Energy - consumption data from CDR (if you don't have a consumption meter)
+Although this review is few years old, and omits the recently added features of Solar Analytics, it is a good independent comparison of Fronius and Solar Analytics.
+Powering Up Your Solar Game: Fronius Smart Meter in Action
+Now that you have access to your Fronius and Solar Analytics apps, let’s see how they help you make the most of your solar system. Below are images of the main dashboard from each app for sample solar systems. You can also see a walk through here for Solar Analytics, and here for Fronius.
+Your dashboard provides an overview of your solar production and energy consumption, as well as your savings.
+For more insights into getting more from your solar, read this article.
+Energy Insights: Your Window to Solar Success
+The most common reasons to use your solar dashboard are:
+- Check my solar system is working
+- See when is the best time to run my big energy appliances
+- See how much my solar has saved me
+- Figure out why I just got an unexpectedly high electricity bill
+- Decide if I should add a solar battery to reduce my energy bill
+- Decide if I should shift my off peak hot water to run from my solar to optimise power consumption
+Counting Your Savings: Fronius Smart Meter's Superpower
+The main reason most of us invest in rooftop solar is to save money. So after you have had your solar system for a year it is good to check you are saving as much as you expected, and investigate what else you can do to save even more.
+Both the Fronius app and Solar Analytics show your savings, however Solar Analytics is much more sophisticated and accurate because it includes different tariff types, tariff structures, daily supply charge and other details. And soon, Solar Analytics will automatically capture this electricity tariff information through your CDR authorisation, saving you time and providing even more accurate insights.
+Out with the Old: Why Fronius and Solar Analytics Beats Traditional Energy Monitoring
+Traditional energy monitoring systems often provide basic information on energy production but lack the depth and detail offered by modern solutions like Solar Analytics and Fronius Smart Meter. The ability to get automated performance or savings alerts, and see at a glance how to best use your solar energy sets these technologies apart from their outdated counterparts.
+The two most important of these modern features is the ability to see the best electricity plan to choose based on your energy data, and guidance on what else you can do to save even more.
+Fronius Smart Meter Advantages: When you absolutely need one
+Having a Fronius Smart Meter installed is required for any of the following situations:
+- You have a solar battery
+- You have a static export limit imposed by your local electricity network (also called a DNSP), eg 5kW maximum export is common for single phase homes
+- You have a flexible export, e3g in Sth Australia this is required for many new solar systems. Typically this allows you to export up to 10kW of solar most of the time, but you will occasionally have your solar exports restricted by the DNSP to match available capacity on the network
+Your Quick Start Guide to Fronius Smart Meter
+The simplest way to get your Fronius and Solar Analytics setup correctly is to ask your solar retailer to do it when they install your solar system. If that is not possible then you can follow the simple steps here to connect your inverter to your home WiFi.
+Once you have done that, connect to Solar Analytics here to get your 30 day free trial and increase your solar savings.
+Make it a habit to check your Solar Analytics and Fronius Smart Meter dashboards regularly. This allows you to stay informed about your energy performance and see how else you can reduce your electricity bill.
+Explore the many features of your solar app to gain deeper insights into your energy usage patterns and maximise your solar savings.
+Installation and Setup Tips
+One of the key advantages of both Solar Analytics and Fronius Smart Meter is their user-friendly solar installation process. Setting up these monitoring systems doesn't require a degree in engineering; instead, they are designed for easy installation, making them accessible to all homeowners.
+If you are having trouble connecting either Fronius or Solar Analytics, you can contact your solar retailer or support@solaranalytics.com or contact@fronius.com.
+Tackling Problems Head-On: Common Hurdles and Fixes
+Connectivity Issues: Ensure that all connections are secure and that your monitoring devices are within the recommended range. In the case of persistent connectivity issues, consult the user manual or contact customer support.
+Data Discrepancies: If you notice discrepancies in your data, such as unusual spikes or drops in production, check for environmental factors like shading or debris on solar panels. If the issue persists, seek guidance from customer support.
+Software Updates: Regularly update the firmware and software of your monitoring devices to access the latest features and security enhancements.
+Frequently Asked Questions
+Can I use Solar Analytics and Fronius Smart Meter with any solar system?
+No. While Solar Analytics is compatible with various solar inverters, Fronius Smart Meter is only available with Fronius inverters.
+Do I need internet connectivity for these monitoring systems?
+Yes, both Solar Analytics and Fronius Smart Meter require internet connectivity to provide real-time data and updates. Ensure a stable internet connection for optimal performance.
+How often should I check my monitoring dashboards?
+Regular check-ins, at least once a week, are recommended to stay informed about your energy performance and quickly address any issues that may arise.
+Why is my Fronius Smart Meter not detected?
+If you can see solar generation in your Fronius SolarWeb app, but not consumption, then your Fronius Smart Meter is not being correctly detected. This can be difficult to rectify, so we recommend contacting either your solar retailer or contact@fronius.com.
+Can I access historical data and reports through these monitoring systems to track my energy usage over time?
+The standard Fronius app will only show the last 3 days of energy production or consumption in the Energy Balance view. The Fronius Premium will show all historical data. Solar Analytics will show all history data and reports regardless of whether you have the standard free Fronius or Fronius Premium.
+What is Fronius Premium monitoring?
+Fronius Premium provides additional functionality int he Fronius app. It costs $33 pa and provides the following additional functionality:
+- Historical energy production in Energy Balance graph
+- Custom energy reports
+- Savings and RoI
+- 2 days weather / production forecast
+- Public display mode
+- Alexa capability
+The Solar Analytics app additionally has the following functionality:
+- Detailed tariff and savings (automation coming soon)
+- Plan optimiser to find the best electricity plan
+- Data from your main electricity meter
+- More accurate fault identification and alerts
+- Battery calculator to know when to get a battery
+Is it possible to integrate other smart home devices or appliances into the monitoring systems to further optimise energy consumption?
+Yes this is possible, but it depends on your Smart Home control system which will determine if it can integrate with either Fronius or Solar Analytics. With Fronius premium you can connect to Alexa. Solar Analytics is working on Google Home, Apple and Alexa integration.
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/buying-solar/which-smart-energy-solar-battery-heat-pump
+
+Which Smart Energy is right for me? Solar, battery or heat pump
+On this page:
+Minimise the guesswork and maximise savings: Solar Analytics launches new calculator to find personalised energy saving plans to Australians.
+If your energy bill was higher than you anticipated this month, then you're one of many Australians who are looking for ways to reduce it. But it can be an overwhelming process.
+While for most households getting rooftop solar is the answer, how do you know that is the best option for you and your household? And if you already have solar, what more can you do to reduce your energy bill? Should you upgrade your solar with more panels or a solar battery? Or should you replace your gas hot water heater with a heat pump? The answer depends on your individual circumstances, which means figuring out the right option for you can get tricky.
+To answer these questions that are being increasingly asked by thousands of their customers, Solar Analytics have launched Solar Maximiser. Solar Maximiser is a free online calculator designed to find your optimal smart energy solutions.
+Solar Maximiser uses solar and energy data from tens of thousands of Solar Analytics customers to make its recommendations. The information the user enters into Solar Maximiser is combined with this real-world data to help form realistic and practical recommendations. In short, Solar Maximiser makes recommendations that are unique to you, your lifestyle and household.
+Thanks to Dr Tom Beuzen and the data science team at Solar Analytics, Solar Maximiser is a world-first that can uniquely compare all of the different smart energy options including solar, batteries and hot water heat pumps (with Electric Vehicles coming soon) for different households.
+“All of my previous work in the field of data science has helped develop it,” he says. “From extracting unique insights from our 18 TB of energy data, the 20,000+ energy retail plans, the localised energy regulations, to building predictive machine learning models that power Solar Maximiser's internal workings. This includes providing the information to the public in an easy to understand manner.”
+Making such an innovative product does come with its challenges, of course. Tom says the hardest challenge was dealing with the scope of the tool. To make the tool as personalised as it could be to the user, there was a lot of information that had to be collected and managed.
+“There's an enormous amount of variety in each individual's household and energy usage, but we wanted the tool to be able to be used by anyone.” The team leveraged their large customer base to test and calibrate Solar Maximiser.
+Stefan Jarnason, CEO at Solar Analytics says, “Solar Maximiser is the only ‘one-stop-shop’ that allows people to compare all of their options to reduce their energy bills.In the future it will also help people to decide when is the right time for them to electrify everything in their home, from their car to their cooktop.”
+Solar Maximiser is free to use. If you want to find the best way you can reduce your energy bill, try the Solar Maximiser today.
+This Project received funding from the Australian Renewable Energy Agency (ARENA) as part of ARENA's Advancing Renewables Program. The views expressed herein are not necessarily the views of the Australian Government, and the Australian Government does not accept responsibility for any information or advice contained herein.
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/buying-solar/should-you-get-rooftop-solar
+
+Contemplating the Benefits of Rooftop Solar?
+On this page:
+Are you thinking about buying solar panels for your home?
+You may have heard your neighbour talking about their new solar system and how much they are saving on the electricity bills.
+Or, you might have made the decision to reduce the carbon emissions of your household to become a greener home.
+Either way, this article will tell you how to decide if rooftop solar is right for you, and what you need to know before investing in solar for your home.
+The main points to consider before buying solar panels are:
+- If you’re thinking of installing solar for your home - do it! For most homeowners is the best financial investment you can make right now for your home.
+- The bigger the better - install as many solar panels as you can to generate the most amount of electricity and save the most money.
+- Get quotes from trusted companies - SolarQuotes is a great place to start.
+- Include advanced monitoring like Solar Analytics to give you energy freedom - maximum savings, minimum hassle.
+Benefits of installing solar
+For most people, there are only benefits when it comes to installing solar, especially now that solar panel installation is becoming much more affordable.
+Some of the ways you can benefit from installing solar include:
+A great financial investment
+The number one benefit of installing rooftop solar on your house is that it is an excellent financial move. Not only will a solar system save you money on electricity bills, having solar panels installed also adds value to your house.
+Solar panels have a lifespan of 25+ years and only require basic maintenance to keep them producing energy, so they’re a long term investment that keeps on giving!
+The average home rooftop solar system has a financial return of 20% per year, with the return increasing each year that electricity prices rise (and at the rate we’re going, electricity prices won’t be decreasing anytime soon!).
+The average size of a residential solar system is now 8.8kW, which according to SolarChoice will cost about $8000 (after government rebates). Depending on your energy consumption, each year this will save you about $1800, or a 25% return on your money every year - much higher than the 3% you can get from the bank.
+Reduce your carbon emissions
+Switching to renewable energy is the best thing your household can do to have a positive effect on the environment, by reducing carbon emissions.
+An average home with 8kW of rooftop solar will reduce their carbon emissions by 9.4 tonnes per year.
+That’s the equivalent to saving over 3,900 litres of petrol or 44,318 km driven every year!
+Find energy freedom - Maximum savings, minimum hassle
+Energy freedom is never having to worry about energy bills again by taking steps towards cheaper, renewable electricity.
+With the recent rises in the cost of energy, energy freedom is relevant now more than ever.
+What does energy freedom look like?
+- Smaller electricity bills - or even cash back
+- Freedom from electricity price rises and complexity
+- Net zero carbon emissions for your home
+- Hassle free peace of mind - automatic advice on the best energy plan or actions to keep your bill low or reduce it even further
+Having cheaper, greener, reliable energy for your home is a feeling like no other, once you start you won't want to go back!
+If you are starting your journey towards energy freedom and want to know more, ‘The Energy Freedom Home’ and the ‘Good Solar Guide’ are your guides to wiping out household energy bills.
+Choosing the right solar system
+When it comes to choosing the right solar system, there are a few things you will need to keep in mind to ensure you can maximise your savings.
+Don’t skimp on quality
+Your solar system has a 25 year lifetime, so it is important to get good quality equipment installed by a reputable solar retailer or installer.
+The quality of the solar system will determine how much energy your solar system produces, how long it lasts, and how much money you will save you.
+Key things to consider when choosing a solar system:
+- Quotes - It is important to get quotes from reputable solar retailers. You can use the CEC Accredited Solar Retailer or SolarQuotes to find out more
+- Price - you get what you pay for. Be clear on whether you want a premium high end system (eg Enphase, Sunpower for about $1,500/kW) or value for money (eg Jinko, Goodwe for less than $1,000/kW) - SolarChoice offers a good comparison of these here
+- Reliable equipment - you not only need to think about the solar panels, but all of the hardware and software necessary to get the most out of your solar system
+- Cover your roof - you will need to consider the size of the solar system you will need to install, sometimes the bigger the better
+- Solar Monitoring - having advanced monitoring to automate and maximise your savings will ensure you get the most from your solar
+It is essential to use a reputable solar installer when fitting out your home. A cheap or unreliable solar installer could mean that you pay more in repairs and upgrades when things start to fail.
+Solar Inverters
+A high quality solar inverter is the next thing to ensure you’re getting the most out of your solar system. All the energy captured by your solar panels passes through your inverter as it converts electricity generated by your solar panels (direct current or DC) into electricity that is compatible with your home usage and with the grid (alternating current or AC).
+Poor quality solar inverters can lead to significant solar production losses and often become faulty shortly after installation. To avoid this, make sure you purchase a solar inverter that has an Australian based office and technical support, a long history in Australia, and lots of good reviews.
+If you want to get into the nitty gritty of choosing solar panels, follow this link.
+Size matters
+The more solar panels you can install on your roof, the better.
+Larger solar systems produce more electricity over a longer period of the day, even if not all of the solar panels are in full sun or facing North. In fact having solar panels facing East and West (or even South unless you are in Tasmania), can actually increase your savings since you are generating more electricity in the morning and evening.
+When it comes to your solar system, think quality and quantity.
+Even if your solar panels are producing more electricity that your home can use, nothing is wasted!
+It will get exported back to the grid and the solar feed-in tariff will offset your electricity bill even further.
+This also means that if you decide to buy an electric vehicle (EV) or switch your hot water from gas to electric, you can use your own solar energy.
+The cost of going solar
+For many, the choice of solar and final decision may come down to cost.
+While solar is becoming much more affordable, there is still the initial cost to factor before you start seeing a return from your investment.
+Solar system cost
+The cost of a solar system can vary, mostly depending on the desired size of the system and the brand of hardware you choose. But remember, cheaper is not better. Your solar system is going to be with you for a long time and should be of high quality to save you from headaches further down the line.
+According to Solar Choice, these are the average prices for good quality solar systems (Nov 2022). These prices are after the government rebates.
+Find out how much a solar system might cost to install in your home here.
+What government rebates and solar tariffs are available?
+Ensuring you make the most from your solar means staying up to date with the financial benefits available for solar owners.
+The return on your investment will vary by state, and could take years to add up, but here are some of the current rebates and tariffs available:
+Current solar rebate schemes in NSW
+Small-scale Renewable Energy Scheme (SRES)
+Eligible small-scale renewable energy systems may be entitled to small-scale technology certificates (STCs), which can be sold to recoup a portion of the cost of purchasing and installing the system. You can check your eligibility here.
+Solar for low income households
+This trial assists eligible low income households in NSW with the installation of a free 3 kilowatt solar system. Applicants must currently be receiving the Low Income Household Rebate. You check your eligibility here.
+Current solar rebate schemes in VIC
+Solar homes program
+Multiple solar rebate schemes are available for homeowners and renters in VIC of up to $1400 for rooftop solar systems. You check your eligibility here.
+Solar feed-in tariffs
+A solar feed-in tariff is payment for the electricity generated by your solar system which is exported back to the grid. This is a huge incentive to install rooftop solar for your home, as you’ll get money back in your pocket with no extra work on your part.
+Solar tariffs vary depending on which Australian state you live in and which energy retailer you’ve chosen. To find out more about tariffs in your state click here.
+Long term investment vs initial costs
+While the initial cost of a solar system can make some people baulk, the long term savings far outweigh the initial costs. A good quality solar system will last long enough to pay for itself, then go on to make you a profit.
+Consider this, a standard 8kW solar system costs approximately $8000 to install. If you live in NSW, the savings from your solar system are just over $1600 per year. That means your solar system will pay for itself after 4 years. After this period, the savings from your solar system will be going straight back to you!
+To finance or not not finance
+If you have made the decision to install solar, there are many options out there that will allow you to have the solar system of your dreams and get the energy freedom feeling you desire.
+The most affordable option, in the long term, will be to use cash or savings. This means that you don’t need to worry about repayments or fees, ever. But realistically, this may not be an option for everyone.
+If you have a mortgage, you may be able to consider redrawing from your existing home loan. This will often mean that the interest rate will be much lower and you won’t have to worry about taking out an extra loan on top of your current one.
+The other option that many consider is finance. Financing your solar system can be a good option if cash or redraw is not available. It is important to note though, that interest rates can be fairly high on some financial products (even up to 15%), so shopping around for the best one could potentially save you quite a bit.
+Advanced monitoring
+The last (but not least) thing to consider when buying a solar system, or even if you already have rooftop solar, is an advanced solar monitoring system.
+An advanced solar monitoring system will be your key to unlocking the most savings from your solar.
+Most new solar systems come with basic built in solar monitoring, however this rudimentary monitoring lacks the key savings features available with advanced monitoring.
+An advanced solar monitoring system will give you:
+- Advice on the best retail electricity plan for you, so you can maximise your savings (and choose between a high feed-in-tariff versus lower all day grid energy costs)
+- Automated alerts if there is a problem with your solar system that needs to be rectified
+- Insights into both your electricity generation and electricity consumption
+- Accurate savings information so you can see your actual savings
+- Advice on when is the right time to get a battery (and what size)
+- Help managing when the best time to run your major energy appliances is, eg hot water, Electric Vehicle, pool pump
+- A look at your net energy carbon emissions
+- Peace of mind that your system is working at peak performance with proactive notifications and impartial advice
+The Solar Analytics difference
+Solar Analytics takes the guesswork out of managing your solar so you can relax and watch your solar savings grow.
+Our dashboard provides everything you need to track your solar system’s performance and maximise your savings in a single, user-friendly dashboard.
+Using patented algorithms and live data, runs in the background to look after your system and will alert you if something needs attention.
+With smart energy insights and personalised recommendations, you’ll know what to expect with your next electricity bill, how much you could save by switching to a better plan and what battery size is right for your home; giving you more confidence, more control and more savings.
+Solar Analytics is an essential element of any rooftop solar system and will help you save an additional $500 per year. It’s pretty simple, really.
+Takeaways
+- If you own your own home, rooftop solar is a no-brainer for the environment and your pocket
+- More solar = more savings
+- Invest in a quality solar system with a trusted solar retailer or installer through SolarQuotes
+Maximise your savings with advanced solar monitoring
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/solar-performance
+
+What it does
+How it works
+Pricing
+Getting started
+I am a Retailer
+About Solar Analytics
+Contact us
+Login
+Support
+Privacy policy
+Terms and conditions
+What it does
+How it works
+Pricing
+I am a Retailer
+Get started
+Login
+GET STARTED
+Solar performance
+How do you know your solar system is working well? Follow our guides to make sure your getting the most out of your solar.
+Home
+>
+Solar performance
+5 things NOT to do when cleaning solar panels
+Solar Analytics
+January 27, 2023
+How La Niña impacts your rooftop solar!
+Read More
+Solar Analytics
+November 15, 2022
+Monitoring your solar - Get the most out of your rooftop solar
+Read More
+Solar Analytics
+November 15, 2022
+Does cleaning your solar panels make a difference?
+Read More
+Dr Jonathon Dore
+November 15, 2022
+How do clouds affect your solar?
+Read More
+Tom Beuzen
+November 15, 2022
+Impact of shading on your solar output
+Read More
+Solar Analytics
+November 15, 2022
+5 things NOT to do when cleaning solar panels
+Read More
+Solar guide
+Everything you need to know about how to make the most of your rooftop solar and increase your solar savings.
+Buying solar
+Mastering Solar Power with a GoodWe Solar Inverter
+How to Read Sungrow Solar Inverters: A Step-by-Step Guide
+Fronius Smart Meter Monitoring: An Essential Guide
+Which Smart Energy is right for me? Solar, battery or heat pump
+Contemplating the Benefits of Rooftop Solar?
+Buying a house with a solar system? Read this.
+What size solar system should I get? Answer: Cover Your Roof!
+Does a battery make financial sense in 2022?
+Solar performance
+How La Niña impacts your rooftop solar!
+Monitoring your solar - Get the most out of your rooftop solar
+Does cleaning your solar panels make a difference?
+How do clouds affect your solar?
+Impact of shading on your solar output
+5 things NOT to do when cleaning solar panels
+Optimising your energy
+Choosing a Heat Pump Water Heater | Solar Analytics
+Optimising Savings through Energy Consumption Tracking
+When is the best time to use your solar power?
+Guide to charging your EV with rooftop solar
+Electricity bills and plans
+How to lower your power bill (or even eliminate it)
+What are solar feed-in tariffs? Your questions answered.
+Saving with solar
+5 tips to maximise your solar savings
+How to reduce your hot water bill
+How Plan Optimiser helped me save almost $800 pa
+Community News
+Announcing automatic plan updates
+Smart charging for motorcycles: a Zen approach
+Electricity prices are skyrocketing! What should I do?
+Just released: Plan Optimiser!
+How to reduce your dependence on the grid
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/solar-performance/how-la-nina-impacts-your-rooftop-solar-1
+
+How La Niña impacts your rooftop solar!
+On this page:
+It's time to bust out the rain jackets and umbrellas, Australia! We're in the midst of a mild La Niña event and it's not just the weather that's changing. This phenomenon is also affecting the energy production of your rooftop solar system. But before you start panicking about skyrocketing electricity bills, let's dive into what La Niña is and how it's impacting your solar system.
+What is La Niña?
+La Niña is a climate pattern that occurs in the Pacific Ocean, usually every two to seven years. It is characterised by unusually cold ocean temperatures along the equator in the central and eastern Pacific Ocean. La Niña has a strong influence on global weather patterns, including those in Australia.
+Think of La Niña as the cool sister of El Niño, while El Niño brings the heat, La Niña brings the chill. This cooling of the ocean surface temperature across much of the tropical Pacific Ocean can bring far-reaching effects on weather.
+How it Affects Australia
+First things first, La Niña typically brings higher rainfall than average across northern and eastern parts of Australia according to the Bureau of Meteorology. Pack your raincoat and wellies, you'll be needing them! But that's not all, La Niña also brings increased cyclone activity off the north coast from November through April each year. So, keep your eyes peeled for those stormy skies!
+During these months, there's also a likelihood of more frequent flooding events along rivers throughout Queensland and New South Wales due to heavy rains associated with this climate pattern (like the record-breaking events we experienced around 2011). Additionally, warmer days tend to occur over southern regions while cooler nights become more common over northern areas during this time period too.
+Here are some of the other major affects you might expect of La Niña in the summer:
+Cyclones
+La Niña can also increase the likelihood of cyclones forming off the north coast of Australia, causing strong winds and heavy rain that can damage homes and property, and disrupt travel plans.
+Humidity
+La Niña can also bring increased humidity to some parts of the country, making it feel muggier and more uncomfortable, especially during the hottest months of the year.
+Mosquitoes
+The increased rainfall during La Niña can also lead to more breeding grounds for mosquitoes, making it more likely for people to experience bites and the associated itchiness, discomfort, and potentially diseases.
+Loss of power
+The increased rainfall and flood can also cause power cuts and loss of electricity. So, if this is happening to you, you might want to consider battery back up.
+How does this weather affect my rooftop solar?
+La Niña is associated with increased cloud cover, more rainfall, and less sunshine. This can result in reduced solar production and a decrease in the amount of electricity generated by solar panels. How much solar energy are you potentially losing out one? Well, we’ve done the research for you.
+Solar Analytics analysed 35,000 sites between 2017-2022. Here’s what the data shows:
+If you want to look at the greater details, here it is:
+Here’s how to read the results: For example, the difference in energy output for summer in the ACT is -0.10. That means that the average energy output for all sites in the ACT during the La Niña years was 10% less than in the non-La Niña years.
+The northern and eastern states are most affected by La Niña, which is expected. SA and VIC are less affected. Furthermore, we see the most dramatic impacts of La Niña in NSW, QLD, ACT in summer and spring.
+To know if the reduced performance is due to weather or other system/grid issues, make sure you have advanced monitoring like Solar Analytics.
+If you’d like a more detailed analysis of how clouds affect your solar, we have the article for that too!
+What Can You Do About It?
+While La Niña may bring more clouds and less sunshine, resulting in reduced solar production, it's important to remember that there are still ways to make the most of your solar system. You can take steps to maximise the efficiency of your solar panels and ensure that you're getting the most bang for your buck. Read below.
+Have you started monitoring?
+La Niña may be known for bringing the chill, but you don't have to let it freeze your solar energy production! With a little bit of knowledge and some clever adjustments, you can make sure you're getting the most out of your rooftop solar panels during this weather phenomenon. And the best way to do that is by keeping a close eye on your energy production with advanced monitoring software.
+Advanced monitoring systems provide detailed data about current conditions. These systems provide detailed data about current conditions such as temperature, humidity levels, voltage readings, and more - all in real time. Imagine being able to check on your solar production from the comfort of your own home, or even on the go with your smartphone.
+But it's not just about the numbers, these systems also alert users when certain thresholds have been exceeded or there is an issue with the system (such as a faulty inverter). Can you imagine being able to detect and fix problems before they cause major damage or require expensive repairs/replacements later down the line? That's the power of advanced monitoring systems! Read the following article on how to get the most out of your solar through monitoring.
+Solar Analytics is a great tool for monitoring your solar production during La Niña. It will show you exactly how much power you're producing, allowing you to make adjustments as needed. Not only that, but it also provides insights on your usage patterns and energy bill savings. If you’re looking for ways to maximise your solar savings, check out this article! With Solar Analytics, you'll be able to keep a close eye on your energy production (and consumption) during La Niña and make sure you're maximising your output and savings. So, don't let La Niña catch you off guard, be in control!
+Ways to Reduce Electricity Bills During La Niña
+Reducing your electricity consumption
+Reducing electricity consumption is the most straightforward way to lower bills during this time period. Investing in efficient appliances and switching off lights when not in use are two simple ways to do this without sacrificing comfort or convenience. For the long-term, we recommend electrifying your home by switching from gas to electric appliances and if you drive more than 20,00km per annum, getting an EV instead of petrol cars for that sweet energy freedom.
+Read our guide on eliminating your power bill for a more in-depth guide!
+Take advantage of the cool temperature!
+Another way to reduce your energy bills during a La Niña summer is by taking advantage of the cooler temperatures. Instead of cranking up the air conditioning, you can open your windows and let the cool breeze flow through your home. This will not only help to keep your home cool, but it will also save you money on your electricity bill.
+We recommend checking out our guide on reducing your electricity bills using aircon and solar.
+You can save on water too
+If you’re looking for ways to reduce your hot water bills without reducing the amount of water you use, check out our guide!
+Load shifting
+Load shifting is a technique that allows homeowners to shift their energy consumption to times when solar energy production is at its highest. This can be achieved through the use of smart energy management systems, which can automatically adjust energy consumption based on real-time solar production data. Imagine being able to run your washing machine or charge your electric car during the day, when the sun is shining the brightest and your solar panels are working their hardest.
+Switch energy plans!
+Lastly, researching different providers who offer competitive rates may result in significant savings over time depending on how much power you consume each month - switching providers could potentially be beneficial in this regard. In fact, Solar Analytics’ Head of Business Development, Nigel Morris, saved $800 by switching energy plans. You can also do this yourself using the Plan Optimiser tool.
+Conclusion
+La Niña is a weather pattern that brings more clouds and rain to certain parts of the country, which can block the sun from reaching solar panels and lead to lower energy production. However, with proper monitoring and adjustments, such as shifting energy usage to times when the sun is shining the brightest, it is possible to minimise the impact of La Niña on rooftop solar production.
+- If you live in QLD, NSW, and ACT, you’ll still get 90% of your solar energy throughout the year impacted by La Niña compared to normal years.
+Are you ready to take advantage of the sun's energy and make sure your rooftop solar system is running at its peak performance? Solar Analytics can help. Our advanced monitoring software gives you real-time insight into how La Niña affects your electricity production, consumption, and bills in Australia. With our easy-to-use platform, you'll be able to save money on your electricity costs while making sure that any potential losses due to weather conditions are minimised. Sign up today for a free trial!
+If you’re just thinking of getting a solar system, get a quote today and make sure to include Solar Analytics!
+Key Takeaways
+- La Niña creates a wetter than usual summer, which reduces the output of your rooftop solar.
+- If you live in QLD, NSW or ACT, you’ll still get 90% of solar energy on a year impacted by La Niña in comparison to other years. If you live in other states, the impact is even less.
+- Take actions to maximise your solar energy despite the reduction through monitoring, switching energy plans, and more.
+- Sign-up for Solar Analytics’ 30-days free trial to ensure you’re always on top of your solar system.
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/solar-performance/monitoring-your-solar-get-the-most-out-of-your-rooftop-solar
+
+Monitoring your solar - Get the most out of your rooftop solar
+On this page:
+Whether you already have solar or are thinking about it and wonder what’s the best way to optimise your solar investment, you’ve come to the right place. This step-by-step guide will give you the ins and outs of solar monitoring, and equip you with the tools you need to make sure your solar system is performing at its best.
+What is a solar power monitoring system?
+How does it work?
+First of all, let’s start with the basic components of a traditional solar system, which consists of your solar panels and your inverter.
+Solar panels are the panels that sit on top of your roof and capture raw solar energy from the sun via photovoltaic (PV) solar cells, and convert this energy into electricity (Direct Current (DC) electricity). Your solar inverter is an electrical box that sits on the side of your house or garage, and which converts the DC electricity generated by your solar panels into Alternating Current (AC) electricity that is used in your home. This AC electricity is exactly the same as the electricity that comes into your house from the main electricity grid. The solar inverter is usually located near your main electricity switchboard.
+Image source: Solar Choice
+Still with us? Great! If you are interested in a more in-depth explanation of how solar energy works, click here.
+Most solar inverters come with basic monitoring software or an app that measures how much solar electricity you generate each day. This monitoring software typically needs to be connected to your home WiFi to provide you with access to the information.
+There are also more advanced solar monitoring systems available that provide you with more in-depth data about your solar system, savings and home electricity consumption.
+What do they monitor?
+Solar production
+First and foremost a solar monitoring system tracks how much solar electricity your rooftop solar is producing. In doing so, your solar monitoring system can tell you if your rooftop solar is producing the amount of energy you would expect, or if it is producing less than expected (this could mean something is wrong with your solar system, but don’t worry we’ll get to that soon).
+Home electricity consumption
+A solar monitoring system should also tell you how much of your solar electricity your home is using, how much electricity you are exporting (or selling) back to the main grid, and how much electricity you are importing (or buying) from the grid. However, to do this your solar inverter needs to have a consumption meter¹. Consumption meters monitor all electricity used in the home, not just the solar electricity produced.
+We highly recommend having a consumption meter so that you can track your solar savings, understand variations in your electricity bill, determine your solar electricity independence, and make an informed decision about future energy item purchases. Even more valuable, is the ability to use a service like Solar Analytics Plan Optimiser to find the best retail electricity plan for you (which can save you an extra $400 pa).
+Appliance level consumption
+Have you ever wondered which appliances use the most electricity in your home? Sure, we’ve all been told that appliances like your air conditioning (read more about how to reduce electricity bills using aircon and solar) and your clothes dryer are especially electricity hungry, but wouldn’t it be great to be able to see how much electricity each of your home appliances use and when? Appliance level consumption monitoring allows you to do this, so you won’t just be telling your kids to turn off the lights as they leave the room, you’ll be able to actually see if they do it or not, even if you’re out of the house.
+¹ The inverters consumption meter is sometimes called a smart meter. This is very confusing because a Smart Meter is the common term for the main household electricity meter that is supplied and owned by your electricity provider, eg Ausgrid. Both of these meters are located in your switchboard.
+How do you know if something is wrong with your solar system?
+Without a solar monitoring system, it can be tricky to determine if your solar system is performing as it should be. It is even harder to know what is wrong with your system if you do find that it is producing less electricity than expected.
+There are many factors which can impact your solar system’s performance and it is important that your monitoring system can factor in these changes to let you know if something is wrong, and what you can do about it.
+According to Ausgrid data taken from 8,000 home solar systems approximately 51.8% are not performing as expected. Without a solar monitoring system that alerts you when your solar system is underperforming, you could be part of this statistic and not even realise.
+In 2020, Solar Analytics saved their solar customers $9.1 million through rapid fault identification and rectification (usually under warranty at no cost).
+What can go wrong?
+There are a few things that can go wrong with your solar system hardware, either from slow degradation over the lifespan of the solar system or from immediate weather damage.
+Solar Inverter
+Inverters typically have a 5-to-10-year warranty, and a failure rate of 2-6% pa depending on the quality of the inverter². These failures vary from a slight decrease in electricity produced to complete failure. This is the most common point of failure, so it pays to buy a reputable solar inverter.
+Solar panels
+These typically have a 10-to-20-year product warranty on workmanship, plus a 25-year electricity production warranty to generate at least 80% of their rated power after 25 years - pretty impressive. But there are many things that can go wrong, e.g. by-pass diodes, hot-spots, cracked cells, solder joints, delamination, and so on. Good news is that good quality solar panels in fact last even longer than 25 years.
+DC Isolator
+This is a safety switch located either next to the solar inverter or on top of the roof. If they have not been correctly installed, they can fill with water and fail, causing part or all of the solar system to stop producing electricity
+Earth Faults
+This is where moisture causes a short circuit within the equipment or to an externally accessible component. In this event, your solar system will shut down to ensure safety.
+Shading
+If your solar system gets a lot of shading from trees or other structures, this will cause a reduction in your solar production. This is absolutely fine, but it is good to understand so you know the impact (and if you should do some tree pruning).
+Soiling
+All things get dirty, and the sun can’t penetrate as effectively through a dirty solar panel. While your solar panels are mostly cleaned by the rain³, this is less effective if they are installed flat or on a low tilt (less than 10 degrees). So does cleaning your solar panels make a difference? Generally, solar panels don't need cleaning, however if they are installed where they get build-up of dirt from birds, or grease or dust, you might need to intervene.
+Grid faults
+And of course, your main electricity grid sometimes has issues such as too high or too low voltage, which will cause your solar inverter to shut down to comply with regulations. The primary remedy here is to inform the electricity network company who should rectify the issue.
+So, what can you do about it? Installing a solar monitoring system that alerts you to any faults or underperformance of your solar system is the number one thing you can do as a rooftop solar owner to not only ensure your system is functioning properly, but also to prolong the lifespan of your rooftop solar, saving you time and money in the long run. And giving you peace of mind that you won’t get a surprise electricity bill chock.
+² Fun fact, some super cheap solar inverters have failure rates over 20% pa, and one that is no longer available has greater than 100% failure rate since even the replacement units failed. This particular brand, and most of the dodgy brands, have now been hounded out of the industry
+³In a typical climate, soiling will cause 2-5% loss of electricity. This is fine and nothing to worry about as it does not increase significantly over time.
+What else influences your solar system's performance?
+Did you know that the path of the sun each day varies across the year? This is why we see differences in solar energy output at different times of the year. In winter, the sun is lower in the sky and the days are shorter, resulting in lower solar power generation from your solar panels. Where you live in relation to the equator also impacts energy output on a daily basis, depending on the season, so you would expect different results if you lived in Brisbane versus Melbourne, even if both places are experiencing an equally sunny day. Your solar monitoring will take into account where you live and the tilt and orientation of your panels to predict their energy output.
+Who rained on my parade? Most solar owners also wonder how much cloudy and rainy days impact the performance of their solar system. While local weather and shading can affect the amount of solar energy your system is producing, a solar monitoring system like Solar Analytics analyses local weather data to calculate exactly how much your solar system should be producing on a specific day. It’s a lot more powerful than basic monitoring services as it factors in the actual expected performance of your solar on any given day, as opposed to an estimated average. One of our solar retailer partners found something even more unexpected thanks to Solar Analytics’ powerful alerts tool.
+Did you know that even on an overcast and rainy day your solar system will still be producing electricity? It makes sense since the sun is still shining, it has just been partially shaded by the clouds. Even on a heavily overcast and rainy day your solar system will still produce about one-fifth of the electricity it does on a perfectly clear and sunny day.
+Maintenance
+A good quality solar system is designed to last decades; however, they still require a little care to keep them functioning properly and prolong their lifespan so that you can get the most out of your investment. A solar monitoring system that alerts you to any issues as they occur is the best way to prevent any significant damage to your solar. Generally, we recommend you have your solar system professionally inspected and cleaned every five years.
+Understanding your energy consumption
+But wait, there’s much more that a solar monitoring software can do.
+For example, do you see fluctuation in your electricity bill but are unsure why it’s changing month to month?
+To make the most of the solar electricity your system is producing, it is essential that you can see when you produce solar electricity and how it aligns with your home electricity consumption. When you can understand those patterns and realise which appliances in your home use the most electricity, you can change when you run these appliances to make the most of your solar energy, thereby lowering how much you draw from the grid and overall reducing your electricity bills. This shifting of energy usage to the sunniest parts of the day is called load shifting.
+An example of a household that has not optimised their electricity usage. This house is running almost all of their energy hungry appliances in the evening, instead of when their solar system is producing the most electricity.
+Verses a household that has optimized their household energy usage to make the most of their solar energy system. Their energy load has shifted to maximizing the energy produced from their solar system.
+Energy prices
+With energy prices higher than ever, it’s even more essential to monitor how your home uses electricity and optimise when to use those energy hungry appliances to reduce your electricity bills. A solar monitoring system is your key to keep your money in your pocket and have a summer so cool you won’t even break a sweat.
+How much does it cost?
+Now you’re probably thinking, solar monitoring sounds like a great idea, but how much does it cost? If you already have rooftop solar for your home, the first step is to find out what solar inverter you have, as this will determine which solar monitoring will integrate well with your system, or if you need to purchase any additional hardware for your desired level of monitoring. If you’re unsure what solar inverter you already have, contact your solar system retailer for help.
+If you have a Fronius, Sungrow or Goodwe solar inverter and a consumption meter already installed in your home, a solar monitoring software subscription can cost as little as $4/month. That’s less than the cost of your daily coffee!
+However, if you don’t already own a consumption meter, installing one will cost between $200-$800.
+Savings
+The long-term savings of a solar monitoring app will far outweigh its cost, especially if you use an advanced software like Solar Analytics which is all about maximising your savings.
+With its smart performance monitoring alone, Solar Analytics has helped residential system owners save an additional $107 per year through quick fault diagnosis and rectification. On top of this, the ability to shift your household energy load to take advantage of the solar power your rooftop solar generates and find the best electricity plan for your home can save you hundreds of dollars on your energy bills.
+Money back in your pocket means you’ll have more to spend on the things you enjoy, instead of worrying about costly energy bills.
+Get a quote
+If you’re new to the solar world and are looking to install rooftop solar on your home, Solar Quotes is a great place to start.
+If you already have solar and are considering a solar monitoring system for your home, try it for free with Solar Analytics.
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/solar-performance/does-cleaning-your-solar-panels-make-a-difference
+
+Does cleaning your solar panels make a difference?
+On this page:
+Most people love their rooftop solar panels and the savings they bring. But our beloved solar panels have to endure the challenges of the outdoors! There’s the baking sun, driving rain, howling winds, dirt and dust, airborne pollution and of course…the ever-present birds and their well-aimed bird droppings.
+Many solar panel owners worry that dirty solar panels might affect solar energy production and thus impact household energy savings.
+Since Solar Analytics is all about getting the most out of your solar system, effectively boosting the savings you can make on your electricity bill, this subject is close to our heart!
+We’re also all about making things easy for you.
+So, here's the short answer: solar energy production is hardly impacted by normal pollutants like dust, leaves and bird droppings. The sun, wind and rain get rid of most pollutants naturally. In most cases, cleaning them is not worth the trouble.
+However, there are a few exceptions. So read on to learn more!
+How can you tell if your solar panels are not performing?
+If you want to work out whether your solar panels are performing well, you’ll need to measure the output of your solar panels. Not only that, but you'll also need to monitor things like cloud cover, time of day, seasonality, shading - the list goes on!
+Most solar monitoring systems will only tell you how much electricity you produced but won’t account for specific variations like those mentioned above.
+That’s where advanced solar monitoring (like we do here at Solar Analytics) can do all the hard work for you. By analysing local weather data and using custom algorithms, our clever engineers have developed a system that keeps an eye on your solar production and lets you know if your solar panels are working as they should, or if they are underperforming.
+The Solar Analytics app lets you (and your installer) know if there's an issue. Catching those small issues before they turn into big ones can make a significant difference in your power bills.
+Daily solar production view in the Solar Analytics dashboard
+How do solar panels get dirty?
+Bird droppings
+Bird droppings can be a real problem, especially if your panels don’t have much angle or ‘pitch’ to them. Most of the time, natural sun, wind and rain will remove the bird droppings from a solar panel on a normally pitched roof, and not cause problems for your solar energy production.
+However, if the panels are installed under a favourite gathering spot for birds, and they are not mounted at much of an angle, the droppings can accumulate on the panels and block light from reaching the cells.
+Road grime
+If your home is close to a busy road, you may notice black dust that can accumulate on the outside of your window sills. This comes from airborne particles released from diesel cars, trucks and buses, plus fine dust made up of ground-up tyre rubber (ever wonder where the rubber from a worn-down tyre went?). Some of this black dust will settle on rooftop solar panels but will be mostly blown and washed off by weather before it becomes a problem.
+Dust & dirt
+Dust and dirt will be blown onto your panels, then blown or washed off, without you having to lift a finger or worry about solar panel efficiency. Just think of the Crowded House song: ‘It’s only natural’ - ‘You don’t have to worry about it’!
+Other pollutants
+Other pollutants like smoke and nearby trees can reduce solar panel production.
+Smoke in the air can affect solar panel performance, but it doesn't settle on the panels themselves, so the effect is temporary and disappears when the smoke does. In a recent study, we found that solar output dropped by 15-45% on heavy smoke haze days.
+If there are a lot of tree branches near your roof, the wind can blow pollen, flowers, leaves and other debris onto solar panels. Except for some tree species, most of this will be blown off by wind or washed off by water and will not cause an issue.
+How does this affect solar panel performance?
+Panels do change a little in terms of performance, over time
+Solar panel performance degrades a very small amount every year simply because of constant exposure to the elements.
+Daily heating and cooling, damaging UV light and even humidity all take a toll on even the best solar panels over the years.
+This is only a small amount of performance loss over a long period of time, so it's nothing to be worried about.
+But what about dirty panels?
+Putting normal performance degradation aside, what about the impact of dirt and other pollutants on solar panel performance?
+Being passionate and numbers-driven here at Solar Analytics, we looked at the data!
+When we ran the numbers (and took the normal performance degradation into account) we found no net change beyond 5% (i.e. no increase or decrease in output) over the lifetime of the panels.
+Even that 5% change is most likely due to variations in weather data and algorithm estimation, rather than panels getting dirty and being washed clean by the rain.
+These findings held true even when we looked at flatter panels, where dirt and grime may not be washed off very well.
+So, looking at the numbers, there doesn’t seem to be much performance impact at all from dirty panels.
+Flat panels may need to be cleaned
+A tilt on rooftop solar panels is optimal for most homes, to get the maximum amount of energy (and savings) over the whole year.
+Some panels are fitted flush against an almost-flat roof (sometimes so as not to change the aesthetics of the roofline). If panels are near flat, rainwater can sometimes pool on them and leave a mark when it dries up, or at least not run off very fast, and therefore not remove the dust and grime as much.
+Flat solar panels can be a common location for pollutants to build up over time.
+The engineers at Google, who have huge solar arrays on the roofs of their server buildings which house thousands of energy-hungry computers, found that cleaning their flat solar panels for the first time in 15 months doubled the energy output. Now it’s worth remembering that these panels were completely flat and were next to a huge field of sand and dust, in the bone-dry state of California. The folks at Google did the same experiment with some tilted panels nearby and found hardly any improvement from cleaning them.
+So if you have flat panels, maybe on the garage roof or on a patio rooftop, and if you can hose them down safely, without climbing all over your roof and risking life and limb, then it may be worth cleaning them every now and then.
+Location
+Some panels have the unfortunate fate of being located under trees or wires or antennae that are very popular with birds, so you can imagine they might catch a lot of bird droppings. The location of your solar panels will affect how dirty they get and whether you should consider cleaning them.
+But fear not!
+Even panels that catch bird droppings are unlikely to be compromised, as the baking sun and washing rain will do much more damage to the bird droppings than it will do to the panels, and they will soon be back to their normal performance thanks to nature’s free cleaning service.
+There is one kind of rain that may not be helping your solar panels however; Cicada rain!
+If you have a lot of nearby native trees you will no doubt be familiar with Cicadas.
+During the hotter months they drink tree sap and to stay cool, then pass it through their bodies which sometimes appears like a gentle rain. The combination of cicada rain (from sap), pollen and dust has been reported as the cause of tough residue appearing on solar panels and be quite stubborn to remove.
+If this is your situation, use a good performance monitoring system like Solar Analytics to alert you when your solar output drops more than it should, so you can clean your panels before it sets and hardens.
+Should I clean my solar panels?
+In most places around Australia, even in some dry environments like Adelaide, there is plenty of natural cleaning of solar panels that occurs through the sun, rain and wind. This is more than enough to keep your panels running above 95% efficiency most of the time. However, if you really want to spend the time or money cleaning them, it will improve their performance a little.
+Can cleaning improve efficiency?
+Yes (but not much)!
+Researchers at the University of California found that panels which had not been washed or rained on for almost five months during a summer drought in California lost just 7.4% of their efficiency. In this case, for a typical residential solar system, washing panels halfway through the summer would have translated into a $20 benefit in energy savings. Also, a study in Arizona found only a 1% improvement in performance as a result of cleaning dust and dirt from panels.
+If you want more solar production, you’re much better off getting more panels!
+Energy prices are only going up so the savings from installing more solar will only increase as you get more solar. You’ll get a much greater benefit from this, compared to spending time or money cleaning solar panels.
+What is the best way to clean solar panels? (If you really have to)
+Is professional solar cleaning the best option?
+When it comes to climbing around on your roof, getting a professional is almost always the best option. Especially when there’s water involved.
+Being on the roof of your home is dangerous enough but when you have water (possibly even with detergent) as part of the equation, it becomes much more sensible to pay a professional to take the risks.
+They should have the right equipment and training to not only deal with the risks, but also to prevent any damage to your solar system (by using the right brushes, detergents, water systems etc).
+Cleaning solar panels yourself
+If you're going to clean your solar panels yourself instead of hiring someone else, make sure you’re well prepared before you start.
+What not to do
+Never use pressure washers, harsh chemical cleaners or abrasive scrubbers. These could damage your panels and cause them to fail prematurely. Also, remember that scratches on the glass can reduce performance just like the dust and debris that you’re trying to remove!
+Don't try to climb up onto the roof to clean your solar panels without the right equipment or training. Water and detergent can make rooftops slick. Of course, if you did climb up on the roof and start spraying the hose all over your solar system, you're playing with water and electricity - a dangerous combination!
+Keep it simple
+The simple option is the best option: Just use a regular garden hose to spray the panels from ground level (if the spray reaches that far!) Then, give it 5 minutes for the water to dissolve in and loosen up any residue on the panel and then spray it again. Repeat the process until it appears mostly clean. Don’t worry if they’re not completely clean, the panels will still perform fine with a little dirt or bird dropping residue left on them.
+To get those stubborn stains
+If you really want to get those stubborn stains and the hose won’t shift them, you could get a soft brush with a hose fitting, some dishwashing liquid, and a pole extension to try to reach the panels from the ground. But this is awfully hard work, fiddly to set up, and is really not going to make much difference for most systems on most roofs (although it may be a good option if you have flat panels and can reach them safely).
+For the ultimate clean
+If you really want your panels cleaned thoroughly, hire a professional to do the job. Doing it from the ground is hard; doing it from the roof is dangerous, especially when it’s wet. It’s just not worth the risk for the minimal improvement you’ll see in your solar production.
+How often should solar panels be cleaned?
+As a rule of thumb, and if you really want to clean your solar panels, aim for every six months (including once during winter if you have plenty of deciduous trees nearby, to get rid of any leaves that have dropped in the autumn and are stuck on the panels).
+Even better, make sure you have an advanced solar monitoring system like Solar Analytics. Then you can really relax: only think about cleaning your panels if there is a performance problem flagged by the system. Even then if there is a problem, most likely it’s something that cleaning won’t fix anyway. If cleaning doesn’t solve it, you can reach out to your installer and ask them to look into it.
+For more detail on common solar panel problems, have a look at this article.
+Solar panel cleaning can cost more money than it saves
+If the panels are a little dirty and there hasn't been much rain, the amount of money you spend on getting them cleaned will far outweigh any potential gains on your energy bill.
+According to Solar Quotes, if you cleaned your solar panels twice a year and this resulted in a 2% increase in solar generation, the average household might earn about an extra $80 per year. But two visits from a professional cleaning service might cost up to $400 in that same year. It’s not hard to see that paying for a professional cleaner doesn’t stack up.
+Warranties
+Does my warranty include cleaning?
+Most solar system warranties don’t require or stipulate that you regularly clean the panels to maintain the warranty. If you want to be sure, ask your installer.
+If you do get a professional to clean your solar panels, they could spot any defects or problems like cracks, chips or discolouration in the glass, or other visible issues like corrosion. You could then talk to your installer and ask them to inspect it themselves and consider a warranty claim.
+Most solar panel cleaning professionals won’t be qualified to do an official inspection, but they should be able to spot obvious problems for you.
+The Clean Energy Regulator recommends that solar panel systems should only be inspected and maintained by a licensed electrician or a Clean Energy Council-accredited solar panel system installer.
+The final verdict: Is it worth it?
+In some cases, yes.
+For example, if you live somewhere where dust collects easily, such as near agricultural land or construction sites, and there's little rain, or you have flat solar panels, cleaning your panels every few months with a hose from the ground could be worthwhile. What happens if you don't clean your solar panels? Mother Nature will mostly do the heavy work for you with rain, sun and wind. There may be a very minor effect on performance, but it will be virtually nothing in the larger scheme of things.
+To save more money on electricity bills, focus on getting more solar panels, get rid of gas and electrify everything you can in your home. Switch to an efficient electric hot water system that runs only during the day when the sun is shining. These changes will really ‘move the needle’ when it comes to solar savings. Find out more about how to lower your power bill (or even eliminate it) here.
+Get more from your solar with advanced monitoring
+Solar Analytics was designed to give you more savings, more control and more confidence that your system is performing as it should and that you are maximising your savings.
+Sign up for a free trial of Solar Analytics here.
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/solar-performance/how-do-clouds-affect-your-solar
+
+How do clouds affect your solar?
+On this page:
+First, a bit of context. (If you can’t wait, scroll down for the numbers!)
+How much can your system generate on a cloudy day?
+There’s no straight answer because every day is different and so is every cloud. It’s actually fairly intuitive though, because solar cells mostly work in the same light wavelength range as our eyes¹. So if the sun is behind a thin and wispy cloud where it’s still too bright to look at, the solar production will be only slightly affected. If it’s very overcast and but you can still find a somewhat bright spot where the sun is, then you’re probably down to about 50% output. If you’ve got no idea where the sun is, you’re probably down to 20-30% and if it’s dark, the-heavens-are-about-to-open type skies, you might be below 10% or even shut off completely.
+If you’ve got your Solar Analytics My Solar App (iOS or Android) handy, then of course you can just check the live monitor any time you want. But you can impress your friends² by guessing the output based on contrast of shadows. The images below correspond to the sun-spots on the live monitor chart.
+The silver lining
+Surprisingly, clouds can sometimes increase solar output. The best case is when you have no clouds in front of the sun, but clouds everywhere else. This is because clouds reflect some scattered light back down to the ground. This is what happens when it feels very “glary” even when you’re not looking toward the sun.
+An extreme case of this is when clouds surround the sun and the reflection creates a sort of lensing effect so that some of the direct sunlight, which would otherwise be sent out sideways and not reach your roof, is reflected down onto your array. This usually only lasts a few seconds so it doesn’t have a big impact on your overall output (and in most cases, your inverter would limit the output anyway).
+But it’s kinda cool as it literally creates a silver lining on the clouds. You definitely shouldn’t try to look at this as the sun intensity can double during these times and damage your eyes. Speaking of damage - this is also one of the reasons that people get horribly sunburned on cloudy days³. So if it’s a partly cloudy day and you suddenly feel like you’re being fried, then point your camera up and hope for the best, like I did.
+Analysing the effect of clouds on solar output
+Ok, so I looked at estimated output based on data known as Typical Meteorological Year (TMY). This is the most representative solar data, as it looks at the distribution across the last ~25 years, rather than any particular year.
+If we look at December - January, we can break it down into quarters, so we have the sunniest 25% of days, the cloudiest 25% and the two quarters in between. I looked at four capitals where we have lots of Solar Analytics sites⁴.
+If we then take the average output in each of those groups, we can see that in Adelaide, the cloudiest days produce around 57% of the output on the sunniest days. Adelaide is a very sunny place though and we can see that the 2nd-cloudiest quarter of days still produces 90% peak output compared to the sunniest quarter.
+Sydney-siders will be all-too familiar with a storm ruining the family BBQ or washing out the Sydney Test and we can see that in the data. The cloudiest quarter of days produces around 37% of the output of the sunniest days, while the 2nd-cloudiest quarter produces around 69%.
+Winter of course gives us less solar output since the sun is lower (and therefore gets absorbed by more atmosphere on it’s way to us) and the days are shorter. The difference between summer and winter also depends on our latitude. The closer you are to the equator, the smaller the difference. So in Sydney, the best Winter days produce around 60% of the best summer day output, while in Brisbane, it’s 70% and in Melbourne, about 50%.
+In Adelaide, Winters appear to be cloudier than Summers with the cloudiest quartile of days producing 36% of the sunniest quarter output. In Sydney, however, the ratios are quite similar to summer time.
+And yes, the solar panels have spoken - and they say that summer in Melbourne is indeed sunnier than it is in Sydney!
+Get the most from your solar with advanced monitoring
+Solar Analytics is designed to give you control and confidence that your system is performing as it should and that you're maximising your savings.
+Sign up for a free trial of Solar Analytics here.
+[1] Silicon solar cells work from near-infrared upwards to UV and beyond, so they respond to a wider spectrum than our eyes, but because the strongest sunlight intensities occur in the visible range, these are the wavelengths that have the biggest impact. Most solar cells also look dark blue. That’s because their anti-reflection layers are optimised to absorb the most-plentiful green-red light, which means they reflect more of the dark-blue-violet light.
+[2] My only friends are other solar nerds.
+[3] Also because UV light is worse for sunburn and this light can penetrate some clouds more than visible light.
+[4] I didn’t analyse everywhere. I’ve got limited time and have to get back to finding system faults! But if you’re super keen to know your region, then add a comment and I’ll take a look.
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/solar-performance/impact-of-shading-on-your-solar-output
+
+Impact of shading on your solar output
+On this page:
+As our existing customers know, a key feature of Solar Analytics is our patented True Performance monitoring algorithms. Using your system’s configuration and local weather data (solar irradiance, wind speed, temperature, etc.), we automatically monitor your solar system and let you know if it starts producing less solar power than it should - giving you confidence that your investment is functioning as expected, and protecting your solar savings. Side note: go read about the frog in the inverter for a great True Performance story!
+Understanding how shading impacts your performance helps you better diagnose the reasons behind a decreasing output and what you can do to fix it.
+Tracking solar energy loss due to shading
+One of the trickiest elements of True Performance is detecting and quantifying how much solar energy is “lost” due to shading on a site. If a big tree covers your solar panels in the afternoon, we would naturally expect you to generate less solar energy than an equivalent system without this afternoon shading. Seasonal shading in particular is difficult to quantify, due to its variable impact throughout the year. You can see how much solar you're losing to shading by navigating to the Production page of your Dashboard, as in the example below.
+Improving the algorithm
+Here at Solar Analytics, we’ve recently been working hard on improving the way we quantify shading losses in our True Performance algorithms, using insights from our database of thousands of solar customers. We now “learn” the shading behaviour from a site’s historical data (and other nearby sites similar to it) to better account for each site’s unique circumstances to predict shading losses. Some key changes in the new version of our shading algorithm include:
+- Our predictions of shading losses have dramatically improved, particularly on sites with seasonal or fixed shading.
+- We can now start predicting shading losses (if they exist) immediately after site commissioning. Previously, the shading algorithm would only start after 14 days of data had been collected.
+- Our tests have shown that we’ve reduced the number of “false” under-performance alerts sent to our customers by 25% or more.
+Below are a few examples of our new shading algorithm in action - check out the before and after success stories!
+Monitoring your solar performance
+Issues like shading could be impacting your solar output.
+Monitoring your solar performance with a smart solar software like Solar Analytics will help you quickly identify when something is wrong and avoid bill shock at the end of the month. Get peace of mind that your solar is working as it should and if not, we will let you know.
+Get started with a free Solar Analytics trial today.
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/optimising-your-energy
+
+What it does
+How it works
+Pricing
+Getting started
+I am a Retailer
+About Solar Analytics
+Contact us
+Login
+Support
+Privacy policy
+Terms and conditions
+What it does
+How it works
+Pricing
+I am a Retailer
+Get started
+Login
+GET STARTED
+Optimising your energy
+Looking to increase the efficiency of your rooftop solar energy production and electricity consumption? Here's what you need to know.
+Home
+>
+Optimising your energy
+Optimising Savings through Energy Consumption Tracking
+December 15, 2023
+Choosing a Heat Pump Water Heater | Solar Analytics
+Read More
+Solar Analytics
+November 15, 2022
+Read More
+Optimising Savings through Energy Consumption Tracking
+Solar Analytics
+November 15, 2022
+Read More
+When is the best time to use your solar power?
+Solar Analytics
+November 15, 2022
+Read More
+Guide to charging your EV with rooftop solar
+Solar guide
+Everything you need to know about how to make the most of your rooftop solar and increase your solar savings.
+Buying solar
+Mastering Solar Power with a GoodWe Solar Inverter
+How to Read Sungrow Solar Inverters: A Step-by-Step Guide
+Fronius Smart Meter Monitoring: An Essential Guide
+Which Smart Energy is right for me? Solar, battery or heat pump
+Contemplating the Benefits of Rooftop Solar?
+Buying a house with a solar system? Read this.
+What size solar system should I get? Answer: Cover Your Roof!
+Does a battery make financial sense in 2022?
+Solar performance
+How La Niña impacts your rooftop solar!
+Monitoring your solar - Get the most out of your rooftop solar
+Does cleaning your solar panels make a difference?
+How do clouds affect your solar?
+Impact of shading on your solar output
+5 things NOT to do when cleaning solar panels
+Optimising your energy
+Choosing a Heat Pump Water Heater | Solar Analytics
+Optimising Savings through Energy Consumption Tracking
+When is the best time to use your solar power?
+Guide to charging your EV with rooftop solar
+Electricity bills and plans
+How to lower your power bill (or even eliminate it)
+What are solar feed-in tariffs? Your questions answered.
+Saving with solar
+5 tips to maximise your solar savings
+How to reduce your hot water bill
+How Plan Optimiser helped me save almost $800 pa
+Community News
+Announcing automatic plan updates
+Smart charging for motorcycles: a Zen approach
+Electricity prices are skyrocketing! What should I do?
+Just released: Plan Optimiser!
+How to reduce your dependence on the grid
+
+--------------------------------------------------------------------------------
+
+URL: https://solaranalytics.com/optimising-your-energy/choosing-a-heat-pump-water-heater-solar-analytics
+
+Choosing a Heat Pump Water Heater | Solar Analytics
+On this page:
+Evaluating Home Hot Water Heating: Should I Get a Heat Pump Water Heater?
+Grasping the Fundamentals of Heat Pump Technology
+Imagine a magical machine that steals warmth from the air, even when it's chilly outside, and uses it to heat your water. That's what an air source hot water heat pump does! It works like a refrigerator in reverse, sucking in air and using a special compressor to concentrate the small amounts of heat already present in the air outside your home. It then transfers this concentrated warmth to your water, making it toasty and ready for your shower or bath.
+Unlike resistive element electric or gas hot water heaters that simply convert energy to heat with an efficiency of 60-90%, so for every unit of energy they consume, they generate 0.6 to 0.9 units of heat. The magic of the heat pump is that it uses a small amount of electricity to move a lot of heat, so they can generate three to four times as much heat from the same energy input, ie they are 300% to 400% efficient. It's like a master thief, stealing warmth from the surrounding air and delivering it straight to your hot water tank, saving you money and energy in the process. And the best part? It works throughout the year, even when the outside air is cold, which explains why they are popular in Norway!
+The ability of a heat pump to operate at above 100% efficiency is known as a coefficient of performance (CoP), with 100% efficiency being represented as a CoP of 1, and 300% efficiency being represented as a CoP of 3. Heat pump systems on average can achieve a CoP of 3 – 4. The higher the CoP, the more efficient and cheaper the system will be to run.
+The point of all of this is to reduce your monthly energy bills by giving you cheaper hot water (heating your water is typically a quarter of the cost of your annual energy bill). Upgrading your hot water is typically the first thing to do to electrify your home and increase our energy efficiency.
+It is important to note that modern heat pump hot water heaters are much more reliable and efficient than those installed decades ago. Some of these older heat pump systems were poorly made or were unsuitable for use in Australian conditions, and suffered from unreliable electronic controllers, leaked water, or excessive noise. There are now more than four million heat pumps sold globally every year increasing every year due to being cheaper to run.
+Cost to purchase and install a heat pump compared to traditional gas or resistive heaters?
+A heat pump hot water system is more expensive to buy than either a gas or resistive system. The cost will vary depending on the following key factors:
+- System quality – you get what you pay for, and a better quality system will be more efficient and last longer
+- System size – a larger system is more expensive
+- Your location – different states offer different rebates for heat pumps
+- Difficulty of installation – any complicating factors or additional requirements
+There are federal and state government incentives to replace your old gas or resistive hot water system with an efficient heat pump. Refer here for more detail on these rebates.
+There is a greater variability in the cost of a heat pump system due to the varying government rebates, and a wider range in the quality and efficiency of the system. We recommend buying a good quality system to ensure a decade plus of cheap, reliable hot water. More information on the cost and features of different heat pump brands can be found here.
+To find out if a heat pump is right for you and how much it would save, visit the free online Solar Maximiser tool that compares all of your smart energy options and provides independent, accurate and free guidance.
+Operating costs of the different hot water technologies
+Your actual cost to heat your water will depend on how much hot water you actually use over the year. It is also determined by:
+- your energy tariffs and chosen energy plan
+- if you have rooftop solar (for electric resistive and heat pump systems)
+- when you heat your hot water, especially if you have rooftop solar
+- your climate - colder climates take more energy to heat the water
+- the efficiency of your hot water system.
+For an average household of three people who use 120 litres of hot water per day the operating costs are shown below.
+Rooftop Solar is a solar PV system set up to charge your hot water from your excess solar generation.
+If by replacing your gas hot water system with electric, you can also remove your daily gas supply completely by electrifying your whole home, then you can reduce your energy bill by an extra $237 each year. Refer here for further advice of choosing the best electricity plan.
+As you can see a heat pump is the cheapest system to run, especially if you have rooftop solar and set your heat pump to operate during daylight hours from your excess solar that would otherwise be sold back to the grid for about 6c/kWh.
+If you get a Reclaim heat pump, Solar Analytics can automate the operating times to maximise your savings. Read here for more information on how to maximise your heat pump savings.
+To see how much rooftop solar, a battery or a heat pump would save your household, use the free online Solar Maximiser tool that compares all of your smart energy options and provides independent, accurate and free cost and savings information.
+And if you do have rooftop solar, learn how else you can increase your solar savings and reduce your energy bills by optimising your solar.
+Advantages of Heat Pump Water Heaters
+As shown above, the main advantage of a heat pump hot water heater is that it is much cheaper to run than either a gas hot water or traditional resistive electric hot water heater.
+- Energy efficiency: Heat pump water heaters are 3 to 4 times more energy efficient than traditional electric resistance or gas water heaters because they extract heat from the air, even in cold weather, instead of generating heat directly.
+- Environmental friendliness: Heat pump water heaters produce fewer greenhouse gas emissions than traditional water heaters because they consume far less energy (1.9 tonnes CO2 per annum versus 9.5 tonnes for gas hot water). And less than 0.5 tonnes CO2 each year if you primarily use your rooftop solar to run the heat pump.
+Like gas and resistive water heaters heat pumps are:
+- Low maintenance.
+- Scalable for any size home (or even commercial premises)
+- Quiet. There is a fan located outside the house that extracts air, so the noise is similar to the external part of a reverse cycle air conditioner.
+- Durable. There are now millions of heat pumps sold every year, and good quality systems have a proven lifetime equal to that of traditional gas and resistive heaters.
+If you are considering a new water heater, a heat pump water heater is a great option. They are energy efficient, environmentally friendly, durable, and low-maintenance.
+Environmental Impact and Sustainability
+Hot water heat pumps are a sustainable and environmentally friendly way to heat your home's water. Although coal is still the largest source of electricity generation in Australia, the proportion supplied by renewable energy is increasing from 35% in 2022 to 82% in 2030. This means that electric hot water is getting greener every year.
+And if you have solar on your roof, you can optimise when you operate your heat pump or resistive hot water to run from your excess solar generation. This means that you will not only reduce the cost of heating your hot water, you can run it with up to 100% renewable energy.
+Environmental benefits of hot water heat pumps:
+- Reduced greenhouse gas emissions since they can run off 100% renewable sources.
+- Improved air quality: hot water heat pumps don't produce any harmful pollutants of gas heating, which can help to improve air quality.
+- They are very efficient: use 3-4 times less energy than traditional water heaters.
+- They have a long lifespan: last up to 25 years, which means that they are a long-term investment.
+- They are made from recyclable materials: Hot water heat pumps are made from materials that can be recycled, which helps to reduce waste.
+Overall, hot water heat pumps are a great choice for homeowners who are looking for a sustainable and environmentally friendly way to heat their home's water.
+Solar Analytics Insights on Energy Efficiency
+In addition to providing comprehensive and automated guidance to maximise savings from your rooftop solar system, Solar Analytics also provides insights to minimise your hot water costs. The simplest way is through our integration with Reclaim Heat Pumps. Once you have authorised Solar Analytics to receive your heat pump energy data, you will receive free insights and advice to save even more off your energy bill.
+Solar Analytics analysed hot water costs for our 50,000 customers for whom we have provided improved energy efficiency insights and analysis. This showed that our customers with a hot water heat pump on average used only 2.4kW per day to heat their water, compared to 7.1 kWh/day for conventional tank storage hot water systems.
+Increasingly we are seeing our customers shift their hot water charging from Off Peak overnight to daytime charging so that they can use more of their rooftop solar generation. The below diagram shows the range of savings customers obtain from different hot water control methodologies.
+More information on how to reduce your hot water energy bill can be found here.
+How Heat Pump Water Heaters Save Energy Costs
+Heat pumps reduce your energy bill due to their high efficiency. A typical heat pump runs for 2-4 hours per day, drawing 300-1000W, for an average daily consumption of 2.4kW per day. This is roughly a third of the energy consumed by gas or resistive heaters.
+These savings are further increased when you have rooftop solar and set the heat pump to operate during periods when you have excess solar generation. As shown in the below example, the heat pump (blue line) is fully charged from the rooftop solar. Hence, on this sunny day the hot water was completely free and powered by the customer's own solar system.
+Analysing the Return on Investment
+Factors to Consider Before Making a Decision
+Compatibility with Existing Systems
+Heat pumps are compatible with existing plumbing systems in most cases. The main exception to this is the replacement of an instantaneous gas or electric hot water system. The heat pump requires both the heat extraction unit and the water storage tank, so for apartments or other locations that have extremely limited space available, the heat pump may not be a suitable solution.
+If you already have a storage tank gas or electric hot water system, have space near you hot water system, or are building new or renovating then a heat pump system is typically very easy to install. However, there may be some modifications or adjustments needed to ensure proper integration and optimal performance.
+- Heating Element Compatibility: If you have a hybrid heat pump water heater, which combines a heat pump with a backup electric resistance heating element, ensure the existing electrical wiring can support the power requirements of both the heat pump and the heating element.
+- Age and Condition: If your existing hot water system is very old, you should also get the pipes and wiring checked to ensure they are appropriate for capacity and insulation.
+- Removal of gas lines. If you are replacing a gas hot water heater, it is worth considering if you can remove all of your gas appliances and electrify your whole home. This will save an extra $200-$300 each year by avoiding the daily gas supply charge.
+By carefully evaluating your existing plumbing and heating systems and seeking professional guidance, you can ensure a smooth and successful integration of a heat pump into your home, maximizing its efficiency and performance.
+Installation and Maintenance Considerations
+Installing and maintaining a heat pump water heater requires careful consideration to ensure optimal performance, longevity, and safety. Here's a comprehensive guide to heat pump installation and maintenance considerations that your heat pump installer will consider:
+Heat Pump Installation
+- Site Selection: Choose a location that is well-ventilated, free from obstructions, and has access to electrical and plumbing connections. Ensure the area can accommodate the heat pump's dimensions and weight.
+- Electrical Requirements: Check there is an appropriate electrical circuit available. A heat pump typically draws less than one kilowatt, so less than your toaster and much less than a resistive heater.
+- Plumbing Connections: Ensure the water supply and drain lines are compatible with the heat pump's connections. This is similar for all system technologies.
+- Professional Installation: Engage a qualified HVAC technician for proper installation. They will ensure proper placement, connections, and adherence to safety standards.
+Heat Pump Maintenance
+- Regular Cleaning: Check the drainage lines are clear, and clean or replace the air filters every 6-12 months to maintain airflow efficiency.
+- Monitoring Performance: Monitor the heat pump's performance using the heat pump’s app or an advanced service like Solar Analytics to ensure optimal savings and operation.
+- Professional Maintenance: Consider professional maintenance every 2-3 years for a thorough cleaning, inspection, and tune-up to ensure continued optimal performance.
+Additional Considerations
+- Climate: In colder climates, consider a heat pump designed for cold weather operation to ensure efficient performance.
+- Water Quality: If you have hard water, consider a heat pump with built-in water softening capabilities to prevent mineral buildup.
+- Warranty: Understand the manufacturer's warranty terms and conditions to ensure proper coverage and maintenance requirements.
+By following these installation and maintenance considerations, you can ensure your heat pump water heater operates efficiently, provides consistent hot water, and lasts for many years.
+Comparing Heat Pumps to Traditional Water Heaters
+Efficiency Compared: Heat Pump vs. Conventional Heaters
+Heat pumps are significantly more efficient at heating water than traditional water heaters. This is because they use a refrigerant to absorb heat from the air or ground, which is then used to heat water. Traditional water heaters, on the other hand, simply generate heat by burning electricity or fuel.
+The COP, or Coefficient of Performance, is a measure of how efficient a heat pump is. A higher COP means that the heat pump is converting more energy into heat. As you can see from the table, heat pumps have a COP of 3.0, while traditional water heaters have a COP of 1.0. This means that heat pumps are three times more efficient than conventional heaters.
+Overall, heat pumps are a more efficient and cost-effective way to heat your water than traditional water heaters. If you are looking for a way to save money on your energy bills and reduce your environmental impact, then a heat pump is a great option.
+Best Practices for Optimal Performance
+Choosing the Right Size for Your Home
+Choosing the right size heat pump hot water heater for your home is important to ensure that you have enough hot water to meet your needs without wasting energy. The key factors to consider when sizing a heat pump hot water heater for your home are:
+- Household size: The number of people in your household is the most important factor to consider when sizing a heat pump hot water heater. Your actual hot water usage will vary depending on your lifestyle and habits.
+- Climate: The climate in your area will also affect the size of heat pump hot water heater you need. In colder climates, heat pump hot water heaters have to work harder to heat water, so you may need a larger unit.
+- Existing hot water heater size: If you are replacing an existing hot water heater, you can use the size of your current heater as a starting point. However, you may need to adjust the size up or down depending on your household size and climate.
+Below is a table of recommended heat pump hot water heater sizes for different household sizes. If you heat your hot water with Off Peak electricity, i.e. only during the evening, you may want a slightly larger tank size to ensure you never run out of hot water.
+Frequently Asked Questions
+What are the key benefits of choosing a heat pump water heater?
+The two key disadvantages of a heat pump system are that they require more space than the instantaneous heaters, and have a higher upfront cost.
+What is the lifespan of a typical heat pump water heater?
+A typical heat pump water heater has an expected lifespan of 10 to 15 years. This is longer than the lifespan of a traditional electric water heater, which is typically 8 to 12 years long, and a gas water heater, which typically lasts about 8 to 10 years.
+Here are some factors that can affect the lifespan of a heat pump water heater:
+- Proper maintenance: Regular maintenance, such as cleaning the coils and checking the refrigerant levels, can help extend the lifespan of a heat pump water heater.
+- Water quality: Hard water can cause mineral buildup on the coils of a heat pump water heater, which can reduce its efficiency and shorten its lifespan.
+- Installation: A properly installed heat pump water heater will be more likely to last for its full lifespan.
+- Climate: Heat pump water heaters that are operated in colder climates may have a shorter lifespan than those that are operated in warmer climates.
+With proper care and maintenance, a heat pump water heater can provide years of reliable hot water service.
+Ambient air temperature
+Although it does not seem like cold air has much heat energy, air at 0°C still has over 90% of the heat energy of air at 40°C and therefore has plenty of heat to extract. This is achieved with a heat pump, which uses a compressor, expansion valve and heat exchangers to absorb and transfer this heat energy into the water.
+The optimal ambient temperature range for air-source heat pump water heaters is between 4°C and 32°C, however good quality systems such as the Reclaim Energy CO2 Heat Pump will operate effectively between -10ºC and 43ºC, without the need for an electric backup/booster element. They are also fitted with an inbuilt freeze protection, making it suitable for all Australian conditions and climate variations.
+The efficiency of heat pump water heaters will decrease as the ambient temperature drops below 4°C. This is because the heat pump has to work harder to extract heat from the colder air.
+If you are considering a heat pump water heater for your home, it is important to check the operating temperature range of the model you are interested in. You should also consider the climate in your area. If you live in a cold climate, you may need to choose a model that is specifically designed for cold weather operation.
+Are there any government incentives for installing heat pump water heaters?
+There are federal and state government incentives to replace your old gas or resistive hot water system with an efficient heat pump.
+The rebate available is typically $1,000 to $2,000 depending on the type of hot water system you are replacing, the size of the new heat pump, and your location. Your heat pump installer can provide more details and even apply for these on your behalf.
+Refer here for more detail on these rebates.
+Can I retrofit a heat pump water heater to my existing plumbing?
+Typically, yes, you can retrofit a heat pump water heater to your existing plumbing. Although there may be some plumbing modifications needed in some cases.
+How does the environmental impact of heat pump water heaters compare to other options?
+Heat pump water heaters offer significant environmental advantages over traditional water heaters, which are typically powered by fossil fuels like gas or oil. Here's a comparison of their environmental impact:
+- Greenhouse Gas Emissions: Heat pump water heaters produce far fewer greenhouse gas emissions than traditional water heaters.
+- Air Quality: Heat pump water heaters don't produce any harmful air pollutants, unlike traditional water heaters that emit carbon monoxide, nitrogen oxides, and particulate matter. These pollutants can contribute to smog, acid rain, and respiratory problems.
+- Fossil Fuel Reliance: Heat pump water heaters help reduce our reliance on fossil fuels, especially if you power the system from your rooftop solar.
+- Energy Efficiency: Heat pump water heaters are more energy efficient than traditional water heaters. This means they use less energy to heat the same amount of water as traditional electric water heaters, which further reduces their environmental impact.
+What maintenance is required for a heat pump water heater?
+Heat pump water heaters require minimal maintenance, but regular upkeep can help extend their lifespan and ensure optimal performance.
+- Regular Cleaning: Check the drainage lines are clear, and clean or replace the air filters every 6-12 months to maintain airflow efficiency.
+- Monitoring Performance: Monitor the heat pump's performance using the heat pump’s app or an advanced service like Solar Analytics to ensure optimal savings and operation.
+- Professional Maintenance: Consider professional maintenance every 2-3 years for a thorough cleaning, inspection, and tune-up to ensure continued optimal performance.
+How does the energy efficiency of a heat pump water heater compare to traditional options?
+Heat pump water heaters are significantly more energy efficient than traditional water heaters, offering substantial savings on energy bills and reducing environmental impact.
+What factors should be considered when determining the right size of a heat pump water heater for my home?
+Several factors influence the appropriate size, including:
+- Household Size and daily water usage
+- Climate: Colder climates require a slightly larger system
+- Peak Hot Water Demand: Identify peak hot water usage periods, such as mornings or evenings, when multiple occupants require hot water simultaneously. Ensure the heat pump can meet these peak demands.
+- Recovery Rate: The recovery rate measures how quickly the heat pump can reheat water after use. A faster recovery rate is crucial for continuous hot water availability in homes with high demand.
+- Efficiency: Consider the heat pump's Coefficient of Performance (COP), which measures its energy efficiency. A higher COP indicates better energy efficiency and lower operating costs.
+- Water Quality: Hard water can cause mineral buildup on the heat pump's coils, reducing efficiency and lifespan. If you have hard water, consider a model with built-in water softening capabilities.
+- Space Requirements: Measure the available space for the heat pump, considering the unit's dimensions and clearance requirements for proper ventilation and access for maintenance.
+- Professional Consultation: Consult a qualified HVAC technician to assess your specific hot water needs, considering household size, climate, usage patterns, and existing plumbing configuration. They can recommend the most suitable heat pump water heater size and provide expert installation.
+Final Considerations and Decision Making - Making an Informed Choice for Your Home
+At the end of the day, the best type of hot water heater for your home will depend on a number of factors. This includes the following:
+1. How old is your current hot water system?
+If your system is only a few years old, you may be reluctant to replace it with a new hot water system for a few years.
+2. Do you already have rooftop solar?
+If so then an electric hot water system will be the cheapest, and if your old hot water system is ready to be replaced then upgrading to a heat pump is likely the best option.
+3. Do you have space for a heat pump system?
+Most houses do have space, but if not then you will need to consider alternatives like solar thermal or instantaneous. You can also see if a smaller heat pump system will fit, and accept that it will run more frequently.
+4. Are you planning on getting off the gas and electrifying your whole house?
+If so, then replacing your gas hot water with a heat pump is likely your first action to take.
+Exploring Financing Options for Your Water Heater Upgrade
+As with solar and other smart energy appliances, there are many options to pay for the initial outlay required to install a heat pump system. The simplest and cheapest option is to pay cash upfront, however with heat pumps costing up to $5,000 after the rebate, this may not be possible. The next simplest and cheapest is to redraw from your existing home mortgage if you have the capacity.
+If neither of these options are available the next best option is to contact your bank and ask if they have any attractive loans for energy efficiency or smart energy appliances. Some banks are even offering interest rates below that of your home loan as an incentive to keep you banking with them, and because they know that these appliances will reduce your monthly bills.
+There are also a large number of finance companies like Brighte who will offer a variety of different loans. It is essential that you consider these loans the terms and conditions carefully to ensure the loan is right for you.
+Consult with Solar Analytics for Personalised Advice
+Finally, before you fork out your hard earned cash on a new heat pump, make sure that you will get the financial returns you expect. The first step is to use the free Solar Maximiser online tool to find out if a heat pump is right for your home, what it should cost, and how much you can save. Then once you have decided that you do want to get a hot water heat pump, ensure that you buy a good quality system from a reputable hot water retailer.
+
+--------------------------------------------------------------------------------

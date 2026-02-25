@@ -1,0 +1,945 @@
+ROOT: https://iejusa.org/
+SCRAPED_AT_UTC: 2026-02-11T20:14:08.121239Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://iejusa.org/
+
+Read Our Latest Brief: Federal Community Benefits: A Framework for Energy Justice Partially Realized
+A catalyst for transformative energy justice
+We transform rigorous research into practical tools that empower communities and policymakers to create a just, sustainable energy system.
+Read Our Latest Policy Brief: State Legislative Requirements for Community Benefits Agreements in Renewable Energy Projects
+What is energy justice?
+Energy justice refers to the goal of achieving equity in both the social and economic participation in the energy system, while also remediating social, economic, and health burdens on those disproportionately harmed by the energy system. Energy justice explicitly centers the concerns of communities at the frontline of pollution and climate change (“frontline communities”), working class people, indigenous communities, and those historically disenfranchised by racial and social inequity. Energy justice aims to make energy accessible, affordable, renewable, and democratically managed for all communities.
+What We Do
+IEJ conducts research, provides policy analysis, and facilitates dialogue to advance concrete policy pathways towards energy justice. We partner with frontline organizing groups and allies who are striving for universal access to affordable, renewable, and democratically managed energy.
+Partner – We cultivate and sustain partnerships with frontline organizing groups and allied advocacy organizations, staying in sync with their organizing and advocacy priorities.
+Research – We use a mix of quantitative and qualitative research methods, such as community-based participatory research, that value genuine and meaningful relationships with frontline communities and organizing groups.
+Engage – We facilitate dialogue among frontline organizing groups and allied advocacy organizations to coordinate strategy, share policy analysis, and build capacity for energy justice advocacy.
+Policy/Issue Areas
+Clean Energy Policy Implementation
+Clean energy policies can advance energy justice through the equitable deployment of renewables but also have the potential to promote false solutions to climate change that embed inequity and existing power structures. IEJ focuses on long-term state and federal energy policy evaluation projects to highlight best practices/energy justice wins in the policy realm and identify opportunities for policy improvements. IEJ creates and applies evaluation frameworks in collaboration with partner organizations to analyze existing clean energy and energy justice policies.
+Featured Resource: Justice In 100 Report
+Community Benefits and Governance
+To advance policy that centers on energy justice, it is critical that communities experience material benefits from the energy system and have decision-making authority over energy infrastructure. Benefits can include monetary payments, pollution remediation, infrastructure investment, jobs programs, and health improvements; policy interventions that account for, track, and allocate benefits are key to policy change. Some countless strategies and structures attempt to center community decision-making and benefits, with as many successes, failures, and lessons learned. IEJ researches and evaluates these structures to supply our partners with the necessary tools and knowledge to design policy interventions and apply best practices in community benefits allocation and democratic governance structures.
+Featured Resource: Community Benefits Policy and Energy Justice
+Utility Justice
+In the U.S., the primary model of electricity provision is to carve up geographic territories and allow one utility to operate a regulated monopoly in that region. The existing utility system has proved to be a consistent barrier to advancing universal access to affordable, renewable, and democratically managed energy. IEJ advances alternatives to conventional utility business models, such as community choice aggregation, municipal utilities, public power policies, and other policy solutions to advance energy justice.
+Featured Resource: Amp Up the People – A Guide for Energy Justice Advocates in Utility Regulation
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/about/
+
+About the Initiative for Energy Justice
+The Initiative for Energy Justice was founded in 2018 by three lawyers of color entrenched in the debates concerning the nation’s transition away from fossil fuels and an extractive economy towards an equitable and renewable energy future. The co-founders brought together their direct connections to communities working for a just transition, and their experiences in three jurisdictions at the front edge of the energy transition – Hawaii, California, and New York.
+Our core values are voice, inclusion, and equity. The unique voices of frontline communities and communities of color must be included in the transition away from fossil fuels to clean energy. Equity must form the core of this transition, given the burdens borne by frontline communities under the energy system. These values form the fabric of the Initiative for Energy Justice. They are why we do this work. They inform our approach to the work and support our mission to provide energy policy tools rooted in equity to the leaders and communities who need them most.
+The co-founders: Subin DeVar, Shiva Prakash & Shalanda H. Baker
+Mission & Vision
+IEJ transforms complex energy challenges into actionable resources and empowers US communities and policymakers to create an equitable clean energy system.
+We envision a future where all communities thrive in a just, sustainable energy system—one built on shared knowledge, collaborative innovation, and collective ownership.
+Policy makers around the United States seek to increase the penetration of renewables on the electricity grid, but they often lack clear policy guidance on how to design and implement energy policy that places equity at the center of policy design, rather than as an ancillary concern considered after the fact. Similarly, traditional frontline social justice and civil rights organizations have found themselves at the center of debates concerning renewable energy policy, but often lack the technical assistance and tools to participate fully in the emerging debates concerning the energy transition.
+The Initiative for Energy Justice aims to:
+(1) contribute to a bottom-up movement of energy justice, originating in frontline communities, by arming movement and base-building organizations in environmental, racial, and economic justice spaces with well-supported policy research for operationalizing a just transition to renewable energy; and
+(2) provide policymakers with concrete energy policy frameworks and best-practice tools that foreground equity in the transition to renewable energy, drawing on the best-available data collected from frontline advocates, existing energy policies, and frameworks designed by our team.
+Theory of Change
+Vision
+We envision a future where all communities thrive in a just, sustainable energy system—one built on shared knowledge, collaborative innovation, and collective ownership.
+Mission
+IEJ transforms complex energy challenges into actionable resources and empowers US communities and policymakers to create an equitable clean energy system.
+Our Approach
+Research-backed insight
+We produce rigorous, data-driven, and actionable tools and resources to advance energy justice policy and practice.
+Participatory engagement
+We meaningfully collaborate with stakeholders and partners—including frontline groups, allied practitioners, and policymakers—to solve energy challenges and advance policy frameworks.
+Capacity building
+We expand the field of energy justice professionals, and their power to make change, through accessible, engaging, and inclusive educational initiatives.
+Outcomes
+- Improved access to rigorous and actionable research and inclusive dialogue among stakeholders will ensure that community voices and evidence-based insights inform early-stage policy discussions and capacity-building efforts.
+- Over time, these efforts will institutionalize energy justice principles across policy and practice, creating a self-sustaining ecosystem where research, stakeholder engagement, and community empowerment drive lasting, transformative change in how energy systems are governed and experienced.
+Who We Serve
+Our initiative aims to offer concrete energy policy solutions focused on equity, in order to advance a Just Transition and build power for marginalized communities, particularly frontline communities and communities of color. As such, we are guided by foundational movement principles, such as the Jemez Principles for Democratic Organizing. We plan to coordinate with, support, and not duplicate the important work of advocates in this sector. This includes local, state, regional, and national environmental justice and racial equity-focused organizations, as well as renewable energy groups and coalitions that are either already centering equity in the work or increasingly looking to ground their work in equity.
+We also seek to address a current unmet need by supporting local and state policymakers in thinking about and incorporating equity considerations in energy policy. Increasingly, more municipalities and states are undertaking substantial regulatory reform in the energy sector. We expect this trend to continue. The need for tools and trainings focused on equity will become critical as we shape the next generation of energy infrastructure and delivery.
+Meet Our Team
+Kelly Sheehan (she/her)
+Co-Executive Director
+Subin DeVar (he/him)
+Co-Executive Director
+Tori Willis (she/her)
+Director of Operations & Culture
+Alison Coffey (she/her)
+Senior Policy Analyst
+Evelyn Mayo (she/her)
+Senior Policy Analyst
+Lima Hossain (she/her)
+Senior Policy Analyst
+Advisory Board
+Shiva Prakash (she/her)
+Co-Founder of IEJ and Senior Counsel, DoorDash
+Juan Jhong Chung (he/they/she)
+Executive Director, Michigan Environmental Justice Coalition
+Alison Corwin (she/her)
+Co-Founder & Principal, COTA Collective
+Co-Founder
+Shalanda H. Baker (she/her)
+Co-Founder, Former Co-Director
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/about
+
+About the Initiative for Energy Justice
+The Initiative for Energy Justice was founded in 2018 by three lawyers of color entrenched in the debates concerning the nation’s transition away from fossil fuels and an extractive economy towards an equitable and renewable energy future. The co-founders brought together their direct connections to communities working for a just transition, and their experiences in three jurisdictions at the front edge of the energy transition – Hawaii, California, and New York.
+Our core values are voice, inclusion, and equity. The unique voices of frontline communities and communities of color must be included in the transition away from fossil fuels to clean energy. Equity must form the core of this transition, given the burdens borne by frontline communities under the energy system. These values form the fabric of the Initiative for Energy Justice. They are why we do this work. They inform our approach to the work and support our mission to provide energy policy tools rooted in equity to the leaders and communities who need them most.
+The co-founders: Subin DeVar, Shiva Prakash & Shalanda H. Baker
+Mission & Vision
+IEJ transforms complex energy challenges into actionable resources and empowers US communities and policymakers to create an equitable clean energy system.
+We envision a future where all communities thrive in a just, sustainable energy system—one built on shared knowledge, collaborative innovation, and collective ownership.
+Policy makers around the United States seek to increase the penetration of renewables on the electricity grid, but they often lack clear policy guidance on how to design and implement energy policy that places equity at the center of policy design, rather than as an ancillary concern considered after the fact. Similarly, traditional frontline social justice and civil rights organizations have found themselves at the center of debates concerning renewable energy policy, but often lack the technical assistance and tools to participate fully in the emerging debates concerning the energy transition.
+The Initiative for Energy Justice aims to:
+(1) contribute to a bottom-up movement of energy justice, originating in frontline communities, by arming movement and base-building organizations in environmental, racial, and economic justice spaces with well-supported policy research for operationalizing a just transition to renewable energy; and
+(2) provide policymakers with concrete energy policy frameworks and best-practice tools that foreground equity in the transition to renewable energy, drawing on the best-available data collected from frontline advocates, existing energy policies, and frameworks designed by our team.
+Theory of Change
+Vision
+We envision a future where all communities thrive in a just, sustainable energy system—one built on shared knowledge, collaborative innovation, and collective ownership.
+Mission
+IEJ transforms complex energy challenges into actionable resources and empowers US communities and policymakers to create an equitable clean energy system.
+Our Approach
+Research-backed insight
+We produce rigorous, data-driven, and actionable tools and resources to advance energy justice policy and practice.
+Participatory engagement
+We meaningfully collaborate with stakeholders and partners—including frontline groups, allied practitioners, and policymakers—to solve energy challenges and advance policy frameworks.
+Capacity building
+We expand the field of energy justice professionals, and their power to make change, through accessible, engaging, and inclusive educational initiatives.
+Outcomes
+- Improved access to rigorous and actionable research and inclusive dialogue among stakeholders will ensure that community voices and evidence-based insights inform early-stage policy discussions and capacity-building efforts.
+- Over time, these efforts will institutionalize energy justice principles across policy and practice, creating a self-sustaining ecosystem where research, stakeholder engagement, and community empowerment drive lasting, transformative change in how energy systems are governed and experienced.
+Who We Serve
+Our initiative aims to offer concrete energy policy solutions focused on equity, in order to advance a Just Transition and build power for marginalized communities, particularly frontline communities and communities of color. As such, we are guided by foundational movement principles, such as the Jemez Principles for Democratic Organizing. We plan to coordinate with, support, and not duplicate the important work of advocates in this sector. This includes local, state, regional, and national environmental justice and racial equity-focused organizations, as well as renewable energy groups and coalitions that are either already centering equity in the work or increasingly looking to ground their work in equity.
+We also seek to address a current unmet need by supporting local and state policymakers in thinking about and incorporating equity considerations in energy policy. Increasingly, more municipalities and states are undertaking substantial regulatory reform in the energy sector. We expect this trend to continue. The need for tools and trainings focused on equity will become critical as we shape the next generation of energy infrastructure and delivery.
+Meet Our Team
+Kelly Sheehan (she/her)
+Co-Executive Director
+Subin DeVar (he/him)
+Co-Executive Director
+Tori Willis (she/her)
+Director of Operations & Culture
+Alison Coffey (she/her)
+Senior Policy Analyst
+Evelyn Mayo (she/her)
+Senior Policy Analyst
+Lima Hossain (she/her)
+Senior Policy Analyst
+Advisory Board
+Shiva Prakash (she/her)
+Co-Founder of IEJ and Senior Counsel, DoorDash
+Juan Jhong Chung (he/they/she)
+Executive Director, Michigan Environmental Justice Coalition
+Alison Corwin (she/her)
+Co-Founder & Principal, COTA Collective
+Co-Founder
+Shalanda H. Baker (she/her)
+Co-Founder, Former Co-Director
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/state-legislative-requirements-for-community-benefits-agreements-in-renewable-energy-projects/
+
+The transition to a more equitable energy system requires reimagining how communities interact with and benefit from energy infrastructure. To advance policy that centers on energy justice, communities must experience material benefits from the energy system and have decision-making authority over energy infrastructure. Benefits can include monetary payments, pollution remediation, infrastructure investment, jobs programs, and health improvements. Policy interventions that account for, track, and allocate meaningful community benefits are key to policy change.
+Our community benefits research aims to provide partners with practical tools and knowledge, summarizing lessons learned from diverse community benefit approaches to inform more just and responsive energy policies.
+Key Findings
+As states move towards a centralized siting and permitting process for renewable energy projects, several are adopting requirements that developers enter into community benefits agreements (CBAs) with community-based organizations or local governments. This policy brief analyzes CBA and other community benefits framework requirements of six states: Michigan, California, Connecticut, Maine, Ohio, and New York in the context of the renewable energy transition.
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/what-we-do/
+
+What We Do
+IEJ conducts research, provides policy analysis, and facilitates dialogue to advance concrete policy pathways towards energy justice. We partner with frontline organizing groups and allies who are striving for universal access to affordable, renewable, and democratically managed energy.
+Partner
+We cultivate and sustain partnerships with frontline organizing groups and allied advocacy organizations, staying in sync with their organizing and advocacy priorities.
+Research
+We use a mix of quantitative and qualitative research methods, such as community-based participatory research, that value genuine and meaningful relationships with frontline communities and organizing groups.
+Engage
+We facilitate dialogue among frontline organizing groups and allied advocacy organizations to coordinate strategy, share policy analysis, and build capacity for energy justice advocacy.
+Partner
+We cultivate and sustain partnerships with frontline organizing groups and allied advocacy organizations, staying in sync with their organizing and advocacy priorities.
+Research
+We use a mix of quantitative and qualitative research methods, such as community-based participatory research, that value genuine and meaningful relationships with frontline communities and organizing groups.
+Engage
+We facilitate dialogue among frontline organizing groups and allied advocacy organizations to coordinate strategy, share policy analysis, and build capacity for energy justice advocacy.
+Policy/Issue Areas
+Clean Energy Policy Implementation
+Clean energy policies can advance energy justice through the equitable deployment of renewables but also have the potential to promote false solutions to climate change that embed inequity and existing power structures. IEJ focuses on long-term state and federal energy policy evaluation projects to highlight best practices/energy justice wins in the policy realm and identify opportunities for policy improvements. IEJ creates and applies evaluation frameworks in collaboration with partner organizations to analyze existing clean energy and energy justice policies.
+Featured Resource: Justice In 100 Report
+Community Benefits and Governance
+To advance policy that centers on energy justice, it is critical that communities experience material benefits from the energy system and have decision-making authority over energy infrastructure. Benefits can include monetary payments, pollution remediation, infrastructure investment, jobs programs, and health improvements; policy interventions that account for, track, and allocate benefits are key to policy change. Some countless strategies and structures attempt to center community decision-making and benefits, with as many successes, failures, and lessons learned. IEJ researches and evaluates these structures to supply our partners with the necessary tools and knowledge to design policy interventions and apply best practices in community benefits allocation and democratic governance structures.
+Featured Resource: Community Benefits Policy and Energy Justice
+Utility Justice
+In the U.S., the primary model of electricity provision is to carve up geographic territories and allow one utility to operate a regulated monopoly in that region. The existing utility system has proved to be a consistent barrier to advancing universal access to affordable, renewable, and democratically managed energy. IEJ advances alternatives to conventional utility business models, such as community choice aggregation, municipal utilities, public power policies, and other policy solutions to advance energy justice.
+Featured Resource: Amp Up the People – A Guide for Energy Justice Advocates in Utility Regulation
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/resources/
+
+About Our Resources
+We designed these tools to assist advocates and policy makers with their work to advance energy equity.
+Click a green box to show matching resources.
+Webinar: Reflecting on Federal Community Benefit Plans
+Watch our webinar exploring federal community benefit plans and energy justice. Case studies from $100B clean energy funding.
+Georgia Conservation Voters
+Georgia Conservation Voters fights to protect Georgia’s air, water, and land by changing who holds power and how decisions get made.
+Solar For All Digital Story Map
+From landmark legislation to federal termination: Track Solar for All’s 15-month journey, early wins in tribal communities, and the nationwide coalition fighting EPA’s decision to end the program.
+Federal Community Benefits: A Framework for Energy Justice Partially Realized
+Federal community benefit plans represented the United States’ most ambitious attempt to integrate energy justice into climate investment. Critical gaps in participation and enforcement reveal lessons for future policy design.
+The Alliance for Tribal Clean Energy
+The Alliance for Tribal Clean Energy is a national nonprofit advancing energy sovereignty for Native Nations. Since 2016, the Alliance has addressed the greatest clean energy challenges for Tribal communities: access to capital, technical expertise, and policy reform.
+Webinar: Solar Solutions: Community and Coalition Responses to Federal Policy Rollbacks
+As federal solar programs face rollbacks, communities are mobilizing. Watch the conversation
+Solar for All on the Ground: Implementation, Innovation, and Uncertain Future
+Federal policy chaos threatens the EPA’s $7 billion Solar for All program , but tribal and state programs prove energy justice survives through local partnerships and coordination infrastructure.
+The Footprint Project
+The Footprint Project is changing how we respond to disasters by bringing clean energy to communities in times of crisis. Instead of using polluting fossil-fuel generators, Footprint Project uses solar panels and batteries on wheels to power critical services during disasters.
+Reclaim Our Power
+Reclaim Our Power is transforming California’s energy landscape by challenging the state’s failed private utility model and demanding a transition toward a safe, reliable, community-and-worker-owned energy system.
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/energy-justice-101/
+
+From heating your home to charging your phone, energy touches everything—yet not everyone has equal access to safe, affordable, or clean power. This series unpacks the hidden costs and inequities baked into our current energy system, and explores what a fairer future can look like. Whether you’re shaping policy, advocating for change, or simply trying to understand your utility bill, this is where energy justice begins.
+The History of Energy Inequity in America
+Energy Justice 101: From the 1880s to today, America’s energy system has delivered benefits unevenly across racial and economic lines. Explore energy inequity history from Edison’s first power plant to modern solar adoption.
+Understanding Energy Burden: Why Some Communities Pay More
+Energy Justice 101: Explore how “energy burden” disproportionately affects low-income and communities of color, forcing hard choices between utilities and essentials like food and healthcare in the U.S.
+What is Energy Justice? A Comprehensive Introduction
+Energy Justice 101: Learn energy justice basics – ensuring equitable access to clean, affordable energy for all communities. Explore key frameworks, real-world examples, and solutions advancing energy democracy nationwide.
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/insights/
+
+Energy Costs and Culprits Resource Hub
+A compendium of energy affordability and utility accountability resources and tools for frontline groups.
+Rate hikes and record profits: supporting pathways to affordable electricity
+As electricity bills surge 30% since 2019, utilities rake in record profits while 1 in 4 households can’t pay. We explore pathways to affordable, reliable energy.
+Building Energy Justice into Disaster Resilience and Recovery
+Energy justice framework for disaster resilience: From microgrids to solar hubs, renewable infrastructure can protect vulnerable communities from climate impacts & power outages.
+What does the Big “Ugly” Bill Act mean for energy justice? Five things to know
+The 2025 Reconciliation law creates “energy redlining,” systematically excluding vulnerable communities from clean energy while forcing impossible choices.
+Cuts to federal home energy assistance leave millions at risk
+LIHEAP staffing cuts strand millions without cooling assistance with the looming record breaking heat this summer; 30% of households struggle with energy bills as $378M in vital funding remains in limbo.
+Community Microgrids: Powering Resilience in Frontline & Disaster-Impacted Communities
+Community microgrids bring resilient clean energy to frontline communities facing climate disasters, offering local solutions where power outages hit hardest.
+Solar for All: A $7 Billion Program Fighting to Preserve Clean Energy Access
+Solar for All: $7B program offers affordable solar to 1M low-income homes, saving money on electricity annually while advancing energy justice despite challenges.
+Policy Reversal: How Executive Orders are Attempting to Reshape DOE’s Community Benefit Plans
+Executive Orders target DOE’s Community Benefit Plans, impacting $97B in clean energy funding. Legal challenges emerge
+Advancing Energy Justice in Uncertain Times
+Despite political shifts, the fight for a just energy future continues. Meaningful progress happens locally, where diverse stakeholders champion equitable policies and community-driven solutions.
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/workbook/
+
+Workbook
+We designed this Workbook to address the question that frequently arises in the context of equity and energy policy: What is energy justice?
+Explore the Energy Justice Workbook – Table Of Contents
+Executive Summary
+Introduction
+Section 1 – Defining Energy Justice: Connections to Environmental Justice, Climate Justice, and the Just Transition
+Section 1.1 – Energy Justice in Practice
+Section 1.2 – Usage of Energy Justice in Social Science and Law
+Section 1.3 – Unpacking the Approaches to Energy Justice: A Synthesis
+Section 1.4 – Approaching Energy Policymaking
+Section 2 – Energy Justice Scorecard
+Section 3 – Case Studies of California and New York Community Energy Programs
+Section 3.1 – Case Study of Community Energy Programs in California
+Section 3.1.1 – SB 43 Enhanced Community Renewables Program: A Flawed Start
+Section 3.1.2 – AB 327 Community Solar Green Tariff: An Uncertain Step Forward
+Section 3.2 – Case Study of Community Distributed Generation Program in New York
+Section 3.3 – Lessons from Community Energy Case Studies
+Conclusion
+Appendix A: An Overview of Energy Justice in Academic Literature
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/get-involved/
+
+Get Involved
+Careers
+Thank you for your interest in the Initiative for Energy Justice! Please email any questions to jobs@iejusa.org, and we will respond as soon as we can.
+Contact Us
+Have questions or ideas about how we might work together to advance energy justice? Send a note to hello@iejusa.org or via the form below.
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/subscribe/
+
+About
+Mission & Vision
+Theory of Change
+Meet Our Team
+What We Do
+Resources
+Energy Justice 101
+Insights
+Workbook
+Get Involved
+Subscribe
+Select Page
+Want to learn more?
+Sign up for news and updates!
+Success!
+First Name
+Last Name
+Email
+Subscribe
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.
+Ok
+Privacy policy
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/federal-community-benefits-framework-partially-realized/
+
+The transition to a more equitable energy system requires reimagining how communities interact with and benefit from energy infrastructure. To advance policy that centers on energy justice, communities must experience material benefits from the energy system and have decision-making authority over energy infrastructure. Benefits can include monetary payments, pollution remediation, infrastructure investment, jobs programs, and health improvements. Policy interventions that account for, track, and allocate meaningful community benefits are key to policy change.
+Our community benefits research aims to provide partners with practical tools and knowledge, summarizing lessons learned from diverse community benefit approaches to inform more just and responsive energy policies.
+This research examines the Department of Energy’s community benefit plan framework for nearly $100 billion in clean energy funding through the Inflation Reduction Act and Bipartisan Infrastructure Law. Through case studies with solar developers, labor unions, and community organizations, we document what worked, what didn’t, and lessons for future benefit policy design at all levels of government.
+Key Findings
+The Department of Energy required community benefit plans for $100 billion in clean energy funding. Only 8% of projects included formal agreements with communities or workers.
+How DOE offices structured the process mattered. Some negotiated plans privately with applicants. Others built in phased funding with community checkpoints. These choices determined whether communities had actual leverage or just symbolic seats at the table.
+Project type exposed the framework’s limits. CBPs brought new collaboration to renewable energy projects that communities wanted. For projects communities opposed, like hydrogen hubs expanding fossil fuel infrastructure, CBPs became a cover for harmful developments.
+Additionally, enforcement mechanisms remained unclear even before the Trump administration froze implementation, raising questions about accountability without legally binding agreements.
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/jin100report/
+
+Justice in 100 Report
+Read more about the Justice in 100: Analysis of the First Ten 100% Laws in the U.S below!
+Justice in 100 Report
+In light of the disparities that currently exist among state level 100% laws, IEJ offered advocates and policymakers our Justice in 100 Scorecard. The scorecard equips stakeholders with a framework for analysis to further energy justice principles in the adoption of 100% laws. Building on our previous work, we’re excited to share our latest report: “Justice in 100: Analysis of the First Ten 100% Laws in the U.S.”
+This report utilizes the Scorecard’s framework to evaluate the first ten 100% laws across five energy justice indicators. It also unearths two specific energy justice issues that need greater attention and advocacy moving forward—the definition of renewable energy and the definition of marginalized communities. We hope this analysis can inform advocates as they strategize how best to allocate their time and resources in the fight for energy justice. Delve into the report to learn more.
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/community-benefits-policy-and-energy-justice/
+
+Energy infrastructure development has historically benefited some communities while burdening others. In our latest white paper, Community Benefits Policy and Energy Justice, IEJ explores how local, state, and federal policies can redirect the benefits of energy infrastructure investments to underserved and overburdened communities. These policies can create a robust platform for advancing energy justice initiatives such as labor agreements, pollution reduction, and energy democracy. However, to fully realize the potential of these policies, further interventions are needed to increase community control, governance, and democracy. Without these, we risk perpetuating the same inequitable structures and distributions of benefits and harms in our current energy system.
+We are providing a toolkit to accompany the release of our Community Benefits white paper. Please use it to share our findings and amplify the report. Use this link to access the toolkit.
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/amp-up-the-people-a-practical-guide-for-energy-justice-advocates-in-utility-regulation/
+
+Working with the inspiring team at Vote Solar, we co-created “Amp Up the People: A Practical Guide for Energy Justice Advocates in Utility Regulation.” This guide aims to ensure that frontline communities – those disproportionately harmed by fossil fuel pollution, threatened by power cut-offs, and burdened by high energy costs – can better understand and actively engage in the energy transition. We co-created this guide to serve as a valuable resource for energy justice advocates by simplifying the intricacies of utility regulation and providing essential tools, resources, and strategies.
+Within this guide you’ll find:
+- Background on Utility Regulation: We break down the sometimes complicated world of energy regulation, providing explanations of key concepts such as Integrated Resource Plans (IRPs), rate cases, and the role of Public Utility Commissions (PUCs). This foundational knowledge will help better navigate the utility regulatory system and advocate effectively for your community.
+- Insights into Proceedings that Affect Energy Justice: Learn about typical processes that happen at utility commissions, including public hearings and stakeholder engagement opportunities. Understand how these proceedings impact energy justice issues, such as access to renewable energy, affordability, and support for frontline communities facing energy burdens.
+- Engagement Strategies: Get practical advice on how to make your voice heard in regulatory proceedings. This includes tips on preparing effective public comments, participating in public hearings, and collaborating with other advocates to make a real difference in shaping energy policies.
+- Recommendations to Address Inequities: Find actionable recommendations tailored to community organizations, policymakers, and regulators. These strategies focus on advocating for equitable rate structures, promoting community solar projects, and ensuring that energy efficiency programs are accessible to low-income households.
+- Case Studies and Success Stories: Explore real-world examples of advocacy efforts that have led to positive changes in energy policy. These case studies illustrate the impact of community involvement and provide insights for your own advocacy work.
+- Glossary of Terms: We’ve included a handy glossary to clarify the sometimes overly complicated language surrounding energy regulation and justice.
+The “Amp Up the People: A Practical Guide for Energy Justice Advocates in Utility Regulation” guide is more than just a resource; it’s a powerful tool for advocates committed to creating a just and equitable energy future. Join us in this vital work! Together, we can empower our communities and advocate for a sustainable clean energy future.
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/news/
+
+News
+Welcome to our News section, your source for the latest updates on the energy justice movement. Here, we highlight key developments, partnerships, and thought leadership driving our mission to center equity and justice in energy policy. Stay informed about upcoming events, groundbreaking research, and stories from our network working to ensure that energy is accessible, affordable, clean, and democratically managed for all communities. Explore our news and be part of the journey toward lasting change!
+Kelly Sheehan on the Climate Buzz show
+Co-Director of the Initiative for Energy Justice, Kelly Sheehan, joined the Climate Buzz show to discuss the current status and importance of the Solar For All program and other energy justice issues
+New Report Spotlights Tools for Environmental Justice in Renewable Energy
+Boston, MA – December 10, 2024 – A new policy brief reveals how states implement legislative requirements to ensure communities benefit from renewable energy projects.
+Subin DeVar joins Tavis Smiley
+Co-Founder of the Initiative for Energy Justice, Subin DeVar, talks about the work of IEJ and the role that energy justice plays in the movement for climate change.
+Initiative for Energy Justice Welcomes Kelly Sheehan as New Co-Executive Director
+FOR IMMEDIATE RELEASE Initiative for Energy Justice Welcomes Kelly...
+The Initiative for Energy Justice and Vote Solar Release Report: Amp Up the People
+FOR IMMEDIATE RELEASE The Initiative for Energy Justice and Vote Solar...
+Who Should Benefit from Energy Infrastructure Investments?
+As the federal government increases investments in clean energy, a new white paper from the Initiative for Energy Justice highlights how Community Benefits Agreements (CBAs) and Community Benefits Plans (CBPs) can ensure that underserved and overburdened communities benefit from these projects, a topic we’ll explore today with Dr. Marisa Sotolongo, Senior Policy Analyst at the Initiative for Energy Justice.
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/who-should-benefit-from-energy-infrastructure-investments/
+
+Episode Description
+As the Federal government invests heavily in clean energy projects, we have an opportunity to ensure that the communities impacted benefit from the influx of resources. Historically, communities in the immediate vicinity of utility-scale energy projects generally did not receive benefits from the project but bore the burdens of increased pollution and negative health effects. Today we’ll discuss a new white paper from the Initiative for Energy Justice that explores the critical role of Community Benefits Agreements (CBAs) and Community Benefits Plans (CBPs) in ensuring that underserved and overburdened communities benefit from recent federal investments in clean energy and climate infrastructure. Tune in as we speak with Dr. Marisa Sotolongo, Senior Policy Analyst with the Initiative for Energy Justice.
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/author/ayllescas/
+
+A compendium of energy affordability and utility accountability resources and tools for frontline groups.
+Andrew Yllescas
+Georgia Conservation Voters
+Georgia Conservation Voters fights to protect Georgia’s air, water, and land by changing who holds power and how decisions get made.
+Energy Justice 101
+From heating your home to charging your phone, energy touches everything—yet not everyone has equal access to safe, affordable, or clean power. This series unpacks the hidden costs and inequities baked into our current energy system, and explores what a fairer future...
+The Alliance for Tribal Clean Energy
+The Alliance for Tribal Clean Energy is a national nonprofit advancing energy sovereignty for Native Nations. Since 2016, the Alliance has addressed the greatest clean energy challenges for Tribal communities: access to capital, technical expertise, and policy reform.
+The Footprint Project
+The Footprint Project is changing how we respond to disasters by bringing clean energy to communities in times of crisis. Instead of using polluting fossil-fuel generators, Footprint Project uses solar panels and batteries on wheels to power critical services during disasters.
+Reclaim Our Power
+Reclaim Our Power is transforming California’s energy landscape by challenging the state’s failed private utility model and demanding a transition toward a safe, reliable, community-and-worker-owned energy system.
+Environmental Protection Network (EPN)
+Founded in 2017, the Environmental Protection Network (EPN) brings together over 700 former EPA career staff and political appointees—spanning Democratic and Republican administrations—to protect human health and the environment.
+ReImagine Appalachia
+ReImagine Appalachia is changing the conversation around the energy transition by prioritizing communities. This innovative coalition of labor unions, environmental advocates, community organizations, and policymakers works across states in the Ohio River Valley…
+State Legislative Requirements for Community Benefits Agreements in Renewable Energy Projects
+The transition to a more equitable energy system requires reimagining how communities interact with and benefit from energy infrastructure.
+Community Benefit Agreement Requirements in New England: A Legislative Overview
+Energy infrastructure development has historically benefited some communities while burdening others. In our latest white paper…
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/category/resource/briefs-and-blogs/
+
+Federal community benefit plans represented the United States’ most ambitious attempt to integrate energy justice into climate investment. Critical gaps in participation and enforcement reveal lessons for future policy design.
+Policy Briefs
+Solar for All on the Ground: Implementation, Innovation, and Uncertain Future
+Federal policy chaos threatens the EPA’s $7 billion Solar for All program , but tribal and state programs prove energy justice survives through local partnerships and coordination infrastructure.
+State Legislative Requirements for Community Benefits Agreements in Renewable Energy Projects
+The transition to a more equitable energy system requires reimagining how communities interact with and benefit from energy infrastructure.
+Community Benefit Agreement Requirements in New England: A Legislative Overview
+Energy infrastructure development has historically benefited some communities while burdening others. In our latest white paper…
+Energy Justice in Climate Change Adaptation Policy Brief
+This policy brief presents short- and medium-term recommendations for western states adapting to the effects of climate change. We evaluate California’s wildfire, energy, and climate change adaptation policies.
+Utility Shutoffs and COVID-19 Policy Brief
+This policy brief offers recommendations for policymakers and advocates on utility shutoffs and consumer protections during the COVID-19 pandemic.
+California’s Power Shutoffs Policy Brief Series
+These briefs tackle data/reporting gaps in California’s “Public Safety Power Shutoffs,” harming medically vulnerable and environmental justice communities.
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/category/resource/
+
+Watch our webinar exploring federal community benefit plans and energy justice. Case studies from $100B clean energy funding.
+Resource
+Georgia Conservation Voters
+Georgia Conservation Voters fights to protect Georgia’s air, water, and land by changing who holds power and how decisions get made.
+Solar For All Digital Story Map
+From landmark legislation to federal termination: Track Solar for All’s 15-month journey, early wins in tribal communities, and the nationwide coalition fighting EPA’s decision to end the program.
+Federal Community Benefits: A Framework for Energy Justice Partially Realized
+Federal community benefit plans represented the United States’ most ambitious attempt to integrate energy justice into climate investment. Critical gaps in participation and enforcement reveal lessons for future policy design.
+The Alliance for Tribal Clean Energy
+The Alliance for Tribal Clean Energy is a national nonprofit advancing energy sovereignty for Native Nations. Since 2016, the Alliance has addressed the greatest clean energy challenges for Tribal communities: access to capital, technical expertise, and policy reform.
+Webinar: Solar Solutions: Community and Coalition Responses to Federal Policy Rollbacks
+As federal solar programs face rollbacks, communities are mobilizing. Watch the conversation
+Solar for All on the Ground: Implementation, Innovation, and Uncertain Future
+Federal policy chaos threatens the EPA’s $7 billion Solar for All program , but tribal and state programs prove energy justice survives through local partnerships and coordination infrastructure.
+The Footprint Project
+The Footprint Project is changing how we respond to disasters by bringing clean energy to communities in times of crisis. Instead of using polluting fossil-fuel generators, Footprint Project uses solar panels and batteries on wheels to power critical services during disasters.
+Reclaim Our Power
+Reclaim Our Power is transforming California’s energy landscape by challenging the state’s failed private utility model and demanding a transition toward a safe, reliable, community-and-worker-owned energy system.
+Municipal Utility Advocacy Resource Guide
+Transform municipal utilities into community-controlled power. Learn from Cleveland’s 117-year victory & proven models in Austin, Seattle & Sacramento.
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/wp-content/uploads/2024/12/FINAL-12.5-CB-State-Legislative-Requirements-1.pdf
+
+POLICY BRIEF
+INITIATIVE FOR ENERGY JUSTICE
+STATE LEGISLATIVE
+REQUIREMENTS FOR COMMUNITY
+BENEFITS AGREEMENTS IN
+RENEWABLE ENERGY PROJECTS
+DECEMBER 2024
+
+EXECUTIVE SUMMARY.......................................................... 2
+1. INTRODUCTION................................................................... 3
+2. COMMUNITY BENEFITS AGREEMENTS USE................ 4
+3. FINDINGS AND CONCLUSION....................................... 9
+TABLE OF CONTENTS
+INITIATIVE FOR ENERGY JUSTICE
+AUTHORMARISA SOTOLONGO, PhD
+THE INITIATIVE FOR ENERGY JUSTICEIEJ conducts research, provides policyanalysis, and facilitates dialogue toadvance concrete policy pathwaystowards energy justice. We partner withfrontline organizing groups and allies whoare striving for universal access toaffordable, renewable, and democraticallymanaged energy.
+www.iejusa.org
+Initiative for Energy Justice
+416 Huntington Ave.
+Boston, MA 02115
+Overview.................................................................................... 2
+Key Findings.............................................................................. 2
+2.1 Introduction to CBAs....................................................... 4 
+2.2 California: Requiring Community Agreements....... 5
+2.3 Connecticut: Community Benefits & Workforce
+ Development..................................................................... 6
+2.4 Maine: Community Benefits Packages in Wind 
+ Permits............................................................................... 7 
+2.5 Ohio: Codifying Local Veto Power............................ 8
+2.6 New York: Intervenor Funds........................................ 8
+End Notes................................................................................ 10
+Bibliography............................................................................11
+
+EXECUTIVE SUMMARY
+The transition to a more equitable energy system requires reimagining how communities interact
+with and benefit from energy infrastructure. To advance policy that centers on energy justice,
+communities must experience material benefits from the energy system and have decision-
+making authority over energy infrastructure. Benefits can include monetary payments, pollution
+remediation, infrastructure investment, jobs programs, and health improvements. Policy
+interventions that account for, track, and allocate meaningful community benefits are key to
+policy change. 
+Our community benefits research aims to provide partners with practical tools and knowledge,
+summarizing lessons learned from diverse community benefit approaches to inform more just
+and responsive energy policies.
+OVERVIEW
+As states move towards a centralized siting and permitting process for renewable energy
+projects, several are adopting requirements that developers enter into community benefits
+agreements (CBAs) with community-based organizations or local governments. This policy brief
+analyzes CBA and other community benefits framework requirements of six states: Michigan,
+California, Connecticut, Maine, Ohio, and New York in the context of the renewable energy
+transition. Legislative CBA requirements can potentially ensure robust, enforceable benefits
+packages for disadvantaged or host communities. CBA requirements do not need to be linked
+with a state permitting process for renewable energy projects (see Ohio’s case), but it appears to
+be increasingly common. Legislative CBA requirements should ensure that CBAs are legally
+binding, enforceable, and negotiated with a coalition of organizations and stakeholders to be
+most effective.
+ KEY FINDINGS
+PAGE 2 STATE CBA REQUIREMENTS FOR RENEWABLE ENERGY PROJECTS
+
+PAGE 3
+I.INTRODUCTION AND POLICY
+CONTEXT
+Community Benefits Agreements (CBAs) have been used since the 1990s in the United States.
+As the negative impacts of development projects like stadiums, convention centers, or airports
+became clear, communities began to organize to reduce or eliminate these negative impacts,
+which could take the form of increased rent and gentrification, job creation going to non-local
+workers, and increased traffic and pollution. 
+Developers and policymakers still commonly use CBAs in development policy, and state
+legislation can require them. For example, New Jersey’s Economic Recovery Act of 2020 requires
+that a developer and the host county or municipality sign an HCA for projects costing $10
+million or more. This agreement requires the creation of a community advisory committee to
+“oversee the implementation of the agreement, monitor successes, ensure compliance with the
+terms of the agreement, and produce an annual public report.” However, CBAs are increasingly
+being used to advance utility-scale renewable or clean energy infrastructure projects to reduce
+uncertainty in community opposition to development projects and deliver on the promise of the
+Justice40 Initiative to ensure that environmental justice communities benefit from the energy
+transition. As part of the Justice40 Initiative, the Department of Energy is requiring that
+applicants for Inflation Reduction Act (IRA) and Bipartisan Infrastructure Law (BIL) funding must
+submit a community benefits plan (CBP) as part of the application process.
+What are Community Benefits Agreements?CBAs are an umbrella term for many types of negotiations. They are generally understood to involve alegally binding agreement negotiated between a coalition of community-based organizations and adeveloper. What are Host Community Agreements (HCAs)?HCAs are a type of CBA negotiated between a local government and a developer. Both involvemitigation requirements and monetary and non-monetary benefits for the community.
+What are Project Labor Agreements (PLAs)?PLAs are a type of CBA that incorporate labor considerations into development. These may includemandating a collective bargaining agreement before a project begins or requiring union input into theterms and conditions of a project. 
+What are Payment in Lieu of Taxes (PILOT) agreements?PILOT agreements involve an agreement between two parties, such as a developer and a municipalityor state and federal governments, to compensate the community for its loss in tax revenue due toproperty tax incentives or tax-exempt developments. It can be mandatory or voluntary. 
+1
+2
+3
+4
+5
+6
+7
+STATE CBA REQUIREMENTS FOR RENEWABLE ENERGY PROJECTS
+
+The Justice40 Initiative promises that forty percent of benefits from certain federal
+investments in energy and climate flow to disadvantaged communities that are
+marginalized by underinvestment and overburdened by pollution. It is being
+implemented by the Biden Administration across the whole of the federal government. 
+PAGE 4
+2.CBA Requirements in State
+Legislation
+2.1 Michigan: Requiring Host Community Agreements
+This policy brief highlights state legislative approaches requiring CBAs or other community
+benefits policies for renewable energy projects. At least four states have enacted legislation that
+require a form of CBA or HCA for certain energy development projects – Michigan, California,
+Connecticut, and Maine. These states have built a CBA requirement into their state permitting
+process for renewable energy projects. This trend seems likely to continue as states face local
+opposition to renewable energy projects. On the other hand, Ohio enacted legislation that
+prevented the state from overriding local refusal of renewable energy projects, effectively
+removing the option for state permitting. Ohio has also required PILOT agreements for
+renewable energy projects permitted at the local level, thereby codifying local veto power and
+host community benefits. Finally, New York’s policy of funding intervenor compensation
+programs through developer fees is an example of alternative permitting structures for
+renewable energy projects at the state level. These case studies are described in further detail
+below.
+Michigan’s HB 5120 (2023) was enacted to move forward renewable energy development
+projects across the state. The law grants the Michigan Public Service Commission (MPSC)
+siting authority for utility-scale wind, solar, and energy storage facilities under certain conditions: 
+According to the second criterion, if a local government has a CREO that aligns with the state’s
+standards, they can retain decision-making power over renewable energy project siting, and the
+CBA and HCA requirements are not applicable. However, if the local government denies an
+application for a renewable energy project and the developer asks the MPSC to overrule the
+denial, if the MPSC permits the project, then that local government’s CREO is no longer
+considered in alignment with the state’s standards. 
+8
+9
+When the local government that would host the facility requests the MPSC to
+require that a siting application be filed;
+If the local government does not have a “compatible renewable energy
+ordinance” (CREO), delays its decision, or denies the application; 
+If the project is entirely within the borders of a city or village and the city or village
+is a developer, owns an electric utility that will take service from the facility, or
+owns the participating property.
+STATE CBA REQUIREMENTS FOR RENEWABLE ENERGY PROJECTS
+8
+
+HB 5120 outlined the requirements for an MPSC permit for a renewable energy project, which
+included setback requirements, environmental quality analysis, minimizing light and sound
+nuisances, paying into an intervenor fund, decommissioning requirements, and more. In addition,
+an HCA is required between the applicant and the host community. The energy facility owner is
+required to pay $2,000 per MW of nameplate capacity to the host community, in addition to
+other optional benefits. If the host community refuses to negotiate the HCA, the developer may
+(but is not required to) enter into a CBA with one or more community-based organizations, with
+the total payment amount transferred equal to the $2,000 per MW HCA requirement. The Act
+goes into effect on November 29, 2024. A companion bill (HB 5121, 2023) amends the
+Michigan Zoning Enabling Act to make zoning ordinances subject to the requirements in HB
+5120. A ballot initiative to repeal the law was attempted but did not gather the required number
+of signatures to be included in the November ballot.
+PAGE 5
+2.2 California: Requiring Community Agreements 
+California’s AB 205 (2022) created various renewable energy development programs andamended some ratemaking processes at the California PUC. The policy creates a newcertification process for renewable energy projects and related transmission, manufacturing,production, and assembling projects, giving developers the option to request that the CaliforniaEnergy Commission (CEC) certify the project instead of a local government entity. The CEC isrequired to forward this application to the local government hosting the project; the localagencies will review and submit comments on the application. The local agencies can requestreimbursement for these review costs. 
+Project types subject to this policy include solar PV, land-based wind, and thermal power plants(that do not use fossil or nuclear fuels) with a generating capacity of 50 MW or more; energystorage systems of 200 MWh or more; an electric transmission line connecting these generatingor storage facilities to the grid; or a facility for the manufacture, production, or assembly of thesetechnologies with a capital investment of at least $250 million over five years. 
+California’s policy requires that the CEC only certify a site under this policy if the applicant hasentered into “one or more legally binding and enforceable agreements with, or that benefit, acoalition of one or more community-based organizations.” According to the policy, a community-based organization could be, “workforce development and training organizations, labor unions,social justice advocates, local governmental entities, California Native American tribes, or otherorganizations that represent community interests.” There is no required amount of funding forthese agreements. 
+Four projects have opted into the CEC process: the Darden Clean Energy Project, the PerkinsRenewable Energy Project, the Fountain Wind Project, and the Compass Battery EnergyStorage. 
+10
+11
+12
+13 14
+15
+STATE CBA REQUIREMENTS FOR RENEWABLE ENERGY PROJECTS
+
+PAGE 6
+The Perkins Renewable Energy Project submitted an application in 2024 with three negotiated
+and executed CBAs that were kept confidential, with a Community Benefits Agreement
+Narrative that indicated $1.5 million over ten years would be transferred to various
+organizations. The CEC determined that the three negotiated and executed CBAs submitted by
+Perkins did not meet the state’s requirements as being binding and enforceable, as they
+contained a clause “permitting the applicant to cancel the agreement at any time upon written
+notice to the recipient of the funds.” The application process is still ongoing as of July 23, 2024.
+The Fountain Wind Project’s CBA approval has been less smooth. Fountain Wind submitted a
+community benefits plan to the CEC that involved donating money to a foundation that could
+then give out grants to community organizations; Shasta County, the host county, then argued
+that the foundation was not in talks with the developer and that the community benefits were
+not materializing. The developer eventually entered into an agreement with a trades council for
+$175,000 for “workforce training and development purposes,” which the CEC certified as a CBA
+meeting legislative requirements, rejecting the county’s argument that a trades council is not a
+community-based organization. These case studies show the possible downsides of developers
+being able to pick and choose which organizations they negotiate CBAs with. 
+2.3 Connecticut: Community Benefits and Workforce Developments
+Connecticut’s SB 999 (2021), also known as the Climate and Community Investment Act or the
+CCIA, required that renewable energy developers take “all reasonable actions to ensure that a
+community benefits agreement is entered into with appropriate community organizations” and
+“take all appropriate actions to ensure a workforce development plan” for certain renewable
+energy projects. 
+Projects subject to the CBA requirement include all renewable energy projects as defined
+in the Connecticut General Statute, but excluding offshore wind, and must have
+commenced construction after July 1, 2021, and had a total nameplate capacity of 5 MW
+or more. 
+Projects subject to the workforce development plan requirement must have commenced
+construction after July 1, 2021, with a total nameplate capacity of 2 MW or more. 
+In addition, any project that was (1) approved by the Connecticut Public Utilities Regulatory
+Authority (CPURA) after January 1, 2022, and (2) was selected by a competitive solicitation from
+the Connecticut Department of Energy and Environmental Protection (CDEEP) or an electric
+distribution company are not subject to either CBA or workforce development plan
+requirements. The two electric distribution companies in Connecticut are Eversource and United
+Illuminating. Projects selected through competitive solicitation from the CDEEP or an electric
+distribution company after January 1, 2022, and meeting the capacity requirements would be
+subject to the CBA and workforce requirements. 
+The CCIA was enacted as part of a campaign by the Connecticut Roundtable on Climate & Jobs,
+a coalition of labor, religious, environmental, and community leaders focused on climate and
+economic justice issues. The Roundtable on Climate & Jobs frames the enactment of SB 999 as
+bringing labor standards for renewable energy jobs up to the standard of neighboring states,
+such as New York and New Jersey, and up to the standard that already existed in Connecticut
+for offshore wind projects.
+16
+17
+18
+19
+20
+21
+22
+23
+STATE CBA REQUIREMENTS FOR RENEWABLE ENERGY PROJECTS
+
+PAGE 7
+2.4 Maine: Community Benefits Packages in Wind Permits
+Maine SP 582 (2010) required that expedited wind energy developments applying for a state
+permit be accompanied by a community benefits package that accompanies the permit
+application. The community benefits package must be valued at at least $4,000 per year per
+wind turbine, averaged over a twenty-year period. This requirement is waived for projects less
+than 20 MW, projects owned by a nonprofit, public, or quasi-public entity, and projects where
+the host community has voted to waive or reduce the community benefits package requirement.
+In addition, any expedited wind energy development project located on Passamaquoddy Indian
+territory, Penobscot Indian territory, or Qualifying Band Trust Land is exempted from the
+community benefits package requirements unless the Passamaquoddy Tribe, the Penobscot
+Nation, or the Aroostook Band of Micmacs (respectively) chooses to be considered a host
+community. Prior to this legislation, Maine had an existing requirement that expedited wind
+energy developments had to provide “significant tangible benefits” outside of the presumed
+energy and emission-related benefits.
+Tangible benefits are defined as environmental or economic improvements or
+benefits attributable to the expedited wind energy development project and
+can include property tax payments or other payments to a host community,
+jobs, local purchase of materials, reduced property taxes, reduced electrical
+rates, resource conservation, among other comparable benefits. 
+Community benefits packages are defined in the legislation as the aggregate
+collection of tangible benefits resulting from payments to the host community
+or communities or payments from CBAs (but excluding property tax
+payments), payments to reduce energy costs in the host community, and any
+donations for land or natural resource conservation.
+While CPURA dockets show that there have been eligible renewable energy projects over 5
+MW that have been selected through competitive solicitation from the CDEEP or an electric
+distribution company after January 1, 2022, the CDEEP does not require confirmation of a CBA
+or workforce development plan; developers are required to affirm that they are aware of, and in
+compliance with, the requirements of SB 999. 
+The Governor’s Office of Energy Independence and Security is required to report on tangible
+benefits provided by expedited wind energy developments, including community benefits
+packages and CBA payments. These reports are not released in a consistent format but are
+often made available as part of a company’s permit application online.
+24
+25
+26
+27
+28
+29
+30
+STATE CBA REQUIREMENTS FOR RENEWABLE ENERGY PROJECTS
+
+PAGE 8
+2.5 Ohio: Codifying Local Veto Power
+While most states are moving toward centralized permitting processes, Ohio has taken adifferent approach. Ohio created an alternative taxation structure for renewable energy projectswith SB 232 (2010), where if the local county commission approves, the renewable energydeveloper is required to enter a Payment in Lieu of Taxes (PILOT) agreement with the county.Solar project developers were required to pay the host county $7,000 per MW of nameplatecapacity and maintain Ohio-based workforce requirements (eighty percent Ohio-domiciled). Allother renewable energy projects have required payments of between $6,000 and $9,000 perMW of nameplate capacity, based on Ohio-based employment for construction and installation.
+The Ohio Power Siting Board (OPSB) regulates the development of all energy generationfacilities over 50 MW. The OPSB also regulates wind energy projects over 5 MW. In 2021, SB52 codified local control over renewable energy siting projects, allowing a local board of countycommissioners to adopt a resolution within 90 days of a public meeting prohibiting large windand solar facility construction or limiting wind and solar project boundaries. SB 52 alsoauthorizes these commissioners to designate all or part of an unincorporated area of a county asrestricted from wind and solar facility development. SB 52 effectively solidified an Ohio county’sveto power on renewable energy while maintaining PILOT agreement requirements forapproved projects. 
+2.6 New York: Intervenor Funds 
+The Power New York Act (2011) created a state-level siting requirement for any electricity-
+generating facility over 25 MW. In the Accelerated Renewable Energy Growth and Community
+Benefit Act (2020), the Office of Renewable Energy Siting (ORES) was created, and permitting
+for renewable projects over 25 MW was streamlined under the ORES. Developers can seek
+ORES certification for projects between 20 and 25 MW. For projects permitted through the
+ORES in New York, developers are required to contribute $1,000 per MW of capacity into an
+account for intervenor funds. Of this fund, seventy-five percent is allocated to local agency use,
+and twenty-five percent is available to other groups to participate in the permitting and siting
+process. New York’s intervenor fund is similar to the requirement in Michigan’s HB 5120
+(2023). It is an example of the state requiring less substantive community benefits to be
+provided by the developer–funding to participate in a regulatory process. 
+31
+32
+33
+34
+35
+36
+STATE CBA REQUIREMENTS FOR RENEWABLE ENERGY PROJECTS
+
+PAGE 9
+3.Findings and Conclusion 
+The increased use of community benefits frameworks (such as Ohio’s PILOT paymentrequirement, New York’s intervenor compensation fees, and Maine’s community benefitspackages) or CBA requirements (such as Michigan, California, and Connecticut’s legislationrequiring legally enforceable agreements) in renewable energy projects is growing across theUnited States. This trend occurs in the context of federal Department of Energy CBPrequirements for energy infrastructure projects and has led to renewed local efforts to negotiateCBAs, HCAs, PLAs, and other benefits for communities from developers. 
+State-level CBA requirements tend to be interwoven with changes in how renewable energyprojects are permitted across the United States. Most states have contingent principal authorityover renewable energy siting and permitting based on the project size; twelve states give localgovernment principal jurisdiction over renewable energy siting and permitting (Alabama,Delaware, Georgia, Hawaii, Illinois, Kentucky, Indiana, Missouri, Montana, Pennsylvania, Texas,and Utah). Across the United States, twenty-five percent of all counties have restrictions inplace targeting renewable energy – these are generally technical restrictions on setbackrequirements, capacity limits, sound restrictions, etc. Other research has explored in more detailthe state permitting and siting process for renewable energy projects, finding certain states withestablished processes (such as New York, Ohio, Minnesota, and Wisconsin) and other states justbeginning to put their processes into effect (including California, Colorado, Washington, andMichigan). As states work to achieve greenhouse gas emission reduction goals, such as 100%Renewable Energy Portfolio Standards, these state permitting and siting processes are keyareas for energy justice intervention to ensure that community benefits and governance are notsidelined in the transition.
+Requiring CBAs or other community benefits frameworks may lead to an increased number ofdurable, enforceable CBAs associated with renewable energy projects in these states. CBAs,strong labor agreements, workforce development programs, and HCAs can result in benefitssuch as reducing and remediating pollution and increasing democratic ownership of energyinfrastructure. Institutionalizing CBA requirements has the potential to create a more stabledevelopment context for renewable energy projects, which could speed up the adoption ofrenewable energy in the United States. 
+However, evaluation of these policies may also show potential downsides to institutionalizingCBA requirements in state legislation, such as the case in California discussed in this policy brief.In certain cases, CBA requirements do not meet the standard definition of a CBA, which isgenerally negotiated between a coalition of community-based organizations and a developer;some states only require that a developer enter into an agreement with a single organization. If CBAs do not have these key attributes, public support for these mechanisms may not lead tothe level of support that legislators intend to create with CBA requirements. More researchevaluating these policies is necessary to see how they can be improved and how communitiesengage with the state permitting process when a CBA is required. 
+37
+38
+39
+40
+STATE CBA REQUIREMENTS FOR RENEWABLE ENERGY PROJECTS
+
+ENDNOTES
+ Gross, “Community Benefits Agreements”; Wolf-Powers, “Community Benefits Agreements and Local
+Government”; Salkin and Lavine, “Understanding Community Benefits Agreements.”
+1.
+ Gross, “Community Benefits Agreements”; Salkin and Lavine, “Understanding Community Benefits
+Agreements.”
+2.
+ Sotolongo, “Community Benefits Policy and Energy Justice.”3.
+ Glass and Walter, “How Project Labor Agreements and Community Workforce Agreements Are Good for
+the Biden Administration’s Investment Agenda”; Emerald Cities Collaborative, “Anatomy of an Effective
+Community Workforce Agreement.”
+4.
+ Kenyon and Langley, “Payments in Lieu of Taxes By Nonprofits: Case Studies.”5.
+ New Jersey Economic Recovery Act, 20206.
+ U.S. Department of Energy, “About Community Benefits Plans.” 7.
+ The White House, “Justice40: A Whole-Of-Government Initiative.”8.
+ H.B. 5120, XXX leg., Y Sess. (Mi. 2023) (enacted in Mich. Comp. Laws § 460.1227)9.
+ King, “Initiative to Repeal Renewable Energy Siting Reform Fails to Get on November Ballot.”10.
+ King, “Initiative to Repeal Renewable Energy Siting Reform Fails to Get on November Ballot.”11.
+ The Darden Clean Energy Project consists of a 1,150 MW solar PV facility, an up to 4,600 MWh battery
+energy storage system, an up to 1,150 MW green hydrogen generator, and associated infrastructure (see
+California Energy Commission, “Darden Clean Energy Project”).
+12.
+ The Perkins Renewable Energy Project consists of a 1,150 MW solar PV facility and a battery energy
+storage facility (see California Energy Commission, “Perkins Renewable Energy Project”). 
+13.
+ The Fountain Wind Project consists of an up to 205 MW land-based wind facility and associated
+infrastructure (see California Energy Commission, “Fountain Wind Project”).
+14.
+ The Compass Battery Energy Storage Project consists of an approximately 250 MW battery energy
+storage system and associated infrastructure (see California Energy Commission, “Compass Energy
+Storage Project”).
+15.
+ California Energy Commission, Docket 24-OPT-01.16.
+ California Energy Commission, Docket 23-OPT-01.17.
+ S.B. 999, 2021 Leg., Jan. Sess. (Conn. 2021) (enacted in Conn. Gen. Stat. § 31-53d).18.
+ Renewable energy projects include solar, wind, fuel cells, geothermal, biogas, thermal, ocean thermal,
+wave or tidal, hydropower, and other low emissions-advanced renewable energy conversion technologies.
+See Conn. Gen. Stat. § 16-1. 
+19.
+ S.B. 999, 2021 Leg., Jan. Sess. (Conn. 2021) (enacted in Conn. Gen. Stat. § 31-53d).20.
+ CT Roundtable on Climate & Jobs, “Senate Bill 999: The Climate and Community Investment Act.” 21.
+ New York (SB S2506C, 2021, https://www.nysenate.gov/legislation/bills/2021/S2506); NJ (2019 Energy
+Master Plan: Pathway to 2050, 2020. https://www.nj.gov/emp/docs/pdf/2020_NJBPU_EMP.pdf 
+22.
+ H.B. 7156, 2019 Leg., Jan. Sess. (Conn. 2019) (enacted in Conn. Gen. Stat. § 16a-3n).23.
+ Connecticut Public Utilities Regulatory Authority, Docket 24-08-03; Connecticut Public Utilities
+Regulatory Authority, Docket 24-08-04.
+24.
+ Bureau of Energy and Technology Policy, Connecticut Department of Energy & Environmental Protection,
+email message.
+25.
+ S.P. 582, 124th Leg., 2nd Reg. Sess. (Me. 2010) (enacted in Me. Gen. Code § 35-A-3451).26.
+ Me. Gen. Code § 3401-3459; Me. Gen. Code § 481-489-E. 27.
+ SP 582, 124th Leg., 2nd Reg. Sess. (Me. 2010) (enacted in Me. Gen. Code § 3451-10).28.
+ SP 582, 124th Leg., 2nd Reg. Sess. (Me. 2010) (enacted in Me. Gen. Code § 3451-1-C).29.
+ Maine Department of Environmental Protection, “Downeast Wind, LLC”; Maine Governor’s Office of
+Energy Independence and Security, “Tracking Progress Toward Meeting Maine’s Energy Independence
+Goals, 2011”; Maine Governor’s Office of Energy Independence and Security, “Maine Wind Energy
+Development Assessment, 2012.”
+30.
+ S.B. 232, 128th Leg. (Ohio, 2010) (enacted in Ohio Rev. Code § 5727.75). 31.
+ See Ohio Rev. Code § 4906.32.
+ S.B. 52, 134th Leg. (Ohio, 2021) (enacted in Ohio Rev. Code § 303.58).33.
+ A. 8501, 2011 Leg. (N.Y., 2011) (enacted in N.Y. P.B.S. § 160).34.
+ A. 9508B, 2020 Leg. (N.Y., 2020) (enacted in N.Y. P.B.S. § 137).35.
+ A. 9508B, 2020 Leg. (N.Y., 2020) (enacted in N.Y. P.B.S. § 148).36.
+ Enterline and Valainis, “Laws in Order: An Inventory of State Renewable Energy Siting Policies.”37.
+ Holm and Goodwin, “Communities Left Behind.”38.
+ Beshouri et al., “Power in Partnership: Insights for Siting Utility-Scale Renewables in Michigan.39.
+ Initiative for Energy Justice, “Justice in 100: Analysis of the First Ten 100% Laws in the U.S.”; Sotolongo,
+“Community Benefits Policy and Energy Justice.”
+40.
+PAGE 10 STATE CBA REQUIREMENTS FOR RENEWABLE ENERGY PROJECTS
+
+BIBLIOGRAPHY
+PAGE 11
+Baxamusa, Murtaza H. “Empowering Communities through Deliberation The Model of Community Benefits
+Agreements.” Journal of Planning Education and Research 27, no. 3 (March 2008): 261–76.
+https://doi.org/10.1177/0739456X07308448.
+Been, Vicki. “Community Benefits Agreements: A New Local Government Tool or Another Variation on the
+Exactions Theme?” The University of Chicago Law Review 77, no. 1 (Winter 2010): 5–35.
+Beshouri, Isabella, Jessica Hobbs, Ryotaro Konishi, Marisol Mendez, Roy Upasana, Revati Thatte, Vaidehi Shah, and
+Griffin Sproul. “Power in Partnership: Insights for Siting Utility-Scale Renewables in Michigan.” University of
+Michigan, April 2024. https://dx.doi.org/10.7302/23172.
+California Energy Commission. “Compass Energy Storage Project,” 2024.
+https://www.energy.ca.gov/powerplant/battery-storage-system/compass-energy-storage-project.
+ “Darden Clean Energy Project,” 2024. https://www.energy.ca.gov/powerplant/solar-photovoltaic-pv/darden-clean-
+energy-project.
+“Fountain Wind Project,” 2024. https://www.energy.ca.gov/powerplant/wind/fountain-wind-project.
+Fountain Wind Project, No. 23-OPT-01. Accessed August 28, 2024.
+“Perkins Renewable Energy Project,” 2024. https://www.energy.ca.gov/powerplant/solar-photovoltaic-pv/perkins-
+renewable-energy-project.
+Perkins Renewable Energy Project, No. 24-OPT-01. Accessed August 28, 2024.
+Connecticut Public Utilities Regulatory Authority. Annual Non-Residential Renewable Energy Solutions Program
+Review - Year 4, No. 24-08-03. Accessed August 28, 2024.
+ Annual Shared Clean Energy Facility Program Review - Year 6, No. 24-08-04. Accessed August 28, 2024.
+CT Roundtable on Climate & Jobs. “Senate Bill 999: The Climate and Community Investment Act,” 2022.
+https://ctclimateandjobs.org/campaigns/sb999/.
+Emerald Cities Collaborative. “Anatomy of an Effective Community Workforce Agreement.” Emerald Cities
+Collaborative, 2022. https://emeraldcities.org/j40playbook/.
+Enterline, Shawn, and Andrew Valainis. “Laws in Order: An Inventory of State Renewable Energy Siting Policies.”
+Regulatory Assistance Project, June 2024. https://emp.lbl.gov/publications/laws-order-inventory-state-renewable.
+Glass, Aurelia, and Karla Walter. “How Project Labor Agreements and Community Workforce Agreements Are
+Good for the Biden Administration’s Investment Agenda.” Center for American Progress, July 21, 2023.
+https://www.americanprogress.org/article/how-project-labor-agreements-and-community-workforce-agreements-
+are-good-for-the-biden-administrations-investment-agenda/.
+Glasson, John. “Large Energy Projects and Community Benefits Agreements - Some Experience from the UK.”
+Environmental Impact Assessment Review 65 (July 2017): 12–20. https://doi.org/10.1016/j.eiar.2017.03.009.
+Gross, Julian. “Community Benefits Agreements: Definitions, Values, and Legal Enforceability.” Journal of
+Affordable Housing & Community Development Law 17, no. 1/2 (Fall /Winter 2008 2007): 35–58.
+Holm, Federico, and James Goodwin. “Communities Left Behind: How Local Ordinances Can Obstruct Energy
+Democracy and a Just Transition.” Center for Progressive Reform, February 28, 2024.
+https://progressivereform.org/publications/communities-left-behind-renewable-energy-restrictions-rpt/.
+Initiative for Energy Justice. “Justice in 100: Analysis of the First Ten 100% Laws in the U.S.” Justice in 100. Initiative
+for Energy Justice, August 2023. https://iejusa.org/jin100report/.
+Kenyon, Daphne A., and Adam H. Langley. “Payments in Lieu of Taxes By Nonprofits: Case Studies.” Lincoln
+Institute of Land Policy, September 2012. https://www.lincolninst.edu/publications/working-papers/payments-lieu-
+taxes-nonprofits/.
+STATE CBA REQUIREMENTS FOR RENEWABLE ENERGY PROJECTS
+
+BIBLIOGRAPHY
+PAGE 12
+King, Jon. “Initiative to Repeal Renewable Energy Siting Reform Fails to Get on November Ballot.” Michigan
+Advance, May 29, 2024. https://michiganadvance.com/2024/05/29/initiative-to-repeal-renewable-energy-siting-
+reform-fails-to-get-on-november-ballot/.
+Maine Department of Environmental Protection. “Downeast Wind, LLC,” 2021.
+https://www1.maine.gov/dep/land/projects/downeast/index.html.
+Maine Governor’s Office of Energy Independence and Security. “Maine Wind Energy Development Assessment,
+2012.” Governor’s Energy Office Documents, 2012. https://digitalmaine.com/energy_docs/13/.
+———. “Tracking Progress Toward Meeting Maine’s Energy Independence Goals, 2011.” Governor’s Energy Office
+Documents, 2011. https://digitalmaine.com/energy_docs/10/.
+Salkin, Patricia E., and Amy Lavine. “Understanding Community Benefits Agreements: Equitable Development,
+Social Justice and Other Considerations for Developers, Municipalities and Community Organizations.” UCLA
+Journal of Environmental Law and Policy 26, no. 2 (2008): 291–332.
+Sotolongo, Marisa. “Community Benefits Policy and Energy Justice.” White Paper. Initiative for Energy Justice, June
+2024. https://iejusa.org/community-benefits-policy-and-energy-justice/.
+The White House. “Justice40: A Whole-Of-Government Initiative.” Environmental Justice, 2022.
+https://www.whitehouse.gov/environmentaljustice/justice40.
+U.S. Department of Energy. “About Community Benefits Plans.” Clean Energy Infrastructure, 2023.
+https://www.energy.gov/infrastructure/about-community-benefits-plans.
+Wolf-Powers, Laura. “Community Benefits Agreements and Local Government: A Review of Recent Evidence.”
+Journal of the American Planning Association 76, no. 2 (March 22, 2010): 141–59.
+https://doi.org/10.1080/01944360903490923.
+STATE CBA REQUIREMENTS FOR RENEWABLE ENERGY PROJECTS
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/solar-for-all-story-map/
+
+Solar For All Digital Story Map by Kelly Sheehan | Nov 18, 2025 | Featured Resource, Resource | 0 comments Related posts: Municipal Utility Advocacy Resource Guide
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/solar-for-all-on-the-ground/
+
+Clean energy policies present both opportunities and challenges for energy justice. While these policies can drive equitable renewable deployment and address historical inequities, they may also inadvertently promote false solutions that reinforce existing power imbalances and systemic barriers. We conduct comprehensive state and federal policy evaluations to identify successful energy justice implementations and highlight areas for improvement. Through collaborative frameworks developed with our partners, we systematically analyze clean energy policies through an equity lens, equipping policymakers and advocates with the tools to advocate for equitable implementation of these policies.
+Our frameworks and analysis ensure that the transition to renewable energy creates meaningful benefits for all communities.
+Key Findings
+The EPA’s $7 billion Solar for All program experienced significant disruption when the 2025 Reconciliation Law eliminated residential solar tax credits nearly a decade earlier than planned. Despite these federal policy changes, early implementation demonstrates that community-centered approaches and dedicated coordination can help energy justice initiatives endure political transitions. This policy brief examines the implementation challenges and successes of six diverse grantees in expanding solar access for low-income and disadvantaged communities.
+→ Watch the webinar here
+→ Visualize the case studies on the interactive StoryMap
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/category/resource/webinars/
+
+Watch our webinar exploring federal community benefit plans and energy justice. Case studies from $100B clean energy funding.
+Webinars
+Webinar: Solar Solutions: Community and Coalition Responses to Federal Policy Rollbacks
+As federal solar programs face rollbacks, communities are mobilizing. Watch the conversation
+Webinar: From Theory to Action examining Amp Up the People A Practical Guide for Energy Justice Advocates in Utility Regulation
+IEJ and Vote Solar examine the guide to navigate utility regulation.
+Webinar – Justice in 100 Analysis of the First 100% Laws in the U.S.
+Learn about the Justice in 100 Scorecard, a rubric for evaluating 100% clean energy laws, developed by the Initiative for Energy Justice.
+Webinar – Justice in 100: Scorecard for Equity & Lessons from WA State
+Learn about the Justice in 100 Scorecard, a rubric for evaluating 100% clean energy laws passed by states and territories.
+‘Revolutionary Power’ Book Launch (Recording)
+Join Shalanda H. Baker, IEJ’s Co-Founder and Co-Director, and author of ‘Revolutionary Power: An Activist’s Guide to the Energy Transition,’ for a discussion and Q&A.
+Webinar – California Power Shutoffs (Recording)
+A webinar discusses California’s preemptive power shutoffs and data/reporting issues. It addresses the impact on vulnerable communities.
+Utilities 101: Guide, Video, and Slide Deck
+IEJ introduces Utilities 101, a crash course on utilities from an energy justice perspective.
+Webinar – Energy Justice Workbook & Scorecard (Recording)
+IEJ’s first tool, the Energy Justice Workbook, proposes a framework for justice-centered energy policies, applying it to case studies in California and New York.
+
+--------------------------------------------------------------------------------
+
+URL: https://iejusa.org/category/resource/reports/
+
+Transform municipal utilities into community-controlled power. Learn from Cleveland’s 117-year victory & proven models in Austin, Seattle & Sacramento.
+Reports
+Amp Up the People – A Guide for Energy Justice Advocates in Utility Regulation
+Working with the inspiring team at Vote Solar, we co-created this guide to serve as a valuable resource for energy justice advocates by simplifying the intricacies of utility regulation
+White Paper: Community Benefits Policy and Energy Justice
+Energy infrastructure development has historically benefited some communities while burdening others. In our latest white paper…
+Equitable Community Solar Primer
+Community solar models have transformative potential but can deepen inequities without addressing distributive, procedural, recognition, and restorative justice.
+Justice In 100 Report
+Read more about the Justice in 100: Analysis of the First Ten 100% Laws in the U.S below! In light of the disparities that currently IEJ offered advocates and policymakers our Justice in 100 Scorecard.
+Justice in 100 Scorecard
+What can we each do to advance equity and justice in our field? IEJ’s newest tool, the Justice in 100 Scorecard, addresses this in renewable energy standards, vital to the transition.
+Justice in 100 Metrics Report
+IEJ’s latest report provides a flexible foundation to expand equity accountability in 100% renewable energy policy implementation.
+Utilities 101: Guide, Video, and Slide Deck
+IEJ introduces Utilities 101, a crash course on utilities from an energy justice perspective.
+
+--------------------------------------------------------------------------------

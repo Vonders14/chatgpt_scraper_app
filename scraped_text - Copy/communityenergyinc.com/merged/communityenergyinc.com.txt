@@ -1,0 +1,112 @@
+ROOT: https://communityenergyinc.com/
+SCRAPED_AT_UTC: 2026-02-11T19:56:07.337257Z
+PAGES_INCLUDED: 8
+
+================================================================================
+
+URL: https://communityenergyinc.com/
+
+Climate Solutions At Scale
+20+ Years of Innovative Leadership
+Community Energy led early development and deployment of first wind
+and then solar generation at scale in the U.S.
+Iberdrola Renewables, a global leader in renewable energy, acquired Community Energy’s wind development business in March 2006 as its entry into the U.S. market in furtherance of its global mission to expand renewable generation at scale.
+AES Clean Energy acquired Community Energy’s solar development business in December 2021 to further its mission to accelerate the future of clean energy.
+
+--------------------------------------------------------------------------------
+
+URL: https://communityenergyinc.com/projects
+
+Amazon Solar Farm Virginia – Southampton
+Southampton County, VA
+Size: 100 MW (AC)
+Active
+Amazon Solar Farm Virginia - Southampton is a solar project in Southampton County, Virginia supplying Amazon Web Services data centers under a long-term Power Purchase Agreement.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.communityenergyinc.com/projects/north-star-solar
+
+North Star Solar
+100 MW (AC) project located in Chisago County, MN.
+Description
+The 100 MW (AC) North Star Solar Project is located in Chisago County, Minnesota – approximately four miles southeast of North Branch, MN. The project connects to the grid at the Chisago Substation, a point of significant transmission infrastructure and strong electrical ties to Xcel Energy load. The North Star Solar Project provides Xcel Energy with a cost-effective and efficient solution to meeting their 1.5 percent solar energy requirement in Minnesota. The Project was approved by the Minnesota Public Utilities Commission. The North Star Solar Project is the largest solar energy facility in the Midwest, producing enough energy to power approximately 20,000 homes.
+PHOTO CREDIT: Project Owner, D. E. Shaw Renewable Investments
+North Star Solar achieved commercial operation in 2017.
+Community Benefits
+- Largest solar energy facility in the Midwest.
+- Produces enough energy to power 20,000 homes.
+- Contributes to Xcel Energy’s goal to be 63 percent carbon free by 2030.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.communityenergyinc.com/projects/comanche-solar
+
+Comanche Solar
+120 MW (AC) project located in Pueblo, CO.
+Description
+The Comanche Solar project was selected by Xcel Energy through a competitive bid process to supply the majority of its solar generation portfolio. The project was found to be more cost effective than natural gas on a dollar per megawatt hour basis. Comanche Solar is one of the largest solar projects east of the Rockies.
+PHOTO CREDIT: Construction Contractor, RES America Construction Inc.
+Comanche Solar has been online since 2016.
+Community Benefits
+- Makes solar energy a cost-effective choice for large energy users and delivers significant environmental benefits.
+- Generates enough energy to power more than 31,000 homes.
+- Reduces CO2 by 3.5 million tons over a 25-year lifecycle.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.communityenergyinc.com/projects/amazon-solar-farm-virginia-southampton
+
+Amazon Solar Farm Virginia – Southampton
+100 MW (AC) project located in Southampton County, VA.
+Description
+Amazon Solar Farm Virginia – Southampton is a solar project in Southampton County, Virginia supplying Amazon Web Services data centers in Virginia under a long-term Power Purchase Agreement. Built, owned and operated by Dominion Energy, Inc., a subsidiary of Dominion (NYSE: D). The solar project avoids the release of 134,377 tons of carbon dioxide, 631 tons of sulfur dioxide, 315 tons of nitrogen oxides, and 12 tons of particulate matter annually. Project utilizes single-axis tracker technology, which follows the sun’s path providing high peak production.
+Amazon Solar Farm Virginia – Southampton achieved commercial operation in 2017.
+Community Benefits
+- The largest solar farm ever constructed in Virginia.
+- Will generate 210,000 Megawatt-hours of electricity per year – enough to power 19,000 homes.
+- Energy purchased by Amazon Web Services as part of their effort to achieve 100% renewable energy use for data centers.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.communityenergyinc.com/projects/amazon-solar-farm-us-east
+
+Amazon Solar Farm – Eastern Shore
+80 MW (AC) project located in Accomack County, VA.
+Description
+Amazon Solar Farm – Eastern Shore is a solar project on the Delmarva Peninsula in Accomack County, Virginia serving Amazon Web Services’ data centers under a long-term Power Purchase Agreement. Community Energy developed the project, which was the first grid-scale solar project in Virginia, and included an educational “Solar Walk” designed for school children and the public to visit and learn about the solar farm.
+The solar project utilizes single-axis tracker technology to follow the sun’s path and provide high peak production. The Delmarva Peninsula site offers excellent solar resource and grid interconnection along with suitable land and economics beneficial to local landowners and communities. Amazon Solar Farm – Eastern Shore was approved by unanimous vote of the Accomack County Board of Supervisors, and was the first project approved under the Virginia permit-by-rule regulation for Renewable Energy.
+Amazon Solar Farm Virginia — Eastern Shore has been online since 2016.
+Community Benefits
+- Expands the solar industry by bringing clean energy and economic growth to Virginia.
+- Generates 171,000 Megawatt-hours of electricity per year – enough to power 15,000 homes.
+- Includes an educational “Solar Walk” designed and provided by Community Energy for school children and the public to visit.
+
+--------------------------------------------------------------------------------
+
+URL: https://communityenergyinc.com/news
+
+December 20, 2021 AES Acquires US Renewables Developer Community Energy Adding 10 GW of Renewable Projects to Growth Pipeline Purchase to Propel AES’ Growth Efforts with Additional Projects and Talented Development Team Read Article
+
+--------------------------------------------------------------------------------
+
+URL: https://www.communityenergyinc.com/news/aes-acquires-us-renewables-developer-community-energy-adding-10-gw-of-renewable-projects-to-growth-pipeline
+
+Purchase to Propel AES’ Growth Efforts with Additional Projects and Talented Development Team
+ARLINGTON, VA (Dec. 20, 2021) – The AES Corporation (NYSE: AES) today announced the acquisition of leading US solar developer, Community Energy Solar, LLC (Community Energy). AES has signed PPAs to deliver 4 GW of renewables in the US this year and the acquisition of Community Energy will further bolster the Company’s future expansion efforts with a strong pipeline and skilled development workforce.
+“AES has experienced tremendous growth in renewables in the US this year, placing it among the leading renewables players in the country. Community Energy has built a top reputation over the last 20 years for its ability to successfully develop renewables projects,” said Leo Moreno, AES Clean Energy President. “The addition of Community Energy and its 10 GW pipeline to AES will complement our efforts to deliver highly innovative products to customers with a strong pipeline that now totals more than 40 GW across the country and an industry-leading development team to advance projects. Together, we’ll continue to work towards our vision for a net-zero energy future.”
+With offices in Radnor, PA and Boulder, CO, the Community Energy team has been pioneering renewables development in the US for 20 years. Community Energy has developed more than 3 GW of solar and storage projects and opened the market for utility-scale solar as the first to develop a 100 MW scale project in seven states.
+“Community Energy launched its solar business with a mission to commercialize utility-scale solar and decarbonize the grid, and we delivered by developing about 5% of all utility-scale solar built in US to date. Driven by the urgency of the climate crisis and the need for 10x growth in solar over the next decade, we decided it was time to amplify our impact by joining forces with a world-class partner,” said Brent Beerley, Community Energy CEO. “AES is the ideal partner for us because of their conviction on climate, their industry-leading innovation and most importantly, their people. Having worked closely with the AES team over the past several years, we have found a deep alignment on values and culture, which was essential to us. I am beyond grateful to our team, our board and AES for this opportunity.”
+AES’ US renewables portfolio now includes 4.4 GW of operating assets and 5.7 GW of signed PPAs.
+About AES
+The AES Corporation (NYSE: AES) is a Fortune 500 global energy company accelerating the future of energy. Together with our many stakeholders, we’re improving lives by delivering the greener, smarter energy solutions the world needs. Our diverse workforce is committed to continuous innovation and operational excellence, while partnering with our customers on their strategic energy transitions and continuing to meet their energy needs today. For more information, visit AES here.
+Safe Harbor Disclosure
+This news release contains forward-looking statements within the meaning of the Securities Act of 1933 and of the Securities Exchange Act of 1934. Such forward-looking statements include, but are not limited to, those related to future earnings, growth and financial and operating performance. Forward-looking statements are not intended to be a guarantee of future results, but instead constitute AES’ current expectations based on reasonable assumptions. Forecasted financial information is based on certain material assumptions. These assumptions include, but are not limited to, our expectations regarding the COVID-19 pandemic, accurate projections of future interest rates, commodity price and foreign currency pricing, continued normal levels of operating performance and electricity volume at our distribution companies and operational performance at our generation businesses consistent with historical levels, as well as the execution of PPAs, conversion of our backlog and growth investments at normalized investment levels and rates of return consistent with prior experience.
+Actual results could differ materially from those projected in our forward-looking statements due to risks, uncertainties and other factors. Important factors that could affect actual results are discussed in AES’ filings with the Securities and Exchange Commission (the “SEC”), including, but not limited to, the risks discussed under Item 1A: “Risk Factors” and Item 7: “Management’s Discussion & Analysis” in AES’ 2020 Annual Report on Form 10-K and in subsequent reports filed with the SEC. Readers are encouraged to read AES’ filings to learn more about the risk factors associated with AES’ business. AES undertakes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.
+Any Stockholder who desires a copy of the Company’s 2020 Annual Report on Form 10-K filed February 24, 2021 with the SEC may obtain a copy (excluding Exhibits) without charge by addressing a request to the Office of the Corporate Secretary, The AES Corporation, 4300 Wilson Boulevard, Arlington, Virginia 22203. Exhibits also may be requested, but a charge equal to the reproduction cost thereof will be made. A copy of the Form 10-K may be obtained by visiting the Company’s website at www.aes.com.
+Website Disclosure
+AES uses its website, including its quarterly updates, as channels of distribution of Company information. The information AES posts through these channels may be deemed material. Accordingly, investors should monitor our website, in addition to following AES’ press releases, quarterly SEC filings and public conference calls and webcasts. In addition, you may automatically receive e-mail alerts and other information about AES when you enroll your e-mail address by visiting the “Subscribe to Alerts” page of AES’ Investors website. The contents of AES’ website, including its quarterly updates, are not, however, incorporated by reference into this release.
+AES Media Contact: Gail Chalef
+571-833-8804 • gail.chalef@aes.com
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,632 @@
+ROOT: https://terrapower.com/
+SCRAPED_AT_UTC: 2026-02-11T20:40:21.959353Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://terrapower.com/
+
+Natural Balance
+Addressing surging global energy demand and preserving a sustainable future will require a precise balance between renewable and nuclear energy.
+Innovating
+Response
+The Natrium plant is a step forward for nuclear, providing an unprecedented ability to respond to power needs and balance the grid.
+Our first Natrium plant is currently being built in Wyoming.
+003
+Unique Symmetry
+The Natrium plant's unique construction and operational approach divides the facility into two independent islands.
+ENERGY ISLAND
+NUCLEAR ISLAND
+Optimized
+Process
+The Natrium reactor uses liquid metal to transfer heat from the reactor.
+The properties of this material enable the system to operate at low pressure and cool naturally - making it simpler and safer than any of today's plants.
+005
+Stable Network
+While renewable energy is carbon-free, it is sometimes unavailable due to weather conditions.
+Our innovative molten salt energy storage fills this energy gap, delivering stable electricity supply for the grid when renewables are offline. Other designs do not have this flexibility.
+Clear
+Advantage
+By moving to a much simpler plant design, the Natrium technology requires far fewer resources to construct and operate. This results in lower costs and higher value.
+power to 400,000 homes
+345 MWe
+scalable energy storage
+≥ 5 Hours
+Fuel Utilization
+3x Better Fuel Utilization than LWRs
+LOWER IMPACT
+40% Less Waste
+high quality steam for industrial decarbonization
+500+ºC
+OPERATES
+Low pressure/ Atmospheric
+Rapid Construction
+~36 Months
+From nuclear concrete pour to fuel load
+power increase to
+500 MW electric
+at 10% per minute
+Construction cost efficiencies
+~ 50% Less
+Safety-related concrete, steel & labor
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/about
+
+TerraPower’s innovators create technologies to provide safe, affordable and abundant carbon-free energy. They devise ways to use heat and electricity to drive economic growth while decarbonizing industry. And they develop processes to extract radioisotopes for medical use in lifesaving cancer treatments.
+Our team combines unparalleled technical and engineering expertise, experience in delivering nuclear projects, and building organizations to tackle large-scale global challenges.
+TerraPower was founded by Bill Gates and a group of like-minded visionaries that decided the private sector needed to take action in developing advanced nuclear energy to meet growing electricity needs, mitigate climate change and lift billions out of poverty. Advanced reactors and other isotopic applications are now possible with technology and enhanced computing capabilities that were unimaginable a few decades ago. At TerraPower, we are innovating in nuclear to improve the lives of people everywhere and to build the clean energy of tomorrow – today.
+TerraPower is proud of our culture of mission-driven innovation. Our employees develop clean, safe energy to address climate change and global poverty, and drive medical advances for human health applications. We attract exceptional people and encourage them to confront big challenges with bold creativity. We drive hard for progress while keeping our values at the forefront.
+Our mission is to solve the world’s toughest problems in energy, climate and human health through innovative nuclear technology.
+Our vision is improving the quality of human lives by providing abundant, affordable clean energy and new solutions to cure disease and enhance public health.
+At our core are the TerraPower Guiding Principles of Deliver on the Mission, Build & Demonstrate Trust, Respect One Another, Show Integrity, Communicate Openly and Foster Teamwork. Solving tough problems requires talented people coming together in an inclusive environment.
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/about/
+
+TerraPower’s innovators create technologies to provide safe, affordable and abundant carbon-free energy. They devise ways to use heat and electricity to drive economic growth while decarbonizing industry. And they develop processes to extract radioisotopes for medical use in lifesaving cancer treatments.
+Our team combines unparalleled technical and engineering expertise, experience in delivering nuclear projects, and building organizations to tackle large-scale global challenges.
+TerraPower was founded by Bill Gates and a group of like-minded visionaries that decided the private sector needed to take action in developing advanced nuclear energy to meet growing electricity needs, mitigate climate change and lift billions out of poverty. Advanced reactors and other isotopic applications are now possible with technology and enhanced computing capabilities that were unimaginable a few decades ago. At TerraPower, we are innovating in nuclear to improve the lives of people everywhere and to build the clean energy of tomorrow – today.
+TerraPower is proud of our culture of mission-driven innovation. Our employees develop clean, safe energy to address climate change and global poverty, and drive medical advances for human health applications. We attract exceptional people and encourage them to confront big challenges with bold creativity. We drive hard for progress while keeping our values at the forefront.
+Our mission is to solve the world’s toughest problems in energy, climate and human health through innovative nuclear technology.
+Our vision is improving the quality of human lives by providing abundant, affordable clean energy and new solutions to cure disease and enhance public health.
+At our core are the TerraPower Guiding Principles of Deliver on the Mission, Build & Demonstrate Trust, Respect One Another, Show Integrity, Communicate Openly and Foster Teamwork. Solving tough problems requires talented people coming together in an inclusive environment.
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/natrium
+
+The Natrium® reactor and energy storage system redefines what nuclear technology can be: emissions-free, competitive and flexible. Built for the 21st century grid, TerraPower's Natrium technology is one of the fastest and lowest-cost paths to advanced, zero-carbon energy.
+TerraPower is building its first plant through a public-private partnership with the U.S. Department of Energy's (DOE) Advanced Reactor Demonstration Program (ARDP).
+This program authorizes a 50/50 cost share and authorizes up to $2 billion for the Natrium project. TerraPower and partners will match this investment dollar for dollar. The first-of-a-kind cost for the Natrium demonstration plant will include the reactor design and licensing, codes and methods development, fuel development and qualification, and the design, construction and operation of two supporting facilities: the Natrium Fuel Fabrication Facility and Sodium Test and Fill Facility. The sodium facility will be used to test and demonstrate the performance of first-of-a-kind equipment prior to operations in the reactor plant.
+Unlike today's Light Water Reactors, the Natrium reactor is a 345-megawatt sodium fast reactor coupled with TerraPower's breakthrough innovation — a molten salt energy storage system, providing built-in gigawatt-scale energy storage. This makes the plant a perfect support for high-renewable penetration grids where variable power output is a concern.
+Learn MoreUnderstanding the energy grid and the role of diverse sources, including nuclear and renewables like solar, wind and hydro, is key to grasping the dynamics of our clean energy future. Explore our interactive dashboard to see the impact of transitioning to a decarbonized system with innovations like the Natrium reactor and energy storage system. The dashboard demonstrates Natrium’s unique ability to provide firm, flexible power to an evolving electric grid. The data explores a representative electric system under several decarbonization scenarios to illustrate how Natrium can seamlessly integrate with renewable generation to reduce the cost of the energy transition.
+The Natrium reactor and energy storage system, leveraging natural forces and cutting-edge design, offers unparalleled safety through its operation.
+Natrium reactors are not pressurized like existing plants and use sodium, instead of water, as a coolant. The reactor operates at a temperatures greater than 350 degrees Celsius (the equivalent of 662 degrees Fahrenheit) and far below the boiling point of sodium. TerraPower's design capitalizes on natural forces, such as gravity and thermal convection, enabling passive cooling and significantly reducing safety-related costs compared to conventional reactors.
+Additionally, it's unique design allows for separation and “decoupling” of the energy and nuclear island, ensuring the integrated energy storage and power production systems are completely separated from the nuclear portion of the plant.
+This design permits non-nuclear project teams to operate significant plant operations like the steam turbines and salt tanks outside of the nuclear control area. This is safer and reduces costs.
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/isotopes
+
+Learn more about isotopes
+Our fact sheet offers a deeper look at this topic.
+Transforming the fight against cancer.
+TerraPower Isotopes® (TPI®) is transforming the fight against cancer by advancing the next generation of isotopes. The TPI team is utilizing proven methods to extract research grade1 Actinium-225, free of the isotopic impurities of Actinium, which may be applied to new medical applications that potentially target and treat cancer.
+TPI is increasing the scarce global supply of Actinium-225, an isotopic starting material, to support pharmaceutical companies’ cancer research and development efforts.
+¹TPI produced Actinium-225 is intended to be used as starting material for further manufacturing processes and, as starting material, is not manufactured in accordance with current good manufacturing practices.
+Our fact sheet offers a deeper look at this topic.
+Since 2018, TerraPower Isotopes has been working to increase the supply of Actinium-225. Actinium-225 is an alpha-emitting radionuclide that may have application in the area of oncology targeted alpha therapy research and development. The isotope can be attached to a molecule, which can then selectively target and deliver the Actinium-225 to the cancer site. The Actinium-225 labeled drug products, once developed and approved, can destroy the cancerous tissue with minimum damage to nearby healthy cells.
+The TPI team of experts has developed a process to extract research grade Actinium-225 through a natural decay method from Thorium-229. TerraPower Isotopes is working with Isotek to recover the Thorium-229 from Uranium-233 stockpiles that are managed by the U.S. Department of Energy.
+TerraPower Isotopes is actively working to provide research grade Actinium-225 to pharmaceutical companies for potential drug development through partnerships with private industry and government. The program’s innovative technologies will support the potential development and availability of a diverse suite of cancer treatments.
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/future
+
+Using nuclear innovation to decarbonize industry
+TerraPower's MCFR design research and development has already expanded into design and testing activities. In January 2016, the U.S. Department of Energy awarded a five-year, $40 million cost-share award for continued research and development into TerraPower's MCFR project. This award served as the inception for a new public-private MCFR project development partnership that includes TerraPower, Southern Company, Oak Ridge National Laboratory, the Electric Power Research Institute and Vanderbilt University.
+The MCFR design team reached a major milestone on this project with 1,000 hours of isothermal loop operations. The MCFR technology will utilize liquid salt as both fuel and coolant in the reactor core. This fully pumped molten salt loop tested key components including pumps, heaters, freeze valves, flanges and instrumentation over time.
+The U.S. Department of Energy selected the Molten Chloride Reactor Experiment (MCRE) proposal, with Southern Company as the prime, as a winner of the Advanced Reactor Demonstration Program risk-reduction pathway. This effort is relevant to TerraPower's MCFR design.
+Southern Company and TerraPower are working on an Integrated Effects Test (IET) to learn how the MCFR technology will scale and behave at larger, commercially relevant sizes. The IET was commissioned and began operating in TerraPower's Everett, Washington, facility in October 2023.
+TerraPower's Molten Chloride Fast Reactor (MCFR) project expands the ability of nuclear reactor technology to decarbonize the economy in sectors including and beyond electricity. The MCFR technology operates at higher temperatures than conventional reactors, thus generating electricity more efficiently and without emissions. Its unique design also offers potential for process heat applications and thermal storage. Its unparalleled design features make it a highly efficient, low-cost and carbon-free energy solution to help utilities and industries reach decarbonization goals.
+Learn MoreBe the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/wyoming
+
+TerraPower is building its first reactor near the site of a retiring coal facility in Kemmerer, Wyoming, in a joint effort with the U.S. Department of Energy's Advanced Reactor Demonstration Project.
+It is the only advanced, non-light water, reactor in the Western Hemisphere being built today to meet the challenges of the clean energy transition.
+Currently under construction near a retiring coal plant in Kemmerer, Wyoming, the Natrium plant is proof that nuclear will play a critical role in combating climate change globally.
+It will also provide key support to this historic energy producing community's local economy for decades to come.
+The site was selected after a significant search including four finalist communities in Wyoming. The Natrium project team evaluated a variety of factors when selecting the site of the future Natrium plant. These included local community support, the physical characteristics of the site, the ability to obtain a license from the U.S. Nuclear Regulatory Commission (NRC) for the site, access to existing infrastructure and the needs of the grid.
+TerraPower's technical teams spent five months visiting each community, collecting data and evaluating this information against regulatory and project requirements.
+The project will employ approximately 1,600 workers during peak construction of the plant in Kemmerer. Once the plant is operational, about 250 workers will support day-to-day activities, including plant security. Those jobs will be in the community for many decades to come once the reactor is operational.
+This is an exciting opportunity for Wyoming to open a new chapter in the nuclear power industry. Advanced nuclear generation clearly fits the bill for zero-emission, reliable and dispatchable electricity necessary to power our country into the future. Wyoming is the nation's leader in the production of domestic uranium. Our producers stand ready, willing and able to safely and responsibly provide the vital fuel for America's next generation of nuclear power.
+-Travis Deti
+Executive Director, Wyoming Mining Association
+I commend Rocky Mountain Power for joining with TerraPower in helping Wyoming develop solutions so that our communities remain viable and continue to thrive in a changing economy, while keeping the state at the forefront of energy solutions.
+-Dan Dockstader
+Wyoming Senate President
+Growing up in Kemmerer, it became very apparent that in my desired job field, there weren't many job opportunities for me to come back to. I am extremely excited for the Natrium plant to come. It will not only boost our small-town economy but give my family and so many others the option to stay in Kemmerer. Due to the Natrium plant, the prospect of coming home and working in this field is possible.
+-Olivia Nielson
+Kemmerer High School Graduate, Civil Engineering Major
+TerraPower's selection of Southwestern Wyoming as the site for their new clean nuclear energy technologies has unleashed great opportunity to a rich and diverse area of Wyoming known for its energy and mineral production, fossil tourism, agriculture, and outdoor recreation. The new ideas from PacifiCorp and TerraPower, in the Kemmerer/Diamondville area, has brought an air of innovation in complementary industries such as clean energy recycling, hydrogen hub development, carbon capture and storage, but most importantly the expansion and new uses of natural gas, oil, and coal. By selecting our community, TerraPower has opened a plethora of opportunities for positive, responsible, and sustainable growth throughout the whole community.
+-Stephen P. Allen
+MBA, Liaison for the South Lincoln County Economic Development Corporation (SLCEDC)
+Our beloved town of Kemmerer has a rich history in providing the energy that drives Wyoming. Our shop, Fossil Fuel Coffee Co, pays tribute to that heritage and to the natural wonder of our entire region. Now we look forward to the exciting clean energy future that TerraPower will bring to Wyoming!
+-Elizabeth and Brian Tresp
+Owners of Fossil Fuel Coffee Co.
+TerraPower's announcement to develop the Natrium Demonstration Reactor and to site the project in Wyoming was a seminal event in establishing new markets for other well-established industries within the state. The announcement fueled optimism for Peninsula Energy, a Wyoming based uranium producer. Wyoming is a leader in uranium production and Wyoming's producers are now motivated to reestablish a meaningful domestic uranium production capacity. Congratulations and welcome to Wyoming!
+-Wayne Heili
+Managing Director/CEO, Peninsula Energy - Casper Wyoming
+The Natrium project team considered strong local community support when selecting the site.
+The site boasts ideal physical characteristics, making it a perfect fit for the Natrium plant.
+The ability to obtain a license from the U.S. Nuclear Regulatory Commission was a crucial factor in site selection.
+Access to existing infrastructure and the needs of the grid were key considerations for the site's feasibility.
+The project will create approximately 1,600 jobs during peak construction and sustain around 250 jobs once operational.
+The Natrium plant is being developed through a partnership with the U.S. Department of Energy's Office of Clean Energy and its Advanced Reactor Demonstration Program.
+The plant will provide power to support PacifiCorp’s Rocky Mountain Power customers in Wyoming and throughout the region.
+PacifiCorp is adding a significant number of renewable power sources and energy storage units to its regional grid. The Natrium technology is specifically designed to integrate into a grid with high levels of renewables and is a great match for meeting the state and region's future power needs with reliable and flexible generation.
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/faq
+
+Below is a selection of common questions about the Natrium project. If you need additional information please reach out to press@terrapower.com.
+America's energy grid will increasingly rely more heavily on wind and solar. The Natrium plant is specifically designed to integrate into a grid with high levels of variable-output renewables.
+The Natrium technology will use the high-temperature heat from the reactor to power a molten salt storage system that can retain tremendous amounts of energy, much greater than the energy stored in typical battery facilities. That energy can be used to power the grid at peak demand when weather and darkness hamper renewable output.
+The Nuclear Regulatory Commission (NRC) licenses and regulates the operation of all commercial nuclear power plants in the United States. TerraPower will pursue the 10 CFR Part 50 licensing pathway for the Natrium reactor. TerraPower, through its subsidiary, US SFR Owner, submitted the demonstration plant's construction permit application in 2024 and anticipates submitting the operating license application in 2027.
+TerraPower (through its subsidiary, US SFR Owner) submitted the demonstration plant's construction permit application to the U.S. Nuclear Regulatory Commission (NRC) in March 2024 and anticipates submitting the operating license application in 2027. This will allow us to begin construction on the nuclear island in 2026 with completion of the plant this decade. Construction on the non-nuclear portion of the plant began in June 2024.
+The Natrium plant is being built through a public-private partnership including a large U.S. government grant, and we will follow all federal contracting and tendering rules. We are planning for Bechtel Corporation to build the reactor with the help of many direct employees and subcontractors. There is strong capability in Wyoming, and the project will be looking for local partners. The improved logistics of partnering with nearby vendors will be a success factor for the project. Bechtel is leading most of the vendor selection for construction materials and services - more information can be found at www.bechtel.com/supplier/
+TerraPower is building its first plant through a public-private partnership with the U.S. Department of Energy's (DOE) Advanced Reactor Demonstration Program (ARDP). This program authorizes a 50/50 cost share and authorizes up to $2 billion for the Natrium project. TerraPower and partners will match this investment dollar for dollar. The first-of-a-kind cost for the Natrium demonstration plant will include the reactor design and licensing, codes and methods development, construction of the sodium test facility, development of a fuel fabrication facility and fuel development and qualification.
+The Natrium reactor uses high-assay, low-enriched uranium (HALEU) metallic fuel. HALEU is a new class of nuclear fuel where the uranium-235 isotope content is above 5% but less than 20%. Many advanced reactors, including the Natrium technology, use HALEU because it improves reactor performance. HALEU allows the Natrium reactor to more efficiently produce energy and reduces the volume of waste produced from the reactor, when compared to today's operating nuclear fleet.
+Yes. The Natrium technology enhances safety, relying on natural forces and advanced design for passive heat removal. In addition, the Natrium reactor operates at atmospheric pressure and uses sodium, instead of water, as its coolant. The reactor operates at a temperature more than 350 degrees Celsius (the equivalent of 662 degrees Fahrenheit) far below the boiling point of sodium.
+Further, the Natrium reactor is a pool-type reactor, so there are no penetrations in the reactor vessel below the lid, which eliminates the possibility of a leak or loss of coolant accident. The design also relies on natural forces, like gravity and hot air rising, to cool the reactor if an unexpected shutdown occurs. This means the plant does not rely on power to cool itself.
+The entire size of the nuclear island is approximately 16 acres. The overall site area is approximately 44 acres. When normalized to power rating, the Natrium system has a smaller footprint compared to other Generation IV reactors.
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+To optimize your user experience, we serve cookies on this site. By clicking or navigating you agree to allow our usage of cookies.
+For more information on the types of information we collect, visit our Cookie Notice.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/news
+
+Bellevue, WA – January 20, 2026 – TerraPower announced today that Korea Hydro & Nuclear Power (K...
+Read moreBellevue, WA – January 9, 2026 – TerraPower, a nuclear innovation company, and Meta announced to...
+Read moreBellevue, WA – December 1, 2025 – TerraPower President and CEO, Chris Levesque, issues a sta...
+Read moreRichland, WA – November 4, 2025 – Framatome and TerraPower have achieved a key milestone in ...
+Read moreBellevue, WA – October 28, 2025 – TerraPower, a nuclear innovation company, announced today th...
+Read moreBellevue, WA – October 22, 2025 – TerraPower, a nuclear innovation company, received notificatio...
+Read moreTopeka, KS – September 23, 2025 – TerraPower, a nuclear innovation company, Evergy (NASDAQ: EVRG...
+Read moreBellevue, WA – September 15, 2025 – TerraPower, a nuclear innovation company, and KBR (NYSE: KBR...
+Read moreSalt Lake City, Utah – August 25, 2025 – The Utah Office of Energy Development (OED), TerraPower...
+Read moreBellevue, WA – August 18, 2025 – TerraPower, a nuclear innovation company, announced today the s...
+Read moreBellevue, WA – July 9, 2025 – TerraPower, a nuclear innovation company, announced today the awar...
+Read moreBellevue, WA – July 2, 2025 – TerraPower, a nuclear innovation company, received notification f...
+Read moreBellevue, WA – June 18, 2025 – TerraPower, a leading nuclear innovation company, announced toda...
+Read moreBellevue, WA – May 21, 2025 – TerraPower, a nuclear innovation company, announced today several ...
+Read moreBellevue, WA – May 8, 2025 Statement from TerraPower President and CEO Chris Levesque: “Terra...
+Read moreBellevue, WA – April 16, 2025 - TerraPower, a nuclear innovation company, announced today the subm...
+Read moreBellevue, WA – March 13, 2025, - TerraPower, a nuclear innovation company, and KBR (NYSE: KBR) tod...
+Read moreBellevue, WA – March 11, 2025, - Today, TerraPower and HD Hyundai announced a strategic collaborat...
+Read moreBellevue, WA – February 13, 2025, - TerraPower, a nuclear innovation company, announced today the ...
+Read moreBellevue, WA – February 12, 2025 – Today, TerraPower, LLC, a nuclear innovation company, and nVi...
+Read moreBellevue, WA – January 21, 2025 – TerraPower, a nuclear innovation company, and Sabey Data Cente...
+Read moreBellevue, WA – January 14, 2025 – TerraPower, the developer of America’s next nuclear reactor,...
+Read moreIndianapolis, IN – December 20, 2024 – “Congratulations to Cardinal Health on this incredible...
+Read moreBellevue, WA – December 18, 2024 - TerraPower, a nuclear innovation company, announced today it ha...
+Read moreBellevue, WA – October 30, 2024 – TerraPower, a leading advanced nuclear energy developer, today...
+Read moreBellevue, WA – December 5, 2023 – TerraPower and the government of Gyeongsangnam-do Province in ...
+Read moreBellevue, WA – October 3, 2024 - TerraPower, a nuclear innovation company, announced today that it...
+Read moreBellevue, WA – October 1, 2024 – TerraPower Isotopes announced today it is producing Actinium-...
+Read moreBellevue, WA – September 17, 2024 - TerraPower, a nuclear innovation company, announced today that...
+Read moreBellevue, WA – August 15, 2024 – TerraPower announced today its selection of industry experts Sa...
+Read moreBellevue, WA – June 10, 2024 – TerraPower, a leading nuclear innovation company, today celebrate...
+Read moreBellevue, WA – May 29, 2024 – TerraPower announced today an agreement with Framatome North Ameri...
+Read moreBellevue, WA – March 29, 2024 – TerraPower announced today the submission of its construction pe...
+Read moreBellevue, WA – February 7, 2024 – TerraPower announced today the selection of five suppliers to...
+Read moreBellevue, WA – January 24, 2024 – Today, TerraPower announced that the TerraPower Isotopes team ...
+Read moreBellevue, WA – January 11, 2024 – Thomas Kuhn, the former President and CEO of the Edison Electr...
+Read moreDUBAI – United Arab Emirates – December 4, 2023 – TerraPower, a nuclear innovation company, an...
+Read moreJapan Atomic Energy Agency (JAEA), Mitsubishi Heavy Industries (MHI), Mitsubishi FBR Systems (MFBR),...
+Read moreBELLEVUE, Washington – August 16, 2023 – TerraPower announced today the purchase of land in Kemm...
+Read moreBellevue, WA – August 1, 2023 – TerraPower, a nuclear innovation company leading projects from r...
+Read moreBellevue, Wash., and Bethesda, Md. – July 17, 2023 – TerraPower and Centrus Energy Corp. (NYSE A...
+Read moreBellevue, WA – June 26, 2023 – TerraPower Isotopes and PanTera, the Belgian joint venture create...
+Read moreKemmerer, WY – May 5, 2023 – Today, TerraPower Founder and Chairman Bill Gates visited Kemmerer,...
+Read moreBellevue, WA – April 25, 2023 – TerraPower executives today joined corporate leaders from SK and...
+Read moreBellevue, WA – March 31, 2023 – Today, PacifiCorp released its 2023 Integrated Resource Plan (IR...
+Read moreBellevue, WA – January 1, 2023 – Ralph Izzo, executive chair of the Public Service Enterprise Gr...
+Read moreBellevue, WA – November 3, 2022 – TerraPower, a leading nuclear innovation company, has conclude...
+Read moreWilmington, NC and Bellevue, WA — October 21, 2022 — Global Nuclear Fuel–Americas (GNF-A), a G...
+Read moreBellevue, WA – August 15, 2022 – TerraPower, a leading nuclear innovation company, announced tod...
+Read moreBellevue, WA, and Dublin, OH – August 12, 2021 – TerraPower and Cardinal Health (NYSE: CAH) toda...
+Read moreBe the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/terrapower-secures-major-support-services-at-the-natrium-site
+
+Bellevue, WA – September 17, 2024 - TerraPower, a nuclear innovation company, announced today that it has entered into a Basic Ordering Agreement (BOA) with Numerical Advisory Solutions (NAS), a Zachry Group company, for Owner’s Engineering support services and start-up support services for TerraPower’s Natrium Reactor Demonstration Project in Kemmerer, Wyoming.
+“We’re excited to partner with Numerical Advisory Solutions as we continue our construction activities on the Natrium demonstration project,” said Tara Neider, senior vice president and project director for the Natrium Reactor Demonstration Project. “Their unparalleled expertise in engineering, construction and innovative solutions will be instrumental in the successful execution of our first Natrium Reactor and Energy Storage System.”
+Zachry Group is North America’s pacesetter in turnkey engineering, construction, maintenance, turnaround and fabrication services to the energy, chemicals, power, manufacturing and industrial sectors. Numerical Advisory Solutions is internationally recognized for their expertise in analysis and code development, utilizing best-in-class software tools and services for the design and safe operation of nuclear facilities worldwide. NAS specializes in providing significant cost savings through margin recapture, operations flexibility, maintenance and outage task and schedule reduction, and effective design through advanced modeling and simulation methods.
+Jim Harrell, president of Zachry Group’s Numerical Advisory Solutions, stated “We are thrilled to expand our partnership with TerraPower on this groundbreaking project, which is critical to advancing nuclear technology. This collaboration represents a significant step forward in our commitment to innovative energy solutions and showcases our dedication to driving sustainable development.”
+The Natrium technology features a 345 MWe sodium-cooled fast reactor with a molten salt-based energy storage system. The storage technology can boost the system’s output to 500 MWe for more than five and a half hours when needed. This innovative addition allows a Natrium plant to integrate seamlessly with renewable resources and leads to faster, more cost-effective decarbonization of the electric grid while producing dispatchable carbon-free energy. The Natrium demonstration plant is being constructed near a retiring coal facility and began non-nuclear construction activities this summer.
+Future Request for Proposal (RFP) opportunities for the Natrium Reactor Demonstration Project can be found on TerraPower’s website: https://terrapower.com/suppliers/
+The process of awarding contracts for the project is ongoing. TerraPower will continue to provide updates as additional contracts are awarded.
+About TerraPower
+TerraPower is a leading nuclear innovation company that strives to improve the world through nuclear energy and science. Since it was founded by Bill Gates and a group of like-minded visionaries, TerraPower has emerged as an incubator and developer of ideas and technologies that offer energy independence, environmental sustainability, medical advancement and other cutting-edge opportunities. It accepts and tackles some of the world’s most difficult challenges. Behind each of its innovations and programs, TerraPower actively works to bring together the strengths and experiences of the world’s public and private sectors to answer pressing global needs.
+Media Contacts
+press@terrapower.com
+¹ TerraPower and GE-Hitachi technology
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/terrapower-announces-expansion-of-executive-leadership-team
+
+TerraPower Announces Expansion of Executive Leadership Team
+Three new roles and appointments support TerraPower's organizational growth and strategic vision
+Bellevue, WA – May 21, 2025 – TerraPower, a nuclear innovation company, announced today several new roles and appointments to its executive leadership team, reinforcing the company's commitment to scaling operations as their multiple technologies deploy globally and the organization continues to grow.
+Chief Operating Officer The company has promoted Eric Williams to serve as its first Executive Vice President and Chief Operating Officer. Eric currently serves as the Senior Vice President and Design Authority for the Natrium® technology. He has been with TerraPower for over 10 years and spent his entire career in the nuclear energy sector. Eric will oversee an extensive portfolio that includes the management of TerraPower's reactor projects, both the Natrium technology and the Molten Chloride Fast Reactor, as well as internal company functions that support the delivery of these technologies. Eric begins his new role this month.
+"Eric's deep experience, proven leadership, and commitment to TerraPower's mission uniquely position him for this role as we move into the next phase of project execution. Eric has consistently demonstrated his ability to lead with integrity, foster collaboration, and deliver results, and I am pleased that he has agreed to take on this new role," said TerraPower President & CEO Chris Levesque.
+Chief Financial Officer
+After 12 transformational years with TerraPower, Marcia Burkey will retire from her current role of Executive Vice President and Chief Financial Officer and Steven Hellman will be the new Executive Vice President and Chief Financial Officer for TerraPower. Steven joins the company from UBS and will succeed Marcia in June 2025.
+Steven comes to TerraPower with decades of international experience and leadership in the financial sector and brings deep expertise to his role leading TerraPower's financial team. Over the course of his 35-year career, he has a proven track record of advising companies in the global energy sector in a broad range of activities, including mergers & acquisitions, private and public debt and equity capital raising, restructuring, infrastructure development and project finance. In his role, he will lead the company's financial strategy and operations, including capital formation, commercial partnerships and support functions.
+"We are thrilled to welcome Steven to the TerraPower team. Steven brings robust, global credentials that will be invaluable as we enter the next phase of growth," said Levesque. "His extensive experience as a strategic deal structurer will be vital as we continue to commercialize our technologies, and his leadership will strengthen our strategic capabilities as we scale our operations."
+Company Advisor
+As Marcia Burkey retires from her current role of Executive Vice President and Chief Financial Officer, she will transition into a TerraPower advisory position. Marcia has played a pivotal role in guiding the company through significant growth, advancing both team capacity and operational complexity. She led the Company's capital raises including the largest private placement in the advanced nuclear industry and has overseen the management of substantial government grants. She will continue to have a strategic, and crucial, voice for TerraPower.
+"To say that Marcia has been invaluable to TerraPower is an understatement. She has been instrumental at every stage of growth, touched every aspect of our business, and played a defining role in guiding our company's journey," said Levesque. "I am incredibly happy that she has agreed to serve in this advisory role into her retirement, and look forward to her counsel and insight as TerraPower continues to advance our mission."
+About TerraPower TerraPower is a leading nuclear innovation company that strives to improve the world through nuclear energy and science. Since it was founded by Bill Gates and a group of like-minded visionaries, TerraPower has emerged as an incubator and developer of ideas and technologies that offer energy independence, environmental sustainability, medical advancement, and other cutting-edge opportunities. It accepts and tackles some of the world's most difficult challenges. Behind each of its innovations and programs, TerraPower actively works to bring together the strengths and experiences of the world's public and private sectors to answer pressing global needs. Learn more at terrapower.com.
+Eric Williams has 22 years of experience in engineering and has spent the last 15 years developing nuclear power plant designs, with an emphasis on safety. Before coming to TerraPower, Williams spent four years at B&W mPower developing a new small modular reactor design and worked to develop the safety of the plant and take the design through pre-licensing with the U.S. Nuclear Regulatory Commission. He also led the development of an Integrated Systems Test facility, which was a small-scale, electrically powered version of the nuclear power plant used to demonstrate the safety characteristics of the plant during simulated accident scenarios.
+Earlier in his career, Williams worked on another new reactor design where he led a team that analyzed severe accidents. He developed the analysis and documentation needed to license the design and took the severe accident analysis through the licensing process.
+Prior to working on new nuclear reactor designs, Williams worked on making the current fleet of nuclear power plants in the U.S. more efficient by upgrading their equipment and modernizing their systems. He worked directly with electric power utilities and visited operating nuclear power plants to understand the issues they faced and helped develop solutions.
+Williams holds a Bachelor of Science in mechanical engineering from the University of Florida, a Master of Business Administration from Lynchburg College and a Professional Engineer license.
+Steven Hellman
+Steven Hellman will join TerraPower as Executive Vice President and Chief Financial Officer. He was appointed to that position in May 2025 after a 35-year career in investment banking, business and law. He has significant expertise and experience globally in mergers & acquisitions, public and private debt and equity capital raising, corporate restructuring and project and infrastructure finance.
+Prior to joining TerraPower, Steven worked for over 25 years as an investment banker with Credit Suisse, UBS and other global investment banks in a variety of roles throughout the world. Most recently, Steven was Managing Director and Co-Head of UBS's Energy Transition investment banking group, where he advised TerraPower on financing strategy and capital raising (2021-2025) and McDermott International on its financial restructuring (2022-2024).
+Steven began his investment banking career in 1997 as a member of Credit Suisse's Global Energy Group, working in New York, London and Moscow. He founded Credit Suisse's Energy Services investment banking practice and advised on some of the landmark transactions in the sector, including Halliburton's IPO/split-off of KBR, ABB’s sale of Lummus Global, Quanta Services’s acquisition of InfraSource and IPOs of Petrofac Ltd and EnergySolutions (a nuclear waste management and services company). From 2007-2010, Steven was Credit Suisse’s Regional CEO and Head of Client Coverage, Russia/CIS, based in Moscow, where he advised international and domestic companies in the Energy and other sectors. From 2016-2018, Steven served as Chief Restructuring of FESCO Transportation Group and, from 2017-2019, as a member of the Board of Directors of Lenta, Plc.
+Prior to his career in investment banking, Steven was Executive Vice President and Head of Business Development for UniSite, Inc, a wireless tower collocation company. Steven began his career as a business and finance attorney at Latham & Watkins, where he advised on the financing of communications satellites and worked on the launch of DirecTV.
+Steven holds a Bachelor of Arts degree in Soviet Studies from the University of California, Berkeley and a J.D. from the University of California, Berkeley School of Law. He is a member of the Board of Trustees of the New Jersey Scholars Program.
+Marcia Burkey
+Before joining TerraPower as CFO, Marcia Burkey was the managing director at TeleSoft Partners, a Silicon Valley venture capital firm that funds, incubates and helps build value in companies of various stages. She oversaw investment operations for a family of funds with commitments exceeding $625M including SBIC commitments. TeleSoft’s funds invest in communication, energy, internet and information technology companies.
+Prior to her work at TeleSoft, Burkey was a senior vice president and partner of Bechtel Group, Inc. In her capacity as CFO of Bechtel Enterprises, she was responsible for leading the investment efforts along with financial planning and analysis, control, tax, treasury, and IT efforts. Additionally, Burkey assisted in capital raisings within Bechtel Enterprises and Bechtel Group, and served on the boards of UIC, Alterra and InterGen. She led the development and sale of investments in North America, Asia, South America and the Middle East. Burkey also served as the president of Bechtel’s NASD broker-dealer, Bechtel Financing Services, Inc.
+Prior to her work at Bechtel, Burkey spent nine years at SBC Warburg (now UBS) in corporate and project finance positions. She was involved in project financings globally for SBC Warburg in New York, and directed the firm’s Latin America project finance business development efforts. In addition, she was responsible for corporate advisory and financing in multiple industries, including work with U.S. public utilities. While at SBC Warburg, Burkey assisted in raising debt and equity capital for U.S. electric, water and gas utilities in excess of $2.5B.
+Burkey is currently a member of the U.S. Department of Commerce’s Civil Nuclear Trade Advisory Committee (CINTAC), providing guidance on the most pressing trade issues facing the U.S. civil nuclear sector. Burkey holds a Bachelor of Arts from Macalester College (Phi Beta Kappa and magna cum laude) and a Master of Arts from Columbia University.
+Subscribe
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+This site uses cookies
+To optimize your user experience, we serve cookies on this site. By clicking or navigating you agree to allow our usage of cookies.
+For more information on the types of information we collect, visit our Cookie Notice.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/KHNP-Joins-TerraPower-Investor-Base
+
+Bellevue, WA – January 20, 2026 – TerraPower announced today that Korea Hydro & Nuclear Power (KHNP) has joined SK as part of the company’s visionary investor base, marking KHNP’s first investment into an advanced nuclear company. KHNP is a global leader in building and operating nuclear plants, and TerraPower is leading the advanced nuclear industry to market with its flagship Natrium® technology – an advanced nuclear reactor paired with a gigawatt-scale energy storage system. KHNP joins TerraPower’s current investors in supporting the first Natrium plant being built in Wyoming, along with the company’s plans to rapidly deploy additional units in the U.S. and abroad. This investment will accelerate ongoing efforts to explore both South Korean and other opportunities. “We have strong relationships with multiple Korean entities across the nuclear energy supply chain, and today’s announcement is one more step to realizing the Natrium technology’s promise to deliver next generation nuclear power not just in the United States, but around the world,” said Chris Levesque, TerraPower president and CEO. “TerraPower, SK and KHNP have been advancing our strategic collaboration for years, and I’m proud to add KHNP to our committed investor base.” Park In-sik, Executive Vice President and Head of the Export Business Division at KHNP, said, “This investment is a major milestone for KHNP in supporting the global deployment of next-generation nuclear energy. By combining our 50 years of experience in nuclear plant construction and operation with SK Innovation’s competitiveness in energy and TerraPower’s technology, we will play a leading role in expanding the advanced nuclear market. The three companies plan to sign definitive commercialization agreements this year to establish a foundation for global projects.” Moohwan Kim, Executive Vice President and Head of Energy Solution Business Division at SK Innovation added, “KHNP’s investment in TerraPower solidifies our three-way collaboration in the global advanced nuclear business. SK Innovation will work closely with KHNP to support the Wyoming project, pursue new nuclear opportunities, and achieve innovative outcomes including localization of key materials and components.” KHNP’s investment will be through SK’s previously announced $250 million investment into TerraPower. KHNP and TerraPower successfully completed the U.S. Committee on Foreign Investment (CFIUS) review process in December 2025. The three companies have been working together since 2023 under a strategic collaboration agreement. About TerraPowerTerraPower is a leading nuclear innovation company that strives to improve the world through nuclear energy and science. Since it was founded by Bill Gates and a group of like-minded visionaries, TerraPower has emerged as an incubator and developer of ideas and technologies that offer energy independence, environmental sustainability, medical advancement and other cutting-edge opportunities. It accepts and tackles some of the world’s most difficult challenges. Behind each of its innovations and programs, TerraPower actively works to bring together the strengths and experiences of the world’s public and private sectors to answer pressing global needs. Learn more at terrapower.com. Media Contacts press@terrapower.com 1The Natrium Reactor is a TerraPower & GE Vernova Hitachi Nuclear Energy Technology
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/suppliers
+
+– Partner with a leader in advanced nuclear innovation
+TerraPower’s suppliers and collaborators provide valuable services, materials and manufactured products, and are important members of our extended team. Since 2008, TerraPower has been bringing together the strengths and experiences of the world’s public and private nuclear energy sectors. To date, TerraPower has engaged more than 80 corporations, universities and government agencies from around the globe. We will continue to put exemplary emphasis on engaging the diversity of the nuclear supply chain, including small, disadvantaged businesses; women-owned small businesses; veteran-owned small businesses; service-disabled, veteran-owned small businesses; and HUBZone small businesses. We have found that working with a diverse supply chain strengthens our ability to deliver quality projects, enhances the capabilities of the small business community, and fosters a healthy business environment.
+We are excited to release this list of potential supplier opportunities for the Natrium Reactor Demonstration Project and look forward to hearing from interested parties who want to help bring the demonstration plant to fruition. Bear in mind that the details of this list are subject to change, revision, or cancellation. There is no guarantee that these opportunities will result in a solicitation for any of this work. Below is a list of anticipated vendor opportunities for the Natrium Reactor Demonstration Project, separated by Demonstration Plant Equipment and Test and Fill Facility equipment. Design, fabrication and delivery of three sodium drain tanks. Two large tanks are identical, and one is a smaller supplemental tank. These tanks are designed to ASME BPVC VIII – Division 1. Design, fabrication, testing, and delivery of the Pin Removal Cell (PRC). This machine has remote manipulators for the manual operation of handling socket removal/reinstallation, the Lead Test Pins (LTP) attachment to the Plug Extraction Machine (PEM), and pin canister opening/closing. Design, fabrication, and delivery of a pin shipping cask, a specialty transportation cask designated to ship irradiated fuel pins from site to off site laboratory. Design support, Fab and Test for equipment that will be a set of shielded casks and supporting equipment used to remove, store, and install major reactor head equipment. This includes shielded casks for long-term storage, as well as floor valves, beams, and adapters to support the casks and mate them to the reactor vessel. Design codes applicable to all or parts of this work would be ASME BPVC-III-I, ASME B31.3, ANSI N14.6, IEEE 1290 and AWS D1.6. Fabrication, fill, testing and delivery of Fixed In-Vessel Shielding (FIVS) containers filled with powdered neutron shielding material. The FIVS is permanently installed shielding within the Reactor Vessel that must last the lifetime of the plant. This will be a ASME III Div 5 fabrication. Fabrication and delivery of a Pool Immersion Cell (PIC). The PIC removes residual sodium coolant from core assemblies and transfers them to the Spent Fuel Pool. Includes a process skid, a pressure vessel, an elevator, and trolley. Design, fabrication, testing and delivery of a Plug Handling Fixture (PHF). This portable machine has a hoist assembly and grapple enclosed in an airtight container to remove, transport and replace shield plugs. Design, fabrication, testing (TBD), and delivery of sodium drain valves on small bore piping. Design, fabrication, and delivery of a pin transfer cask, a intermediate shield cask with internal hoist to move pin canisters from a hot cell to a transportation cask. Design, fabrication, and delivery of a grapple exchange box, a inert glovebox that allows the EVHM and BLTC grapples to be lowered into the box, disconnected from the machine for cleaning. There is an additional space for a second grapple to attached to the machine to continue operations. Design, fabrication, and delivery of a drip pan exchange box, a sealed and inert portable maintenance box that will interface with the EVHM and BLTC. THe drip pan box, allows from drip pans, full of sodium drippage to be remove from the machine, move to a facility for cleanout, along with a space for a new drip pan to be installed in the machine. Desing, fabrication, and delivery of a external fuel handling waste gas gccumulator, a large gas pressure vessel that provides a buffer volume between external fuel handling equipment exhaust gas and the plant stack. This vessel ensure controlled pressure and flow release to stacks. Design, fabrication and delivery of a long reach grapple that interfaces with the pool handling machine to move core assemblies. Design, fabrication and delivery of a long reach grapple that interfaces with core assemblies to move from the inspection stand to a preconditioning station. Fabrication and delivery of a sealed port between various fuel handling equipment to maintain inert environmental boundaries. We are excited to release this list of potential nuclear safety-related component opportunities for the Natrium Advanced Reactor Demonstration Project (ARDP) DOE COOPERATIVE AGREEMENT NO. DE-NE0009054. This program is intended to provide the initial core fuel load consisting of components for nearly 500 fuel, shield, control, and reflector assemblies critical to the success of the project. Bear in mind that there is no guarantee that these opportunities will result in a solicitation for products or services and the details of this list are subject to change, revision, or cancellation. Global Nuclear Fuel (GNF) and TerraPower wish to build a strong supply chain for this reactor and future Natrium reactors and look forward to hearing from interested parties. Below is a list of anticipated vendor opportunities separated by Raw Materials, Fabricated Components, Machined Components, and Additional Component opportunities. Manufacturing, quality control testing, and shipping of 500 – 600, 12–15-foot hexagonal HT9 ducts with hard-face coated stepped wall thickness load pads. Typical equipment required to manufacture ducts are large draw benches and atmosphere-controlled heat treatment furnaces. Manufacturing, quality control testing, and shipping of 1,000,000 feet of HT9 wire and 50,000 shield slugs to be shipped to the Natrium Fuel Facility in Wilmington, NC. Manufacturing, quality control testing, and shipping of 50,000 12–15-foot HT9 cladding tubes. Three different sizes of tubing will be shipped to the Natrium Fuel Facility in Wilmington, NC. Manufacturing, quality control testing, and shipping of 15-20 large-diameter HT9 guide & inner-duct tubes to be shipped to the Natrium Fuel Facility in Wilmington, NC. Procurement, manufacturing, quality control testing, and shipping of 500-600 stainless steel hexagonal handling sockets comprised of multiple similar part numbers to be shipped to the Natrium Fuel Facility in Wilmington, NC. Procurement, manufacturing, quality control testing, and shipping of 500-600 stainless steel inlet nozzles comprised of multiple similar part numbers to be shipped to the Natrium Fuel Facility in Wilmington, NC. Procurement, manufacturing, quality control testing, and shipping of 20,000 pounds high-density sintered B4C pellets to be shipped to the Natrium Fuel Facility in Wilmington, NC. Procurement, manufacturing, assembly, quality control testing, and shipping of 15-20 complete damper assemblies to be shipped to the Natrium Fuel Facility in Wilmington, NC. Processing, quality control testing, and shipping of HT9 coiled rod to manufacturing end-users. The coiled rod will be used for manufacturing wire, slugs, and other possible components. Processing, quality control testing, and shipping of HT9 billets converted into hollows for further processing at manufacturing end-users. The hollows will be used to manufacture multiple components. Procurement, manufacturing, quality control testing, and shipping of 500-600, nickel-based alloy seal rings to be shipped to the Natrium Fuel Facility in Wilmington, NC. Procurement, manufacturing, quality control testing, and shipping of 4000 - 5000 nickel-based alloy plenum springs to be shipped to the Natrium Fuel Facility in Wilmington, NC. Procurement, manufacturing, assembly, quality control testing, and shipping of completed machined components and other direct materials in production quantities. This category contains over 100,000 individual parts from approximately 50 different component types made of multiple alloys to be shipped to the Natrium Fuel Facility in Wilmington, NC. Procurement, manufacturing, assembly, quality control testing, and shipping of 40,000-50,000 completed tag gas assemblies to be shipped to the Natrium Fuel Facility in Wilmington, NC. Procurement, manufacturing, quality control testing, and shipping of 500-600 nickel-based alloy flow restrictors to be shipped to the Natrium Fuel Facility in Wilmington, NC. Bechtel is leading a majority of the vendor selection for construction materials and services. Interested suppliers are strongly encouraged to register in the Bechtel supplier portal here.
+Please complete the new Supplier Prescreening Form and submit it along with your company’s brochure or other documents that highlight your company’s capabilities to suppliers@terrapower.com. TerraPower will not review incomplete application submissions. TerraPower reviews new suppliers on the last week of the month (submission cutoff is the 23rd of every month). Your information will be reviewed to determine whether your company capabilities are a good fit for future business opportunities. Note: If your company is comprised of different subsidiaries, divisions, or locations, a new entry will need to be submitted for each, if applicable. Suppliers with favorable prescreening results and found to have capabilities that meet our needs will be contacted by a Contract Administrator (CA) who will provide onboarding instructions on how to register and create a profile in TerraPower’s Supplier Portal (BonFire). Please do not contact the CA directly for review status.
+As a result of your registration, you may receive occasional emails notifying your company of future or existing opportunities. To learn more about how TerraPower handles your information, view our privacy policy.
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs. To optimize your user experience, we serve cookies on this site. By clicking or navigating you agree to allow our usage of cookies. For more information on the types of information we collect, visit our Cookie Notice.Suppliers
+TerraPower’s Commitment to a Collaborative Supply Chain
+NATRIUM® PROJECTED RFP OPPORTUNITIES
+TERRAPOWER NATRIUM EQUIPMENT OPPORTUNITIES
+SECOND QUARTER, 2025
+THIRD QUARTER, 2025
+FOURTH QUARTER, 2025
+FIRST QUARTER, 2026
+NATRIUM PROJECTED GNF OPPORTUNITIES
+SECOND QUARTER, 2025
+THIRD QUARTER, 2025
+FOURTH QUARTER, 2025
+FIRST QUARTER, 2026
+BECHTEL POWER CORPORATION TEST AND FILL FACILITY OPPORTUNITIES
+SECOND QUARTER, 2025
+THIRD QUARTER, 2025
+FOURTH QUARTER, 2025
+FIRST QUARTER, 2026
+Terrapower strengthens nuclear innovation with diverse suppliers
+Supplier Prescreening Form
+Subscribe
+This site uses cookies
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/careers
+
+Join us in building our clean energy future
+Solving tough problems and delivering on the mission requires talented people coming together in an inclusive environment that values trust, respect, integrity, open communication, and teamwork. We're working every day to innovate in nuclear science, clean energy and technology to solve the global challenges of our changing climate, growing energy demand and evolving energy markets. The transformative technology we're developing and demonstrating will help shape a better world. We want you to be a part of that work.
+TerraPower is committed bringing together people from a multitude of career paths, experience levels and disciplines who share the common goal of contributing to the world through advanced nuclear technologies. To support this commitment, TerraPower is proud to partner with the National Society of Black Engineers (NBSE) and YesVets. We participate in a variety of recruitment efforts, including events and strategic partnerships to accelerate opportunities, such as for veterans to play an active role in the advanced nuclear field.
+Please review our current openings at TerraPower. If our current openings do not fit your expertise, and you would like to submit your resume to us for potential future consideration, please submit your resume here. Doing so does not indicate a formal application for an open role and may not result in a reply but can help us know more about your interest.
+NOTICE: TerraPower does not accept job applications or resumes from recruiters or staffing agencies unless it has previously engaged a recruiter or staffing agency for a specific search by a duly authorized written agreement approved by TerraPower’s Human Resources team. No submission in contravention of the foregoing shall create any obligation by TerraPower.
+If none of our current openings fit your expertise and you would like to be considered for future opportunities, please submit your resume here.
+TerraPower is an Equal Opportunity Employer. We do not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religious creed, national origin, physical or mental disability, protected Veteran status, or any other characteristic protected by federal, state, or local law.
+If you need a reasonable accommodation for any part of the employment process, please contact us by email at candidateaccommodations@terrapower.com and let us know the nature of your request and your contact information. Requests for accommodation will be considered on a case-by-case basis. Please note that only inquiries concerning a request for reasonable accommodation will be responded to from this email address.
+TerraPower adheres to the Pay Transparency Nondiscrimination Provision of Executive Order 13665. TerraPower will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant.
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/contact
+
+Connect with us through one of the channels below.
+For interview or speaker requests, as well as any questions and comments related to the company and technology, please email press@terrapower.com.
+Solving tough problems and delivering on the mission requires talented people coming together in an inclusive environment that values trust, respect, integrity, open communication, and teamwork. If you would like to learn more about joining our team, please visit our Careers page.
+TerraPower's suppliers and collaborators provide valuable services, materials, and manufactured products and are important members of our extended team. If you have questions, please contact us by email at suppliers@terrapower.com. Initial inquiries via email should not include any proprietary, confidential, or otherwise sensitive information; such information can be handled via other submittal methods at the appropriate time.
+Headquarters Address:
+TerraPower, LLC
+15800 Northup Way
+Bellevue, WA 98008
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/natrium/
+
+The Natrium® reactor and energy storage system redefines what nuclear technology can be: emissions-free, competitive and flexible. Built for the 21st century grid, TerraPower's Natrium technology is one of the fastest and lowest-cost paths to advanced, zero-carbon energy.
+TerraPower is building its first plant through a public-private partnership with the U.S. Department of Energy's (DOE) Advanced Reactor Demonstration Program (ARDP).
+This program authorizes a 50/50 cost share and authorizes up to $2 billion for the Natrium project. TerraPower and partners will match this investment dollar for dollar. The first-of-a-kind cost for the Natrium demonstration plant will include the reactor design and licensing, codes and methods development, fuel development and qualification, and the design, construction and operation of two supporting facilities: the Natrium Fuel Fabrication Facility and Sodium Test and Fill Facility. The sodium facility will be used to test and demonstrate the performance of first-of-a-kind equipment prior to operations in the reactor plant.
+Unlike today's Light Water Reactors, the Natrium reactor is a 345-megawatt sodium fast reactor coupled with TerraPower's breakthrough innovation — a molten salt energy storage system, providing built-in gigawatt-scale energy storage. This makes the plant a perfect support for high-renewable penetration grids where variable power output is a concern.
+Learn MoreUnderstanding the energy grid and the role of diverse sources, including nuclear and renewables like solar, wind and hydro, is key to grasping the dynamics of our clean energy future. Explore our interactive dashboard to see the impact of transitioning to a decarbonized system with innovations like the Natrium reactor and energy storage system. The dashboard demonstrates Natrium’s unique ability to provide firm, flexible power to an evolving electric grid. The data explores a representative electric system under several decarbonization scenarios to illustrate how Natrium can seamlessly integrate with renewable generation to reduce the cost of the energy transition.
+The Natrium reactor and energy storage system, leveraging natural forces and cutting-edge design, offers unparalleled safety through its operation.
+Natrium reactors are not pressurized like existing plants and use sodium, instead of water, as a coolant. The reactor operates at a temperatures greater than 350 degrees Celsius (the equivalent of 662 degrees Fahrenheit) and far below the boiling point of sodium. TerraPower's design capitalizes on natural forces, such as gravity and thermal convection, enabling passive cooling and significantly reducing safety-related costs compared to conventional reactors.
+Additionally, it's unique design allows for separation and “decoupling” of the energy and nuclear island, ensuring the integrated energy storage and power production systems are completely separated from the nuclear portion of the plant.
+This design permits non-nuclear project teams to operate significant plant operations like the steam turbines and salt tanks outside of the nuclear control area. This is safer and reduces costs.
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/wyoming/
+
+TerraPower is building its first reactor near the site of a retiring coal facility in Kemmerer, Wyoming, in a joint effort with the U.S. Department of Energy's Advanced Reactor Demonstration Project.
+It is the only advanced, non-light water, reactor in the Western Hemisphere being built today to meet the challenges of the clean energy transition.
+Currently under construction near a retiring coal plant in Kemmerer, Wyoming, the Natrium plant is proof that nuclear will play a critical role in combating climate change globally.
+It will also provide key support to this historic energy producing community's local economy for decades to come.
+The site was selected after a significant search including four finalist communities in Wyoming. The Natrium project team evaluated a variety of factors when selecting the site of the future Natrium plant. These included local community support, the physical characteristics of the site, the ability to obtain a license from the U.S. Nuclear Regulatory Commission (NRC) for the site, access to existing infrastructure and the needs of the grid.
+TerraPower's technical teams spent five months visiting each community, collecting data and evaluating this information against regulatory and project requirements.
+The project will employ approximately 1,600 workers during peak construction of the plant in Kemmerer. Once the plant is operational, about 250 workers will support day-to-day activities, including plant security. Those jobs will be in the community for many decades to come once the reactor is operational.
+This is an exciting opportunity for Wyoming to open a new chapter in the nuclear power industry. Advanced nuclear generation clearly fits the bill for zero-emission, reliable and dispatchable electricity necessary to power our country into the future. Wyoming is the nation's leader in the production of domestic uranium. Our producers stand ready, willing and able to safely and responsibly provide the vital fuel for America's next generation of nuclear power.
+-Travis Deti
+Executive Director, Wyoming Mining Association
+I commend Rocky Mountain Power for joining with TerraPower in helping Wyoming develop solutions so that our communities remain viable and continue to thrive in a changing economy, while keeping the state at the forefront of energy solutions.
+-Dan Dockstader
+Wyoming Senate President
+Growing up in Kemmerer, it became very apparent that in my desired job field, there weren't many job opportunities for me to come back to. I am extremely excited for the Natrium plant to come. It will not only boost our small-town economy but give my family and so many others the option to stay in Kemmerer. Due to the Natrium plant, the prospect of coming home and working in this field is possible.
+-Olivia Nielson
+Kemmerer High School Graduate, Civil Engineering Major
+TerraPower's selection of Southwestern Wyoming as the site for their new clean nuclear energy technologies has unleashed great opportunity to a rich and diverse area of Wyoming known for its energy and mineral production, fossil tourism, agriculture, and outdoor recreation. The new ideas from PacifiCorp and TerraPower, in the Kemmerer/Diamondville area, has brought an air of innovation in complementary industries such as clean energy recycling, hydrogen hub development, carbon capture and storage, but most importantly the expansion and new uses of natural gas, oil, and coal. By selecting our community, TerraPower has opened a plethora of opportunities for positive, responsible, and sustainable growth throughout the whole community.
+-Stephen P. Allen
+MBA, Liaison for the South Lincoln County Economic Development Corporation (SLCEDC)
+Our beloved town of Kemmerer has a rich history in providing the energy that drives Wyoming. Our shop, Fossil Fuel Coffee Co, pays tribute to that heritage and to the natural wonder of our entire region. Now we look forward to the exciting clean energy future that TerraPower will bring to Wyoming!
+-Elizabeth and Brian Tresp
+Owners of Fossil Fuel Coffee Co.
+TerraPower's announcement to develop the Natrium Demonstration Reactor and to site the project in Wyoming was a seminal event in establishing new markets for other well-established industries within the state. The announcement fueled optimism for Peninsula Energy, a Wyoming based uranium producer. Wyoming is a leader in uranium production and Wyoming's producers are now motivated to reestablish a meaningful domestic uranium production capacity. Congratulations and welcome to Wyoming!
+-Wayne Heili
+Managing Director/CEO, Peninsula Energy - Casper Wyoming
+The Natrium project team considered strong local community support when selecting the site.
+The site boasts ideal physical characteristics, making it a perfect fit for the Natrium plant.
+The ability to obtain a license from the U.S. Nuclear Regulatory Commission was a crucial factor in site selection.
+Access to existing infrastructure and the needs of the grid were key considerations for the site's feasibility.
+The project will create approximately 1,600 jobs during peak construction and sustain around 250 jobs once operational.
+The Natrium plant is being developed through a partnership with the U.S. Department of Energy's Office of Clean Energy and its Advanced Reactor Demonstration Program.
+The plant will provide power to support PacifiCorp’s Rocky Mountain Power customers in Wyoming and throughout the region.
+PacifiCorp is adding a significant number of renewable power sources and energy storage units to its regional grid. The Natrium technology is specifically designed to integrate into a grid with high levels of renewables and is a great match for meeting the state and region's future power needs with reliable and flexible generation.
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/isotopes/
+
+Learn more about isotopes
+Our fact sheet offers a deeper look at this topic.
+Transforming the fight against cancer.
+TerraPower Isotopes® (TPI®) is transforming the fight against cancer by advancing the next generation of isotopes. The TPI team is utilizing proven methods to extract research grade1 Actinium-225, free of the isotopic impurities of Actinium, which may be applied to new medical applications that potentially target and treat cancer.
+TPI is increasing the scarce global supply of Actinium-225, an isotopic starting material, to support pharmaceutical companies’ cancer research and development efforts.
+¹TPI produced Actinium-225 is intended to be used as starting material for further manufacturing processes and, as starting material, is not manufactured in accordance with current good manufacturing practices.
+Our fact sheet offers a deeper look at this topic.
+Since 2018, TerraPower Isotopes has been working to increase the supply of Actinium-225. Actinium-225 is an alpha-emitting radionuclide that may have application in the area of oncology targeted alpha therapy research and development. The isotope can be attached to a molecule, which can then selectively target and deliver the Actinium-225 to the cancer site. The Actinium-225 labeled drug products, once developed and approved, can destroy the cancerous tissue with minimum damage to nearby healthy cells.
+The TPI team of experts has developed a process to extract research grade Actinium-225 through a natural decay method from Thorium-229. TerraPower Isotopes is working with Isotek to recover the Thorium-229 from Uranium-233 stockpiles that are managed by the U.S. Department of Energy.
+TerraPower Isotopes is actively working to provide research grade Actinium-225 to pharmaceutical companies for potential drug development through partnerships with private industry and government. The program’s innovative technologies will support the potential development and availability of a diverse suite of cancer treatments.
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/future/
+
+Using nuclear innovation to decarbonize industry
+TerraPower's MCFR design research and development has already expanded into design and testing activities. In January 2016, the U.S. Department of Energy awarded a five-year, $40 million cost-share award for continued research and development into TerraPower's MCFR project. This award served as the inception for a new public-private MCFR project development partnership that includes TerraPower, Southern Company, Oak Ridge National Laboratory, the Electric Power Research Institute and Vanderbilt University.
+The MCFR design team reached a major milestone on this project with 1,000 hours of isothermal loop operations. The MCFR technology will utilize liquid salt as both fuel and coolant in the reactor core. This fully pumped molten salt loop tested key components including pumps, heaters, freeze valves, flanges and instrumentation over time.
+The U.S. Department of Energy selected the Molten Chloride Reactor Experiment (MCRE) proposal, with Southern Company as the prime, as a winner of the Advanced Reactor Demonstration Program risk-reduction pathway. This effort is relevant to TerraPower's MCFR design.
+Southern Company and TerraPower are working on an Integrated Effects Test (IET) to learn how the MCFR technology will scale and behave at larger, commercially relevant sizes. The IET was commissioned and began operating in TerraPower's Everett, Washington, facility in October 2023.
+TerraPower's Molten Chloride Fast Reactor (MCFR) project expands the ability of nuclear reactor technology to decarbonize the economy in sectors including and beyond electricity. The MCFR technology operates at higher temperatures than conventional reactors, thus generating electricity more efficiently and without emissions. Its unique design also offers potential for process heat applications and thermal storage. Its unparalleled design features make it a highly efficient, low-cost and carbon-free energy solution to help utilities and industries reach decarbonization goals.
+Learn MoreBe the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/faq/
+
+Below is a selection of common questions about the Natrium project. If you need additional information please reach out to press@terrapower.com.
+America's energy grid will increasingly rely more heavily on wind and solar. The Natrium plant is specifically designed to integrate into a grid with high levels of variable-output renewables.
+The Natrium technology will use the high-temperature heat from the reactor to power a molten salt storage system that can retain tremendous amounts of energy, much greater than the energy stored in typical battery facilities. That energy can be used to power the grid at peak demand when weather and darkness hamper renewable output.
+The Nuclear Regulatory Commission (NRC) licenses and regulates the operation of all commercial nuclear power plants in the United States. TerraPower will pursue the 10 CFR Part 50 licensing pathway for the Natrium reactor. TerraPower, through its subsidiary, US SFR Owner, submitted the demonstration plant's construction permit application in 2024 and anticipates submitting the operating license application in 2027.
+TerraPower (through its subsidiary, US SFR Owner) submitted the demonstration plant's construction permit application to the U.S. Nuclear Regulatory Commission (NRC) in March 2024 and anticipates submitting the operating license application in 2027. This will allow us to begin construction on the nuclear island in 2026 with completion of the plant this decade. Construction on the non-nuclear portion of the plant began in June 2024.
+The Natrium plant is being built through a public-private partnership including a large U.S. government grant, and we will follow all federal contracting and tendering rules. We are planning for Bechtel Corporation to build the reactor with the help of many direct employees and subcontractors. There is strong capability in Wyoming, and the project will be looking for local partners. The improved logistics of partnering with nearby vendors will be a success factor for the project. Bechtel is leading most of the vendor selection for construction materials and services - more information can be found at www.bechtel.com/supplier/
+TerraPower is building its first plant through a public-private partnership with the U.S. Department of Energy's (DOE) Advanced Reactor Demonstration Program (ARDP). This program authorizes a 50/50 cost share and authorizes up to $2 billion for the Natrium project. TerraPower and partners will match this investment dollar for dollar. The first-of-a-kind cost for the Natrium demonstration plant will include the reactor design and licensing, codes and methods development, construction of the sodium test facility, development of a fuel fabrication facility and fuel development and qualification.
+The Natrium reactor uses high-assay, low-enriched uranium (HALEU) metallic fuel. HALEU is a new class of nuclear fuel where the uranium-235 isotope content is above 5% but less than 20%. Many advanced reactors, including the Natrium technology, use HALEU because it improves reactor performance. HALEU allows the Natrium reactor to more efficiently produce energy and reduces the volume of waste produced from the reactor, when compared to today's operating nuclear fleet.
+Yes. The Natrium technology enhances safety, relying on natural forces and advanced design for passive heat removal. In addition, the Natrium reactor operates at atmospheric pressure and uses sodium, instead of water, as its coolant. The reactor operates at a temperature more than 350 degrees Celsius (the equivalent of 662 degrees Fahrenheit) far below the boiling point of sodium.
+Further, the Natrium reactor is a pool-type reactor, so there are no penetrations in the reactor vessel below the lid, which eliminates the possibility of a leak or loss of coolant accident. The design also relies on natural forces, like gravity and hot air rising, to cool the reactor if an unexpected shutdown occurs. This means the plant does not rely on power to cool itself.
+The entire size of the nuclear island is approximately 16 acres. The overall site area is approximately 44 acres. When normalized to power rating, the Natrium system has a smaller footprint compared to other Generation IV reactors.
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+To optimize your user experience, we serve cookies on this site. By clicking or navigating you agree to allow our usage of cookies.
+For more information on the types of information we collect, visit our Cookie Notice.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/careers/
+
+Join us in building our clean energy future
+Solving tough problems and delivering on the mission requires talented people coming together in an inclusive environment that values trust, respect, integrity, open communication, and teamwork. We're working every day to innovate in nuclear science, clean energy and technology to solve the global challenges of our changing climate, growing energy demand and evolving energy markets. The transformative technology we're developing and demonstrating will help shape a better world. We want you to be a part of that work.
+TerraPower is committed bringing together people from a multitude of career paths, experience levels and disciplines who share the common goal of contributing to the world through advanced nuclear technologies. To support this commitment, TerraPower is proud to partner with the National Society of Black Engineers (NBSE) and YesVets. We participate in a variety of recruitment efforts, including events and strategic partnerships to accelerate opportunities, such as for veterans to play an active role in the advanced nuclear field.
+Please review our current openings at TerraPower. If our current openings do not fit your expertise, and you would like to submit your resume to us for potential future consideration, please submit your resume here. Doing so does not indicate a formal application for an open role and may not result in a reply but can help us know more about your interest.
+NOTICE: TerraPower does not accept job applications or resumes from recruiters or staffing agencies unless it has previously engaged a recruiter or staffing agency for a specific search by a duly authorized written agreement approved by TerraPower’s Human Resources team. No submission in contravention of the foregoing shall create any obligation by TerraPower.
+If none of our current openings fit your expertise and you would like to be considered for future opportunities, please submit your resume here.
+TerraPower is an Equal Opportunity Employer. We do not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religious creed, national origin, physical or mental disability, protected Veteran status, or any other characteristic protected by federal, state, or local law.
+If you need a reasonable accommodation for any part of the employment process, please contact us by email at candidateaccommodations@terrapower.com and let us know the nature of your request and your contact information. Requests for accommodation will be considered on a case-by-case basis. Please note that only inquiries concerning a request for reasonable accommodation will be responded to from this email address.
+TerraPower adheres to the Pay Transparency Nondiscrimination Provision of Executive Order 13665. TerraPower will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant.
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/suppliers/
+
+– Partner with a leader in advanced nuclear innovation
+TerraPower’s suppliers and collaborators provide valuable services, materials and manufactured products, and are important members of our extended team. Since 2008, TerraPower has been bringing together the strengths and experiences of the world’s public and private nuclear energy sectors. To date, TerraPower has engaged more than 80 corporations, universities and government agencies from around the globe. We will continue to put exemplary emphasis on engaging the diversity of the nuclear supply chain, including small, disadvantaged businesses; women-owned small businesses; veteran-owned small businesses; service-disabled, veteran-owned small businesses; and HUBZone small businesses. We have found that working with a diverse supply chain strengthens our ability to deliver quality projects, enhances the capabilities of the small business community, and fosters a healthy business environment.
+We are excited to release this list of potential supplier opportunities for the Natrium Reactor Demonstration Project and look forward to hearing from interested parties who want to help bring the demonstration plant to fruition. Bear in mind that the details of this list are subject to change, revision, or cancellation. There is no guarantee that these opportunities will result in a solicitation for any of this work. Below is a list of anticipated vendor opportunities for the Natrium Reactor Demonstration Project, separated by Demonstration Plant Equipment and Test and Fill Facility equipment. Design, fabrication and delivery of three sodium drain tanks. Two large tanks are identical, and one is a smaller supplemental tank. These tanks are designed to ASME BPVC VIII – Division 1. Design, fabrication, testing, and delivery of the Pin Removal Cell (PRC). This machine has remote manipulators for the manual operation of handling socket removal/reinstallation, the Lead Test Pins (LTP) attachment to the Plug Extraction Machine (PEM), and pin canister opening/closing. Design, fabrication, and delivery of a pin shipping cask, a specialty transportation cask designated to ship irradiated fuel pins from site to off site laboratory. Design support, Fab and Test for equipment that will be a set of shielded casks and supporting equipment used to remove, store, and install major reactor head equipment. This includes shielded casks for long-term storage, as well as floor valves, beams, and adapters to support the casks and mate them to the reactor vessel. Design codes applicable to all or parts of this work would be ASME BPVC-III-I, ASME B31.3, ANSI N14.6, IEEE 1290 and AWS D1.6. Fabrication, fill, testing and delivery of Fixed In-Vessel Shielding (FIVS) containers filled with powdered neutron shielding material. The FIVS is permanently installed shielding within the Reactor Vessel that must last the lifetime of the plant. This will be a ASME III Div 5 fabrication. Fabrication and delivery of a Pool Immersion Cell (PIC). The PIC removes residual sodium coolant from core assemblies and transfers them to the Spent Fuel Pool. Includes a process skid, a pressure vessel, an elevator, and trolley. Design, fabrication, testing and delivery of a Plug Handling Fixture (PHF). This portable machine has a hoist assembly and grapple enclosed in an airtight container to remove, transport and replace shield plugs. Design, fabrication, testing (TBD), and delivery of sodium drain valves on small bore piping. Design, fabrication, and delivery of a pin transfer cask, a intermediate shield cask with internal hoist to move pin canisters from a hot cell to a transportation cask. Design, fabrication, and delivery of a grapple exchange box, a inert glovebox that allows the EVHM and BLTC grapples to be lowered into the box, disconnected from the machine for cleaning. There is an additional space for a second grapple to attached to the machine to continue operations. Design, fabrication, and delivery of a drip pan exchange box, a sealed and inert portable maintenance box that will interface with the EVHM and BLTC. THe drip pan box, allows from drip pans, full of sodium drippage to be remove from the machine, move to a facility for cleanout, along with a space for a new drip pan to be installed in the machine. Desing, fabrication, and delivery of a external fuel handling waste gas gccumulator, a large gas pressure vessel that provides a buffer volume between external fuel handling equipment exhaust gas and the plant stack. This vessel ensure controlled pressure and flow release to stacks. Design, fabrication and delivery of a long reach grapple that interfaces with the pool handling machine to move core assemblies. Design, fabrication and delivery of a long reach grapple that interfaces with core assemblies to move from the inspection stand to a preconditioning station. Fabrication and delivery of a sealed port between various fuel handling equipment to maintain inert environmental boundaries. We are excited to release this list of potential nuclear safety-related component opportunities for the Natrium Advanced Reactor Demonstration Project (ARDP) DOE COOPERATIVE AGREEMENT NO. DE-NE0009054. This program is intended to provide the initial core fuel load consisting of components for nearly 500 fuel, shield, control, and reflector assemblies critical to the success of the project. Bear in mind that there is no guarantee that these opportunities will result in a solicitation for products or services and the details of this list are subject to change, revision, or cancellation. Global Nuclear Fuel (GNF) and TerraPower wish to build a strong supply chain for this reactor and future Natrium reactors and look forward to hearing from interested parties. Below is a list of anticipated vendor opportunities separated by Raw Materials, Fabricated Components, Machined Components, and Additional Component opportunities. Manufacturing, quality control testing, and shipping of 500 – 600, 12–15-foot hexagonal HT9 ducts with hard-face coated stepped wall thickness load pads. Typical equipment required to manufacture ducts are large draw benches and atmosphere-controlled heat treatment furnaces. Manufacturing, quality control testing, and shipping of 1,000,000 feet of HT9 wire and 50,000 shield slugs to be shipped to the Natrium Fuel Facility in Wilmington, NC. Manufacturing, quality control testing, and shipping of 50,000 12–15-foot HT9 cladding tubes. Three different sizes of tubing will be shipped to the Natrium Fuel Facility in Wilmington, NC. Manufacturing, quality control testing, and shipping of 15-20 large-diameter HT9 guide & inner-duct tubes to be shipped to the Natrium Fuel Facility in Wilmington, NC. Procurement, manufacturing, quality control testing, and shipping of 500-600 stainless steel hexagonal handling sockets comprised of multiple similar part numbers to be shipped to the Natrium Fuel Facility in Wilmington, NC. Procurement, manufacturing, quality control testing, and shipping of 500-600 stainless steel inlet nozzles comprised of multiple similar part numbers to be shipped to the Natrium Fuel Facility in Wilmington, NC. Procurement, manufacturing, quality control testing, and shipping of 20,000 pounds high-density sintered B4C pellets to be shipped to the Natrium Fuel Facility in Wilmington, NC. Procurement, manufacturing, assembly, quality control testing, and shipping of 15-20 complete damper assemblies to be shipped to the Natrium Fuel Facility in Wilmington, NC. Processing, quality control testing, and shipping of HT9 coiled rod to manufacturing end-users. The coiled rod will be used for manufacturing wire, slugs, and other possible components. Processing, quality control testing, and shipping of HT9 billets converted into hollows for further processing at manufacturing end-users. The hollows will be used to manufacture multiple components. Procurement, manufacturing, quality control testing, and shipping of 500-600, nickel-based alloy seal rings to be shipped to the Natrium Fuel Facility in Wilmington, NC. Procurement, manufacturing, quality control testing, and shipping of 4000 - 5000 nickel-based alloy plenum springs to be shipped to the Natrium Fuel Facility in Wilmington, NC. Procurement, manufacturing, assembly, quality control testing, and shipping of completed machined components and other direct materials in production quantities. This category contains over 100,000 individual parts from approximately 50 different component types made of multiple alloys to be shipped to the Natrium Fuel Facility in Wilmington, NC. Procurement, manufacturing, assembly, quality control testing, and shipping of 40,000-50,000 completed tag gas assemblies to be shipped to the Natrium Fuel Facility in Wilmington, NC. Procurement, manufacturing, quality control testing, and shipping of 500-600 nickel-based alloy flow restrictors to be shipped to the Natrium Fuel Facility in Wilmington, NC. Bechtel is leading a majority of the vendor selection for construction materials and services. Interested suppliers are strongly encouraged to register in the Bechtel supplier portal here.
+Please complete the new Supplier Prescreening Form and submit it along with your company’s brochure or other documents that highlight your company’s capabilities to suppliers@terrapower.com. TerraPower will not review incomplete application submissions. TerraPower reviews new suppliers on the last week of the month (submission cutoff is the 23rd of every month). Your information will be reviewed to determine whether your company capabilities are a good fit for future business opportunities. Note: If your company is comprised of different subsidiaries, divisions, or locations, a new entry will need to be submitted for each, if applicable. Suppliers with favorable prescreening results and found to have capabilities that meet our needs will be contacted by a Contract Administrator (CA) who will provide onboarding instructions on how to register and create a profile in TerraPower’s Supplier Portal (BonFire). Please do not contact the CA directly for review status.
+As a result of your registration, you may receive occasional emails notifying your company of future or existing opportunities. To learn more about how TerraPower handles your information, view our privacy policy.
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs. To optimize your user experience, we serve cookies on this site. By clicking or navigating you agree to allow our usage of cookies. For more information on the types of information we collect, visit our Cookie Notice.Suppliers
+TerraPower’s Commitment to a Collaborative Supply Chain
+NATRIUM® PROJECTED RFP OPPORTUNITIES
+TERRAPOWER NATRIUM EQUIPMENT OPPORTUNITIES
+SECOND QUARTER, 2025
+THIRD QUARTER, 2025
+FOURTH QUARTER, 2025
+FIRST QUARTER, 2026
+NATRIUM PROJECTED GNF OPPORTUNITIES
+SECOND QUARTER, 2025
+THIRD QUARTER, 2025
+FOURTH QUARTER, 2025
+FIRST QUARTER, 2026
+BECHTEL POWER CORPORATION TEST AND FILL FACILITY OPPORTUNITIES
+SECOND QUARTER, 2025
+THIRD QUARTER, 2025
+FOURTH QUARTER, 2025
+FIRST QUARTER, 2026
+Terrapower strengthens nuclear innovation with diverse suppliers
+Supplier Prescreening Form
+Subscribe
+This site uses cookies
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/contact/
+
+Connect with us through one of the channels below.
+For interview or speaker requests, as well as any questions and comments related to the company and technology, please email press@terrapower.com.
+Solving tough problems and delivering on the mission requires talented people coming together in an inclusive environment that values trust, respect, integrity, open communication, and teamwork. If you would like to learn more about joining our team, please visit our Careers page.
+TerraPower's suppliers and collaborators provide valuable services, materials, and manufactured products and are important members of our extended team. If you have questions, please contact us by email at suppliers@terrapower.com. Initial inquiries via email should not include any proprietary, confidential, or otherwise sensitive information; such information can be handled via other submittal methods at the appropriate time.
+Headquarters Address:
+TerraPower, LLC
+15800 Northup Way
+Bellevue, WA 98008
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.terrapower.com/terrapower-begins-construction-in-wyoming
+
+Bellevue, WA – June 10, 2024 – TerraPower, a leading nuclear innovation company, today celebrated the start of construction on the Natrium reactor1 demonstration project.
+This marks the first advanced reactor project to move from design into construction. “This groundbreaking represents the beginning of the next era of nuclear energy. The Natrium reactor is more than a design, it’s a plant coming to life that will support both the clean energy transition and our historic energy communities,” said Chris Levesque, TerraPower President and CEO. “Our innovative Natrium technology will provide dispatchable carbon-free energy, gigawatt-scale energy storage, and long-term jobs to the Lincoln County community.”
+The ceremony brought together TerraPower leaders, government officials, Natrium project partners, industry champions and community supporters.
+TerraPower Chairman and Founder, Bill Gates, said "I’m proud of all the partners and people who helped get the most advanced nuclear project in the world built in Kemmerer, Wyoming. I believe that TerraPower's next-generation nuclear energy will power the future of our nation—and the world."
+"Today we celebrate a trifecta. This first-of-its-kind project is good for the community of KemmererDiamondville, the State of Wyoming, and our nation. As Natrium moves boldly toward establishing a new domestic energy source, it offers the promise of hundreds of jobs, enhanced careers, and renewed vitality,” said Wyoming Governor Mark Gordon. “This project also demonstrates how good things can happen when the private and public sectors work together to solve problems. Advances made here will bolster Wyoming’s ability to produce another source of dispatchable power securely. In Wyoming we know energy — and we will continue to provide it to help keep our nation competitive and safe."
+“This is a challenging yet exciting time in the energy industry. In an era of rapid change, the need for reliable, affordable and dispatchable energy will remain a constant,” said Cindy Crane, CEO of PacifiCorp. “Innovative technologies like the Natrium project will enhance our ability to serve our customers, meet growing demand and ensure a reliable and resilient energy future.”
+Approximately 1,600 workers will be needed for construction at the project’s peak. Construction is set to span five years. Once the plant is operational, the company estimates that 250 people will support day-to-day activities, including plant security.
+Upon completion, the Natrium demonstration plant will be a fully functioning commercial power plant. It is being constructed near a retiring coal-fired power plant and is the only coal-to-nuclear project under development in the world.
+The project features a 345 MW sodium-cooled fast reactor with a molten salt-based energy storage system. The storage technology can boost the system’s output to 500 MW of power when needed, which is equivalent to the energy required to power around 400,000 homes. The energy storage capability allows the plant to integrate seamlessly with renewable resources and is the only advanced reactor design with this unique feature.
+Earlier this year, TerraPower submitted its construction permit application to the U.S. Nuclear Regulatory Commission (NRC) for the Natrium reactor. TerraPower is the first to submit its construction permit application for a commercial advanced reactor to the NRC. Due to its unique design, non-nuclear construction is beginning, while nuclear construction will begin after this application is approved.
+Through the U.S. Department of Energy’s Advanced Reactor Demonstration Program (ARDP), a publicprivate partnership, this Natrium reactor demonstration project is intended to validate the design, construction and operational features of the Natrium technology.
+1 TerraPower and GE-Hitachi technology
+Be the first to hear about TerraPower's latest innovations, partnerships and breakthroughs.
+
+--------------------------------------------------------------------------------
+
+URL: https://terrapower.com/downloads/Natrium-Technology.pdf
+
+©2025 TerraPower, LLC. All rights reserved.
+The Natrium Reactor is a TerraPower & GE Vernova Hitachi Nuclear Energy Technology.
+THE NEXT GENERATION 
+OF POWER IS HERE
+THE NATRIUM® REACTOR AND ENERGY STORAGE SYSTEM
+Unlike today’s Light Water Reactors (LWR), the Natrium reactor is a 
+345-megawatt sodium fast reactor coupled with TerraPower’s 
+breakthrough innovation—a molten salt integrated energy storage system, 
+providing built-in gigawatt-scale energy storage. The Natrium reactor 
+maintains constant thermal power at all times, maximizing its capacity 
+factor and value. Molten salt energy storage is more resilient, flexible and 
+cost-effective than current grid-scale battery technology.
+THE NUCLEAR + STORAGE SOLUTION The Natrium technology’s 
+advanced design enables 
+simultaneous production 
+of carbon-free electricity, 
+heat and steam to support 
+decarbonization of 
+power and industrial 
+sectors. No other reactor 
+has this capability.
+Built for the 21st century grid, TerraPower’s Natrium technology is one of the 
+fastest and lowest-cost paths to advanced, zero carbon energy.
+
+The Natrium plant design is simple and streamlined, making it easier, 
+faster and cheaper to construct compared to all other reactor designs. 
+Our innovative design significantly reduces the quantity of nuclear-grade 
+safety equipment and materials, lowering plant costs. With enhanced 
+safety features that rely on natural forces and advanced design, the 
+Natrium plant’s low-pressure system and use of sodium as a coolant allows 
+for a smaller Emergency Planning Zone (EPZ) which increases the number 
+of possible sites.
+Offering multiple solutions to the needs of energy users and producers 
+and designed to integrate with renewables, the Natrium system is 
+cost-competitive with all other forms of clean energy generation with an 
+operational lifespan of up to 80 years—paving the way for long-term, 
+sustainable power generation.
+INNOVATIVE + SIMPLE DESIGN
+With the separation of major 
+structures into a nuclear island and 
+energy island, the Natrium plant 
+requires less nuclear-grade safety 
+equipment. It is designed to utilize 
+construction material quantities 
+that are comparable to a combined 
+cycle plant and significantly less 
+than other reactor designs.
+Reactor Thermal Output
+840 MWt
+Power Output – Nuclear 
+Island
+345 MWe 
+Power Output – Energy 
+Storage System
+100-500 MWe+ for 5.5+ hours, 
+power ramping at 10% per minute
+Fuel Utilization
+3 times better fuel utilization 
+than LWRs
+Construction Cost 
+Efficiencies 
+~50% less concrete, steel and 
+onsite labor 
+compared to competitors
+Rapid Construction
+~36 months from nuclear concrete 
+pour to fuel load
+NATRIUM BY THE NUMBERS
+Heat Output
+Greater than 500 degrees Celsius 
+(930 Fahrenheit equivalent)
+ 
+Primary Operating 
+Pressure
+Low pressure/Atmospheric
+Overall Site Area 
+Flexible, site specific design & 
+1/3 size of LWRs
+Under Development Now
+TerraPower is currently building the 
+first Natrium plant in the Mountain 
+West and plans for rapid scale up 
+and broad deployment as energy 
+users demand clean, flexible 
+energy and stability for the grid. 
+©2025 TerraPower, LLC. All rights reserved.
+The Natrium Reactor is a TerraPower & GE Vernova Hitachi Nuclear Energy Technology.
+
+--------------------------------------------------------------------------------

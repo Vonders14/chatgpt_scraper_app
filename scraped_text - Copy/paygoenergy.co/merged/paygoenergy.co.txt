@@ -1,0 +1,616 @@
+ROOT: https://paygoenergy.co/
+SCRAPED_AT_UTC: 2026-02-11T20:26:06.708180Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://paygoenergy.co/
+
+PayGo Energy Acquired by Sun King In 2023, PayGo Energy was acquired by Sun King, the largest off-grid solar energy company in Africa and Asia. PayGo Energy’s team of 40 employees in Nairobi has formed Sun King’s new Clean Cooking Team, based in Nairobi. Click here to read Sun King’s announcement
+Smart technology for clean cooking
+At paygo We build hardware and software solutions to help grow markets for LPG.
+Globally 2.6 billion people lack access to clean cooking.
+Liquified Petroleum Gas (LPG) is clean-burning, portable, efficient and abundantly available; but the industry is failing to reach 80% of consumers in emerging markets.
+At PayGo Energy we’re convinced that digital innovation is the key to unlocking new markets for LPG, and better serving existing ones. Together we can unlock Clean Cooking for the Next Billion.
+"Since I started cooking with PayGo, my health has really improved. I no longer depend on over the counter medication because I am not exposed to any indoor air pollution during cooking."
+"Since I started cooking with PayGo, my health has really improved. I no longer depend on over the counter medication because I am not exposed to any indoor air pollution during cooking."
+"Before I started cooking with PayGo I was using charcoal and kerosene to cook. At that time, gas was not common and we used to view cooking with gas as a luxury that only a few could afford."
+"Before PayGo, gas was very expensive and the only options I had was to use kerosene and charcoal to cook. Since I started using PayGo, cooking has been affordable. Even with Ksh 50 I can cook my meals stress-free."
+
+--------------------------------------------------------------------------------
+
+URL: https://paygoenergy.co/about
+
+Fausto Marcigot, Mark O’Keefe & Nick Quintong testing an early iteration of the Cylinder Smart Meter, 2016
+Cylinders and scales. To begin, the PayGo team put a cylinder of gas and a cookstove in 10 households. We visited each household daily, weighed the cylinder by hand, and charged the customer for the gas consumed over the previous 24 hours.
+CSM iteration #1 (of many). Our first CSM prototype was integrated into an LPG stove, and used the time-of-flight principle to measure gas flow.
+Innovation of the Year. PayGo wins Innovation of the Year at the World LPG Association Global Technology Conference. The award is peer voted by stakeholders across industry and academia.
+Commercial roll out. Installations of PayGo’s current (V.3) CSM begin in Mukuru kwa Reuben.
+Nick Quintong presents at the 2018 WLPGA Global Technology Conference in Houston
+Certified! The PayGo CSM becomes the first (and only) LPG smart meter to be ATEX Zone II certified; the highest safety standard in this space. The CSM is also deemed fully compliant with the LPG Smart Metering Standard developed by the Kenyan Bureau of Standards.
+Asia bound. PayGo partners with Japanese energy conglomerate Saisan, with plans to pilot through Saisan’s downstream operations in several of Asia’s largest markets.
+Nick Quintong and Tomohiko Kawamoto (Saisan Executive VP and COO) at Saisan HQ in Saitama, Japan
+
+--------------------------------------------------------------------------------
+
+URL: https://paygoenergy.co/contact
+
+Please fill out our contact form and our team will be in touch.
+We partner with LPG distributors and retailers in emerging markets to provide smart metering, supply chain and digital retail solutions.
+Our goal is to expand access to clean cooking for millions of households across the globe. To achieve our ambition, we’re looking for partners with established LPG distribution and retail networks, and with a deep understanding of the markets in which they operate. We work with our partners to define technology requirements, develop custom solutions, and ensure successful implementation.
+Have a general inquiry? Shoot us an email at info@paygoenergy.co. We'll get back to you as soon as possible.
+Kenya Office:
+4th floor, Bishop Magua Center
+George Padmore Ln
+Nairobi, Kenya
+US Office:
+3244 Stuart Dr.
+Ste 100
+Fort Worth, TX 76110
+MAILING ADDRESS:
+4455 Camp Bowie
+Suite 144
+Fort Worth, TX 76107
+
+--------------------------------------------------------------------------------
+
+URL: https://paygoenergy.co/job-openings
+
+Job Openings. Don't see a role that's right for you?
+We're always on the lookout for talented and passionate people! Send an e-mail to careers@paygoenergy.co with a little bit about yourself, why you want to work with us and the type of role you'd be interested in.
+001
+job openings
+Field Sales Agent
+Nairobi, Kenya
+The Field Sales Agent will be responsible for recruiting new customers for the technology-supported LPG in ourB2C section.
+
+--------------------------------------------------------------------------------
+
+URL: https://paygoenergy.co/cylinder-smart-meter
+
+PayGo Energy Acquired by Sun King In 2023, PayGo Energy was acquired by Sun King, the largest off-grid solar energy company in Africa and Asia. PayGo Energy’s team of 40 employees in Nairobi has formed Sun King’s new Clean Cooking Team, based in Nairobi. Click here to read Sun King’s announcement
+With PayGo’s Cylinder Smart Meter (CSM) your customers can purchase gas in any amount from a cylinder in their home, using mobile money.
+Smart Meter
+C
+S
+M
+A CYLINDER THAT NEVER RUNS OUT
+Customers almost always run out of gas at the most inconvenient time… while cooking. Dinner ruined. PayGo's CSM tracks consumption at the household level, notifying you when the customer's cylinder is approaching empty.
+The CSM is an IoT device that attaches to most LPG cylinders, and provides safe, high-precision metering of customer consumption. Customers purchase gas in small amount using mobile money. The CSM communicates wirelessly with the PayGo cloud, enabling you to monitor the cylinder level, and deliver a new cylinder before the customer runs out.
+Reach new LPG users by packaging your product to match spending behaviors.
+02
+Differentiate your service
+Transform the customer experience by providing gas that never runs out.
+03
+Increase revenue
+Increase revenue per customer and lower customer acquisition by providing a stickier service.
+04
+Know your customer
+Collect real-time consumption and payments data, and turn it into actionable insights.
+05
+Optimise your supply chain
+Reduce stock losses, improve cylinder utilisation and optimise delivery routes.
+002
+How it works
+The PayGo CSM is the world’s safest, most intuitive LPG smart meter. Here’s how it works.
+01
+CSM Step 1
+01
+The CSM attaches to most LPG cylinders
+02
+CSM Step 2
+02
+The CSM measures fuel consumption by the gram
+03
+CSM Step 3
+03
+Customers purchase credit using mobile money
+04
+CSM Step 4
+04
+When the customer runs out of credit, the CSM shuts off flow until they top up
+05
+CSM Step 5
+05
+Monitor household consumption in real-time
+06
+CSM Step 6
+06
+Replace the customer’s cylinder before they ever run out
+Interested?
+Let's Chat.
+We customize the Tag & Trace platform to meet the needs of each of our partners. This ensures that our web and mobile applications are fully integrated with partner operations, and aligned to how the local market functions.
+
+--------------------------------------------------------------------------------
+
+URL: https://paygoenergy.co/tag-trace
+
+PayGo Energy Acquired by Sun King In 2023, PayGo Energy was acquired by Sun King, the largest off-grid solar energy company in Africa and Asia. PayGo Energy’s team of 40 employees in Nairobi has formed Sun King’s new Clean Cooking Team, based in Nairobi. Click here to read Sun King’s announcement
+Tag & Trace is our integrated web and mobile platform, providing you with full visibility and control of your cylinders and customers.
+Tag and Trace
+T
+&
+T
+CONTROL YOUR ASSETS
+Your cylinders are your most expensive asset. And yet most LPG marketers have no means of tracking how many cylinders they have, where they are, and where they need to be.
+Stop guessing, start tracking.
+The Tag & Trace platform enables you to track cylinder inventories and movements, plan restocking and collection activities, schedule maintenance, and monitor overall performance with precision. Use PayGo's custom dashboards to improve operational efficiency, and make informed business decisions.
+We customize the Tag & Trace platform to meet the needs of each of our partners. This ensures that our web and mobile applications are fully integrated with your operations, and aligned to how your local market functions.
+
+--------------------------------------------------------------------------------
+
+URL: https://paygoenergy.co/media
+
+PayGo Energy Acquired by Sun King
+In 2023, PayGo Energy was acquired by Sun King, the largest off-grid solar energy company in Africa and Asia. PayGo Energy’s team of 40 employees in Nairobi has formed Sun King’s new Clean Cooking Team, based in Nairobi.
+Click here to read Sun King’s announcement
+
+--------------------------------------------------------------------------------
+
+URL: https://paygoenergy.co/blog
+
+PayGo Energy Acquired by Sun King In 2023, PayGo Energy was acquired by Sun King, the largest off-grid solar energy company in Africa and Asia. PayGo Energy’s team of 40 employees in Nairobi has formed Sun King’s new Clean Cooking Team, based in Nairobi. Click here to read Sun King’s announcement
+
+--------------------------------------------------------------------------------
+
+URL: https://www.paygoenergy.co/about
+
+Fausto Marcigot, Mark O’Keefe & Nick Quintong testing an early iteration of the Cylinder Smart Meter, 2016
+Cylinders and scales. To begin, the PayGo team put a cylinder of gas and a cookstove in 10 households. We visited each household daily, weighed the cylinder by hand, and charged the customer for the gas consumed over the previous 24 hours.
+CSM iteration #1 (of many). Our first CSM prototype was integrated into an LPG stove, and used the time-of-flight principle to measure gas flow.
+Innovation of the Year. PayGo wins Innovation of the Year at the World LPG Association Global Technology Conference. The award is peer voted by stakeholders across industry and academia.
+Commercial roll out. Installations of PayGo’s current (V.3) CSM begin in Mukuru kwa Reuben.
+Nick Quintong presents at the 2018 WLPGA Global Technology Conference in Houston
+Certified! The PayGo CSM becomes the first (and only) LPG smart meter to be ATEX Zone II certified; the highest safety standard in this space. The CSM is also deemed fully compliant with the LPG Smart Metering Standard developed by the Kenyan Bureau of Standards.
+Asia bound. PayGo partners with Japanese energy conglomerate Saisan, with plans to pilot through Saisan’s downstream operations in several of Asia’s largest markets.
+Nick Quintong and Tomohiko Kawamoto (Saisan Executive VP and COO) at Saisan HQ in Saitama, Japan
+
+--------------------------------------------------------------------------------
+
+URL: https://paygoenergy.co/patents
+
+The following PayGo Energy products are patent and/or design protected internationally. This website is provided to satisfy the virtual patent marking provisions of various jurisdictions. The following list of products may not be all-inclusive, and other PayGo Energy products not listed here may be protected by one or more patents or design registrations. Further, the products listed below may be protected by additional pending or issued patents or design registrations.
+For questions please contact: patent@paygoenergy.co
+PRODUCT: CYLINDER SMART METER (CSM)
+Registered Patents
+China - CN108698811B
+Italy - 102016000007616
+Nigeria - NG/PT/C/2018/3060
+OAPI (African Intellectual Property Organisation) - 18831
+Registered Designs
+Europe - 004664456-0001
+Indonesia - IDDD000052479
+China - ZL201830374850.7
+Philippines - 3-2018-000631
+Vietnam - 29047
+Japan - 1630506
+
+--------------------------------------------------------------------------------
+
+URL: https://paygoenergy.co/anti-bribery-corruption-policy
+
+PayGo Energy is committed to complying with all applicable laws and best corporate governance practices, wherever we operate. It is a core aspect of our mission to act with integrity in all of our operations. The Board of Directors of PayGo Energy expects all employees to comply with both the letter and spirit of the law and governance codes.
+PayGo Energy affirms that will not pay or procure the payment of a bribe or unlawful fee to encourage the proper performance of a task or one which is intended or likely to compromise the integrity of another. We will not accept any payment, gift or inducement from a third party which is intended to compromise our own integrity.
+PayGo Energy has communicated this policy to all its employees, to ensure that its commitment to integrity and legal compliance is followed.
+When contracting with a third party we will insist that they acknowledge our commitment to good governance and that they in turn require the same high standards of those they engage.
+Any person who believes that PayGo Energy or its staff are involved in bribery and corruption is encouraged to report their concerns to Nick Quintong or Fausto Marcigot.
+
+--------------------------------------------------------------------------------
+
+URL: https://paygoenergy.co/website-terms-of-use
+
+About these Terms of Use
+Last updated: 5 June 2020
+We are PayGo Energy Inc incorporated in Delaware, USA. Our registered office is at 4455 Camp Bowie Blvd, Ste 114 #106, Fort Worth, TX 76107, USA.
+These Terms of Use apply to the use of this website, regardless of how you access it. Please read these Terms of Use carefully before you proceed.
+We may, at any time and without notice, terminate your access to or use of this website. If we do so, you do not have the right to bring any claim or claims against us.
+Consent to Terms of Use
+By using this website you agree to these Terms of Use.
+If you do not agree to these Terms of Use, please do not use this website. These Terms of Use were last updated on the date shown at the top. We may change these Terms of Use at any time by posting an updated version on our website, so you may wish to check it before using this website. You may only use this website for lawful purposes.
+Copyright notice
+Unless we expressly state otherwise, the copyright and any other intellectual property rights, including but not limited to design rights, trademarks and patents appearing anywhere on this website remain our property, whether owned by or licensed to us.
+You may not use any of the material on this website without our prior written permission for your own commercial purposes, whether by reproducing, copying, downloading, printing, linking to, editing, broadcasting, distributing or otherwise. You may use it for your own personal non-commercial use.
+Disclaimer
+Accessing or using this website or its content in any way is done entirely at your own risk. You will be responsible for any loss or damage to any computer, device, software, systems or data resulting directly or indirectly from the use or inability to use this website or its content.
+We are under no obligation to provide uninterrupted access to this website. We reserve the right to restrict your access to this website at any time and for any reason.
+We do not guarantee that the contents of this website will be free of errors, bugs, worms, trojans or viruses or otherwise make any representations as to the quality or accuracy or completeness of the content available on the website including, but not limited to any price quotes, stock availability data or non-fraudulent representations. You are responsible for maintaining appropriate software on your computer or device to protect you from any such errors, bugs, worms, trojans or viruses.
+To the fullest extent permissible by law, we exclude any and all liability to you resulting from your use of the website or connected to these Terms of Use. This exclusion includes but is not limited to any type of damages, loss of data, income or profit or loss or damage to property belonging to you or third parties arising from the use of this website or its contents.
+Nothing in these Terms of Use is intended to limit our liability to you for death or personal injury resulting from our negligence or that of our employees or agents.
+Links to third party websites
+This website may provide links out to websites or other online resources under the control of third parties. Any such links are provided solely for your convenience. We have no control over the contents of these third-party resources. We are not responsible for the contents of any linked websites and do not endorse them in any way.
+Links from third party websites
+You can link to this website, so long as you do so fairly and without suggesting any affiliation, endorsement, approval or association with PayGo Energy Inc if there is none. We reserve the right to withdraw permission to link to our site at any time.
+Privacy policy
+We take your privacy and the protection of your data very seriously. We may gather and/or use certain information about you in accordance with our privacy policy. Please see our separate privacy policy for more information.
+Entire agreement
+These Terms of Use are the entire agreement between us and you, and supersede any and all prior terms, conditions, warranties or representations to the fullest extent permitted by law.
+Applicable law
+This Agreement shall be governed by the laws of the state of Delaware and will have exclusive jurisdiction in relation to these Terms of Use.
+
+--------------------------------------------------------------------------------
+
+URL: https://info@paygoenergy.co/?subject=New%20Email%20from%20Website
+
+PayGo Energy Acquired by Sun King In 2023, PayGo Energy was acquired by Sun King, the largest off-grid solar energy company in Africa and Asia. PayGo Energy’s team of 40 employees in Nairobi has formed Sun King’s new Clean Cooking Team, based in Nairobi. Click here to read Sun King’s announcement
+Smart technology for clean cooking
+At paygo We build hardware and software solutions to help grow markets for LPG.
+Globally 2.6 billion people lack access to clean cooking.
+Liquified Petroleum Gas (LPG) is clean-burning, portable, efficient and abundantly available; but the industry is failing to reach 80% of consumers in emerging markets.
+At PayGo Energy we’re convinced that digital innovation is the key to unlocking new markets for LPG, and better serving existing ones. Together we can unlock Clean Cooking for the Next Billion.
+"Since I started cooking with PayGo, my health has really improved. I no longer depend on over the counter medication because I am not exposed to any indoor air pollution during cooking."
+"Since I started cooking with PayGo, my health has really improved. I no longer depend on over the counter medication because I am not exposed to any indoor air pollution during cooking."
+"Before I started cooking with PayGo I was using charcoal and kerosene to cook. At that time, gas was not common and we used to view cooking with gas as a luxury that only a few could afford."
+"Before PayGo, gas was very expensive and the only options I had was to use kerosene and charcoal to cook. Since I started using PayGo, cooking has been affordable. Even with Ksh 50 I can cook my meals stress-free."
+
+--------------------------------------------------------------------------------
+
+URL: http://www.paygoenergy.co/field-agent
+
+Field Sales Agent
+About PayGo
+PayGo Energy, which launched in 2015, is a technology company that builds hardware and software solutions to help customers access gas conveniently, safely, affordably, and easily. Our technology ensures that customers do not run out of gas.
+For more information, please log on to www.paygoenergy.co
+Job Description
+Overview
+The Field Sales Agent will be responsible for recruiting new customers for the technology-supported LPG in our B2C (Business to Consumers) section. This will mainly involve dealing with end consumers of our products.
+Primary Responsibilities & Duties
+Responsibilities include but are not limited to:
+▪ Actively prospecting for new customers.
+▪ Recruitment of new customers in an assigned region.
+▪ Conducting pre-installation checks before onboarding a customer.
+▪ Coordinating with the Retail team to ensure that delivery and installation of the cooking items is done within the stipulated timelines.
+▪ Conducting customer follow ups to ensure that all outstanding amount is paid within the credit period.
+▪ Liaising with the Customer Care team to ensure that the customer is always happy. ▪ Build and promote strong, long-lasting customer relationships and maintain customers in the assigned region.
+▪ Present sales, revenue, and expense reports.
+Candidate Qualifications
+Academic Qualifications
+● A diploma in Business Administration/ Management, Sales & Marketing, or any other related course from a recognized institution.
+Experience
+Previous valuable experience may include:
+● At least two years selling experience with direct interaction with customers
+● Prospecting & networking experience
+● Proficient with Microsoft Office
+● Experience in the informal sector is an added advantage
+Desired Personal Qualities
+● Self-driven
+● Assertive
+● Outgoing
+● Proactive
+● Disciplined
+Useful Professional Competences
+● Proper time management
+● Interpersonal skills
+● Creativity
+● Teamwork
+Other requirements
+● Fluent in spoken and written English and Swahili
+● Legal permission to work in Kenya
+● Willingness to work in the informal sector
+● Must be based in Nairobi, or willing to relocate (no expenses will be reimbursed for relocation)
+** Applications should be sent to recruitment@paygoenergy.co by 27th May 2021. The job title should be the subject of the email.
+
+--------------------------------------------------------------------------------
+
+URL: http://www.paygoenergy.co/join-us
+
+Retail Operations Agent
+About PayGo
+PayGo Energy, which launched in 2015, is a technology company that builds hardware and software solutions to help customers access gas conveniently, safely, affordably, and easily. Our technology ensures that customers do not run out of gas.
+For more information, please log on to www.paygoenergy.co
+Job Description
+Overview
+The Retail Operation Agent will execute all retail operations related to PayGo Energy’s Retail Hub including but not limited to cylinder exchanges, new customer installations and maintenance support.
+Primary Responsibilities & Duties
+Responsibilities include but are not limited to:
+▪ Achieve high standard of customer service that ensures repeat and referral business.
+▪ Plan for the day and ensure availability of necessary tools and inputs to complete assigned work duties.
+▪ Conduct cylinder exchanges and new installations with utmost professionalism.
+▪ Liaise closely with the customer care team to resolve customer issues.
+▪ Thorough completion of all assigned daily workflows.
+▪ Liaise with logistics and supply chain team on all inputs required for successful retail operations.
+▪ Develop and expand strong relationships with the existing customer base.
+▪ Analyse, advise, and help organize retail operations for maximum efficiency; make recommendations for improvement in retail operations to the Supervisor.
+▪ Adhere to all set safety rules and guidelines, including but not limited to the daily safety checks prior to the beginning of every assignment. Also ensure that they are in the required PPE.
+Candidate Qualifications
+Academic Qualifications
+● Certificate or diploma in Business, Supply chain, Communication, any Technical course, or any other related course
+Experience
+Previous valuable experience may include:
+● Ability to operate a motorbike with a valid License is preferred
+● 1-2 years relevant experience in fast paced environments
+● Proficient with Microsoft Office
+● Experience in working within informal settlements considered an added advantage
+Desired Personal Qualities
+● Self-driven
+● Assertive
+● Outgoing
+● Trustworthy
+● Disciplined
+Useful Professional Skills
+● Organized
+● Proper time management skills
+● Reliable
+● Team player
+● Presentable
+● Friendly, communicative & open to learning
+● Proactive
+Other requirements
+● Fluent in spoken and written English and Swahili
+● Legal permission to work in Kenya
+● Willingness to work in the informal sector
+● Must be based in Nairobi, or willing to relocate (no expenses will be reimbursed for relocation)
+** Applications should be sent to recruitment@paygoenergy.co by 27th May 2021. The job title should be the subject of the email.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.paygoenergy.co/cylinder-smart-meter-interactive
+
+PayGo Energy Acquired by Sun King In 2023, PayGo Energy was acquired by Sun King, the largest off-grid solar energy company in Africa and Asia. PayGo Energy’s team of 40 employees in Nairobi has formed Sun King’s new Clean Cooking Team, based in Nairobi. Click here to read Sun King’s announcement
+PayGo’s Cylinder Smart Meter (CSM), tracks consumption at the household level, notifying you before the customer runs out.
+Smart Meter
+C
+S
+M
+Ensure your customers never run out of gas
+The CSM is an IoT device that attaches to most LPG cylinders, and provides safe, high-precision metering of customer consumption. Customers purchase gas in small amount using mobile money. The CSM communicates wirelessly with the PayGo cloud, enabling distributors to monitor the cylinder level, and deliver a new cylinder before the customer runs out of gas. PayGo analytics provides custom reporting, dashboards and other data visualizations.
+Customers invariably run out of gas at the most inconvenient time… while cooking. Dinner ruined. Ensure your customers never run out of gas (again).
+Reach new LPG users by packaging your product to match spending behaviors.
+02
+Differentiate your service
+Transform the customer experience by providing gas that never runs out.
+03
+Increase Revenue
+Increase revenue per customer and lower customer acquisition by providing a stickier service.
+04
+Know Your Customer
+Collect real-time consumption and payments data, and turn it into actionable insights.
+05
+Optimise your supply chain
+Reduce stock losses, improve cylinder utilisation and optimise delivery routes.
+The PayGo CSM is the world’s safest, most intuitive LPG smart meter. Here's how it works.
+The CSM attaches to a standard LPG cylinder
+The CSM measures fuel consumption by the gram
+Customers purchase credit using mobile money
+When the customer runs out of credit, the CSM shuts off flow until they top up again
+Distributors monitor household consumption in real-time
+Distributors monitor household consumption in real-time
+Replace the Customer's cylinder before they ever run out
+Please rotate your phone.
+Interested?
+Let's Chat.
+We customize the Tag & Trace platform to meet the needs of each of our partners. This ensures that our web and mobile applications are fully integrated with partner operations, and aligned to how the local market functions.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.paygoenergy.co/tag-trace-interactive
+
+Tag & Trace is an integrated web and mobile platform that provides you with full visibility and control of your cylinder fleet.
+Tag and Trace
+T
+&
+T
+Stop guessing, start tracking
+The platform enables you to view cylinder inventories and movements, plan restocking and collection activities, schedule maintenance, and monitor overall performance with precision. Use real-time data to improve operational efficiency, and make informed business decisions. Your cylinder fleet is your most expensive asset. And yet most LPG marketers have no means of tracking how many cylinders they have, where they are, and where they need to be.
+Track the movement of every cylinder in your fleet.
+02
+Manage inventory
+Manage inventory, customers and staff through a single platform
+03
+Reduce Cost
+Reduce cylinder loss, maintenance and treasury costs
+04
+Improve performance
+Use data to optimise supply chain logistics
+05
+Deploy CSMs
+Manage pay-as-you-go and cylinder customers through one platform.
+Tag & Trace is the only end-end digital distribution platform, built for the LPG industry. Here's how it works.
+Scan cylinders in and out of each location
+Track cylinder movement across the supply chain
+Pre-empt customer needs and assign tasks to agents
+Follow step-by-step processes, using PayGo’s mobile applications
+Distributors monitor household consumption in real-time
+Monitor cylinder stock levels at each retail location
+Order stock replacements and manage transportation
+Please rotate your phone.
+Interested?
+Let's Chat.
+We customize the Tag & Trace platform to meet the needs of each of our partners. This ensures that our web and mobile applications are fully integrated with partner operations, and aligned to how the local market functions.
+
+--------------------------------------------------------------------------------
+
+URL: https://paygoenergy.co/post/staying-connected-to-our-why-through-storytelling
+
+Staying connected to our ‘why’ through storytelling
+Growing up, I never really thought much about the equipment we cooked with at home . I thought using gas to cook was the norm as that was my reality, unless it was one of the weekends my mum decided to boil all her cereals on the jiko (kerosene cookstove) and prepare them for storage. These were dreadful days because my weekends would be spent boiling cereal and making sure they were not overcooked, with constant headaches and teary eyes (I know most can relate). I never got used to it.
+Fast forward to April 1st 2020 when I joined PayGo Energy as their first ever communications hire. During my first weeks it was information overload as I immersed myself in all things clean cooking - a sector I had not previously worked in. Coming to learn that 2.6 billion people still rely on dirty fuels to cook took me by surprise. Yes, I was aware of people using kerosene and charcoal to cook but my uninformed self thought it was a choice and not the many factors that make it hard, if not impossible, for low-income households to afford cooking with clean energy.
+I remember looking at the price comparisons of clean vs dirty cooking fuels, the health effects it has on the people that use them, and the solution that PayGo Energy is offering; and having that “aha!” moment, “I am really going to be working towards something that has an impact on people’s lives and livelihoods.”
+Why storytelling matters
+Working in communications doesn’t only mean reading and drafting reports, creating strategies and building processes; it also means authentic storytelling. Collecting real and unscripted stories from customers is a great marketing tool. It is always more powerful to hear customer’s sharing their own perspective on why your product or service is valuable. But that isn’t the only reason storytelling matters - it also serves as a reminder for the team of the broader purpose behind what we’re doing.
+It’s very easy for teams that don’t work directly with the end customer to be out of touch with the impact their hard work is creating. Having that constant reminder of the why keeps us all motivated.
+My first field visit to our customers’ homes in Mukuru Kwa Reuben is an experience I will not soon forget. Seeing the happy smiles on our customers’ faces was heartwarming. The relationship they have with our customer care team made me realise how personal our work is, and hearing their stories before and after they started cooking with PayGo Energy brought our product to life. To experience what I mean, click here to watch a short snippet of some of the customer testimonials I put together.
+My journey at PayGo has been an amazing experience and I can’t wait to share more stories with you - both from Kenya, and our new markets. From one storyteller to another, let’s remember the importance of sharing unscripted customer stories, not only as a marketing tool but as a motivational tool as well. Being constantly reminded of your why keeps the fire burning.
+That’s all from me folks! Till next time :)
+
+--------------------------------------------------------------------------------
+
+URL: https://paygoenergy.co/post/what-will-it-take-to-transition-more-people-across-the-world-from-solid-biomass-fuels-to-lpg
+
+What will it take to transition more people across the world from solid biomass fuels to LPG?
+It was such an honor to attend LPG Week in Dubai last week and participate on the LPG4DEV panel alongside distinguished panelists Mr. Morten Balle, Mr. Kushagra Mittal, Mr. Jakaria Jalal and moderated by Ms. Kristen Mueller. The progress made so far in transitioning people to LPG is one that should be appreciated, however, we still have 3 billion people who have no access to clean cooking energy and rely on solid biomass fuels such as charcoal, kerosene, and firewood to cook. In the LPG4DEV session, we discussed what we have learned so far in expanding access to clean cooking with LPG, the roadblocks that are preventing further transition and how can they be removed. A recap of our conversation is below - a warm thank you to the engaging audience for their questions and contributions and to Michael Kelly for the opportunity.
+Key Takeaways
+- Government policy and setting the right Tax and Regulatory frameworks is crucial for transitioning customers from biomass fuels to LPG.
+- Affordability and the role that subsidies can play in catalyzing the transition - Case study of India presented by Mr. Kushagra Mittal on how the government subsidy program has increased LPG penetration and connections. While subsidies are not sustainable in the long run - they play a critical role in transitioning customers to LPG in terms of providing the attendant equipment and LPG cylinder with first fill.
+- Case study of Bangladesh - shared by Mr. Jakaria Jalal - the government encouraged investment in the entire LPG value chain including duty waivers on the import of LPG and its machinery. Bangladesh is truly a success story in LPG uptake. A successful example - the country’s cylinder manufacturing capacity has grown to 200K cylinders a month allowing for cylinder deposits to come down significantly and be viewed as a medium to actually acquire new customers and volume by LPG marketers. As a result, Bangladeshi LPG consumption has grown 6x from 250,000mt in 2015 to 1.5million mt/year currently.
+- Working on the supply side in terms of import and distribution infrastructure is just as important as building on the demand side. Developing countries need more private sector players to raise supply capacity and foster competition. Case study- Kenya has a single private sector player handling 90% of the country’s volume of LPG traded - expanding the supply providers would encourage healthy competition.
+- Safety is key for widespread acceptance of LP - we cannot afford to have LPG associated with incidents and accidents and we need the right systems and regulatory frameworks to ensure safety of the product - contribution by Mr. Morten Balle.
+In summary, the panelists agreed that multi-year multi-stakeholder (government and private sector) programs are key to drive further adoption of LPG that include:
+- tax incentives that drive increased private sector investment in the entire LPG value chain at scale
+- clear regulatory frameworks that encourage safety and order amongst LPG value chain participants
+At PayGo we believe in leveraging technology to increase access to LPG through our two primary solutions:
+- Our IoT device which allows customers to purchase LPG within their daily budget.
+- Our tag and trace platform that allows LPG markets to track cylinder rotation throughout the supply chain as well as process mobile money payments and understand customer consumption patterns thereby allowing them to better plan for inventory and overall supply chain activities.
+At PayGo, we believe that technology is an enabler for transitioning customers to clean cooking and has a critical role to play in adding efficiency to distribution and supply chain activities. Leveraging technology in the LPG value chain has the potential to bring down cost to serve by driving supply chain efficiency, productivity and cutting costs. We look forward to continuing to play our role in transitioning the next billion customers in our priority markets in Africa and Asia.
+#LPGWeek #WLPGA #LPGWeekDubai
+
+--------------------------------------------------------------------------------
+
+URL: https://paygoenergy.co/post/how-paygos-tag-trace-platform-is-transitioning-lpg-operations-for-rift-gas-ltd
+
+A Cleaner Way
+Contact Us
+AB
+About
+CA
+Careers
+PR
+Products
+cylinder smart meter
+tag and trace
+ME
+Media
+BL
+Blog
+CO
+Contact
+Request Full Demo
+Close
+How PayGo's Tag & Trace platform is transforming LPG operations for Rift Gas Ltd.
+PayGo Videos
+Wangu Ngari
+Communication Associate
+Related Posts
+No posts found.
+Cylinder Smart Meter
+Tag + Trace
+Media
+Blog
+About Us
+
+--------------------------------------------------------------------------------
+
+URL: https://paygoenergy.co/post/the-hardware-grind
+
+The Hardware Grind
+Reflections from my year in the field with PayGo Energy’s technology team.
+It’s a Tuesday afternoon in early January. We are on a field excursion to test some new product features and as per usual, we pass by Mama Maria’s shop. Mama Maria resides in Mukuru Kwa Reuben and runs a retail store where she sells fast-moving consumer goods and cooked foodstuffs to households in the area.
+As we enter her shop, we find Mama Maria on her phone, topping up her gas credit. Mama Maria’s two daughters do laps of the shop in their school uniform, savouring their afternoon break. Mama Maria greets us with a broad smile and tells us how our agent was there a day before to switch over her cylinder. She calls it magic — a gas cylinder that automatically replenishes itself.
+We have a brief chat with Mama Maria about her experience with our product and she mentions some features she thinks would be useful. As I jot down some notes, two flames burn bright: an orange continuous flame is heating the family’s evening meal and the other, a blue ticking glow, indicates that the Cylinder Smart Meter is in an active cooking session.
+My name is Emmanuel Kinyanjui. I am a Mechatronic Engineer by training and a member of the Software Engineering team at PayGo Energy (‘PayGo’). Over the past year, I’ve had the privilege of working on PayGo’s flagship product, the Cylinder Smart Meter (CSM).
+The CSM is an Internet of Things (IoT) device that attaches to the top of a Liquified Petroleum Gas (LPG) cylinder, and accurately measures and dispenses LPG. The CSM enables customers to pay for LPG in small amounts using mobile money, helping to overcome the cost barrier that inhibits access to clean cooking for over 75% of households in Kenya.
+The CSM has seen many iterations over the years — from adaptations of off-the-shelf products to our first 3D printed prototypes and finally to our Version 3.0 (V.3) CSM, now in commercial production.
+It’s been a year since we installed our first V.3 CSM in a customer home. It’s also been a year since I joined the PayGo team. To celebrate our joint anniversary, I’d like to share some of my reflections on the journey so far — the key moments I’ll savour, and the learnings I’ll take with me.
+Savouring the key moments
+1. Our very first installation
+Day one of our V.3 CSM installation in customer homes was in early September 2019. Ambitiously, we had five installs lined up for the day. The plan was simple; go in, perform the setup, train the customer and they should be good to go, just like the trial runs! However, things didn’t go as planned.
+We quickly realised that simulating installations in our office is very different from doing it in the customer’s home. We encounter issue after issue — poor network reception, unexpected hardware behaviour, and not least of all, our own anxiety. All up, our first installation takes four hours.
+Over the ensuing months, we completed hundreds more installations. The Hardware, Software, Product and Retail teams worked closely together, learning from each installation and making adjustments accordingly.
+Fast forward to 2020, we’re now able to do an installation in just under 5 minutes. Practice does make perfect!
+2. Hitting the 100 CSM installation mark
+In January we hit our first milestone — the 100th install. With 100 customers using our CSM daily, we had a large enough pool of customers to start gaining insight into usage patterns and customer behaviours, as well as system performance. The more data we have, the more we can improve our product. Reaching 100 installs was also a symbolic milestone — it felt like we were gaining momentum.
+3. Overcoming the connectivity hurdle
+One of the persistent pain points we had been facing during the initial rollout of our CSMs was the inability of a CSM to connect in areas with a poor mobile signal. This was mainly due to signal interference as a result of the surrounding material in our customer’s homes. As a result, our customers had to carry their set up outside their home to successfully establish a connection and top up their gas credits (less than ideal!).
+The engineering teams went back to the drawing board and, through a relatively minor adjustment, we were able to drastically improve connectivity. We field-tested the solution in January, and by April we had fixed the issue in every one of our CSMs.
+We’re now able to reliably establish a connection with our meters in extremely poor signal strength zones. Problem solved!
+4. Scaling through partners
+From the success we had experienced offering this service to our customers in Mukuru Kwa Ruben, our focus has now shifted to sustainably offering the same service and experience through our partners (typically large gas companies).
+Scaling through partners presents a range of new challenges. How do we ensure our platform can handle many more payments, installations and exchanges? How do we set up secure environments for each of our partners to handle customer data? How do we achieve this for multiple partners at once while ensuring that we stay in touch with the customer’s voice?
+For us, this has meant restructuring our feedback channels to ensure that the information reported — both from our partners and from the end user — is clear, concise and accessible. In anticipation of the surge inactivity, we have also increased our cloud storage capacity to ensure fast and reliable access at all times.
+What I’ve learned along the way
+1. Teamwork is key
+When building and maintaining an IoT product, the thin line that separates hardware and software development teams is blurred and the need for both teams to be in sync at all times is paramount to the success of the product. Our team is distributed across three continents (North America, Europe & Africa), making communication even more critical.
+During our initial rollout phase, we put in place daily stand-up calls to go through any issues arising as well as steps of mitigation. This involved live debugging sessions over video, where we would test different fixes in real-time. We also set up dedicated Slack channels for CSM issues, alerts, developments and feedback which was key to ensuring team synergy. To date, we still hold bi-weekly stand-up calls to ensure that new product features and scale-up plans are well understood across all teams and planned for accordingly.
+2. Stay close to the customer
+Companies often talk about having a ‘customer-first’ culture, but it’s hard to understand what this actually means in practice. When your product lives in your customer’s home and is used by your customer daily, ensuring the customer’s voice is heard is critically important.
+For us, this means working closely with the Product team to ensure we are regularly interacting with our customers — like Mama Maria — through site visits, surveys and product usage data. The Product team takes customer insights and suggestions and translates them into features that the Software team can deliver on.
+Having a customer-first approach is not just about how you interact with the customer, it’s also about creating a culture that supports open communication and feedback. Our feedback culture has been pivotal in addressing issues that occur in the field during installations (often fed back by our Retail Agents) which, coupled with diagnostics from our CSMs and data from our applications, has enabled us to ensure we give our customers the best experience possible.
+Open communication has not only made us a better product team, but also a more empathetic one. By listening to each other’s experiences, and the experiences of our customers, we’ve developed a greater appreciation of the real-world impact of our products. This is what drives us to build better products, with our customers at the centre of it all.
+3. Product development is hard, but we were born to do hard things
+Building and deploying a hardware product is an experience like no other. It takes grit, passion and determination to keep moving forward. I can’t tell you how many times I’ve taken apart a CSM and put it back together again, only to realise that I didn’t actually fix the thing I had set out to. The process can be stressful, and time-consuming. However, with the right tools, the right team and the right attitude, the result is always rewarding.
+Looking back at the year that’s been, I believe the PayGo team is driven, now more than ever, towards achieving our goal of unlocking Clean Cooking for the Next Billion!
+
+--------------------------------------------------------------------------------
+
+URL: https://paygoenergy.co/post/solving-a-macro-problem-through-a-micro-solution
+
+Solving a macro problem through a micro solution
+It’s Sunday evening and you’re doing the weekly grocery shop. Trolley in hand, you cruise up and down the aisles of your local supermarket, avoiding the junk food at all costs.
+You pull into Aisle 8: Toilet Paper. You quickly survey your options. A single roll sets you back $1; but that won’t get you far. For $8 you can get a 12-pack. On a per roll basis, that’s a third less expensive. So you grab the 12-pack.
+Now picture what it’s like for someone living at or below the poverty line. You might only have $10 to spend on weekly groceries for your family of four. The 12-pack is still the more economical option, but you can’t afford it. So you grab a single roll.
+And what if the supermarket doesn’t stock toilet paper in single rolls? Well, then you’re in trouble.
+This is the predicament faced by millions of low-income households in the developing world. Best-case, you pay more. Worst case, you go without.
+Buying less, more often
+In Africa, 86% of employment is informal (International Labour Organisation, 2018). The informal sector is characterised by low pay, irregular hours, no benefits (eg healthcare) and no job certainty; all without a social security net.
+Relying on informal employment means you have no income security. You don’t know when your next pay-check will come, or how much it will be. ‘On average’ your household might earn $3.20 per day (the World Bank’s poverty line for lower-income countries), but that does not reflect the reality of how you live, earn and spend. Your income is sporadic and unpredictable; you might earn $5 one day, and nothing for the rest of the week. You also might need to pay hospital bills, or school fees, or an outstanding loan. This makes it impossible to plan your monthly or weekly spend; and so you spend day-to-day and conserve whatever cash you can (to learn more, have a read of Portfolios of the Poor or Poor Economics).
+To meet the needs of low-income consumers, a marketplace for consumer goods sold in small amounts has emerged, sometimes referred to as the ‘sachet economy’. These are consumer products such as soap, sugar and cookies that are sold in single-use packaging, mainly in the informal settlements. This is a good (albeit environmentally problematic) example of matching the product to the behaviour of the consumer. Service providers such as telecommunications, banks and utilities have also seen rapid market growth through adapting their products to the sachet economy — designing for high frequency, low value transactions. Single rolls, not 12-packs.
+Cooking gas is no different. In Sub-Saharan Africa, 83% of households cook with dirty fuels or solid biomass, the most prevalent fuels being charcoal and kerosene (International Energy Agency, 2017). Charcoal and kerosene are readily available on any street corner; a 1kg tin of charcoal might cost US $1.00, a 500mL bottle of kerosene $0.50. Cooking on an open flame requires minimal equipment, making these fuels highly accessible.
+Fuels such as charcoal and kerosene are, however, immensely damaging. Dirty fuels are deadly to inhale (contributing to 3.8 million deaths per year), they fill the home with smoke (equivalent to the second hand smoke of 400 cigarettes per hour), they are inefficient, and terrible for the environment. All this has led the WHO to declare lack of access to clean cooking an environmental and public health emergency.
+LPG is well-suited to emerging markets, but it is only sold in bulk
+Liquified Petroleum Gas (LPG) is safe, efficient, readily available, and clean burning. LPG is also easily transported without grid infrastructure — unlike Liquid Natural Gas or electricity — critical for emerging markets.
+When you do the math LPG is not only a far superior cooking fuel; it’s actually cheaper on a per unit basis than charcoal or kerosene. In Kenya, the average household using LPG as their primary cooking fuel spends 17% less than a household relying on kerosene, and 28% less than one relying on charcoal (Kenya Ministry of Energy, 2019 & Kenya Bureau of Statistics, 2019).
+The catch: LPG is only sold by the cylinder, and the smallest readily available cylinders (6kg in Kenya) cost $10-$12 to refill. Despite being more economical, the upfront cost of LPG is prohibitively high, and there is no payment system in place to facilitate smaller transactions. As a result, low income households are financially excluded from cooking with gas.
+To solve the clean cooking crisis, we need to acknowledge the root of the problem. Consumers are not ‘irrationally’ purchasing dirty fuels; they are making very difficult choices under uncertain conditions (to learn more, have a read of Scarcity: Why Having Too Little Means So Much). Households do not cook with harmful fuels because of any “cultural” preference (a convenient excuse we hear all too often); they do so because it’s what they can afford. It’s a rational decision they’re forced to make because the market has failed them.
+The time is right for a new approach
+At PayGo Energy (PayGo), we set out to solve a simple, yet intractable problem: How can we make LPG affordable and accessible for the mass market? We hypothesised that if the sale of LPG could be matched to the typical purchasing behaviour of the market, then customers would quickly adopt LPG as their main cooking fuel. The key was in the packaging — gas sold by the gram, not by the cylinder. Single rolls, not 12-packs.
+To prove our hypothesis we started with the customer. Back in 2016, we put a cylinder of gas and a cookstove in 10 households. We visited each household daily, and weighed their cylinder by hand. We then charged the customer for the amount of gas they had consumed over the previous 24 hours. Through this initial pilot, and a wider market survey, we proved that low income households could be reliable consumers of LPG, and had the ability to pay if provided with a mechanism to make small, regular payments.
+Fast-forward four years and we’ve commenced commercial production of our patented Cylinder Smart Meter (CSM). The technology has evolved through many iterations, but the core purpose of the product remains the same: enabling customers to purchase gas in small amounts.
+We’ve proven that low-income households in emerging markets can be consistent, reliable consumers of LPG. Amongst PayGo’s customers, the average household spends $1.80 per week on cooking gas, and tops up credit more than once a week. This is a customer segment that, despite comprising over three quarters of the market, is almost entirely overlooked by the LPG industry. Over 80% of PayGo’s customers are first time users of gas.
+We believe that expanding LPG distribution in emerging markets can be a win-win for suppliers and consumers. For suppliers, tapping into new markets and undeserved customer segments is a huge commercial opportunity. For consumers, access to clean, safe, affordable and convenient cooking — often for the first time — is life changing (not to mention life saving).
+To unlock emerging markets, the industry needs to rethink how gas is sold. So long as the cylinder remains an indivisible unit, distributors will continue to price out the majority of households. Let’s start with the consumer — how they live, earn and spend — and design products to meet their needs.
+To continue the conversation, send us an email (info@paygoenergy.co) or follow PayGo Energy on LinkedIn.
+
+--------------------------------------------------------------------------------
+
+URL: https://paygoenergy.co/post/paygo-energy-sets-sights-on-connecting-a-safe-transparent-and-affordable-lpg-market-in-kenya-and-beyond
+
+PayGo Energy sets sights on connecting a safe, transparent and affordable LPG market in Kenya, and beyond.
+The LPG market in Kenya is fragmented and largely informal
+There are currently 227 registered companies involved in the import, transport, wholesale and retail of LPG (EPRA). But there are hundreds more ‘informal’ retailers who are not captured in this figure, many of whom operate in rural and peri-urban communities, and in informal settlements. With so many players in the market, Kenya has seen increased LPG supply (resulting from the growing number of distribution points) and lower retail costs (resulting from new entrants who are driving down prices). However, a crowded, largely informal market isn’t always a good thing for consumers.
+Informal retailers often gain an unfair advantage through unsafe and dishonest cost-cutting practices, including illegal refilling and systematic underfilling of cylinders. These practices put consumers at risk, cause reputational damage to the industry, and discourage those who do play by the rules from investing in supply. Further, market fragmentation increases distribution costs, resulting in higher prices for the end consumer. So even if the price of LPG purchased from an informal retailer is low, it should be lower.
+New regulations aim to bring order to the LPG market by holding suppliers accountable for their cylinder stock.
+The new regulations, gazetted by the Government of Kenya in June 2019 (Legal Notice 100), include a range of sensible measures that aim to bring order to the industry, improve safety and transparency, and encourage further investment. Under the regulations, brand owners can only refill their own cylinders (abolishing the cylinder exchange pool in favour of a mutual exchange pool). LPG suppliers (both brand owners and retailers) must be able to track every cylinder they put into the market, and they must ensure all of their cylinders are in good repair. The regulations also require that distributors demonstrate “economic viability” through ownership of at least 5,000 cylinders. Suppliers that fail to adhere face hefty sanctions.
+The confidence brought by the new legislation seems to be working. In 2019, Kenol Kobil has been purchased and a share purchase agreement has been signed for Gulf Energy. If more investment is made into the downstream LPG market, it is likely that there will be more consolidation between existing brands.
+Digital solutions will make it easier for LPG suppliers to comply with the new regulations, and improve operations.
+Currently, LPG suppliers manage distribution through predominantly analogue processes. Cylinders are tagged and inspected prior to being sold in the market, but data collection ends there. The entire supply chain, after the refilling operation, is essentially invisible. This is a missed opportunity for both suppliers and consumers. For suppliers, the data is not captured and therefore is not used to make decisions. For consumers, there is no means of validating their purchase — the cylinder may have been refilled illegally; it may be underfilled, or it may not be in a safe condition.
+PayGo Energy has created a platform to connect consumers, businesses and cylinders in the LPG supply chain. PayGo’s Tag and Trace technology ensures each brand owner registers every cylinder. Every time a cylinder is moved through the supply chain, the date, time and location of the movement is recorded. This provides end to end visibility from the wholesaler of LPG to the retailer and home delivery to the consumer.
+Cylinder tracking lays the foundations for a broader digital transformation.
+Digitisation has the potential to transform LPG distribution in Kenya. This digital transformation will occur in three steps. First is utilising data generated by customers, retailers and wholesalers to make better operational decisions. This might include decisions on how many staff are needed or when to restock inventory. Second, predictive analytics will be created based on consumption and distribution data to predict when customers will run out of gas, and when retail locations require inventory. Lastly, prescriptive algorithms can be created to optimise LPG distribution, for example, the best delivery routes to be used and automatic creation of stock replenishment orders.
+The new regulations should be embraced as a carrot for positive change, rather than as a stick to punish local companies. Tag and trace cylinders provide a great opportunity for the industry to become more efficient through digitisation. Improved efficiency will lead to lower distribution costs, which should ultimately lower the price for consumers, resulting in more people accessing safe, affordable gas.
+
+--------------------------------------------------------------------------------
+
+URL: https://paygoenergy.co/post/clean-cooking-in-a-crisis
+
+Clean Cooking in a Crisis.
+“By promoting sustained use of clean cooking in a resource-poor, urban community… pay-as-you-go LPG is an encouraging consumer finance mechanism that can help achieve universal energy access.”
+PayGo Energy (PayGo) is pleased to have participated in a recent study conducted by the University of Liverpool (UoL) and the Global LPG Partnership, as part of the CLEAN-Air(Africa) program.¹ The study found that pay-as-you-go enabled households in an informal settlement in Nairobi to maintain access to liquified petroleum gas (LPG) during times of increased financial hardship that resulted from the COVID-19 lockdown.
+You can read the full paper in the March edition of Applied Energy, here. For the less scientifically inclined, we’ve summarised the key findings below.
+1. Pay-as-you-go customers are less likely to revert to dirty fuels.
+“When Covid hit, I could no longer access my daily jobs, my husband received a salary cut and our children came back home because schools were closed… We had to cut down on non-essential spending such as luxury foods and only concentrate on putting food on the table and paying rent.”
+Margaret, PayGo customer
+Despite loss of income, the study found that just 5% of 301 active PayGo customers discontinued LPG use during the lockdown. In fact, PayGo customers that were active at the start of the COVID-19 lockdown increased their monthly consumption by an average of 25% during the lockdown period. By contrast, another survey conducted in the same community revealed that 27% of households using LPG as a primary cooking fuel (without access to pay-as-you-go) reverted to using ‘polluting’ cooking fuels during lockdown, either by purchasing kerosene (14%) or gathering wood (13%).
+2. During lockdown customers topped up more frequently, and in smaller amounts.
+“Even if you have the lowest amount of money, you will still be able to cook.” Ruth, PayGo customer
+PayGo’s core hypothesis is that low-income households can afford to cook with clean-burning LPG, if provided with the option to pay incrementally (have a read of this article). The study found that PayGo customers preferred to make smaller, more frequent payments during lockdown. With lower cash on hand, customers sought to minimise the amount of liquid tied up in cooking fuel. Average payment frequency doubled, while the average single payment amount halved.
+3. COVID policies led to increased household consumption.
+“[When COVID hit] schools closed and my kids came back home from boarding school. This increased our gas consumption because of the extra meals I have to make for my family. My kids also use gas to boil bathing water, normally my husband and I could go without the luxury of hot water.”
+Margaret, PayGo customer
+During the lockdown, many workplaces closed and boarding schools sent kids home. This meant more family members spending more time at home.
+Five out of six customers interviewed as part of the study reported that their use of LPG during the lockdown increased due to preparing lunch for their children, who are ordinarily served lunch at school. Cooking data collected through the PayGo CSM shows a marked increase in average consumption during this period.
+This study demonstrates the extent to which flexible payment models can help vulnerable consumers navigate through financial hardship. By enabling consumers to pay in amounts that fit within their daily budget, PayGo was able to retain the majority of its customers during the COVID lockdown, despite the loss of income.
+Footnotes
+¹ The study analysed Cylinder Smart Meter (CSM) data from over 400 PayGo Energy (‘PayGo’) customers in Mukuru Kwa Reuben, and monitored full cylinder LPG stove usage from a random sample of non-PayGo customers in Eldoret (Western Kenya). The study compared smart meter data collected over the course of January 2018 to February 2020, and during Kenya’s first COVID lockdown (March to June 2020). This enabled an examination of the effects of the lockdown, and associated downstream impacts on household income, on patterns of LPG usage.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.paygoenergy.co/job-openings
+
+Job Openings. Don't see a role that's right for you?
+We're always on the lookout for talented and passionate people! Send an e-mail to careers@paygoenergy.co with a little bit about yourself, why you want to work with us and the type of role you'd be interested in.
+001
+job openings
+Field Sales Agent
+Nairobi, Kenya
+The Field Sales Agent will be responsible for recruiting new customers for the technology-supported LPG in ourB2C section.
+
+--------------------------------------------------------------------------------

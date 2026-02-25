@@ -1,0 +1,462 @@
+ROOT: https://flexgen.com/
+SCRAPED_AT_UTC: 2026-02-11T20:05:23.783036Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://flexgen.com/
+
+Meeting Energy Demands with Scalable Solutions
+Our Expertise
+We turn batteries on and keep them on
+We deliver utility-scale battery storage projects armed with HybridOS™, our best-in-class energy management software.
+Now Offering
+US-Based Battery Management System
+FlexGen’s Domestic BMS Delivers Enhanced Security, Supply Chain Resilience, and Superior Performance
+Who We Serve
+Battery storage for the most technically demanding organizations
+With over 12 years of experience, our energy management software and services are designed to be modular and scalable, allowing for capabilities to be tailored according to any use case.
+Our capabilities
+Partners for all aspects of battery storage management and optimization
+Our strength is in our flexibility. With the combination of modular EMS software and services, FlexGen can meet you where you are in any phase of your BESS project. We help navigate the ever-changing complexities of the modern energy landscapes to ensure optimal operations and grid reliability.
+Energy Management Platform
+Best-in-class energy management system software for high-performance management of energy storage sites & fleets of assets.
+- Hardware-agnostic for battery energy storage systems
+- Instantaneous monitoring with web-based controls
+- Fully configurable for your unique use case.
+Advanced Battery Analytics
+HybridOS Analyze™ remote monitoring and analytics proactively evaluate equipment condition, maximize availability, and provide operational insights for optimal productivity from energy storage assets.
+- Near-real time stats of key metrics and data visualizations
+- Digital Twin performance index ensures optimal output
+- Proactive recommendations and underperformance alerts
+Integrated Systems Solutions
+FlexGen designs, procures, constructs and integrates ESS projects for a turnkey solution.
+- Battery testing in our state-of-the-art Innovation Lab
+- HybridOS™ energy management software integration
+- Commissioning of the project site and client training
+Lifecycle Services
+FlexGen’s Lifecycle Services team can monitor, maintain, and upgrade your systems to ensure the integrity and longevity of your assets.
+- Remote Operations Center (ROC) provides 24/7 monitoring
+- We proactively manage interconnected project sites
+- We keep your assets performing at their peak
+The right people with the best technology
+- Turn batteries on faster
+- Maximize asset performance
+- Extend the life of your assets
+Over 15 years of experience in energy storage
+We have a proven track record and deep understanding of US energy markets.
+100+
+Projects completed
+We’ve completed over 100 energy storage projects in 10 US markets.
+25+ GWh
+Completed and under contract
+That's enough storage capacity to provide electricity to over 225,000 average U.S. homes.
+1.6 Million
+Hours of battery runtime
+Our systems affecting capacity, flexibility, revenue generation, and reliable backup power.
+99.95%
+Uptime in 2021 Texas freeze
+FlexGen provided superior trading performance and critical services when they were needed most.
+
+--------------------------------------------------------------------------------
+
+URL: https://flexgen.com/about
+
+About Flexgen
+Meet the team behind FlexGen
+We’re a distributed team that loves to optimize the power grid and make meaningful connections between power suppliers and communities.
+Our Vision
+A brighter and more sustainable energy future for all.
+Our mission is clear: to equip businesses, municipalities, and communities with advanced tools and strategies to harness, store, and distribute energy in the most efficient manner possible.
+The energy sector is undergoing a seismic shift, and artificial intelligence is at the helm of this transformation. FlexGen’s proprietary AI-powered platform is a testament to our commitment to innovation.
+The time to act is now
+The demand for efficient and sustainable energy solutions has never been higher in today's rapidly evolving energy landscape. FlexGen, with its cutting-edge technology and innovative approach, is leading the charge in transforming the way we think about energy storage.
+Interested in joining our team?
+We're always looking for smart, motivated people to join our mission
+
+--------------------------------------------------------------------------------
+
+URL: https://flexgen.com/derisking-battery-storage-projects-2025-and-beyond
+
+Top Considerations to De-Risk Your Energy Storage Investment
+Maximize confidence in your battery storage projects in 2025 and beyond by minimizing risk around tariffs, regulatory compliance, cybersecurity, and shifts in tax incentives.
+Advance your BESS project with confidence
+No matter your risk mitigation strategy, FlexGen can help you execute
+At FlexGen, we have spent 15 years helping customers navigate procurement challenges, shipping risks, controlled environment storage, evolving tax incentives, and regulatory shifts. With over 100 projects successfully delivered, we know how to accelerate your path to your first revenue dollar and optimize the performance of your assets. Learn how we can guide you to keep your projects on schedule and operating at their best.
+Interested in learning how FlexGen can help de-risk your BESS project?
+Get started today with a free consultation.
+De-risk your battery storage project:
+- Comprehensive Equipment Procurement – Secure your battery storage systems and components with timely and compliant purchasing.
+- Turnkey Storage and Logistics – Ensure proper storage conditions, fire safety, and battery balancing.
+- Regulatory Responsiveness – Utilize a software-first approach to stay adaptable and compliant.
+- Proactive Data Security – Implement US-based controls, including battery management systems (BMS), to safeguard the operations and performance of your assets.
+- Hardware Compatibility – Mitigate supply risk by working with a hardware agnostic partner and configuration expert.
+Who We Serve
+With 15 years of experience, we are leaders in energy storage solutions, trusted by industry pioneers to deliver results.
+Our team combines technical expertise with deep industry knowledge to simplify safe harboring and help you achieve your goals.
+FREE DOWNLOAD
+Derisk your battery storage site with a US-Based BMS
+A US-based Battery Management System (BMS) ensures safety, reliability, and compliance with domestic standards, offering real-time monitoring and optimized performance. FlexGen has developed a BMS solution that protects energy assets while advancing America’s energy independence. Download our whitepaper to learn more.
+
+--------------------------------------------------------------------------------
+
+URL: https://flexgen.com/services/lifecycle-services
+
+Partners for the lifecycle of your battery assets
+Lifecycle Solutions enable you to succeed in the energy transition. We optimize your system operations, guarantee its performance, and ensure long-term reliability of your assets.
+Talk to an expert
+Learn about how we can help your batteries on with 98% availability
+Guaranteed optimal battery performance
+FlexGen provides our customers with the peace of mind they need to focus on making their storage assets productive.
+Broad experience across multiple regions
+From market entry strategies to market participation optimization, FlexGen’s expertise can help streamline energy storage operations and capture revenue.
+The premier operating system for battery energy storage
+The management of all our sites is fueled by our suite of HybridOS™ software
+
+--------------------------------------------------------------------------------
+
+URL: https://flexgen.com/services/activation-services
+
+Expert support for all aspects of your hardware installations
+The integration of energy storage equipment, battery testing, HybridOS™ Energy Management Software, commissioning of the project site, and training of client team, rests with FlexGen.
+Talk to an expert
+Learn about how we can get your site online 90 days faster with our Activation Services
+The most flexible partner in battery storage
+With deep history and expertise, FlexGen offers a complete end-to-end solution.
+Hardware expertise across the industry
+We collaborate with top energy storage hardware providers, working with major players to configure battery and PCS combinations that prioritize safety while meeting your specific requirements.
+
+--------------------------------------------------------------------------------
+
+URL: https://flexgen.com/resources/blog/flexgen-and-alliant-energy-bring-two-utility-scale-bess-projects-online-strengthen
+
+- The 75-MW Wood County (Wis.) and 99-MW Wever (IA) facilities store electricity generated by nearby solar farms and other sources for use when energy is needed.
+- The utility-scale BESS systems help manage renewable energy variability and deliver power to the grid during periods of peak demand.
+- Batteries designed and built by FlexGen at these projects use intelligent controls and real-time optimization through the HybridOS™ platform to strengthen grid resiliency and solve for long-term load growth.
+FlexGen is proud to have two utility-scale battery energy storage systems (BESS) in operation in Wisconsin and Iowa. FlexGen designed and built the batteries at these sites were for Alliant Energy to reinforce our shared commitment to grid reliability and maximizing the value of co-located generation. Bringing deep expertise in utility-scale energy storage and intelligent controls, FlexGen engineered the 75-MW Wood County and 99-MW Wever BESS projects to store energy from adjacent solar facilities and other sources, to then dispatch it when needed.
+“Our mission is to equip utilities and the communities they serve with solutions to harness, store, and distribute the energy that is vital to our daily lives and economies,” said Jason Rislov, Senior Vice President of Operations at FlexGen. “As grid conditions grow more dynamic, battery storage gives companies like Alliant Energy the confidence to deliver energy as promised while integrating renewable generation, strengthening grid resiliency, and meeting long-term load growth.”
+Powered by FlexGen’s HybridOS energy management platform, the Wood County and Wever projects are using intelligent controls, real-time optimization, and enhanced visibility to strengthen grid performance and support reliable, flexible operations. The projects underscore FlexGen’s role in using software-enabled storage to help energy companies plan for future load growth and the grid’s evolving needs. Click to read Alliant Energy’s announcement.
+
+--------------------------------------------------------------------------------
+
+URL: https://flexgen.com/services/hardware-and-commissioning
+
+Expert support for all aspects of your hardware installations
+The integration of energy storage equipment, battery testing, HybridOS™ Energy Management Software, commissioning of the project site, and training of client team, rests with FlexGen.
+Talk to an expert
+Learn about how we can get your site online 90 days faster with our Activation Services
+The most flexible partner in battery storage
+With deep history and expertise, FlexGen offers a complete end-to-end solution.
+Hardware expertise across the industry
+We collaborate with top energy storage hardware providers, working with major players to configure battery and PCS combinations that prioritize safety while meeting your specific requirements.
+
+--------------------------------------------------------------------------------
+
+URL: https://flexgen.com/software/hybridos-energy-management-system
+
+The leading energy management software
+Get seamless management of charging and discharging patterns, optimizing energy storage deployments for maximum efficiency,
+NEW SOFTWARE FEATURE
+Solar Power Plant Controller (PPC)
+New in HybridOS V13, FlexGen’s HybridOS Solar PPC can both integrate solar and battery energy storage control in a single platform, or function independently as a dedicated solar power plant controller.
+Customized Interfaces
+Controls for every use case
+Tailored for a variety of use cases, your controls can adjust to meet your needs.
+Industry Leading Expertise
+Compatibility without boundaries
+Get unmatched responsiveness that redefines speed and efficiency. HybridOS™ delivers a reactive signal faster than any market requirement.
+Advanced Energy Management Platform
+Discover the extensive advantages offered by the HybridOS™ Energy Management Platform for your energy storage project.
+Schedule a Demo
+Come see why some of the most dependable and profitable energy storage solutions run on HybridOS™
+
+--------------------------------------------------------------------------------
+
+URL: https://flexgen.com/software/hybridos-analyze
+
+Cutting-edge features for advanced energy management analytics
+Valuable predictive insights to enhance performance and extend the lifespan of your energy storage assets.
+Optimized Asset performance
+Confidence that sites are operating correctly
+Get a holistic view of your site data in near real time with built-in machine learning and analytics that improve performance
+Data-Driven
+Next generation algorithms deliver proactive recommendations to optimize performance
+HybridOS Analyze™ uses machine learning to deliver insights that maximize the lifetime usability value of your assets.
+Schedule a Demo
+Come see why some of the most dependable and profitable energy storage solutions run on HybridOS™
+Our Expertise
+Revolutionizing the energy industry
+Discover the extensive advantages offered by the HybridOS Analyze™ Platform for your energy storage project.
+
+--------------------------------------------------------------------------------
+
+URL: https://flexgen.com/software/hybridos-control-bms
+
+Secure Battery Energy Storage Sites and Maximize Performance with FlexGen HybridOS Control BMS
+Battery Management Systems (BMS) play a pivotal role in ensuring system safety, reliability, and longevity. Choosing the right software for your BMS avoids cybersecurity and regulatory risks that could compromise site performance and energy security.
+FlexGen launches U.S.-based BMS
+FlexGen HybridOS Control BMS
+HybridOS Control BMS is a U.S.-engineered software solution delivering unmatched security and performance for utility-scale, commercial and industrial battery energy storage systems.
+Seamless Integration for Complex Storage Systems
+Integrating a domestic-engineered BMS software to interface with foreign-made batteries can introduce significant execution risks, compatibility issues or project delays. FlexGen's industry knowledge and specialized capabilities across hardware providers enable the seamless addition of domestic BMS software to your current site.
+
+--------------------------------------------------------------------------------
+
+URL: https://flexgen.com/solutions/data-center-solutions
+
+Accelerate interconnection and future-proof your data center with FlexGen
+The rise of artificial intelligence has catalyzed the exponential expansion of data center computing needs, and with it, the power demands required to operate these facilities. To meet this need, battery energy storage systems (BESS) will drive critical infrastructure development and maximize the efficiency of energy resources both in-front-of and behind-the-meter.
+Accelerate Data Center Interconnection
+FlexGen Data Center Solutions
+Demand Reduction
+Leveraging the typical Utility-Scale 4-Hour BESS onsite (behind the meter) at data centers unlocks a variety of energy strategies, including demand reduction.
+Off-Grid Operations
+An advanced evolution of the demand reduction model, BESS integrated with a variety of generation assets to enable complete grid independence.
+Generator Replacement
+BESS can be used as a direct replacement for conventional backup generators, transforming data center architecture while reducing overall project timeline and capex.
+Power Quality with or without UPS
+BESS can function as a medium-voltage line-interactive UPS system, addressing the power quality challenges of modern data centers while simplifying the overall system structure.
+Contact us to learn more
+Let us know about your data center energy needs.
+Let us know about your data center energy needs.
+Contact Us Today
+Over 15 years of experience in energy storage
+We have a proven track record and deep understanding of US energy markets.
+100+
+Projects completed
+We’ve completed over 100 energy storage projects in 10 US markets.
+25+ GWh
+Completed and under contract
+That's enough storage capacity to provide electricity to over 225,000 average U.S. homes.
+1.6 Million
+Hours of battery runtime
+Our systems affecting capacity, flexibility, revenue generation, and reliable backup power.
+99.95%
+Uptime in 2021 Texas freeze
+FlexGen provided superior trading performance and critical services when they were needed most.
+
+--------------------------------------------------------------------------------
+
+URL: https://flexgen.com/solutions/ems-retrofit
+
+Unlock the Full Potential of Energy Storage Assets
+FlexGen offers solutions to diagnose systems, optimize performance, and upgrade energy management systems (EMS) towards higher availability, better control, and stronger financial returns—all with minimal risk and downtime.
+Take the first step to better performance
+FlexGen EMS Retrofit Solutions Enable Success
+FlexGen EMS Retrofit Solutions
+FlexGen solutions are designed to assess and fix underperforming assets and enable customers with better operational control to maximize performance.
+Analytical Site Assessment
+For operators looking to understand where performance gaps exist, we offer an Analytical Site Assessment. This provides actionable insights with minimal disruption to your operations. An Analytical Site Assessment consists of four steps to ensure clarity about your site performance, issues and next steps for success.
+- HybridOS Analyze – FlexGen’s vendor-agnostic analytics software connects to your EMS and battery data, identifying hidden performance limitations.
+- Performance Engineering Review – Our engineers assess how your system compares to industry benchmarks.
+- Onsite Field Inspection – A hands-on, physical inspection to validate data-driven findings.
+- Financial Impact Study – We translate performance gaps into tangible financial implications, quantifying the cost of lower availability and lost revenue.
+EMS Retrofit
+For projects suffering from persistent EMS failures, we offer a seamless EMS replacement experience. We understand the concerns of cost, downtime, and uncertainty which is why we designed the smoothest, most predictable EMS transition process in the industry.
+- Innovation Lab Pre-integration & Testing —Before we touch your site, we map your DC and AC block using vendor modbus maps, build a digital twin, and simulate system behavior.
+- One-Touch Commissioning – Our field-tested deployment process ensures smooth deployment and minimizes downtime.
+- Hands-off HybridOS Implementation – Simplified set-up processes and remote testing guidance ensure speed of implementation.
+- Seamless Field-Testing Validation—Because we resolve most issues in advance, onsite commissioning is faster and smoother
+- Lifecycle Services – Our remote monitoring, predictive maintenance, and ongoing software upgrades ensure that your EMS continuously improves over time.
+Make FlexGen Your Trusted Partner
+We don’t just swap out an EMS—we unlock the full potential of your battery storage assets. If your EMS isn’t delivering the performance you need, it’s time to take control.
+- 15+ years of optimizing battery storage systems
+- Vendor-agnostic technology that works across multiple manufacturers
+- Durham, NC-based configuration lab to test before deployment
+- 250+ energy storage experts dedicated to your success
+- The most seamless EMS transition process in the industry
+Talk to an expert about an Analytical Site Assessment
+Tell us about your BESS site and an expert will be in touch.
+Tell us about your BESS site and an expert will be in touch.
+
+--------------------------------------------------------------------------------
+
+URL: https://flexgen.com/resources/blog
+
+Blog
+Expert Q&A: Why Battery Energy Storage Is the Future of Data Center UPS Solutions
+FlexGen’s Chief Innovation Officer, Pasi Taimela, discusses how large-scale battery storage systems are well suited to support the power quality, uninterruptible power supply (UPS), and long-duration backup power needs of AI data centers.
+
+--------------------------------------------------------------------------------
+
+URL: https://flexgen.com/resources/blog/derisk-energy-storage-projects-global-supply-chain-partners
+
+As the year winds down, battery storage developers, IPPs, and utility companies are racing to get energy storage projects moving, and for good reason. Geopolitical tensions, supply chain instability, and evolving trade policies are reshaping how and where critical components can be sourced. At the same time, the battery technology space is quickly evolving, adding more pressure on teams to make strategic decisions for the future of their energy storage projects.
+In this environment, hardware availability and pricing can change overnight, making year-end energy storage project milestones especially challenging to meet. Relying on a single OEM’s factory queue or locking in on an inflexible configuration can stall progress and limit flexibility just when agility matters most. That’s where a hardware-agnostic energy storage partner, along with a global procurement network and rigorous qualification process, creates real competitive advantage. This blog explores how to move energy storage projects forward with confidence amid regulatory, supply chain, and market uncertainty.
+Watch the latest webinar to hear from experts on how to safe harbor projects in 2025.
+Global procurement that moves projects forward
+Partnering with a global procurement team that manages vendors around the world can streamline projects and cut lead times. They provide optionality to developers while constantly doing the due diligence of comparing vendors across key criteria: quality, cost, safety, performance, availability, service, and bankability. Hardware flexibility backed by established relationships between supply chain experts and manufacturers provides developers with not just flexibility, but proven configurations that have been pre-integrated and tested. This also streamlines contracting with flexible scheduling andm with financial support from a bankable partner, accelerates project launches.
+Working with a hardware-agnostic energy storage partner makes all the difference when managing project timelines amidst market uncertainties. A flexible, policy-aware procurement process enables developers to remain compliant and adaptable. As supply chain experts actively track FEOC (Foreign Entity of Concern) and non-FEOC supply paths, they can pivot quickly if a vendor’s eligibility status changes. Rather than redesigning the system late in development, projects can swap in compliant components and keep moving forward without missing incentive windows or interconnection prioritization.
+Instead of managing the time-intensive vendor qualification process or juggling multiple OEM contracts, developers can rely on a single partner to coordinate it all. A truly end-to-end partner manages the complex network of suppliers, giving customers one point of contact and one contract to oversee. With in-country team members on the ground, factory audits are more comprehensive, communication is streamlined, and quality audits are more frequent. This streamlines not just BESS procurement, but also reduces risk throughout the entire lifetime of the project with:
+- Simplified contracting, ensuring zero legal gaps and a single point of accountability to reduce procurement and project risk
+- Faster speed to contract and build, leveraging prequalified OEMs who have multi-gigawatt capacity and price-locking for projects targeting COD by year-end
+- A single system performance guarantee, consisting of power, energy, and round-trip efficiency that covers you from the site level down to each component
+- Strong bankability and liquidity position, covering comprehensive project risk management
+With the right partner, developers gain both supply chain flexibility and project confidence, without the complexity of managing it all themselves.
+Energy storage solutions built with you, not for you
+Choosing a hardware-agnostic energy storage partner means designing your system around your needs, not around a vendor’s catalog. Hardware flexibility enables a more tailored and collaborative design process built around your market, duty cycle, and KPIs, not a cookie-cutter template. A turnkey solution means working with supply chain, system engineering, and commercial experts to:
+- Select the best chemistry at the best price based on what’s available
+- Design systems that best fit specific project and market requirements
+- Accelerate project timelines by leveraging multiple suppliers that have been prequalified and preconfigured
+- Enable policy-proof flexibility and the ability to shift vendors with real-time supply insights
+- Future-proof your battery storage system so the same flexibility applies when it’s time for augmentation or replacement down the road
+Energy storage owners and developers don’t need to be experts in every aspect of BESS design or procurement to build reliable systems. The key is partnering with a team that is. A hardware-agnostic partner brings the technical depth, vendor relationships, and validation processes needed to evaluate and integrate multiple technologies with confidence; ensuring the project performs as intended today and well into the future.
+Quality control through integration, commissioning and beyond
+Developers don’t need to manage multiple vendor warranties or validate every energy storage component themselves. An end-to-end software and services provider can oversee the full quality control process, ensuring that every piece of the system, from battery modules to power conversion equipment, performs reliably before it reaches the site.
+This includes factory audits and witness testing to catch issues early, as well as hardware-in-the-loop simulations that verify how components work together under real-world conditions. By managing these steps internally with our Innovation Lab, FlexGen reduces risk, speeds commissioning, and gives energy storage developers and financers confidence that the system will operate as expected from day one.
+As an authorized service provider (ASP) for multiple battery and PCS manufacturers, FlexGen enables faster on-site response and resolution. And, those same supply chain relationships that support design and procurement play a role in operational success and a closed feedback loop. With a single partner handling testing, validation, and service, projects move forward smoothly, with fewer surprises and long-term performance you can trust.
+Building momentum into 2026
+Locking in the right energy storage partnerships, validating configurations, and ensuring policy alignment now can accelerate progress to secure existing tax benefits and favorable positions in the supply queue before year-end.
+Take advantage of a hardware agnostic partner with global procurement agility to move faster, manage risk more effectively, and position your projects for success well into 2026 and beyond.
+FlexGen’s team of global procurement specialists, system engineers, and integration experts can help you design, source, and deploy a hardware-agnostic storage solution that meets your project’s unique goals. Contact us to get started.
+
+--------------------------------------------------------------------------------
+
+URL: https://flexgen.com/resources/insights-and-downloads
+
+Resources
+Insights and downloads
+Learn about accelerating Data Center Interconnection
+With AI-driven computing accelerating, data center energy demands will rise. Battery Energy Storage Solutions (BESS) are the key to securing reliable, efficient, and scalable power. FlexGen’s utility-scale batteries reduce grid dependence, accelerate interconnection, and provide rapid deployment.
+Discover how BESS can future-proof your data center. Download our whitepaper to explore strategies for optimizing energy management, integrating renewables, and accelerating interconnection approvals.
+On-Demand Webinars
+White Papers
+Case Studies
+branding collateral
+Media Resources
+Download the latest product images provided by FlexGen for use by news media in connection with a story or article about FlexGen products and services.
+
+--------------------------------------------------------------------------------
+
+URL: https://flexgen.com/resources/insights-and-downloads/capitalizing-ancillary-services-ercot
+
+Learn about how FlexGen worked closely with ERCOT to prove the feasibility and functionality of the new FFR standards
+Texas has a unique grid management system overseen by the Electric Reliability Council of Texas (ERCOT), and battery storage developers and operators in Texas must adapt to its peculiarities. As ERCOT focuses on immediate power delivery, energy management systems (EMS) play a crucial role in enabling rapid response times for grid stabilization. These systems provide operators with the tools to optimize their energy storage assets and participate in ancillary markets efficiently.
+
+--------------------------------------------------------------------------------
+
+URL: https://flexgen.com/resources/news
+
+In the News
+Protecting Energy - Energy, Oil and Gas Magazine, Issue 224, January 2025
+FlexGen's US Supply Chain Director, Annalyn Jones, sat down with Energy, Oil & Gas Magazine to shed some light on the evolution of the company while supplying insights on delivering innovative, scalable, and sustainable solutions in energy storage and management software.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.flexgen.com/financial-impact-calculator
+
+Free Resource
+Schedule a Consultation
+Get more precise projections when you meet with a pricing expert to determine the impact of availability on your fleet.
+- Compare scenarios across multiple US ISOs
+- Annual Revenue projections by year for 20 years
+- Get a comprehensive report
+
+--------------------------------------------------------------------------------
+
+URL: https://www.flexgen.com/about
+
+About Flexgen
+Meet the team behind FlexGen
+We’re a distributed team that loves to optimize the power grid and make meaningful connections between power suppliers and communities.
+Our Vision
+A brighter and more sustainable energy future for all.
+Our mission is clear: to equip businesses, municipalities, and communities with advanced tools and strategies to harness, store, and distribute energy in the most efficient manner possible.
+The energy sector is undergoing a seismic shift, and artificial intelligence is at the helm of this transformation. FlexGen’s proprietary AI-powered platform is a testament to our commitment to innovation.
+The time to act is now
+The demand for efficient and sustainable energy solutions has never been higher in today's rapidly evolving energy landscape. FlexGen, with its cutting-edge technology and innovative approach, is leading the charge in transforming the way we think about energy storage.
+Interested in joining our team?
+We're always looking for smart, motivated people to join our mission
+
+--------------------------------------------------------------------------------
+
+URL: https://www.flexgen.com/derisking-battery-storage-projects-2025-and-beyond
+
+Top Considerations to De-Risk Your Energy Storage Investment
+Maximize confidence in your battery storage projects in 2025 and beyond by minimizing risk around tariffs, regulatory compliance, cybersecurity, and shifts in tax incentives.
+Advance your BESS project with confidence
+No matter your risk mitigation strategy, FlexGen can help you execute
+At FlexGen, we have spent 15 years helping customers navigate procurement challenges, shipping risks, controlled environment storage, evolving tax incentives, and regulatory shifts. With over 100 projects successfully delivered, we know how to accelerate your path to your first revenue dollar and optimize the performance of your assets. Learn how we can guide you to keep your projects on schedule and operating at their best.
+Interested in learning how FlexGen can help de-risk your BESS project?
+Get started today with a free consultation.
+De-risk your battery storage project:
+- Comprehensive Equipment Procurement – Secure your battery storage systems and components with timely and compliant purchasing.
+- Turnkey Storage and Logistics – Ensure proper storage conditions, fire safety, and battery balancing.
+- Regulatory Responsiveness – Utilize a software-first approach to stay adaptable and compliant.
+- Proactive Data Security – Implement US-based controls, including battery management systems (BMS), to safeguard the operations and performance of your assets.
+- Hardware Compatibility – Mitigate supply risk by working with a hardware agnostic partner and configuration expert.
+Who We Serve
+With 15 years of experience, we are leaders in energy storage solutions, trusted by industry pioneers to deliver results.
+Our team combines technical expertise with deep industry knowledge to simplify safe harboring and help you achieve your goals.
+FREE DOWNLOAD
+Derisk your battery storage site with a US-Based BMS
+A US-based Battery Management System (BMS) ensures safety, reliability, and compliance with domestic standards, offering real-time monitoring and optimized performance. FlexGen has developed a BMS solution that protects energy assets while advancing America’s energy independence. Download our whitepaper to learn more.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.flexgen.com/services/lifecycle-services
+
+Partners for the lifecycle of your battery assets
+Lifecycle Solutions enable you to succeed in the energy transition. We optimize your system operations, guarantee its performance, and ensure long-term reliability of your assets.
+Talk to an expert
+Learn about how we can help your batteries on with 98% availability
+Guaranteed optimal battery performance
+FlexGen provides our customers with the peace of mind they need to focus on making their storage assets productive.
+Broad experience across multiple regions
+From market entry strategies to market participation optimization, FlexGen’s expertise can help streamline energy storage operations and capture revenue.
+The premier operating system for battery energy storage
+The management of all our sites is fueled by our suite of HybridOS™ software
+
+--------------------------------------------------------------------------------
+
+URL: https://www.flexgen.com/services/activation-services
+
+Expert support for all aspects of your hardware installations
+The integration of energy storage equipment, battery testing, HybridOS™ Energy Management Software, commissioning of the project site, and training of client team, rests with FlexGen.
+Talk to an expert
+Learn about how we can get your site online 90 days faster with our Activation Services
+The most flexible partner in battery storage
+With deep history and expertise, FlexGen offers a complete end-to-end solution.
+Hardware expertise across the industry
+We collaborate with top energy storage hardware providers, working with major players to configure battery and PCS combinations that prioritize safety while meeting your specific requirements.
+
+--------------------------------------------------------------------------------
+
+URL: https://flexgen.com/careers
+
+Careers
+Join our team
+Why work at FlexGen?
+At FlexGen, we prioritize your well-being and success. Enjoy a supportive work environment with flexible hours, unlimited PTO, and opportunities for growth.
+We offer full-time employees medical, dental, and vision benefits, educational assistance, performance-based bonuses, and a 401k company match.
+Join us to power the future of energy while maintaining a healthy work-life balance!
+
+--------------------------------------------------------------------------------
+
+URL: https://flexgen.com/contact-us
+
+Let's Chat Contact Us Leverage our expertise to deliver a safe and tailored energy storage solution. Schedule a demo today.
+
+--------------------------------------------------------------------------------
+
+URL: https://flexgen.com/get-a-quote
+
+Software to control your battery assets
+Monitor the state of health of your battery assets
+Enhanced security, supply chain resilience, and superior performance
+Services to get your site energized with fast commissioning
+Hands-on service to maximize the life of your energy storage assets
+Maximize energy efficiency both in-front of and behind the meter
+Maximize energy storage performance by upgrading your EMS
+Supply chain management, regulatory compliance, ITC, cybersecurity and more
+The latest industry news, updates and info. Media inquiries
+Exclusive FlexGen webinars, white papers, and case studies
+Latest media coverage featuring FlexGen’s technology, leadership, and impact.
+Compare availability scenarios in different markets for impact visibility
+Phone:855-327-5674
+Email:sales@flexgen.com
+HQ Office280 S. Mangum Street, Ste. 150, Durham, NC 27701
+Office:302 E. Atlantic Ave., Suite 2B, Delray Beach, FL 33483
+Innovation Lab:2175 Presidential Dr., Ste. 100, Durham, NC 27703
+
+--------------------------------------------------------------------------------

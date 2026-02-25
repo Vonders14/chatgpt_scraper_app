@@ -1,0 +1,532 @@
+ROOT: https://inergytek.com/
+SCRAPED_AT_UTC: 2026-02-11T20:14:45.162949Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://inergytek.com/
+
+Your Cart is Empty
+Taxes and shipping calculated at checkout
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+the most durable, versatile, portable power station in its class.
+Distilling extensive research and development through multiple projects with the U.S. Air Force and U.S. Army, we bring to you the Flex Tactical Power Station.
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/pages/about-us
+
+Even when you do not have anything, you still need power to live (for
+cooking, warmth, light - many things). Access to portable solar power
+fulfills these basic needs.
+Harnessing the everlasting power of the sun provides power for your
+future needs (wherever you are) without having to replenish fuel
+sources, worry about fuel costs, or rely on the grid.
+Inergy began as an idea between a few passionate individuals, but that
+passion soon turned into a brand leading the renewable power revolution.
+Unlike other clean-tech companies that take a “top-down” approach to
+renewable power generation via large-scale projects, we aim to
+democratize solar power with our innovative portable solar consumer
+products.
+The crowd has spoken, and they love Inergy products! Learn about our successful Indiegogo campaigns below:
+The Kodiak - Off Grid Home Solar System In A Box
+The American power grid was largely built after World War II from designs
+dating back to Thomas Edison. This aging infrastructure causes an
+average of 15 million households to experience extended blackouts
+annually in the US.
+To address this issue, we launched the Kodiak Solar Generator in our 2015 Indiegogo campaign - the world's lightest weight and most expandable generator.
+Raptor Pro - Solar Powered Quick Charger
+Cell phones & other portable electronic devices have spread across the
+globe, yet often people in developing countries lack reliable
+infrastructure to power them.
+During our successful Indiegogo campaign,
+for every 10 units sold, we donated 1 to charity (selected by
+our backers). In fact, we pre-funded the charity pool with 100 units of
+the Raptor Pro to lead the charitable giving
+Power
+can be the difference between being just plain stuck and becoming the
+best version of ourselves. Power is progress. Power connects. Power is
+health.Power is life.
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/products/flex-tactical-1500
+
+The Flex Tactical is Inergy's toughest power station to-date. Built in compliance with numerous military standards, it can handle extremes far beyond other power stations in its class. Take advantage of our Holiday sale to secure your Flex Tactical at one of our lowest prices ever!
+An integrated battery heater allows the system to perform in ambient temperatures as low as -22°F without reduced performance.
+Inergy has partnered with EMP SHIELD® Inc. to bring military-grade EMP protection to the Flex Tactical. Using the EMP SHIELD® AC and DC Protection Modules in conjunction with the Flex Tactical 1500 earth ground, you safeguard your system and connected devices from EMPs, solar flares, and lightning strikes.
+A - (6) 115VAC 60Hz grounded outlets*
+B - (2) 65W USB-C ports with PD and QC 3.0
+C - (2) USB-A ports with QC 3.0
+D - (2) 5.5x2.5mm DC outputs for Basecamp LEDs
+E - (2) 15A cigarette lighter ports with 13.8V regulated DC output (20A max combined DC output)
+F - Console LCD display with impact shield
+G - DC power button
+H - AC power button
+I - Battery LCD display with impact shield
+J - Battery LCD power button
+K - EC8 14-90VDC charge input port
+L - 5.5x2.5mm charger input
+M - Reinforced 1,500lb latches
+N - Cooling outlet vents
+O - Composite skid plate
+P - Earth ground connection stud
+If you’re looking for a power station to use in extreme environments, or you just want a military-spec power station, the Flex Tactical is for you. The Flex Tactical has many features and protections not found in any of our other systems.
+The first Flex Tactical orders will begin shipping in May, with subsequent orders shipping in June. We've secured the major components and don't expect any part shortages or delays.
+We designed the Flex Tactical for heavy-duty use in extreme environments. Use this power station to power your adventure equipment, or even your devices and appliances at home when the grid goes down.
+Yes! The pure sine wave inverter is designed to provide up to 80% of a single Flex Battery's capacity at a continuous 1,500-watt discharge under normal operating conditions before shutting down to protect the batteries and the inverter. As with any lithium battery, regularly drawing the maximum output continuously will affect the life of your Flex Batteries, but the power is there!
+Yes! You can use our EC8-to-MC4 adapter to connect third-party arrays in parallel, series-parallel, or series arrangements (as long as you don’t exceed 90VOC/30A max input).
+Not all lithium battery cells are equal. Some manufacturers use cheap cells, with very few safety features. The cells we use in our Inergy battery designs go through an extensive 3rd-party testing process, and we tightly control our sources. Li-LFP and Li-NMC batteries are required to pass the same safety standards just to be able to ship them.
+We don't change battery manufacturers often OR lightly, with any changes we make going through our FULL re-certification and validation process. Our batteries contain a wide array of protections, from the cell level to the BMS (battery management system). Our batteries are some of the safest on the market, thanks to our in-house, proprietary, USA-designed BMS and batteries.
+These days, almost every EV car and truck uses Li-NMC. It just isn't possible to get the range consumers demand from Li-LFP batteries. This caused a rapid advancement of Li-NMC safety technology across the market to meet the needs of the automotive world. Being a portable system, the Flex Tactical makes use of high-density Li-NMC chemistry to achieve some of the most energy-dense batteries on the market. Other chemistries such as Li-LFP and lead-acid/AGM are much heavier, much larger, and (in the case of Li-LFP) more expensive. Li-LFP does have its advantages, especially in permanent DIY installations or rapid charge/discharge applications. They offer higher cycle life counts and have some enhanced safety by volume, but are usually not ideal for portable solutions due to the extra weight and space needed for these benefits. In fact, many manufacturers use Li-LFP in order to loosen their safety standards, meeting the same requirements of Li-NMC batteries but not exceeding them. Li-NMC offers the highest energy density and, with the Flex system's advanced safety features, is lighter and more compact than other battery chemistries without sacrificing safety.
+Yes! You can charge your Flex Tactical system from grid AC power, solar panel arrays, and even your vehicle's cigarette lighter port simultaneously (with accessories as required).
+The Flex Tactical is backwards-compatible with our standard Flex modules, with some exceptions (due to the latch system changes). Regular Flex modules can attach to the bottom of your Flex Tactical system and latch together, but Tactical modules cannot latch to regular Flex modules. They'll work together, but you won't be able to transport them together as a single unit like this. For instance, you canattach regular Flex batteries to the bottom of a Flex Tactical system and they'll latch together, but you cannot latch a regular Flex power console to Flex Tactical batteries, preventing carrying/transportation. However, the Flex Tactical features are unique to the Tactical modules, so using regular Flex modules may affect/disable some features of the Tactical system (such as IP52 dust/water protection).
+For more advanced/permanent applications, the earth ground connection gives you the option to connect your Flex Tactical system to an earth ground (buried metal pipe, grounding rod, etc.), providing a true earth ground to your AC and DC outlets. This grounding also provides enhanced EMP, EMC, and surge protection to your Flex Tactical system. We suggest you use a 10AWG wire when using this connection.
+California Residents WARNING: Cancer and Reproductive Harm. www.p65warnings.ca.gov
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/products/flex-tactical-1kwh-battery
+
+Winning a TACFI Contract from the U.S. Air Force: Inergy has been awarded a $1.83 million TACFI (Tactical Funding Increase) contract by the U.S. Air Force. The final deliverables under this contract will include comprehensive testing results, formal MIL-STD certifications and a robust manufacturing plan to introduce all new U.S. assembled and U.S. manufactured tactical product lines.
+Establishing a partnership with Ultion: In line with our commitment to producing high quality USA products, Inergy has partnered with Ultion to launch USA-assembled power stations. This collaboration enhances Inergy's capacity to meet the Department of Defense's requirements while also introducing new American assembled and manufactured product lines to consumers.
+These exciting developments, along with the pause on direct-to-consumer sales, will allow Inergy to prioritize fulfilling existing pre-orders while making a strategic shift to U.S.-based assembly and manufacturing. This decision reflects our commitment to our existing customers and our patriotic vision to continue making American products for military and civilian use.
+You can feel as confident as the U.S. Military when it comes to powering the essentials in your life.
+Feel ready for anything by having multiple charge sources available when the grid goes down.
+An integrated battery heater allows the system to perform in ambient temperatures as low as -22°F without reduced performance.
+Inergy has partnered with EMP SHIELD® Inc. to bring military-grade EMP protection to the Flex Tactical. Using the EMP SHIELD® AC and DC Protection Modules in conjunction with the Flex Tactical 1500 earth ground, you safeguard your system and connected devices from EMPs, solar flares, and lightning strikes. (EMP SHIELD modules sold separately)
+A - (6) 115VAC 60Hz grounded outlets*
+B - (2) 65W USB-C ports with PD and QC 3.0
+C - (2) USB-A ports with QC 3.0
+D - (2) 5.5x2.5mm DC outputs for Basecamp LEDs
+E - (2) 15A cigarette lighter ports with 13.8V regulated DC output (20A max combined DC output)
+F - Console LCD display with impact shield
+G - DC power button
+H - AC power button
+I - Battery LCD display with impact shield
+J - Battery LCD power button
+K - EC8 14-90VDC charge input port
+L - 5.5x2.5mm charger input
+M - Reinforced 1,500lb latches
+N - Cooling outlet vents
+O - Composite skid plate
+P - Earth ground connection stud
+If your Flex was already on the same WiFi, simply power it off and on to update automatically.
+If you’re looking for a power station to use in extreme environments, or you just want a military-spec power station, the Flex Tactical is for you. The Flex Tactical has many features and protections not found in any of our other systems.
+We designed the Flex Tactical for heavy-duty use in extreme environments. Use this power station to power your adventure equipment, or even your devices and appliances at home when the grid goes down.
+Yes! The pure sine wave inverter is designed to provide up to 80% of a single Flex Battery's capacity at a continuous 1,500-watt discharge under normal operating conditions before shutting down to protect the batteries and the inverter. As with any lithium battery, regularly drawing the maximum output continuously will affect the life of your Flex Batteries, but the power is there!
+Yes! You can use our EC8-to-MC4 adapter to connect third-party arrays in parallel, series-parallel, or series arrangements (as long as you don’t exceed 90VOC/30A max input).
+Not all lithium battery cells are equal. Some manufacturers use cheap cells, with very few safety features. The cells we use in our Inergy battery designs go through an extensive 3rd-party testing process, and we tightly control our sources. Li-LFP and Li-NMC batteries are required to pass the same safety standards just to be able to ship them.
+We don't change battery manufacturers often OR lightly, with any changes we make going through our FULL re-certification and validation process. Our batteries contain a wide array of protections, from the cell level to the BMS (battery management system). Our batteries are some of the safest on the market, thanks to our in-house, proprietary, USA-designed BMS and batteries.
+These days, almost every EV car and truck uses Li-NMC. It just isn't possible to get the range consumers demand from Li-LFP batteries. This caused a rapid advancement of Li-NMC safety technology across the market to meet the needs of the automotive world. Being a portable system, the Flex Tactical makes use of high-density Li-NMC chemistry to achieve some of the most energy-dense batteries on the market. Other chemistries such as Li-LFP and lead-acid/AGM are much heavier, much larger, and (in the case of Li-LFP) more expensive. Li-LFP does have its advantages, especially in permanent DIY installations or rapid charge/discharge applications. They offer higher cycle life counts and have some enhanced safety by volume, but are usually not ideal for portable solutions due to the extra weight and space needed for these benefits. In fact, many manufacturers use Li-LFP in order to loosen their safety standards, meeting the same requirements of Li-NMC batteries but not exceeding them. Li-NMC offers the highest energy density and, with the Flex system's advanced safety features, is lighter and more compact than other battery chemistries without sacrificing safety.
+Yes! You can charge your Flex Tactical system from grid AC power, solar panel arrays, and even your vehicle's cigarette lighter port simultaneously (with accessories as required).
+The Flex Tactical is backwards-compatible with our standard Flex modules, with some exceptions (due to the latch system changes). Regular Flex modules can attach to the bottom of your Flex Tactical system and latch together, but Tactical modules cannot latch to regular Flex modules. They'll work together, but you won't be able to transport them together as a single unit like this. For instance, you canattach regular Flex batteries to the bottom of a Flex Tactical system and they'll latch together, but you cannot latch a regular Flex power console to Flex Tactical batteries, preventing carrying/transportation. However, the Flex Tactical features are unique to the Tactical modules, so using regular Flex modules may affect/disable some features of the Tactical system (such as IP52 dust/water protection).
+For more advanced/permanent applications, the earth ground connection gives you the option to connect your Flex Tactical system to an earth ground (buried metal pipe, grounding rod, etc.), providing a true earth ground to your AC and DC outlets. This grounding also provides enhanced EMP, EMC, and surge protection to your Flex Tactical system. We suggest you use a 10AWG wire when using this connection.
+California Residents WARNING: Cancer and Reproductive Harm. www.p65warnings.ca.gov
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/collections/emp-shield
+
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/products/flex-1500-power-station
+
+Winning a TACFI Contract from the U.S. Air Force: Inergy has been awarded a $1.83 million TACFI (Tactical Funding Increase) contract by the U.S. Air Force. The final deliverables under this contract will include comprehensive testing results, formal MIL-STD certifications and a robust manufacturing plan to introduce all new U.S. assembled and U.S. manufactured tactical product lines.
+Establishing a partnership with Ultion: In line with our commitment to producing high quality USA products, Inergy has partnered with Ultion to launch USA-assembled power stations. This collaboration enhances Inergy's capacity to meet the Department of Defense's requirements while also introducing new American assembled and manufactured product lines to consumers.
+These exciting developments, along with the pause on direct-to-consumer sales, will allow Inergy to prioritize fulfilling existing pre-orders while making a strategic shift to U.S.-based assembly and manufacturing. This decision reflects our commitment to our existing customers and our patriotic vision to continue making American products for military and civilian use.
+You can feel confident when it comes to powering the essentials in your life.
+Feel ready for anything by having multiple charge sources available when the grid goes down.
+If you’re looking for a power station to use in extreme environments, or you just want a military-spec power station, the Flex Tactical is for you. The Flex Tactical has many features and protections not found in any of our other systems.
+We designed the Flex Tactical for heavy-duty use in extreme environments. Use this power station to power your adventure equipment, or even your devices and appliances at home when the grid goes down.
+Yes! The pure sine wave inverter is designed to provide up to 80% of a single Flex Battery's capacity at a continuous 1,500-watt discharge under normal operating conditions before shutting down to protect the batteries and the inverter. As with any lithium battery, regularly drawing the maximum output continuously will affect the life of your Flex Batteries, but the power is there!
+Yes! You can use our EC8-to-MC4 adapter to connect third-party arrays in parallel, series-parallel, or series arrangements (as long as you don’t exceed 90VOC/30A max input).
+Not all lithium battery cells are equal. Some manufacturers use cheap cells, with very few safety features. The cells we use in our Inergy battery designs go through an extensive 3rd-party testing process, and we tightly control our sources. Li-LFP and Li-NMC batteries are required to pass the same safety standards just to be able to ship them.
+We don't change battery manufacturers often OR lightly, with any changes we make going through our FULL re-certification and validation process. Our batteries contain a wide array of protections, from the cell level to the BMS (battery management system). Our batteries are some of the safest on the market, thanks to our in-house, proprietary, USA-designed BMS and batteries.
+These days, almost every EV car and truck uses Li-NMC. It just isn't possible to get the range consumers demand from Li-LFP batteries. This caused a rapid advancement of Li-NMC safety technology across the market to meet the needs of the automotive world. Being a portable system, the Flex Tactical makes use of high-density Li-NMC chemistry to achieve some of the most energy-dense batteries on the market. Other chemistries such as Li-LFP and lead-acid/AGM are much heavier, much larger, and (in the case of Li-LFP) more expensive. Li-LFP does have its advantages, especially in permanent DIY installations or rapid charge/discharge applications. They offer higher cycle life counts and have some enhanced safety by volume, but are usually not ideal for portable solutions due to the extra weight and space needed for these benefits. In fact, many manufacturers use Li-LFP in order to loosen their safety standards, meeting the same requirements of Li-NMC batteries but not exceeding them. Li-NMC offers the highest energy density and, with the Flex system's advanced safety features, is lighter and more compact than other battery chemistries without sacrificing safety.
+Yes! You can charge your Flex Tactical system from grid AC power, solar panel arrays, and even your vehicle's cigarette lighter port simultaneously (with accessories as required).
+The Flex Tactical is backwards-compatible with our standard Flex modules, with some exceptions (due to the latch system changes). Regular Flex modules can attach to the bottom of your Flex Tactical system and latch together, but Tactical modules cannot latch to regular Flex modules. They'll work together, but you won't be able to transport them together as a single unit like this. For instance, you canattach regular Flex batteries to the bottom of a Flex Tactical system and they'll latch together, but you cannot latch a regular Flex power console to Flex Tactical batteries, preventing carrying/transportation. However, the Flex Tactical features are unique to the Tactical modules, so using regular Flex modules may affect/disable some features of the Tactical system (such as IP52 dust/water protection).
+For more advanced/permanent applications, the earth ground connection gives you the option to connect your Flex Tactical system to an earth ground (buried metal pipe, grounding rod, etc.), providing a true earth ground to your AC and DC outlets. This grounding also provides enhanced EMP, EMC, and surge protection to your Flex Tactical system. We suggest you use a 10AWG wire when using this connection.
+California Residents WARNING: Cancer and Reproductive Harm. www.p65warnings.ca.gov
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/products/flex-battery
+
+Winning a TACFI Contract from the U.S. Air Force: Inergy has been awarded a $1.83 million TACFI (Tactical Funding Increase) contract by the U.S. Air Force. The final deliverables under this contract will include comprehensive testing results, formal MIL-STD certifications and a robust manufacturing plan to introduce all new U.S. assembled and U.S. manufactured tactical product lines.
+Establishing a partnership with Ultion: In line with our commitment to producing high quality USA products, Inergy has partnered with Ultion to launch USA-assembled power stations. This collaboration enhances Inergy's capacity to meet the Department of Defense's requirements while also introducing new American assembled and manufactured product lines to consumers.
+These exciting developments, along with the pause on direct-to-consumer sales, will allow Inergy to prioritize fulfilling existing pre-orders while making a strategic shift to U.S.-based assembly and manufacturing. This decision reflects our commitment to our existing customers and our patriotic vision to continue making American products for military and civilian use.
+You can feel confident when it comes to powering the essentials in your life.
+Feel ready for anything by having multiple charge sources available when the grid goes down.
+If you’re looking for a power station to use in extreme environments, or you just want a military-spec power station, the Flex Tactical is for you. The Flex Tactical has many features and protections not found in any of our other systems.
+We designed the Flex Tactical for heavy-duty use in extreme environments. Use this power station to power your adventure equipment, or even your devices and appliances at home when the grid goes down.
+Yes! The pure sine wave inverter is designed to provide up to 80% of a single Flex Battery's capacity at a continuous 1,500-watt discharge under normal operating conditions before shutting down to protect the batteries and the inverter. As with any lithium battery, regularly drawing the maximum output continuously will affect the life of your Flex Batteries, but the power is there!
+Yes! You can use our EC8-to-MC4 adapter to connect third-party arrays in parallel, series-parallel, or series arrangements (as long as you don’t exceed 90VOC/30A max input).
+Not all lithium battery cells are equal. Some manufacturers use cheap cells, with very few safety features. The cells we use in our Inergy battery designs go through an extensive 3rd-party testing process, and we tightly control our sources. Li-LFP and Li-NMC batteries are required to pass the same safety standards just to be able to ship them.
+We don't change battery manufacturers often OR lightly, with any changes we make going through our FULL re-certification and validation process. Our batteries contain a wide array of protections, from the cell level to the BMS (battery management system). Our batteries are some of the safest on the market, thanks to our in-house, proprietary, USA-designed BMS and batteries.
+These days, almost every EV car and truck uses Li-NMC. It just isn't possible to get the range consumers demand from Li-LFP batteries. This caused a rapid advancement of Li-NMC safety technology across the market to meet the needs of the automotive world. Being a portable system, the Flex Tactical makes use of high-density Li-NMC chemistry to achieve some of the most energy-dense batteries on the market. Other chemistries such as Li-LFP and lead-acid/AGM are much heavier, much larger, and (in the case of Li-LFP) more expensive. Li-LFP does have its advantages, especially in permanent DIY installations or rapid charge/discharge applications. They offer higher cycle life counts and have some enhanced safety by volume, but are usually not ideal for portable solutions due to the extra weight and space needed for these benefits. In fact, many manufacturers use Li-LFP in order to loosen their safety standards, meeting the same requirements of Li-NMC batteries but not exceeding them. Li-NMC offers the highest energy density and, with the Flex system's advanced safety features, is lighter and more compact than other battery chemistries without sacrificing safety.
+Yes! You can charge your Flex Tactical system from grid AC power, solar panel arrays, and even your vehicle's cigarette lighter port simultaneously (with accessories as required).
+The Flex Tactical is backwards-compatible with our standard Flex modules, with some exceptions (due to the latch system changes). Regular Flex modules can attach to the bottom of your Flex Tactical system and latch together, but Tactical modules cannot latch to regular Flex modules. They'll work together, but you won't be able to transport them together as a single unit like this. For instance, you canattach regular Flex batteries to the bottom of a Flex Tactical system and they'll latch together, but you cannot latch a regular Flex power console to Flex Tactical batteries, preventing carrying/transportation. However, the Flex Tactical features are unique to the Tactical modules, so using regular Flex modules may affect/disable some features of the Tactical system (such as IP52 dust/water protection).
+For more advanced/permanent applications, the earth ground connection gives you the option to connect your Flex Tactical system to an earth ground (buried metal pipe, grounding rod, etc.), providing a true earth ground to your AC and DC outlets. This grounding also provides enhanced EMP, EMC, and surge protection to your Flex Tactical system. We suggest you use a 10AWG wire when using this connection.
+California Residents WARNING: Cancer and Reproductive Harm. www.p65warnings.ca.gov
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/collections/accessories
+
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/collections/chargers
+
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/collections/adapters
+
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/collections/12v-accessories
+
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/collections/cables
+
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/collections/solar-panels
+
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/products/flexp3
+
+Stop worrying about power outages and start feeling ready for anything with the Flex P³, your Personal Power Plant. The P³ has enough power to run even the most demanding appliances like air conditioners, well pumps, refrigerators, freezers, furnaces, power tools, washing machines, dryers and more.
+Introducing 𝙁𝙡𝙚𝙭𝗚𝗮𝗡™. Inergy's proprietary, ultra-high efficiency power technology, enabling the best size and weight to power ratio yet. The Flex P³ ecosystem allows you to easily grab a few modules and take them to go.
+Use Inergy's proprietary smart micro-grid technology to combine multiple P³ stacks to meet the power needs of almost any home.
+For modular, compact, portable, individual power.
+For whole-home power that's modular, portable and starts at less than $5,000.
+For stationary all-in-one home power.
+The Flex P³'s 𝙁𝙡𝙚𝙭𝗚𝗮𝗡™ 3600W (expandable up to 7200W per stack) Continuous Split-Phase 120/240VAC technology can power some of your homes most power hungry appliances like air conditions, well pumps, furnace fans, and much more.
+The full Flex P³ system can detect an outage, disconnect from the grid, and automatically restore power to your home in a fraction of a second. You will not even notice that the power went out. Your lights and appliances will continue to run without interruption.
+If you have solar and Flex P³, then solar energy will continue to power your home and recharge Flex P³. Without Flex P³, solar will shut down during an outage.
+We estimate how long your home will stay powered during an outage based on your indicated home size and the appliances you elect to back up, derived from national data. With solar, your Flex P³ charge will deplete only when your home energy usage exceeds your solar power production. We cap our estimate at 7 days to account for the occasional cloudy day that may impact solar production.
+Your final design and pricing will be based on your electrical panel, home energy usage, number of solar panels and number of Flex P³ batteries. A basic setup ranges from $3,500 to $4,500. This does not include solar installation, electrical upgrades (if necessary), taxes, permit fees, or any retailer / connection charges that may apply.
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/pages/support
+
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+If your Flex was already on the same WiFi, simply power it off and on to update automatically.
+Please complete THIS FORM and we'll process your damage claim.
+All damage claims MUST be submitted to Inergy within 21 days of delivery of item for us to process the claim.
+The Flex EMP Shield devices (AC Protection Module and DC Protection Module) are electromagnetic pulse, solar flare, and lightning protection systems designed to exceed the requirements of MIL-STD-188-125-1 for shunting over-voltage spikes. The AC and DC Flex EMP Shields protection devices protect the Inergy Flex Modular System from EMP events.
+The Flex EMP Shields are 100% manufactured in the U.S.A. by EMP Shield, the universally recognized global leader in EMP protection technology. Inergy has partnered with EMP Shield to present the Flex EMP Shields, the only EMP protection devices designed for portable solar power stations (aka solar generators).
+Built to exceed military standards (MIL-STD-188-125-1), EMP Shield pulls excess electricity from the electrical system in less than 500 trillionths of a second.
+EMP Shield is designed to protect an entire system from Lightning, CME (coronal mass ejection, power surges, and an EMP (electromagnetic pulse). Proven and tested at Keystone Compliance, a federally approved Department of Defense (DOD) testing facility, the EMP Shield technology was struck with over 40 EMP strikes with no impact to the device.
+MIL-STD-188-125-1 requires that the overvoltage spike from the E1 spike begin shunting 5,000 Amps within 20 nanoseconds. All EMP Shield models start shunting overvoltage in 500 trillionths of a second. EMP Shield is also designed to continue protecting through the expected durations of the E2 and E3 spikes produced by a high-altitude electromagnetic pulse.
+EMP Shield has also been tested to all other military EMP Standards. EMP Shield devices are also UL 1449 compliant and have been tested at Intertek.
+The EMP Shield can see and protect all the electronics and equipment connected to an electrical system.
+This is accomplished by shunting (shorting) the overvoltage coming in from the grid or from solar panels attached to your portable power station.
+Whether the electrons are collected within your electrical system or are attempting to come into your electrical system from an outside source, the EMP Shield will see the surge and protect your electrical system. Since the shunting is completed incredibly fast (500 trillionths of a second), the overvoltage is pulled away from your equipment before the voltage can rise high enough to damage it. EMP Shield calls this new technology SightSpeed™, and it ensures no heat is generated within the electrical system, protecting all electronics connected to the system.
+A nuclear EMP is defined as having three distinct pulses of voltage/current. The E-1 pulse is caused by the gamma rays released during the nuclear reaction. The gamma rays interact with the electrons and the nucleus of the atoms that make up the atmosphere, and this interaction results in freeing electrons from their atoms. The free electrons ionize the atmosphere (ionization results in electron flow), which can be seen as the flow of electricity through anything that acts as an antenna. All of the wires that make up your solar generator and the PV array attached to it, not to mention our nations’ electrical grid, make an excellent antenna, which will produce an overvoltage condition throughout the affected area. In an optimally positioned nuclear detonation (approximately 300 miles high and over the center of the US), the entire nation will be affected by the E-1 pulse. The E-1 pulse starts at the time of the detonation of the weapon and continues until 1 microsecond after the detonation.
+The E-2 pulse starts at 1 microsecond and continues until approximately 1 second after the detonation. The E-2 pulse is caused by the inelastic scattering (matter bouncing off other matter) of the matter from the nuclear weapon interacting with the matter that makes up the atmosphere, continuing the ionization of the atmosphere.
+The E-3 pulse starts at approximately 1 second after the detonation and can continue for several minutes. The E-3 pulse is caused by the nuclear detonation distorting the earth’s geomagnetic structure, and then its reconfiguration. As the magnetic lines are pushed out of configuration and then come back into normal configuration, electricity is generated, and flows through the atmosphere until it contacts an antenna (wires).
+The antenna that is most affected will be the nation’s power grid, but all arrays of wiring (even in your house or portable power station) will act as large or small antennas and will produce the flow of electricity and overvoltage conditions.
+Yes. Specifically the Flex DC EMP Shield will protect solar power systems with maximum input voltages of 90V or lower. If you have questions about whether the Flex DC EMP Shield will protect your portable or permanent solar panel array, send us an email at support@inergysolar.com or give us a call at 877-891-2657.
+No. The Flex AC EMP Shield installs simply by plugging it into one of the AC outputs on your power station.
+The Flex DC installs simply between your solar panel array and the blue EC8 input on the Flex 1500 power station.
+The Flex EMP Shield devices are each covered by EMP Shield’s industry-leading warranty for a full 10-year limited lifetime-of-the-product warranty with $50 lifetime replacement, and also backed by a $25,000 lightning and EMP protection insurance policy.
+Inergy and EMP Shield offer a 14-day no-questions-asked return policy. After 14 days, there will be a $50 restocking fee. After 30 days there will be a $100 fee for returned items. This return policy applies only to the Flex EMP Shield devices.
+No. The Flex EMP Shield was designed specifically for the Flex Modular System and EMP Shield warrants them for use only with the Flex Modular System. Generally, EMP Shield-branded devices are designed to protect the electrical systems to which they are connected that operate within a very specific voltage range. We feel lucky to have such a close relationship with the team at EMP Shield, and our companies just fit each other so well. Right now the Flex Modular System is the only solar powered battery or solar generator with complete EMP protection while in use or while in storage.
+Unfortunately no, the Supercharger is designed specifically for the Flex modular platform and cannot be used with the Apex or Kodiak power stations.
+14" x 8" x 4.2"
+14" x 8" x 4.7"
+1,069Wh nominal
+The Flex Modular System is a portable system. Other chemistries like LFP or lead acid / AGM are much heavier, much larger, and in the case of LFP, more expensive. LFP does have its advantages, especially in permanent DIY installations or when being used to power RVs, but they are not ideal for portable solutions. Lithium NMC offers the highest power density and with the Flex Battery’s advanced safety features, is lighter and more compact than other battery chemistries without sacrificing safety.
+No; you’ll have to purchase the Flex Battery-to-Ring Terminal Adapter Cable separately.
+Short answer: Depending on how you build your Modular System, faster than any comparable system, ever.
+The Flex Power Consoles’ on-board MPPT charge controller is rated for 14-90V of solar input, which gives you more options for solar panels in either parallel or series configurations. You will be able to charge one Flex Battery from 0 to 100% in about 3½ hours.
+If you want to boost your solar charging ability beyond this, you can connect the Flex MPPT Supercharger, which includes two advanced maximum power point tracking (MPPT) charge controllers with up to 90V of solar charge input each, so it gives you more options and charges faster using solar panels—you can charge one Flex Battery from 0 to 100% in as little as 1 hour. You will love the freedom of capturing clean, unlimited power from the sun whenever you need it.
+The Flex Modular Platform is designed to be completely plug and play. To connect the Flex MPPT Supercharger to the Flex 1500 or Flex DC Power Stations, simply add the Supercharger anywhere in your stack. The auto-lock system takes care of the rest. It takes only seconds to triple your system's solar charge rate.
+For every Flex Battery you add to your system, you can also add another MPPT Supercharger to maintain a rapid charge time. If you added five Flex Batteries in pairs with five Flex MPPT Superchargers, your entire 6,414Wh system could still charge in only an hour and a half.
+Before connecting six or more MPPT Superchargers, please consult with an Inergy Support Specialist at 877-891-2657.
+Yes, you can use our EC8-to-MC4 adapter to do so. You can connect in either parallel or series (as long as you don’t exceed 90V max input).
+No, but you can expand the battery capacity with the Flex Battery, almost infinitely.
+No; the Flex Modular Power Platform only supports Flex Batteries due to the communication requirements resulting from interfacing with the Kodiak, Apex, and Flex Power Stations. No third-party batteries of any type will function with the system.
+You can connect up to 96 Flex Batteries for up to 102 kiloWatt hours of storage capacity.
+The system has a 1500-Watt continuous (3,000-Watt surge) pure sine wave inverter.
+Yes! Our customers spoke and we listened. The Flex 1500 pure sine wave inverter is designed to output up to 80% of battery capacity at 1,500-Watt discharge under normal operating conditions before shutting down to protect the batteries and the inverter. As with any battery, drawing the maximum output continuously will affect the cycle life of your Flex Batteries, but the choice is yours.
+Yes. The Flex Battery will nearly double your storage capacity with 1,069 Watt-hours of additional capacity. If you want, you could connect up to 96 Flex Batteries to one Kodiak or Apex for a ludicrous amount of battery capacity.
+The Flex Battery is plug and play, requiring no manual Voltage balancing. It can detect the state of charge of your Kodiak, Apex or additional Flex Battery, and decide whether the partner battery is too low and needs to be charged. If the partner battery is too low, the Flex Battery will automatically charge it to a safe Voltage range, at which point it will automatically connect to the partner battery and work as one large battery bank.
+This is worth mentioning once more. You can connect up to 96 Flex Batteries (approximately 102 kWh) to one Flex 1500 Power Station or Flex DC Power Station (or to an Apex or Kodiak) and enjoy the same plug-and-play functionality.
+The Flex Battery will connect to the Apex or Kodiak with the Flex Battery-to-Ring Terminal Adapter Cable, which is sold separately.
+No. The Flex Battery can detect the state of charge of your Kodiak, Apex or additional Flex Battery, and decide whether the partner battery is too low and needs to be charged. If the partner battery is too low, the Flex Battery will automatically charge it to a safe Voltage range, at which point it will automatically connect to the partner battery and work as one large battery bank.
+Yes. All three work with the Flex platform.
+Yes you can charge each lithium expansion battery with the Standard Wall Charger or Car Charger.
+Yes. The MPPT Supercharger can be added to Flex batteries to provide up to 90V of solar input and a maximum charge rate of 800W.
+No, the Flex battery doesn’t include output ports.
+Storing the system at half charge ensures the longest battery life. We also recommended checking the battery level every three months.
+We listen to our customers. We have had numerous requests from our customers asking for an adapter to allow them to use their off-brand solar panels. We recommend Inergy solar panels as the safest and most efficient charging method because they use a 100-amp-rated EC8 connector system wired in parallel instead of 20-amp-rated MC4 connectors. But we understand that many of our customers have already invested in solar panels, and due to popular demand, we have decided to release an adapter to allow them to use their off-brand panels.
+No, we designed the Apex to have a long service lifespan when primary energy sources are unavailable. We engineered it specifically for people who want a lightweight, compact, and mobile power system that can go anywhere they need it. The Apex sports a powerful 1,100 Watt hour lithium ion battery. However, in the User Manual it states “1,100 Watt hours, 550 Watts discharge continuous for 2 hours”. The next FAQ will address exactly what that means.
+Lithium batteries, like EVERY kind of battery, are affected by how quickly they are both charged and discharged. The faster the battery is discharged, the less overall battery capacity you are able to access—and the fewer life cycles. Panasonic and Samsung, the world’s top two Lithium ion battery manufacturers, rate their batteries based on how quickly they are discharged. The faster you discharge them, they experience more voltage drop and loss of overall capacity.
+Think of it like driving a car on the highway. Driving at 65 mph will give you much better gas mileage than driving at 90 mph. By driving slower, you’re able to go farther on one tank of gas, and your car won’t wear out as fast! And of course it’s the same with electric cars. Tesla, the leading electric car brand, warns drivers that engaging ludicrous mode will cause accelerated wear of the battery.
+Many solar generator manufacturers simply state that under heavy use you may not get the full battery capacity. A 550 Watt discharge rate will allow you to more fully access the Apex’s 1,100 Watt hour capacity and will also help your battery last longer - up to 2,000 cycles. Remember - discharging your battery at the fastest possible rate is like driving your car at the fastest possible speed; it will wear out faster. The Apex battery can deliver up to 1,700 Watts of power at one time (AC: 1,500 Watts + DC: 200 Watts), but . . . by sticking to lower rates on a regular basis you can maximize battery capacity and enjoy a longer lifespan! That’s why we rated it that way!
+Yes. The Apex inverter contains a lightweight, compact yet powerful 1,500 Watt inverter. This inverter has a maximum 1,500 Watt output, and can surge much higher -- up to 3,000 Watts! This surge is for only a few fractions of a second when doing some very heavy lifting, like starting the compressor on a refrigerator. When operating at the maximum output of 1,500 Watts, a lot of heat is generated by both the batteries and the inverter. The Apex inverter has a temperature switch that will turn it off after several minutes at maximum output to protect the battery from excess heat and to maximize life expectancy. After cooling for several minutes, the inverter can power back up and run for longer! Overall, operating at the maximum on any product all the time will shorten its lifespan. We built many safeties into the Apex to give our customers a long lasting product that will serve their needs wherever they may be.
+The Apex’s run time for heavy loads depends on several factors, including the state of charge of the battery, the temperatures of the battery and the surrounding environment, and whether the load is AC or DC.
+For example, using a high demand power tool intermittently is much easier for the Apex than a continuous inductive load, such as a space heater or a heat gun.
+If you really need to power a continuous inductive load for an extended amount of time, you should consider a gas generator or something specifically designed to meet your power needs.
+We designed the Apex to be the lightest and most compact 1,100 Watt hour system the world has ever seen--not to be a permanent install solution.
+If you need to expand your system, unlike any other portable solar generator, the Apex does give you the option of connecting an off-brand lead-acid or absorbed glass mat (AGM) battery.
+Will it destroy your lead acid batteries? Absolutely not.
+Will it reduce their cycle life? Yes, over time.
+How quickly it reduces the cycle life depends on the battery you buy. Cycle life of lead acid or AGM batteries may be diminished over time due to several factors, such as usage, rating and quality.
+We are releasing an external lithium ion battery so customers can expand capacity with a light weight, portable 2000 lifecycle battery just like the Apex.
+No, Inergy is the only verified seller on Amazon. Also, If you make an Amazon purchase from a seller other than Inergy we can not honor the warranty.
+EC8 connectors are compact, require no tools to disconnect, are rated to handle 6 times the current demanded by the maximum charge input and are simply the safest connector available. EC8 connectors are keyed to prevent misalignment and are engineered to reduce excess heat.
+The EC8 connector is gold-plated brass. If you doubt the weather resistance of the EC8 connector, just look at your brass plumbing fixtures. On top of that, gold plating is used specifically to further enhance the connector’s resistance to corrosion.
+If you need to permanently install your panels, we recommend purchasing UV-proof and waterproof connection covers readily available online or at your local hardware store.
+Yes!
+Yes.
+Yes, however it has to be done by Inergy. Opening your Kodiak will void your warranty.
+Yes, however it has to be done by Inergy. Opening your Apex will void your warranty.
+Yes!
+Yes!
+Examples include: a refrigerator, freezer, TV, stereo, lights, microwave, grinder, mixer, blender, cell phones, computer, tablet, RV, trailer, tiny home, cabin, and so much more. Adding solar panels will extend your run times. The right sized solar panel system and external battery bank attached to your Apex or Kodiak could give you an unrestricted run time experience.
+Click here for the Kodiak User Manual.
+Click here for the Apex User Manual.
+1,500 Watt Pure Sine Wave. Max starting surge of 3,000 Watts.
+2,000 cycles or 10 years.
+The battery will hold a charge for up to a year. We recommend taking the battery out of storage every three months to top off the charge. (do not leave the unit plugged in during storage)
+No. The Apex and Kodiak system is designed to power individual appliances and devices rather than plugging into the home’s breaker panel directly. For instance, electric dryers, ovens, stoves, and water heaters all exceed the Apex's and Kodiak’s ability. However, gas ovens, stoves, dryers, and water heaters can be powered using the Apex or Kodiak – provided they have a standard 110 VAC wall plug.
+Yes. We have an optional Kodiak car charger here.
+And
+We have an optional Apex car charger here.
+Aside from the generator itself, an AC charger, shoulder strap and user guide.
+Aside from the generator itself, an AC charger, shoulder strap and user guide.
+We designed the Apex and Inergy solar panel systems to be totally plug-and-play and easy to use. Because we used high-capacity keyed EC8 connectors, you can simply plug your panels together and start charging—no diagrams, no worrying about wiring configurations.
+EC8 connectors are compact, require no tools to disconnect, are rated to handle six times the current demanded by the maximum charge input and are simply the safest connector available. EC8 connectors are keyed to prevent misalignment and are engineered to reduce excess heat.
+If one panel in a portable, mobile solar panel array is shaded from the sun by even something as minor as a power line, it can take down that entire panel. If the solar panels are not wired in parallel, that one shaded panel can take down the whole array.
+Having each panel peaked just right becomes critical. In a parallel wiring configuration, each panel contributes its best input to the overall system. In a series wiring, the worst performer acts like a governor on the other panels.
+With a parallel wiring configuration, shading or a bad connection with one panel will not affect the rest of the panels. Your system will adapt better to changing light conditions and will, in turn, charge faster.
+Small, permanent installs or mobile solar systems are often used in places where panels might get shaded from time to time.
+Also, if you wire your panels in series, it is very easy to exceed the safety guidelines of the Apex and cause severe damage to your system, and it may even create a dangerous situation. Inergy solar panels feature intuitive EC8 keyed connectors that can be wired in only the correct way. They simply won’t go together the wrong way, so you can’t damage your panels or your system.
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/blogs/power-for-life
+
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+January 23, 2025 3 min read
+After devastating fires swept through Los Angeles County, many families found themselves without power, adding to the stress of recovering from the disaster. To help, our CEO, Sean Luangrath, personally delivered portable power stations to communities hit hardest by the outages.
+September 11, 2024 1 min read
+October 09, 2023 2 min read
+August 30, 2023 1 min read
+August 21, 2023 1 min read
+August 16, 2023 2 min read
+July 24, 2023 1 min read
+February 20, 2023 3 min read
+January 24, 2023 5 min read
+January 13, 2023 4 min read
+January 06, 2023 8 min read
+We know that buying the right power station for you can be anxiety inducing. This article will arm you with the knowledge you need to reduce purchase anxiety and help you buy the system that’s right for you. Here are some things to know to help you pick your perfect power station.
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/policies/shipping-policy
+
+Your Cart is Empty
+Taxes and shipping calculated at checkout
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+If you have any questions or concerns please contact us via telephone at 1-435-660-4616 or via email support@inergytek.com
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/collections/solar-generators
+
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/collections/all-kits
+
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/pages/returns-faqs
+
+Effective on orders place on or after Thursday, March 19, 2020 until further notice.
+We stand by our products, so if your order is received defective, missing parts or damaged, we are here to assist right away. You may return or exchange your products within 30 days of receiving them. A restocking fee of 15% + return shipping cost may apply to any returned Power Station, kit, or solar panel purchase.
+Please contact us to submit your request (include order # and reason for claim).
+Shipping Damage Claims
+Missing Items/Package Claims
+Refund Policy
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/pages/contact-us
+
+Your Cart is Empty
+Taxes and shipping calculated at checkout
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+Please email support@inergytek.com or call +1-435-660-4616
+Please email sales@inergytek.com or call +1-435-660-4616
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/community/contact
+
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/pages/warranties
+
+INERGY HOLDINGS (INERGY SOLAR) LLC warrants to the original consumer purchaser that this INERGY SOLAR product will be free from defects in workmanship and material under normal consumer use during the applicable warranty period identified in Paragraph 2, below, subject to the exclusions set forth in Paragraph 6, below. This warranty statement sets forth INERGY SOLAR’s total and exclusive warranty obligation. We will not assume, nor authorize any person to assume for us, any other liability in connection with the sales of our products.
+The warranty period for all INERGY SOLAR products and components is two (2) years. In each case, the warranty period is measured starting on the date of shipment to the original consumer purchaser. The sales receipt from the first consumer purchase, or other reasonable documentary proof, is required in order to establish the start date of the warranty period. Registration at www.InergyTek.com/register is recommended not required.
+INERGY HOLDINGS (INERGY SOLAR) LLC warrants to the original consumer purchaser that this INERGY SOLAR product will be free from defects in workmanship and material under normal consumer use during the applicable warranty period identified in Paragraph 2, below, subject to the exclusions set forth in Paragraph 6, below. This warranty statement sets forth INERGY SOLAR’s total and exclusive warranty obligation. We will not assume, nor authorize any person to assume for us, any other liability in connection with the sales of our products.
+The warranty period for all INERGY SOLAR Flex Battery is ten (10) years. In each case, the warranty period is measured starting on the date of purchase by the original consumer purchaser (Flex Presale Customers May 14th - October 1st ONLY). The sales receipt from the first consumer purchase, or other reasonable documentary proof, is required in order to establish the start date of the warranty period. Registration at www.InergyTek.com/register is recommended not required.
+INERGY HOLDINGS (INERGY SOLAR) LLC warrants to the original consumer purchaser that this INERGY SOLAR product will be free from defects in workmanship and material under normal consumer use during the applicable warranty period identified in Paragraph 2, below, subject to the exclusions set forth in Paragraph 6, below. This warranty statement sets forth INERGY SOLAR’s total and exclusive warranty obligation. We will not assume, nor authorize any person to assume for us, any other liability in connection with the sales of our products.
+The warranty period for all INERGY SOLAR Flex Batteries is ten (10) years Pro-Rated. In each case, the warranty period is measured starting on the date of purchase by the original consumer purchaser (Flex Presale Customers who purchased after October 1st ONLY). The sales receipt from the first consumer purchase, or other reasonable documentary proof, is required in order to establish the start date of the warranty period. Registration at www.InergyTek.com/register is recommended not required.
+With the 10-Year Pro-Rated Battery Warranty, you still get 10 years of pro-rated coverage for your Flex Battery. What does “Pro-Rated” mean? If you use your battery every day for 2 years of the warranty period and it has just worn out, we will give you a credit for 8 years or 80 percent of the value toward a replacement Flex Battery. If it’s not abuse or neglect, we will cover your battery for the full 10 years.
+If you use your Flex Battery for 5 and it has worn out, you will get a credit for 50% of the cost of a replacement Flex Battery. If you use it for 7 years or 70% of the warranty period, you’ll get 30%, and so on.
+INERGY HOLDINGS (INERGY SOLAR) LLC warrants to the original consumer purchaser that this INERGY SOLAR product will be free from defects in workmanship and material under normal consumer use during the applicable warranty period identified in Paragraph 2, below, subject to the exclusions set forth in Paragraph 6, below. This warranty statement sets forth INERGY SOLAR’s total and exclusive warranty obligation. We will not assume, nor authorize any person to assume for us, any other liability in connection with the sales of our products.
+The warranty period for all INERGY SOLAR products and components is one (1) year. In each case, the warranty period is measured starting on the date of shipment from INERGY to the original consumer purchaser. The shipping notification email, or other reasonable documentary proof, is required in order to establish the start date of the warranty period. Registration at www.Inergytek.com/register is recommended not required.
+INERGY SOLAR warrants to the original consumer purchaser that should this INERGY SOLAR product require service (rendered only by INERGY SOLAR) on (3) three separate occasions within the products stated warranty period, the unit can be exchanged for a replacement product of comparable type, quality, and functionality at the request of the original consumer purchaser. Validation by an INERGY SOLAR technician of product failure is required prior to replacement. Your warranty remains in force for the duration of the original stated warranty period, and is in no way terminated by replacement product under this No Lemon Policy.
+INERGY SOLAR will repair or replace (at INERGY SOLAR’s option and expense) any INERGY SOLAR product that fails to operate during the applicable warranty period due to a defect in workmanship or material.
+The warranty on INERGY SOLAR’s products is limited to the original consumer purchaser and is not transferable to any subsequent owner.
+INERGY SOLAR’s warranty does not apply to (i) any product that is misused, abused, modified, damaged by accident, or used for anything other than normal consumer use as authorized in INERGY SOLAR’s then—current product literature, or (ii) any product purchased through an online auction house. INERGY SOLAR’s warranty does not apply to any battery cell or product containing a battery cell unless the battery cell is fully charged by you at least once every 6 months.
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/pages/subscribe-here
+
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+
+--------------------------------------------------------------------------------
+
+URL: https://inergytek.com/pages/referral-program
+
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+Add description, images, menus and links to your mega menu
+A column with no settings can be used as a spacer
+Link to your collections, sales and even external links
+Add up to five columns
+
+--------------------------------------------------------------------------------

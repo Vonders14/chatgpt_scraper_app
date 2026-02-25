@@ -1,0 +1,707 @@
+ROOT: https://srenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:36:51.761170Z
+PAGES_INCLUDED: 22
+
+================================================================================
+
+URL: https://srenergy.com/
+
+Powering America’s
+Energy Independence
+Powered
+Featured News
+What We Do
+Project Development
+We collaborate with companies and communities to permit and energize solar projects that use American manufacturer equipment. We drive job creation and economic growth, contributing to a more resilient and secure electric grid.
+Project Acquisition
+We are committed to advancing American energy independence by strategically deploying capital to build a stronger, more resilient energy future. Since 2017, we have secured over $5 billion in project financing, driving the development of commercial solar and battery storage projects nationwide.
+Project Finance
+We offer permanent project financing solutions to developers nationwide, backed by our dedicated in-house investment team and an efficient due diligence process that accelerates deal closures. By managing and structuring all project-level financing, we optimize the entire capital stack to meet developers' needs.
+Solutions
+Solutions
+Community
+Solar
+- Provides a more resilient and secure electric grid
+- Delivers reliable income for landowners and industrial building owners
+- Guarantees energy savings for residential and commercial customers
+- Boosts local economies with jobs and tax revenue
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/projects/
+
+Project Portfolio
+1
+kilowatt hours generated
+Our Asset Management platform is integral to our success. We retain ownership of every project we develop or acquire ensuring our commitment to performance across our entire fleet.
+Featured Projects
+Bomber
+SRE's 'Bomber' project in Hampstead, MD, is the nation's largest rooftop community solar array. Hosted on a facility owned by STAG Industrial, the system is spread across 23 acres and provides 1,300 Maryland households and businesses with solar energy savings.- Location: Hampstead, MD
+- Project size: 9,230 kWdc
+- kWh generated annually: 11,663,000
+- Carbon offset: 200,666,124 pounds of coal burned
+Somerset
+Sommerset was SRE's first project to break ground in Maine under the state's Net Energy Billing Program, which was implemented in an effort to hit the state’s Renewable Portfolio Standard goals.- Location: Pittsfield, ME
+- Project size: 6,729 kWdc
+- kWh generated annually: 8,404,000
+- Carbon offset: 1,295 cars off the road
+Brewster
+The Brewster Cheese Company's facility in Stockton, IL, is host to two SRE solar arrays. The first is a community solar project that provides savings to hundreds of homes in Illinois. The second provides power and energy savings directly to Brewster's onsite manufacturing facility.- Location: Stockton, IL
+- Project size: 5,408 kWdc
+- kWh generated annually: 7,709,104
+- Carbon offset: 614,753 gallons of gasoline consumed
+Bomber
+Somerset
+Brewster
+Unmatched industry experience, unparalleled execution
+01
+Construction
+Management
+Management
+02
+Operations and
+Maintenance
+Maintenance
+03
+Asset
+Management
+Management
+01
+Construction
+Management
+Management
+In-house industry leading team with focus on schedule, best practices and quality control.
+- Since 2017, our team has provided clean energy benefits to 50,000 homes and businesses across the United States, with nearly 200 projects under construction and operational in the Midwest, Mid-Atlantic, and New England markets
+- Annual OSHA 10 certification training for team members
+- Standardized basis of design and equipment selection enables scalability without sacrificing quality or safety
+02
+Operations and
+Maintenance
+Maintenance
+In-house analytics matched with Tier 1 O&M service providers
+- Daily monitoring of assets and weekly engagement with O&M service teams
+- Team oversees operating fleet across more than 200 projects totaling 500MWdc
+- YTD availability is 97.6%
+03
+Asset
+Management
+Management
+Strong Asset Management platform has been critical to our success.
+- In-house team onboards, operates, and audits to ensure community solar projects achieve forecasted targets
+- Team oversees more than 500MW under management
+Select Ground Mount Projects
+Morgan 2
+- Location: Murrayville, IL
+- Project size: 2,996 kWdc, MD
+- Carbon offset: 398,889,010 smart phones charged
+Dogwood
+- Location: Windsor Mill, MD
+- Project size: 3,839 kWdc
+- Carbon offset: 426,768 gallons of gasoline consumed
+Frieders
+- Location: Sandwich, IL
+- Project size: 2,900 kWdc
+- Carbon offset: 3,134,747 pounds of coal burned
+Keeversville
+- Location: Braidwood, IL
+- Project size: 2,496 kWdc
+- Carbon offset: 321,033,947 smart phones charged
+Somerset
+- Location: Pittsfield, ME
+- Project size: 6,729 kWdc
+- Carbon offset: 1,295 cars off the road
+Brewster
+- Location: Stockton, IL
+- Project size: 5,408 kWdc
+- Carbon offset: 614,753 gallons of gasoline consumed
+MO32
+- Location: Spencerville, MD
+- Project size: 2,548 kWdc
+- Carbon offset: 2,860,325 pounds of coal burned
+Select Rooftop Projects
+Bomber
+- Location: Hampstead, MD
+- Project size: 9,230 kWdc
+- Carbon offset: 200,666,124 pounds of coal burned
+Ambassador Road
+- Location: Windsor Mill, MD
+- Project size: 410 kWdc
+- Carbon offset: 953,885 miles driven by a car
+Snowden
+- Location: Columbia, MD
+- Project size: 2,597 kWdc
+- Carbon offset: 293,547,936 smart phones charged
+Days Cove
+- Location: White Marsh, MD
+- Project size: 780 kWdc
+- Carbon offset: 81,700 gallons of gasoline consumed
+Business Parkway
+- Location: Windsor Mill, MD
+- Project size: 738 kWdc
+- Carbon offset: 741,811 pounds of coal burned
+San Tomas
+- Location: Elkridge, MD
+- Project size: 1,067 kWdc
+- Carbon offset: 2,537,115 miles driven by a car
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/about/
+
+Our Team
+Executive Committee
+Leadership Team
+Chairman & Chief Executive Officer
+Steve Raeder is the Founder and Chief Executive Officer of Summit Ridge Energy, the nation’s leading commercial solar company. As head of Summit Ridge’s Executive Committee and Chairman of the Board, Steve sets the vision for the organization, directing strategic operations as well as driving the development and execution of the company’s revenue generation strategies. Prior to launching Summit Ridge in 2017, Steve served in multiple roles at SunEdison including Managing Director of Sales and General Manager of its East Coast C&I business unit where his teams developed hundreds of MWs across multiple solar markets, including pioneering work with off-site “virtual” systems that transformed the company’s business model. Steve holds a B.A. in History and Business Administration from Gettysburg College.
+Co-Founder Emeritus
+Mark Raeder was a visionary leader and Co-founder Emeritus of Summit Ridge Energy, known for his profound influence on the solar industry and his steadfast commitment to expanding energy access. Mark passed away on March 25, 2025, leaving behind a legacy of leadership, kindness, and innovation that continues to guide the Summit Ridge team.
+After starting his career as a financial advisor, Mark followed his passion for energy and co-founded his first company with his brother, Steve Raeder, in 2008. That venture laid the foundation for Summit Ridge Energy, where Mark helped shape the Illinois solar market and played a leading role in advancing key legislation like the 2016 Future Energy Jobs Act, which established the landmark Illinois Shines program.
+Mark’s impact extended far beyond policy and project development. He was a thoughtful mentor who championed access and opportunity, including helping launch Summit Ridge’s partnership with the 548 Foundation’s Clean Energy Training Program—creating new pathways for aspiring solar professionals from underserved communities.
+Mark will be remembered not only for his contributions to the industry, but also for his character—humble, quick-witted, generous, and deeply committed to fairness and community. His legacy lives on through the work of Summit Ridge Energy, the many lives he influenced, and the charitable foundation established in his name.
+Read more about Mark:
+PRESIDENT & CHIEF OPERATING OFFICER
+Brian Dunn is a co-founder of Summit Ridge Energy and serves as the company’s President and Chief Operating Officer. A member of the company’s Board and Executive Committee, Brian is responsible for all of Summit Ridge’s financial and operational execution, including accounting, corporate finance, project finance, project construction and asset management. Prior to Summit Ridge, he served as Vice President at Hunt Alternative Energy Investments, the energy investment subsidiary of Texas-based Hunt Companies. Previously, he developed and financed clean energy projects for a private equity manager and held senior associate and analyst positions at JPMorgan and American Express. Brian received his B.A. from Bowdoin College in Economics and Government & Legal Studies.
+EXECUTIVE VICE PRESIDENT & CHIEF INVESTMENT OFFICER
+Adam Kuehne is the Chief Investment Officer for Summit Ridge Energy. A member of the company’s Executive Committee, Adam leads origination, negotiation and execution of Summit Ridge’s capital formation efforts and oversees asset management. He previously led capital markets for TerraForm Power and TerraForm Global, where he raised over $14 billion of capital, and oversaw financing, M&A and operational activities of the companies’ 4 GW solar and wind portfolio. Previously, Adam was an investment banker in the Leveraged Finance group of Barclays Capital. He began his career as an officer in the U.S. Navy, serving as a submarine nuclear engineer, intelligence analyst and electronic warfare officer in Iraq. Adam holds a B.S. in Systems Engineering from the United States Naval Academy, an M.S. in Engineering from The Catholic University of America and an MBA in Finance from The Wharton School of The University of Pennsylvania.
+SENIOR VICE PRESIDENT OF CORPORATE ADMINISTRATION
+Matthew Dickey serves as Senior Vice President of Corporate Administration for Summit Ridge Energy. A member of the company’s Executive Committee, Matthew executes all back-office support including Human Resources, Marketing, Information Technology and other administrative functions. Prior to joining Summit Ridge, Matthew created and led Business Development teams at SunEdison and Johnson Controls, where he led the Asia Pacific sales organization and other business leadership roles. Matthew holds a B.S. in Business Administration, with a focus on Industrial Distribution Management from the University of Illinois Urbana-Champaign.
+Senior Vice President of Operations
+Mike Dillon serves as Senior Vice President of Operations for Summit Ridge Energy. A member of the company’s Executive Committee, Mike oversees all project operations ensuring the high-quality execution of our systems from early-stage engineering through final completion. With more than a dozen years of experience in energy, he has successfully managed and delivered many large-scale and complex projects across the country. Prior to joining Summit Ridge, he served as Director of Operations for CS Energy and led the Aftermarket Division for the Hamon Group. Mike graduated Summa Cum Laude from New England College with a bachelor’s degree in business and computer information systems. He also earned a master certificate in organizational leadership from Villanova University and is a Certified Lean Six Sigma Black Belt.
+Senior Vice President of Development
+Barrett LaChance serves as Senior Vice President of Development at Summit Ridge Energy. A member of the company’s Executive Committee, Barrett is primarily responsible for overseeing all project development efforts, including new project origination and all project analysis. Prior to Summit Ridge, Barrett worked at Enfinity Global in Tokyo where he originated and structured over $1.5b in debt and equity financings for utility scale solar projects in Japan. Previously, he served in roles with renewable energy leaders such as EverStream Capital Management, NextEra and SunEdison. Barrett holds an MBA from Harvard Business School and a B.A. in chemistry from Princeton University.
+Principal
+Jarryd Commerford is a co-founder of Summit Ridge Energy and serves as Principal focusing on project acquisitions. Prior to Summit Ridge, Jarryd held various business development positions at SunEdison, where he executed over 100MW of Power Purchase Agreements in Massachusetts and acquired multiple large project portfolios. Previously, Jarryd worked in the electric vehicle industry in Europe and North America. Jarryd holds an MSc in Sustainable Energy & Entrepreneurship from the University of Nottingham in the UK and a B.A. in International Affairs and Geography from The George Washington University.
+PRINCIPAL, CORPORATE OPERATIONS
+Tyler Holden is a co-founder of Summit Ridge Energy and serves as Principal in charge of Corporate Operations. Tyler directs Summit Ridge’s achievement of a sustainable growth strategy by focusing on cross-functional alignment of teams across project financial closings, risk management, and tools and processes. Prior to Summit Ridge, he worked at SunEdison where he supported the company’s East Coast commercial business unit as Chief of Staff to its General Manager. Tyler earned his B.A. in Political Science from the University of North Carolina at Chapel Hill as a Morehead-Cain Scholar and minored in Chinese Languages.
+Chief Accounting Officer
+Brian Zalewski serves as Chief Accounting Officer for Summit Ridge Energy. He is responsible for accounting, tax and financial reporting operations across Summit Ridge and our affiliated joint venture funds. He also led the implementation of a new ERP general ledger system at Summit Ridge, consolidating all of its accounting, budgeting and reporting processes under a uniform system for the company and managed joint venture funds. Prior to joining Summit Ridge, Brian was a Senior Accounting Manager at TerraForm Power, overseeing acquisitions and technical accounting where he also led the implementations for the new revenue recognition and lease accounting standards. Previously, Brian spent seven years working at KPMG LLP where he focused on mergers & acquisition advisory and audit. Brian graduated Cum Laude with a Bachelor of Business Administration from James Madison University with degrees in Accounting and Finance.
+GENERAL COUNSEL
+Matt Vitorla serves as General Counsel for Summit Ridge Energy. He advises all business units on a variety of corporate transactions, focusing on debt and tax equity financing, as well as various project development, regulatory and other legal matters. Matt started his legal career as an associate in Skadden’s global energy and infrastructure projects group in Washington, DC, where he represented major renewables developers and sponsors on a range of complex M&A, finance and corporate transactions. Prior to joining Summit Ridge, he was a senior associate in Willkie’s energy, finance and Latin America practices. Matt graduated from Brown University with a B.A. in economics and linguistics and earned his law degree from The University of Pennsylvania Law School.
+SENIOR VICE PRESIDENT OF BUSINESS DEVELOPMENT
+SENIOR VICE PRESIDENT OF BUSINESS DEVELOPMENT
+VICE PRESIDENT OF HUMAN RESOURCES
+VICE PRESIDENT OF FINANCIAL PLANNING & ANALYSIS
+VICE PRESIDENT OF PRECONSTRUCTION
+VICE PRESIDENT OF MARKETING AND FEDERAL SERVICES
+VICE PRESIDENT OF PROJECT DEVELOPMENT
+VICE PRESIDENT OF PROJECT DEVELOPMENT
+VICE PRESIDENT OF PROJECT FINANCE
+VICE PRESIDENT OF PROJECT MANAGEMENT
+Vice President of Policy & Regulatory Affairs
+VICE PRESIDENT OF REAL ESTATE SERVICES
+Vice President of Engineering
+VICE PRESIDENT OF LAND SERVICES
+VICE PRESIDENT OF ASSET MANAGEMENT
+VICE PRESIDENT OF PROJECT FINANCE
+VICE PRESIDENT OF PROJECT MANAGEMENT
+ASSOCIATE GENERAL COUNSEL
+ASSOCIATE GENERAL COUNSEL
+SENIOR DIRECTOR OF INTERCONNECTION
+DIRECTOR OF MARKETING & COMMUNICATIONS
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/our-team/
+
+Our Team
+Executive Committee
+Leadership Team
+Chairman & Chief Executive Officer
+Steve Raeder is the Founder and Chief Executive Officer of Summit Ridge Energy, the nation’s leading commercial solar company. As head of Summit Ridge’s Executive Committee and Chairman of the Board, Steve sets the vision for the organization, directing strategic operations as well as driving the development and execution of the company’s revenue generation strategies. Prior to launching Summit Ridge in 2017, Steve served in multiple roles at SunEdison including Managing Director of Sales and General Manager of its East Coast C&I business unit where his teams developed hundreds of MWs across multiple solar markets, including pioneering work with off-site “virtual” systems that transformed the company’s business model. Steve holds a B.A. in History and Business Administration from Gettysburg College.
+Co-Founder Emeritus
+Mark Raeder was a visionary leader and Co-founder Emeritus of Summit Ridge Energy, known for his profound influence on the solar industry and his steadfast commitment to expanding energy access. Mark passed away on March 25, 2025, leaving behind a legacy of leadership, kindness, and innovation that continues to guide the Summit Ridge team.
+After starting his career as a financial advisor, Mark followed his passion for energy and co-founded his first company with his brother, Steve Raeder, in 2008. That venture laid the foundation for Summit Ridge Energy, where Mark helped shape the Illinois solar market and played a leading role in advancing key legislation like the 2016 Future Energy Jobs Act, which established the landmark Illinois Shines program.
+Mark’s impact extended far beyond policy and project development. He was a thoughtful mentor who championed access and opportunity, including helping launch Summit Ridge’s partnership with the 548 Foundation’s Clean Energy Training Program—creating new pathways for aspiring solar professionals from underserved communities.
+Mark will be remembered not only for his contributions to the industry, but also for his character—humble, quick-witted, generous, and deeply committed to fairness and community. His legacy lives on through the work of Summit Ridge Energy, the many lives he influenced, and the charitable foundation established in his name.
+Read more about Mark:
+PRESIDENT & CHIEF OPERATING OFFICER
+Brian Dunn is a co-founder of Summit Ridge Energy and serves as the company’s President and Chief Operating Officer. A member of the company’s Board and Executive Committee, Brian is responsible for all of Summit Ridge’s financial and operational execution, including accounting, corporate finance, project finance, project construction and asset management. Prior to Summit Ridge, he served as Vice President at Hunt Alternative Energy Investments, the energy investment subsidiary of Texas-based Hunt Companies. Previously, he developed and financed clean energy projects for a private equity manager and held senior associate and analyst positions at JPMorgan and American Express. Brian received his B.A. from Bowdoin College in Economics and Government & Legal Studies.
+EXECUTIVE VICE PRESIDENT & CHIEF INVESTMENT OFFICER
+Adam Kuehne is the Chief Investment Officer for Summit Ridge Energy. A member of the company’s Executive Committee, Adam leads origination, negotiation and execution of Summit Ridge’s capital formation efforts and oversees asset management. He previously led capital markets for TerraForm Power and TerraForm Global, where he raised over $14 billion of capital, and oversaw financing, M&A and operational activities of the companies’ 4 GW solar and wind portfolio. Previously, Adam was an investment banker in the Leveraged Finance group of Barclays Capital. He began his career as an officer in the U.S. Navy, serving as a submarine nuclear engineer, intelligence analyst and electronic warfare officer in Iraq. Adam holds a B.S. in Systems Engineering from the United States Naval Academy, an M.S. in Engineering from The Catholic University of America and an MBA in Finance from The Wharton School of The University of Pennsylvania.
+SENIOR VICE PRESIDENT OF CORPORATE ADMINISTRATION
+Matthew Dickey serves as Senior Vice President of Corporate Administration for Summit Ridge Energy. A member of the company’s Executive Committee, Matthew executes all back-office support including Human Resources, Marketing, Information Technology and other administrative functions. Prior to joining Summit Ridge, Matthew created and led Business Development teams at SunEdison and Johnson Controls, where he led the Asia Pacific sales organization and other business leadership roles. Matthew holds a B.S. in Business Administration, with a focus on Industrial Distribution Management from the University of Illinois Urbana-Champaign.
+Senior Vice President of Operations
+Mike Dillon serves as Senior Vice President of Operations for Summit Ridge Energy. A member of the company’s Executive Committee, Mike oversees all project operations ensuring the high-quality execution of our systems from early-stage engineering through final completion. With more than a dozen years of experience in energy, he has successfully managed and delivered many large-scale and complex projects across the country. Prior to joining Summit Ridge, he served as Director of Operations for CS Energy and led the Aftermarket Division for the Hamon Group. Mike graduated Summa Cum Laude from New England College with a bachelor’s degree in business and computer information systems. He also earned a master certificate in organizational leadership from Villanova University and is a Certified Lean Six Sigma Black Belt.
+Senior Vice President of Development
+Barrett LaChance serves as Senior Vice President of Development at Summit Ridge Energy. A member of the company’s Executive Committee, Barrett is primarily responsible for overseeing all project development efforts, including new project origination and all project analysis. Prior to Summit Ridge, Barrett worked at Enfinity Global in Tokyo where he originated and structured over $1.5b in debt and equity financings for utility scale solar projects in Japan. Previously, he served in roles with renewable energy leaders such as EverStream Capital Management, NextEra and SunEdison. Barrett holds an MBA from Harvard Business School and a B.A. in chemistry from Princeton University.
+Principal
+Jarryd Commerford is a co-founder of Summit Ridge Energy and serves as Principal focusing on project acquisitions. Prior to Summit Ridge, Jarryd held various business development positions at SunEdison, where he executed over 100MW of Power Purchase Agreements in Massachusetts and acquired multiple large project portfolios. Previously, Jarryd worked in the electric vehicle industry in Europe and North America. Jarryd holds an MSc in Sustainable Energy & Entrepreneurship from the University of Nottingham in the UK and a B.A. in International Affairs and Geography from The George Washington University.
+PRINCIPAL, CORPORATE OPERATIONS
+Tyler Holden is a co-founder of Summit Ridge Energy and serves as Principal in charge of Corporate Operations. Tyler directs Summit Ridge’s achievement of a sustainable growth strategy by focusing on cross-functional alignment of teams across project financial closings, risk management, and tools and processes. Prior to Summit Ridge, he worked at SunEdison where he supported the company’s East Coast commercial business unit as Chief of Staff to its General Manager. Tyler earned his B.A. in Political Science from the University of North Carolina at Chapel Hill as a Morehead-Cain Scholar and minored in Chinese Languages.
+Chief Accounting Officer
+Brian Zalewski serves as Chief Accounting Officer for Summit Ridge Energy. He is responsible for accounting, tax and financial reporting operations across Summit Ridge and our affiliated joint venture funds. He also led the implementation of a new ERP general ledger system at Summit Ridge, consolidating all of its accounting, budgeting and reporting processes under a uniform system for the company and managed joint venture funds. Prior to joining Summit Ridge, Brian was a Senior Accounting Manager at TerraForm Power, overseeing acquisitions and technical accounting where he also led the implementations for the new revenue recognition and lease accounting standards. Previously, Brian spent seven years working at KPMG LLP where he focused on mergers & acquisition advisory and audit. Brian graduated Cum Laude with a Bachelor of Business Administration from James Madison University with degrees in Accounting and Finance.
+GENERAL COUNSEL
+Matt Vitorla serves as General Counsel for Summit Ridge Energy. He advises all business units on a variety of corporate transactions, focusing on debt and tax equity financing, as well as various project development, regulatory and other legal matters. Matt started his legal career as an associate in Skadden’s global energy and infrastructure projects group in Washington, DC, where he represented major renewables developers and sponsors on a range of complex M&A, finance and corporate transactions. Prior to joining Summit Ridge, he was a senior associate in Willkie’s energy, finance and Latin America practices. Matt graduated from Brown University with a B.A. in economics and linguistics and earned his law degree from The University of Pennsylvania Law School.
+SENIOR VICE PRESIDENT OF BUSINESS DEVELOPMENT
+SENIOR VICE PRESIDENT OF BUSINESS DEVELOPMENT
+VICE PRESIDENT OF HUMAN RESOURCES
+VICE PRESIDENT OF FINANCIAL PLANNING & ANALYSIS
+VICE PRESIDENT OF PRECONSTRUCTION
+VICE PRESIDENT OF MARKETING AND FEDERAL SERVICES
+VICE PRESIDENT OF PROJECT DEVELOPMENT
+VICE PRESIDENT OF PROJECT DEVELOPMENT
+VICE PRESIDENT OF PROJECT FINANCE
+VICE PRESIDENT OF PROJECT MANAGEMENT
+Vice President of Policy & Regulatory Affairs
+VICE PRESIDENT OF REAL ESTATE SERVICES
+Vice President of Engineering
+VICE PRESIDENT OF LAND SERVICES
+VICE PRESIDENT OF ASSET MANAGEMENT
+VICE PRESIDENT OF PROJECT FINANCE
+VICE PRESIDENT OF PROJECT MANAGEMENT
+ASSOCIATE GENERAL COUNSEL
+ASSOCIATE GENERAL COUNSEL
+SENIOR DIRECTOR OF INTERCONNECTION
+DIRECTOR OF MARKETING & COMMUNICATIONS
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/about-us/
+
+About Us
+Summit Ridge Energy is the nation’s leading commercial solar power company. By merging financial innovation and unmatched execution, we deliver reliable, locally generated energy that reduces reliance on foreign energy and contributes to a more resilient and secure electric grid.
+Summit Ridge is driving a future where solar power generation strengthens local economies and ensures energy independence for businesses and communities across America.
+Why Summit Ridge Energy?
+What Sets Us Apart
+Summit Ridge is the solar industry’s leading independent power producer (IPP). Our success is driven by:
+- Unparalleled project financing capabilities.
+- Strongest track record of project acquisitions in the industry.
+- Proven planning, development, and operational processes.
+- A long-term strategy focused on maintaining ownership and oversight of every project.
+We’ve earned the trust of the industry’s leading developers, capital partners, and suppliers—enabling us to acquire high-quality portfolios and consistently deliver projects on time.
+We prioritize U.S.-based manufacturers and supply chains, ensuring our projects are powered by American-made components, parts, and labor. This commitment supports local economies while advancing national energy independence.
+Our projects create jobs and stimulate economic growth across rural and urban areas, all while providing cost-saving energy to consumers, businesses, and communities.
+Highlights of Our Approach
+- A track record of quickly advancing projects from contract to energization.
+- Expertise in navigating permitting and entitlement processes across dozens of jurisdictions.
+- Scalable designs that maintain quality and safety.
+- Excel in attracting new investors and developing innovative investment strategies.
+- Among the few solar financing platforms with multiple funds for commercial solar and storage acquisitions.
+- Hundreds of successful financial closings, leading to greater efficiency and reduced transactional costs.
+- Over 50 community solar portfolios nationwide, encompassing 200+ projects providing increased energy.
+- Targeted investments to enhance operational excellence, strengthen regional presence, and scale solar deployment.
+- From initial planning and project execution to ongoing operations, maintenance, and eventual site restoration, we carefully oversee every phase of an energy project.
+- Our comprehensive approach ensures long-term performance, maximizes value, and supports the businesses and communities where we operate.
+Join the Movement Toward Energy Independence
+Summit Ridge is committed to delivering locally generated power that strengthens businesses, communities, and the nation’s energy security.
+Explore how your organization can benefit from our solar solutions and long-term energy savings. Email us at [email protected] to get started.
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/news/apex-and-summit-ridge-illinois-portfolio/
+
+20 MWac Transaction Marks Third Collaboration to Deploy Local Energy Infrastructure
+Dogwood Lane, a 4.4 MWdc solar project in Kenbridge, VA, developed through
+Apex and Summit Ridge Energy’s 2023 collaboration
+CHARLOTTESVILLE, VA [December 4, 2025] – Apex Clean Energy and Summit Ridge Energy today announced the sale of four distributed solar projects totaling 20 MWac. The portfolio—comprising Bandyville, Rooks Creek, Swamp Fox, and Cherry Grove—reflects increasing demand for locally sited energy infrastructure that can be deployed efficiently to support grid reliability and meet rising electricity needs driven by data centers, manufacturing reshoring, and industrial growth.
+This transaction is the latest in a series between Apex and Summit Ridge. Earlier this year, the companies closed on the 5 MWac Bowie Road project in Virginia under the state’s Shared Solar Program, which will serve low- and moderate-income residential customers in Dominion territory. Together, these 2025 transactions build on the companies’ November 2023 collaboration, when Apex sold a 19 MWac portfolio of Virginia shared solar projects to Summit Ridge.
+“Our continued partnership with Summit Ridge reflects a shared commitment to deploying reliable, cost-effective power solutions at a critical moment in time,” said Charlie Johnson, Apex head of distributed energy resources. “These projects represent ready-to-build American energy infrastructure that will help meet Illinois’s growing electricity demand while delivering meaningful economic benefits to local communities.”
+“Summit Ridge’s partnership with Apex keeps getting stronger because we’re both committed to doing great work and investing in the communities we serve,” said Garren Bisschoff, SVP of Business Development at Summit Ridge Energy. “These projects will deliver reliable power, create new revenue for local communities, and generate long-term value across Illinois.”
+The transaction advances Illinois’s energy infrastructure while delivering economic benefits to local communities through property tax revenue, landowner payments, and construction employment. The four projects, which span both Ameren and ComEd territories, are slated to begin commercial operations by the end of 2026.
+Apex maintains a distributed energy development portfolio of nearly 800 MWac spanning 12 states across the country, with this portfolio representing the company’s first distributed energy commercialization in Illinois.
+###
+Related Links
+- • Apex Clean Energy: Apex Sells 19 MWac Distributed Energy Portfolio to Summit Ridge Energy
+- • Solar Industry Magazine: Summit Ridge Adds 19 Solar Projects to Portfolio
+About Summit Ridge Energy
+As the nation’s leading commercial solar company, Summit Ridge Energy merges financial innovation and industry-leading execution to deliver locally generated energy via a more resilient and secure electric grid. This has made Summit Ridge one of the fastest-growing energy companies in America, with over 2GW of solar power operating and in development.
+Since launching in 2017, Summit Ridge has raised over $5 billion in project capital to finance more than 200 solar facilities, providing energy savings to over 42,000 homes and businesses while advancing American energy independence. Learn more at srenergy.com and connect with us on LinkedIn.
+About Apex Clean Energy
+Apex Clean Energy was founded with a singular focus: to accelerate the shift to clean energy. Through origination, development, construction, and operation of utility-scale wind, solar, and storage facilities and distributed energy resources, Apex is expanding the renewable frontier across the United States. Our mission-driven team uses a data-focused approach and an unrivaled portfolio of projects to create solutions for the world’s most innovative and forward-thinking customers. For more information about how Apex is building the energy company of the future, visit apexcleanenergy.com or follow us on Facebook, YouTube, and LinkedIn.
+Media Contacts
+Summit Ridge Energy
+Wendy Beach
+Summit Ridge Energy
+Director, Marketing & Communications
+(240) 281-4932
+Apex Clean Energy
+Cat Strumlauf
+Apex Clean Energy
+Vice President | Marketing and Communications
+(434) 227-4196
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/news/solar-industry-summit-ridge-adds-19-solar-projects-to-portfolio/
+
+Solar Industry Magazine: Summit Ridge Adds 19 Solar Projects to Portfolio
+Summit Ridge Energy has acquired 19 community solar projects, located across Virginia, totaling 100 MW.
+The portfolio was obtained from seven partners, including Apex Clean Energy, ESA Solar, ForeFront Power, New Leaf Energy, RWE Clean Energy and SolAmerica Energy. The acquisitions were made by Summit Ridge’s joint venture with Osaka Gas USA, a subsidiary of Osaka Gas.
+Read more: Solar Industry Magazine
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/news
+
+Advancing energy independence
+and local impact
+Press Releases
+Summit Ridge Energy Secures $290 Million Facility with MUFG to Expand Commercial Solar Portfolio
+New Financing Accelerates Locally Generated Power, American Manufacturing, and Community Benefits A Summit Ridge Energy 2.4 MW solar project located in Braidwood, IL. ARLINGTON, VA [January 13, 2026] – Summit Ridge Energy, a leading developer, owner, and operator of commercial solar projects, today announced the closing of a $290 million facility with MUFG (Mitsubishi UFJ Financial Group). The facility will finance the development and […]
+Apex and Summit Ridge Announce Sale of Illinois Distributed Energy Portfolio
+20 MWac Transaction Marks Third Collaboration to Deploy Local Energy Infrastructure Dogwood Lane, a 4.4 MWdc solar project in Kenbridge, VA, developed through Apex and Summit Ridge Energy’s 2023 collaboration CHARLOTTESVILLE, VA [December 4, 2025] – Apex Clean Energy and Summit Ridge Energy today announced the sale of four distributed solar projects totaling 20 MWac. […]
+In the News
+Solar Powers Illinois: Faces of Solar – Mark Raeder, Founding Principal, Summit Ridge Energy
+Few people have had as significant an impact on the Illinois solar industry as Mark Raeder, a founding Principal of Summit Ridge Energy. Mark Raeder was among the most impactful people in Illinois’ solar industry. Anywhere you look across the Illinois solar industry – whether that is developing solar installations, shaping impactful legislative policy, or […]
+Solar Power World: Summit Ridge Energy building 5.1-MW solar project supporting Illinois data centers
+Commercial solar contractor Summit Ridge Energy is working with Digital Realty to deliver 5.1 MW of solar energy annually for the data center company’s operations. With this purchase, Digital Realty, which provides of cloud- and carrier-neutral data center solutions, will advance its sustainability objectives. This agreement includes both savings on energy costs and the purchase of renewable […]
+News Stories
+NOTICE OF PRE-HEARING CONFERENCE
+BEFORE THE PUBLIC SERVICE COMMISSION OF MARYLAND ICFTS MD SOLAR, LLC’S APPLICATION FOR A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY TO CONSTRUCT A 4.63 MW SOLAR PHOTOVOLTAIC GENERATING FACILITY IN CAROLINE COUNTY, MARYLAND CASE NO. 9835 NOTICE OF PRE-HEARING CONFERENCE A pre-hearing conference in the above-entitled matter is scheduled for Friday, February 6, 2026, at 9:30 a.m., concerning ICFTS […]
+Rooftop Solar Milestone: Maryland Celebrates Energy Savings & Economic Growth
+Capitol Heights, Maryland, is shining a little brighter this fall as Summit Ridge, Invesco Real Estate, Black Bear Energy, and Lincoln Property Management celebrated the completion of five rooftop community solar projects totaling an impressive 4.7 MW of cost-saving solar power. Hosted across five industrial buildings owned by Invesco Real Estate, these solar sites represent […]
+Podcasts
+Climate Positive Podcast: How Summit Ridge Energy Went from Being a Small Startup in Community Solar to the Industry Leader
+Steve Raeder, founder and CEO of Summit Ridge Energy, the nation’s leading commercial solar company, recently appeared on the Climate Positive podcast to share learnings from the frontlines of a dynamic industry. Since its founding in 2017, Summit Ridge has invested more than $1.6 billion into clean energy assets, including a development pipeline of […]
+The Solar Maverick Podcast: How Summit Ridge Energy is dominating the Virginia Community Solar Market
+The Virginia Clean Economy Act aims to convert Virginia’s electric grid to 100% clean energy by 2050. Pairing that local legislation with the federal Inflation Reduction Act is allowing Summit Ridge Energy to invest in the Commonwealth and move the state closer to reaching decarbonization goals while moving the economy forward. In November 2023, Summit […]
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/finance/
+
+Owner-Operator
+Summit Ridge Energy is the largest owner-operator of commercial solar assets in the country.
+In addition to managing dedicated sponsor funds, we source and structure both tax equity and debt in-house through established partnerships created to aggregate scale. Since inception in 2017, our project finance team has raised over $5B in capital across multiple U.S. solar markets enabling the construction of 500 MW.
+Project Acquisitions
+Our project acquisition capabilities are unmatched within the C&I solar industry. Since launching Summit Ridge Capital Holdings in 2019 and four market specific joint ventures with Osaka Gas, our M&A team has acquired 50 separate community solar portfolios across the country, markets totaling more than 200 individual projects. Our team works with third-party solar developers to acquire assets at both pre- and post-construction phases.
+Dedicated Project Funding
+Summit Ridge Energy is one of the few financing platforms within the C&I solar space with multiple funds dedicated exclusively to the acquisition of commercial solar and battery storage assets. Our focused business model has facilitated hundreds of financial closings. In the process, we've achieved a level of efficiency that's yielded lower transactional costs while increasing fees for our development partners.
+Pre-NTP Funding
+Sponsor Equity
+Tax Equity
+We are defined by our culture of execution. Since inception, we've successfully completed over 350 financial closings within our debt and equity facilities.
+Our dedicated funding platforms and unmatched access to the capital markets ensures your competitive pricing with low transactional risk.
+Since inception in 2017, we have acquired more projects from third-party developers than anyone in the U.S. solar industry.
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/development/
+
+Project Development
+Efficiency and Development Expertise
+Summit Ridge Energy has a proven track record of moving projects quickly from contract to financial close. With experience navigating permitting and entitlement processes across dozens of U.S. jurisdictions, our team has built a transparent approach that fosters strong partnerships with the counties and municipalities where we operate.
+Our Process
+Initial Layout, System Design and Permitting
+Site Analysis
+Interconnection and Construction
+Rooftop Leasing
+Owners of industrial properties can generate stable, predictable income through monthly lease payments in exchange for hosting a solar array on their rooftop.
+Behind-the-meter:
+Hosting a solar array on your property significantly reduces monthly utility costs, improving your bottom line while contributing to a more reliable and secure local power supply. This approach helps strengthen the grid and supports America’s energy independence.
+Net-metering:
+Depending on the system size and your facility’s energy use, excess electricity generated on-site can be sent back to the grid. In return, you receive additional compensation while supporting grid stability and supplying locally generated power to your community.
+Ground Mount
+During the diligence and construction phases, we hire local labor to build the solar system on your site—creating jobs in construction, electrical engineering, and long-term operations and maintenance.
+Once operational, it begins generating monthly utility bill credits for local homes and businesses in your community. Many households have historically lacked access to solar energy—whether because they rent, live in multi-family buildings, or their rooftops aren’t suitable for solar. By leveraging a remote, ground-mounted system, community solar enables these families and businesses to participate in a more reliable, cost-effective energy solution for the first time. Many of our projects also dedicate a portion of bill credits to benefit low-to-moderate income families, providing meaningful savings and economic relief.
+By hosting the system on your property, you are guaranteed predictable, long-term income through monthly lease payments over the lifecycle of the project—typically 25 to 35 years. Additionally, the project generates local tax revenue, supporting state and local budgets and driving economic growth.
+Learn moreEnergy Storage
+Energy storage projects strengthen the grid and reduce reliance on costly, fossil fuel-fired “peaker plants” by charging during off-peak hours and discharging when demand is highest.
+These projects help balance supply and demand by shaping energy output to meet real-time needs, making it easier to integrate diverse energy sources into the grid.
+In addition, energy storage enhances grid reliability and resilience by diversifying America’s energy portfolio. Storage systems can be dispatched instantly to address fluctuations or outages, and they enable cost-effective “non-wires” alternatives to traditional grid upgrades—avoiding expensive and labor-intensive transmission projects while supporting a more secure energy infrastructure.
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/land/
+
+We own and operate all our projects, ensuring a seamless, long-term partnership with landowners. Our solar farms are designed to be good neighbors, and we are committed to working closely with you from start to finish.
+Unlock Long-Term Value by Leasing Your Land
+Through solar farming, Summit Ridge Energy offers landowners the opportunity to generate stable, long-term income while maintaining ownership and preserving their land for future generations.
+Our solar farms provide financial security, strengthen local communities and contribute to a more resilient grid—without disrupting your existing operations.
+Why Lease Your Land for Solar?
+Secure guaranteed lease payments for up to 40 years, providing financial stability for your business, family and future generations.
+We treat your land with care, incorporating sustainable land management practices, such as pro-pollinator ground cover, to maintain its health and productivity. If you choose not to renew your lease, we restore your property to its original condition.
+Solar farms provide new tax revenue, local job opportunities and energy savings to nearby businesses and residents, helping to fuel economic growth.
+By generating locally produced solar power with American-made equipment, your land plays a vital role in powering America’s energy independence, strengthening the grid and reducing dependence on foreign energy sources.
+Why Partner with Summit Ridge Energy?
+A Trusted, Long-Term Partner
+A National Leader in Solar Farming
+Having transformed over 15,000 acres into income-generating solar farms and with more than 200 projects financed, we deliver reliable, long-term value to landowners while offering savings, local tax revenue, and American energy security to over 40,000 homes and businesses.
+Ready to Unlock the Value of Your Land?
+We take great care to ensure minimal impact on your land because we know it’s more than just land; it’s your family’s financial stability, years of hard work, and your legacy. Find out how solar can provide reliable, long-term income while preserving your property’s future.
+Email us at [email protected] to get started.
+FAQs for Landowners
+Overview
+A community solar farm is a collection of solar panels that generate electricity and feed it into the local utility grid, providing cost savings to nearby homes and businesses.
+Since 2017, we’ve secured over $5 billion in project capital, financing 200+ solar farms with 2 GW of solar power in operation or development—powering 40,000 homes and businesses.
+Materials & Construction
+Once the contract is signed, the development process takes 12–24 months, depending on utility interconnection approvals and permitting.
+We compensate for any crop damages at current market rates within 90 days of construction start.
+Our panels are made primarily from Earth’s natural minerals, consisting of 95% silicon and framed with recyclable aluminum, copper, and silver. They use storm-rated glass, similar to a car windshield, designed to withstand extreme weather. Additionally, built-in weather monitoring moves panels into protective positions during severe storms.
+All of our materials are produced domestically in the United States.
+Panels are typically 5–6 feet tall, about the same height as a mature corn stalk.
+We subcontract to local engineering, procurement, and construction (EPC) firms and prioritize using local labor whenever possible.
+Solar farms operate quietly, with sound levels far below typical zoning noise thresholds. Any noticeable noise would occur only during construction and would comply with local regulations.
+Project Management & Maintenance
+Our in-house asset management team monitors projects 24/7 and conducts routine maintenance and repairs as needed.
+We plant native grasses selected based on environmental assessments to support soil health and biodiversity.
+The project will be fully fenced, and additional landscaping may be added based on local requirements.
+Taxes, Insurance & Property Value
+Yes, the lease transfers to the new owner, making it a valuable asset that can increase property value for buyers.
+Property taxes may increase if the assessor adds value for improvements, but Summit Ridge Energy covers all additional taxes related to the leased portion of the land.
+Yes, our lease includes landowner coverage under our insurance policy. Some landowners also choose to take out an umbrella policy for added protection.
+End of Life & Environmental Impact
+Yes! The land remains regenerative throughout the lease, benefiting from natural vegetation, soil enrichment, and biodiversity support from birds, insects, and organic material breakdown.
+At the end of the project’s 25–40 year lifespan, panels and equipment will be fully recycled following industry best practices.
+Our panels are designed to last throughout the entire lease term. However, if technology advances, we may upgrade panels to improve efficiency while responsibly recycling older units.
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/commercial-rooftop-solar/
+
+Today’s commercial property owners face increasing pressure to boost revenue streams while meeting sustainability targets. Summit Ridge provides a perfect solution by converting your unused rooftop into a productive solar installation. Our approach creates immediate financial benefits while supporting long-term operational resilience and environmental goals.
+Maximize Your Facility's Potential
+Summit Ridge Energy stands as the nation’s leading commercial solar developer and operator, specializing in transforming underutilized rooftop space into powerful revenue-generating assets. Our comprehensive approach delivers locally generated energy solutions that simultaneously drive economic growth and energy independence for businesses across America.
+By leveraging cutting-edge solar technology and our extensive industry expertise, we help property owners maximize their facility’s potential while contributing to a sustainable energy future.
+Unlocking Your Rooftop's Value
+Our Streamlined Implementation Process
+Summit Ridge has refined our approach through hundreds of successful installations across the country. We handle every aspect of your solar project’s lifecycle, from initial assessment through ongoing maintenance, ensuring maximum performance with minimal disruption to your operations.
+Compelling Financial & Sustainability Benefits
+Secure 20-25 years of predictable rental income, enhancing your property’s value for refinancing or future sale opportunities.
+Achieve corporate environmental goals and reduce carbon footprint without capital expenditure while earning ongoing bill credits.
+Operational Cost Reduction Enjoy significant energy savings with no upfront investment while offering tenants discounted solar subscriptions, enhancing property attractiveness.
+Contribute to American energy independence by supporting domestic manufacturing and creating skilled local jobs.
+The Summit Ridge Advantage
+When selecting an energy partner, experience and track record matter.
+Summit Ridge brings unmatched credentials to every project, combining financial stability with technical excellence and a commitment to customer satisfaction. Our dedicated team works closely with property owners to create customized solutions that maximize both energy production and financial returns.
+- Financial Strength: With over $5 billion in successfully raised project capital, we’ve financed and developed more than 200 solar projects nationwide, delivering reliable clean energy to 42,000+ homes and businesses.
+- Unparalleled Rooftop Experience: We’ve developed over 190 MW of rooftop solar projects across more than 50 million square feet of commercial property, establishing ourselves as the trusted partner for industrial property owners across America.
+- Performance Commitment: Our projects consistently meet the highest safety and performance standards, delivered on time and on budget with a focus on maximizing system output and longevity.
+- End-to-End Project Oversight: From planning through retirement, we provide continuous project oversight to protect your rooftop investment and ensure optimal performance throughout the system’s lifespan.
+- Property Assessment & Design: Ideal facilities with 150,000+ square feet of rooftop space, our experts evaluate and create customized solutions for warehouses, distribution centers, and large commercial buildings.
+- Accelerated Deployment: With fewer regulatory hurdles than ground-mount installations, our commercial rooftop systems achieve faster completion timelines and quicker return on investment.
+- Complete Lifecycle Management: From initial design and financing through construction, operation, and maintenance, we manage all project aspects, allowing you to focus on your core business.
+- Roof Integrity Assurance: We partner with certified construction professionals and manufacturers to ensure all installations comply with existing warranty requirements, conducting thorough pre- and post-installation inspections.
+- Technical & Legal Expertise: Our licensed engineers assess structural feasibility while our experienced legal team streamlines lease negotiations and documentation.
+Transform Your Overhead into Opportunity
+Ready to turn your rooftop into a revenue-generating asset?
+Contact Summit Ridge Energy today to explore how we can help maximize your facility’s potential.
+Email us at [email protected] to begin your commercial solar journey.
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/news/summit-ridge-energy-and-black-bear-energy-celebrate-17-mws-of-rooftop-community-solar-projects-in-maryland/
+
+The projects will provide clean energy to local residents at reduced rates through the Maryland Community Solar Program
+ARLINGTON, VA – August 30, 2023 – Summit Ridge Energy, the nation’s leading commercial solar and energy storage company, today held a ribbon-cutting ceremony in Rosedale, Maryland to celebrate the construction of six rooftop community solar projects across four industrial properties alongside LBA Logistics, a full-service real estate investment and management company, and Black Bear Energy, a commercial buyer’s representative specializing in onsite renewable energy and cleantech services. The initial project is scheduled to come online Q3 of this year, with the remaining five sites scheduled to commence in early to mid-2024.
+Summit Ridge Energy is the market leader in Maryland’s commercial solar industry, with more than 75 megawatts (MW) of rooftop community solar projects across the state.
+Totaling over 17 MW, the six new rooftop-hosted solar projects in Rosedale and Belcamp, Maryland are part of the Maryland Community Solar program, which provides low-cost renewable energy to local residents. Developed and owned by Summit Ridge Energy, these sites will generate over 25 million kWh of electricity annually – the equivalent of powering more than 2,000 homes. The projects are located on the rooftops of industrial assets owned and managed by LBA Logistics.
+Attended by Senator Ben Brooks, County Executive Johnny Olszewski Jr, and representatives from Summit Ridge Energy, LBA and Black Bear Energy, the ribbon cutting ceremony in Rosedale, Maryland celebrated the companies’ investment in the Maryland economy and the energy savings the projects will provide for local residents.
+After the ceremony, tenants who occupy and work in the LBA Logistics owned and managed buildings were invited to enroll in the Maryland Community Solar program, providing direct savings on their energy bills.
+“We’re proud to expand our partnerships with LBA and Black Bear Energy to strengthen our community solar leadership in the great state of Maryland. These projects leverage unused roof space to drive local economic development and extend clean energy cost savings to families and businesses across the state,” said Brian Dunn, Chief Operating Officer at Summit Ridge Energy.
+“LBA is excited to celebrate the commissioning of these six community solar projects in Maryland. Our partnership with Summit Ridge Energy and Black Bear aligns with our goals of decarbonizing the built environment and delivering environmental solutions and benefits to the communities surrounding our real estate assets,” said Perry Schonfeld, Principal and Chief Operating Officer at LBA Logistics.
+“Facilitating this collaboration between LBA and Summit Ridge Energy is a source of pride for Black Bear Energy. These projects bring tangible benefits to the community, offering affordable, clean electricity to local residents and businesses unable to install solar on their own rooftops,” remarked Drew Torbin, President and Founder at Black Bear Energy.
+Event Photos & Videos
+About Summit Ridge Energy
+Launched in 2017, Summit Ridge Energy is the nation’s leading commercial solar company. Through its strategic partnerships and project financing expertise, the company develops, acquires, owns and operates energy projects within the rapidly growing commercial solar and battery storage sectors.
+In the past six years, Summit Ridge Energy has deployed over $1.6B USD into clean energy assets. With a development pipeline of more than 2 GW, Summit Ridge Energy will have more than 400 MW of PV online by the end of 2023, providing solar power to 50,000 homes and businesses. Learn more at srenergy.com and connect with us on LinkedIn.
+About LBA
+LBA is a full-service real estate investment and management company with a diverse portfolio of office and industrial properties. LBA’s industrial footprint spans the U.S. in major logistics markets throughout the country while their office portfolio is located in major Western U.S. markets.
+About Black Bear Energy
+Black Bear Energy, a Legence Company, is a technology-enabled, commercial buyer’s representative specializing in onsite renewable energy and cleantech services. In the past five years, Black Bear has helped its clients bid out over 1,000 clean technology projects in more than 20 states through its data driven process. For more information about Black Bear Energy, visit BlackBearEnergy.com. For press inquiries, contact [email protected].
+Summit Ridge Energy Contact Information
+For Business Development:
+[email protected]
+For Media:
+Theo Carroll
+[email protected]
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/solutions/
+
+Lower energy costs while supporting
+American energy independence
+On-site
+solutions
+Leverage your roof, parking lot, or available land to connect solar and energy storage to your facility.
+Off-site
+solutions
+Our team pioneered off-site "virtual" solar energy contracts, making it easier for households and businesses to achieve reliable, long-term energy savings without on-site installation.
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/careers/
+
+Business Development Analyst
+Business Development
+Arlington, VA
+Project Finance Analyst
+Project Finance
+Arlington, VA
+At Summit Ridge, we’re proud to lead the way in advancing America’s energy independence and economic growth. Our team of industry experts is dedicated to delivering impactful solar and energy storage solutions that create jobs, strengthen communities, and drive innovation.
+Be part of a mission-driven organization shaping the nation’s energy future—join our team today.
+Business Development
+Arlington, VA
+Project Finance
+Arlington, VA
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/contacts/
+
+Let's get in touch!
+Let us know how we
+can help you.
+Business Development
+[email protected]
+Marketing & Media
+[email protected]
+Join Our Team
+[email protected]
+Our Headquarters
+1000 Wilson Blvd, #2400 Arlington, VA 22209 202-558-2340
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/careers
+
+Business Development Analyst
+Business Development
+Arlington, VA
+Project Finance Analyst
+Project Finance
+Arlington, VA
+At Summit Ridge, we’re proud to lead the way in advancing America’s energy independence and economic growth. Our team of industry experts is dedicated to delivering impactful solar and energy storage solutions that create jobs, strengthen communities, and drive innovation.
+Be part of a mission-driven organization shaping the nation’s energy future—join our team today.
+Business Development
+Arlington, VA
+Project Finance
+Arlington, VA
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/news/summit-ridge-mufg-290/
+
+New Financing Accelerates Locally Generated Power, American Manufacturing, and Community Benefits
+A Summit Ridge Energy 2.4 MW solar project located in Braidwood, IL.
+ARLINGTON, VA [January 13, 2026] – Summit Ridge Energy, a leading developer, owner, and operator of commercial solar projects, today announced the closing of a $290 million facility with MUFG (Mitsubishi UFJ Financial Group). The facility will finance the development and construction of solar projects, furthering Summit Ridge’s commitment to meeting the increasing demand for energy.
+This latest financing agreement marks another major step in Summit Ridge’s growth and highlights MUFG’s ongoing support for U.S. energy infrastructure. Totaling close to $1 billion, this is the 5th facility partnership, enabling Summit Ridge to develop numerous solar projects and offer energy savings to local communities and businesses.
+“We are pleased to continue our partnership with MUFG, who we consider as one of the premier financial institutions operating in the renewable energy sector,” said Phil Schapiro, Vice President of Project Finance for Summit Ridge Energy. “This financing enables us to further expand our operations and execute on our growing energy pipeline, delivering locally generated power that strengthens the grid while providing meaningful cost savings to thousands of customers. We know we can count on MUFG’s ability to scale with us to meet the significant and increasing energy demand.”
+“MUFG is proud to strengthen our partnership with Summit Ridge Energy,” said Phillip Fletcher, Project Finance Director at MUFG. “This facility underscores our commitment to delivering tailored financing solutions that enable our clients to meet the growing energy needs of U.S. infrastructure. As a global leader in project finance, MUFG is dedicated to connecting capital to initiatives in energy and infrastructure.”
+The commercial solar projects financed through this facility are expected to:
+• Support American manufacturing: Projects will utilize U.S.-made components and local labor, advancing domestic content and energy security.
+• Create economic opportunity: Each project generates skilled jobs in construction, engineering, and long-term operations.
+• Strengthen grid resilience: Adds distributed solar capacity that enhances reliability and reduces strain on regional grids.
+• Speed to power: Enables faster energy delivery, bringing megawatts online in months rather than years to support the exponential growth of digital power demand.
+Summit Ridge has established itself as a leading independent power producer, with a growing portfolio of projects across America. The company’s focus on generating and delivering power through operational excellence has positioned it as a trusted partner for both customers and financial institutions.
+Related links:
+• Summit Ridge Energy Closes $275M Financing Facilities with MUFG
+• Case Study: Bankable, Repeatable Partnership that supports American Energy with MUFG
+###
+About Summit Ridge Energy
+As the nation’s leading commercial solar company, Summit Ridge Energy merges financial innovation and industry-leading execution to deliver locally generated energy via a more resilient and secure grid. This has made Summit Ridge one of the fastest-growing energy companies in America, with over 2GW of solar power operating and in development.
+Since launching in 2017, Summit Ridge has raised over $5 billion in project capital to finance more than 200 solar facilities, providing energy savings to over 42,000 homes and businesses while advancing American energy independence. Learn more at srenergy.com and connect with us on LinkedIn.
+About MUFG and MUFG Americas
+Mitsubishi UFJ Financial Group, Inc. (MUFG) is one of the world’s leading financial groups. Headquartered in Tokyo and with over 360 years of history, MUFG has a global network with approximately 2,100 locations in more than 50 countries. MUFG has nearly 160,000 employees and offers services including commercial banking, trust banking, securities, credit cards, consumer finance, asset management, and leasing. The Group aims to be “the world’s most trusted financial group” through close collaboration among our operating companies and flexibly respond to all the financial needs of our customers, serving society, and fostering shared and sustainable growth for a better world. MUFG’s shares trade on the Tokyo, Nagoya, and New York stock exchanges.
+MUFG’s Americas operations, including its offices in the U.S., Latin America, and Canada, are primarily organized under MUFG Bank, Ltd. and subsidiaries, and are focused on Global Corporate and Investment Banking, Japanese Corporate Banking, and Global Markets. MUFG is one of the largest foreign banking organizations in the Americas. For locations, banking capabilities and services, career opportunities, and more, visit www.mufgamericas.com.
+Media Contacts
+Summit Ridge Energy
+Wendy Beach
+[email protected]
+srenergy.com
+MUFG
+Ben Glaser
+[email protected]
+mufgamericas.com
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/news/capitol-heights-ribbon-cutting/
+
+Summit Ridge Energy, Invesco Real Estate, and Black Bear Energy celebrate 4.7 MW of new community solar generation powering homes, supporting local jobs, and building a more resilient grid.
+CAPITOL HEIGHTS, MD [October 29, 2025] – Today, Summit Ridge Energy, the nation’s leading commercial solar company, Invesco Real Estate, the USD 83bn global real estate investment business of Invesco Ltd. (NYSE: IVZ), and Black Bear Energy, a commercial buyer’s representative specializing in onsite renewable energy and cleantech services, celebrated the completion of five rooftop community solar projects in Capitol Heights, Maryland. Totaling 4.7 MW, the projects are hosted on five industrial buildings owned by Invesco Real Estate. Three of the sites are planned to be energized by the end of October, with the remaining two set to come online by year end.
+The five projects are part of the Maryland Community Solar Program, which provides low-cost renewable energy to local residents. Developed and owned by Summit Ridge Energy, these sites will generate over 6 million kWh of electricity annually, the equivalent of powering more than 600 homes each year. In addition to delivering affordable, locally generated energy, the projects create local jobs during construction and maintenance, generate new tax revenue for Prince George’s County, and strengthen Maryland’s electric grid with reliable distributed generation. Together, these efforts support the state’s renewable energy goals and advance American energy independence.
+1200 Hampton Park, a 1.6 MW rooftop solar project in Capitol Heights, MD
+“These projects are a great example of what can be accomplished through strong collaboration,” said Nate Greenberg, SVP of Business Development at Summit Ridge Energy. “Partnering with Invesco Real Estate and Black Bear Energy, we’ve transformed unused rooftop space into productive solar assets that deliver energy savings to Maryland residents, while creating local economic benefits and strengthening the grid. Together, we’re advancing American energy independence one project at a time.”
+“We’re pleased to support the deployment of community solar across our Maryland industrial portfolio,” said Steven Morris, Investment Manager at Invesco Real Estate. “These projects reflect our commitment to long-term value creation and supporting the broader sustainability goals of Maryland.”
+“Black Bear is thrilled to work with these two fantastic partners to deliver community solar projects in Maryland that mark a significant step toward a cleaner, more resilient energy future,” said Drew Torbin, Founder and President of Black Bear Energy. “Invesco’s leadership paired with Summit Ridge Energy’s expertise in solar development were critical in making these projects a reality. Projects like these set the stage for a future where renewable energy is seamlessly integrated into our built environment, delivering benefits to property owners and local communities.”
+###
+About Summit Ridge Energy
+As the nation’s leading commercial solar company, Summit Ridge Energy merges financial innovation and industry-leading execution to deliver locally generated energy via a more resilient and secure electric grid. This has made Summit Ridge one of the fastest-growing energy companies in America, with over 2GW of solar power operating and in development.
+Since launching in 2017, Summit Ridge has raised over $5B in project capital to finance 200+ solar facilities, providing energy savings to more than 42,000 homes and businesses while contributing to American energy independence. Learn more at srenergy.com and connect with us on LinkedIn.
+About Invesco Ltd.
+Invesco Ltd. (Ticker NYSE: IVZ) is a global independent investment management firm dedicated to delivering an investment experience that helps people get more out of life. Our distinctive investment teams deliver a comprehensive range of active, passive and alternative investment capabilities. With offices in more than 20 countries, Invesco managed USD 1.8tn in assets on behalf of clients worldwide as of December 31, 2024. For more information, visit www.invesco.com/corporate.
+About Invesco Real Estate
+Invesco Real Estate is a global leader in the real estate investment management business with $83 billion in real estate assets under management, 603 employees and 21 regional offices across the U.S., Europe and Asia Pacific as of March 31, 2025. With over a 40-year history, Invesco Real Estate invests across the risk return spectrum, from core to opportunistic; in equity and debt; listed and direct; locally and globally. Invesco Real Estate is a business name of Invesco Advisers, Inc., an indirect, wholly owned subsidiary of Invesco Ltd.
+About Black Bear Energy
+A Legence Company (Nasdaq: LGN), Black Bear Energy is a technology-enabled, commercial buyer’s representative specializing in onsite renewable energy and cleantech services. In the past ten years, Black Bear has helped its clients bid out over 2,000 clean technology projects in more than 20 states through its data-driven process. For more information about Black Bear Energy, visit BlackBearEnergy.com.
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/news/crux-summit-ridge-244-million/
+
+The investment supports ~200 MW of community solar and commercial & industrial (C&I) solar PV projects in Illinois
+NEW YORK, NY [October 22, 2025] — Today Crux, the capital markets technology company for the clean economy, and Summit Ridge Energy, one of the nation’s leading commercial solar companies, announced an investment of $244 million in tax equity capital to support a ~200 MWdc portfolio of distributed solar projects across Illinois.
+Located in Illinois, the portfolio provides locally generated energy access to households, small businesses, and commercial and industrial users through the state’s community solar programs. Together, the projects deliver a diversified and resilient energy profile that advances local energy affordability and sustainability.
+A Summit Ridge Energy 2.9 MW solar project located in Sparland, IL
+This tax equity transaction, backed by investment grade-rated capital, was structured through a Crux-managed vehicle as a hybrid partnership flip designed to optimize monetization of Summit Ridge Energy’s federal investment tax credits (ITC) through the use of transferability.
+Tax equity is a critical financing tool in the US renewable energy market, enabling developers to monetize federal tax incentives and advance resilient energy deployment. Hybrid tax equity strategies make up the majority of tax equity investments and transfers out of tax equity are the fastest-growing part of the market. Crux’s 2025 mid-year market intelligence report revealed that hybrid tax equity structures, which are structured to transfer a portion of the tax credits, made up more than 60% of tax equity commitments in 2025.
+This is the first tax equity financing that Crux has announced since it publicly launched its new tax and preferred equity service offering last month and since Yonette Chung McLean began working with the company to leverage its tax credit transfer platform to expand financing access in the market.
+“At Crux, we recognize that the future of clean energy hinges on efficient capital,” said Ms. Chung McLean. “This transaction brings together two longstanding Crux clients who share our belief that clean energy should be more accessible to communities. Summit Ridge has been an exceptional partner in distributed generation solar, expanding access and affordability for customers, and we’re proud to help scale their impact across the Midwest.”
+“Crux has been an outstanding partner in navigating an evolving tax equity market,” said Adam Kuehne, Chief Investment Officer at Summit Ridge Energy. “By combining Crux’s innovative financing approach with Summit Ridge’s proven expertise in developing and executing distributed solar projects, we delivered a complex transaction with speed and precision. Together, we’re scaling projects that power local economies, strengthen grid reliability, and advance U.S. energy independence.”
+Crux has assembled a highly experienced team of tax equity finance professionals providing centralized execution, underwriting, and fund-level management, creating efficiency versus one-off bilateral transactions. The platform structure establishes a repeatable framework for future investments as Summit Ridge continues to expand its distributed generation portfolio.
+###
+About Summit Ridge Energy:
+As the nation’s leading commercial solar company, Summit Ridge Energy merges financial innovation and industry-leading execution to deliver locally generated energy via a more resilient and secure electric grid. This has made Summit Ridge one of the fastest-growing energy companies in America, with over 2GW of solar power operating and in development.
+Since launching in 2017, Summit Ridge has raised over $5B in project capital to finance 200+ solar facilities, providing energy savings to more than 42,000 homes and businesses while contributing to American energy independence. Learn more at srenergy.com and connect with us on LinkedIn.
+About Crux:
+Crux is the capital markets technology company changing the way clean energy, minerals, and manufacturing projects are financed in the United States. Crux’s platform, market intelligence, and expert team help developers and manufacturers unlock financing through all stages of project development and operation. Since its launch in 2023, Crux has raised more than $77 million in funding from venture capital and strategic investors. Crux’s world-class team brings together expertise from energy, tax, finance, government, and technology to power an abundant, resilient, and secure energy future. For more information, visit https://www.cruxclimate.com/.
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/news/solar-powered-beekeeping/
+
+What happens when forward-thinking engineers and passionate beekeepers join forces? At Summit Ridge’s Cross Road Trail solar site in Brandywine, Maryland, the result is a thriving landscape where solar technology and pollinator habitats work together to deliver value for the entire community.
+The Cross Road Trail Solar Site is part of Summit Ridge’s 9 MW presence in Brandywine, MD
+Our team, led by Celena Hsiung, Sr. Design Engineer, and Ryan Lackey, Construction Manager at Summit Ridge, conducted a site visit along with Allan Storm, Master Beekeeper, U.S. Marine Corps veteran, and owner of Stormy Acres Bee Farm to capture the benefits of this unique partnership.
+Watch the video:
+Ryan Lackey, Construction Manager (left), Allan Storm, Master Beekeeper at Stormy Acres Bee Farm (center), and Celena Hsiung, Sr. Design Engineer (right)
+About the Site
+Powered since 2022, the Cross Road Trail 1 MW solar site features 2,600 PV panels, contributing to Summit Ridge’s 9 MW presence in the Brandywine, MD area. These facilities contribute to the grid and deliver energy savings to approximately 800 local homes, providing Prince George’s County with dependable energy and meaningful tax revenue that supports regional growth.
+Cross Road Trail contributes over 1.5 million kWh annually to Pepco’s Maryland grid
+The Partnership: A Home for Bees & Independent Energy
+Summit Ridge’s partnership with Stormy Acres Bee Farm has transformed this solar site into a haven for thriving beehives. Master Beekeeper Allan Storm leads the effort along with his wife Elaine, tending the bees and helping communities understand the essential role of pollinators in local agriculture and ecosystems.
+“Storm” attended the Beekeeping Academy of Slovenia, and obtained his Master Beekeeper certificate at the University of Montana
+“Solar farms are ideal partners for bees. With reduced traffic and limited chemicals, sites like Cross Road Trail give my hives a safe, productive space to thrive,” said Storm, “Our work here isn’t just about honey; it’s about supporting crops, flowers, and the greater ecosystem. Bees are fascinating, essential partners in building a better environment.”
+Stormy Acres’s beekeeping work offers significant advantages, particularly regarding local honey production. Known to be rich in health benefits, honey contains traces of pollen from nearby plants, which can aid in building immunity to local allergens and may alleviate allergy symptoms. Additionally, honey is known for its antioxidant properties, which help protect the body from free radical damage and may reduce the risk of chronic diseases like heart disease and cancer.
+PV Cells and Honeycomb Cells: Together in Motion
+From the very beginning, Summit Ridge focused on people and partnerships as the foundation for the Cross Road Trail site. Collaboration with Stormy Acres Bee Farm arises from a clear vision: energy projects should go beyond power generation to support agriculture and community well-being. According to Ryan Lackey, “True stewardship is finding ways for every project to give back to the land and the people who depend on it.”
+Stormy Acres, located in Bowie, MD, provides a variety of services such as honey production, beekeeping, swarm removal, and apitherapy
+The Cross Road Trail solar site serves as a model of teamwork, innovation, and real community impact. With leaders like Allan Storm, Summit Ridge’s approach to resilient energy is driving progress and creating a thriving home for Maryland’s most important pollinators.
+Learn more about Stormy Acres Bee Farm
+More pictures from the site visit:
+
+--------------------------------------------------------------------------------
+
+URL: https://srenergy.com/news/sre-bofa-305/
+
+Strategic Partnership Highlights Continued Attractiveness of Distributed Solar Assets to
+Capital Markets
+A Summit Ridge Energy 3 MW solar project located in Delmar, MD. (Photo Credit: Ben Paul Morris)
+ARLINGTON, VA [September 9, 2025] – Summit Ridge Energy, the nation’s leading commercial solar company, today announced the closing of a $305 million senior secured credit facility with Bank of America to support a portfolio of community solar projects across Illinois and Maryland, totaling 158 megawatts (MW) of capacity. The facility was raised alongside HASI, a leading investor in sustainable infrastructure assets.
+The financing package, which includes a $281 million term loan and a $24 million letter of credit facility, will provide term financing for the portfolio. The projects are expected to deliver reliable energy savings to 5,000 households and businesses, while generating significant local tax revenue and creating 3,000 jobs in construction, engineering, and long-term operations.
+Bank of America acted as Structuring Agent, Syndication Agent, Coordinating Lead Arranger, Administrative Agent, Hedge Provider, and LC Fronting Bank for the oversubscribed transaction, which included ING Capital as Green Loan Structuring Agent and Coordinating Lead Arranger, and KeyBanc Capital Markets as Coordinating Lead Arranger.
+“This financing marks another significant milestone for Summit Ridge,” said Adam Kuehne, Chief Investment Officer at Summit Ridge Energy. “Expanding our partnership with Bank of America enables us to grow our footprint in Illinois and Maryland, providing cost savings for thousands of customers while advancing America’s energy independence with U.S.-made components and local labor.”
+“We are pleased to collaborate with Summit Ridge on this energy portfolio,” said Omer Farooq, Head of Asset Finance within the Global Sustainable & Infrastructure Finance Group at Bank of America. “Our support for distributed energy projects underscores our ability to advance energy solutions that also contribute to local economic development.”
+Impact and Benefits
+The Summit Ridge Energy portfolio will:
+• Provide long-term energy savings for 5,000 households and businesses.
+• Create 3,000 construction, supplier, and operations jobs across Illinois and Maryland.
+• Strengthen local grids with distributed energy that improves reliability and promotes American independent power.
+This portfolio expands Summit Ridge’s leadership position in solar, now with more than 2 GW of projects in operation or development nationwide.
+###
+About Summit Ridge Energy
+As the nation’s leading commercial solar company, Summit Ridge Energy merges financial innovation and industry-leading execution to deliver locally generated energy via a more resilient and secure electric grid. This has made Summit Ridge one of the fastest-growing energy companies in America, with over 2 GW of solar power operating and in development.
+Since launching in 2017, Summit Ridge has raised over $5B in project capital to finance 200+ solar facilities, providing energy savings to more than 42,000 homes and businesses while contributing to American energy independence. Learn more at srenergy.com and connect with us on LinkedIn.
+Summit Ridge Energy Contact
+Media
+[email protected]
+Business Development
+[email protected]
+Bank of America Contact
+Sheryl Lee
+[email protected]
+657.234.9950
+
+--------------------------------------------------------------------------------

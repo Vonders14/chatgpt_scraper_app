@@ -1,0 +1,1305 @@
+ROOT: https://acep.uaf.edu/
+SCRAPED_AT_UTC: 2026-02-11T19:46:46.099435Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://acep.uaf.edu/
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/projects/kotzebue-home-heating-field-study.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.uaf.edu/acep-blog/future-investment-critical-for-continued-energy-data-access-in-alaska.php
+
+Future investment critical for continued energy data access in Alaska
+By Will Fisher and Ian MacDougall
+January 20, 2026
+Alaska energy systems are complex and often exceptional. From the trans-Alaska oil pipeline to the integration of wind, solar and battery systems into remote microgrids and the proposed deployment of the first advanced microreactor at Eielson Air Force Base, Alaska's energy resources are as diverse as the customers themselves.
+Alaska utilities and industries produce power for a wide range of customers with wildly different power needs, from large-scale mining and fishing operations to remote military bases to isolated microgrids serving the smallest remote communities. As power demands continue to grow, many of these systems are aging and upgrades are needed, both to ensure continued service and to improve efficiency.
+But Alaska’s energy data has significant gaps, inconsistencies and information silos that prevent accurate reporting and long-range planning for community infrastructure investments. These projects usually come with big price tags and commitments of 15 to 50 years. Decision makers need access to high-quality and trustworthy data to make informed decisions regarding these multimillion dollar projects with long-lasting impacts. Without solving these data challenges, Alaska’s communities cannot evolve to meet the energy demands of the future.
+That’s where the Alaska Energy Data Gateway comes in.
+The Alaska Energy Data Gateway, or AEDG, is a centralized public platform that brings together energy and socioeconomic data for communities across the state. This easy-to-use resource provides consistent, transparent access to data on energy costs, generation, fuel use and infrastructure. That information helps users like local energy planners, legislators, agency staff, local leaders and residents better understand the realities facing Alaska’s communities.
+The gateway was first released in 2013 as part of a collaborative research program by the University of Alaska’s Institute for Social and Economic Research and Alaska Center for Energy and Power. It was part of the first project awarded to UA by the U.S. Department of Energy’s Established Program to Stimulate Competitive Research. In its 2023 report, the Alaska Energy Authority’s Alaska Energy Security Task Force recommended updating the original platform.
+Thanks to the 33rd State Legislature’s investment in the Alaska Energy Data Gateway, Alaskans can now easily access validated energy and socio-economic data about their community, their regional grid, and neighboring communities. The revitalized platform was built from the ground up by ISER and ACEP. These two highly trusted research centers employ subject-matter experts like economists and energy data experts, who collect, correct, validate and synthesize millions of rows of data coming from federal, state and local sources. That information is displayed on optimized data dashboards that make it easy to see the state of energy at the community, grid and regional levels.
+“The AEDG is the best and most comprehensive source of data for Alaska's electric utilities, and thus a key component for the state to develop and evaluate energy policy for electric utilities,” said Neil McMahon, a new research assistant professor at ACEP with over 15 years of experience managing energy projects in the state. “Without the AEDG, it would be much more difficult for policymakers, researchers, community energy champions and bureaucrats to plan Alaska's energy future.”
+This is no off-the-shelf solution. AEDG is Alaskan-built virtual infrastructure. Because the vast majority of utilities in Alaska are too small to meet the threshold for federal reporting requirements to the Energy Information Administration, energy data in Alaska are not accessible through the national database, creating an information vacuum. AEDG integrates energy datasets available through the Alaska Energy Authority and elsewhere to provide free access to trusted data, enabling decision-makers to accurately analyze the potential impacts of proposed energy policy and infrastructure, the effectiveness of prior energy policies, and much more.
+Since its relaunch in November, AEDG is already providing value. Community members are using the site to communicate with vendors, to prepare grant applications and to plan future energy upgrades.
+“With Alaska facing the highest energy burden in the nation, the Alaska Energy Data Gateway is a critical resource,” said Shaina Kilcoyne, from the Alaska Venture Fund. “It provides access to data that helps me understand community energy systems, especially when I can’t be on the ground, including costs, sales and trends. Beyond supporting individual projects, it is an essential tool for informed policy and program development.”
+The challenges to energy data are pervasive and with the data assets in the state as they are, the AEDG at present only services data up to 2021. More-recent data is needed, but will require more work. As Alaska’s energy sector continues to evolve, so does its data. Further investment will be needed to maintain the accuracy, transparency and accessibility of this valuable information into the future.
+A tool like AEDG goes beyond just a website. It serves as the energy data infrastructure of the state, tying together data assets from state and local agencies and research centers alike. Funding the continuation of this data asset puts Alaska communities and regions in the driver’s seat, empowering local leaders with up-to-date energy information to inform infrastructure changes that will benefit their own residents — and by extension, the entire state.
+Learn more about AEDG:
+Foundational elements of the Alaska Energy Data Gateway
+Revitalized project will offer Alaskans energy data access
+ACEP-ISER project is underway to advance energy data access for Alaskans
+Alaska Energy Data Gateway relaunches to support statewide energy decisions
+Bridging Alaska energy data gaps
+Will Fisher is the cyberinfrastructure lead and Ian MacDougall is a data analyst for the Research Technology Infrastructure team at the Alaska Center for Energy and Power, an applied research group at the University of Alaska Fairbanks.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/about/index.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/about/job-opportunities.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/about/org-charts/index.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/about/branding-guidelines.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/about/visit-acep.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/projects/index.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/services.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/about/our-team/index.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/uaf/index.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/index.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/our-resources/areas-of-expertise.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/working-groups/index.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/research/index.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/research/grid-edge.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/research/pacific-marine-energy-center.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/research/power-systems-integration.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/facilities/index.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/facilities/power-systems-integration-laboratory.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/facilities/tanana-river-hydrokinetic-test-site.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/facilities/solar-photovoltaic-test-site.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://acep.uaf.edu/acep/our-resources/index.php
+
+ACEP news
+-
+ACEP welcomes deputy director for research
+February 11, 2026
+Dominique Pride is ACEP's new deputy director for research, effective Feb. 8.
+-
+Energy in the North on Alaska energy data tool and AVEC
+February 10, 2026
+Upcoming on "Energy in the North" will feature an interview with Leasi Vanessa Lee Raymond on the newly revamped Alaska Energy Data Gateway and a conversation with Bill Stamm on the Alaska Village Electric Cooperative.
+-
+New interactive map showcases Alaska's microgrid energy systems
+February 04, 2026
+A free interactive digital tool developed by ACEP gives users a comprehensive look at energy systems in Alaska's microgrid communities.
+-
+Chukwu turns challenges into possibilities
+February 02, 2026
+In Okwuchukwu Chukwu's world, challenges rarely stay challenges for long. In her hands, they become opportunities to learn. She approaches each one with open-mindedness, creativity, patience and perseverance.
+Solving Alaska’s Energy Challenges
+ACEP works with Alaskan communities and industries as leaders establishing the energy systems of the future. Alaska’s remote off-grid systems present unique problems to generation, distribution and resource integration that have spurred microgrid innovations for decades.
+Events
+-
+Seminar on iterative turbine deployment for river energy
+March 04, 2026
+Ben Loeffler will give a talk, titled "BladeRunner iterative deployments at the Tanana River Test Site."
+-
+Discussion on nuclear waste management
+February 24, 2026
+The Alaska Nuclear Energy Working Group will launch its first 90-min meeting this month, featuring presentations on nuclear waste management.
+-
+Presentation on hydrogen generation with AI
+February 03, 2026
+The upcoming Alaska Hydrogen Working Group meeting will feature a presentation titled, "AI-driven discovery of H2 generators (ADD-H2)."
+From the Grid
+Dispatches from Alaska’s Energy Sector
+-
+Future investment critical for continued energy data access in Alaska
+January 20, 2026
+Alaska's energy systems are complex, serving large industrial users, military bases and remote rural communities. As demand grows and infrastructure ages, long-term, costly decisions are unavoidable, yet gaps and inconsistencies in energy data have hindered effective planning. The Alaska Energy Data Gateway addresses this challenge by providing a centralized, public platform with validated energy and socioeconomic data for communities statewide. Rebuilt through legislative investment and led by the University of Alaska, AEDG integrates millions of data points into accessible dashboards. The platform empowers policymakers, planners, researchers and residents to guide investments, assess policy impacts and plan Alaska's energy future. Continued investment is needed to keep the data current.
+-
+Nuclear energy, reconsidered: What's changed, and why it matters for Alaska
+January 16, 2026
+For decades, U.S. nuclear power has hovered between promise and practicality, slowed by cost, timelines and public skepticism. Now that balance is shifting and Alaska is becoming an unlikely testing ground. Federal moves to deploy next-generation small nuclear reactors at Fort Wainwright and Eielson Air Force Base mark a transition from theory to reality. With safer, smaller designs and growing public curiosity, Alaska faces a pivotal choice about nuclear energy's role in the state's energy future.
+-
+Transforming Alaska’s energy future
+December 10, 2025
+UAF energy center’s internships give students real-world experience in addressing the needs of the state’s electric utilities.
+Kotzebue home heating field study
+Researchers at the University of Alaska Fairbanks are recruiting participants for a 24-month field study in Kotzebue. The study aims to reduce fuel oil use and home heating costs.
+
+--------------------------------------------------------------------------------

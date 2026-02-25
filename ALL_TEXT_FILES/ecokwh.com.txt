@@ -1,0 +1,20 @@
+ROOT: https://ecokwh.com/
+SCRAPED_AT_UTC: 2026-02-11T20:00:17.851946Z
+PAGES_INCLUDED: 1
+
+================================================================================
+
+URL: https://ecokwh.com/
+
+Kinetic Microgrid
+and 2MWh Battery Storage Units
+and 2MWh Battery Storage Units
+and 2MWh Battery Storage Units
+and 2MWh Battery Storage Units
+100MWh Mobile Megapack Farm
+Kinetic Microgrid
+and 2MWh Battery Storage Units
+Ecolution Power Company supports the demand to move towards a net zero carbon footprint. We do this by capturing the ‘wasted’ kinetic energy of moving transportation, opening up the potential to eliminate more emissions and power cities across the globe with clean and efficient energy.
+Our proprietary technology empowers transportation and logistics companies to generate, store and deliver sustainable energy.
+
+--------------------------------------------------------------------------------

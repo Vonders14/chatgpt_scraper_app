@@ -1,0 +1,109 @@
+ROOT: https://energyactionfund.org/
+SCRAPED_AT_UTC: 2026-02-11T20:02:15.089032Z
+PAGES_INCLUDED: 4
+
+================================================================================
+
+URL: https://energyactionfund.org/
+
+Our Mission
+Energy Action Fund advocates for a clean and equitable energy future to tackle the climate crisis
+Our strategy aims to support clean energy advocates, achieve significant legislative wins, and accelerate the transition to a clean energy economy.
+We’re hiring a Program Manager, Campaigns. Learn more and apply here.
+We promote policies that drive innovation and reduce carbon emissions
+We deliver results by empowering local advocates, executing accountability campaigns, and building bipartisan policymaker support to influence energy policy in the U.S. Energy Action Fund concentrates its resources with powerful voices for clean energy in venues across the U.S., at all levels of government.
+
+--------------------------------------------------------------------------------
+
+URL: https://energyactionfund.org/credits/
+
+New Mexico
+Credit: Courtesy of Governor Michelle Lujan Grisham’s office
+South Carolina
+Credit: South Carolina Coastal Conservation League
+Nevada
+Credit: RenewNV
+Maryland
+Credit: CCAN Action Fund
+Washington
+Credit: Office of the Governor photo
+Colorado
+Credit: Joe Amon, The Denver Post
+
+--------------------------------------------------------------------------------
+
+URL: https://energyactionfund.org/legal/
+
+PRIVACY POLICY
+The Energy Action Fund (“the Fund”) is committed to protecting your privacy online. Your use of www.energyactionfund.org, including all other platforms, features and sites (the “Website”) indicates your acceptance of this Privacy Policy (the “Policy”). If you do not accept all of the terms of the Policy, you should not use the Website. This Policy may change, so please refer back to it periodically.
+- How We Collect Information About You.
+We obtain information about you when you use our Website. For example, we use third party services such as Google Analytics that may use cookies to collect certain information, some of which may be considered Personal Data under applicable law, to monitor aggregate usage and web traffic routing on our website and to customize and improve our services. We may also obtain information about you when you apply for a grant from us or manage a grant from us. - What Kinds of Information Do We Collect About You?
+“Personal Information” is information that would allow someone to identify or contact you, including, for example, your name, organization, address, phone number and email address. The Personal Information we ask for might include your name, address, country or area of residence, academic affiliation, level of education, student status, field of study, birthdate, gender, phone numbers, fax number, email address, social media online identifiers, tax or banking information, and IP address. If you make a donation, register for an event, or apply for a grant, you may be directed to a third-party website to process that transaction. They may collect additional information necessary to complete that transaction or application. - How We Use Your Information.
+- The Fund uses Personal Information collected about you to provide you with information and services, enable you to participate in features and platforms on the Website, customize our services to individual needs, provide user support, register and manage participation in events and conferences, award and administer grants, and to advance the Fund’s mission.
+- The Fund may share your Personal Information with its agents, affiliated entities, and partners for the purposes of completing tasks and providing services to you on our behalf. For example, if we partner with an institution to host an event and you register for that event, we may share your registration information with that institution. The Fund will not sell, rent, or disclose Personal Information to unaffiliated mass marketers without your express permission. We do not exchange, trade, rent or give email lists to unaffiliated third parties.
+- If law enforcement or judicial authorities require us to provide them with your Personal Information, we must cooperate with the authorities if their request is supported with the necessary legal documentation.
+- We reserve the right to disclose your Personal Information to protect the rights, property, safety or security of the Fund, our visitors, our registered users or the public.
+- Legal Basis for Processing.
+Our legal basis for processing your Personal Information for the purposes described above will typically be consent, as you have consented to us using your Personal Information for the purposes discussed here. We may also process your Personal Information to enter into or perform a contract with you, or to comply with a legal obligation to which the Fund is subject. It is also in our legitimate interest to use your Personal Information to operate and improve our services, measure our impact, and to protect our organization. - Nonpersonal Information.
+We may collect nonpersonal information about you when you visit the Website. Nonpersonal information may include browser types, access times, and technical information concerning connection to the Website. We may use this information for internal purposes, for example, to improve the Website, analyze usage patterns, and negotiate with vendors of Internet services. That information does not include your Personal Information. - Security.
+The Fund treats security seriously and takes reasonable measures to protect each Website user’s Personal Information. The Fund is not, however, responsible for any information you share with other users of the Website or other third parties. While we strive to use industry-standard practices to protect your information, the Fund cannot guarantee the absolute security of your information. If you believe there has been any breach of the security of the Website, please contact us. - Your Control of Personal Information.
+- You may limit the collection and use of different elements of your Personal Information by not participating in those activities for which we collect Personal Information, as listed above. You may unsubscribe from communications you receive from us, or select the type of information you would like to receive, by following directions included in such communications.
+- You may request a copy of the Personal Information we hold about you by contacting us at the address below. You may ask us to correct any personal information or delete all information we hold about you by contacting us at the address below.
+- Submitting Information to Public Areas of Website.
+Please be aware that if you decide to disclose Personal Information on an area of the Website accessible to other users, this information may become public. The Fund does not control the acts of users of the Website, so please be cautious when deciding to reveal Personal Information. Please contact us if you believe a user of the Website is improperly collecting or using information about you or other users. - Cookies.
+A cookie is a small piece of information that a website can store on a computer and later use to recognize a user. The purpose of cookies is to enhance your ability to receive the information you want. The Fund may use cookies to enhance the experience of users of the Website. A session cookie expires when a user closes the browser in which the Website was viewed. You can personalize your browser settings to reject cookie sessions.We use Google Analytics to help analyze how visitors use the Website. Google Analytics uses cookies to collect standard Internet log information and visitor behavior in an anonymous form. This information is transmitted to Google and is used to generate reports to help us improve the Website. The information transmitted does not contain Personal Information. You can opt out of Google Analytics without affecting how you use the Website. For more information on opting out of tracking by Google Analytics across all websites you use, visit this Google page. - Privacy Protection for Children.
+If you are under the age of 16, please do not use the Website. The Fund will not knowingly permit persons under the age of 16 to provide information to the Fund through the Website or otherwise. - How Long We Hold Data For.
+We keep your Personal Information for as long as is necessary for the purposes for which it is processed. These periods vary depending on the nature of the information and your interactions with us. - Links to Other Websites.
+The Website may contain links to third-party websites. The Fund is not responsible for the privacy practices, policies, or content of those websites. Once you link to any third-party website, you are subject to the terms of service and privacy policy of that site. We encourage you to investigate and ask questions before disclosing information to third parties. - Notification of Changes.
+We strongly believe in respecting your privacy. We will update and amend this Policy if and when it is necessary. Please check back often to read our most updated and amended version, which is posted in the privacy policy section of the Website. Your continued use of the Website means that you consent to our updates and amendments. - Contact Information.
+You may contact the Fund through any of the following ways:
+By Email: info@energyactionfund.org
+By Mail: Energy Action Fund
+55 Second Street, Suite 2400
+San Francisco, CA 94105By Phone:
+Technical Support: 415.561.6700
+General Help: 415.561.6700
+TERMS OF SERVICE
+These Terms of Service (this “Agreement”) is made between you and the Energy Action Fund (the “Fund”), under which you, the user, may use www.energyactionfund.org, including all other platforms, features and sites (the “Website”). By using the Website, you acknowledge and agree to the terms and conditions of use set forth below in this Agreement:
+- Your Use of Content.
+You may use the Website to share ideas and information and connect and communicate with others, with the goal of creating a community that embraces new and critical ways of thinking about clean energy. The contents of the Website, including but not limited to all materials, information, publications, text, databases, data, graphics, graphs, images, charts, photographs, illustrations, audio material, and audiovisual material (the “Content”) are only for your personal, noncommercial use. The Website is protected by copyright as a collective work or compilation. All materials contained on the Website are protected by copyright, and are owned or controlled by the Fund or the party or user that provides them. Unauthorized use may violate copyright, trademark, or other laws. To avoid unauthorized use, you:- must abide by any and all additional copyright notices, information, or restrictions contained in any Content on the Website;
+- may download and make copies of the Content and other downloadable items contained on the Website only for personal, noncommercial use and you must maintain all copyright and other notices contained in such Content; and
+- may not copy or store any Content for any purpose other than personal, noncommercial use, unless you have obtained prior written permission from the Fund or the copyright holder identified on our Website.
+If you are a copyright owner and believe that material on the Website infringes your rights, please provide an official notice in accordance with the Digital Millennium Copyright Act by certified mail to the address listed in Section 15 of this Agreement.
+- Representation and Warranty with Regard to Age.
+You represent and warrant that you are at least 16 years old. - Communications.
+It is important to us that you maintain the right to your contributions to the Website, so unless specifically indicated, your ideas and content are your own. In order to operate the Website for its intended purposes, however, we require a limited license to use your contributions, as we may determine, for the proper functioning and operation of the Website. By providing information, posting messages, uploading files or documents, inputting data, or engaging in any other form of communication (“Communications”) with or to the Website or other users, you hereby grant to the Fund a perpetual, nonexclusive license to copy, display, reproduce, transmit, modify, prepare derivative works, and use such Communications in connection with the functioning and operation of the Website. If we need to use your Communications for other purposes, we will seek your permission. Because we are interested in your original contributions, you will not submit information that you don’t own or don’t have the right to use. You hereby waive all rights to any claim against the Fund for any alleged or actual infringements of any proprietary rights, rights of privacy and publicity, moral rights, and rights of attribution in connection with your Communications. In order for users of the Website to share information and ideas, you also hereby grant each user of the Website a perpetual, nonexclusive license to access your Communications and to use, reproduce, distribute, display and perform such Communications in furtherance of the purposes of the Website. - No Confidentiality.
+You acknowledge that when you post to the Website, upload files to the Website, or otherwise use the functions of the Website, those Communications are not confidential and your Communications may be available to and read by other users. We recommend that you be cautious about giving out personal information to others. You acknowledge that by submitting Communications to the Website, no confidential, fiduciary, contractually implied, or other relationship is created between you and the Fund other than in accordance with this Agreement. - Personal information; privacy.
+Your privacy is extremely important to us. The Fund’s use of personal information collected from and about you in connection with your use of the Website is governed by a Privacy Policy, available here: [insert link to Privacy Policy]. As part of this Agreement you agree to the Privacy Policy. - Commitment to Data Security.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, the Fund has put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information collected on the Website. Please notify the Fund if you believe your account’s security has been compromised in any way. - Changes to the Website.
+The Fund may change, suspend, or discontinue any aspect of the Website at any time, including the availability of any feature, database, or other Content. The Fund may also impose limits on certain features and services or restrict your access to parts or all of the Website without notice or liability. The Fund will try to give you notice of any changes to the Website via email but you are responsible for reading and understanding them as they occur. - Termination.
+So long as you do not violate the terms of this Agreement, you may participate in the Website and the Fund is happy to have you. But we reserve the right to suspend or terminate your account for any violation of these terms. - Limitation of Liability.
+The Fund is not liable for your use of the Website (including without limitation the Content and any errors contained therein). The Fund is not liable for any damages (including without limitation incidental, consequential, or punitive damages, lost profits, or damages resulting from lost data or business interruption) resulting or arising from your use of, or inability to use, the Website, or sites linked to the Website, whether based on warranty, contract, tort, or any other legal or equitable theory, and whether or not the Fund was advised of the possibility of such damages. - Indemnification.
+You will indemnify, defend, and hold harmless the Fund and its affiliates, and all of their directors, officers, agents, employees, legal advisors, information providers, licensors, and licensees (collectively, the “Indemnified Parties”) from and against any and all liability and costs incurred by the Indemnified Parties in connection with any claim arising out of any breach by you of any term of this Agreement, including without limitation attorneys’ fees and costs. You will cooperate as fully as reasonably required in the defense of any claim. The Fund reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you and you may not in any event settle any matter without the written consent of the Fund. - Disclaimer of Warranties.
+The Website, including all content, software, functions, materials, and information made available on or accessed through the Website, is provided “as is.” To the fullest extent permissible by law, the Fund and affiliates make no representation or warranties of any kind whatsoever for the content on the Website or the materials, information, and functions made accessible by the software used on or accessed through the Website, for any products or services or hypertext links to third parties, or for any breach of security associated with the transmission of sensitive information through the Website or any linked site. Further, the Fund and its affiliates disclaim any express or implied warranties, including without limitation noninfringement, merchantability, or fitness for a particular purpose. The Fund does not warrant that the functions contained on the Website or any materials or content contained therein will be uninterrupted or error free, that defects will be corrected, or that the Website or the server that makes it available is free of viruses or other harmful components. The Fund and its affiliates are not liable for your use of the Website, including without limitation the content and any errors contained therein. - Site-Content Disclaimer.
+The Fund does not represent or endorse the accuracy or reliability of any advice, opinion, statement, or other information displayed or distributed through the Website, and the Fund disclaims any and all responsibility for content contained in any third-party materials provided through links from the Website. You acknowledge that any reliance upon any such opinion, advice, statement, memorandum, or information is at your sole risk. The Fund reserves the right, in its sole discretion, to correct any errors or omissions in any portion of the Website at any time. - User-Content Disclaimer.
+The Fund does not and cannot review all materials posted to the Website by its users, and the Fund is not responsible for any such materials posted by users. The Fund reserves the right at all times to disclose any information as necessary to satisfy any law, regulation, or government request, or to edit, refuse to post, or to remove any information or materials, in whole or in part, that in the Fund’s sole discretion are objectionable or in violation of this Agreement. - Third-Party Resources Disclaimer.
+The Website may contain links and pointers to other Internet sites and resources and to parties affiliated with the Website. Links to and from the Website to third-party sites do not constitute an endorsement by the Fund or its affiliates of any third-party resources or their contents. - Administrative Provisions.
+- Entire Agreement. This Agreement constitutes the entire agreement between the Fund and you with respect to your use of the Website. If for any reason a court of competent jurisdiction finds any provision of this Agreement, or portion thereof, to be unenforceable, that provision must be enforced to the maximum extent permissible so as to effect the intent of this Agreement, and the remainder of this Agreement continues in full force and effect.
+- Changes to this Agreement. The Fund reserves the right, at its sole discretion, to change, modify, add or remove any portion of this Agreement, in whole or in part, at any time. Notification of changes in this Agreement will be posted on the Website.
+- Choice of Law; Jurisdiction. This Agreement is governed by and construed in accordance with the laws of the state of California without regard to its conflicts-of-laws provisions. Sole and exclusive jurisdiction for any action or proceeding arising out of or related to this Agreement is in an appropriate state or federal court located in California. Any cause of action you may have with respect to your use of the Website must be commenced within one year after the claim or cause of action arises.
+- Contact Information. You may contact us through any of the following ways:
+By Email: info@energyactionfund.org
+By Mail: Energy Action Fund
+55 Second Street, Suite 2400
+San Francisco, CA 94105By Phone:
+Technical Support: 415.561.6700
+General Help: 415.561.6700
+
+--------------------------------------------------------------------------------
+
+URL: https://info@energyactionfund.org/
+
+Our Mission
+Energy Action Fund advocates for a clean and equitable energy future to tackle the climate crisis
+Our strategy aims to support clean energy advocates, achieve significant legislative wins, and accelerate the transition to a clean energy economy.
+We’re hiring a Program Manager, Campaigns. Learn more and apply here.
+We promote policies that drive innovation and reduce carbon emissions
+We deliver results by empowering local advocates, executing accountability campaigns, and building bipartisan policymaker support to influence energy policy in the U.S. Energy Action Fund concentrates its resources with powerful voices for clean energy in venues across the U.S., at all levels of government.
+
+--------------------------------------------------------------------------------

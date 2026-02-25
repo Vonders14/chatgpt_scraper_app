@@ -1,0 +1,502 @@
+ROOT: https://encell.com/
+SCRAPED_AT_UTC: 2026-02-11T20:01:54.146079Z
+PAGES_INCLUDED: 17
+
+================================================================================
+
+URL: https://encell.com/
+
+Welcome to Encell Technology
+Encell is committed to solving the challenges of managing, storing and delivering energy in a clean, reliable, and cost-effective way. At Encell Technology, we have a vision. We see an energy future that is far less reliant on the old ways of generating energy and increasingly committed to using alternative sources such as wind, solar, and wave. We see a future where this energy can be provided at a cost that is as low or lower than current fossil-fuel or nuclear sources, and with far less impact on our environment. But before we reach that future we have to solve the energy storage challenges that these alternative sources create. How can providers maintain a consistent level of service when sun does not always shine and the wind does not always blow? How can energy providers and consumers navigate the tradeoffs between storage scalability, costs, environmental impacts, toxicity and longevity that current solutions reveal?
+Encell’s innovation has resulted in a major breakthrough in energy storage:
+- Alternative energy sources of power are currently not controllable like traditional methods of production such as coal fired plants. The proliferation of renewable energy power generation, like PV solar, has started to have a detrimental impact on the stability of the power distribution network due to factors such as their inherent lack of predictability and quality e.g., frequency and voltage. Controlling the time and quality of renewable energy power supply is becoming an impediment to their growth. Energy storage is the logical solution; however, current energy storage solutions are too expensive to cost effectively meet this need.
+- Encell’s battery technology uses totally green materials, produces the required power through its unique battery chemistry, and provides a life span that far exceeds that of competing solutions. The result is an environmentally responsible, safe and scalable solution affording users with the lowest total cost of ownership for long term energy storage applications.
+
+--------------------------------------------------------------------------------
+
+URL: https://encell.com/investors/
+
+Investors
+Capricorn Investment Group
+Capricorn Investment Group is a privately owned investment manager. The firm primarily provides its services to foundations, endowments, institutions, and high-net-worth individuals. It invests in the public equity, fixed income, private equity, and real assets markets across the globe. Capricorn Investment Group LLC was founded in 2001 and is based in Palo Alto, California with additional offices in London, United Kingdom and New York, New York.
+
+--------------------------------------------------------------------------------
+
+URL: https://encell.com/about/
+
+Vision and Values
+Encell is committed to solving the challenges of managing, storing and delivering energy in a clean, reliable, and cost-effective way.
+At Encell we have a vision. We see an energy future that is far less reliant on the old ways of generating energy and increasingly committed to using alternative sources such as wind, solar, and wave. We see a future where this energy can be provided at a cost that is as low or lower than current fossil-fuel or nuclear sources, and with far less impact on our environment.
+But before we reach that future we have to solve the energy storage challenges that these alternative sources create. How can providers maintain a consistent level of service when sun does not always shine and the wind does not always blow? How can energy providers and consumers navigate the tradeoffs between storage scalability, costs, environmental impacts, toxicity and longevity that current solutions reveal?
+We were founded in 2010 with a goal to address these challenges. We design battery storage and have developed a family of green and safe products uniquely suited to the requirements of several rapidly growing market segments, including wireless communications, cloud computing, mobile technology, automotive, healthcare and alternative energy such as wind, solar, and wave. Our innovations include patents for battery design and chemistry enabling the unique capability of serving both power and energy storage applications with a scalable, safe and low cost solution.
+Alternative energy installations cannot become cost-competitive with traditional installations until they can effectively store the power they generate until it is needed. Current storage solutions are currently too expensive per kWh due to factors including:
+- Initial system cost;
+- Insufficient cycle life and calendar life;
+- Limited depth of discharge cycling requirements;
+- Poor charge and discharge efficiency;
+- Fading capacity during cycling; and
+- Expensive climate control requirements.
+Encell’s energy storage solution is uniquely well-suited to address these issues. Specifically, it can perform full, deep discharge cycles daily for over 40 years matching or exceeding the useful life of the power generating assets such as the PV solar panels. Further, it can be rapidly recharged from any capacity level to fully charged (i.e., when the suns shining or the winds blowing) and does not require climate control in hot environments.
+
+--------------------------------------------------------------------------------
+
+URL: https://encell.com/about-2/
+
+Encell is a Florida based manufacturer of proprietary nickel iron batteries. Based on patent-protected Fused Iron TechnologyTM. Encell’s NiFe batteries are uniquely well suited for the rapidly emerging stationary energy storage market.
+Traditional nickel iron batteries, invented and championed by Thomas Edison, have been known for their incredibly long cycle-life, abuse tolerance, and safety for 118 years. Encell’s team of former Energizer R&D scientists has redesigned the NiFe battery and dramatically improved the chemistry’s performance through more than a decade of research and development. These advancements have resulted 113 U.S. and foreign patents pending, and 25 U.S. and 10 foreign patents issued.
+Encell’s targets residential, C&I, and utility scale customers for stationary EES power applications. Encell primarily focuses on residential and C&I market segments. Also, Encell provides storage solutions for large scale ESS projects for Independent Power Providers (“IPPs”) and utility companies. Encell’s NiFe battery can be scaled up for projects which require high Voltage and high capacity (> 250MWh) solutions.
+Encell’s NiFe batteries long cycle-life, coupled with its low upfront cost results in the lowest cost of storage (“LCOS”) available today.
+
+--------------------------------------------------------------------------------
+
+URL: https://encell.com/products/
+
+Fused Iron Batteries
+The Fused IronTM Battery was created to address more sophisticated and demanding power needs, especially the specifications required for major micro grid energy storage applications, off-grid energy storage needs, capital deferment projects, and telecom. By applying 21st century technology to Thomas Edison’s original, long lived and high cycling nickel iron battery, Encell has created to world’s most durable and longest cycling battery.
+The Encell Fused IronTM Battery has the capability of doing over 15,000 full 80% DoD cycles enabling the lowest levelized cost of energy (LCOE) in the market. The extended deep-discharge performance results in a dramatic reduction in the number of batteries needed without compromising battery life. With a float charge battery life of over 20 years and no capacity fade for the first 75% of total cycle life, the Encell Fused Iron™ Battery is estimated to cost up to one-tenth the price per kilowatt hour on a LCOE basis in comparison to a lead acid battery with similar name plate capacity. The LCOE advantage is even more pronounced versus Li Ion batteries.
+Currently, the Encell Fused Iron TechnologyTM Battery is available in several configurations for various applications – 100Ah, 120Ah, 140Ah, 175Ah and 300Ah. Temperature ranges for both operation and storage is (-300C to 600C).
+Microgrid and Grid Edge Energy Storage Solutions
+At Encell, we are committed to developing solutions to meet this challenge and we are using our innovative discoveries in battery chemistry and design to positively impact the future of energy production and storage. Our innovations allow utilities to balance load, stabilize voltage and frequency, manage peak loads, improve power quality in variable demand scenarios, and reduce generation capacity requirements. In addition to its smart power backup and monitoring solutions, Encell has also developed the next generation in power capture and storage to support forward-thinking utilities, data centers, telecommunications companies and health care providers in their effort to maximize the reliability and availability of their systems, whether they provide or consume power.
+Electricity storage provides many benefits for electric power utilities, transmission companies, electricity generators, and consumers. Some of these include reduced financial losses due to poor power quality and power outages, energy price arbitrage involving charging with low priced “off-peak” energy for use later when energy cost and price is high, and basic grid stabilization.
+Our patented, state-of-the-art battery technology addresses the energy inefficiencies inherent in today’s available power storage systems, resulting in the most cost effective (cost/KWh) storage available. The Encell battery system reduces initial capital investment and total cost of ownership so substantially that alternative or renewable energy projects can now be competitive with traditional forms of power generation.
+The cycle life of Encell’s battery storage solutions is more than triple that of other electrochemically-based storage alternatives, but we accomplish this by utilizing green chemistry that does not require fuel tanks, mechanical parts, fluid pumps, specialized high-temperature containers, or highly toxic materials such as lead, sulfuric acid, vanadium, cadmium, or bromine.
+The result? Optimized storage solutions with significant improvements in size, weight, power, efficiency, useful life, and environmental safety. Encell’s storage solution is scalable to support high-capacity requirements anywhere in the world, so we can develop and customize a solution to fit your energy storage needs. To obtain additional information about our solutions and novel approach to battery systems, please contact us.
+
+--------------------------------------------------------------------------------
+
+URL: https://encell.com/fused-iron-batteries/
+
+Fused Iron Batteries
+The Fused Iron Battery was created to address more sophisticated and demanding power needs, especially the specifications required for major micro grid energy storage applications, off-grid energy storage needs, capital deferment projects, and telecom. By applying 21st century technology to Thomas Edison’s original, long lived and high cycling nickel iron battery, Encell has created to world’s most durable and longest cycling battery.
+The Encell Fused Iron Battery has the capability of doing over 15,000 full 100% DoD cycles enabling the lowest levelized cost of storage (LCOS) in the market. The extended deep-discharge performance results in a dramatic reduction in the number of batteries needed without compromising battery life. With a float charge battery life of over 20 years and no capacity fade for the first 75% of total cycle life, the Encell Fused Iron Battery is estimated to cost up to one-tenth the price per kilowatt hour on a LCOS basis in comparison to a lead acid battery with similar name plate capacity. The LCOS advantage is even more pronounced versus Li Ion batteries.
+Currently, the Encell Fused Iron Technology Battery is available in two cell designs a TC3 125 Ah and MG3 330 Ah. Temperature ranges for both operation and storage is (-30°C to 60°C).
+
+--------------------------------------------------------------------------------
+
+URL: https://encell.com/microgrid-and-grid-edge-energy-storage-solutions/
+
+Microgrid and Grid Edge Energy Storage Solutions
+At Encell, we are committed to developing solutions to meet this challenge and we are using our innovative discoveries in battery chemistry and design to positively impact the future of energy production and storage. Our innovations allow utilities to balance load, stabilize voltage and frequency, manage peak loads, improve power quality in variable demand scenarios, and reduce generation capacity requirements. In addition to its smart power backup and monitoring solutions, Encell has also developed the next generation in power capture and storage to support forward-thinking utilities, data centers, telecommunications companies and health care providers in their effort to maximize the reliability and availability of their systems, whether they provide or consume power.
+Electricity storage provides many benefits for electric power utilities, transmission companies, electricity generators, and consumers. Some of these include reduced financial losses due to poor power quality and power outages, energy price arbitrage involving charging with low priced “off-peak” energy for use later when energy cost and price is high, and basic grid stabilization.
+Our patented, state-of-the-art battery technology addresses the energy inefficiencies inherent in today’s available power storage systems, resulting in the most cost effective (cost/kWh) storage available. The Encell battery system reduces initial capital investment and total cost of ownership so substantially that alternative or renewable energy projects can now be competitive with traditional forms of power generation.
+The cycle life of Encell’s battery storage solutions is more than triple that of other electrochemically-based storage alternatives, but we accomplish this by utilizing green chemistry that does not require fuel tanks, mechanical parts, fluid pumps, specialized high-temperature containers, or highly toxic materials such as lead, sulfuric acid, vanadium, cadmium, or bromine.
+The result? Optimized storage solutions with significant improvements in size, weight, power, efficiency, useful life, and environmental safety. Encell’s storage solution is scalable to support high-capacity requirements anywhere in the world, so we can develop and customize a solution to fit your energy storage needs.
+Click below for cell level data sheets:
+To obtain additional information about our solutions and novel approach to battery systems, please contact us.
+
+--------------------------------------------------------------------------------
+
+URL: https://encell.com/case-studies/
+
+COMMERCIAL AND INDUSTRIAL ENERGY STORAGE
+Increase Profitability by Reducing Electricity Costs:
+- Customer is a leading provider of facility solutions with several billion dollars in revenue and over 100,000 employees in offices throughout the United States and various international locations.
+- They wanted to use energy storage in behind-the-meter applications to save their customers money on their electricity costs.
+- They needed the storage projects to have a <7 year breakeven at least a 12% IRR.
+- The primary drivers for generating savings were Time-of-Use shifting and Peak Demand reduction.
+- According to GSM research, demand charges contribute anywhere from 20% to 50% of a C&I customer’s electricity bill.
+- Most large U.S. based C&I customers are on TOU tariffs, and therefore benefit from managing when they use electricity from the Grid.
+KEY REQUIREMENTS
+- Need to be able to have a good rate capability e.g., C/2 to hit the peak load reduction requirements and be able to also time shift usage.
+- Battery must be able to perform >7300 100% DoD cycles as it effectively gets more than one full cycle per day and must last for 20 years of full cycling.
+- Encell can enable these financial parameters to be met in markets where the spread in demand charges between Peak and Off-Peak periods are >$10 per kW.
+- 2.9 MWh
+- 750 MW
+- Santa Ana, CA
+- Behind-the-Meter
+- California SGIP Qualified
+- 1.6 MWh
+- 600 MW
+- Long Beach, CA
+- Behind-the-Meter
+- California SGIP Qualified
+RESIDENTIAL
+Residential energy storage is a great way to save money on electricity costs while doing your part to lower carbon emissions.
+- Typical battery sizes range from 5 to 50 kWh in 12v, 24v and 48v configurations.
+- The batteries can be paired with PV solar, generators and grid power or some combination thereof.
+- Encell’s NiFe batteries work well with most standard, off-the-shelf inverter/battery charger hardware.
+- Our customer’s have successfully used brands such as Outback, Schneider, SMA, Studer…
+EXAMPLE 1
+- 2.4kWh System
+- 24 V Nominal
+- Comprising 20 TC3 100Ah cells
+- Installed in Colorado in 2014
+- Suitable for:
+‒Back up, Supplemental power
+‒Homes in low GDP countries
+EXAMPLE 2
+- 3.84kW System
+- 48.0V Nominal
+- Compromising 40TC3 80Ah cells
+- Installed in California in 2014
+- Coupled with Solar & Diesel Gen Set.
+EXAMPLE 3
+- 13 kWh system
+- 48V Nominal
+- Compromising 36 MG1 300Ah cells
+- Installed in Florida 2014
+- Coupled with PV Solar
+EXAMPLE 4
+- 26kWh System
+- 220V Nominal Voltage
+- Comprising 220 TC3 100Ah cells
+- Each 10 cells packaged in one Atlas battery
+- Installed in Alabama in 2014
+
+--------------------------------------------------------------------------------
+
+URL: https://encell.com/commercial-industrial/
+
+COMMERCIAL AND INDUSTRIAL ENERGY STORAGE
+Increase Profitability by Reducing Electricity Costs:
+- Customer is a leading provider of facility solutions with several billion dollars in revenue and over 100,000 employees in offices throughout the United States and various international locations.
+- They wanted to use energy storage in behind-the-meter applications to save their customers money on their electricity costs.
+- They needed the storage projects to have a <7 year breakeven at least a 12% IRR.
+- The primary drivers for generating savings were Time-of-Use shifting and Peak Demand reduction.
+- According to GSM research, demand charges contribute anywhere from 20% to 50% of a C&I customer’s electricity bill.
+- Most large U.S. based C&I customers are on TOU tariffs, and therefore benefit from managing when they use electricity from the Grid.
+KEY REQUIREMENTS
+- Need to be able to have a good rate capability e.g., C/2 to hit the peak load reduction requirements and be able to also time shift usage.
+- Battery must be able to perform >7300 100% DoD cycles as it effectively gets more than one full cycle per day and must last for 20 years of full cycling.
+- Encell can enable these financial parameters to be met in markets where the spread in demand charges between Peak and Off-Peak periods are >$10 per kW.
+- 2.9 MWh
+- 750 MW
+- Santa Ana, CA
+- Behind-the-Meter
+- California SGIP Qualified
+- 1.6 MWh
+- 600 MW
+- Long Beach, CA
+- Behind-the-Meter
+- California SGIP Qualified
+
+--------------------------------------------------------------------------------
+
+URL: https://encell.com/residential/
+
+RESIDENTIAL
+Residential energy storage is a great way to save money on electricity costs while doing your part to lower carbon emissions.
+- Typical battery sizes range from 5 to 50 kWh in 12v, 24v and 48v configurations.
+- The batteries can be paired with PV solar, generators and grid power or some combination thereof.
+- Encell’s NiFe batteries work well with most standard, off-the-shelf inverter/battery charger hardware.
+- Our customer’s have successfully used brands such as Outback, Schneider, SMA, Studer…
+EXAMPLE 1
+- 2.4kWh System
+- 24 V Nominal
+- Comprising 20 TC3 100Ah cells
+- Installed in Colorado in 2014
+- Suitable for:
+‒Back up, Supplemental power
+‒Homes in low GDP countries
+EXAMPLE 2
+- 3.84kW System
+- 48.0V Nominal
+- Compromising 40TC3 80Ah cells
+- Installed in California in 2014
+- Coupled with Solar & Diesel Gen Set.
+EXAMPLE 3
+- 13 kWh system
+- 48V Nominal
+- Compromising 36 MG1 300Ah cells
+- Installed in Florida 2014
+- Coupled with PV Solar
+EXAMPLE 4
+- 26kWh System
+- 220V Nominal Voltage
+- Comprising 220 TC3 100Ah cells
+- Each 10 cells packaged in one Atlas battery
+- Installed in Alabama in 2014
+
+--------------------------------------------------------------------------------
+
+URL: https://encell.com/environmental-stewardship/
+
+ECOLOGICAL AND SOCIETAL IMPACT CONSIDERATIONS
+Encell provides the market a much safer technology than Lithium Ion batteries, reduces carbon emissions for production of energy, provides positive environmental impact with a recyclable chemistry, and preserves the natural ecosystem. The execution of Encell’s growth strategy will have a positive impact on the reduction of pollution stemming from fossil fuel and hydrocarbon-based energy production.
+Preserve the ecosystem. Contrary to Encell’s Nickel-Iron technology, aging Lead-Acid batteries may leak with time. Heavy lead is toxic, compared to Nickel-Iron. Almost no Lithium Ion batteries are recycled today due to the poor underlying economics because there is little aftermarket value in them and retrieving the valuable commodity metals is very expensive. Encell’s battery is environmentally friendly battery. Encell contributes to a lower carbon footprint for energy delivery and the company’s manufacturing strategy minimizes the transportation costs associated with getting its products to the customer by having assembly operations in or close to target markets.
+Create high value-add job opportunities, increase tax revenues, narrow the social divide, and provide positive employment alternatives to society that require high educational standards by establishing assembly operations in underdeveloped countries and regions.
+ENVIRONMENTALLY FRIENDLY
+All materials fully recyclable—electrodes reusable as they don’t degrade.
+Clean manufacturing process with minimal carbon footprint—plan is to run the plant off PV solar and Newco BESS.
+Primary components are:
+- Iron
+- Nickel (Oxy)Hydroxide
+- Sodium
+- Polypropylene case
+No toxic metals like Lead or Cadmium.
+Non-flammable electrolyte unlike Li Ion which is highly flammable.
+No toxic fumes from accidental burning of cells like fluorine gas in Li Ion and Lead or Cadmium metal fumes.
+No toxic metal contamination is case of cell destruction and leaching.
+
+--------------------------------------------------------------------------------
+
+URL: https://encell.com/board/
+
+Board of Directors
+Robert P. Guyton, Jr. Chairman
+Rob Guyton is the Chairman and founder of Encell. From June 1998 to June 2005, he served as Chairman and CEO of Monarch Capital Partners, a venture capital fund focusing on early-stage, information technology and alternative energy companies based in the Southeast. In early 1996, Mr. Guyton co-founded Inktomi Corporation and served in various roles including a Board Member, President and Vice President, Business Development. Inktomi went public in June 1998 and was later acquired by Yahoo Corporation. Prior to Inktomi, he served as a Vice President in the Corporate Finance Department for The Robinson-Humphrey Company, Inc. Early in his career he successfully created two companies through acquisition—one in the collections industry called Convergent Resources, Inc. financed by CGW Southeast Partners, LLC and Harbor Payments, Inc., an online e-finance business financed by Marsh Ventures, Wachovia Ventures and Fortis.
+Mr. Guyton graduated cum laude from Washington & Lee University with a BS in Business Administration with concentrations in finance and accounting. He also holds an MBA from Harvard University.
+Mohan R. Krishnan, President and Chief Executive Officer
+With over 30 years of experience leading a wide range of global technology-based companies and organizations, Mr. Krishnan joined Encell in February of 2013 as its President and Chief Executive Officer. Mr. Krishnan’s professional experience spans a broad range of industries including rechargeable batteries, automotive parts and systems, advanced aircraft engines and systems, and highly classified weapons and weapon delivery systems. Prior to joining Encell, Mr. Krishnan served for two years as COO and CEO, Global Business Development of The JPM Group, based in Delhi, India, leading a team of executives responsible for 13 independent companies and 20 manufacturing plants, and was on the Board of Directors. Prior to leading JPM, he served as an Investment Portfolio Manager and Proprietary Trader for Deutsche Bank AG from 1999 to 2010. From 1993 to 1999, Mr. Krishnan ran the Rolls Royce, NA Industrial/Marine Business Division (former Allison Engine Company). Mr. Krishnan started his career at General Motors Corporation in 1981, serving in many engineering and engineering leadership roles, including Program Director for the Joint Strike Fighter Program.
+Mr. Krishnan has an M.S. in Aeronautics and Astronautics from the Massachusetts Institute of Technology and a B.S. in Mechanical Engineering from the Indian Institute of Technology.
+Jim Lyons, Director
+Dr. Lyons is a member of Capricorn Investment Partners’ Clean Tech group. Prior to joining Capricorn, Dr. Lyons co-founded Novus Ventures. Dr. Lyons started his career at GE in 1970 with engineering assignments in industrial control, automation, and power systems. Subsequent graduate studies concentrated in control systems and computer science with PhD thesis on Variable Speed Wind Turbine Generators. In 1989, he joined GE Research and in 1999 was appointed Chief Engineer for electrical & electronic systems with responsibilities for product applications across all GE businesses. He has been a corporate champion for renewable energy within GE and one of the founding leaders of GE’s wind energy business.
+Dr. Lyons has a BSEE from Rensselaer Polytechnic Institute, 1970, a MSEE from Virginia Polytechnic Institute, 1981 and a Ph.D. from Cornell University, 1984. He is a Member of the IEEE Industry Application, Computer, Power Electronics, Power Engineering, and Automatic Control Societies. He has authored more than 25 technical papers and has been awarded 28 patents.
+Dipender Saluja, Director
+Dipender Saluja is Managing Director at Capricorn Investment Group, an investment firm based in Palo Alto, where he oversees investments in energy technology, cleantech, IT and emerging markets. Previously, Dipender was Chief of Staff at Cadence, and prior to that worked at Data General (now EMC), Honeywell and ROLM (now IBM). Dipender serves on the boards of Sunpreme, AST, Embrace, Liquidity, and CalStart. Mr. Saluja has a BSEE from the University of Minnesota.
+Steven List, Director
+Steven List is a Managing Director and Portfolio Manager at Crestline Investors, Inc., an institutional alternative asset manager. Mr. List has more than 25 years of expertise providing executive management, interim management, turnaround, and financial/restructuring advisory services. Most recently he was a Partner of CR3 Partners, LLC, a national restructuring firm, with an individual focus on interim management, bankruptcy and M&A. Prior to that, Mr. List spent four years heading the corporate asset management group of Mount Kellett Capital Management, a $7B Private Equity firm focused on special situations investments in North America, Europe, and Asia. Earlier in his career he worked with Mattress Giant Corporation, Crossroads LLC, and KPMG. Mr. List received his BBS in Accounting from the University of Oklahoma, and is a Certified Public Accountant (CPA), Certified Turnaround Professional (CTP) and Certified Insolvency and Restructuring Advisor (CIRA).
+
+--------------------------------------------------------------------------------
+
+URL: https://encell.com/management-2/
+
+Management
+Encell has built an experienced management team with established expertise in entrepreneurial ventures, electronic and power supply design, manufacturing, research and development, battery design and packaging. Encell’s business development team has a substantial track record selling to the worldwide telecommunications, utility and renewable energy, U.S. Government, U.S. Military and foreign government markets. The Company’s technical team represents over 100 years of experience in the battery industry and includes key roles at five battery companies, including design technicians, directors of engineering, research and development executives, and manufacturing and quality control leaders. The team members have experience launching dozens of new battery designs in multiple chemistries.
+Mohan R. Krishnan, President and Chief Executive Officer
+With over 30 years of experience leading a wide range of global technology-based companies and organizations, Mr. Krishnan joined Encell in February of 2013 as its President and Chief Executive Officer. Mr. Krishnan’s professional experience spans a broad range of industries including rechargeable batteries, automotive parts and systems, advanced aircraft engines and systems, and highly classified weapons and weapon delivery systems. Prior to joining Encell, Mr. Krishnan served for two years as COO and CEO, Global Business Development of The JPM Group, based in Delhi, India, leading a team of executives responsible for 13 independent companies and 20 manufacturing plants, and was on the Board of Directors. Prior to leading JPM, he served as an Investment Portfolio Manager and Proprietary Trader for Deutsche Bank AG from 1999 to 2010. From 1993 to 1999, Mr. Krishnan ran the Rolls Royce, NA Industrial/Marine Business Division (former Allison Engine Company). Mr. Krishnan started his career at General Motors Corporation in 1981, serving in many engineering and engineering leadership roles, including Program Director for the Joint Strike Fighter Program. Mr. Krishnan has an M.S. in Aeronautics and Astronautics from the Massachusetts Institute of Technology and a B.S. in Mechanical Engineering from the Indian Institute of Technology.
+Robert P. Guyton, Jr., Founder, Chairman and Chief Business Officer
+Mr. Guyton is the founder of Encell. From June 1998 to June 2005, he served as Chairman and CEO of Monarch Capital Partners, a venture capital fund focusing on early-stage, information technology and alternative energy companies based in the Southeast. In early 1996, Mr. Guyton co-founded Inktomi Corporation and served in various roles including a Board Member, President and Vice President, Business Development. Inktomi went public in June 1998 and was later acquired by Yahoo Corporation. Prior to Inktomi, he served as a Vice President in the Corporate Finance Department for The Robinson-Humphrey Company, Inc. Early in his career he successfully created two companies through acquisition—one in the collections industry called Convergent Resources, Inc. financed by CGW Southeast Partners, LLC and Harbor Payments, Inc., an online e-finance business financed by Marsh Ventures, Wachovia Ventures and Fortis. Mr. Guyton graduated cum laude from Washington & Lee University with a BS in Business Administration with concentrations in finance and accounting. He also holds an MBA from Harvard University.
+Randy G. Ogg, Chief Technology Officer and Director of Research and Development
+As Encell’s CTO, Mr. Ogg is responsible for all aspects of battery research, innovation, design and development, chemistry, manufacturing, testing, quality assurance, and plant operations. He has over seventeen years’ experience managing battery design, manufacturing and quality control. Prior to joining Encell, he served as Chief Technology Officer for Battery Park Industries in Gainesville, FL from 2004-2005. From 1999-2004, Mr. Ogg served in many capacities for Moltech Power Systems/HuaYi, Shanghai, China & Gainesville, FL and its predecessor Moltech Power Systems, Inc. Prior to its sale to Moltech Power Systems in 1999, he served in a number of quality control and technical design capacities from 1994 to 1999 at Energizer Power Systems. Mr. Ogg also worked for Proctor & Gamble, in Cincinnati, OH as a Process Development and Research Engineer. He has extensive research, development and design experience with rechargeable battery chemistries, including NiMH, NiCd, NiZn, LiIon, Li-Polymer, LiS, AgMH, and AgZn. In addition, he holds Six Sigma Master Black Belt and ISO 9001-2000 Certified Lead Auditor certifications. Mr. Ogg holds a BS degree from the University of Florida at Gainesville with a major in Chemical Engineering and a minor in Botany.
+Christopher C. Maier, Chief Financial Officer
+Mr. Maier has served as the Company’s Chief Financial Officer since April 2011. Before joining Encell, he worked for 8 years for Gypsum Management & Supply (GMS), the 2nd largest interior building products company in the US, with $2.5+ billion in revenue in 2007. He was in charge of GMS’s Internal Audit during 2003-4 and served as Regional Accountant from 2004-2011 overseeing the accounting and controllers at 10 of the company’s 45 subsidiaries that included manufacturing, wholesale, and distribution companies. He also assisted or led in due diligence of company acquisitions, company closures, external audits, hiring controllers, training, serving as interim controller, and implementing new accounting related technologies. Prior to GMS he worked from September 2000 to December 2002 in public accounting in both tax and audit. From January 1988 – August 1998 he worked at Maier & Berkele, his family’s high end retail jewelry chain founded in 1887. He served as operations and sales manager in the Atlanta market and managed a staff of 32 FTE in retail, corporate, insurance replacement sales and office administration from 1994-1998 with $12.5 million in annual revenue. In 1994 they merged with Mayors, Inc. and went through the IPO process choosing instead to remain private. The firm grew to 24 stores, with 450+ employees, and $143 million in annual revenue when sold in 1998 to Jan Bell Marketing (AMEX-JBM, now AMEX-BMJ). Mr. Maier graduated from Georgia Tech with a BS in Management. He also holds an MBA from Emory University. He is a licensed Certified Public Accountant.
+
+--------------------------------------------------------------------------------
+
+URL: https://encell.com/contact/
+
+Corporate Address
+Encell Technology, Inc.
+12705 NW US Highway 441
+Alachua, FL 32615
+Commercial Opportunities
+Rob Guyton
+Chief Business Officer
+386-462-2643 ext 216
+rguyton@encell.com
+Careers and Public Relations
+Chris Maier
+Chief Financial Officer & HR Director
+386-462-2643 ext 010
+cmaier@encell.com
+
+--------------------------------------------------------------------------------
+
+URL: https://encell.com/apply-now/
+
+Welcome
+Products
+Fused Iron Batteries
+Microgrid and Grid Edge Energy Storage Solutions
+Case Studies
+Commercial & Industrial
+Residential
+About
+Vision and Values
+Stewardship
+Board of Directors
+Management
+Investors
+Contact Us
+Apply Now
+Select Page
+Apply Now
+Name
+Email Address
+Mobile
+City
+Zip Code
+Submit
+
+--------------------------------------------------------------------------------
+
+URL: https://encell.com/wp-content/uploads/2020/12/Specification-TC3-125-12-20-2020.pdf
+
+Maximum Dimensions
+cm (inches)
+Width: 10.8 (4.25)
+Length: 6.7 (2.4)
+Height: 35.1 (13.8)
+Terminal Spacing: 6.4 (2.5)
+General Specifications
+Battery Type: Rechargeable, Flooded
+Chemical System: Nickel Iron (NiFe)
+Weight: 3.5kg (7.7lbs)
+Nominal Discharge Voltage 1.2-1.3 Volts (rate dependent)
+Nominal Cell Capacity C/10 to 0.9V 125 Ah
+Nominal Cell Capacity C/5 TO 0.9V 120 Ah
+Terminals: M8 x 1.25 mm
+Container: Polypropylene (V0 available)
+Vent: Includes Flame Arrestor
+DI Water Top Up Frequency: Depends on Application (1 week to 1 year)
+Autofill System: Available Separately
+Environment
+Recommended Charging Constant current Discharge Temperature (°C): -30 to +60 (-40 available)
+Charge Voltage 1.65-1.75V Charge Temperature (°C): -30 to +60 (-40 available)
+Float Hold Voltage 1.40-1.45V Storage Temperature (°C): -30 to +60 (-40 available)
+Optimum Charging Current C/4 (31 Amps) Operating Humidity: 5% to 95% non-condensing
+Min. Charging Current C/50 (2.5 Amps) Temperature Compensation None
+Max. Cont. Charging Current C/2 (62.5 Amps) Ah Efficiency (0 to 80% SOC) 98%
+Max. Pulsed Charging Current 6C (750 Amps) Ah Efficiency (80 to 100% SOC) 75%
+Equalization Charge 150% min, 200% max. Solar Compatible: Yes
+Maintenance Charge Application Dependent Wind Compatible: Yes
+Initiation Charge 150% min, 200% max.
+Optimum Discharge Current C/4 - C/10 (12.5 - 31 Amps) Transportation Classification: UN2795 Class 8
+Max Discharge Current 2C (250 Amps)
+Battery Cycle Life @25°C >11,000 cycles @ 100% DOD
+Battery Cycle Life @35°C >5,700 cycles @ 100% DOD
+Battery Life on Float 20 yrs.
+Battery Storage Life 85 yrs.
+Rate/Amps C-Rate Hours Ah Delivered % Rated Capacity
+6 C/20 20 127 101%
+8 C/15 15 126 101%
+13 C/10 10 125 100%
+16 C/8 8 124 100%
+21 C/6 6 124 99%
+25 C/5 5 123 99%
+31 C/4 4 123 98%
+42 C/3 3 122 98%
+63 C/2 2 121 97%
+125 C 1 119 95%
+ ©Encell Technology - Contents herein do not constitute a warranty.
+Important Notice
+PEUKERT CELL CAPACITY:
+Fused Iron™ Battery
+ System Operation
+This datasheet contains typical information specific to products manufactured at the time of its publication. 
+PRODUCT DATASHEET: TC3 125
+ 
+
+
+Important Notice
+This datasheet contains typical information specific to products manufactured at the time of its publication. 
+ ©Encell Technology - Contents herein do not constitute a warranty.
+PRODUCT DATASHEET
+0
+10
+20
+30
+40
+50
+60
+20 25 30 35 40 45 50 55 60
+Calendar Years
+Temperature C˚
+Standby Life vs. Temperature
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+16000
+20 25 30 35 40 45 50 55 60
+100% Depth of Discharge Cycles
+Temperature C˚
+Cycle Life vs. Temperature
+CONTACT INFORMATION:
+12705 US HWY 441, 
+Alachua, FL 32615
++1 396-462-2643
+encelltechnology@encell.com
+www.encell.com
+
+--------------------------------------------------------------------------------
+
+URL: https://encell.com/wp-content/uploads/2020/04/Specification-MG-330.pdf
+
+Maximum Dimensions
+cm (inches)
+Width: 10.8 (4.25)
+Length: 15.7 (6.19)
+Height: 36.0 (14.17)
+Terminal Spacing: 8.3 (3.25)
+General Specifications
+Battery Type: Rechargeable, Flooded
+Chemical System: Nickel Iron (NiFe)
+Weight: 11.3 kg (24.8 lbs)
+Nominal Discharge Voltage 1.2-1.3 Volts (rate dependent)
+Nominal Cell Capacity C/10 to 0.9V 330 Ah
+Nominal Cell Capacity C/5 TO 0.9V 315 Ah
+Terminals: M8 x 16 mm
+Container: Polypropylene (V0 available)
+Vent: Includes Flame Arrestor
+DI Water Top Up Frequency: Depends on Application (1 week to 1 year)
+Autofill System: Available Separately
+Environment
+Recommended Charging Constant current Discharge Temperature (°C): -30 to +60 (-40 available)
+Charge Voltage 1.65V - 1.75V Charge Temperature (°C): -30 to +60 (-40 available)
+Float Hold Voltage 1.4-1.45V Storage Temperature (°C): -30 to +60 (-40 available)
+Optimum Charging Current C/5 (66 Amps) Operating Humidity: 5% to 95% non-condensing
+Min. Charging Current C/10 (33 Amps) Temperature Compensation None
+Max. Cont. Charging Current C/4 (83 Amps) Ah Efficiency (0 to 80% SOC) 98%
+Max. Pulsed Charging Current C (165 Amps - 1 minute) Ah Efficiency (80 to 100% SOC) 75%
+Equalization Charge 150% min, 200% max. Solar Compatible: Yes
+Maintenance Charge Application Dependent Wind Compatible: Yes
+Initiation Charge 150% min, 200% max.
+Optimum Discharge Current C/4 - C/10 (33 - 83 Amps) Transportation Classification: UN2795 Class 8
+Max Discharge Current C/2 (165 Amps)
+Battery Cycle Life @25°C >11,000 cycles @ 100% DOD
+Battery Cycle Life @35°C >5,700 cycles @ 100% DOD
+Battery Life on Float 50 yrs.
+Battery Storage Life 85 yrs.
+Rate/Amps C-Rate Hours Ah Delivered % Rated Capacity
+17 C/20 20 335 101%
+22 C/15 15 333 101%
+33 C/10 10 330 100%
+41 C/8 8 328 100%
+55 C/6 6 327 99%
+66 C/5 5 325 99%
+83 C/4 4 324 98%
+110 C/3 3 322 98%
+165 C/2 2 319 97%
+330 C 1 315 95%
+ ©Encell Technology - Contents herein do not constitute a warranty.
+Important Notice
+PEUKERT CELL CAPACITY:
+Fused Iron™ Battery
+ System Operation
+This datasheet contains typical information specific to products manufactured at the time of its publication. 
+PRODUCT DATASHEET: MG 330
+ 
+
+
+Important Notice
+This datasheet contains typical information specific to products manufactured at the time of its publication. 
+ ©Encell Technology - Contents herein do not constitute a warranty.
+PRODUCT DATASHEET
+0
+10
+20
+30
+40
+50
+60
+20 25 30 35 40 45 50 55 60
+Calendar Years
+Temperature C˚
+Standby Life vs. Temperature
+ -
+ 2,000
+ 4,000
+ 6,000
+ 8,000
+ 10,000
+ 12,000
+ 14,000
+ 16,000
+20 25 30 35 40 45 50 55 60
+100% Depth of Discharge Cycles
+Temperature C˚
+Cycle Life vs. Temperature
+CONTACT INFORMATION:
+12705 US HWY 441, 
+Alachua, FL 32615
++1 396-462-2643
+encelltechnology@encell.com
+www.encell.com
+
+--------------------------------------------------------------------------------

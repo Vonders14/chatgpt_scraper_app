@@ -1,0 +1,465 @@
+ROOT: https://ormat.com/
+SCRAPED_AT_UTC: 2026-02-11T20:25:59.293249Z
+PAGES_INCLUDED: 17
+
+================================================================================
+
+URL: https://ormat.com/
+
+Ormat is a leading company in the renewable energy sector. We’re committed to innovation and to advancing the tools and technologies that enable the most efficient development of renewable energy, reducing energy waste and providing sustainable energy management solutions.
+
+--------------------------------------------------------------------------------
+
+URL: https://ormat.com/en/company/general/view/?ContentID=7814
+
+Accessibility
+Updated: September 11th, 2025
+Fully Accessibility statement to Ormat
+EQUALWEB Premium plan: Fully-managed Accessibility Statement for WWW.ORMAT.COM
+Conformance Status
+This is to confirm that this site has been reviewed by software developers and remediated to meet standards set by the WCAG 2.1 (Web Content Accessibility Guidelines 2.1) at the AA level. The WCAG 2.1 AA level covers a wide range of recommendations for making Web content more accessible. WCAG 2.1 AA level guidelines include specific details on how to develop accessible Web content. This statement certifies that specific techniques were met for the Success Criterion detailed by WCAG. As a result, this website`s content has been made more accessible to a wider range of people with disabilities, including blindness and low vision, deafness and hearing loss, learning disabilities, cognitive limitations, limited movement, speech disabilities, photosensitivity and combinations of thereof. By implementing and adhering to these guidelines, this website`s web content has also become more usable to users in general. Using the accessibility widget is subject to the our privacy policy which can be found at the company`s website.
+Measures taken to make this website more accessible
+Equalweb`s Automatic system, team of developers, designers and content accessibility experts has reviewed, remediated and tested this website by performing multi-layered accessibility testing and analysis of the new and updated accessibility measures and web content. As part of the process to make this website more accessible, adjustments were made which include JavaScript & CSS work. The process also included accessibility modifications for assistive technologies (e.g. NVDA, JAWS etc.). Below is a complete list of accessibility modifications and functionalities made.
+Compatibility with browsers and assistive technology
+Our mission goal is to be able to support the widest array of browsers and assistive technologies as possible.We have therefore invested efforts to support popular systems with high market share, including Chrome, Firefox, edge, Opera and Safari VoiceOver on a MAC. We have also addressed JAWS and NVDA assistive technologies for Windows and MAC.
+In addition, the following modifications were made during the audit to make this website accessible:
+- Enables keyboard navigation
+- Enables smart navigation
+- Blinks Blocking
+- OCR Image description
+- Fonts - Ability to increase and decrease the site font, adjust, align etc`
+- Voice command the browser using your voice
+- Change color contrast based on dark background
+- Change color contrast based on a light background
+- Change the Site`s colors
+- Matching and monochrome option for color blind people
+- Change the font for readability
+- Increase the cursor and change its color to black or white
+- Increase the display to 200%
+- Highlight links on the site
+- Highlighting headers on the site
+- Display an alternative description of the images
+- Increase the content chosen by the cursor, showed in a tooltip
+- Describe words by mouse selection
+- Displays the site`s contents in a new window clearly and readable
+- Enables users to type contents using the mouse
+Technical specifications
+Accessibility of this website relies on the following technologies to work with the particular combination of web browser and any assistive technologies or plugins installed on your computer:
+- HTML
+- WAI-ARIA
+- CSS
+- JavaScript
+These technologies are relied upon for conformance with the accessibility standards used
+Limitations, alternatives and disclaimers
+Despite our efforts to ensure accessibility of this website, there may be some limitations. Below is a description of known and possible limitations, and potential solutions. Please contact us if you observe an issue not listed below. Using the accessibility widget is subject to the our privacy policy which can be found at the company`s website.
+Use of Third-Party Sites & Components
+When 3rd party components or websites are used on the website, such as Facebook, Instagram, YouTube, Twitter, chats and others, which are not controlled by us, may present challenges for individuals with disabilities that we are not able to remedy.
+Here are samples of Accessibility Policies provided from some 3rd party sites:
+Facebook accessibility policy
+YouTube accessibility policy
+Instagram accessibility
+Twitter Accessibility
+LinkedIn Accessibility
+Notes, Comments, and Feedback:
+It is our intention to resolve any complaint to your satisfaction.
+Despite our best efforts to make browsing accessible for people with disabilities, some pages or sections may still not be fully accessible, due to technical limitations or human error. We are committed to continuously improving the accessibility features of our website.
+If you have any questions about our accessibility policy, requests to exercise your legal rights, or if you notice any accessibility issue, you are most welcome to contact us:
+Accessibility Coordinator
+Name: Lea Michal
+Email: LMichal@ormat.com
+Ormat Technologies, Inc.
+6140 Plumas Street
+Reno, NV 89519-6075, USA
+Tel +1-775-356-9029
+Fax: +1-775-356-9039
+You may also contact our Website Accessibility Coordinator:
+Name: Tali Michaeli
+Email: Tmichaeli@ormat.com
+
+--------------------------------------------------------------------------------
+
+URL: https://ormat.com/en/company/general/view/?ContentID=290
+
+PLEASE READ THIS PRIVACY POLICY BEFORE USING ORMAT'S WEBSITE
+ORMAT PRIVACY POLICY:
+PLEASE READ THIS PRIVACY POLICY BEFORE USING ORMAT'S WEBSITE (THE "SITE"). BY USING THE SITE, YOU AGREE TO BE BOUND BY THIS PRIVACY POLICY, INCLUDING ANY ADDITIONAL PARTICULAR TERMS POSTED ON THE SITE. IF YOU DO NOT AGREE TO ABIDE BY THIS PRIVACY POLICY OR ANY ADDITIONAL OR FUTURE TERMS, PLEASE DO NOT USE THE SITE OR SUBMIT YOUR INFORMATION THROUGH IT. ORMAT RESERVES THE RIGHT TO MODIFY THESE TERMS AND CONDITIONS FROM TIME TO TIME.
+I. SCOPEThis Privacy Policy describes the type of information collected from visitors to the Site, how such information is used, and how visitors can update and control the use of information provided through the Site. Ormat is the operator of the Site. However, as software and other functions and content may be provided by third parties with whom Ormat has a relationship, such third parties and Ormat's affiliates are to be deemed third-party beneficiaries of this Privacy Policy. This Privacy Policy does not necessarily describe information collection policies of other websites Ormat does not control.
+II. INFORMATION COLLECTIONa) When you visit the Site we may ask you to register and provide information about you and your company, including your name, company name, addresses, phone and fax numbers, e-mail addresses, and additional identity and contact information.
+b) If you use our services, request quotations for products and/or services through the Site or otherwise make use of the Site, we may ask you to provide further information, such as specifications, financial information and other business-related information. When you visit the Site, we may collect certain routing information such as the address of your originating Internet Service Provider, and information provided by "cookies". Cookies are data files which enable recognition each time you return to the Site and keeping track of the pages you view and the services you use. This information allows us to provide improved services.
+c) We may also collect aggregate information about the use of the Site, including pages most frequently visited, numbers of visitors, length of visitors' stay on each page, etc.
+d) If applicable, for electronic access to annual reports and proxy statements, if any, we may collect your tax identification number to verify your shareholder status.
+e) You may review and update the information that you provide to us through the Site by contacting the Site's designated address.
+III. USE OF INFORMATIONa) The information we collect from and about you and your company may be used to fulfill orders and requests; to provide quotations or related information in response to requests; to process, execute and monitor orders; to notify as to the status of orders; to prepare drawings, product configurations, etc.; to provide you with information about offers, products and/or services we believe you may find useful; to notify you of updated information, changes to the Site or new products and/or services; etc.
+b) We may combine information you have provided to us in communications offline with information you have provided to us online, for purposes of improving the Site in connection with your visits to it, among other things.
+c) We may use information collected from visitors, among others, to improve the usefulness of the Site and to prepare aggregate, non-identifying information used in marketing or similar activities. From time to time, some information may be deleted from our systems in our sole discretion.
+IV. SHARING INFORMATIONa) We may provide the information we collect about you and/or your company to our affiliates and to third parties to the extent their involvement and the provision of such information are necessary to provide requested products and/or services.
+b) We may disclose information about you and/or your company if you direct us to do so; if we are required to do so by law; to respond to claims; in other legal limited circumstances such as to protect your account from fraud; and/or generally to protect the property, safety and/or rights of Ormat or others.
+c) We may freely provide statistics about visitors to the Site, Site transactions or other Site activities.
+V. CONTROL OF ACCESS TO INFORMATIONa) Access to information we store on our systems is controlled by firewalls and other security measures. We make reasonable efforts to maintain safeguards to protect information from unauthorized or inappropriate access. We restrict access to such information to those persons with a need to know.
+b) The information disclosed by you in interactive or other areas of the Site accessible to other users, such as bulletin boards and chat rooms, if any, can be collected and used by such other users.
+VI. WAIVERYou acknowledge and agree that we may collect, store, use, disclose and transfer your information for purposes described in this Privacy Policy or any additional terms.
+Copyright © 2019 Ormat. All rights reserved.
+
+--------------------------------------------------------------------------------
+
+URL: https://ormat.com/en/company/general/view/?ContentID=289
+
+TERMS OF USE
+Stated below are the terms and conditions that apply when you use our website. Ormat reserves the right to modify these terms and conditions from time to time. By accessing the site, you agree to be bound by the terms and conditions in effect when you access the site. If you do not agree, do not use the site or download materials from it.
+I. ACCESS AND USEMaterials contained in this site are protected by international trademark and copyright laws. This means that you may only view or download material from this website for your own personal, non-commercial use and you must keep all copyright and other proprietary notices attached to the downloaded material. This limited authorization is not a transfer of title in the material.
+The reproduction, duplication, distribution (including by way of email, facsimile or other electronic means), publication, modification, copying or transmission of material from this site is STRICTLY PROHIBITED unless you have obtained the prior written consent of Ormat or unless it is expressly permitted by this site. The material covered by this prohibition includes, without limitation, any text, graphics, logos, photographs, audio or video material or stills from audiovisual material available on this site. Requests for permission to reproduce or distribute materials found on this site can be made by contacting acahaner@ormat.com. The unauthorized use of materials from any linked website (see provision III below) is also prohibited.
+II. INFORMATION THAT YOU SUBMIT TO ORMAT
+We welcome your comments regarding our products and services, and about our website. Ormat's Privacy Policy, incorporated by this reference, describes the type of information collected from visitors to Ormat's site and how that information is used. Any suggestions or other material that you send to us will become the property of Ormat. Except as otherwise provided in our Privacy Policy, we may use the material in any way we choose for as long as we choose without any restrictions. By sending us the material, you agree that we have the right to publish or otherwise use the material for any type of use, including promotional and advertising purposes and that we do not owe you any compensation for using the material. You further agree that upon transmission of such material to Ormat, you grant Ormat and its affiliates an irrevocable, non-exclusive, royalty free, sublicensable, worldwide license (including but not limited to a copyright license) to prepare derivative works, reproduce, display, perform, transmit and distribute such material and derivative works for any use.
+III. LINKS TO OTHER SITES
+As a convenience to our customers, we may have included links from our site to sites that are owned by entities that are not affiliated with Ormat. Ormat and the entities affiliated with Ormat do not operate or control the content of these sites. We also do not control the goods or services offered through these sites. The inclusion of such links does not constitute an endorsement or recommendation by Ormat, or an assumption of responsibility by Ormat, for such sites or their contents. When you access one of these sites through a link on the Ormat site, you do so at your own risk, and Ormat and its affiliates expressly disclaim any liability for any injury you experience while you are in one of these other sites or for the accuracy or reliability of their contents.
+IV. RULES OF USER CONDUCTIn using this site and its links, you agree not to (i) disrupt or interfere with the security of the site, access servers, connected networks or linked websites, or with any other user's enjoyment of the same; (ii) transmit any viruses or other harmful, disruptive or destructive messages or files; (iii) create or use a false identity or any other person or entity's user name or password; or (iv) transmit spam, junk mail, or any type of unsolicited mass email.
+V. DISCLAIMER AND LIMITATION OF LIABILITY
+THIS SITE AND ITS CONTENT ARE PROVIDED ON AN "AS IS", "AS AVAILABLE", AND "AT USER SOLE RISK" BASIS, AND WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMITTED BY LAW, ORMAT DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. ORMAT DOES NOT WARRANT THAT THE CONTENT OF THIS SITE WILL BE ACCURATE, RELIABLE OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED, OR THAT THIS SITE OR THE SERVER THAT MAKES IT AVAILABLE, ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. ORMAT DOES NOT WARRANT OR MAKE ANY REPRESENTATIONS REGARDING THE USE OR THE RESULTS OF THE USE OF THE CONTENT OF THIS SITE OR IN LINKED SITES IN TERMS OF THEIR CORRECTNESS, ACCURACY, TIMELINESS, RELIABILITY, OR OTHERWISE. YOU ACKNOWLEDGE, BY YOUR USE OF THIS SITE, THAT YOUR USE OF THIS SITE IS AT YOUR SOLE RISK, THAT YOU ASSUME FULL RESPONSIBILITY FOR ALL COSTS ASSOCIATED WITH ALL NECESSARY SERVICING OR REPAIRS OF ANY EQUIPMENT YOU USE IN CONNECTION WITH YOUR USE OF OUR SITE, AND THAT ORMAT SHALL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND RELATED TO YOUR USE OF THIS SITE.
+THIS SITE, TOGETHER WITH ANY DOCUMENTS ISSUED BY ORMAT OR ITS AFFILIATES AND AVAILABLE THROUGH THE SITE, MAY CONTAIN STATEMENTS RELATING TO CURRENT EXPECTATIONS, ESTIMATES, FORECASTS AND PROJECTIONS ABOUT FUTURE EVENTS THAT ARE "FORWARD-LOOKING STATEMENTS" WITHIN THE MEANING OF THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995 (USA). THESE FORWARD LOOKING STATEMENTS GENERALLY RELATE TO THE COMPANY'S PLANS, OBJECTIVES AND EXPECTATIONS FOR FUTURE OPERATIONS AND ARE BASED UPON MANAGEMENT'S CURRENT ESTIMATES AND PROJECTIONS OF FUTURE RESULTS OR TRENDS. ACTUAL FUTURE RESULTS MAY DIFFER MATERIALLY FROM THOSE PROJECTED AS A RESULT OF CERTAIN RISKS AND UNCERTAINTIES. MORE DETAILED INFORMATION ABOUT THOSE FACTORS MAY BE CONTAINED IN ORMAT OR ORMAT AFFILIATES' FILINGS WITH THE APPLICABLE REGULATORY ENTITIES. THESE FORWARD-LOOKING STATEMENTS ARE MADE ONLY AS OF THE DATE HEREOF, AND ORMAT UNDERTAKES NO OBLIGATION TO UPDATE OR REVIEW THE FORWARD-LOOKING STATEMENTS, WHETHER AS A RESULT OF NEW INFORMATION, FUTURE EVENTS OR OTHERWISE.
+ORMAT SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES OF ANY TYPE, INCLUDING, WITHOUT LIMITATION, FOR LOSS OF PROFITS, USE, DATA OR OTHER INTANGIBLES, IN CONNECTION WITH THE USE OF OR INABILITY TO USE THE SITE OR ITS CONTENTS.
+ORMAT'S AFFILIATES AND BUSINESS PARTNERS (INCLUDING THIRD PARTIES), AS WELL AS EACH OF THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES AND AGENTS, SHALL BE CONSIDERED THIRD PARTY BENEFICIARIES WITH RESPECT TO THE PROVISIONS OF THESE TERMS OF USE.
+VI. GENERAL
+Applicable Law: If you have concerns about our website, we encourage you to contact us. If you decide to pursue a claim against us, our agreement is governed by and shall be construed in accordance with the laws of the State of New York, without giving effect to any principles of conflicts of law. You agree to bring any claims against Ormat exclusively in the state or federal courts of New York, and you agree to submit to the personal and exclusive jurisdiction of such courts for any disputes arising from or in connection with the Terms of Use or the site. You also agree that you will comply with applicable local, state, national and international laws and regulations that relate to your use of this site.
+Termination of Agreement: These Terms of Use will continue as an agreement between us until we terminate them, which we may do at any time without notice to you. We also may terminate your right to use this site immediately and without notice to you if, in our sole discretion, you fail to comply with any of these Terms of Use. If we do terminate your right to use this site, then you are no longer authorized to access or use any of the benefits of this site. In addition, the restrictions we have imposed on you concerning copying, using or downloading information, and the disclaimers and limitations or liabilities that we have stated in the Terms of Use will survive our termination of the agreement. The Terms of Use that we have stated in this site are the entire agreement between us relating to each of the issues discussed herein.
+If any provision of these Terms of Use shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this agreement and shall not affect the validity and enforceability of any remaining provisions.
+
+--------------------------------------------------------------------------------
+
+URL: https://ormat.com/en/company/contact/main
+
+ormat technologies, inc.
+Wherever the world needs reliable, renewable energy, you’ll find Ormat.
+Learn more about our state-of-the-art, environmentally friendly power generating solutions:
+Ormat Technologies, Inc.
+6884 Sierra Center Parkway
+Reno, NV 89511
+USA
+Tel +1-775-356-9029
+Fax +1-775-356-9039
+Email info@ormat.com
+For media inquiries please contact:
+Sophie Kobzantsev at:
+Email: eden@shalomtelaviv.com
+
+--------------------------------------------------------------------------------
+
+URL: https://ormat.com/en/company/careers/main/
+
+Careers
+Passionate about trailblazing a better world?
+We're looking for forward-thinking talent to advance green energy solutions. Let's get to work!
+GET TO KNOW ORMAT
+Energy sustainability is what we live for. Leading the way with cutting edge technology, we design, develop, build, own and operate geothermal power plants, waste heat recovery systems and power storage units around the globe.
+Tapping into the earth’s natural resources and providing a brighter future for tomorrow is at the heart of what makes us tick. Our mission is fueled by people like you wanting to make a real difference.
+A GREAT PLACE TO WORK & GROW
+Our team is genuinely excited about the world-changing work we do.
+Our culture of positivity reflects the amazing talent we’re proud to call family. From professional development opportunities to creatively tackling challenges, we empower individuals to be all they can be.
+SWEET PERKS
+Great benefits are the icing on the cake around here. And they’re a valuable asset to you and your family.
+In fact, a top-notch benefits package can help take care of you and your loved ones now and into the future. We strive to provide quality perks and benefits that go way beyond the norm. It’s just one more way Ormat shows employees how much they are valued.
+TESTIMONIALS
+JOIN THE ORMAT FAMILY
+TAKE A GLIMPSE INTO LIFE AT ORMAT
+EQUAL EMPLOYMENT OPPORTUNITY EMPLOYER
+Ormat is an equal opportunity employer. All qualified applicants for employment with Ormat will receive consideration for employment without regard to race, sex, age, color, religion, marital status, sexual orientation, gender identity, veteran status, status with regard to public assistance, source of income, national origin, citizenship status, disability, or any protected status. Employment with ORMAT shall be based solely on the Company’s requirements and the individual’s qualifications.
+LET'S WORK TOGETHER
+LOOKING FOR A CAREER THAT GROWS WITH YOU?
+MAKE YOUR MARK ON THE WORLD WITH ORMAT.
+
+--------------------------------------------------------------------------------
+
+URL: https://ormat.com/en/projects/all/main
+
+Ormat is a leading company in the renewable energy sector. We’re committed to innovation and to advancing the tools and technologies that enable the most efficient development of renewable energy, reducing energy waste and providing sustainable energy management solutions.
+
+--------------------------------------------------------------------------------
+
+URL: https://ormat.com/en/company/welcome/manufacturing/
+
+Manufacturing
+Ormat knows power plants from the inside out, because we build them from the inside out
+Ormat manufactures most of the power generating unit equipment componentry used in our power plants. We acquire any equipment we do not build ourselves from selected, top-quality, trusted suppliers.
+ISO 9001 and ISO14001 certified, Ormat’s manufacturing facilities also meet the high standards of the American Society of Mechanical Engineers (ASME) and the European Pressure Equipment Directive (PED). Many electric utilities around the world have also recognized Ormat as an approved supplier. Ormat design and manufacturing standard meets the requirements of the applicable EC directives and are therefore marked by the CE marking.
+Ormat continually works to improve all links in our value chain, reducing manufacturing lead-time, improving management control and procurement. These ongoing quality assurance processes translate into cost saving opportunities for our customers as we increase efficiencies. New technologies, restricting of management control, automation and centralizing all contribute to more streamlined manufacturing processes and a superior end product.
+Our manufacturing facilities around the world cover more than 23,000m2. Our most recent manufacturing facility began operating in Turkey in 2017, certified by the Turkish authority for local manufacturing enabling our Turkish customer to enjoy the increased Feed-In-Tariff.
+
+--------------------------------------------------------------------------------
+
+URL: https://ormat.com/en/company/welcome/governance/
+
+governance
+Creativity. Courage. Constant Renewal. Full Commitment. Stability
+Strong values for solid governance.
+The five values Ormat was built on are reflected in the way we work and operate our company, every day, in every location. We believe honesty, openness and fairness must be demonstrated by every Ormat employee, manager or director, at all times. Ormat is a publicly traded company managed by nine-member Board of Directors; see the Leadership page for details
+The high standards we adhere to are set out in Ormat’s Corporate Governance Guidelines, and our Code of Business Conduct and Ethics. Both documents have guided our company since its inception in 1965 and were formalized in 2004, when Ormat was officially listed for trading on the New York Stock Exchange. In addition, on August 2016 Ormat Board adopted an Anti Corruption Policy.
+Ormat’s corporate governance policy and other policies are further detailed in the documents linked to below:
+- Corporate Governance Guidelines
+- Nominating and Corporate Governance Committee Charter
+- Audit Committee Charter
+- Compensation Committee Charter
+- Investment Committee Charter
+- Code of Business Conduct and Ethics
+- Code of Ethics for Senior Executives
+- Anti-Bribery and Anti-Corruption Policy
+- Whistleblower Policy
+- Political Contributions and Activities Policy
+- Sustainability Committee Charter
+- Clawback Policy
+- Human rights and Labor Policy
+- Supplier Code of Conduct
+- Insider Trading Policy
+Code of Conduct policy amended February 25, 2025.
+
+--------------------------------------------------------------------------------
+
+URL: https://ormat.com/en/company/welcome/leadership
+
+Isaac Angel
+Isaac Angel, began serving as an officer of the Company in April 2014 and has served as our CEO since July 2014. On February 24, 2020, Mr. Angel notified the Company of his decision to retire from his position as CEO of the Company, effective July 1, 2020. Mr. Angel will remain employed at the Company through December 31, 2020 in order to assist with the transition of the new CEO, and, as more fully described below, if elected to the Board, Mr. Angel will also assume the position of Executive Chairman effective July 1, 2020. Mr. Angel served as a director of Retalix Ltd. from 2012 until 2013 and as a director of Frutarom Ltd. from 2008 until 2016. From 2008 to 2009, Mr. Angel served as Executive Chairman of LeadCom Integrated Solutions Ltd. From 2006 to 2008, Mr. Angel served as Executive Vice President, Global Operations of VeriFone after the acquisition of Lipman Electronic Engineering Ltd. (“Lipman”) by VeriFone. From 1979 to 2006, he served in various positions at Lipman, including as its President and CEO.
+|
+|
+|
+|
+|
+|
+Dafna Sharir
+Dafna Sharir, has been a member of our Board since May 2018. Ms. Sharir has served on the board of directors of Frutarom Industries Inc. from 2013 to 2018 and the board of directors of Gilat Satellite Networks since 2016. From 2012 to 2015, she served on the board of directors of Ormat Industries Inc., which was merged into Ormat Systems Ltd. in February 2015. Since 2005, Ms. Sharir has served as a consultant, providing mergers and acquisitions advisory services, including with respect to due diligence, structuring and negotiation, to public and private companies around the world. From 2002 to 2005, she served as Senior Vice President – Investments of AMPAL, a US public company and was responsible for all of AMPAL’s acquisitions and dispositions. From 1999 to 2002, she served as Business Development – Director of Mergers and Acquisitions at AMDOCS and was responsible for international acquisitions and equity investments. Ms. Sharir earned an LL.B from Tel Aviv University School of Law and a BA in Economics from Tel Aviv University School of Economics, as well as an LLM from New York University School of Law and an MBA from INSEAD.
+|
+|
+|
+|
+|
+|
+Byron G. Wong
+Byron G. Wong, has been a member of our Board since July 2017. Mr. Wong has been a private energy consultant following his retirement from Chevron Corporation (“Chevron”) at the end of 2012 after more than 31 years with Chevron, its affiliates and predecessor companies. While at Chevron, from 2001 to 2012, Mr. Wong was Senior Vice President - Commercial Development (Asia) for Chevron Global Power Company, managing a team of professionals in identifying and developing opportunities for independent power projects to monetize Chevron’s gas in the region, and also participating as a member of a decision review board for overseeing Chevron’s geothermal development opportunities in Indonesia and the Philippines. Prior to the merger with Chevron in 2001, Mr. Wong established and staffed the initial Asian office location for Texaco Power and Gasification in Singapore in 1999. Before moving to Singapore, from 1995 to 1999 Mr. Wong was based in London with Texaco Europe, first as the Director of New Business Development (Downstream) for Central/Eastern Europe and Former Soviet Union, with primary responsibility for developing Texaco’s downstream entry into this region; then second, from 1998 to early 1999 as Vice President of Upstream Corporate Development for Europe, Eurasia, Middle East and North Africa, focusing on opportunities for upstream oil and gas mergers, divestments and acquisitions. Mr. Wong received both his BA in Economics and his MBA in Finance from the University of California at Los Angeles.
+|
+|
+|
+|
+|
+|
+Karin Corfee
+Karin Corfee is the founder and CEO of KC Strategies LLC, a business consultancy firm specializing in climate and sustainability services, a role she has held since the company’s founding in April 2021. Ms. Corfee has 30 years of experience in the energy industry. Most recently, she served as Partner and Western Team Leader at Guidehouse, a management consulting firm, where she oversaw the firm’s western energy practice from October 2019 to April 2021. Ms. Corfee served as Managing Director and Leader of Clean Energy Programs and Sustainability at Navigant Consulting, Inc., a management consulting firm, from 2011 to its acquisition by Guidehouse in October 2019. Prior to Navigant, Ms. Corfee was the Vice President and West Coast DSM Manager at KEMA Inc., a global energy consultancy company.
+|
+|
+|
+|
+|
+|
+Michal Marom
+Michal Marom has served on the board of directors and the audit and compensation committees of REE Automotive Ltd. (Nasdaq: REE) since July 2021 and the board of directors and audit, finance, investment and compensation committees of Partner Communications Ltd. (Nasdaq: PTNR) since January 2021. She is also a member of the boards of directors of several Israeli companies, including OPC Energy Ltd., the largest private electricity company in Israel, and Dan Transportation Ltd.
+From 2011 to 2015, Ms. Marom served as the Chief Financial Officer of Linkury Ltd., an Israeli high-tech company she co-founded in 2011. She also previously served on the board of BiondVax Pharmaceuticals Ltd. (Nasdaq: BVXV) from 2015 to 2019. Ms. Marom is a certified public accountant in Israel and also acts as a consultant providing strategic advice on business models and financial transactions
+|
+|
+|
+|
+|
+|
+David Granot
+David Granot, has been a member of our Board since May 2012. Mr. Granot has served as the Temporary Acting Chairman of Bezeq Israeli Telecommunication Co. Ltd. since July 2017 to May 2018 and as a board member there since. From 2001 through 2007, Mr. Granot served as the Chief Executive Officer of the First International Bank of Israel Ltd. He also serves on the board of directors of non-United States public companies Sonol Ltd., Tempo Beverages Ltd. and Clal Insurance Enterprises Holdings Ltd. Mr. Granot serves also as the Chairman of MALRAN Ltd. and of the investments committee of the Tel Aviv University. During the past five years, Mr. Granot served as a member of the board of directors of the following non-U.S. public and private companies, for which he no longer serves as a director: Alrov (Israel) Ltd, Geregu Power Plc, Harel Insurance, Investment and Finance Ltd. (Chairman of the investments committee of the Nostro), Calcalit Jerusalem Ltd and Protalix Ltd. He earned a BA in Economics and an MBA from the Hebrew University in Jerusalem.
+|
+|
+|
+|
+|
+|
+Ravit Barniv
+Ms. Ravit Barniv was previously a member of our Board from November 2015 until May 2021. Ms. Barniv previously served as the chairperson of the
+board of directors of Tnuva Group, the largest food group in Israel, from 2013 to 2015, as a board member of Clalit Health Care, Israel’s largest
+healthcare provider, from November 2016 to October 2022. She also served as a chairperson of the board of directors of Shikun & Binui Ltd., an
+infrastructure, real estate and renewable energy group in Israel, from 2007 to 2012, and as CEO of Netvision Communications, an internet service
+provider and provider of integration and telecommunication services, from 2001 to 2007.
+|
+|
+|
+|
+|
+|
+Stanley B. Stern
+Stanley B. Stern, has been a member of our Board since November 2015. Mr. Stern is the Managing Partner of Alnitak Capital, which he founded in 2013 to provide board level strategic advisory services and merchant banking services, primarily to companies in technology-related industries. From 1981 to 2000 and from 2004 to 2013, he was a Managing Director at Oppenheimer & Co, where, among other positions, he was head of the investment banking department and technology investment banking group. He also held positions at Salomon Brothers, STI Ventures and C.E. Unterberg. Mr. Stern has served as chairman of the board of directors of Audiocodes, Inc. since 2012, and has served as a member of the board of directors of Ekso Bionics Holdings, Inc. since 2015 and Foamix, Ltd. since 2014. In the past, Mr. Stern served from 2015 to 2018 as the chairman of the board of directors of SodaStream International Ltd. and as a member of the board of directors of the following public and private companies, for which he no longer serves as a director: Given Imaging, Fundtech Inc., Tucows, Inc. (Chairman) and Odimo, Inc. He earned a BA in Economics and Accounting from City University of New York, Queens College, and an MBA from Harvard University.
+|
+|
+|
+|
+|
+|
+
+--------------------------------------------------------------------------------
+
+URL: https://ormat.com/en/company/welcome/mission-and-values/
+
+Mission & Values
+It takes courage to create the future
+It also takes a clearly defined mission that moves a company closer to its goal, every single day.
+At Ormat, our mission is clear: we want to become a leading global provider of renewable energy, while building a geographically balanced portfolio of geothermal, recovered energy and storage assets.
+How will we get there?
+By adhering to the five values that built this company and that continue to define who we are today.
+stability
+it defines our workforce, technologies, products, facility performance and our firm financial foundation
+Constant Renewal
+we continually seek new challenges, advance new technologies, enter new fields and test new business models.
+Full Commitment
+we are fully committed to our stakeholders and to building a sustainable future.
+Courage
+we act with the certainty that comes from knowledge, experience, prudent risk management and an unwavering focus on delivering the best results for our clients.
+Creativity
+we understand and fully appreciate the uniqueness of the customers we serve and the vital role creativity plays in finding the right solutions.
+
+--------------------------------------------------------------------------------
+
+URL: https://ormat.com/en/company/welcome/history
+
+History
+ORMAT HAS HARNESSED NATURE’S RENEWABLE ENERGY FOR OVER FIVE DECADES.
+HERE ARE SOME OF THE KEY MILESTONES THAT SHAPED THE COMPANY WE ARE TODAY:
+Ormat Team with the first unit before shipment to Mali
+- Ormat was established in 1965 by Lucien Y. Bronicki and his wife, Dita, building upon Lucien's patents and research conducted at the National Laboratory under the guidance of Harry Z. Tabor. The objective was to continue the development, manufacturing and commercialization of the small solar turbine following the discontinuation of the project in the Laboratory due to budget constrains.
+- In 1966, Ormat installed its first 600W solar-powered Organic Rankine Cycle (ORC) unit, which drove an electric water pump, in Mali.
+600 W ORC powered by Tabor’s solar flat plate collectors
+One of the 60 gate valve sites powered by two 600 W OECs
+-
+In 1970s the sales to the Telecom companies as well as to gas and oil pipelines continued. One of the clients for these units was the Alyeska an oil Pipeline in Alaska, where many of the 120 units installed in 1975, powering the safety valves and SCADA system, are still in operation today.
+-
+Following the 1973 oil crisis, interest in using solar to produce energy rose, and Ormat returned to R&D on solar. Started in 1979, a 5 MW Solar Pond Power Plant was completed In 1982 and operated for six years. The pond acted both as a solar collector and a heat storage.
+5 MW Solar Pond Power Plant
+Entering Geothermal and Recovered Energy Generation:
+-
+The drop in oil prices made the Solar Pond Power Plants uneconomical and led Ormat to refocus activities on the design and manufacturing of equipment for geothermal and recovered energy power plants. The R&D continued and led to more than 100 different patents on power systems and their components.
+-
+During the 1980s, Ormat evolved from a supplier of the power equipment only to a power plant turnkey provider, including, when needed, project financing, and finally to owner and operator of geothermal plants, including exploration, development, and operation of the geothermal field. In 1984 the Wubaska 700 KW was the first commercial ORC in operation in the US. In 1986 30 MW Ormesa I was put in operation.
+-
+In parallel, Ormat entered the Recovered (heat) Energy Generation Market mainly from waste heat in natural gas compressor stations but also cement plants and LNG regasification terminals.
+1995 Geothermal Combined Cycle Plant of 130 MW in Leyte The Philippines
+- in 1992 Ormat developed and build its first patented Geothermal Combined Cycle Plant in Puna , Hawaii
+- While continuing the supply of equipment worldwide, Ormat started BOT and BOO projects overseas. The first project was the 50 MW Leyte Optimization in the Philippines, followed by the 8 MW early generation Olkaria III in Kenya, which was the first stage of what is now a 150 MW owned and operated complex.
+1997 Leyte Optimistion Plant of 50 MW
+Olkaria III complex, Kenya, 150 MW
+Heber Complex, CA, USA, 36 MW
+-
+In the 2000s Ormat continued to grow by development and construction of new Geothermal and Energy Recovering Projects as well as by acquisition of geothermal assets in the US and repowering them as needed. By 2010 the total capacity in the US reached 1300 MW.
+-
+In 2004, Ormat completed an IPO on the New York Stock Exchange (ORA). The transition to a public company headquartered in Reno, Nevada, enabled continued growth, expansion of its capabilities, and opportunity to participate in a wider variety of global power projects.
+- In 2006, Ormat entered Turkey, delivering our first geothermal power plant, the DORA 1, with a capacity of 7.4 MW. Turkey is one of the world’s fastest growing geothermal energy markets and our presence here has grown significantly, with 900 MW of capacity across over 40 geothermal power plants now operating in the country. This is more than half of Turkey’s total geothermal operating capacity.
+- Ormat’s leadership in the Recovered Energy Generation business expanded with the completion of the OREG project along the US Northern Border natural gas pipeline. From 2006 through 2009, Ormat built and installed a series of REG power plants that convert waste heat from gas turbine compressors into electricity, delivering 53 MW of generating capacity.
+• In 2013, the world’s largest single binary geothermal power plant – the Ngatamariki in New Zealand – began commercial operations. Ormat provided the engineering, procurement and construction for the 100 MW geothermal project that delivers sustainable energy to power 80,000 homes annually.
+In 2017, Honduras’ first utility-scale geothermal facility – the 35 MW Platanares power plant – was commissioned for commercial operation. Honduran President Juan Orlando Hernández participated in the official opening ceremonies in September and reiterated the country’s goal of generating 80 percent of its energy from renewable sources by 2032.
+Ormat Technologies Announces Closing of the Acquisition of Viridity Energy.
+This is really the moment when we took the plunge into energy storage.
+- In May 2018, Ormat announced that NIL 2, the third unit of the Sarulla geothermal power plant in North Sumatra, Indonesia, began commercial operation, bringing the three-facility complex to its full capacity of 330 MW. This places Sarulla among the world’s largest geothermal power plants. Each of the three 110 MW units uses both steam and brine from the geothermal resource to optimize power plant efficiency. The facility’s other two units began operating in March and October 2017 respectively.
+- Kenya’s Olkaria III complex is a prime example of Ormat’s strategic, well-coordinated approach to maximizing the value of geothermal resources. In 2018, Ormat commissioned the latest addition to this geothermal power plant, vaulting its capacity to 150 MW. The complex’s first 8 MW facility started up in 2000 and over 18 years, Ormat continued to expand Olkaria III, adding new plants and building capacity.
+The first two large scale utility storage projects that we brought online during 2019.
+Both projects provides valuable ancillary services to the PJM market since Q1 2019.
+This asset was part of a $23M non-recourse financing transaction for a portfolio of 40 MW/ 40 MWh
+- April, 2020 - Ormat Announces Commercial Operation of Rabbit Hill Battery Energy Storage System Participating in Markets Run by the Electric Reliability Council of Texas. This is our first Texas project.
+- July, 2020 - Ormat Announces Closing of the Pomona Energy Storage Facility Acquisition in California. This is our first California project.
+Through every decade, Ormat has continued to make major strides forward in the geothermal energy and recovered energy industries. In the past several years, we’ve continued pursuing innovation in energy storage solutions; fields where we again show our strength as a vertically integrated solution provider.
+Since Ormat began, our strong values have guided and shaped the way we work, our relationships with employees, clients, communities and other stakeholders, and the level of professionalism and spirit of innovation that accompanies every renewable power product and service we offer.
+As a developer, operator and manufacturer of geothermal energy and recovered energy equipment, Ormat understands customer needs and creates field-proven solutions. Albert Einstein said, “The only source of knowledge is experience.” Our vast experience and constant feedback through both in-house and industry operations and applications has given us a full tool belt that our competitors don’t have.
+Renewable energy and a vision for a cleaner, sustainable future have taken us this far – and we believe that our vision, capabilities and expertise will enable Ormat to flourish for generations.
+
+--------------------------------------------------------------------------------
+
+URL: https://ormat.com/en/company/welcome/profile/
+
+company profile
+Renewing Earth’s Energy Future
+At Ormat Technologies, Inc. (NYSE: ORA), we’re always on; delivering renewable power and energy solutions to our customers around the clock and around the world.
+Clean, reliable energy solutions provided from geothermal power, recovered energy, as well as energy storage solutions, is our expertise, commitment and focus.
+Built on ingenuity and proven experience, Ormat is recognized globally for developing state-of-the-art, environmentally sound power solutions.
+We design, build and supply power generating equipment for our customers’ geothermal and recovered energy power plants in over 30 countries. We understand our customers’ operating challenges, because we are operators too.
+As a geothermal industry leader, we’ve gained global expertise in exploring, developing, designing, manufacturing, building, owning and operating geothermal power plants in Kenya, Guadalupe, Guatemala, Honduras and the United States.
+Our vertically integrated structure enables us to leverage our renewable energy expertise, our core capabilities, and our global experience to supply and develop geothermal, recovered energy, and energy storage solutions.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.ormat.com/en/company/suppliers/main/
+
+Partnering with Ormat
+Good partnership has always been central to our success. Our various vendors and suppliers have helped make us who we are today, and we continue to seek out the best to support our growth for today, tomorrow and into the future.
+Collaboration with our suppliers not only focuses on innovative products and solutions, but also on supporting them in their continuous development. Development measures are mutually derived from the conducted performance and risk assessments and our strategy. We set these down in a target agreement and implement them in conjunction with our suppliers in a sustainable manner. The objective is to optimize their performance and cost position, and to minimize any risks recognized or mitigate them at an early stage. We thus improve ourselves on a continuous basis, in order to ensure future competitive advantage in our rapidly and constantly changing environment.
+At Ormat, we believe that partnering with qualified, experienced and value- driven suppliers will foster the business advantages required to succeed. We are committed to searching and partnering with exceptionally talented people who are dedicated to growth and success.
+- 1
+- 2
+- 3
+- 4
+- 5
+Partnering with Ormat
+Good partnership has always been central to our success. Our various vendors and suppliers have helped make us who we are today, and we continue to seek out the best to support our growth for today, tomorrow and into the future.
+Collaboration with our suppliers not only focuses on innovative products and solutions, but also on supporting them in their continuous development. Development measures are mutually derived from the conducted performance and risk assessments and our strategy. We set these down in a target agreement and implement them in conjunction with our suppliers in a sustainable manner. The objective is to optimize their performance and cost position, and to minimize any risks recognized or mitigate them at an early stage. We thus improve ourselves on a continuous basis, in order to ensure future competitive advantage in our rapidly and constantly changing environment.
+At Ormat, we believe that partnering with qualified, experienced and value- driven suppliers will foster the business advantages required to succeed. We are committed to searching and partnering with exceptionally talented people who are dedicated to growth and success.
+We look for
+- Suppliers who provide exceptional services, products, and support to out
+customers, employees and dealers. - Suppliers who are quality-driven and practice continuous cost improvement.
+- Suppliers who bring Ormat a significant competitive edge.
+- Suppliers who are committed to ethical business practices.
+- Suppliers with businesses that have been fully functional for at least two years.
+- Suppliers with an experienced and professional staff.
+Complete the supplier profile registration below and submit it to us.
+We appreciate your interest in becoming an Ormat supplier.
+Thanks!
+Your application has been submitted. Thank you for your interest in becoming an Ormat supplier. You will be contacted in X days.
+
+--------------------------------------------------------------------------------
+
+URL: https://ormat.com/en/company/news/main/
+
+Ormat is a leading company in the renewable energy sector. We’re committed to innovation and to advancing the tools and technologies that enable the most efficient development of renewable energy, reducing energy waste and providing sustainable energy management solutions.
+
+--------------------------------------------------------------------------------
+
+URL: https://ormat.com/en/projects/all/main/
+
+Ormat is a leading company in the renewable energy sector. We’re committed to innovation and to advancing the tools and technologies that enable the most efficient development of renewable energy, reducing energy waste and providing sustainable energy management solutions.
+
+--------------------------------------------------------------------------------
+
+URL: https://ormat.com/en/sustainability/strategy/main/
+
+our sustainability strategy
+the importance of tackling to climate change
+Ormat has been committed to sustainability from the start. Our strategy centers on expanding clean, low-carbon energy capacity, fostering innovation, supporting employee development, maintaining responsible supply chain practices, and strengthening governance and community engagement.
+Did you know?
+In 2024, we began transitioning to a new ESG data collection and management system, designed to enhance the accuracy, completeness, and auditability of our emissions calculations and broader Sustainability reporting.
+Our Sustainability Goals & Commitments
+-
+• 5% average annual intensity (tCO₂e/MWh) reduction for Scope 1 & 2 emissions, compared to 2019 baseline
+-
+Promote innovation in all our activities
+-
+Prioritize our employees and their development
+-
+Promote innovation in all our activities
+-
+Commitment to a fair supply chain
+-
+Continue synergy with the communities in which we operate
+-
+Maintain strong values for solid governance
+Sustainability Leadership and Governance
+STEPS WE’VE TAKEN
+IMPORTANT STEPS WE’VE TAKEN TO FURTHER DEVELOP OUR SUSTAINABILITYPROGRAM AND STRATEGY, MITIGATE RISKS AND IDENTIFY OPPORTUNITIES:
+• Executed a materiality analysis to refresh Ormat’s material ESG topics.
+• Conducted a climate risk analysis to assess material physical and transitional risks and opportunities.
+• Performed climate risk scenario analysis to evaluate potential impacts under different emissions pathways and time horizons.
+• Initiated a process to quantify the financial impacts of material climate risks and develop targeted mitigation plans.
+Disclosure & Standards
+• Completed a gap assessment for TCFD alignment, strengthening our ability to meet evolving disclosure expectations.
+• Enhanced climate-related disclosures in alignment with TCFD recommendations and in compliance with California’s climate regulations.
+• Continued calculating Scope 1 and Scope 2 emissions in accordance with the GHG Protocol Corporate Accounting and Reporting Standard.
+• Expanded disclosures to include full Scope 3 emissions reporting, in line with the GHG Protocol Corporate Value Chain (Scope 3) Standard.
+• Reported annually to the CDP Climate Change Questionnaire, receiving a score of ‘B’ for the second consecutive year, above the North America average.
+Systems & Data
+• Began transitioning to a new ESG data collection and management system, designed to improve the accuracy, completeness, and auditability of emissions calculations and broader sustainability reporting.
+• Improved water-related disclosures to report withdrawals, consumption and dischage across our sites
+MATERIALITY ANALYSIS
+The graph shows the most material topics that were identified and approved by senior management as part of the materiality analysis that was concluded in 2023.
+The process included:
+- A sector benchmark and review of global standards and government and business initiatives
+- Questionnaire to rank relevant topics based on perception of importance to Ormat
+- Interviews with various customers, suppliers, senior leadership, directors, and others.
+sustainable development goals
+The United Nations has 17 Sustainable Development Goals (SDGs) to address some of the world’s most pressing social, economic, and environmental issues. As a leading global renewable energy provider, we believe Ormat has an important leadership role to play in supporting the SDGs. We’ve identified specific SDGs where our operations have the greatest impact, including energy, economy, infrastructure, consumption, and climate.
+did you know?
+As of 2024, we hold 190 patents and patent applications, including 55 patents issued in the U.S. and 28 pending U.S. patent applications
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,840 @@
+ROOT: https://sunamp.com/
+SCRAPED_AT_UTC: 2026-02-11T20:37:11.236941Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://sunamp.com/
+
+World leading thermal storage technologies
+Sunamp designs and manufactures space-saving thermal energy storage solutions that make homes, buildings and vehicles more energy-efficient & sustainable while reducing carbon emissions and optimising renewables.
+Company news
+Sunamp is pleased to sponsor the Retrofit 25 exhibition at the Building Centre in London, running now until 19 September 2025.Commercial and industrial
+Sunamp batteries optimise renewables which, in turn, reduces carbon emissions from businesses of all sizes, industrial facilities and organisations in the government, community and public sectors.For UK installers and stockists
+Plumbers, installers, stockists and specifiers, visit Sunamp’s UK information hub to find installation instructions, technical leaflets and training sessions about our range of thermal batteries.
+Latest news and articles
+Sunamp celebrated for physics breakthrough adding to awards in innovation
+Designing hot water systems that tackle fuel poverty: what ECO cuts and the Warm Homes Plan mean for housing associations
+Sunamp partners with Gomon to launch China factory, expanding heat battery production to Asia Pacific
+How can we help you?
+I’m interested in…
+About us
+Sunamp’s vision is of a world powered by affordable and renewable energy sustained by compact thermal energy storage. Our mission is to transform how heat is generated, stored and used to tackle climate change and safeguard our planet for future generations.
+We’re a global company committed to net zero and headquartered in the United Kingdom. Recent expansion includes offices in New York and Zurich.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/about-sunamp
+
+Who we are
+Sunamp is a pioneer of innovative thermal storage solutions. Founded in 2005, our mission is to transform how we generate, store and use heat to make a significant global impact on tackling climate change and safeguarding our planet for future generations.
+Global warming, energy security and fuel poverty are issues that can be addressed by increasing renewable energy and cutting out ‘burn on demand’ fossil energy. Sunamp’s world-leading thermal storage technologies work with a wide choice of energy sources to help to deliver highly effective, low-carbon heating and cooling in buildings.
+We have a holistic approach to sustainability that permeates our staff culture and affects everything we do as a business. We have signed up to the SME Climate Hub commitment to halve our greenhouse gases by 2030 and achieve net zero emissions before 2050. As a result, we are committed to playing our part in achieving a climate-resilient, net-zero future.
+What we do
+We develop, make and sell thermal batteries that store energy using our patented phase change materials and discharge it as heat that can be used for hot water, heating and cooling. Sunamp thermal storage is up to ten times more energy dense, and occupies between 65% and 90% less space, than conventional systems such as hot water cylinders.
+Our thermal batteries charge from renewable energy sources such as air-source heat pumps, ground-source heat pumps and photovoltaics (PV), as well as electricity from the grid. This means our customers can make better use of renewables and in turn, benefit from improved energy efficiency and lower carbon emissions.
+We design and manufacture our thermal battery products at our global headquarters near Edinburgh in the United Kingdom. Here, we have our factory, research and development labs and customer training centre.
+Thousands of Sunamp heat batteries are already replacing traditional hot water cylinders in homes and enabling housing organisations to safely remove gas from buildings.
+We are an ambitious, imaginative business that’s growing fast. Recent expansion includes offices in New York and Zurich.
+“Sunamp has developed heat batteries, an idea which arose from an understanding that energy storage is at the heart of making renewables and energy efficiency work. There is over twice as much heat consumed in the world economy as electricity, so why isn’t heat storage a major topic? We decided that it was and that’s where we focus.”
+Sunamp co-founder Andrew Bissell
+Sunamp and sustainability
+We are committed to making a positive social and environmental impact. We source all our materials ethically and we recycle.
+Our thermal batteries are non-flammable and we are able to fully re-use or recycle every component at end-of-life.
+Achieving net zero is not just about our products reducing CO2 emissions for our customers. It’s also about how we run Sunamp as a business.
+By using the Greenhouse Gas Protocol Corporate Standard to identify and measure our scope one, two and three emissions, we know that the greenhouse gas intensity per Sunamp product sold is approximately zero. But we’re not stopping there. We continue to seek out areas in our value chain where we can further reduce carbon emissions to take us even closer to our net-zero targets.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/projects/
+
+EXTEND Longer Duration Energy Storage Demonstration programme | UK
+ORC power plant integrated with thermal energy storage | China
+Smart grid, Smart Islands Energy System | Denmark, Portugal and UK
+Electrical and thermal storage optimisation in a virtual power plant | UK
+Range extended-refrigerated battery electric vehicles (BEVs) | EU
+Heating and cooling at building and district level, Heat4Cool | EU
+Storage Platform for the integration of Renewable Energy | Ireland and UK
+EXTEND Longer Duration Energy Storage Demonstration programme
+Name of competition
+Longer Duration Energy Storage Demonstration (LODES) competition
+Granting body
+UK Government, the Department for Business, Energy & Industrial Strategy (BEIS)
+Duration of project
+24 months
+Commenced 30 September 2022
+Sunamp role
+Partners
+Sunamp, myenergi, Energy Systems Catapult, Ripple Energy
+Overview
+During the two-year project, we will develop, build and trial the EXTEND solution in 30 homes around the UK, and evaluate the effects a fleet of EXTEND thermal storage systems would have if a large number of them were deployed onto a specific area of the electricity network.
+The EXTEND system is built around heat battery storage of sustainable energy, allowing homes to use renewable heat even when renewable generation might not be available. The project is being run in partnership with myenergi, Ripple and Energy Systems Catapult.
+Funding is through the UK Government’s Longer Duration Energy Storage Demonstration programme, announced in November 2022.
+An ORC power plant integrated with thermal energy storage to utilise renewable heat sources for distributed heating and power
+Name of competition
+Newton Fund – China-UK Research and Innovation Bridges
+Granting body
+Innovate UK, Ministry of Science and Technology of the People’s Republic of China
+Duration of project
+24 months
+Commenced 1 May 2017
+Sunamp role
+Partners
+Sunamp, University of Glasgow, Beijing University of Technology, China Investment Yixing Red Sun Solar Energy Technology
+Overview
+Intermittent and low-grade renewable energy sources have unrealised potential to displace the use of fossil fuels, provided their inherent drawbacks can be overcome. We propose to couple novel heat storage technologies to the well-known Organic Rankine Cycle to produce distributed heat and power supply using a wide range of under-utilised renewable heat sources, such as solar and geothermal energy. These heat sources are normally too low-grade to be economically unviable for power generation using conventional technologies. ORC power plants are believed to be the most promising technology to utilise them.
+In order to improve the cost-effectiveness and to reduce payback period, suitable heat storage systems can be added to ORC power plants to either overcome the intermittency of solar energy or minimise the required capacity of deep geothermal boreholes. Based on the partners’ previous successes with ORC technologies and heat storages in both the UK and China, this consortium brings together comprehensive and complementary expertise to address key technical challenges, thus pushing forward the commercialisation of the proposed technology.
+Electrical and thermal storage optimisation in a virtual power plant
+Name of competition
+Granting body
+Duration of project
+12 months
+Commenced 1 Oct 2017
+Sunamp role
+Partner
+Partners
+Sunamp, University of Sussex, Durham University, Moixa Energy
+Overview
+Energy storage is currently receiving great attention from policy-makers, industry as well as research institutions, as it is considered one of eight great technologies for the future of energy. Combining electricity and heat for minimising cost and emissions in future networks is an emerging research field.
+Sussex researchers have tested the use of advanced systems to optimise use of electricity and heat, but energy storage was not part of that system. Building on combined electricity and heat, a storage-enabled system groups together the capacity of electrical and thermal energy systems as one large flexible “power plant” for balancing demand and supply in a cost-efficient way.
+This project will focus on energy storage for electricity and heat, with the possibility of adding more in future research. The challenges this project will address are: (i) feasibility assessment of the proposed storage control techniques through realistic simulations, (ii) deriving functional requirements / specifications of storage controller software & hardware, (iii) testing the feasibility of lab-based storage control implementations.
+Heat4Cool
+Name of competition
+H2020-EEB-2016-2017 (CALL FOR ENERGY-EFFICIENT BUILDINGS), Topic: EEB-03-2016
+Granting body
+Duration of project
+48 months
+Commenced 1 Aug 2016
+Sunamp role
+Partner
+Partners
+SUNAMP, POLITECNICO DI MILANO, SORTECH AG, THERMOWATT Ltd., HYPERTECH AE, TECNALIA, AES Ltd, BALKANIKA, SOLINTEL, SYMELEC, IZNAB, EUROPEAN HEAT PUMP ASSOCIATION (EHPA), EUROPEAN HEAT PUMP ASSOCIATION (EHPA), HOCHSCHULE LUZERN (HSLU)
+Overview
+Heat4Cool proposes an innovative, efficient and cost-effective solution to optimize the integration of a set of rehabilitation systems in order to meet the net-zero energy standards. The project develops, integrates and demonstrates an easy to install and highly energy efficient solution for building retrofitting that begins from the Heat4Cool advanced decision-making tool (which addresses the building and district characteristics) and leads to the optimal solution combining (1) gas and solar thermally driven adsorption heat pumps, which permits the full integration with existing natural gas boilers to ensure efficient use of current equipment , (2) solar PV assisted DC powered heat pump connected to an advanced modular PCM heat and cold storage system, and (3) energy recovery from sewage water with high performance heat exchangers.
+This retrofitting solution together with a closer interaction between building monitoring, demand/respond supply match, weather forecast and HVAC activation/control through a Self-Correcting Intelligent Building Energy Management Systems (SCI-BEMS) will save at least 10% of energy consumption.
+The project will implement four benchmark retrofitting projects in four different European climates to achieve a reduction of at least 20% in energy consumption in a technically, socially, and financially feasible manner and demonstrate a return on investment lower than ten years. The Heat4Cool consortium will ensure the maximum replication potential of the Heat4Cool solution by a continuous monitoring of technical and economic barriers during the development and validation phases in order to present the building owners and investors with clear energy and economic evidence of the value of implementing Heat4Cool solution.
+A detailed business plan will be developed in the beginning of the project to strengthen the exploitation plan of the retrofitting package and set the basis for a massive replication of the demonstrated concept across Europe.
+SMart IsLand Energy systems – SMILE
+Name of competition
+H2020-LCE-2016-2017 (COMPETITIVE LOW-CARBON ENERGY), Topic: LCE-02-2016
+Granting body
+European Union
+Duration of project
+48 months
+Commenced 1 May 2017
+Sunamp role
+Partner
+Partners
+SUNAMP, Rina Consulting S.p.A., Aalborg Universitet, Associacao Comercial Eindustrial Do Funchal – Camara De Comercioe Industria Da Madeira
+, Bright Curiosity, LDA (PRSMA), Community Energy Scotland Limited, Network of Sustainable Greek Islands, EEM Empresa De Electricidade Da Madeira SA, Ethniko Kentro Erevnas Kai Technologikis Anaptyxis – Centre for Research and Technology Hellas, Lithium Balance A/S, MITI – Madeira Interactive Technologies Institute – Associacao, Rijksuniversiteit Groningen, Route Monkey LTD, Samsø Elektro ApS, Samsø Energiakademi, Samsø Kommune, Stichting Energy Valley, Teknologisk Institut, VCharge UK Limited
+Overview
+The development of Smart grids are an important prerequisite for the transition towards a clean, affordable and reliable energy system. Through Smart grids, peak demand can be reduced and the energy grid can be stabilized. Therefore, the development of market ready technologies that facilitate this transition are important. The Smart Islands Energy System (SMILE) project will demonstrate nine different smart grid technologies on three different islands. The end goal of the project is to foster the market introduction of these nine technologies.
+Storage Platform for the Integration of Renewable Energy (SPIRE 2)
+Name of competition
+INTERREG VA
+Granting body
+European Union
+Duration of project
+58 months
+Commenced 1 Mar 2017
+Sunamp role
+Partner
+Partners
+SUNAMP, Ulster University, Queens University Belfast, Strathclyde University, Strathclyde University, Strathclyde University, Causeway Coast & Glens Borough Council, Community Energy Scotland, B9, Glen Dimplex, Climote, AES, SSE, Energia, ESB, PayPal, Ulster Farmers Union, The Authentic Food Company
+Overview
+The SPIRE 2 project will involve collaboration between lead coordinator Ulster University, 3 research institutes and 14 businesses via a cross-border Virtual Research Graduate School.
+SPIRE 2 will address how consumer-owned energy storage can resolve the problem of the variability of renewable energy (RE) output.#
+The project will explore how homes and businesses can store renewable energy effectively, allowing very high levels of RE to be integrated into power grids globally, at the same time as maximising the benefits to consumers.
+SPIRE 2 will aim to evaluate, develop and facilitate the wide-scale deployment of Mass Energy Storage (MES) technologies to operate profitably in new market structures of UK, Northern Ireland and the Republic of Ireland.
+The project will generate a deeper understanding of the role and commercial viability of MES in enabling increasing levels of intermittent power generation.
+Project leader Professor Neil Hewitt, who is the Director of the Centre for Sustainable Technologies at Ulster University, said:
+“The announcement by the Business Secretary Greg Clarke outlined how the UK Government intends to stimulate a drastic modernisation of energy markets.
+BBC News “Electricity shake-up could save consumers ‘up to £40bn’”
+“The SPIRE 2 project will help to deliver this by looking at how energy storage resources owned by homeowners and businesses can resolve the problem of the variability of output from renewable energy. If consumers can store energy effectively, that will allow very high levels of renewables to be integrated into power grids globally, at the same time as putting consumers at the heart of the energy system.”
+“Collaboration between research institutes and businesses is key to the success of this project and we are excited to be working with so many partner organisations. Working together, we can intensify technological innovation in the region and create pathways to commercialise advanced energy storage solutions. We want this region to be internationally recognised as an energy storage innovator as this will attract global industry interest and investment.
+“The project will create 17 PhD studentships and will further develop six post-doctoral researchers. By creating this supply of highly-educated developers, able to transform research ideas into commercial reality, SPIRE 2 will also contribute to local economic growth. These positions are now open to applicants and offer an opportunity to be involved in strategically significant global energy research.”
+Range extended- refrigerated BEVs for CO2 abatement in fleets
+Name of competition
+Integrated Delivery Programme 12: Seeding tomorrow’s vehicle technologies today – Collaborative R&D
+Granting body
+European Union
+Duration of project
+36 months
+Commenced 1 Aug 2016
+Sunamp role
+Partner
+Partners
+Sunamp, Route Monkey, Paneltex, Low Carbon Vehicle Partnership
+Overview
+Nowadays, the number of electric vehicles used in fleets to deliver chilled and frozen goods is low due to limited daily mileage as compared to internal combustion engine (ICE) vehicles. In fact, the electrical batteries need to provide energy for traction, cabin conditioning, and refrigeration of the container. With this project, Sunamp, Paneltex, Route Monkey and LowCVP aim to significantly increase the adoption of electric chilled and refrigerated vehicles for short delivery of frozen goods, by: 1) the integration of compact thermal stores to decouple the energy required for traction from that required for thermal loads; 2) the integration of real time measurements into software to optimise the route of each vehicle of the fleet, to maximise the benefits for the distributor. Major benefits are: 1) to achieve daily range comparable to diesel vehicles; 2) drastic reduction of local CO2 and other pollutants emissions by removing thousands of commercial ICE vehicles in cities; 3) increase of night deliveries because of low noise of these vehicles; 4) access for the distributor to ULEZ in cities; 5) improved comfort for drivers.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/about-sunamp/
+
+Who we are
+Sunamp is a pioneer of innovative thermal storage solutions. Founded in 2005, our mission is to transform how we generate, store and use heat to make a significant global impact on tackling climate change and safeguarding our planet for future generations.
+Global warming, energy security and fuel poverty are issues that can be addressed by increasing renewable energy and cutting out ‘burn on demand’ fossil energy. Sunamp’s world-leading thermal storage technologies work with a wide choice of energy sources to help to deliver highly effective, low-carbon heating and cooling in buildings.
+We have a holistic approach to sustainability that permeates our staff culture and affects everything we do as a business. We have signed up to the SME Climate Hub commitment to halve our greenhouse gases by 2030 and achieve net zero emissions before 2050. As a result, we are committed to playing our part in achieving a climate-resilient, net-zero future.
+What we do
+We develop, make and sell thermal batteries that store energy using our patented phase change materials and discharge it as heat that can be used for hot water, heating and cooling. Sunamp thermal storage is up to ten times more energy dense, and occupies between 65% and 90% less space, than conventional systems such as hot water cylinders.
+Our thermal batteries charge from renewable energy sources such as air-source heat pumps, ground-source heat pumps and photovoltaics (PV), as well as electricity from the grid. This means our customers can make better use of renewables and in turn, benefit from improved energy efficiency and lower carbon emissions.
+We design and manufacture our thermal battery products at our global headquarters near Edinburgh in the United Kingdom. Here, we have our factory, research and development labs and customer training centre.
+Thousands of Sunamp heat batteries are already replacing traditional hot water cylinders in homes and enabling housing organisations to safely remove gas from buildings.
+We are an ambitious, imaginative business that’s growing fast. Recent expansion includes offices in New York and Zurich.
+“Sunamp has developed heat batteries, an idea which arose from an understanding that energy storage is at the heart of making renewables and energy efficiency work. There is over twice as much heat consumed in the world economy as electricity, so why isn’t heat storage a major topic? We decided that it was and that’s where we focus.”
+Sunamp co-founder Andrew Bissell
+Sunamp and sustainability
+We are committed to making a positive social and environmental impact. We source all our materials ethically and we recycle.
+Our thermal batteries are non-flammable and we are able to fully re-use or recycle every component at end-of-life.
+Achieving net zero is not just about our products reducing CO2 emissions for our customers. It’s also about how we run Sunamp as a business.
+By using the Greenhouse Gas Protocol Corporate Standard to identify and measure our scope one, two and three emissions, we know that the greenhouse gas intensity per Sunamp product sold is approximately zero. But we’re not stopping there. We continue to seek out areas in our value chain where we can further reduce carbon emissions to take us even closer to our net-zero targets.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/solutions/public-housing/
+
+Sunamp thermal batteries are a low carbon, reliable, space-saving alternative to traditional hot water cylinders.
+This means you can install heat pumps where they don’t normally fit since hot water cylinders aren’t required.
+Lower emissions
+As a landlord, you’ll cut carbon emissions, improve energy efficiency and reduce maintenance costs across your affordable housing stock.
+Quick installation
+Tried and tested in high-rise and low-density social housing around the UK, installation is quick and there’s no need for residents to move out.
+Scalable
+Ideal for large-scale retrofit or new-build projects where space is at a premium.
+Space-saving: up to x4 smaller than hot water cylinder being replaced
+There’s often limited space inside homes which rules out installing bulky hot-water systems (and the associated pipework) when looking to use heat pumps instead of gas boilers.
+The solution is an integrated system with a Sunamp thermal battery fitting neatly in a cupboard and being charged by renewable energy from an air-source or ground-source heat pump.
+Energy efficiency improves by storing heat generated when electricity is cheaper and releasing it when it is needed. Residents enjoy hot water on demand while using less energy.
+Instead of having the old boiler in the kitchen, you’ve got this new technology in the cupboard. It’s unobtrusive and it works. And that’s the bottom line.
+Nigel Wilson, Chief Executive of housing association Gentoo Group
+Watch the interview with Sunamp and Gentoo Group about the ‘Core 364’ gas replacement programme for seven tower blocks in Sunderland, UK.
+Lower maintenance costs
+Thermal batteries require no regulatory annual maintenance – unlike domestic gas boilers and unvented cylinders – and greatly simplify installation.
+No legionella testing is needed since each battery holds less than 5 litres of water.
+What’s more, the batteries’ compact size releases storage space in each home which helps you meet mandatory space standards.
+Low and zero carbon technology in use
+Tackle fuel poverty
+Retirement homes, Midlothian, Scotland
+The HeatShare project shows how elderly residents use less energy for hot water with thermal batteries in their homes as part of five micro-scale district heating networks.
+Hot water on demand
+Multi-sized homes, central Scotland
+Residents of the EastHeat project like that Sunamp batteries give them hot water at mains pressure on demand. They also like that the slimline batteries free up cupboard space.
+Retrofit to decarbonise
+High-rise apartments, Sunderland
+Here at the Core 364 project, the thermal battery and heat pump combination cut CO2 emissions by an estimated 420 tonnes per year – or nearly 70% – by enabling gas supplies to be removed from 364 homes.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/solutions/housing-development-2/
+
+Sunamp thermal batteries combine with renewables to deliver instant hot water and are a low carbon, reliable, space-saving alternative to traditional hot water cylinders.
+Carbon reduction targets
+Using Sunamp thermal batteries to store heat for hot water improves the energy rating of the properties you develop.
+Our batteries charge from renewable energy sources such as air-source heat pumps, ground-source heat pumps and photovoltaics (PV), as well as electricity from the grid.
+This means Sunamp thermal batteries help address your project’s carbon emission reduction targets and relevant government legislation for energy and environmental performance of dwellings.
+And householders enjoy hot water on demand while being energy efficient.
+Better use of space
+Maximise the living space in your properties. How? Sunamp thermal batteries are up to 4 times smaller than equivalent hot water cylinders so there is no need for a dedicated cupboard.
+Their sleek, super-compact design means they look good in any home and free up valuable storage space.
+10-year warranty
+Our batteries come with a market-leading 10-year warranty on the heating element, making Sunamp the obvious choice for housebuilders and architects looking to retrofit existing hot water systems or specify new-build projects. Modular and scalable, the batteries can be connected in series or in parallel to increase heat storage capacity.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/solutions/commercial-industrial/
+
+Decarbonise heating and cooling while reducing energy consumption
+Sunamp thermal batteries combine with renewables and many other energy sources to deliver low-carbon hot water, heating or cooling. They are space-saving, reliable and energy-efficient.
+Reduce carbon emissions
+Sunamp batteries optimise renewables which, in turn, reduces carbon emissions from businesses of all sizes, industrial facilities and organisations in the government, community and public sectors.
+Our thermal batteries for these commercial and industrial settings can be charged from heat pumps, solar PV, grid electricity, combined heat and power (CHP), waste heat and chillers.
+Being able to store and move heat like an asset also provides opportunities for new revenue streams and offers energy supply resilience, while taking you towards achieving your net-zero carbon emission targets.
+Address energy efficiency
+Our commercial-scale thermal batteries are designed to charge when energy prices are low – or when renewable generation or waste heat is abundant – and discharge heat, hot water, air cooling or refrigeration during peak demand when energy costs are high. Storage capacity ranges from small (kWh) to large (GWh).
+Heating and cooling
+From dairy farms to distilleries, airports to hotels, Sunamp batteries can be filled with different formulations of our high-performance phase change technology Plentigrade to suit cold, ambient, warm and hot temperature uses.
+For example, from -30°C for freezing applications through to 5°C for cooling applications such as district cooling networks to 118°C for high temperature >80°C hot water applications such as sterilisation.
+Save space and reduce costs
+Sunamp thermal batteries are up to four times smaller than an equivalent thermal store thanks to containing our energy-dense phase change material, Plentigrade. Ideal for freeing up space in storage and plant rooms.
+Thermal batteries require no regulatory annual maintenance and greatly simplify installation which helps keep running costs down.
+Modular and scalable, our space-saving thermal batteries can be connected in series or in parallel to increase thermal storage capacity.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/hot-water-solutions-thermino-range/
+
+Award-winning Thermino range
+Our hot water batteries maximise the use of renewable energy and can be charged by air-source heat pumps, ground-source heat pumps, grid electricity, boilers, and are also future-proofed for solar PV.
+Ideal for retrofitting to existing hot water systems as well as specifying for use in new build projects. Their sleek, super-compact design means they look good in any home and free-up valuable storage space.
+Our heat batteries are a thermal energy storage solution that replaces hot water cylinders
+Direct cylinder replacement
+Thermino ePlus works with grid electricity and with solar PV by adding the Optimino PV key.
+Indirect cylinder replacement
+Thermino xPlus can work with boilers, heat pumps and solar PV by adding the correct Optimino key.
+Indirect cylinder replacement
+Thermino TS can work with boilers and heat pumps.
+Why use a Thermino thermal battery for hot water?
+Easy fit
+Reliable
+No mandatory maintenance required for the heat battery
+10-year warranty
+For products using Plentigrade P58 purchased and installed in the UK. Applies to the heating element & storage core part.
+On demand
+Save space
+Use renewables
+Cut CO2
+Unlock Renewables. Save Space.
+Our heat batteries are up to four times
+smaller than the equivalent hot water tank
+because they are filled with our patented
+energy-dense phase change material,
+Plentigrade. This means that heat pump
+systems can be installed where otherwise
+they wouldn’t fit.
+Lower your heat losses. Increase savings.
+Depending on how old your hot water
+cylinder is, you may be losing 1.344-
+3.336 kWh of heat daily. Our Thermino
+range has minimal heat loss rate, less
+than a quarter of that of a
+conventional hot water cylinder.
+Add solar PV at any time.
+Thermino technology is futureproof.
+Make the easy and affordable upgrade to
+low carbon efficiency, thanks to our Optimino
+technology. Increase self-consumption and
+reduce grid reliance.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/thermino-xplus/
+
+Features
+Thermino xPlus works with boilers and heat pumps using the compatible Optimino key. Plus, when you’re ready, you can add solar PV by simply changing the Optimino key.
+Modular and scalable, our thermal batteries can be connected in series or in parallel to increase heat storage capacity.
+- Flexible orientation with plumbing exits on three sides
+- Market-leading 10-year warranty on the heating element
+- Minimal risk of legionella
+- No mandatory annual maintenance for the heat battery
+- High flow rate mains pressure hot water
+- Ultra low heat losses – up to 4x lower than an old, conventional
+cylinder - Works with different energy sources – boiler, heat pumps, solar PV
+– with the correct Optimino key
+Dimensions
+There are three different models: Thermino xPlus 150,
+xPlus 210 and xPlus 300. They are in litre-equivalent sizes for easy
+comparison with traditional hot water cylinders.
+How Thermino xPlus works
+Saves space
+Thanks to the highly energy dense Plentigrade phase change material, Thermino xPlus is up to 4x smaller than the hot water cylinder it replaces.
+Reduces gas consumption
+Thermino xPlus reduces carbon emissions and gas consumption when charged by a system boiler, with the grid as the backup. When paired with the combi boiler, the battery can help drive savings by preheating for the combi.
+Solar PV ready
+You can also add solar PV by simply switching to the Optimino vfPV key and drive hot water savings from PV-generated electricity. You can further bring down costs by pairing this with off-peak electricity.
+Easy switch to heat pumps
+If you’re looking to install heat pumps, simply switch to the Optimino hp key or hpPV key (if paired with solar) without the need to change the heat battery.
+Know more about Thermino xPlus
+Thermino xPlus data sheet
+Thermino xPlus installation manuals
+Thermino xPlus accessories
+Compatible heat pump brands, Optimino key part numbers, and solar diverter resources
+Order now
+Contact us to discuss how Thermino xPlus will work with your development project. Available to order now from our network of approved installers and stockists.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/thermino-eplus/
+
+Features
+Modular and scalable, our thermal batteries can be connected in series or in parallel to increase heat storage capacity
+- Flexible orientation with plumbing exits on three sides
+- Market-leading 10-year warranty on the heating element
+- Protected against legionella risk
+- No mandatory annual maintenance required for the heat battery
+- High flow rate mains pressure hot water
+- Ultra low heat losses – up to 4x lower than an old, conventional cylinder
+Dimensions
+There are four different models: the Thermino ePlus 70, ePlus 150, ePlus 210 and ePlus 300.
+They are in litre-equivalent sizes for easy comparison with traditional hot water cylinders.
+How Thermino ePlus works
+Saves space
+Thanks to the highly energy dense Plentigrade phase change material, Thermino ePlus is up to 4x smaller than the hot water cylinder it replaces.
+Saves money
+Connected to the grid, Thermino ePlus can shift demand to off-peak hours. And when combined with an off-peak tariff, the battery helps save money too.
+Solar PV ready
+Add the Optimino ePV key and make use of free solar electricity, which can economically pre-heat water for boilers.
+Know more about Thermino ePlus
+Thermino ePlus data sheet
+Thermino ePlus installation manual
+Thermino ePlus accessories
+Mandatory plumbing components
+Order now
+Thermino ePlus heat batteries are available to order from our network of installers and approved stockists if you are a homeowner or by contacting Sunamp if you are a housing developer and social landlord.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/thermino-ts/
+
+Features
+Thermino TS works with external heat sources such as boilers and heat pumps.
+Modular and scalable, these PCM thermal batteries can be connected in series or parallel to increase heat storage capacity.
+- Flexible orientation with plumbing exits on three sides
+- Market-leading 10-year warranty on the PCM and heat exchanger
+- Minimal risk of legionella
+- No mandatory annual maintenance for the heat battery
+- High flow rate mains pressure hot water
+- Ultra low heat losses – up to 4x lower than an old, conventional
+cylinder - Works with heat pumps and boilers, including gas, oil, and LPG
+Dimensions
+There are three different models: Thermino 150 TS,
+210 TS and 300 TS. They are in litre-equivalent sizes for easy
+comparison with traditional hot water cylinders.
+How Thermino TS works
+Saves space
+Thanks to the highly energy dense Plentigrade phase change material, Thermino TS is up to 4x smaller than the hot water cylinder it replaces.
+Highly energy-efficient, thanks to lower heat losses
+Thermino TS is a highly energy-efficient alternative to indirect vented and unvented hot water cylinders.
+Its high-performance vacuum insulation means ultra-low heat losses and reduced energy waste, while the low volume of stored water (<15L) removes the need for additional energy-intensive Legionella protection cycles.
+Works with external heat sources, boilers and heat pumps
+Thermino TS can work with external heat sources, such as boilers, making it an energy- and space-efficient replacement for indirect hot water cylinders.
+It is also compatible with heat pumps, so whether you are upgrading now or planning to in the future, you won’t need to change your thermal store.
+Compact and easy to install, it fits into tight spaces with minimal disruption, making it ideal for retrofit or new-build.
+The external heat source just needs to meet the requirements set out in the Thermino TS manual.
+Know more about Thermino TS
+Thermino TS data sheet
+Thermino TS installation manual
+Thermino TS accessories
+Order now
+Contact us to discuss how Thermino TS will work with your development project. Available to order now from our network of approved installers and stockists.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/heating-central-bank-overview/
+
+Central Bank is a compact, energy-dense thermal storage solution which can reduce energy consumption and carbon emissions associated with heating buildings, process heat and district heating networks.
+Providing highly efficient, sustainable, low carbon heat storage, Central Bank thermal batteries are smaller than equivalent thermal stores thanks to our energy-dense phase change material (PCM), Plentigrade. The thermal batteries can be filled with different PCM formulations to suit ambient, heat and steam temperature applications.
+Many energy sources
+Central Bank thermal batteries are designed to integrate with heating, ventilation and air conditioning equipment (HVAC). The thermal batteries can be charged from a wide choice of energy sources including process and waste heat, district heating networks, grid and renewable electricity.
+Modular and scalable, Central Bank thermal batteries can be connected in series or in parallel to increase heat storage capacity needed by commercial buildings, agriculture, district heating and industrial-scale systems.
+Different model sizes
+Central Bank is our product range for space and process heating.
+The systems will come in different sizes, from the shipping container-sized Central Bank which can be used in large-scale commercial and industrial projects, to Central Bank Mini which is suitable for commercial buildings, large properties and small-scale industrial applications.
+Welcome to Sunamp
+We noticed you're from United States of America. Would you prefer to visit the Sunamp site for your country?
+No, thanks Visit US site
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/preliminary-product-notifications/
+
+We have developed a range of thermal batteries which use our Plentigrade phase change material (PCM). Different PCMs can be used to suit the desired application, which can include heating or cooling.
+Our Thermino heat batteries are currently available for domestic hot water, with more than 25,000 units installed worldwide.
+The following preliminary product notifications provide more information on our Central Bank Mini heating solution and Permafrost Mini cooling solution.
+Central Bank Mini
+Central Bank Mini is an advanced and compact thermal battery which can be supplied with a range of PCMs to suit the application and operating temperature. Central Bank Mini is suitable for hot water production, heating, district heating applications and as a sink source for hotter temperatures.
+Download the Central Bank Mini (P58) preliminary product notification
+Download the Central Bank Mini (P89) preliminary product notification
+Permafrost Mini
+Permafrost Mini is an advanced and compact thermal battery for cooling, which can be supplied with a range of PCMs to suit the application and operating temperature.
+Permafrost Mini (P5) is suitable for a range of dynamic cooling applications such as district cooling networks, chill rooms, and other rapid cooling situations.
+Download the Permafrost Mini (P5) preliminary product notification
+Permafrost Mini (P11) is suitable for dynamic cooling applications such as air conditioning, or applications that use the Plentigrade P11 material as a sink source.
+Download the Permafrost Mini (P11) preliminary product notification
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/cooling-permafrost-overview/
+
+Sunamp Permafrost thermal batteries are space-saving, cool stores that reduce energy consumption and carbon emissions associated with air conditioning, district cooling networks and freezing.
+Providing highly efficient, low carbon cooling, Permafrost thermal batteries are smaller than equivalent thermal stores thanks to our energy-dense phase change material (PCM), Plentigrade. They can be filled with different PCM formulations to suit cooling and freezing temperature applications.
+Many energy sources
+Permafrost thermal batteries are designed to integrate with heating, ventilation, air conditioning and refrigeration (HVAC&R) equipment, and can be charged from a wide choice of energy sources including process and waste cooling, cooling networks and chillers powered by renewables.
+Modular and scalable, Permafrost units can be connected in series or in parallel to increase cooling storage capacity and resilience needed by commercial buildings, agricultural processes, cooling networks, and industrial-scale systems.
+Welcome to Sunamp
+We noticed you're from United States of America. Would you prefer to visit the Sunamp site for your country?
+No, thanks Visit US site
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/optimino-2/
+
+The key to effortless transition
+The Optimino technology makes it easier and more affordable to transition to renewable energy by allowing upgrades to heating systems without the added expense of replacing the thermal storage component.
+Our Thermino ePlus and xPlus range of batteries come fitted with our Optimino controller, which allows the heat battery to work with different energy sources by using a compatible Optimino key—you can add solar PV to the ePlus model, and a solar PV and heat pump to the xPlus model later without the need to change the heat battery.
+Designed to future-proof the investment in Thermino heat batteries, homeowners and landlords can make the switch from fossil fuels to renewables at their own pace and budget.
+Make the ecofriendly choice
+To replace hot water cylinders with a more eco-friendly option, choose between Thermino ePlus, a replacement for direct hot water cylinders, or Thermino xPlus, depending on whether you have a heat pump system or not. As a replacement of indirect hot water cylinder, the Thermino xPlus can also be charged by a boiler, spreading the cost of transitioning to renewables further. Start with good thermal storage and build from there.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/optimino-resources-for-installers/
+
+Resources for installers
+Optimino keys and solar compatibility resources
+Optimino key part numbers
+Energy Source – Heat pumps
+| Compatible heat pump brands | Without PV key | With PV key |
+|---|---|---|
+| Amitime PAVH-08V1GFB R290 HP | AE01 | AE02 |
+| Bosch Compress 5800i AW R290 | BH01 | BH02 |
+| Daikin Altherma 3HHT R32 series | DN01 | DN02 |
+| Ecoforest ecoAIR PRO series | ET01 | ET02 |
+| Ecoforest ecoGEO PRO R290 series | ET01 | ET02 |
+| Grant Aerona HPR290 series | GT01 | GT02 |
+| Haier Monobloc GT R290 series | HR01 | HR02 |
+| Hisa HR290 | HA01 | HA02 |
+| Ideal HP290 R290 Monobloc | IL01 | IL02 |
+| LG Therma V Monobloc R290 series | LG01 | LG02 |
+| Midea MHC R290 | MA01 | MA02 |
+| Mitsubishi Electric PUZ-WZXXVAA R290 | MC01 | MC02 |
+| NIBE S2125 R290 | NE01 | NE02 |
+| Panasonic L series R290 | PC01 | PC02 |
+| Phnix Greentherm R290 Series | PX01 | PX02 |
+| Samsung EHS HTQ R32 Series | SG01 | SG02 |
+| Samsung EHS Mono R290 | SG01 | SG02 |
+| Stiebel Eltron WPL-A 07 HK 230 Premium R454C HP | SL01 | SL02 |
+| Tongyi R290 Inverter Series ‘TAHMV-R’ | TI01 | TI02 |
+| Trianco Activair R290 Series | TO01 | TO02 |
+| Vaillant Arotherm + R290 Series | VT01 | VT02 |
+| Viessmann Vitocal R290 | VN01 | VN02 |
+See the relevant wiring instructions for all heat pump manufactures in this manual: Thermino xPlus with Heat Pumps – Wiring & Settings manual.
+Click here to download the technical note for xPlus installation with Kensa shoebox heat pumps
+Download the technical note for Thermino xPlus in back-up electric mode
+Download the technical note for wiring diagrams for Thermino 1800W models with AC coil relay
+Download the technical note for Thermino and volt free timer wiring instructions
+Download the technical note for cold commissioning procedure
+Energy Source – Boiler
+| Heat source | Without PV | With PV key |
+|---|---|---|
+| Boiler | VF01 | VF02 |
+Energy Source – Solar PV
+| Heat source | PV key |
+|---|---|
+| Solar PV with ePlus | PV02 |
+Compatible solar diverters
+| 4-Noks power reducer SA |
+| myenergi EDDI solar diverter |
+| my-PV AC·THOR solar diverter |
+| Power Diverter Model 3 solar diverter |
+See more resources for installers
+Including installation manuals and data sheets
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/plentigrade/
+
+Storing energy as heat and releasing it when, and where, it's needed
+Sunamp thermal batteries are energy-saving thermal stores containing Plentigrade: our high-performance phase change materials (PCMs) that deliver heating or cooling reliably, safely and efficiently.
+Plentigrade, with its perpetual phase changing ability, is at the core of our products.
+Our breakthrough technology was created in collaboration with the University of Edinburgh, ranked among the top 20 universities in the world, and the UK’s national synchrotron particle accelerator, Diamond Light Source. To find out more about the chemistry behind Plentigrade, read our blog.
+Sustained with Plentigrade
+Plentigrade is the remarkable PCM inside our thermal batteries which absorbs and releases thermal energy during a melting and freezing process in a similar way to the gel in a pocket handwarmer.
+The PCM uses latent heat – the energy needed to break the PCM’s crystal structure to change it from solid to liquid – to store energy on melting to a liquid and to release energy at a controllable, constant temperature on freezing to a solid.
+Plentigrade guarantees high energy output and an almost unlimited lifespan, yet its composition remains unchanged.
+Its best-in-class reliability is underscored by internationally recognised certification. Sunamp also holds multiple patents for Plentigrade PCMs.
+Stores 4 to 10x more energy than conventional materials
+Cost reducing
+The unique Plentigrade formula stores thermal energy at a lower cost and higher efficiency that other battery technologies.
+Greater efficiency
+Our flagship Plentigrade P58 material stores up to four times more energy than water which means our Themino heat batteries are smaller than traditional hot water cylinders.
+Industry leaders
+Others have tried, but no one before has succeeded in perfecting our combination of exceptional long-life, recyclability, safety and high energy density.
+Across a range of temperatures
+We can change the trigger temperature when Plentigrade melts and freezes.
+This means Sunamp batteries can be used for cold, ambient or hot temperature applications.
+For example:
+- -30°C for refrigeration
+- 5°C for cooling such as cold chain storage
+- 58°C for domestic hot water and space heating
+- 118°C for high temperature >80°C hot water applications such as sterilisation
+Reliability
+Sunamp is the only thermal battery manufacturer in the world to be awarded RAL Certification, the only global standard for Phase Change Material and PCM products.
+The award confirms the performance of our flagship Plentigrade P58 material with no noticeable degradation to 40,000 cycles in the Thermino product – the equivalent of over 50 years of daily use.
+Award from the UK’s prestigious Royal Society of Chemistry
+Sunamp won the 2022 Industry-Academia Collaboration Award for our successful and innovative partnership with The Edinburgh University School of Chemistry.
+This work led to the commercial development of our world-leading thermal storage technology using novel formulations of phase change materials.
+Find out more about how PCMs work
+Watch for a quick explanation of the history of PCMs, how they work, and how we use PCMs to deliver hot water reliably, safely and efficiently in our Thermino line.
+Learn more about the chemistry behind Plentigrade
+Dr David Oliver, Sunamp’s materials development manager, explains what a phase change material is and why it is important.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/how-heat-batteries-work/
+
+Based on the understanding that the world uses over twice as much heat as electricity, Sunamp thermal batteries help tackle climate change by storing energy as heat and releasing it when and where it is needed.
+Sunamp heat batteries are energy-saving thermal stores with Plentigrade at their core.
+Plentigrade is our high-performance phase change technology platform that delivers heating or cooling reliably, safely and efficiently.
+Our breakthrough phase change material (PCM) formulation is successfully transforming how we use energy and provide heat around the world.
+How our Plentigrade P58 phase change material makes hot water
+Plentigrade is the remarkable PCM inside our thermal batteries which absorbs and releases thermal energy during a melting and freezing process in a similar way to the gel in a pocket handwarmer.
+- PCMs absorb, store and release large amounts of latent heat when changing state between solid and liquid. Heat is absorbed on melting and released on freezing
+- Melting and freezing our Plentigrade P58 PCM formulation stores up to four times more energy than heating and cooling hot water
+- A high-powered heat exchanger or heating element immersed in our patented PCM rapidly charges the thermal battery. Heat is just as quickly extracted, and in our Thermino products, provides fresh, mains pressure hot water at a constant temperature only when it’s needed
+- Reliable, safe, non-toxic, non-flammable
+- Lowers energy use and carbon emissions
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/careers/
+
+Discover your future with us
+We’re always on the look out for great talent, and invite you to share your CV and tell us about your unique skills and experiences. By joining our talent community, you’ll be part of an ongoing conversation about opportunities and future collaborations with a company that values innovation and excellence.
+Ready to take your next step in your career? Submit your CV today and let’s explore what we can achieve together.
+Explore your next role
+Build a career with purpose
+At Sunamp, we’re transforming the way the world stores and uses thermal energy, helping to cut carbon emissions, reduce energy costs, and shape a more sustainable future. Our success is powered by talented people who share our passion for innovation, teamwork, and purpose.
+As we continue to grow, we’re building a strong, collaborative environment where everyone can make an impact. Whether your skills lie in operations, production, finance, or beyond, you’ll be part of a company that values fresh thinking, continuous improvement, and doing work that truly matters.
+Explore our current opportunities below and join us in creating lasting change.
+Group Finance Manager
+We’re looking for a talented and strategic Group Finance Manager to play a key role in shaping Sunamp’s financial direction as we continue to grow. Based just outside Edinburgh, you’ll lead our finance operations, providing insight, guidance, and structure to support our next stage of expansion.
+If you’re a qualified finance professional (CA/ACCA) with strong analytical skills, sound judgement, and a collaborative approach, this is your opportunity to join a purpose-driven company leading the transition to cleaner, smarter energy.
+At Sunamp, we believe in innovation, integrity, and teamwork — and we’re looking for people who share that vision.
+Ready to make an impact? Apply now using the online form below.
+Head of Production & Quality
+We’re looking for an experienced and driven Head of Production & Quality to lead our manufacturing operations at our Newhailes factory. This is a pivotal role responsible for ensuring our products are built to the highest standards while driving continuous improvement across production processes and quality systems.
+You’ll oversee daily production activities, manage and develop high-performing teams, and ensure that efficiency, safety, and product excellence remain at the core of everything we do. Working closely with colleagues across Manufacturing, Supply Chain, and Engineering, you’ll help shape the next phase of operational growth as Sunamp continues to scale.
+If you’re passionate about leadership, process optimisation, and quality excellence, and want to make a real impact in a growing clean energy business, we’d love to hear from you.
+Help us build the future of sustainable heat — apply now to join Sunamp.
+Supply Chain & Facilities Manager
+We’re looking for an experienced and motivated Supply Chain & Facilities Manager to lead the end-to-end management of our materials, logistics, and site operations. Based at our Newhailes factory, this role is key to ensuring operational efficiency, cost-effectiveness, and a smooth flow of materials and services across the business.
+You’ll oversee planning, procurement, inventory, warehousing, logistics, and facilities management — driving continuous improvement and supporting production continuity. With strong leadership, problem-solving, and organisational skills, you’ll play a vital part in helping Sunamp scale effectively and sustainably.
+If you thrive in a fast-paced environment and are ready to make a tangible impact, we’d love to hear from you.
+Join us and help power the future of sustainable heat. Apply today using the online form below.
+Test Engineer
+We’re looking for a Test Engineer to join our Engineering team and play a pivotal role in developing and validating our next generation of thermal storage products. Based near Edinburgh, this position will help shape how our technology is tested, refined and improved, ensuring every product meets the highest standards of quality and performance.
+At Sunamp, we design and manufacture compact, efficient thermal storage solutions that make homes and buildings more sustainable and energy-efficient. Recognised with the first-ever King’s Award for Enterprise, we’re proud to be an innovative force in the clean energy sector.
+If you’re motivated by engineering excellence, sustainability and the chance to see your work contribute directly to a more energy-efficient world, we’d love you to be part of our team.
+Help shape our technology — apply now using the online form below.
+Sales Manager (Central Italy)
+We’re looking for an experienced and commercially minded Sales Manager to expand Sunamp’s presence across Central Italy. This is a field-based role focused on driving both project-led and recurring sales, building a strong pipeline across the full supply chain, from sales agents and designers to installers, wholesalers, and contractors within the plumbing and renewable sectors.
+You’ll lead regional sales activity by supporting and developing local sales agencies, identifying new partners in uncovered territories, and working closely with customers to translate specifications into delivered projects. Acting in a consultative capacity, you’ll align customer needs with Sunamp’s thermal storage solutions, supported by technical colleagues throughout the customer journey.
+Success will be measured through sustainable revenue growth, margin protection, accurate forecasting, and delivery of a regional business plan aligned with Italy’s market strategy.
+This is a remote, autonomous role based in Central Italy, with regular travel and periodic time at headquarters.
+Be the face of Sunamp in the region and help accelerate the future of clean heat.
+Apply now
+Get in touch
+Opportunities come up regularly. If you would like to work for us, please send your CV to [email protected] and we will add you to our recruitment database to ensure that you are updated about new positions.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/extend/
+
+Grant-funded field-trial tackling lulls in renewable energy generation and cutting carbon emissions from household heating systems
+The EXTEND project aims to replace household boilers fired by fossil fuels with thermal energy storage and heat pumps, with the purpose of moving forward with the electrification of heat.
+EXTEND combines a longer-duration thermal storage system and a smart heating controller with household energy systems to tackle periods of low renewable generation, known as “dunkelflaute.”
+EXTEND in a nutshell
+During the two-year project, we will develop, build and trial the EXTEND solution in 30 homes around the UK, and evaluate the effects a fleet of EXTEND thermal storage systems would have if a large number of them were deployed onto a specific area of the electricity network.
+The EXTEND system is built around heat battery storage of sustainable energy, allowing homes to use renewable heat even when renewable generation might not be available. The project is being run in partnership with myenergi, Ripple and Energy Systems Catapult.
+Funding is through the UK Government’s Longer Duration Energy Storage Demonstration programme, announced in November 2022.
+Space heating and hot water
+A heat pump will charge renewable heat into a large-capacity heat battery, delivering space heating and hot water on demand.
+Renewable energy
+The bulk of input electrical energy will be from on- and off-site wind energy. Householders will have the option of part ownership of a wind farm through Ripple Energy.
+Time-shifting control
+The proposed system uses smart control logic from myenergi and Sunamp, and a significantly larger thermal storage from Sunamp to overcome lulls in renewable energy supply.
+EXTEND partners and granting body
+The £9.25 million project funding for EXTEND was awarded through the UK Government’s Department for Business, Energy & Industrial Strategy (BEIS) and its Longer Duration Energy Storage Demonstration programme, part of the Net Zero Innovation Portfolio (NZIP), which provides funding for low-carbon technologies and systems.
+EXTEND systems in homes will help the UK ride out lulls in renewable energy generation and will allow homeowners to cut their carbon emissions and benefit from lower cost tariffs for flexible demand and participation in grid-supporting measures.”
+Andrew Bissell, Sunamp’s chief executive
+Project timeline
+Research and development
+November 2022 to September 2024
+Pilot trial
+Starting June 2024
+Main field trial
+June 2024 – September 2024
+Trial decommissioning and final reporting
+Spring 2025
+Frequently asked questions
+The field trial will be run using Energy System Catapult’s real-world test environment called the Living Lab. To register your interest in taking part please leave your details below. We will be updating this page to share more relevant information about how to sign up, so please do check back again.
+The EXTEND project is developing a new generation of thermal storage optimised for space heating that will allow homeowners to decarbonise their homes and keep relying on cost-effective renewable energy even during “dunkelflaute” periods, where little to no wind or solar energy is being generated. To do this, we will extend our existing energy-dense heat battery technology to a prototype range of thermal batteries that have increased storage duration and capacity. The longer duration energy storage system will be designed to be readily compatible with a large share of the UK housing stock, while still providing the energy efficiency and renewable share of a heat pump system.
+The field trial is due to start in December 2023 in 100 homes around the UK. Before the start of the trial, every prospective participant will be given information about the system to be installed in their homes, the scope of the trial and the decommissioning to return their home to its pre-trial state. We’ll share more information on this web page when it is available.
+Yes. The EXTEND thermal storage system is an extension of Sunamp’s well-established technology and introduces a doubling of the useful energy content inside the store compared to the normal operating range of Sunamp’s other heat batteries. EXTEND project thermal batteries are for both domestic space heating and hot water, and are specifically designed to be compatible with heat pumps. This means they need to have larger energy storage capacities than our current Thermino battery range, which delivers hot water only. The project is assessing the feasibility of developing three differently sized, demonstration prototype heat batteries - a dishwasher sized model suitable for small or well-insulated new build properties, a refrigerator sized model for typical semi-detached and smaller (or well-insulated) detached properties, and an American fridge-freezer sized model for larger properties. These batteries will benefit from a very high energy density within a relatively small amount of space, ensuring they are highly practical and cost-effective in the average UK home.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/blog/we-need-to-talk-about-dunkelflaute/
+
+By Lukas Bergmann, Sunamp’s head of product management and regulatory affairs
+If you’re not already familiar with the term “dunkelflaute”, there’s no doubt it will be tripping off your tongue before you know it.
+In the UK we are forging forward into a new future of renewable energy and the decarbonisation of heat. And with new technology, comes new vocabulary. Dunkelflaute is a German word meaning “a dark lull” or in the specific context of renewable energy, a “lull in wind generation”.
+And this is important because, pivotal to the whole project of renewables generation, is the challenge of dealing with intermittency issues – extended periods when the wind doesn’t blow or the sun doesn’t shine.
+Even in windy Scotland, there was a recent spell of sunny, still weather resulting in nine days of wind generation at just 5% of the average output.
+Demands on the electricity grid
+But the vagaries of the British weather are not the only challenge for renewable energy innovators.
+By decarbonising heat and moving towards the electrification of heating using heat pumps run on electricity generated by wind turbines and photovoltaic (PV) panels, a considerable new demand is being made on the country’s electricity infrastructure.
+At the moment, the UK’s electricity network operates on the principle that not everyone will use all of their electrical appliances at the same time. It has allowed for the “diversity factor”, assuming that some people will be on holiday, working shift patterns and sleeping during the day, that a certain percentage of users will be retired, working from home or working long hours in an office. And this complex calculation, based on a statistical analysis of usage behaviour, has generally worked – bar the odd outage in the past at Christmas when the entire population, in festive synch, put their turkey in the oven and watched the Queen’s annual speech to the nation on television.
+Paradigm shift
+People embracing renewables and electrifying their heat – who would previously have been gas users – will now be creating a significant new load on the electricity grid and disrupting all the existing carefully calibrated usage calculations and stressing capacity.
+In addition to the new “renewables” cohort of electricity users with their range of behavioural demand patterns, the electricity grid will also be challenged by an increase in load governed by simple physical external influences as these new electricity consumers look to the network to supply energy when it’s cold or windy and their homes need heating.
+So, if we are to progress the electrification of heat, we have an urgent need to find solutions which will dissociate the demand for heat from the demand for electricity.
+We need a paradigm shift from a model where power plants respond to an increase in load by an increase in generation. That simply can’t be done with the intermittent nature of wind and PV power.
+We need to find ways to harness wind and solar power when it’s in plentiful supply and have it ready and waiting for when demand kicks in.
+Storage and the EXTEND project
+And the only way to do this is to start using effective storage. Sunamp’s Phase Change Material (PCM) thermal batteries are being recognised as a key way of addressing this challenge.
+Recently, Sunamp won major research and development funding from the UK Government’s Department for Business, Energy and Industrial Strategy (BEIS), through the Longer Duration Energy Storage Demonstration programme, part of the Net Zero Innovation Portfolio which provides finance for low-carbon technologies and systems. Sunamp’s competitive pitch-winning proposition, EXTEND, is a project exploring how Sunamp heat batteries – over 30,000 units of which have already been installed by customers to replace hot water cylinders in homes – can be optimised for space heating applications which require more storage capacity but at much lower power.
+This is ground-breaking work in the evolution of heat batteries.
+Whilst there are currently some large heat batteries on the market for space heating, they are not compatible with heat pumps and depend on resistive heating. Sunamp’s EXTEND project is assessing the feasibility of developing three different sizes of heat storage batteries optimised for space heating and heat pumps:
+- a 50 kilowatt hours model that’s dishwasher sized
+- a 100 kilowatt hours model that’s refrigerator sized, and
+- a 300 kilowatt hours model that’s American fridge-freezer sized.
+These batteries will benefit from a very high energy density in a relatively small amount of space, ensuring they are highly practical and cost effective in the average UK home.
+The EXTEND project brings Sunamp together with some of the UK’s leading innovators in electrification including Ripple Energy providing customers with the option of part ownership of a wind farm, myenergi providing smart logic applications and Fischer Future Heat providing installation resources.
+Supporting flexible demand
+The new generation of Sunamp thermal batteries will allow homeowners to decarbonise their homes, benefit from savings through on- and off-site renewables generation and benefit from lower cost tariffs for flexible demand or participation in grid-supporting measures.
+And the large capacity thermal storage of these innovative heat batteries will take the pressure off the grid, by storing energy to be delivered on demand. Even during a dunkelflaute.
+I did say dunkelflaute was an important word. But maybe it’s even more than that? Perhaps it’s at the very heart of the renewables zeitgeist.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/membership-and-accreditations/
+
+Products
+Sunamp products are fully certified for the UK and European markets, fully compliant with the Low Voltage Directives (LVD) and Electromagnetic Compatibility (EMC) directives, and are CE and UKCA marked.
+RAL (Phase Change Material, PCM, Standard)
+Sunamp is the first and only heat battery manufacturer in the world to be awarded A Grade RAL Certification, the independent quality mark and the only global standard for Phase Change Material (PCM) and PCM products.
+The award confirms performance of our flagship Plentigrade P58 material with no noticeable degradation to 10,000 cycles in the Thermino product – the equivalent of over 13 years daily use.
+CE
+Sunamp products have been assessed and meet the requirements of the applicable EC directives and comply with EU safety, health and environmental requirements.
+UKCA
+Sunamp products meet the applicable requirements of the UK Conformity Assessed (UKCA) scheme.
+Kiwa (Water Regulations)
+Sunamp products are approved under the Kiwa UK Regulation 4 Product Approval Scheme. This is a robust method for demonstrating compliance with the UK Water Supply (Water Fittings) Regulations 1999 which are important for public health, safeguarding water supplies and promoting the efficient use of water within premises across the UK.
+NSF
+Sunamp products are NSF certified.
+NSF Certification is a leading provider of independent assurance and certification services to the agriculture, produce and processing industries, specialising in the delivery of individual and combined assessments to a broad range of international, national and client-specific standards.
+UL
+Sunamp’s thermal stores are UL certified – a globally recognised mark of safety, quality, and compliance for products, personnel, facilities, processes, and systems.
+Company
+We work to the highest of standards and have ISO accreditation having achieved key International and UK quality certifications which underline our commitment to sustainability, health and safety and quality in everything that we do.
+ISO 9001:2015 – Quality Management
+Sunamp is certified to ISO 9001:2015, the internationally recognized Quality Management System (QMS) standard. This standard is based on a number of quality management principles including a strong customer focus, the motivation and implication of top management, the process approach and continual improvement. It recognises that customers receive consistent, good-quality products and services.
+ISO 14001 – Environmental Management
+Sunamp is ISO 14001:2015 certified for meeting standards required for its environmental management system that enhances environmental performance and manages environmental responsibilities in a systematic manner that contributes to the United Nations sustainable development goals.
+ISO 45001 – Occupational Health & Safety
+Sunamp is ISO 45001:2018 certified for meeting requirements for an occupational health and safety (OH&S) management system and providing safe and healthy workplaces by preventing work-related injury and ill health, as well as by proactively improving its OH&S performance.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/trade-association-memberships/
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+Cookie
+Duration
+Description
+cookielawinfo-checkbox-analytics
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
+cookielawinfo-checkbox-functional
+11 months
+The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
+cookielawinfo-checkbox-necessary
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
+cookielawinfo-checkbox-others
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
+cookielawinfo-checkbox-performance
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
+viewed_cookie_policy
+11 months
+The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/warranty-registration/
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+Cookie
+Duration
+Description
+cookielawinfo-checkbox-analytics
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
+cookielawinfo-checkbox-functional
+11 months
+The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
+cookielawinfo-checkbox-necessary
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
+cookielawinfo-checkbox-others
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
+cookielawinfo-checkbox-performance
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
+viewed_cookie_policy
+11 months
+The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunamp.com/case-studies/thermino-cuts-peak-demand-by-66-percent-in-a-us-school/
+
+The Challenge: Electrification without overloading the grid
+As public buildings across the United States accelerate electrification to meet decarbonization targets, domestic hot water is emerging as a major electrical challenge.
+Conventional electric storage water heaters introduce large, uncontrolled demand spikes. These peaks often occur during occupied hours, placing strain on building electrical panels, transformers, and local distribution networks. For schools, hospitals and other public buildings, this can result in costly infrastructure upgrades, increased demand charges, and higher operational risk during peak periods.
+In Springfield, Massachusetts, a public school, Liberty Elementary School, faced this exact challenge. The objective was clear: electrify hot water without triggering grid constraints or expensive electrical upgrades.
+The question was not whether to electrify, but how to do it in a grid-friendly, future-ready way.
+The solution: A side-by-side trial
+To answer this question with real data, North American Sunamp distribution partner Lee Thermal conducted a controlled trial comparing two systems: a standard 80-gallon electric storage water heater and a Thermino 80 ePlus heat battery that stores heat in Sunamp’s proprietary Plentigrade® phase change material (PCM).
+Both systems were monitored under real operating conditions in the school, with detailed electrical demand data collected over time. The goal was to understand not just energy consumption, but also how each system behaved from a grid and infrastructure perspective.
+What the data revealed
+vs.
+The data tells a compelling story: thermal storage is the missing piece of grid-ready electrification.
+- Peak demand reduced by approximately 66%
+One of the most significant outcomes was cutting the peak electrical demand by 66%.
+- The electric tank peak demand: approximately 7.1 kW
+- Sunamp Thermino peak demand: approximately 2.4 kW
+This reduction translates directly into:
+- Lower transformer & panel loading
+- Reduced exposure to demand charges
+- Lower risk of coincident peaks when multiple systems operate simultaneously
+For facilities with limited electrical capacity, this difference can be the deciding factor in whether electrification can proceed without costly upgrades.
+- A smoother, more predictable electrical load profile
+Beyond peak demand, the shape of the electrical load also told an important story.
+- The Thermino showed a smooth, stable charging profile with minimal variance.
+- The electric tank showed repeated, sharp kW spikes throughout the day, particularly during school hours.
+While the electric tank frequently operated in the 4 to 7 kW range, the Thermino rarely exceeded 2 to 3 kW.
+This predictable behavior makes the Thermino inherently grid-friendly and easier to integrate into modern electrical designs.
+- Fewer high-demand operating hours
+Hourly demand analysis showed that the electric tank spent significantly more time operating at high electrical load zones. This amplifies stress on building infrastructure and the grid.
+- Maintained lower demand across nearly all hours
+- Dramatically reduced time spent at high electrical loads
+- Minimized contribution to coincident building peaks
+This matters not only for utilities but also for building owners planning future loads such as heat pumps or EV charging.
+- Eliminating the Monday morning reheat penalty
+A common issue with electric hot water systems is the Monday morning recovery spike. The electric tank exhibited a pronounced Monday morning reheat spike as the system worked hard to recover lost temperature after the weekend.
+The Thermino system showed no such spike. Thanks to its high-density PCM thermal storage and ultra-low standby losses, stored heat was retained over the weekend without requiring aggressive reheat cycles.
+This eliminated one of the most common, costly, and uncontrolled demand events in commercial buildings.
+The bigger picture: Grid-ready electrification
+The performance of the Thermino heat battery in this trial highlights a fundamentally different approach to electric hot water:
+- Grid-friendly, low-volatility demand
+- Reduced coincident peaks across multiple installations
+- Optimized operation alongside heat pumps, EV chargers, and other electrified systems
+In contrast, conventional electric tanks behave as grid-stressing assets, particularly when scaled across campuses or districts.
+Results at a glance
+The Springfield school trial delivered clear, measurable outcomes:
+- Approximately 30% lower energy consumption
+- Approximately 66% lower peak electrical demand
+- Dramatically smoother electrical load profile
+- Complete elimination of weekend reheat penalties
+- Reduced utility costs and infrastructure stress
+- Strong alignment with fully electrified building design
+
+--------------------------------------------------------------------------------

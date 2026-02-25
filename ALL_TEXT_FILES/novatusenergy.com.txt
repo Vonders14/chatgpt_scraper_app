@@ -1,0 +1,23 @@
+ROOT: https://novatusenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:22:42.422378Z
+PAGES_INCLUDED: 1
+
+================================================================================
+
+URL: https://novatusenergy.com/
+
+top of page
+We Are
+Onward Energy
+Onward aspires to create a workplace environment that mirrors the fabric of the communities where we work and live and that supports employees in their efforts to contribute at the highest level and reach their potential.
+We are committed to ensuring all employees feel empowered, valued and supported.
+57
+Fifty-seven wind, solar, and natural gas generation projects.
+22
+Twenty-two states.
+1
+One ideally situated company to address the U.S. energy market’s transition to lower carbon.
+| Membership Organizations
+bottom of page
+
+--------------------------------------------------------------------------------

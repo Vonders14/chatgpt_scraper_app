@@ -1,0 +1,605 @@
+ROOT: https://beaconenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T19:51:49.851687Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://beaconenergy.com/
+
+ABOUT US
+Beacon Energy LLC has created, evaluated and assisted in the development of innovative wind, solar, transmission, gas-fired power and energy storage assets and solutions for all types of clients on both the buy and sell side. Our expertise is in siting, power purchase negotiations, energy management, natural gas procurement and strategy, EPC, permitting, acquisition and divestitures, financing, and all forms of contract negotiations. We create new business opportunities by rigorous market analysis, the use of proprietary models and techniques and best practice strategic planning with the goal of maximizing value and minimizing risks. Beacon focuses on lower customer costs, increased margins for truly competitive ventures, and advancing R&D concepts that benefit from disruptive industry changes.
+We have played a key role in purchases of cost-effective energy supplies for commercial/industrials, communities and other sophisticated purchasers. Beacon has analyzing loads, time of day use, the costs of service interruptions, demand costs, costs of different supply options including basis risks, and evaluated other risk elements for purchasers. Beacon Energy LLC has helped determine the most competitive energy supplies through bid auctions and bid evaluations and assisted in the implementation of the best approach.
+The principals of our firm have worked on more than 10,000 MW of power asset development, more than 4 TcF of gas supply, and have served as lender’s expert or developer’s counsel to more than $4 billion in project financings. During the past seven years, they have played an important role in advancing over $1 billion of new wind, solar, battery storage, and other energy asset projects.
+FREQUENTLY ASKED QUESTIONS
+- Design business strategies and market analysis to capture value
+- Perform due diligence on assets to give visibility to risks and design risk mitigation approaches,
+- Implement key development steps—siting, offtake negotiations, etc.
+- Help create new solar, wind, storage, combined heat and power (“CHP”)/gas-fired assets and Microgrids
+- All phases of energy asset development
+- Lower energy costs for end use customers while helping to manage risks within their envelope
+- M&A and transaction negotiations/support
+- Use of proprietary tools and techniques to develop competitive advantage
+- By determined, tireless effort and rigorous analysis to create solid assets and positions
+- Applying substantial experience to solve problems and create solutions/wins for all parties
+- Familiarity with energy contracting risks and the ability to design a purchasing strategy to lower costs for customers
+Key Industry Challenges
+Today, many end use customers seek low cost, reliable and secure electric energy beneficial for the environment. A tall order to achieve with sometimes conflicting goals and priorities. These customers, in previously unmatched ways, are passionate about green energy, carbon reduction, technological improvements and the lower costs of distributed solar, battery storage and combined heat and power (“CHP”). Driven by global competition and the desire for US jobs and profits, the electric and gas industries are set to modernize the grid and realize opportunities for distributed energy resources (“DER”) and improve their service offerings. Utility scale solar, wind, and combined cycle gas plants compete with scale against DERs to offer the lowest cost of energy (“LCOE”) for customers.
+Similarly, microgrids are growing in importance and offer secure, reliable, low cost power to communities, military installations, college campuses, hospital campuses, hospitality firms, data installations, the the process industry and other users. These customers require and benefit from a reliable, low cost and resilient energy system. These microgrids offer the opportunity to offer economic energy and capacity to the grid during times of excess generation, help with blackstart capabilities when other units go down together and use batteries as more than backup systems to capture the full range of value added benefits avoiding transmission and distribution (“T&D) costs, alternative ancillary service charges, capacity costs and in some cases realize energy arbitrage benefits for their owners.
+Buying energy supply in today’s environment of declining costs and loads involves risk assessment, market analysis, technology assessment, and an analysis of the purchaser’s situation and objectives. It requires constant vigilance to obtain the lowest long term costs that offer supply security.
+Various trends in the electric utility industry are shaping its future:
+- Lower cost solar and storage have the potential to disrupt traditional sources of supply for customers.
+- Utility scale solar and wind offer utilities real alternatives to new central station plants. Natural gas fired CCGT are still very competitive.
+- The electric industry is confronted with declining load growth and multiple forms of new distributed energy resources (“DER”) with innovative energy storage and battery approaches.
+- Customers are demanding lower costs and more flexibility of options. They seek reliable low cost power and are exercising their purchasing power to get what they want.
+- Spurred on by declining costs for solar and wind under the current Investment Tax Credit (“ITC”)/Production Tax Credit (“PTC”) incentives has created customer expectations that substantial savings can be achieved.
+- Low cost natural gas prices have helped customers achieve real savings and low costs of energy. They put more pressure on renewable assets to perform.
+- Technological changes and new materials have led to improvements in solar efficiencies and trade-offs between older PV and newer PV costs versus performance.
+- Competitive pressures and differing world demand levels for solar panels have led to major cost declines. However, trade tariffs decisions could be a black swan event for some offtake agreements based on prices that are difficult to realize.
+- Demand response systems are offering non-supply alternatives to building new central station units to meet peak power requirements. Energy efficiency programs, building management systems (“BMS”) and new energy management systems (“EMS”) are offering a way to control resources and loads to better match supply and demand and lower costs for customers.
+- Quantum computing, faster processing, new sensors, big data, machine learning and visibility into the distribution and transmission level grid offers the potential to design, model, control, and truly modernized the grid. A transformed grid could be capable of self-healing and less vulnerable to cyber-attack or physical interruptions.
+- Utilities continue to seek a regulated rate of return and the proper incentives to balance the risks that they take and the investments required to offer best in class services. This has become increasingly more difficult with DERs, customer pressure for lower costs and technological trends that alter the traditional relationship utilities have had with customers.
+- All sectors are seeing more competition. And while competition is healthy, it can erode margins and push firms out of business or slow down needed changes that benefit all.
+Beacon Energy LL works to understand the underlying issues, rigorously analyze the choices and design solutions that are solid, simple to understand and sound. Our goal is to help advance and implement assets and approaches to problems that withstand the test of time and offers lasting value to all stakeholders.
+recent news
+-
+Electricity Needed to Support Data Centers
+US data center power consumption has seen rapid growth driven to support Artificial Intelligence (“AI”) and cloud computing. Utilities’ decisions to build new electricity supply to meet future data center energy usage takes careful analysis and contracting. Without proper planning, the risk is real that utilities will overbuild based on early forecasts or incorrect assumptions.
+-
+Investing in Renewables
+Renewable generating projects are forecasted to grow exponentially over the next decade and beyond. Obtaining transmission for these renewable projects is currently more than challenging. As a result, managing investor expectations and achieving success will take work and substantial coordination with multiple stakeholders. According to the US Department of Energy (“DOE”) Energy Information Agency’s June
+-
+Capitalizing on the Opportunity
+Energy innovation has never been more needed than now. With the expected enactment of the August 2022 Senate Climate Act, officially HR 5376, dubbed the “Inflation Reduction Act of 2022”, the U.S. has a once-in-a-lifetime opportunity to create a new energy and cleaner climate path forward. The changes will not happen overnight, and the most
+-
+Green Hydrogen Re-Emerges
+Southern California Gas Company, on February 17, 2022, submitted plans for the feasibility analysis of the Angeles Link Project, which is a large-scale green hydrogen project to bring hydrogen to the LA basin by 2032. The feasibility analysis involves possibly 200-750 miles of hydrogen pipeline infrastructure, 10-20 GW of electrolyzers (reversible fuel cells), 25-35 GW
+-
+Transmission Infrastructure Progress
+The US electricity transmission infrastructure needs improvement. Economical projects take years to make it through the transmission queues. PJM announced in early February 2022 that it was pausing new interconnections (for 2 years) to work through a back-log that is 500 days for 33% of the proposed new capacity and to allow time to advance
+
+--------------------------------------------------------------------------------
+
+URL: https://beaconenergy.com/our-services/
+
+Services
+For Energy Purchasers
+Beacon is analytical, independent and innovative in creating low cost energy solutions for end- use energy customers.
+Beacon assists in obtaining the lowest cost of energy supplies for commercial and industrials (“C&I”), datacenters, hospitality firms, hospitals and other end-use energy customers. We analyze energy costs and loads, wholesale energy strategies and conduct a fair and competitive bid auction process, assist in negotiating, and ultimately, in the final selection of the winning bidder. Beacon uses industry and proprietary tools to assess basis risk, benchmark projects and in recommending the most-worthy projects. We provide ongoing support to energy asset management challenges.
+Rigorous Analysis
+Beacon uses rigorous analysis to make a difference in end-user energy purchasing. We use our wholesale energy expertise, market insights and proprietary modeling to help determine the risks and advantages of purchasing from specific energy assets. Individual locations can have unique transmission and distribution risks and opportunities. We work to understand the risks and opportunities. End-users are typically confronted with complex energy supply contracts where it is important to understand the risks that they face as well as properly analyze the opportunities to obtain secure, low cost energy. Beacon is an experienced company in the wholesale energy markets and undertakes rigorous analysis of purchasing situations.
+Independent and Objective Energy Procurement
+Beacon’s job is to assist with the energy procurement function. Beacon obtains bids from a clearly written and orchestrated request for proposal (“RFP”) process, analyzes the results of the RFPs, assist in the selection of the best assets—using wholesale market experience, expertise and insight along with proprietary models, as requested by clients, and helps create a negotiated contract that is fair, simple and appropriate for all parties. Our client goals are simple contracts that help ensure low cost energy supply contracting. Beacon is an independently owned company, therefore, we work for our customers without other agendas. In client engagements, we work only on one side of the transaction and without conflicts.
+Aggregating Loads, in some cases, Can Substantially Lower Costs
+In today’s renewable supply market there is a substantial amount of supply competition. We use the power of the market to assist our clients in obtaining the best supplies. In some cases, it may be beneficial to procure utility scale size solar or wind projects and achieve lower costs from their economies of scale. Aggregating loads and requirements from multiple customers to match the requirements of the optimally sized projects can mean segmenting a 100 MW utility scale project into 10-15 MW slices for specific customers. This is called load aggregation and energy savings of 10-20% or more compared to smaller scale resources can sometimes be possible. The key is finding the right projects and in working with multiple parties to achieve a win for all.
+Additionality: Creating New Renewable Energy Assets Where Possible
+Additionality is the process of creating a new renewable energy asset in addition to obtaining energy supply. Renewable Energy Credits (“RECs”) created from new renewable energy assets are a valuable addition to reducing carbon emissions and helping to advance toward better climate objectives. In a number of cases, a bundled REC and energy supply product can be obtained in a manner that meets end user’s sustainability and cost objective.
+For Microgrid End-Users: High Security of Supply and Reliability Requirements
+Beacon, in an open and transparent manner, teams with major vendors to develop the best and most reliable customer solution.
+Beacon assists in coordinating and designing microgridsolutions for customers that seek to achieve low cost, reliable, sustainable and secure energy supplies. Using gas-fired power, solar, wind, fuel cells and other technologies including battery storage and combined heat and power (“CHP”) we help implement solutions that improve reliability, save money and offer the potential to sell excess energy back to the host utility. Beacon by using the latest technological advances in controller technology, renewable energy generation and energy management systems works to develop, in partnership with major vendors, state-of-the-art solutions that create wins for all stakeholders.
+Beacon typically seeks to use a rigorous vendor selection approach for each microgrid situation. The customer’s needs, energy requirements, goals and the unique situation is first analyzed, along with potential system market pricing, benefits and costs. Vendors are typically selected on the basis of a comprehensive and fair bidding process. In some cases, teaming at an early stage with a major vendor is appropriate given the specifics of the situation. In all cases, customers are able to understand the process being used, agree that it is appropriate, and feel comfortable that their needs are being addressed. Multiple technologies for generation and control are evaluated for cost and the ability of the vendor solution to perform over the intended life of the project. The interface with the current host utility is an important part in the process along with the customer objectives of high reliability and lower cost.
+For Developers
+Beacon seeks opportunities that can create a competitive advantage for new assets and thereby help realize a healthy developer margin.
+Beacon identifies market opportunities, obtains new sites, solves transmission, distribution and interconnection issues, analyzes the best technologies available for the most economic long term assets, financially models the assets, obtains gas supplies for gas-fired projects, helps negotiate terms with key counterparties, applies proprietary approaches to maximize value and minimize risks and helps solve development challenges to create new efficient assets that achieve lowest cost of energy (“LCOE”) targets for customers.
+Beacon has found that new assets must be best in class in today’s highly competitive marketplace. This comes from a careful analysis of locational benefits, technological capabilities, economies of scale, financial evaluations, customer potential, siting costs, taxes, project timing, transmission and distribution limitations, competitive project analysis and other factors. Beacon only seeks to advance new project assets that will be the most competitive. In this way, new assets can be the most successful portfolio assets.
+For Financial Investors
+Beacon seeks the best transactions and is rigorous in analyzing project assets.
+Beacon provides due diligence and advisory support to investors. We can assist in counterparty negotiations, as requested. Beacon analyzes risks and rewards for the contemplated investments.
+Beacon provides M&A support for the sale and acquisition of energy assets. While we are not a principal in the transaction or a broker, we work for the buy or sell side in providing due diligence analysis and support. Our role is defined after customer consultation. As an outside consulting resource, we assist in the evaluation of project asset strengths and risks from a market and industry perspective. Beacon can assist with negotiations as directed by our customers.
+For Utilities
+Beacon contributes strategic ideas and provides execution assistance.
+Beacon offers merger and acquisition (“M&A”) assistance and analytical insights that help the utility customer make wise long-term asset choices. We perform due diligence on key future assets. Beacon can also help design regulatory incentives that are beneficial to all parties and supports the utilities mission. We have supported specific development activities by providing project specific support as necessary.
+While we are not a principal in the transaction or a broker, we work for the buy or sell side in providing due diligence analysis and support. Our role is defined after customer consultation. As an outside consulting resource, we assist in the evaluation of project asset strengths and risks from a market and industry perspective. Beacon can assist with negotiations as directed by our customers.
+For Technology Providers
+Beacon seeks to assist technology providers by providing marketing insights and helping to advance joint venture or research and development funding activities.
+Beacon works to provide insights into the energy business, market and customer requirements and we seek to provide valuable input on customer needs. Beacon can benchmark competitive products. We can support new R&D funding decisions, joint ventures and initiatives that build competitive advantage.
+It takes multiple skill sets to advance innovative energy assets. Beacon understands that firms may have some required skill sets but not all of the required skill sets or capital to advance a particular energy venture. In these cases, and with the approval of the customer, Beacon will seek out joint venture partners that can together create a more competitive asset or venture.
+Based on comprehensive market analysis, and reviewing university research, Beacon may be in a position to assist a university in identifying an industry funding partner for a particularly rewarding project. Industry partners seek competitive advantage and the right university research can lead to an advancement for the industry along with competitive advantage for a company with long term vision. Beacon seeks to develop a partnership approach that can lead to an industry participant funding worthy university research that can be commercialized.
+Our Mission
+Making a difference in sustainable energy and ROI.
+
+--------------------------------------------------------------------------------
+
+URL: https://beaconenergy.com/about-us/
+
+Company overview
+Beacon Energy LLC has created, evaluated and assisted in the development of innovative wind, solar, transmission, gas-fired power and energy storage assets and solutions for all types of clients on both the buy and sell side. Our expertise is in siting, power purchase negotiations, energy management, natural gas procurement and strategy, EPC, permitting, acquisition and divestitures, financing, and all forms of contract negotiations. We create new business opportunities by rigorous market analysis, the use of proprietary models and techniques and best practice strategic planning with the goal of maximizing value and minimizing risks. Beacon focuses on lower customer costs, increased margins for truly competitive ventures, and advancing R&D concepts that benefit from disruptive industry changes.
+We have played a key role in purchases of cost-effective energy supplies for commercial/industrials, communities and other sophisticated purchasers. Beacon has analyzed loads, time of day use, the costs of service interruptions, demand costs, costs of different supply options including basis risks, and evaluated other risk elements for purchasers. Beacon Energy LLC has helped determine the most competitive energy supplies through bid auctions and bid evaluations and assisted in the implementation of the best approach.
+The principals of our firm have worked on more than 10,000 MW of power asset development, more than 4 TcF of gas supply, and have served as lender’s expert or developer’s counsel to more than $4 billion in project financings. During the past seven years, they have played an important role in advancing over $1 billion of new wind, solar, battery storage, and other energy asset projects.
+Low cost solar energy plus storage is an emerging disruptive industry change in the coming decade. Gas-fired CHP with low cost natural gas is a distributive change agent today. A modernized grid with low cost DERs will change how utilities operate, customer choices and the cost of energy. Microgrids offer energy security needed by end users in a number of cases. Beacon Energy LLC analyzes market opportunities and works to create the most competitive assets for customers that will lower costs while improving reliability and security.
+Our Objectives
+Make a difference to all of our customers in sustainable, reliable and secure cost effective energy supplies and assets
+Find ways to lower energy costs reliably and securely for end user
+Provide our clients key market insights to build competitive products/approaches
+Design business strategies to capture value
+Perform due diligence on assets to give identify risks and design risk mitigation approaches,
+Implement key development steps—siting, offtake negotiations, etc. to realize good opportunities
+Create the most competitive new solar, wind, CHP/gas-fired and storage assets in Microgrids and as stand-alone assets that lower costs for customers and creates margins for asset holders and proper incentives/returns for regulated entities
+How We Work:
+Beacon works in all phases of energy asset development and purchasing
+Provides M&A and transaction negotiations and support
+Uses proprietary tools and techniques to develop competitive advantage
+Tireless effort and rigorous analysis to create solid assets
+Applies substantial experience to solve problems and create solutions/wins for all parties
+
+--------------------------------------------------------------------------------
+
+URL: https://www.beaconenergy.com/our-services/for-technology-providers/
+
+Beacon seeks to assist technology providers by providing marketing insights and helping to advance joint venture or research and development funding activities.
+Beacon works to provide insights into the energy business, market and customer requirements and we seek to provide valuable input on customer needs. Beacon can benchmark competitive products. We can support new R&D funding decisions, joint ventures and initiatives that build competitive advantage.
+It takes multiple skill sets to advance innovative energy assets. Beacon understands that firms may have some required skill sets but not all of the required skill sets or capital to advance a particular energy venture. In these cases, and with the approval of the customer, Beacon will seek out joint venture partners that can together create a more competitive asset or venture.
+Based on comprehensive market analysis, and reviewing university research, Beacon may be in a position to assist a university in identifying an industry funding partner for a particularly rewarding project. Industry partners seek competitive advantage and the right university research can lead to an advancement for the industry along with competitive advantage for a company with long term vision. Beacon seeks to develop a partnership approach that can lead to an industry participant funding worthy university research that can be commercialized.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.beaconenergy.com/our-services/for-utilities/
+
+Beacon contributes strategic ideas andprovides execution assistance.
+Beacon offers merger and acquisition (“M&A”) assistance and analytical insights that help the utility customer make wise long-term asset choices. We perform due diligence on key future assets. Beacon can also help design regulatory incentives that are beneficial to all parties and supports the utilities mission. We have supported specific development activities by providing project specific support as necessary.
+While we are not a principal in the transaction or a broker, we work for the buy or sell side in providing due diligence analysis and support. Our role is defined after customer consultation. As an outside consulting resource, we assist in the evaluation of project asset strengths and risks from a market and industry perspective. Beacon can assist with negotiations as directed by our customers.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.beaconenergy.com/our-services/for-financial-investors/
+
+Beacon seeks the best transactions and is rigorous in analyzing project assets.
+Beacon provides due diligence and advisory support to investors. We can assist in counterparty negotiations, as requested. Beacon analyzes risks and rewards for the contemplated investments.
+Beacon provides M&A support for the sale and acquisition of energy assets. While we are not a principal in the transaction or a broker, we work for the buy or sell side in providing due diligence analysis and support. Our role is defined after customer consultation. As an outside consulting resource, we assist in the evaluation of project asset strengths and risks from a market and industry perspective. Beacon can assist with negotiations as directed by our customers.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.beaconenergy.com/our-services/for-developers/
+
+Beacon seeks opportunities that can create a competitive advantage for new assets and thereby help realize a healthy developer margin.
+Beacon identifies market opportunities, obtains new sites, solves transmission, distribution and interconnection issues, analyzes the best technologies available for the most economic long term assets, financially models the assets, obtains gas supplies for gas-fired projects, helps negotiate terms with key counterparties, applies proprietary approaches to maximize value and minimize risks and helps solve development challenges to create new efficient assets that achieve lowest cost of energy (“LCOE”) targets for customers.
+Beacon has found that new assets must be best in class in today’s highly competitive marketplace. This comes from a careful analysis of locational benefits, technological capabilities, economies of scale, financial evaluations, customer potential, siting costs, taxes, project timing, transmission and distribution limitations, competitive project analysis and other factors. Beacon only seeks to advance new project assets that will be the most competitive. In this way, new assets can be the most successful portfolio assets.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.beaconenergy.com/our-services/microgrid-end-users-high-security-supply-reliability-requirements/
+
+Beacon, in an open and transparent manner, teams with major vendors to develop the best and most reliable customer solution.
+Beacon assists in coordinating and designing microgridsolutions for customers that seek to achieve low cost, reliable, sustainable and secure energy supplies. Using gas-fired power, solar, wind, fuel cells and other technologies including battery storage and combined heat and power (“CHP”) we help implement solutions that improve reliability, save money and offer the potential to sell excess energy back to the host utility. Beacon by using the latest technological advances in controller technology, renewable energy generation and energy management systems works to develop, in partnership with major vendors, state-of-the-art solutions that create wins for all stakeholders.
+Beacon typically seeks to use a rigorous vendor selection approach for each microgrid situation. The customer’s needs, energy requirements, goals and the unique situation is first analyzed, along with potential system market pricing, benefits and costs. Vendors are typically selected on the basis of a comprehensive and fair bidding process. In some cases, teaming at an early stage with a major vendor is appropriate given the specifics of the situation. In all cases, customers are able to understand the process being used, agree that it is appropriate, and feel comfortable that their needs are being addressed. Multiple technologies for generation and control are evaluated for cost and the ability of the vendor solution to perform over the intended life of the project. The interface with the current host utility is an important part in the process along with the customer objectives of high reliability and lower cost.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.beaconenergy.com/our-services/for-energy-purchasers/
+
+Beacon is analytical, independent and innovative in creatinglow cost energy solutions for end- use energy customers.
+Beacon assists in obtaining the lowest cost of energy supplies for commercial and industrials (“C&I”), datacenters, hospitality firms, hospitals and other end-use energy customers. We analyze energy costs and loads, wholesale energy strategies and conduct a fair and competitive bid auction process, assist in negotiating, and ultimately, in the final selection of the winning bidder. Beacon uses industry and proprietary tools to assess basis risk, benchmark projects and in recommending the most-worthy projects. We provide ongoing support to energy asset management challenges.
+Rigorous Analysis
+Beacon uses rigorous analysis to make a difference in end-user energy purchasing. We use our wholesale energy expertise, market insights and proprietary modeling to help determine the risks and advantages of purchasing from specific energy assets. Individual locations can have unique transmission and distribution risks and opportunities. We work to understand the risks and opportunities. End-users are typically confronted with complex energy supply contracts where it is important to understand the risks that they face as well as properly analyze the opportunities to obtain secure, low cost energy. Beacon is an experienced company in the wholesale energy markets and undertakes rigorous analysis of purchasing situations.
+Independent and Objective Energy Procurement
+Beacon’s job is to assist with the energy procurement function. Beacon obtains bids from a clearly written and orchestrated request for proposal (“RFP”) process, analyzes the results of the RFPs, assist in the selection of the best assets—using wholesale market experience, expertise and insight along with proprietary models, as requested by clients, and helps create a negotiated contract that is fair, simple and appropriate for all parties. Our client goals are simple contracts that help ensure low cost energy supply contracting. Beacon is an independently owned company, therefore, we work for our customers without other agendas. In client engagements, we work only on one side of the transaction and without conflicts.
+Aggregating Loads, in some cases, Can Substantially Lower Costs
+In today’s renewable supply market there is a substantial amount of supply competition. We use the power of the market to assist our clients in obtaining the best supplies. In some cases, it may be beneficial to procure utility scale size solar or wind projects and achieve lower costs from their economies of scale. Aggregating loads and requirements from multiple customers to match the requirements of the optimally sized projects can mean segmenting a 100 MW utility scale project into 10-15 MW slices for specific customers. This is called load aggregation and energy savings of 10-20% or more compared to smaller scale resources can sometimes be possible. The key is finding the right projects and in working with multiple parties to achieve a win for all.
+Additionality: Creating New Renewable Energy Assets Where Possible
+Additionality is the process of creating a new renewable energy asset in addition to obtaining energy supply. Renewable Energy Credits (“RECs”) created from new renewable energy assets are a valuable addition to reducing carbon emissions and helping to advance toward better climate objectives. In a number of cases, a bundled REC and energy supply product can be obtained in a manner that meets end user’s sustainability and cost objective.
+
+--------------------------------------------------------------------------------
+
+URL: http://beaconenergy.com/our-services/
+
+Services
+For Energy Purchasers
+Beacon is analytical, independent and innovative in creating low cost energy solutions for end- use energy customers.
+Beacon assists in obtaining the lowest cost of energy supplies for commercial and industrials (“C&I”), datacenters, hospitality firms, hospitals and other end-use energy customers. We analyze energy costs and loads, wholesale energy strategies and conduct a fair and competitive bid auction process, assist in negotiating, and ultimately, in the final selection of the winning bidder. Beacon uses industry and proprietary tools to assess basis risk, benchmark projects and in recommending the most-worthy projects. We provide ongoing support to energy asset management challenges.
+Rigorous Analysis
+Beacon uses rigorous analysis to make a difference in end-user energy purchasing. We use our wholesale energy expertise, market insights and proprietary modeling to help determine the risks and advantages of purchasing from specific energy assets. Individual locations can have unique transmission and distribution risks and opportunities. We work to understand the risks and opportunities. End-users are typically confronted with complex energy supply contracts where it is important to understand the risks that they face as well as properly analyze the opportunities to obtain secure, low cost energy. Beacon is an experienced company in the wholesale energy markets and undertakes rigorous analysis of purchasing situations.
+Independent and Objective Energy Procurement
+Beacon’s job is to assist with the energy procurement function. Beacon obtains bids from a clearly written and orchestrated request for proposal (“RFP”) process, analyzes the results of the RFPs, assist in the selection of the best assets—using wholesale market experience, expertise and insight along with proprietary models, as requested by clients, and helps create a negotiated contract that is fair, simple and appropriate for all parties. Our client goals are simple contracts that help ensure low cost energy supply contracting. Beacon is an independently owned company, therefore, we work for our customers without other agendas. In client engagements, we work only on one side of the transaction and without conflicts.
+Aggregating Loads, in some cases, Can Substantially Lower Costs
+In today’s renewable supply market there is a substantial amount of supply competition. We use the power of the market to assist our clients in obtaining the best supplies. In some cases, it may be beneficial to procure utility scale size solar or wind projects and achieve lower costs from their economies of scale. Aggregating loads and requirements from multiple customers to match the requirements of the optimally sized projects can mean segmenting a 100 MW utility scale project into 10-15 MW slices for specific customers. This is called load aggregation and energy savings of 10-20% or more compared to smaller scale resources can sometimes be possible. The key is finding the right projects and in working with multiple parties to achieve a win for all.
+Additionality: Creating New Renewable Energy Assets Where Possible
+Additionality is the process of creating a new renewable energy asset in addition to obtaining energy supply. Renewable Energy Credits (“RECs”) created from new renewable energy assets are a valuable addition to reducing carbon emissions and helping to advance toward better climate objectives. In a number of cases, a bundled REC and energy supply product can be obtained in a manner that meets end user’s sustainability and cost objective.
+For Microgrid End-Users: High Security of Supply and Reliability Requirements
+Beacon, in an open and transparent manner, teams with major vendors to develop the best and most reliable customer solution.
+Beacon assists in coordinating and designing microgridsolutions for customers that seek to achieve low cost, reliable, sustainable and secure energy supplies. Using gas-fired power, solar, wind, fuel cells and other technologies including battery storage and combined heat and power (“CHP”) we help implement solutions that improve reliability, save money and offer the potential to sell excess energy back to the host utility. Beacon by using the latest technological advances in controller technology, renewable energy generation and energy management systems works to develop, in partnership with major vendors, state-of-the-art solutions that create wins for all stakeholders.
+Beacon typically seeks to use a rigorous vendor selection approach for each microgrid situation. The customer’s needs, energy requirements, goals and the unique situation is first analyzed, along with potential system market pricing, benefits and costs. Vendors are typically selected on the basis of a comprehensive and fair bidding process. In some cases, teaming at an early stage with a major vendor is appropriate given the specifics of the situation. In all cases, customers are able to understand the process being used, agree that it is appropriate, and feel comfortable that their needs are being addressed. Multiple technologies for generation and control are evaluated for cost and the ability of the vendor solution to perform over the intended life of the project. The interface with the current host utility is an important part in the process along with the customer objectives of high reliability and lower cost.
+For Developers
+Beacon seeks opportunities that can create a competitive advantage for new assets and thereby help realize a healthy developer margin.
+Beacon identifies market opportunities, obtains new sites, solves transmission, distribution and interconnection issues, analyzes the best technologies available for the most economic long term assets, financially models the assets, obtains gas supplies for gas-fired projects, helps negotiate terms with key counterparties, applies proprietary approaches to maximize value and minimize risks and helps solve development challenges to create new efficient assets that achieve lowest cost of energy (“LCOE”) targets for customers.
+Beacon has found that new assets must be best in class in today’s highly competitive marketplace. This comes from a careful analysis of locational benefits, technological capabilities, economies of scale, financial evaluations, customer potential, siting costs, taxes, project timing, transmission and distribution limitations, competitive project analysis and other factors. Beacon only seeks to advance new project assets that will be the most competitive. In this way, new assets can be the most successful portfolio assets.
+For Financial Investors
+Beacon seeks the best transactions and is rigorous in analyzing project assets.
+Beacon provides due diligence and advisory support to investors. We can assist in counterparty negotiations, as requested. Beacon analyzes risks and rewards for the contemplated investments.
+Beacon provides M&A support for the sale and acquisition of energy assets. While we are not a principal in the transaction or a broker, we work for the buy or sell side in providing due diligence analysis and support. Our role is defined after customer consultation. As an outside consulting resource, we assist in the evaluation of project asset strengths and risks from a market and industry perspective. Beacon can assist with negotiations as directed by our customers.
+For Utilities
+Beacon contributes strategic ideas and provides execution assistance.
+Beacon offers merger and acquisition (“M&A”) assistance and analytical insights that help the utility customer make wise long-term asset choices. We perform due diligence on key future assets. Beacon can also help design regulatory incentives that are beneficial to all parties and supports the utilities mission. We have supported specific development activities by providing project specific support as necessary.
+While we are not a principal in the transaction or a broker, we work for the buy or sell side in providing due diligence analysis and support. Our role is defined after customer consultation. As an outside consulting resource, we assist in the evaluation of project asset strengths and risks from a market and industry perspective. Beacon can assist with negotiations as directed by our customers.
+For Technology Providers
+Beacon seeks to assist technology providers by providing marketing insights and helping to advance joint venture or research and development funding activities.
+Beacon works to provide insights into the energy business, market and customer requirements and we seek to provide valuable input on customer needs. Beacon can benchmark competitive products. We can support new R&D funding decisions, joint ventures and initiatives that build competitive advantage.
+It takes multiple skill sets to advance innovative energy assets. Beacon understands that firms may have some required skill sets but not all of the required skill sets or capital to advance a particular energy venture. In these cases, and with the approval of the customer, Beacon will seek out joint venture partners that can together create a more competitive asset or venture.
+Based on comprehensive market analysis, and reviewing university research, Beacon may be in a position to assist a university in identifying an industry funding partner for a particularly rewarding project. Industry partners seek competitive advantage and the right university research can lead to an advancement for the industry along with competitive advantage for a company with long term vision. Beacon seeks to develop a partnership approach that can lead to an industry participant funding worthy university research that can be commercialized.
+Our Mission
+Making a difference in sustainable energy and ROI.
+
+--------------------------------------------------------------------------------
+
+URL: http://beaconenergy.com/about-us/
+
+Company overview
+Beacon Energy LLC has created, evaluated and assisted in the development of innovative wind, solar, transmission, gas-fired power and energy storage assets and solutions for all types of clients on both the buy and sell side. Our expertise is in siting, power purchase negotiations, energy management, natural gas procurement and strategy, EPC, permitting, acquisition and divestitures, financing, and all forms of contract negotiations. We create new business opportunities by rigorous market analysis, the use of proprietary models and techniques and best practice strategic planning with the goal of maximizing value and minimizing risks. Beacon focuses on lower customer costs, increased margins for truly competitive ventures, and advancing R&D concepts that benefit from disruptive industry changes.
+We have played a key role in purchases of cost-effective energy supplies for commercial/industrials, communities and other sophisticated purchasers. Beacon has analyzed loads, time of day use, the costs of service interruptions, demand costs, costs of different supply options including basis risks, and evaluated other risk elements for purchasers. Beacon Energy LLC has helped determine the most competitive energy supplies through bid auctions and bid evaluations and assisted in the implementation of the best approach.
+The principals of our firm have worked on more than 10,000 MW of power asset development, more than 4 TcF of gas supply, and have served as lender’s expert or developer’s counsel to more than $4 billion in project financings. During the past seven years, they have played an important role in advancing over $1 billion of new wind, solar, battery storage, and other energy asset projects.
+Low cost solar energy plus storage is an emerging disruptive industry change in the coming decade. Gas-fired CHP with low cost natural gas is a distributive change agent today. A modernized grid with low cost DERs will change how utilities operate, customer choices and the cost of energy. Microgrids offer energy security needed by end users in a number of cases. Beacon Energy LLC analyzes market opportunities and works to create the most competitive assets for customers that will lower costs while improving reliability and security.
+Our Objectives
+Make a difference to all of our customers in sustainable, reliable and secure cost effective energy supplies and assets
+Find ways to lower energy costs reliably and securely for end user
+Provide our clients key market insights to build competitive products/approaches
+Design business strategies to capture value
+Perform due diligence on assets to give identify risks and design risk mitigation approaches,
+Implement key development steps—siting, offtake negotiations, etc. to realize good opportunities
+Create the most competitive new solar, wind, CHP/gas-fired and storage assets in Microgrids and as stand-alone assets that lower costs for customers and creates margins for asset holders and proper incentives/returns for regulated entities
+How We Work:
+Beacon works in all phases of energy asset development and purchasing
+Provides M&A and transaction negotiations and support
+Uses proprietary tools and techniques to develop competitive advantage
+Tireless effort and rigorous analysis to create solid assets
+Applies substantial experience to solve problems and create solutions/wins for all parties
+
+--------------------------------------------------------------------------------
+
+URL: https://beaconenergy.com/competitive-advantage/
+
+Competitive Advantage
+Beacon is rigorous, independent and innovative in offering solutions to end use energy customers.
+- We excel by forming teams with the necessary skill sets to analyze complex situations and distill issues down to simple choices and decisions.
+- Beacon conducts comprehensive analysis of the risks and rewards faced by decision makers.
+- Rather than grow a large overhead, we form consulting teams and partner with other companies to solve complex energy problems. This keeps our fees lower than some while providing an array of in-depth services.
+- We are very experienced in the wholesale markets and in purchasing/selling energy from specific assets, in developing these assets and with the typical problems that arise in operating renewable and gas-fired assets. We build on our experience to analyze situations, evaluate risks and establish solutions that work for stakeholders. Beacon Energy LLC has worked in all of the major power pools in the US and has worked internationally in a number of markets.
+- We seek energy solutions that are fair for the interested parties.
+- We believe it is critically important to operate ethically and within the highest standards of best practice.
+- We are determined, driven for results and hard working.
+
+--------------------------------------------------------------------------------
+
+URL: https://beaconenergy.com/blog/
+
+-
+Electricity Needed to Support Data Centers
+-
+July 31, 2024
+- Posted by: Admin
+- Categories: Developers, Utilities
+-
+Investing in Renewables
+-
+June 20, 2023
+- Posted by: Admin
+- Categories: Developers, Funding trends, Utilities
+-
+Capitalizing on the Opportunity
+-
+August 12, 2022
+- Posted by: Admin
+- Categories: Developers, Innovation, Purchasing, Utilities
+-
+Green Hydrogen Re-Emerges
+-
+February 17, 2022
+- Posted by: Admin
+- Categories: Developers, Innovation
+-
+Transmission Infrastructure Progress
+-
+February 21, 2022
+- Posted by: Admin
+- Categories: Developers, Utilities
+-
+Upcoming 2020 solar conferences
+-
+January 18, 2020
+- Posted by: Admin
+- Category: Business plans
+-
+Deciphering the Road Map for PV Solar
+-
+April 5, 2018
+- Posted by: Admin
+- Categories: Developers, Innovation
+-
+Early 2018 Energy Storage Developments
+-
+March 14, 2018
+- Posted by: Admin
+- Categories: Company News, Innovation, Purchasing
+-
+January 2018 Plans
+-
+January 8, 2018
+- Posted by: Admin
+- Category: Competitive research
+-
+Storage economics and forecasts mid-2017
+-
+September 12, 2017
+- Posted by: Admin
+- Category: Utilities
+
+--------------------------------------------------------------------------------
+
+URL: https://beaconenergy.com/contact/
+
+Please let us know if you would like assistance or would like further information about BEACON ENERGY LLC. contact details Beacon Energy LLC, 9907 Georgetown Pike, Suite 100 Great Falls, VA 22066 703-759- 7550 info@beaconenergy.com submit
+
+--------------------------------------------------------------------------------
+
+URL: https://beaconenergy.com/electricity-needed-to-support-data-centers/
+
+Electricity Needed to Support Data Centers
+- July 31, 2024
+- Posted by: Admin
+- Categories: Developers, Utilities
+US data center power consumption has seen rapid growth driven to support Artificial Intelligence (“AI”) and cloud computing. Utilities’ decisions to build new electricity supply to meet future data center energy usage takes careful analysis and contracting. Without proper planning, the risk is real that utilities will overbuild based on early forecasts or incorrect assumptions.
+In 2024, US data centers are expected to have a consumptive capacity requirements of 21 GW (excluding cryptocurrency needs), roughly 3% of US loads which is up 10.5% from 2023. Earlier this year, the Federal Energy and Regulatory Commission (“FERC”) forecasted data center capacity requirements to increase to 35 GW by 2030, a 166% increase. The Electric Power Research Institute (“EPRI”) in May 2024 projected that data center consumptive loads could rise to be 4.6% under a low case and 9% under a high case of total US energy consumption. The number of US data centers has doubled from 2021 to 2024 based on EPRI numbers. In a April 2024 generation analysis, Goldman Sachs forecasted US data centers at 8% of US consumptive load with 47 GW of new capacity needed by 2030, a 224% increase. The state of Virginia, in particular, has a major data center load representing a reported 25.6% of 2023 electricity consumed statewide as calculated by EPRI. EPRI also projected in May 2024 that this load could grow to 29% to 46% of Virginia’s total consumptive loads by 2030.
+Fundamentally, the demand for electricity to support data centers has been affected by the type of computing, the quantity and type of equipment at the facility, computing demand, and the efficiency of the computing equipment. Some reports indicate that a typical Google 2020 type of internet search could take 0.3 Wh of computing electricity. Today, it has been reported by EPRI and others that a typical AI search performed by a ChatGPT engine could require 10 times as much electricity (2.9 Wh). This data center power usage could create a massive need for new electricity supply depending on what actually happens.
+Nvidia, a major leader in the AI space, recently published a blog post that indicated that newer AI chips may be 4 times as energy efficient as current AI chips. Intel also indicated that a new AI chip it has released may be two times as energy efficient as its older AI chips. Some academics report that neuromorphic chips that wait for threshold events before passing on AI data decisions can be 1,000 times more energy efficient than current AI Graphics Processing Units (“GPUs”). In July 2024, Nvidia stated on their blog that Nvidia GPUs have reduced their energy consumption by 45,000 times over the last 8 years from 2016 to 2024. While observers would expect that future improvements are likely to be dramatically more modest, it does show how forecasting in a straight line is probably not the best approach.
+The growth of AI itself is difficult to forecast. While some put numbers to its growth based on server supply production, changes in the workplace are potentially transformative. As a result, the realized long-term growth will take some time to play out and be less server supply constrained than shorter-term forecasts.
+Meanwhile, meeting the electricity supply of new data centers is important to utilities and others that must serve that load. While data centers can take 1-2 years to implement, new generation and transmission can take a lot longer to plan, contract and bring online. For example, new generation could take 4-6 years or more to procure, permit and bring online. If the utility brings on too much supply, and the user does not contractually commit to the same life of supply or other keep whole provisions, the supply overhang can be detrimental to the utility and those that have to pay for the excess capacity. Moody’s rating service has put utilities on notice to be careful in making the right decisions. Utilities that do not heed Moody’s advice may be downgraded as well as risk non-recovery of rates based on imprudent decisions.
+Proper planning, therefore, is key as well as understanding the possible drivers and components that lead to the forecasting conclusion. Staying ahead of the future load requirements and the right investment decisions will be critical to grid stability, the success of utilities and others. Establishing the right type of supply contracts will also be important to all parties. Ultimately, the need for future electricity supplies to support data center power usage provides many opportunities for developers and utilities in advancing new competitive supply projects.
+
+--------------------------------------------------------------------------------
+
+URL: https://beaconenergy.com/category/developers/
+
+-
+Electricity Needed to Support Data Centers
+-
+July 31, 2024
+- Posted by: Admin
+- Categories: Developers, Utilities
+-
+Investing in Renewables
+-
+June 20, 2023
+- Posted by: Admin
+- Categories: Developers, Funding trends, Utilities
+-
+Capitalizing on the Opportunity
+-
+August 12, 2022
+- Posted by: Admin
+- Categories: Developers, Innovation, Purchasing, Utilities
+-
+Transmission Infrastructure Progress
+-
+February 21, 2022
+- Posted by: Admin
+- Categories: Developers, Utilities
+-
+Green Hydrogen Re-Emerges
+-
+February 17, 2022
+- Posted by: Admin
+- Categories: Developers, Innovation
+-
+Deciphering the Road Map for PV Solar
+-
+April 5, 2018
+- Posted by: Admin
+- Categories: Developers, Innovation
+-
+Suniva’s and SolarWorld America’s Joint Trade Complaint
+-
+May 30, 2017
+- Posted by: Admin
+- Category: Developers
+-
+Sustainable Energy Investments and Profits: Consistent Goals
+-
+May 16, 2017
+- Posted by: Admin
+- Categories: Company News, Developers
+
+--------------------------------------------------------------------------------
+
+URL: https://beaconenergy.com/category/utilities/
+
+-
+Electricity Needed to Support Data Centers
+-
+July 31, 2024
+- Posted by: Admin
+- Categories: Developers, Utilities
+-
+Investing in Renewables
+-
+June 20, 2023
+- Posted by: Admin
+- Categories: Developers, Funding trends, Utilities
+-
+Capitalizing on the Opportunity
+-
+August 12, 2022
+- Posted by: Admin
+- Categories: Developers, Innovation, Purchasing, Utilities
+-
+Transmission Infrastructure Progress
+-
+February 21, 2022
+- Posted by: Admin
+- Categories: Developers, Utilities
+-
+Storage economics and forecasts mid-2017
+-
+September 12, 2017
+- Posted by: Admin
+- Category: Utilities
+-
+Many US Groups Step Up to Help Realize Paris Accord Goals
+-
+June 5, 2017
+- Posted by: Admin
+- Category: Utilities
+
+--------------------------------------------------------------------------------
+
+URL: https://beaconenergy.com/transmission-may-limit-the-growth-of-renewables/
+
+Investing in Renewables
+- June 20, 2023
+- Posted by: Admin
+- Categories: Developers, Funding trends, Utilities
+Renewable generating projects are forecasted to grow exponentially over the next decade and beyond. Obtaining transmission for these renewable projects is currently more than challenging. As a result, managing investor expectations and achieving success will take work and substantial coordination with multiple stakeholders.
+According to the US Department of Energy (“DOE”) Energy Information Agency’s June 2023 report, solar generation for the summer of 2023 is expected to be 24% higher than last year and energy storage capacity also grew by 90%. Onshore and Offshore wind projects also continue to advance, with offshore wind finally coming into its own with a 40 GW pipeline and offtake agreements for at least 50% of the projects. This recently reported growth in renewables is largely before the 2022 Inflation Reduction Act (“IRA”) incentives were passed and before certain expedited permitting policy pathways were established as part of raising the debt ceiling.
+Still, many solar, wind and storage projects are stuck in the transmission queues and may not advance. Getting a project through the queue is a challenge. As of the end of 2022 according to Lawrence Berkeley National Labs (”LBNL”) 1,350 GW of new generating projects were filed in the transmission queues with 680 GW of new storage also pending and approximately 600 GW of new generation being added annually.
+LBNL’s review of 2022 queue data shows that 14% of new US generating capacity for 2000-2017 (or 21% of projects by number) ultimately obtained interconnection and reached COD by the end of 2022. While permitting, financing and supply chain issues are also critical, these numbers highlight how difficult it has been and is to find a path through the transmission queue and to develop successful projects.
+The DOE announced a Notice of Interest (“NOI”) for National Interest Electric Transmission Corridors (“NIETCs”) to essentially fast track new transmission priorities including strategically importance inter-regional transmission capacity. Various studies have also been announced to help develop the most important transmission priorities to lower customers costs and increase new renewable generation.
+In addition, the Federal Energy Regulatory Commission has conducted multiple joint meetings with state regulatory commissioners, public outreach efforts and notices of proposed rulemaking to facilitate new transmission, interconnection and clarify its backstop siting authority. There have been discussions around reducing the time to interconnect new projects by requiring financial deposits, cluster studies, first ready to build, and other approaches to speed up the interconnection process. Transmission line expansion planning has also been reviewed for improvements.
+Some estimates, referenced by DOE, indicate that new transmission facilities will have to be increased by 60% by 2030 or perhaps three times by 2050 to achieve renewable goals and emission targets. Without new transmission capabilities, it will not be possible to achieve a 50% reduction of carbon emissions from 2005 levels by 2030 or other related goals.
+The question remains – will real progress be made in the transmission essential to the realization of new solar, wind and storage projects. On one side, pending activities are ripe for new transmission corridors and special strategic projects. An April 2021 report sponsored by ACORE & Americans for a Clean Energy Grid, suggested that 8,000 miles in 22 new transmission projects at approximately a $33.2 billion cost could facilitate 60 GW of new renewable projects.
+On the other side, while DOE, FERC and Congress talk a lot about the need for new electric transmission, real progress is difficult. Some groups oppose renewables and seek to delay improvements. Negotiators of the debt ceiling increase cited that Congress as a group is hard pressed to fully understand the dynamics for new transmission. Different utilities as well as different states have various priorities.
+As a result, transmission improvements are slow. Yet without a solution, the tremendous incentives laid out for the renewables industry remain as potential benefits just outside of everyone’s grasp. Investors are wise to consider the likelihood that their projects will obtain transmission prior to making investments.
+The more successful approaches in this environment include:
+- New High Voltage Direct Current (“HVDC”) lines which can take a decade to design and implement;
+- Shared upgrades—negotiated in transmission planning group sessions or submitted by multiple generating projects in unique situations;
+- Selected new generation resources that have a tolerable expense for interconnection and new transmission;
+- Some other creative approaches:
+- New conductors, dynamic loading, and AI to expand the limits of the existing system,
+- Mid to long duration storage to help balance the grid, help manage some line loading situations, and ultimately serve as a dispatchable resource, and
+- The addition of more distributed generation resources and controllable loads through virtual power plants to lower the need for new utility capacity and help focus on smaller resources.
+It is important to note that the new utility-scale resources that tend to succeed in this environment are large scale projects. The advantage goes to 1,000+ MW scale projects that can afford expensive transmission. Specifically, offshore or onshore wind projects and large solar projects that can handle the slow pace and expense of large-scale transmission projects and upgrades have a better chance of implementation.
+On the other end, smaller sized distributed solar projects that can be economically added to distribution lines, depending on the interconnecting utility’s procedures and timing, also are a good choice in this situation. Medium scale solar or wind projects may not be able to obtain transmission or interconnection due to the costs that they can afford and still be viable. It will take strong competitive advantages to succeed.
+Therefore, realizing the potential of new renewable generation remains a challenge. Investors will have to make wise choices but given the size of the opportunity should still have multiple options as they evaluate new investments.
+
+--------------------------------------------------------------------------------
+
+URL: https://beaconenergy.com/category/funding-trends-fr/
+
+home
+about us
+our services
+competitive advantage
+news
+contact
+Copyright © 2026 Beacon Energy LLC
+Investing in Renewables
+June 20, 2023
+Posted by:
+Admin
+Categories:
+Developers, Funding trends, Utilities
+No Comments
+read more
+
+--------------------------------------------------------------------------------
+
+URL: https://beaconenergy.com/competitive-solar-opportunities-from-recent-us-climate-change-legislation/
+
+Capitalizing on the Opportunity
+- August 12, 2022
+- Posted by: Admin
+- Categories: Developers, Innovation, Purchasing, Utilities
+Energy innovation has never been more needed than now. With the expected enactment of the August 2022 Senate Climate Act, officially HR 5376, dubbed the “Inflation Reduction Act of 2022”, the U.S. has a once-in-a-lifetime opportunity to create a new energy and cleaner climate path forward. The changes will not happen overnight, and the most profound changes will offer improved energy economics and differentiated projects that meet customer needs. Tax incentives by themselves can sometimes produce misguided offerings. As industry leaders, we collectively have the potential to do a lot of good and the complex challenge of actually doing so.
+HR 5376, in 755 pages, outlines transformative incentives, including:
+- 30% ITC for 10 years for renewable projects and stand-alone storage projects with specific wage and apprentice standards
+- 10% ITC incentives for US manufactured equipment
+- 10% ITC incentives for disadvantaged areas as defined in the Act
+- 45Q incentives of $85/Mton for Carbon oxide capture and sequestration
+- Production tax credit (PTC) incentives for solar
+- Specific tax credit monetization options
+Many nuisances will be sorted out in the coming months and years ahead. These incentives should help the U.S. develop meaningful climate solutions, renewable projects, and U.S.-based employment and supply chain opportunities.
+In a January 25, 2022 report, PV Magazine cited 639 GWac of solar projects at the end of 2021 in the top transmission queues waiting for interconnection to the grid compared to 139 GWac at the end of 2019. This does not mean that there are 639 MWac of economically viable new utility solar projects. It most likely means that a large number of projects are competing with each other for interconnection space at reasonable cost and to be judged as the most viable economic projects. The competition between projects, along with substantially more new projects in the queue, is to be expected.
+For the sake of customers and climate change, it will be important for the industry to only advance the most competitive projects. These projects should be as efficient and environmentally beneficial as possible. If we fail to create the most competitive energy projects, we will create a transformation without any real progress or long-term positive economic impact on the US economy. The challenge has now shifted to how we can continue to innovate in the energy space and use the above incentives in the best manner. Failure to do so will embed economically non-attractive projects into our energy ethos and create a lost climate change opportunity.
+As a developer, there has never been a better time to advance the most competitive, innovative energy projects. As a utility, the time to select only the most competitive projects is now, or customers may suffer long-term impairment. As a regulator, the time to help make wise and prudent decisions has always been the present.
+
+--------------------------------------------------------------------------------
+
+URL: https://beaconenergy.com/category/innovation/
+
+-
+Capitalizing on the Opportunity
+- August 12, 2022
+- Posted by: Admin
+- Categories: Developers, Innovation, Purchasing, Utilities
+No Comments -
+Green Hydrogen Re-Emerges
+- February 17, 2022
+- Posted by: Admin
+- Categories: Developers, Innovation
+-
+Deciphering the Road Map for PV Solar
+- April 5, 2018
+- Posted by: Admin
+- Categories: Developers, Innovation
+-
+Early 2018 Energy Storage Developments
+- March 14, 2018
+- Posted by: Admin
+- Categories: Company News, Innovation, Purchasing
+
+--------------------------------------------------------------------------------
+
+URL: https://beaconenergy.com/category/purchasing/
+
+-
+Capitalizing on the Opportunity
+- August 12, 2022
+- Posted by: Admin
+- Categories: Developers, Innovation, Purchasing, Utilities
+No Comments -
+Early 2018 Energy Storage Developments
+- March 14, 2018
+- Posted by: Admin
+- Categories: Company News, Innovation, Purchasing
+-
+Buying Energy: Today’s Choices
+- June 7, 2017
+- Posted by: Admin
+- Category: Purchasing
+-
+Microgrids for Commercial and Industrial Customers Grow in Popularity
+- May 25, 2017
+- Posted by: Admin
+- Categories: Company News, Purchasing
+
+--------------------------------------------------------------------------------
+
+URL: https://beaconenergy.com/green-hydrogen-re-emerges/
+
+Green Hydrogen Re-Emerges
+- February 17, 2022
+- Posted by: Admin
+- Categories: Developers, Innovation
+Southern California Gas Company, on February 17, 2022, submitted plans for the feasibility analysis of the Angeles Link Project, which is a large-scale green hydrogen project to bring hydrogen to the LA basin by 2032. The feasibility analysis involves possibly 200-750 miles of hydrogen pipeline infrastructure, 10-20 GW of electrolyzers (reversible fuel cells), 25-35 GW of new curtailed wind and solar, and 2 GW of energy storage. The request to begin the analysis was filed with the CPUC in A2202007. The contemplated amount of green hydrogen produced in this process could replace 25% of the natural gas delivered by Southern California Gas Company.
+Southern California Gas Company is not alone in the rapid potential growth of clean hydrogen. BloombergNEF forecasts that 2022 will have 1,839 MW of world-wide electrolyzer shipments, eclipsing 456 MW of electrolyzer shipments in 2021.
+For many of us, 2020 is the year when hydrogen re-emerged as the possible missing link for renewables and climate change containment. Back in the 80-90’s, hydrogen was conceived as “the” fuel of the future. We all thought natural gas was a whole lot cheaper, and unless more nuclear plants were built at reasonable cost, hydrogen’s prospects did not look economically viable. Enter the decade of renewables, and hydrogen maybe the “bridge” fuel needed to keep emission low.
+As penetration rates of solar and wind continue to grow and as costs go down dramatically for these sources, the grid still needs to be balanced and loads accommodated when intermittent resources are not available. Just as important, intermittent resources can grow significantly more, if frequency response, spinning reserve, ramp rates and other balancing services can be better managed and non-intermittent resources are available to satisfy load requirements. Enter green hydrogen to fill the gap with existing generation capacity. As a fuel that produces water vapor when burned without CO2, it has natural promise. Green hydrogen produced by electrolysis has the capability of providing balancing services as electrolyzers are digitally turned on and off[1], as well as materially fueling combined cycle generators[2] that can meet grid demand requirements.
+Previously, the EU announced a 55% reduction in pollutants by 2030, the UK announced a 68% reduction, and China announced carbon net zero by 2060. The world seems to be waking up to the climate challenge more so at this point than in past times. In Europe, some have said green hydrogen is in the same space as offshore wind was a decade or so ago, and Europe has begun a large development program to support green hydrogen. In 2020, Europe announced a 2030 goal of 40 GW of electrolyzers which would convert renewable/nuclear energy into green hydrogen. Japan and Australia are working on a $36 billion export terminal for green hydrogen and other infrastructure. Origin Energy and Kawasaki announced a 300 MW electrolyzer project to produce green hydrogen from solar. Air Liquide and the Saudis announced a $5 billion ammonia and green hydrogen production facility using 4 GW of renewable energy.
+In the US, with the passage of the US Infrastructure bill, the US DOE has announced activities aimed at lowering the cost of green hydrogen to $1/kg by 2032 and various activities to create hydrogen hubs. Southern California Gas has reported it is active in 10 hydrogen pilots. Other programs include, Cummins announced a 5 MW electrolyser project in Douglas County PUD, Washington State and other activities. NextEra announced a 20 MW Florida electrolyzer project, after regulatory approvals, that would convert solar energy to green hydrogen and then use it to generate electricity in a combined cycle plant. LADWP announced that they would use 30% green hydrogen in the massive Intermountain Power Project in Utah as early as 2025 and 100% by 2045. Apex and Brookfield announced demonstration projects with Plug Power, a major fuel cell producer. Dominion Energy, Southern Natural Gas, Southern Company, and NW Natural asked the National Association of Regulatory Utility Commissioners (“NARUC”) in Nov 2020 to provide policy guidance for the emerging industry as they are advancing pilot projects use of hydrogen, or hydrogen produced syngas, that can be used in pipelines. NREL and GTI showed that concentrations of 5-15% hydrogen could be managed in existing interstate pipelines.
+Still, green hydrogen (hydrogen produced by renewable energy methods) is not in-expensive at current $3-6/kg levels (roughly 2kg=$17.6 mmbtu but its effective efficiency in use depends on applications and should be considered in economic comparisons), transporting it is not easy, liquification can cost 30% of its value and limits applications. So, there are many challenges to overcome but the potential is exciting. BloombergNEF has forecasted as much as a $11 trillion cumulative investment in hydrogen by 2050, if the challenges can be overcome and government incentives line up correctly. BloombergNEF also indicated in 2020 that hydrogen has the potential to meet 24% of the World’s 2050 energy demand and reduce CO2 emissions by 34%.
+Key suppliers have shown strong growth. ITM Power of the UK announced a new factory to build 1 GW of electrolyzers per year and is now producing 10 MW electrolyzers for Shell and Scottish Power refineries. Plug Power has seen a large increase in its 2020 stock price and recently raised capital for its hydrogen PEM fuel cells and electrolyzers. Bloom Energy, Cummins, Ballard Power Systems, Nel ASA of Norway, to mention a few, have also all reported significant new activities and growth. Some industry experts predict a $500/kw capital cost for new electrolyzers in 2030 and a 20% learning curve from today. With 50% electrolyzers capacity factors, $500/kw capex, and $25/MWh for renewable energy input costs, green hydrogen pricing is expected to be in the $2/kg range, which is expected to lead to substantial growth. Still, industry players are working to reach a $1/kg target price for green hydrogen.
+[1] NREL in 2020 demonstrated that digital control of electrolyzers can help balance the grid.
+[2] A blend of natural gas and hydrogen is likely still required.
+
+--------------------------------------------------------------------------------
+
+URL: https://beaconenergy.com/progress-in-improving-us-transmission-will-take-time/
+
+Transmission Infrastructure Progress
+- February 21, 2022
+- Posted by: Admin
+- Categories: Developers, Utilities
+The US electricity transmission infrastructure needs improvement. Economical projects take years to make it through the transmission queues. PJM announced in early February 2022 that it was pausing new interconnections (for 2 years) to work through a back-log that is 500 days for 33% of the proposed new capacity and to allow time to advance a new interconnection process. Critically, can we expand the grid prudently, intelligently, economically and in a timely manner that most benefits consumers?
+2021 saw the passage of the US Infrastructure funding law. This continues efforts that have been growing over recent past years to expand and improve the US transmission infrastructure. The US DOE states, in a December 2021 press release, that 70% of the current power lines, transformers and other related infrastructure are 25+ years old and to accommodate customers, the grid needs to be expanded by 60% by 2030 and perhaps as much as 3X by 2050.
+DOE has dubbed the effort, “Building a Better Grid” and began in January 2022 a major recruiting effort to staff up and tackle a number of important issues including: engaging and building early collaborations with states, utilities and other stakeholders, enhanced transmission planning, streamline permitting, using $20 billion of federal funds to further key projects, new technologies, and better utility incentives among a few of the key topics. FERC also began a transmission infrastructure push with an effort in 2020 to review rate of return incentives and to encourage broader interaction with states. The second NARUC and FERC meeting is planned for early 2022 to help deal with state benefits, joint incentives and right of way issues necessary for new transmission lines. FERC also has reviewed improved line ratings involving seasonal factors or Dynamic Line Ratings (DLR) that take current and projected weather conditions into account in using lines versus static line ratings which are in common use. All of these efforts show progress in the right direction to improve the grid. The tasks will clearly be challenging as the industry accommodates a vast amount of new resource requests while ensuring reliability and protecting existing investments.
+Distributed Energy Resources (“DER”) have also risen in importance and DERs may help avoid some transmission and distribution upgrades. Berkeley Labs in December 2021 published (“Opportunities and Challenges to Capturing Distributed Battery Value via Retail Utility Rates and Programs”) a look at batteries in local grids and the potential for improvement is substantial. They cite, based on 2020 EIA data, that 94% of utilities’ retail offerings are fixed price and do not vary by time of use or real time prices. At the same time, DOE believes 60% of retail customers have smart meters and can accommodate time-of-use metering. This gap reflects a large potential capability to allow retail customers to make prudent time of use purchasing decisions as well as operate battery or DER resources that help utilities lower peak use constraints. Taken together these improvements in batteries and DERs, coupled with time-of-day pricing can avoid a number of unneeded transmission or distribution builds.
+The key question is, can the US integrate DERs, time-of-use rates, new T&D, and other resources together in a framework that is prudent, smart and in the best financial interest for US customers. If we can then the economic rewards for US citizens will be substantial and the US will be able to compete with very competitive international parties as well as enjoy a higher standard of living.
+
+--------------------------------------------------------------------------------
+
+URL: https://beaconenergy.com/home/
+
+home
+about us
+our services
+competitive advantage
+news
+contact
+Copyright © 2026 Beacon Energy LLC
+
+--------------------------------------------------------------------------------

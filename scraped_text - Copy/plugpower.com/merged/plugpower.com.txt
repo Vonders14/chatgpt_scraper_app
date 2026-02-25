@@ -1,0 +1,494 @@
+ROOT: https://plugpower.com/
+SCRAPED_AT_UTC: 2026-02-11T20:26:53.534269Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://plugpower.com/
+
+Plug Power Special Meeting
+Plug Power has adjourned its Special Meeting of Stockholders (the “Special Meeting”) until Tuesday, February 17, 2026 at 4:00 p.m. ET.
+Plug is driving energy independence forward by building the global hydrogen ecosystem.
+Plug is the only company delivering a complete hydrogen platform, from production and liquefaction to storage, delivery, and power generation. These are not standalone technologies. They are integrated, end-to-end solutions designed to make hydrogen work at industrial scale across regions, industries, and applications.
+Warehouses and distribution centers are seeking alternatives to lead-acid batteries.
+Hydrogen fuel cells are elevating the future of material handling.
+Learn MoreIndustrial applications are working to decarbonize their operations.
+Learn how Plug makes this possible.
+Learn MoreThe need for zero emission backup, intermittent, or primary power sources is becoming more critical.
+Hydrogen is making it happen.
+Learn MorePlug is powering the hydrogen revolution. Many organizations want clean energy solutions to help them solve tough productivity and operational challenges. Hydrogen can be used in many different applications. Plug is leading the way. Plug’s customer demand for hydrogen has grown by 10 times in five years — nearly a 200% annual growth rate. Our clean energy solutions are solving problems for a wide range of customers worldwide.
+Plug has job openings throughout the world. Explore the opportunities available.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/services/hydrogen-services/
+
+Full-Service Hydrogen Support
+Plug has built the most hydrogen fueling stations in North America, enabling green, sustainable power for companies that demand high asset-utilization in an electric world. Our state of the art hydrogen services solutions extend from station build to molecule delivery – and everything in between.
+Hydrogen Services Offers Delivery on Demand
+Our sophisticated hydrogen fuel delivery network consists of six high pressure tube trailers regionally positioned throughout North America for quick response. Delivery fleet logistics are maintained 24×7, ensuring hydrogen is always available and on-site when needed.
+Plug holds industry-leading capabilities in generation, liquefaction and distribution of hydrogen fuel complementing its position in the design, construction, and operation of customer-facing hydrogen fueling stations.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/services/gencare-aftermarket-services/
+
+There’s No Better Way to Guarantee Uptime
+Customized GenCare packages include advanced system monitoring, predictive analytics, preventive maintenance, training, and rapid-response onsite service by trained GenCare technicians. Comprehensive care puts the responsibility for hydrogen and fuel cell service on our shoulders, allowing you to do what you do best – run your business.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/services/genkey-turnkey-implementation/
+
+Turnkey Hydrogen and Fuel Cell Solutions
+With GenKey turnkey implementation, it’s never
+been easier to adopt hydrogen and fuel cell
+power. GenKey delivers a complete range of
+services to power, fuel and service your
+application.
+One-Stop Shopping
+Power
+GenDrive (material handling), ProGen (hydrogen engine), or GenSure (stationary / backup power) turnkey fuel cell solutions.
+Fuel
+GenFuel hydrogen fueling station and molecule.
+Aftermarket Service
+GenCare aftermarket customer service and support, featuring the SiteView intelligent internet of things data tool.
+Proven Performance and Reliability
+The GenKey package was developed based on customer trust and Plug Power’s proven performance, and has been implemented by some of the largest and highest-performing logistics and manufacturing sites in the world. GenKey delivers a complete range of turnkey services to streamline the entire hydrogen and fuel cell adoption process, removing complexity and providing everything needed to increase efficiency using hydrogen fuel cells.
+Seamless Adoption
+Our vertically-integrated GenKey turnkey implementation solution ties together all critical elements to power, fuel, and provide service to customers in asset-intensive applications. We enable our customers to focus on their business without having to worry about ours.
+Additional GenKey Resources
+Download the GenKey for Material Handling brochure:
+English
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/services/
+
+Making Hydrogen and Fuel Cell Adoption Seamless
+Working with Plug is about long-term partnerships. We offer customer support tools for all components of their fuel cell and hydrogen products.
+GenKey Turnkey Implementation
+Our turnkey package covers the three components of hydrogen fuel cell adoption: power, fuel, and aftermarket service. GenKey offers one-stop shopping, simplifying the whole experience.
+Read MoreGenCare Aftermarket Services
+Our aftermarket service package for fuel cells and hydrogen fuel offers comprehensive care that puts the responsibility for fuel cell uptime on our shoulders. This way, you can do what you do best – run your business.
+Read MoreGenFuel Hydrogen Services
+Our specialized experience with hydrogen fueling installations allows us to design custom solutions for a variety of business operations.
+Read MoreLiterature & Resources
+Learn more about our fuel cell products. Browse our literature and resources.
+Learn More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/about-us/careers-at-plug/
+
+Innovation
+Create new ideas, approaches and technologies that change the world. Be insatiably curious and confident. Learn and adapt quickly. Constantly strive to exceed expectations.
+Do you want to be part of the team
+building the clean hydrogen economy?
+Join our team!
+Career Opportunities
+Plug employees create products every day that are changing the way energy is produced and delivered, and shaping innovative technologies into real-world products. We are innovative, reliable, trustworthy, passionate, and driven. Everyone has an important role to play in the success of our business
+We’re a loyal, honest company, working together with employees, customers, shareholders, and the community to build the clean hydrogen economy. Join us and help wean the planet from fossil fuels!
+We are helping the economy transition from one that is fossil fuel-driven to one that is better for a livable planet. We know this will only be possible by continuing to prioritize our people and their desire to help fulfill this mission. An unrelenting spirit of innovation and a desire to dream big is at the heart of everything we do.
+The Fuel cell and Hydrogen Systems Engineering team is a hub of innovation for Plug Power. We work together to develop the next generation of PEM fuel cells to support a multitude of markets including stationary power, material handling, transportation and aerospace. Not only do our designs support power generation from 2 KW up to over 125KW in both air cooled and liquid cooled systems, but we also design, develop and deploy new technologies to store, and dispense green hydrogen. We do this work inspired by a greater purpose – helping industries reduce their carbon footprint by providing a complete hydrogen economy from green hydrogen generation to hydrogen transportation, hydrogen storage, hydrogen dispensing and clean energy generation using our PEM fuel cells.
+“Fuel cells are the perfect engineering problem. They are an intersection of chemical engineering, mechanical engineering and electrical engineering, and require collaboration of many cross functional teams to produce a working product. I am excited to come to work every day to work on the future of green power production”
+– Andrew Farese
+Plug’s global manufacturing organization builds products used by industry giants such as Walmart, Amazon, BMW and many more to power the sustainability revolution. Our teams create products every day that are changing the way energy is produced and delivered, impacting the entire world and making a difference. From our warehouses to our production lines to our engineers, our global manufacturing group innovates the future of Green Energy.
+Our Service group is a critical component of our overall customer strategy. Service employees are embedded at customer sites to be the face of our company and provide dedicated support to maintain our products onsite. Our Field Engineering teams serve as a continuation of that support by serving as the bridge between customers, manufacturing and productions groups, working to ensure our designs meet the rigorous standards our products are held to.
+“I am grateful to have interned at Plug this summer. It was a terrific experience getting to work on meaningful real-life engineering projects at an exciting company. I appreciated that even as an intern, there was a lot of trust and independence given to me, so that I was able to directly impact projects that affected Plug at large.”
+–Evan Buckley
+Students at Plug jumpstart their careers by working collaboratively with leaders through various programs that give them real-world, industry experience. Students in undergraduate and graduate programs participate in internship, co-op and senior student programs to further their educational training through hands-on learning experiences. Students are mentored by leaders who are experts in their field and also receive career support and feedback, support active Plug Power projects, and drive forward Plug’s mission of the green hydrogen economy.
+Veterans at Plug contribute every day to the mission-critical work that we do. These professionals translate their military training into essential roles throughout our company. From project managers to human resources, from manufacturing to service, veterans are committed to leveraging their expertise to support our technology across global communities. They are Green Hydrogen at Work. Learn more here.
+We’re a people first company – offering a culture that is ideally suited to people who enjoy the focus, collaboration, and discipline required to shape innovative technologies into real world products. Our employees share similar threads – we’re innovative, reliable, trustworthy, passionate, and driven.
+Everyone has an important role to play in the success of our business. At Plug, we aspire to recruit, develop, and retain people of diverse cultural backgrounds who can contribute to their fullest potential in pursuit of personal, organizational, and business objectives. We recognize the benefits of encouraging all employees to reach their full potential and we aim to create a workplace where everyone has the opportunity to learn and grow.
+Create new ideas, approaches and technologies that change the world. Be insatiably curious and confident. Learn and adapt quickly. Constantly strive to exceed expectations.
+Embrace new opportunities with a fearless, action-oriented perspective. Learn and iterate. Truly game-changing ideas are rarely safe.
+Respect each other and individual unique experiences and expertise. Treat everyone with dignity, compassion, and professionalism.
+Listen and seek to understand. Hear inspiration and seek expertise from across the globe. Communicate openly and honestly; be transparent.
+Be inclusive and involve the right people. Let go where appropriate and trust your team members to do their part.
+Act with integrity. Be helpful. Do the right thing.
+This link leads to the machine readable files that are made available in response to the federal Transparency in Coverage Rule and includes negotiated service rates and out-of-network allowed amounts between health plans and healthcare providers. The machine-readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data.
+Complete our Plug Talent Ambassador’s External Request Form and a member of our Talent Ambassador team will be in touch with you to discuss the level of engagement desired to learn more about our career opportunities.
+We are stronger together. We recognize the benefits of encouraging all employees to reach their full potential and we aim to create a workplace where everyone has the opportunity to learn and grow. At Plug, we aspire to recruit, develop, and retain people of diverse cultural backgrounds who can contribute to their fullest potential in pursuit of personal, organizational, and business objectives.
+In our interactions with each other, we are sensitive to the values and beliefs of others. The concepts upon which these practices are based extend to our customers and the communities in which we do business.
+Plug handles all applications with strict confidentiality. Only those candidates chosen for further consideration will be contacted. Plug is proud to be an Equal Opportunity Employer.
+We routinely feature Plug employees who inspire us through the GreenH2@Work series on our Blog. Get to know some of the people who work at Plug!
+As an Equal Opportunity/Affirmative Action Employer, Plug will not discriminate in its employment practices due to an applicant’s race, color, creed, religion, sex (including pregnancy, childbirth, or other medical conditions), sexual orientation, gender identity or expression, transgender status, age, national origin, marital status, citizenship, physical or mental disability, criminal record, genetic information, predisposition or carrier status, status with respect to receiving public assistance, domestic violence victim status, a disabled, special, recently-separated, active duty wartime, campaign badge, Armed Forces service medal veteran, or any other characteristics protected under applicable law.
+View our commitments to affirmative action.
+Know Your Rights English | Spanish
+Pay Transparency Policy English
+Reasonable Accommodations English
+IER Right To Work English | Spanish
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/about-us/partners-2/
+
+Strong Partners Can Change the World
+Plug partners with global leaders to provide our customers with end-to-end products and services that are changing how we power the world.
+We’re Proud to call the following organizations and companies our Partners
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/about-us/customers/
+
+A Competitive Edge for Fuel Cell Customers Using Clean Energy
+We offer the only turnkey hydrogen and fuel cell solution in the world. Providing our customers with end-to-end product and service suites sets us apart and allows us to serve adopters in ways our competitors simply cannot.
+Making Adoption Easy for Hydrogen and Fuel Cell Customers
+Our offerings provide enhanced productivity and uptime while making the green solution economically viable to business operations. We’re committed to excellence, providing our hydrogen and fuel cell customers the ability to seamlessly and simply adopt sustainable solutions, enabling Plug customers with an end-to-end solution that will power, fuel, and provide service for their application needs, regardless of their market.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/about-us/leadership/
+
+Andy Marsh has served as CEO of Plug since April 2008, guiding the company’s transformation into a global leader in the hydrogen economy. Under his leadership, Plug has built the industry’s first vertically integrated green hydrogen ecosystem—spanning production, storage, delivery, and power generation—to help customers decarbonize at scale and achieve energy independence.
+A forward-thinking executive with deep technical expertise and a strong commercial focus, Marsh has led Plug’s strategic evolution from a fuel cell pioneer to a full-spectrum hydrogen solutions provider. His vision and leadership have positioned Plug at the forefront of the global energy transition, delivering breakthrough technologies and building long-term partnerships with industry leaders like Amazon, Walmart, and Home Depot.
+Prior to Plug, Marsh was co-founder and CEO of Valere Power, a power solutions company serving the telecommunications industry. Under his leadership, Valere grew into a profitable global operation with more than 200 employees and $90 million in revenue, ultimately leading to its acquisition by Eltek ASA in 2007. During his tenure, Valere earned numerous accolades, including the Tech Titan Award and Red Herring’s Top 100 Innovators.
+Marsh is a recognized thought leader in the hydrogen and clean energy sectors. He is the former Chair of the Fuel Cell and Hydrogen Energy Association (FCHEA), a member of the Hydrogen Council, and serves on several boards, including GEVO, the UAlbany Economic Advisory Board, and the Northern Ireland Delegation.
+He holds a Master’s in Electrical Engineering from Duke University, an MBA from Southern Methodist University, and a Bachelor’s degree in Engineering from Temple University.
+Jose Luis Crespo, President and Chief Revenue Officer, is responsible for leading Plug’s strategy on revenue generation and overseeing Sales teams and commercial activities across all products and applications. He will actively drive top and bottom line, increasing both total revenue and net profit by maximizing sales and cost management to establish profitability. Mr. Crespo joined Plug as Vice President of Business Development and International Sales in 2014, was promoted to Vice President of Global Sales in January of 2015, Executive Vice President of Global Sales in 2020, and GM of Applications in 2021.
+Under Mr. Crespo’s leadership, Plug has seen tremendous growth in fuel cell adoption, securing multi-site global customers including Walmart, Amazon, Home Depot, GM and Stellantis. Plug has additionally secured Carrefour in France and ASDA in the UK and continues to expand its European presence. Mr. Crespo has enabled accelerated adoption of hydrogen fuel cells and today there are more than 50,000 GenDrive products operational in electric material handling equipment.
+Prior to joining Plug, Mr. Crespo served as Vice President of International Value Stream at Smiths Power. He successfully brought together two international business divisions, including sales, manufacturing, and field support. Under his leadership, Smiths Power achieved combined sales of $14M in the first year after the acquisition.
+Mr. Crespo holds an MBA in global management from the University of Phoenix and a degree in telecommunications engineering from the Engineering University of Madrid, Spain.
+Bridgid Brown serves as Chief of Staff to the CEO, Vice President, Managing Counsel, and Interim Executive Vice President of Human Resources at Plug Power. In these roles, she provides strategic and operational leadership across legal, human resources, and executive functions, supporting the company’s mission to scale the global green hydrogen economy.
+Bridgid brings more than 25 years of legal and corporate experience, with a career spanning private practice, in-house counsel, and senior management roles. She has extensive expertise in corporate governance, regulatory compliance, contract negotiation, and organizational development. At Plug, she plays a central role in advancing cross-functional alignment between the company’s legal, business, and people operations.
+Before joining Plug, Bridgid held positions in corporate and legal leadership where she advised on complex commercial transactions and compliance frameworks supporting business growth and transformation.
+Bridgid earned her Juris Doctor from Albany Law School and holds a Bachelor of Arts degree from Bowdoin College. She is admitted to the New York State Bar.
+Dean Fullerton joined Plug as Chief Operating Officer in August 2024 with a long track record of success as a leader in the supply chain and logistics engineering industry. He is responsible for ensuring the execution, delivery and service of all customer deliverables. Mr. Fullerton will drive safety, quality and reliability standards to strengthen Plug’s operational efficiency, while fostering a culture of innovation and excellence.
+Mr. Fullerton joined Plug with 14 years of experience at Amazon, where he was responsible for global engineering services and oversaw operations engineering, planning and analytics, reliability and maintenance engineering, global security, real estate transactions and global procurement. His notable achievements include building the world’s largest and most complex automated e-commerce network on unprecedented schedules, delivering 16 middle-mile sort centers in one year— a task that took competitors seven years. He also completed Amazon’s largest project to date, a $1.5 billion airport and parcel facility, precisely on schedule. Mr. Fullerton was awarded the National Safety Council’s Green Cross Safety Innovation Award for developing groundbreaking collision avoidance technology for powered industrial trucks, significantly enhancing industry safety standards. He also led Amazon’s Hydrogen Economy team that reduced Amazon’s carbon footprint and generated significant cost savings. Additionally, Mr. Fullerton negotiated Amazon’s most successful warrant contract, adding billions of dollars in value. He has submitted five patents, with four approved and one pending.
+Mr. Fullerton began his career at United Parcel Service, where he spent 13 years in the Industrial Engineering department. He then spent eight years as a Principal/Director at a supply chain and logistics engineering consulting firm. Before joining Amazon, he served as Sr. Director of North America Engineering and Maintenance at Gap Inc. Throughout his career, Mr. Fullerton has consistently tackled significant business challenges and delivered measurable results, setting high standards for himself and his teams.
+Mr. Fullerton has a Master of Business Administration from San Diego State University and a Bachelor of Science in Business Management from University of Redlands.
+Paul Middleton joined Plug as Chief Financial Officer in 2014, bringing a proven background in strategy, mergers and acquisitions, controls and risk management for manufacturing and technology companies.
+Prior to Plug, Mr. Middleton worked at Rogers Corp., a global manufacturer and distributor of specialty polymer composite materials and components. During his tenure at Rogers, Mr. Middleton served in many senior financial leadership roles including Corporate Controller and Principal Accounting Officer, Treasure and Interim Chief Financial Officer. Prior to Rogers, Mr. Middleton managed all financial administration for the tools division of Cooper Industries.
+Mr. Middleton holds a master’s in and a bachelor’s in business administration BA from the University of Central Florida. Additionally, he is a Certified Public Accountant.
+Gerard Conway joined Plug as Associate General Counsel in 2000 and was promoted to General Counsel and Corporate Secretary in 2004. As General Counsel and Corporate Secretary, he is responsible for advising the Company on legal issues such as corporate law, securities, contracts, strategic alliances and intellectual property.
+Mr. Conway also oversees governmental affairs. In this role, he advocates on energy issues, policies, legislation and regulations on the state, federal, national and international levels on behalf of Plug and the alternative energy sector.
+Prior to joining Plug, Mr. Conway spent four years as an Associate with Featherstonhaugh, Conway, Wiley & Clyne, LLP, where he concentrated in government relations, business and corporate law. Mr. Conway has more than 20 years of experience in general business, corporate real estate and government relations.
+Mr. Conway holds a Juris Doctorate from the Boston University School of Law. He received a bachelor’s in English from Colgate University.
+Benjamin Haycraft is the Chief Strategy Officer & General Manager EMEA Region for Plug where he oversees business initiatives and operations in Europe, Middle East and Africa to accelerate the company’s growth.
+Mr. Haycraft joined Plug in May 2021 as Vice President of Strategy & Business Development in Europe where he helped define and execute Plug’s European strategy and contributed to Plug’s European initiatives, including the JVs with Renault (Hyvia) and Acciona Energia (AcicionaPlug), the acquisition of Plug’s system solutions group, the first green hydrogen plant in Europe, and broadly identifying strategic partnerships and structuring acquisitions. Prior to Plug, Mr. Haycraft served as Head of ESG Corporate Finance at Santander Corporate and Investment Banking where he advised on ESG corporate finance topics, including the structuring of Plug’s joint venture with Renault and Acciona.
+Mr. Haycraft has international experience working in New York, Madrid and Paris, and has held several leadership positions across strategy, financial planning, and merger and acquisition execution. Mr. Haycraft also serves as a supervisory board Member for Hyvia, a board member for AccionaPlug and Gravithy, and chairman of the expert committee at HY24. He earned his masters of science in corporate finance from Emlyon Business School.
+Andy Marsh has served as CEO of Plug since April 2008, guiding the company’s transformation into a global leader in the hydrogen economy. Under his leadership, Plug has built the industry’s first vertically integrated green hydrogen ecosystem—spanning production, storage, delivery, and power generation—to help customers decarbonize at scale and achieve energy independence.
+A forward-thinking executive with deep technical expertise and a strong commercial focus, Marsh has led Plug’s strategic evolution from a fuel cell pioneer to a full-spectrum hydrogen solutions provider. His vision and leadership have positioned Plug at the forefront of the global energy transition, delivering breakthrough technologies and building long-term partnerships with industry leaders like Amazon, Walmart, and Home Depot.
+Prior to Plug, Marsh was co-founder and CEO of Valere Power, a power solutions company serving the telecommunications industry. Under his leadership, Valere grew into a profitable global operation with more than 200 employees and $90 million in revenue, ultimately leading to its acquisition by Eltek ASA in 2007. During his tenure, Valere earned numerous accolades, including the Tech Titan Award and Red Herring’s Top 100 Innovators.
+Marsh is a recognized thought leader in the hydrogen and clean energy sectors. He is the former Chair of the Fuel Cell and Hydrogen Energy Association (FCHEA), a member of the Hydrogen Council, and serves on several boards, including GEVO, the UAlbany Economic Advisory Board, and the Northern Ireland Delegation.
+He holds a Master’s in Electrical Engineering from Duke University, an MBA from Southern Methodist University, and a Bachelor’s degree in Engineering from Temple University.
+Jose Luis Crespo, President and Chief Revenue Officer, is responsible for leading Plug’s strategy on revenue generation and overseeing Sales teams and commercial activities across all products and applications. He will actively drive top and bottom line, increasing both total revenue and net profit by maximizing sales and cost management to establish profitability. Mr. Crespo joined Plug as Vice President of Business Development and International Sales in 2014, was promoted to Vice President of Global Sales in January of 2015, Executive Vice President of Global Sales in 2020, and GM of Applications in 2021.
+Under Mr. Crespo’s leadership, Plug has seen tremendous growth in fuel cell adoption, securing multi-site global customers including Walmart, Amazon, Home Depot, GM and Stellantis. Plug has additionally secured Carrefour in France and ASDA in the UK and continues to expand its European presence. Mr. Crespo has enabled accelerated adoption of hydrogen fuel cells and today there are more than 50,000 GenDrive products operational in electric material handling equipment.
+Prior to joining Plug, Mr. Crespo served as Vice President of International Value Stream at Smiths Power. He successfully brought together two international business divisions, including sales, manufacturing, and field support. Under his leadership, Smiths Power achieved combined sales of $14M in the first year after the acquisition.
+Mr. Crespo holds an MBA in global management from the University of Phoenix and a degree in telecommunications engineering from the Engineering University of Madrid, Spain.
+Bridgid Brown serves as Chief of Staff to the CEO, Vice President, Managing Counsel, and Interim Executive Vice President of Human Resources at Plug Power. In these roles, she provides strategic and operational leadership across legal, human resources, and executive functions, supporting the company’s mission to scale the global green hydrogen economy.
+Bridgid brings more than 25 years of legal and corporate experience, with a career spanning private practice, in-house counsel, and senior management roles. She has extensive expertise in corporate governance, regulatory compliance, contract negotiation, and organizational development. At Plug, she plays a central role in advancing cross-functional alignment between the company’s legal, business, and people operations.
+Before joining Plug, Bridgid held positions in corporate and legal leadership where she advised on complex commercial transactions and compliance frameworks supporting business growth and transformation.
+Bridgid earned her Juris Doctor from Albany Law School and holds a Bachelor of Arts degree from Bowdoin College. She is admitted to the New York State Bar.
+Dean Fullerton joined Plug as Chief Operating Officer in August 2024 with a long track record of success as a leader in the supply chain and logistics engineering industry. He is responsible for ensuring the execution, delivery and service of all customer deliverables. Mr. Fullerton will drive safety, quality and reliability standards to strengthen Plug’s operational efficiency, while fostering a culture of innovation and excellence.
+Mr. Fullerton joined Plug with 14 years of experience at Amazon, where he was responsible for global engineering services and oversaw operations engineering, planning and analytics, reliability and maintenance engineering, global security, real estate transactions and global procurement. His notable achievements include building the world’s largest and most complex automated e-commerce network on unprecedented schedules, delivering 16 middle-mile sort centers in one year— a task that took competitors seven years. He also completed Amazon’s largest project to date, a $1.5 billion airport and parcel facility, precisely on schedule. Mr. Fullerton was awarded the National Safety Council’s Green Cross Safety Innovation Award for developing groundbreaking collision avoidance technology for powered industrial trucks, significantly enhancing industry safety standards. He also led Amazon’s Hydrogen Economy team that reduced Amazon’s carbon footprint and generated significant cost savings. Additionally, Mr. Fullerton negotiated Amazon’s most successful warrant contract, adding billions of dollars in value. He has submitted five patents, with four approved and one pending.
+Mr. Fullerton began his career at United Parcel Service, where he spent 13 years in the Industrial Engineering department. He then spent eight years as a Principal/Director at a supply chain and logistics engineering consulting firm. Before joining Amazon, he served as Sr. Director of North America Engineering and Maintenance at Gap Inc. Throughout his career, Mr. Fullerton has consistently tackled significant business challenges and delivered measurable results, setting high standards for himself and his teams.
+Mr. Fullerton has a Master of Business Administration from San Diego State University and a Bachelor of Science in Business Management from University of Redlands.
+Paul Middleton joined Plug as Chief Financial Officer in 2014, bringing a proven background in strategy, mergers and acquisitions, controls and risk management for manufacturing and technology companies.
+Prior to Plug, Mr. Middleton worked at Rogers Corp., a global manufacturer and distributor of specialty polymer composite materials and components. During his tenure at Rogers, Mr. Middleton served in many senior financial leadership roles including Corporate Controller and Principal Accounting Officer, Treasure and Interim Chief Financial Officer. Prior to Rogers, Mr. Middleton managed all financial administration for the tools division of Cooper Industries.
+Mr. Middleton holds a master’s in and a bachelor’s in business administration BA from the University of Central Florida. Additionally, he is a Certified Public Accountant.
+Gerard Conway joined Plug as Associate General Counsel in 2000 and was promoted to General Counsel and Corporate Secretary in 2004. As General Counsel and Corporate Secretary, he is responsible for advising the Company on legal issues such as corporate law, securities, contracts, strategic alliances and intellectual property.
+Mr. Conway also oversees governmental affairs. In this role, he advocates on energy issues, policies, legislation and regulations on the state, federal, national and international levels on behalf of Plug and the alternative energy sector.
+Prior to joining Plug, Mr. Conway spent four years as an Associate with Featherstonhaugh, Conway, Wiley & Clyne, LLP, where he concentrated in government relations, business and corporate law. Mr. Conway has more than 20 years of experience in general business, corporate real estate and government relations.
+Mr. Conway holds a Juris Doctorate from the Boston University School of Law. He received a bachelor’s in English from Colgate University.
+Benjamin Haycraft is the Chief Strategy Officer & General Manager EMEA Region for Plug where he oversees business initiatives and operations in Europe, Middle East and Africa to accelerate the company’s growth.
+Mr. Haycraft joined Plug in May 2021 as Vice President of Strategy & Business Development in Europe where he helped define and execute Plug’s European strategy and contributed to Plug’s European initiatives, including the JVs with Renault (Hyvia) and Acciona Energia (AcicionaPlug), the acquisition of Plug’s system solutions group, the first green hydrogen plant in Europe, and broadly identifying strategic partnerships and structuring acquisitions. Prior to Plug, Mr. Haycraft served as Head of ESG Corporate Finance at Santander Corporate and Investment Banking where he advised on ESG corporate finance topics, including the structuring of Plug’s joint venture with Renault and Acciona.
+Mr. Haycraft has international experience working in New York, Madrid and Paris, and has held several leadership positions across strategy, financial planning, and merger and acquisition execution. Mr. Haycraft also serves as a supervisory board Member for Hyvia, a board member for AccionaPlug and Gravithy, and chairman of the expert committee at HY24. He earned his masters of science in corporate finance from Emlyon Business School.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/about-us/sustainability/
+
+Delivering Hydrogen Sustainably
+At Plug, we’re leading a green energy revolution, purpose-driven to replace fossil fuels with hydrogen.
+We’re accelerating the use of hydrogen in the transition to a global net-zero economy by making it easy for businesses to adopt green hydrogen as they decarbonize. Our commitment to sustainability underpins everything we do.
+2023 ESG Report
+Plug’s focus goes beyond building the world’s first green hydrogen ecosystem. We know Plug can do and be more. We want to be good citizens on a global scale, addressing everything from product end of life to employee diversity to maintaining responsibility for our own environmental impact.
+Our Commitment to Sustainability
+Plug’s commitment to ethical and responsible environmental, social, and corporate governance is reflected in the global impact of our products in operation, and the solutions we innovate to solve tough customer and climate challenges.
+You can also see our commitment to people, profit, and the planet in the way we continuously evaluate our impact on society and the environment. We strive to minimize any negative effects, including in our approach to manufacturing and the end-to-end lifecycle of all Plug solutions, from resource efficiency and responsible design to materials management and recycling.
+ESG Resources
+Supplier Code of Conduct
+Download PDF
+Fair Treatment Policy
+Download PDF
+International Human Rights Policy
+Download PDF
+Responsible Tax
+Download PDF
+Bribery & Anticorruption
+Download PDF
+Quality, Environmental, Health and Safety Policy
+Download PDF
+DEI Policy
+Download PDF
+Hydrogen Transition Resources
+Path to Hydrogen Competitiveness: A Cost Perspective
+Read Article
+Hydrogen Meets Digital
+Read Article
+Hydrogen, Scaling Up
+Read Article
+How Hydrogen Empowers the Energy Transition
+Read Article
+Road Map to a US Hydrogen Economy
+Download PDF
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/about-us/culture-values/
+
+Innovation
+At the heart of everything we do
+is an unrelenting spirit of innovation
+and a desire to dream big.
+Plug is committed to a people-first culture driven by these values:
+Innovate – Create new ideas, approaches and technologies that change the world. Be insatiably curious and confident. Learn and adapt quickly. Constantly strive to exceed expectations.
+Communicate – Listen and seek to understand. Hear inspiration and seek expertise from across the globe. Communicate openly and honestly; be transparent.
+Humble, but Gutsy – Embrace new opportunities with a fearless, action-oriented perspective. Learn and iterate. Truly game-changing ideas are rarely safe.
+Collaborate – Be inclusive and involve the right people. Let go where appropriate and trust your team members to do their part.
+Respect – Respect each other and individual unique experiences and expertise. Treat everyone with dignity, compassion and professionalism.
+True – Act with integrity. Be helpful. Do the right thing.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/about-us/
+
+The Global Green Hydrogen Leader
+…unmatched market knowledge
+…an ecosystem of products
+…laser-like customer focus
+…huge market opportunity
+…a clear vision for the future
+The Face of Green Hydrogen
+Plug is leading the green hydrogen revolution, helping the world transition to a global net-zero economy. We are building an end-to-end green hydrogen ecosystem to make hydrogen, a zero-carbon energy source, economical, easy, and everywhere.
+Leading the Way
+As a global leader in hydrogen fuel-supply solutions and in hydrogen applications for material handling, power generation, and e-mobility, Plug is proud of the work we do to accelerate hydrogen adoption worldwide.
+Putting Green Hydrogen to Work
+Plug listens to customers, giving them what they need to make hydrogen the best choice for their companies. We put green hydrogen to work so they can decarbonize in ways that make operational sense.
+Plug built the first commercially viable markets for fuel cells in material handling. Today, our end-to-end hydrogen value chain includes electrolyzers to make green hydrogen and the infrastructure needed to liquefy, store, transport, dispense, and convert hydrogen into carbon-free electricity.
+Plug Milestones
+1999:
+Plug becomes a publicly-traded company
+1999:
+Plug releases and ships the first fuel cell systems for stationary power
+2000:
+Plug enters the European market
+2007:
+Plug acquires Cellex and General Hydrogen and begins building the first commercial market for fuel cells in material handling
+2014:
+Plug deploys the GenKey solution, bundling fuel cells, hydrogen, dispensing, and service for easy adoption.
+2014:
+Plug acquires ReliOn, adding fuel cell stack technology and stationary power products.
+2017:
+Plug ships first ProGen fuel cell engines, expanding Plug’s ecosystem into on-road electric vehicles.
+2018:
+Plug acquires American Fuel Cell, bringing fuel cell MEA production in-house.
+2019:
+Plug acquires EnergyOr, adding expertise in fuel cell systems for robotics, small-scale material handling, and aerospace applications
+2020:
+Plug acquires United Hydrogen and Giner ELX, expanding capabilities in hydrogen generation, liquefaction, and distribution logistics, and in PEM electrolysis
+2021:
+Plug continues to build out green hydrogen ecosystem with strategic partnerships and acquisitions in cryogenics (Applied Cryo Technologies), electrolyzers (Frames Group), on-road mobility (Hyvia), and with SK Group to accelerate hydrogen adoption in Asian markets
+2022:
+Plug acquires Joule Processing LLC., to expand hydrogen liquefaction and cryogenics capabilities
+2024:
+Plug starts production and first customer fills of liquid green hydrogen from its Georgia plant, the largest green hydrogen plant in the USA.
+
+--------------------------------------------------------------------------------
+
+URL: https://plugpower.com/about-us/customers/
+
+A Competitive Edge for Fuel Cell Customers Using Clean Energy
+We offer the only turnkey hydrogen and fuel cell solution in the world. Providing our customers with end-to-end product and service suites sets us apart and allows us to serve adopters in ways our competitors simply cannot.
+Making Adoption Easy for Hydrogen and Fuel Cell Customers
+Our offerings provide enhanced productivity and uptime while making the green solution economically viable to business operations. We’re committed to excellence, providing our hydrogen and fuel cell customers the ability to seamlessly and simply adopt sustainable solutions, enabling Plug customers with an end-to-end solution that will power, fuel, and provide service for their application needs, regardless of their market.
+
+--------------------------------------------------------------------------------
+
+URL: https://plugpower.com/about-us/green-hydrogen-at-work/
+
+Green Hydrogen at Work
+Why Green Hydrogen?
+To electrify everything, the world needs access to affordable, zero-carbon green hydrogen.
+What is Green Hydrogen?
+Plug uses electrolyzers and electricity made from renewable sources like wind, solar, hydro-electric, and nuclear power to split water molecules into hydrogen and oxygen.
+The resulting green hydrogen powers forklifts, commercial trucks, airplanes, data centers, backup power generation, industrial manufacturing, and more.
+Does Green Hydrogen Have a Future?
+Plug’s customer demand for hydrogen has grown by 10 times in five years — nearly a 200% annual growth rate. And now, in the face of extraordinary global regulatory tailwinds, more industrial users believe that green hydrogen is a solution to their toughest climate and operational challenges.
+Can Green Hydrogen Replace Fossil Fuels?
+Plug makes green hydrogen economical, easy, and everywhere. Green hydrogen can power at least 20% of the world. We are actively marketing our clean energy solutions to a wide range of customers worldwide.
+Literature & Resources
+Learn more about our fuel cell products. Browse our literature and resources.
+Learn More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/
+
+Plug Power Special Meeting
+Plug Power has adjourned its Special Meeting of Stockholders (the “Special Meeting”) until Tuesday, February 17, 2026 at 4:00 p.m. ET.
+Plug is driving energy independence forward by building the global hydrogen ecosystem.
+Plug is the only company delivering a complete hydrogen platform, from production and liquefaction to storage, delivery, and power generation. These are not standalone technologies. They are integrated, end-to-end solutions designed to make hydrogen work at industrial scale across regions, industries, and applications.
+Warehouses and distribution centers are seeking alternatives to lead-acid batteries.
+Hydrogen fuel cells are elevating the future of material handling.
+Learn MoreIndustrial applications are working to decarbonize their operations.
+Learn how Plug makes this possible.
+Learn MoreThe need for zero emission backup, intermittent, or primary power sources is becoming more critical.
+Hydrogen is making it happen.
+Learn MorePlug is powering the hydrogen revolution. Many organizations want clean energy solutions to help them solve tough productivity and operational challenges. Hydrogen can be used in many different applications. Plug is leading the way. Plug’s customer demand for hydrogen has grown by 10 times in five years — nearly a 200% annual growth rate. Our clean energy solutions are solving problems for a wide range of customers worldwide.
+Plug has job openings throughout the world. Explore the opportunities available.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/about-us/green-hydrogen-at-work/
+
+Green Hydrogen at Work
+Why Green Hydrogen?
+To electrify everything, the world needs access to affordable, zero-carbon green hydrogen.
+What is Green Hydrogen?
+Plug uses electrolyzers and electricity made from renewable sources like wind, solar, hydro-electric, and nuclear power to split water molecules into hydrogen and oxygen.
+The resulting green hydrogen powers forklifts, commercial trucks, airplanes, data centers, backup power generation, industrial manufacturing, and more.
+Does Green Hydrogen Have a Future?
+Plug’s customer demand for hydrogen has grown by 10 times in five years — nearly a 200% annual growth rate. And now, in the face of extraordinary global regulatory tailwinds, more industrial users believe that green hydrogen is a solution to their toughest climate and operational challenges.
+Can Green Hydrogen Replace Fossil Fuels?
+Plug makes green hydrogen economical, easy, and everywhere. Green hydrogen can power at least 20% of the world. We are actively marketing our clean energy solutions to a wide range of customers worldwide.
+Literature & Resources
+Learn more about our fuel cell products. Browse our literature and resources.
+Learn More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/fuel-cell-power/
+
+Sustainable Fuel Cell Products for an Electrified World
+Green hydrogen-powered fuel cells are not future, they’re now. And they’re revolutionizing how the world works.
+Hydrogen Fuel Cells. Electrifying Now.
+With a billion hours of runtime and counting, Plug leads the fuel cell charge, supplying economic, zero-emission fuel cell solutions for material handling, stationary power, and on road-mobility, including fleet vehicles.
+Companies like Amazon, Walmart, and Carrefour choose Plug PEM fuel cells because they deliver – improving productivity and building a cleaner environment.
+Real Products. Real Customers. Real Results.
+Why Fuel Cells?
+Here are Five Fuel Cell Benefits You Should Know!
+- Zero-emission performance
+- Robust reliability
+- Lower operational costs
+- Scalability
+- Improved efficiency and availability
+Literature & Resources
+Learn more about our fuel cell products by browsing our literature and resources.
+Learn More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/fuel-cell-power/gendrive/
+
+Fuel Cell Products for the Material Handling Industry
+Plug’s hydrogen solutions for material handling make operational and financial sense for fleet operators in distribution, manufacturing, and warehouse industries.
+Building Better Electric Material Handling Fleets
+Plug created the first commercial market for fuel cells in material handling applications. Today, Plug has more than 100 material handling fuel cell products for every configuration, in fleet sizes ranging from 20 to 14,000.
+Plug fuel cells are drop-in battery replacements in existing material handling fleets, making it possible for fleet operators to switch out their batteries for the last time. Plug also supplies the green hydrogen to keep this industrial equipment running 24/7 and truly emission free.
+Learn More About Fuel Cells for Material Handling
+Webinar – Eco-Efficiency Unleashed: Exploring a Customer Perspective of Integrating Hydrogen into Supply Chain Operations
+Watch Now
+Turnkey Solutions for Material Handling
+English
+Implementing Fuel Cells in Material Handling: Learning from Leaders
+English
+Leading the Charge: How a Fuel Cell Compares to a Lead-Acid Battery
+English| French| German| Spanish
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/contact-the-material-handling-team/
+
+For information on how we handle your personal data, please see our privacy policy here.
+"*" indicates required fields
+Accessibility Tools
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/fuel-cell-power/gendrive/series-1000-fuel-cells/
+
+Elevating Class 1 Forklift Power
+Bring lift truck performance to a new level with Plug’s GenDrive Class 1 fuel cell products for electric forklift power.
+The Return on Your Productivity is Profound
+Our electric Class 1 fuel cell products for forklift power exceed the demanding requirements of high-volume manufacturing, warehousing, and distribution operations. By using fuel cells, your trucks will transport more heavy pallets faster, improving productivity.
+Battery Droop is a Problem of the Past
+When using GenDrive fuel cells for your Class 1 forklift power needs, you’ll see full power for the entire shift. Similar to an on-road vehicle, as long as hydrogen fuel is in the tank, your fleet runs at maximum performance. And, when it’s time to refuel, operators complete the activity in just a few minutes, compared to 12 to 15 minutes for battery charging.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/fuel-cell-power/gendrive/series-2000-fuel-cells/
+
+Class 2 Forklift Power Has Never Been Better
+GenDrive Series 2000 Class 2 fuel cell products elevate vehicle performance to exceed the demanding requirements of high-volume manufacturing, warehousing, and distribution operations. Your material handling fleet will lift heavy loads with consistent speed, maintaining momentum during an entire shift, even in environments with temperatures as low as -22oF.
+GenDrive Class 2 Fuel Cell Products for 24V, 36V, and 48V Zero-Emission Truck Options
+Leverage our fuel cell solutions for the following material handling assets:
+- Stand-Up Counterbalanced Trucks
+- Stand-Up Reach Trucks
+- Automated Guided Vehicles
+- Man-Up Orderpickers
+- Turret Trucks
+Powerful Benefits GenDrive Fuel Cell Products
+GenDrive Series 2000 Class 2 fuel cell products enable optimal truck performance. Our proven combination of fuel cell stack and advanced power management technology balances the need for rapid acceleration with operational efficiency, all while generating zero greenhouse gas emissions.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/fuel-cell-power/gendrive/series-3000-fuel-cells/
+
+Flexibility Puts You in the Driver’s Seat
+GenDrive Class 3 fuel cell-powered pallet jacks run at full power, maintaining rapid momentum during an entire shift, even in environments with temperatures as low as -22oF. Time spent dealing with depleted batteries is now regained for revenue-generating work.
+Class 3 Fuel Cell Products
+Apply our fuel cell technology solutions to your material handling fleet, including:
+- End Rider Pallet Trucks
+- Center Rider Pallet Trucks
+- Automated Guided Vehicles
+- Tow Tractors
+One Truck, One Fuel Cell. It’s That Simple.
+GenDrive Series 3000 fuel cell products offer drop-in options for all your Class 3 material handling vehicles. The fuel cell’s constant voltage results in less wear and tear on the truck’s electronics, reducing the need for service and maximizing uptime. You only pay for the power you need – no more and no less.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/fuel-cell-power/gensure-stationary-power-systems/
+
+Predictable Power in an Unpredictable World
+Plug has been deploying fuel cells for 25 years. Now, we’re using that same proven technology in stationary applications. Discover how Plug can provide backup power for mission-critical applications, emergency supply, and backup generation; intermittent power for EV charging, renewable firming, and grid transformation; and primary power for electrically isolated locations.
+With Plug, customers keep their high-priority and power-intensive applications up and running, without environmental impact.
+Brochures About our Fuel Cell Power Systems
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/fuel-cell-power/gensure-stationary-power-systems/gensure-low-power/
+
+Hydrogen Fuel Cells for Low-Power Applications
+Our GenSure fuel cells for low-power applications are fully integrated fuel cell systems optimized for backup power generation in scalable blocks of 200W, 1,100W, and 2,500W of power.
+Reliable Fuel Cell Backup Power When It’s Needed
+Intended to operate as a valued component of a DC plant, GenSure low-power products provide robust, reliable backup power. Our GenSure fuel cell products are zero-emission clean energy solutions fueled by industrial-grade hydrogen. They can affordably provide hundreds of hours of runtime between refueling visits and many years of service for critical equipment. GenSure is the favorable choice regarding total cost of ownership compared to traditional backup power sources.
+Key Features
+GenSure low-power fuel cells offer a weight ratio of approximately 54% of the pounds per square inch of the mass of a generator, and 20% of the pounds per square inch of a similarly-sized battery-only solution with a much longer runtime. Noise is approximately 20 decibels lower, and the vibration is non-existent when compared to a generator, making the fuel cell a rooftop winner.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.plugpower.com/hydrogen/
+
+Building the Clean Hydrogen Economy
+Hydrogen fuel plays an important role in the quest for sustainable, efficient, energy solutions in the global move to the electrification of everything.
+Leveraging the Most Abundant Element in the Universe
+Plug is building an end-to-end green hydrogen ecosystem to make hydrogen economical, easy, and everywhere.
+This ecosystem includes electrolyzers to make green hydrogen and everything else needed to liquefy, store, transport, dispense, and convert hydrogen to carbon-free electricity.
+Hydrogen Adoption
+Better for Your Bottom Line
+Hydrogen power allows for efficient operation, faster refueling, and longer range, saving time and money over incumbent solutions.
+Plug Hydrogen at Work
+Electrolyzer Hydrogen
+Onsite hydrogen production is your best solution when your demand for hydrogen and access to low-cost energy are high.
+Read MoreHydrogen Liquefiers
+Plug’s hydrogen liquefiers make clean, reliable fuel economical for our customers and yours.
+Read MoreCryogenic Solutions
+Plug offers unmatched mobile cryogenic solutions that provide the highest levels of performance.
+Read MoreLiterature & Resources
+Learn more about our fuel cell products. Browse our literature and resources.
+Learn More
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,406 @@
+ROOT: https://icarusrt.com/
+SCRAPED_AT_UTC: 2026-02-11T20:13:18.718098Z
+PAGES_INCLUDED: 16
+
+================================================================================
+
+URL: https://icarusrt.com/
+
+Solar. Optimized. Double energy output. Cut payback period and CO2 emissions in half.
+Icarus integrates photovoltaic (PV) and solar thermal technologies to enhance performance, harness waste heat, cogenerate hot water and store energy for use on-demand.
+Trusted by partners and clients worldwide
+Optimize solar system performance.
+- 12-18% More Power Output
+- 210 MT CO2 Reduction/Year per 100-kW
+- 50% Energy Cost Savings
+- Extended Panel Lifetime and Lifetime Performance
+Intuitive Software that manages it all.
+Icarus integrates photovoltaic (PV) and solar thermal technologies to enhance performance, harness waste heat, cogenerate hot water and store energy for use on-demand.
+
+--------------------------------------------------------------------------------
+
+URL: https://icarusrt.com/about/
+
+We prioritize our customers, tailoring our innovations to meet their needs.
+Transforming solar energy.
+Transforming solar energy.
+Transforming solar energy.
+Twice the power, half the footprint.
+Twice the power, half the footprint.
+Twice the power, half the footprint.
+About Icarus RT
+Our Mission
+To harness the collective power of our team, customers, and community to deliver reliable, affordable, and sustainable energy solutions worldwide. We are dedicated to excellence, driving innovation, and focusing on the creation of transformative products and services.
+Our Values
+Customer Centricity
+01
+Innovate Relentlessly
+We pursue continuous improvement and breakthroughs in technology.
+02
+Lead with Humility
+We lead by example, valuing collaboration and respect.
+03
+Change the World One Solar Panel at a Time
+We are committed to making a global impact through solar energy.
+04
+Meet Our Leadership Team
+Mark Anderson
+40 years of experience in the power industry and was the Project Director for the 29 MW Solar Chevron Plant, specializing in innovative hybrid photovoltaic/thermal solar plus storage systems.
+Gourav Sharma
+Operations executive with 15+ years of startup leadership and a decade in the energy sector. Passionate about green technology, with a deep experience in strategic business management to drive efficiency, foster team development, and champion innovation within high-growth companies.
+Doris Lu-Anderson
+Marketing and management professional dedicated to economic empowerment, education, environmental sustainability, and health initiatives.
+Raju Thomas
+Raju leads the development and commercialization of innovative solar energy solutions, drawing on deep expertise in product strategy, R&D, and regulatory leadership. His experience spans high-impact roles at Dexcom, Leica Biosystems, and CareFusion, where he successfully brought breakthrough technologies to market.
+Nicole Moser
+Nicole Moser leads Icarus RT's brand strategy, market positioning, and growth initiatives. With a proven track record in B2B marketing, she brings a sharp focus on storytelling, scalability, and results-driven campaigns.
+Anna Kulow
+Climate and Energy Grants Specialist with extensive experience in developing strategies that prioritize people and the planet, currently focusing on advancing a just transition to clean energy and a sustainable future.
+Our Advisory Board
+David Arenas
+Advisory Board Member
+Charles Tu, Ph.D.
+Advisory Board Member
+Eric Gomez
+Advisory Board Member
+Gary Evereklian
+Advisory Board Member
+Gregory Flynn
+Advisory Board Member
+Jim Wolf
+Advisory Board Member
+Matthew Pena
+Advisory Board Member
+May Akrawi
+Advisory Board Member
+Matthew Faria
+Advisory Board Member
+Philip Topham
+Board of Directors, Advisory Board Member
+Diversity, Equity, and Inclusion (DEI) Statement
+Icarus RT, Inc. embraces diversity across our entire organization, including our board of directors, employees, and advisors. We believe in cultivating an inclusive environment where diverse perspectives thrive, fostering creativity and innovation essential for a cleantech research and development startup. Our commitment extends to empowering U.S. military veterans, embracing their leadership skills to strengthen our team, as highlighted by this article. We continuously strive to enhance our diversity, recognizing it as a cornerstone of our success.
+Our Culture
+Icarus RT, Inc. is a melting pot of diversity and innovation. Our culture is one of passion, mutual success, and respect for the military community. We value the unique contributions of each team member, fostering a workplace where learning and growth are celebrated.
+Our Vision
+Our vision is to be stewards of the Earth, pioneering new pathways to power our world with clean energy. We are dedicated to creating a future where energy is not only efficient and cost-effective but also sustains the planet for generations to come.
+
+--------------------------------------------------------------------------------
+
+URL: https://icarusrt.com/2024/08/21/icarus-rt-partners-with-epri-and-con-edison-to-drive-solar-innovation/
+
+Icarus RT is excited to announce its collaboration with the Electric Power Research Institute (EPRI) and Con Edison to enhance the future of hybrid solar plus storage systems. As solar technology continues to advance, this partnership aims to optimize solar energy efficiency, reduce CO2 emissions, and tackle energy storage challenges. By leveraging Icarus RT’s cutting-edge hybrid photovoltaic/thermal (PV/T) technology, this partnership promises to deliver more sustainable and cost-effective energy solutions for commercial and industrial sectors.
+EPRI’s commitment to cleaner, reliable power aligns with Icarus RT’s mission to revolutionize solar energy through their unique technology, which increases energy output by 12-18% and captures thermal energy for storage. The collaboration focuses on deploying innovative solutions to meet energy demand and address grid reliability challenges. Con Edison’s active role in this partnership ensures that the new technology is tested in real-world conditions, setting the stage for wide-scale adoption.
+This project builds on the California Duck Curve challenge, where solar energy production often misaligns with peak demand. Icarus’ hybrid solution mitigates this issue by storing solar energy for use during high-demand periods, thus lowering utility costs and increasing energy resilience. The joint efforts will pave the way for cleaner, more efficient power across multiple sectors.
+For more on this exciting collaboration, read EPRI’s official press release here.
+
+--------------------------------------------------------------------------------
+
+URL: https://icarusrt.com/quartet/
+
+With Quartet, you can now maximize your energy efficiency and realize:
+Introducing
+Quartet by Icarus RT
+The Quartet System enhances photovoltaic (PV) panels’ efficiency and integrates thermal energy storage for superior performance.
+Industries
+The Icarus Quartet serves several key markets:
+Performance
+Optimize Your Solar Energy.
+More Energy per Panel
+Quartet doubles the energy output of each solar panel, maximizing the efficiency and impact of your solar investment.
+Enhanced Solar Performance
+A significant boost in solar power generation with a 12-18% increase in photovoltaic output, thanks to our advanced panel cooling technology.
+Faster Average ROI
+A faster return on investment, which delivers a payback period of just 3.2 years, compared to the typical 6-7 years for standard solar plus storage solutions.
+Intellectual Property
+Proprietary Heat Extractor
+Our advanced heat extractors attach seamlessly to existing PV panels, reducing surface temperatures by up to 18°C, significantly boosting power output by 12-18%. This technology not only enhances electrical efficiency but also captures waste heat, which is then stored for later use, providing a dual benefit of energy generation and thermal storage. Click here to read the patent.
+Hybrid PV/T Conversion
+Our technology converts standard solar PV panels into hybrid PV/thermal systems, maximizing energy capture and efficiency.
+Enhanced Power & Hot Water Generation
+Increase your solar panel power by 12-18% while simultaneously generating hot water, all from the same system.
+Smart Control System that manages it all.
+Icarus RT’s proprietary control software optimizes energy use by automatically managing when to store, sell, or use the captured thermal energy. This intelligent system maximizes your energy savings by monitoring utility rates, solar output, and demand in real-time. By reducing peak demand charges and ensuring optimal energy use, customers experience a significantly faster ROI—as low as 3 years compared to traditional systems. This intelligent energy management delivers better performance and greater financial benefits, all while simplifying your solar energy operations.
+Product Specifications
+Discover how Icarus RT’s hybrid PV-Thermal system delivers more energy per square foot, faster ROI, and dual-output performance. Download the spec sheet to explore system details, performance data, and integration options for your next project.
+Frequently Asked Questions
+Can the Icarus system be retrofitted to existing PV installations?
+Yes, the Icarus Quartet System is designed to be easily retrofitted to existing PV installations, enhancing their efficiency without the need for a complete system overhaul.
+What kind of maintenance does the Icarus system require?
+The Icarus system requires minimal maintenance. Regular inspections and occasional servicing of the heat extractor and thermal storage components will ensure optimal performance.
+Is the Icarus system compatible with all PV panels?
+Our heat extractors are designed to fit most off-the-shelf 300W PV panels. We strive for compatibility with all major brands, but specific assessments can be conducted if needed.
+What is the expected lifetime of the Icarus Quartet System?
+The Icarus system is built to last, with an expected operational lifetime of 20 years.
+How does the Icarus system help with peak energy demand?
+The system stores thermal energy during the day and can provide power or hot water on demand, reducing peak energy costs and easing the load on the grid during high-demand periods.
+How does the Icarus Quartet System work?
+The Icarus Quartet System cools PV panels using a proprietary heat extractor, increasing their power output by 12-18%. The system also stores the extracted thermal energy, which can be used for hot water or converted into additional electricity on demand.
+
+--------------------------------------------------------------------------------
+
+URL: https://icarusrt.com/resources/
+
+Featured Headlines
+Resources
+Check out the latest news from around the world
+2024-2025 Outlook
+“Only Icarus competes across all three applications: Cool PV to increase output, thermal storage, and optimize power vs. heat storage.”
+Interested in investing in Icarus?
+With the U.S. and other regions offering incentives and adopting aggressive renewable energy targets, the demand for efficient and reliable solar energy solutions is set to rise sharply. Icarus RT is at the forefront of this transformation, offering technology that not only meets but exceeds the demands of a rapidly growing market.
+$278B
+Total Addressable Market
+$26B
+Serviceable Available Market
+$1B
+Serviceable Obtainable Market
+
+--------------------------------------------------------------------------------
+
+URL: https://icarusrt.com/rebrand/resources/
+
+Featured Headlines
+Resources
+Check out the latest news from around the world
+2024-2025 Outlook
+“Only Icarus competes across all three applications: Cool PV to increase output, thermal storage, and optimize power vs. heat storage.”
+Interested in investing in Icarus?
+With the U.S. and other regions offering incentives and adopting aggressive renewable energy targets, the demand for efficient and reliable solar energy solutions is set to rise sharply. Icarus RT is at the forefront of this transformation, offering technology that not only meets but exceeds the demands of a rapidly growing market.
+$278B
+Total Addressable Market
+$26B
+Serviceable Available Market
+$1B
+Serviceable Obtainable Market
+
+--------------------------------------------------------------------------------
+
+URL: https://icarusrt.com/contact/
+
+Skip to main content
+Check out our latest collaboration with EPRI.
+Menu
+Home
+Products
+Company
+Resources
+News
+Documents
+Investors
+Contact
+Close Search
+Speak with sales or learn more.
++1 (760) 889-1327
+1892 Palisades Dr
+Carlsbad, CA 92008
+Close Menu
+Home
+Products
+Company
+Resources
+News
+Documents
+Investors
+Contact
+
+--------------------------------------------------------------------------------
+
+URL: https://icarusrt.com/quartet
+
+With Quartet, you can now maximize your energy efficiency and realize:
+Introducing
+Quartet by Icarus RT
+The Quartet System enhances photovoltaic (PV) panels’ efficiency and integrates thermal energy storage for superior performance.
+Industries
+The Icarus Quartet serves several key markets:
+Performance
+Optimize Your Solar Energy.
+More Energy per Panel
+Quartet doubles the energy output of each solar panel, maximizing the efficiency and impact of your solar investment.
+Enhanced Solar Performance
+A significant boost in solar power generation with a 12-18% increase in photovoltaic output, thanks to our advanced panel cooling technology.
+Faster Average ROI
+A faster return on investment, which delivers a payback period of just 3.2 years, compared to the typical 6-7 years for standard solar plus storage solutions.
+Intellectual Property
+Proprietary Heat Extractor
+Our advanced heat extractors attach seamlessly to existing PV panels, reducing surface temperatures by up to 18°C, significantly boosting power output by 12-18%. This technology not only enhances electrical efficiency but also captures waste heat, which is then stored for later use, providing a dual benefit of energy generation and thermal storage. Click here to read the patent.
+Hybrid PV/T Conversion
+Our technology converts standard solar PV panels into hybrid PV/thermal systems, maximizing energy capture and efficiency.
+Enhanced Power & Hot Water Generation
+Increase your solar panel power by 12-18% while simultaneously generating hot water, all from the same system.
+Smart Control System that manages it all.
+Icarus RT’s proprietary control software optimizes energy use by automatically managing when to store, sell, or use the captured thermal energy. This intelligent system maximizes your energy savings by monitoring utility rates, solar output, and demand in real-time. By reducing peak demand charges and ensuring optimal energy use, customers experience a significantly faster ROI—as low as 3 years compared to traditional systems. This intelligent energy management delivers better performance and greater financial benefits, all while simplifying your solar energy operations.
+Product Specifications
+Discover how Icarus RT’s hybrid PV-Thermal system delivers more energy per square foot, faster ROI, and dual-output performance. Download the spec sheet to explore system details, performance data, and integration options for your next project.
+Frequently Asked Questions
+Can the Icarus system be retrofitted to existing PV installations?
+Yes, the Icarus Quartet System is designed to be easily retrofitted to existing PV installations, enhancing their efficiency without the need for a complete system overhaul.
+What kind of maintenance does the Icarus system require?
+The Icarus system requires minimal maintenance. Regular inspections and occasional servicing of the heat extractor and thermal storage components will ensure optimal performance.
+Is the Icarus system compatible with all PV panels?
+Our heat extractors are designed to fit most off-the-shelf 300W PV panels. We strive for compatibility with all major brands, but specific assessments can be conducted if needed.
+What is the expected lifetime of the Icarus Quartet System?
+The Icarus system is built to last, with an expected operational lifetime of 20 years.
+How does the Icarus system help with peak energy demand?
+The system stores thermal energy during the day and can provide power or hot water on demand, reducing peak energy costs and easing the load on the grid during high-demand periods.
+How does the Icarus Quartet System work?
+The Icarus Quartet System cools PV panels using a proprietary heat extractor, increasing their power output by 12-18%. The system also stores the extracted thermal energy, which can be used for hot water or converted into additional electricity on demand.
+
+--------------------------------------------------------------------------------
+
+URL: https://icarusrt.com/contact
+
+Skip to main content
+Check out our latest collaboration with EPRI.
+Menu
+Home
+Products
+Company
+Resources
+News
+Documents
+Investors
+Contact
+Close Search
+Speak with sales or learn more.
++1 (760) 889-1327
+1892 Palisades Dr
+Carlsbad, CA 92008
+Close Menu
+Home
+Products
+Company
+Resources
+News
+Documents
+Investors
+Contact
+
+--------------------------------------------------------------------------------
+
+URL: https://icarusrt.com/category/accelerator-programs-strategic-partners/
+
+Icarus RT Partners with EPRI and Con Edison to Drive Solar Innovation Accelerator Programs & Strategic Partners Icarus RT Partners with EPRI and Con Edison to Drive Solar Innovation
+Incubatenergy Labs Selects 20 Global Startups for Electrification 2024 Pitch Day Accelerator Programs & Strategic Partners Incubatenergy Labs Selects 20 Global Startups for Electrification 2024 Pitch Day
+Rice Alliance names 15 startups to its cleantech accelerator Accelerator Programs & Strategic Partners Rice Alliance names 15 startups to its cleantech accelerator
+
+--------------------------------------------------------------------------------
+
+URL: https://icarusrt.com/author/7fzi3/
+
+Icarus RT Partners with EPRI and Con Edison to Drive Solar Innovation Accelerator Programs & Strategic Partners Icarus RT Partners with EPRI and Con Edison to Drive Solar Innovation
+Incubatenergy Labs Selects 20 Global Startups for Electrification 2024 Pitch Day Accelerator Programs & Strategic Partners Incubatenergy Labs Selects 20 Global Startups for Electrification 2024 Pitch Day
+Rice Alliance names 15 startups to its cleantech accelerator Accelerator Programs & Strategic Partners Rice Alliance names 15 startups to its cleantech accelerator
+
+--------------------------------------------------------------------------------
+
+URL: https://icarusrt.com/2024/08/13/incubatenergy-labs-selects-20-global-startups-for-electrification-2024-pitch-day/
+
+EPRI’s Incubatenergy Labs (IEL) program has announced that 20 clean energy startup companies have been selected to participate next month in its pitch day, presenting pilot project concepts to energy industry stakeholders. The startups were chosen from more than 200 applicants to demonstrate at EPRI’s Electrification 2024 International Conference & Exposition in Savannah, Ga.
+In its sixth year, IEL is built for startups to engage EPRI and energy companies in demonstration projects. The program connects companies leading the advancement of electrification, decarbonization, and grid modernization with energy stakeholders to demonstrate and scale those innovations.
+IEL’s 2024 Pitch Day is scheduled March 12-13 in the Innovation Theater at the Electrification 2024 conference. Conference and registration information is available here: Home (electrification2024.com)
+“The companies invited to Pitch Days at EPRI Electrification have a unique opportunity to pitch their demonstration concept directly to innovation scouts from an international group of energy providers,” said Dan Killoren, program manager of EPRI’s Global Innovation Hub. “These innovation leaders work with EPRI experts to select demonstration projects that address industry needs and can be executed in a rapid, proof-of-concept manner.”
+IEL Pitch Day finalists include:
+Buzz Solutions (Palo Alto, Calif.)
+CAELUS S.r.l. (Rome, Italy)
+CarbonBridge Inc. (San Jose, Calif.)
+ChargerHelp! (Los Angeles, Calif.)
+DG Matrix (Raleigh, N.C.)
+Enerza (Berkeley, Calif.)
+Granular Energy (Paris, France)
+Gridspertise (Andover, Mass.)
+Icarus RT, Inc. (Carlsbad, Calif.)
+it’s electric inc. (Brooklyn, N.Y.)
+Looq AI (San Diego, Calif.)
+Metroscope (Paris, France)
+Moon Five Technologies (Berkeley, Calif.)
+NuclearN (Phoenix, Ariz.)
+Piclo (London, United Kingdom)
+Power to Hydrogen (Columbus, Ohio)
+Sensatek Propulsion Technology (Daytona Beach, Fla.)
+SkyNano (Louisville, Tenn.)
+Utilidata (Providence, R.I.)
+Zitara (San Francisco, Calif.)
+This summer, EPRI will announce which startups were selected to run pilot projects and IEL will then hold demonstration days this fall.
+Read the full article here: https://www.tdworld.com/electrification/article/21283921/electric-power-research-institute-epri-incubatenergy-labs-selects-20-global-startups-for-electrification-2024-pitch-day
+
+--------------------------------------------------------------------------------
+
+URL: https://icarusrt.com/category/awards/
+
+Skip to main content
+Check out our latest collaboration with EPRI.
+Menu
+Home
+Products
+Company
+Resources
+News
+Documents
+Investors
+Contact
+Close Search
+Awards
+1
+American Made Solar Prize
+Awards
+American Made Solar Prize
+Close Menu
+Home
+Products
+Company
+Resources
+News
+Documents
+Investors
+Contact
+
+--------------------------------------------------------------------------------
+
+URL: https://icarusrt.com/2025/05/20/american-made-solar-prize/
+
+Icarus RT was proud to be named a winner of the “Ready!” Stage of the Department of Energy’s prestigious American-Made Solar Prize — earning a $50,000 award and advancing to the “Set!” Stage of the competition.
+What This Means:
+Icarus RT’s innovation has been recognized at the national level for its potential to transform solar energy performance and economics.As a “Set!” Stage competitor, we are now in the running for additional cash awards up to $100,000 and $90,000 in National Lab vouchers to accelerate our product validation and commercial scale-up.Our submitted 5-minute pitch video and letters of support demonstrate growing traction from industry stakeholders and partners.
+Why It Matters:
+Traditional solar panels waste more than half of their potential energy as heat. Icarus RT’s heat extraction technology converts that lost heat into value — enhancing electricity output, reducing CO₂ emissions, and extending panel lifespan. Our selection in this competitive DOE program affirms the market readiness and technical viability of our solution.This milestone strengthens our visibility and opens new collaboration pathways with national labs, investors, and clean energy leaders.
+
+--------------------------------------------------------------------------------
+
+URL: https://icarusrt.com/2024/08/13/rice-alliance-names-15-startups-to-its-cleantech-accelerator/
+
+clean energy program has announced its third cohort and named the 15 startups that were accepted into to the accelerator.
+The Rice Alliance’s Clean Energy Accelerator revealed its 2023 cohort that will be in the 10-week program that kicks of July 25. CEA, a hybrid program based out of the Ion, will wrap up with a Demo Day alongside the 20th Annual Rice Alliance Energy Tech Venture Forum on September 21.
+The accelerator, led by Kerri Smith and Matt Peña, provides the cohort with programming, networking, and mentorship from six executives in residence — Nathan Ball, Fatimah Bello, Michael Egan, Michael Evans, Stephen Sims, and Deanna Zhang.
+Since the Clean Energy Accelerator launched in 2021, the program has supported 29 ventures that have gone on to raise over $75 million in funding, identified and launched pilots, and created jobs, According to Rice, many of these companies relocated to Houston.
+Class 3, which has already raised $23.3 million in funding, hails from four countries and seven states and are addressing a range of energy solutions — from advanced materials, carbon management/capture, energy storage, hydrogen, solar energy, wind energy, and more. They were selected by a screening committee consisting of more than 50 industry experts, investors, energy leaders, and entrepreneurs.
+The third class, as announced by Rice Alliance, is as follows:
+Mexico City-basedTycho Solutionssupports clean energy project developers by saving time and money during the critical project-siting process.
+Ayrton Energy, based in Alberta, Canada,provides hydrogen storage technology that improves hydrogen transport logistics for distributed energy applications.
+Headquartered in Massachusetts,Carbix transforms atmospheric carbon dioxide emissions into building materials using proprietary reactor technology.
+Houston-based CryoDesalination lowers the carbon footprint and cost of removing salts and heavy metals from water and industrial effluents.
+Digital Carbon Bank,based in Alberta, Canada, provides a carbon solution tailored for the energy industry.
+Chandler, Arizona-basedEarthEn provides compressed carbon dioxide-based energy storage and artificial intelligence solutions allowing grid owners/operators to be completely renewable.
+H Quest Vanguard, from Pittsburgh, provides green hydrogen at a five to 10 times lower cost to users of natural gas to decarbonize industrial heat.
+Calgary, Alberta-based Highwood Emissions Management’sSaaS platform allows oil and gas companies to understand their emissions and develop robust plans to reduce them.
+Icarus RT,from San Diego, California, improves photovoltaic efficiency while enabling useful heat energy storage.
+Los Altos, California-based Khepra has developed a chemical manufacturing platform for the low-cost, sustainable production of agrochemicals.
+Binghamton, New York-based Natrion’s electrolyte is a drop-in solid-state battery component that can be rapidly implemented into existing batteries.
+Oceanways, based in London, provides low-cost, flexible and scalable zero-emission underwater “virtual pipelines” to energy producers.
+Relyion Energy, from Santa Clara, California, is developing battery usage and intelligence solutions with deeper data and insights for retired electric vehicle batteries.
+Massachusetts-based Triton Anchor provides a more cost-effective anchoring solution for offshore clean energy with minimal environmental impact.
+TROES, from Markham, Ontario, provides a 4-in-1 microgrid solution with integrated hardware and software for a streamlined energy storage experience.
+Read the full article here: https://houston.innovationmap.com/rice-alliance-clean-energy-accelerator-2023-cohort-2661606661.html
+
+--------------------------------------------------------------------------------
+
+URL: https://icarusrt.com/wp-login.php?redirect_to=https%3A%2F%2Ficarusrt.com%2F2024%2F08%2F21%2Ficarus-rt-partners-with-epri-and-con-edison-to-drive-solar-innovation%2F
+
+Log In
+Powered by WordPress
+Username or Email Address
+Password
+Remember Me
+Lost your password?
+← Go to Icarus RT, Inc.
+
+--------------------------------------------------------------------------------

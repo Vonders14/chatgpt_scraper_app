@@ -1,0 +1,375 @@
+ROOT: https://omnidian.com/
+SCRAPED_AT_UTC: 2026-02-11T20:24:14.501368Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://omnidian.com/
+
+The industry’s trusted performance assurance provider for solar and battery storage performance
+Whether you’re expanding into new territories or scaling existing fleets, Omnidian’s local trusted teams and proprietary analytics give you the transparency and control you need to make vital performance decisions and drive rapid issue remediation—even where asset density is low.
+Skip to ContentDriving > $6M / yr in avoided O&M costs
+Backed by our industry-leading performance guarantee
+Best in class TTR across 48 states, D.C., & Puerto Rico
+For developers and IPPs requiring complete control, corporations and real estate investors seeking a proven playbook, and for asset managers building scale—Omnidian is your single-source, end-to-end provider for solar and battery storage assets; trusted by the nation’s leading renewable energy investors.
+In just six months of working with Omnidian, a prominent commercial solar developer saw a 14% increase in the average monthly performance index.
+A recent commercial portfolio analysis showed a 60% reduction in corrective maintenance. If we reduce the 6.06 truck roll average per MW* to just 2.37 (Omnidian average), that’s over $3,500 in savings per year.
+Access a robust library of clean energy intelligence, featuring podcast interviews, industry news, and articles packed with groundbreaking insights.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.omnidian.com/about/our-team/
+
+Sarah O’Brien (She/Her)
+Vice President, Field Service
+WHY I LOVE OMNIDIAN
+I love being part of Omnidian because we’re not just in the business of solar—we’re in the business of saving the planet. Every day, I get to contribute to a mission that supports the transition to clean, renewable energy at scale. It’s meaningful work with real impact. What makes it even more rewarding is the culture: this is a place where people bring passion, purpose, and a collaborative spirit to everything they do. We move fast, think big, and genuinely care—for our customers, our partners, and each other
+WHO AM I REALLY?
+I’m a mom to two teenage girls, a labradoodle named Connor, and a revolving cast of pets that keep life interesting. I love to cook (and feed people), clear my head outside, and believe that almost anything can be solved with a long walk and good music.
+Professionally, I’m a lifelong field service leader with a passion for building high-performing teams and solving complex operational challenges. I’ve spent my career in the trenches of retail, construction, real estate, and home services—where speed, quality, and a good sense of humor go a long way. I’m direct, data-driven, and a fan of dry wit.
+At the end of the day, I care about people, progress, and making work (and life) just a little bit better every day.
+WHAT MATTERS MOST TO ME
+What matters most to me is leaving things better than I found them—whether that’s a process, a team, a relationship, or a Saturday night dinner. I care deeply about doing meaningful work with good people, and creating an environment where others can thrive and grow.
+I believe in showing up with integrity, leading with clarity, and listening more than I speak (though I’ve learned that one over time). At work, I’m passionate about delivering results, but just as passionate about how we get there—collaboratively, with accountability, and a sense of humor intact.
+At home, what matters most is my family. My daughters keep me grounded and inspired, and remind me daily of the kind of example I want to set—strong, curious, kind, and a little fearless.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.omnidian.com/about/our-values/
+
+We delight our clients by solving real problems our clients are experiencing in the real world—and by removing friction and roadblocks in our clients’ journey with Omnidian.
+We trust our teammates to ask for help fast, identify opportunities, and respond quickly. Together, we win.
+Our employees are our most valuable resource, so we invest in their professional and personal growth, provide formal and informal mentorship, and prioritize internal candidates for opportunities.
+We know it takes collaboration and the courage to speak up to drive great results, faster than the competition. We reward thoughtful collaboration, courage, and measurable results.
+Both inside Omnidian and outside our company.
+We are honest and truthful in all of our dealings, and we do not deliberately mislead or deceive others by misrepresentations, overstatement, partial truths, selective omissions, or any other means.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.omnidian.com/about/the-experience/
+
+Our team of solar vets and data scientists work side by side to engineer the industry’s finest end-to-end ownership experience.
+No other team offers our combination of cutting-edge real-time performance analytics and 5-star rated live customer support.
+Our performance analytics lead the industry in detection and diagnosis of underlying performance issues, even if they overlap — we identify the root cause and impact of each.
+We coordinate your service, eliminate the hassle, and keep you informed. Our nationwide network of qualified field service professionals provides the support you need when you need it.
+Our year-end energy guarantee provides peace of mind and protects your ROI.
+With a strong service culture and the highest standards for ethical conduct, our award-winning team is dedicated to exceeding your highest expectations.
+Take it from our clients. We have the highest 5-star Google ratings in the entire industry, plus scores of client endorsements.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.omnidian.com/about/technology/
+
+Built specifically to monitor and maintain your system. Omnidian’s unique collaboration between solar experts, software experts, and data scientists is an industry first. The resulting state-of-the-art advances in asset monitoring, diagnostics, and remediation drive unprecedented insights and unparalleled operational efficiencies for our clients.
+Multi-phase analytics and proprietary machine learning models that can detect, diagnose, and prioritize the important issues while cutting through all the noise. Our technology can detect hardware, communication, and environmental issues, such as soiling, shading, and snow, including the individual impact of multiple issues.
+Our technology platform monitors your system(s) 24 hours a day, 7 days a week, 365 days a year. The platform processes every data point as it arrives, executing our entire suite of analytics within seconds. Finally, it has a fault-tolerant design that detects network and machine hiccups (common in the IoT space) and then automatically and gracefully recovers. All of these together means a system you can rely on.
+We care about your privacy and will never share or sell your data to third parties. Our software and internal processes are designed to keep your data private and secure—all developed under an internationally recognized information security and cybersecurity program.
+With over 380,000 years of asset data, our technology covers hundreds of thousands of assets across the country and gives us unprecedented visibility into the factors that impact long-term system performance (including module manufacturer and micro-climates). We understand and can quantify system and fleet performance, with energy waterfalls and comparisons between actual energy, weather-adjusted energy, and pro-forma budget models.
+For system owners, our asset — or portfolio-level — energy guarantee reimburses you for covered energy shortfalls at year-end. Downtime? Bad weather? No problem, we cover your system all year long.
+Omnidian’s unique collaboration between solar experts, software engineers, and data scientists across over thousands of megawatts of commercial and residential solar power assets has resulted in significant advances in monitoring, diagnostics and remediation of solar assets, driving unprecedented insights and significant operational efficiencies.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.omnidian.com/about/mission-vision/
+
+Our mission statement is held closely by every member of the Omnidian family. It’s not just something we say or frame on the wall. It’s something we live and work by as we create community and provide superior care for our clients.
+After our business plan was successfully launched in 2016, we paused to ask each member of our team some important questions: Why are you here? What makes this a special place? Why are you proud of the work we do together?
+The answers we received revealed astounding alignment. We were united in our mission to protect and accelerate investments in clean energy. We wanted to be the first in our industry to fill a growing need in solar — the post-installation experience — and be the best at it for the long-term.
+More importantly, we then committed to honor the three cultural factors that still drive our success today:
+– Simon Sinek
+We aspire to create a better, more sustainable future for our environment and our planet. But our aspirations aren’t just professional—they’re personal.
+Our company mission, vision, and values are the foundation of our culture. They define our true north, drive our business objectives, and guide our actions—as individuals and as a whole. Collectively, they define the brand experience we call “Omnidian.”1
+We extend our promise to partner with three key constituencies for a sustainable future:
+Learn about our Community Engagement
+1 The name Omnidian is a Latin mash-up from the word Custodian, and the Latin word for all things: “Omni.” Omnidian. The custodian of all things.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.omnidian.com/about/omnidian/
+
+About Omnidian
+Our Vision: Transforming
+the Ownership Experience
+Omnidian was founded by solar industry vets and launched in 2016. Today, Omnidian is responsible for the oversight of over 2GW of energy generation.
+Omnidian was founded by solar industry vets and launched in 2016. Today, Omnidian is responsible for the oversight of over 2GW of energy generation.
+What sets Omnidian apart is that we’ve engineered a powerhouse peace-of-mind experience by committing ourselves to unparalleled excellence in three areas:
+
+--------------------------------------------------------------------------------
+
+URL: https://www.omnidian.com/about/
+
+About Omnidian
+Our Vision: Transforming
+the Ownership Experience
+Omnidian was founded by solar industry vets and launched in 2016. Today, Omnidian is responsible for the oversight of over 2GW of energy generation.
+Omnidian was founded by solar industry vets and launched in 2016. Today, Omnidian is responsible for the oversight of over 2GW of energy generation.
+What sets Omnidian apart is that we’ve engineered a powerhouse peace-of-mind experience by committing ourselves to unparalleled excellence in three areas:
+
+--------------------------------------------------------------------------------
+
+URL: https://omnidian.com/about/technology/whitepaper-highlights/
+
+Solar Monitoring Insights
+Machine Learning Drives Unprecedented Solar Efficiencies
+Remote Issue Diagnosis | Intelligent Service Responses | Workflow Management
+Remote Issue Diagnosis | Intelligent Service Responses | Workflow Management
+Omnidian’s unique collaboration between solar experts, software engineers, and data scientists across over thousands of megawatts of commercial and residential solar power assets has resulted in significant advances in monitoring, diagnostics and remediation of solar assets, driving unprecedented insights and significant operational efficiencies.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.omnidian.com/about/technology/whitepaper-highlights/
+
+Solar Monitoring Insights
+Machine Learning Drives Unprecedented Solar Efficiencies
+Remote Issue Diagnosis | Intelligent Service Responses | Workflow Management
+Remote Issue Diagnosis | Intelligent Service Responses | Workflow Management
+Omnidian’s unique collaboration between solar experts, software engineers, and data scientists across over thousands of megawatts of commercial and residential solar power assets has resulted in significant advances in monitoring, diagnostics and remediation of solar assets, driving unprecedented insights and significant operational efficiencies.
+
+--------------------------------------------------------------------------------
+
+URL: https://omnidian.com/about/the-experience/
+
+Our team of solar vets and data scientists work side by side to engineer the industry’s finest end-to-end ownership experience.
+No other team offers our combination of cutting-edge real-time performance analytics and 5-star rated live customer support.
+Our performance analytics lead the industry in detection and diagnosis of underlying performance issues, even if they overlap — we identify the root cause and impact of each.
+We coordinate your service, eliminate the hassle, and keep you informed. Our nationwide network of qualified field service professionals provides the support you need when you need it.
+Our year-end energy guarantee provides peace of mind and protects your ROI.
+With a strong service culture and the highest standards for ethical conduct, our award-winning team is dedicated to exceeding your highest expectations.
+Take it from our clients. We have the highest 5-star Google ratings in the entire industry, plus scores of client endorsements.
+
+--------------------------------------------------------------------------------
+
+URL: https://omnidian.com/about/technology/
+
+Built specifically to monitor and maintain your system. Omnidian’s unique collaboration between solar experts, software experts, and data scientists is an industry first. The resulting state-of-the-art advances in asset monitoring, diagnostics, and remediation drive unprecedented insights and unparalleled operational efficiencies for our clients.
+Multi-phase analytics and proprietary machine learning models that can detect, diagnose, and prioritize the important issues while cutting through all the noise. Our technology can detect hardware, communication, and environmental issues, such as soiling, shading, and snow, including the individual impact of multiple issues.
+Our technology platform monitors your system(s) 24 hours a day, 7 days a week, 365 days a year. The platform processes every data point as it arrives, executing our entire suite of analytics within seconds. Finally, it has a fault-tolerant design that detects network and machine hiccups (common in the IoT space) and then automatically and gracefully recovers. All of these together means a system you can rely on.
+We care about your privacy and will never share or sell your data to third parties. Our software and internal processes are designed to keep your data private and secure—all developed under an internationally recognized information security and cybersecurity program.
+With over 380,000 years of asset data, our technology covers hundreds of thousands of assets across the country and gives us unprecedented visibility into the factors that impact long-term system performance (including module manufacturer and micro-climates). We understand and can quantify system and fleet performance, with energy waterfalls and comparisons between actual energy, weather-adjusted energy, and pro-forma budget models.
+For system owners, our asset — or portfolio-level — energy guarantee reimburses you for covered energy shortfalls at year-end. Downtime? Bad weather? No problem, we cover your system all year long.
+Omnidian’s unique collaboration between solar experts, software engineers, and data scientists across over thousands of megawatts of commercial and residential solar power assets has resulted in significant advances in monitoring, diagnostics and remediation of solar assets, driving unprecedented insights and significant operational efficiencies.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.omnidian.com/insights/commercial-bess-preventive-maintenace-qa-qc/?utm_source=announcement-bar&utm_medium=click&utm_campaign=BESS&utm_content=blog
+
+Let’s cut to the chase. Your morning routine involves logging into multiple systems — DAS provider portals, inverter OEM dashboards, battery management systems, and your CMMS — just to get a complete picture of asset performance. Each platform offers a piece of the puzzle, but none deliver the unified visibility you need to make informed operational decisions.
+Then battery storage entered the chat.
+The value proposition is solid: demand charge management, frequency regulation revenue, and grid services that actually move the needle on IRR. But operationally? You’ve just inherited a whole new category of complexity.
+Now you’re coordinating between your solar O&M provider and that BESS specialist you finally found (after three months of searching), managing two sets of OEM warranty protocols that seem designed by committee, and navigating safety requirements that make OSHA look relaxed.
+When performance drops, the diagnostic fun really begins. Is it inverter clipping? Battery degradation? A BMS firmware bug? Good luck getting a definitive answer when you’re coordinating across multiple vendors with competing priorities.
+One Provider, Actual Answers
+This operational fragmentation is exactly what we’re solving with Omnidian’s Battery Energy Storage System (BESS) Preventive Maintenance plan and QA/QC service. With these solutions, we’re consolidating your solar + storage operation under one unified provider.
+For commercial developers, IPPs, and asset owners managing portfolios where every basis point of availability matters, this means real operational simplification:
+Unified Service Standards
+Our BESS PM plan delivers annual preventive maintenance that satisfies OEM warranty requirements while maintaining consistent safety protocols across your entire portfolio. We deploy our vetted field service technician armed with standardized procedures and documentation. Translation: every service report follows the same format, covers the same critical systems, and delivers the actionable data you actually need for asset management decisions.
+Warranty Peace-of-Mind
+One missed PM cycle and you’re looking at a voided warranty faster than you can say “thermal runaway.” Our team submits initial warranty claim information if needed, but ultimately we help you mitigate these claims by ensuring regular PM is scheduled and completed on time. Your team stays focused on portfolio optimization instead of worrying about losing your warranty.
+Deep Technical Expertise
+The learning curve on commercial BESS operations is steep, and training budgets are finite. Instead of building internal expertise from scratch, leverage our dedicated solar and storage engineering team. We’re already neck-deep in thermal management protocols, battery analytics, and grid interconnection requirements, so your operations team doesn’t have to be.
+QA/QC Support
+EPRI reports 72% of all BESS failures happen during construction, commissioning, or within the first two years of operation. Our QA/QC service can help identify potential issues as early as possible before or after handoff, and provide guidance on remediation. Ultimately, we aim to keep your BESS system in the 28% of safe, operational assets so you realize your energy and financial benefits as soon as possible.
+The Bottom Line
+Time to retire the vendor juggling act. We’re eliminating the operational overhead of managing fragmented solar and storage systems. With Omnidian as your partner, you get unified reporting visibility, standardized maintenance protocols, and a single point of accountability for your renewable energy infrastructure.
+Our BESS PM plan is available immediately for both integrated solar + storage projects and standalone battery installations.
+Ready to consolidate your BESS and solar PV operations under one roof?
+
+--------------------------------------------------------------------------------
+
+URL: https://www.omnidian.com/
+
+The industry’s trusted performance assurance provider for solar and battery storage performance
+Whether you’re expanding into new territories or scaling existing fleets, Omnidian’s local trusted teams and proprietary analytics give you the transparency and control you need to make vital performance decisions and drive rapid issue remediation—even where asset density is low.
+Skip to ContentDriving > $6M / yr in avoided O&M costs
+Backed by our industry-leading performance guarantee
+Best in class TTR across 48 states, D.C., & Puerto Rico
+For developers and IPPs requiring complete control, corporations and real estate investors seeking a proven playbook, and for asset managers building scale—Omnidian is your single-source, end-to-end provider for solar and battery storage assets; trusted by the nation’s leading renewable energy investors.
+In just six months of working with Omnidian, a prominent commercial solar developer saw a 14% increase in the average monthly performance index.
+A recent commercial portfolio analysis showed a 60% reduction in corrective maintenance. If we reduce the 6.06 truck roll average per MW* to just 2.37 (Omnidian average), that’s over $3,500 in savings per year.
+Access a robust library of clean energy intelligence, featuring podcast interviews, industry news, and articles packed with groundbreaking insights.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.omnidian.com/solutions/commercial-solar/
+
+Commercial Solar + Storage Performance, Elevated
+The plug and play partner trusted by the fastest-growing developers, IPPs, commercial asset owners, and clean energy investors. Your asset performance is our passion.
+- Increase Uptime
+- Reduce OpEx
+- Maximize ROI
+
+--------------------------------------------------------------------------------
+
+URL: https://www.omnidian.com/solutions/residential-solar-financing-providers/
+
+Residential Solar Financing Providers
+Partner for growth. The nation’s leading solar lease and loan providers trust Omnidian to protect their investments with industry-leading Performance Assurance, solar O&M, and Performance Guarantees.
+Partner for growth. The nation’s leading solar lease and loan providers trust Omnidian to protect their investments with industry-leading Performance Assurance, solar O&M, and Performance Guarantees.
+When you partner with us, our solar and battery storage experts become your customer experience team and our nationwide field service network becomes your service department—with all work fully managed and checked for quality by our service specialists. That’s what we call Performance Assurance.
+We start every system with a remote Performance Verification Test (PVT) to check the real-life performance against the expected energy output and find issues with system installation before they lead to customer delinquency. After PVT, we provide your customers with:
+If you offer performance guarantees for your customers, we take on the administration of activity tracking, true-up calculations, and billing coordination. We also have relationships with all major third-party billing companies for seamless integration. And, our Performance Guarantee liability support is an easy way to de-risk your investment further while ensuring your customers’ systems produce the energy they expect.
+Provide an added level of comfort for your customers and safeguard their energy storage system (ESS). We provide professional monitoring and end-to-end service coordination and give your customers direct access to our team of experts for all their solar and storage service needs.
+When you partner with Omnidian, comprehensive reporting gives you insights into the quality and performance of your assets from day one.
+See all asset performance and service activity in one place to ensure your portfolio is performing as expected.
+Get visibility into the installation quality and consistency of each installer.
+Safeguard your brand image.
+Our proprietary technology and award-winning team power remote alert identification, rapid remediation, and consistent on-time payments from your clients.
+With our solar experts as an extension of your team, you can ensure high customer satisfaction and 5-star reviews that not only de-risk your revenue streams, but also generate more referrals from happy customers.
+Our fully vetted nationwide service network provides rapid remediation, wherever your customers may be. From issue identification to resolution, we manage the entire process on your behalf.
+With over 125,000 residential assets under management, we know how equipment impacts profits. Every module, inverter, monitoring platform, and storage provider on our Approved Vendor List is vetted by our team based on the following criteria.
+Omnidian is contracted as either a primary or backup servicer to almost every leading solar lender, as well as many of the largest banks in the world. With Omnidian as your backup service provider, you won’t experience a gap in service coverage. We understand your complex needs and the importance of peak-performing assets and predictable payments.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.omnidian.com/insights/
+
+Unlock Data Insights 57 min
+Assure Performance 3 min
+Your BESS Operations Don’t Need More Vendors. They Need One Partner.
+We’ve launched our commercial BESS preventive maintenance plan & QA/QC services to ensure safe and effective operations.
+Read-
+-
+Decrease Costs 33 min
+Safeguarding Your CRE Portfolio from Hidden Solar Costs
+-
+Discover Our Story 2 min
+Omnidian Named to Global Cleantech 100 for Five Years Running
+-
+Increase ROI 34 min
+PowerBank’s Richard Lu on Tenant Demands Reshaping Energy Infrastructure
+-
+Assure Performance 4 min
+Tune in to The Future Current, An Essential Listen for Solar and Storage Developers
+-
+Assure Performance 3 min
+Your BESS Operations Don’t Need More Vendors. They Need One Partner.
+-
+Assure Performance 2 min
+Case Study: Soiling Can Reduce Energy Output by Up To 30%
+-
+Discover Our Story 1 min
+Omnidian Lands on the Inc. 5000 List at #14 in Energy
+-
+Assure Performance 2 min
+Driving Security and Protection in ABS Transactions
+-
+Unlock Data Insights 34 min
+Commercial Real Estate Has a Fake Data Center Problem
+-
+Reduce Risks 6 min
+These 4 Issues Kill Solar Performance
+-
+Reduce Risks 31 min
+How Title Insurance Shrinks CRE Solar Project Risks
+
+--------------------------------------------------------------------------------
+
+URL: https://www.omnidian.com/insights/industry/financier-investor/
+
+Assure Performance 3 min Your BESS Operations Don’t Need More Vendors. They Need One Partner. Developer/IPP
+Discover Our Story 2 min Omnidian Appoints Veteran Technology Finance Leader Evan Fein as Chief Financial Officer Developer/IPP
+Increase ROI 2 min There Will Be Sun: Texas’ $50 Billion Solar Land Boom | pv Magazine USA Developer/IPP
+Discover Our Story 2 min Omnidian Named to Global Cleantech 100 for Fourth Consecutive Year Developer/IPP
+Increase ROI 4 min 3 Ways to Maximize ROI from Solar Investments in Commercial Real Estate Financier/Investor
+Increase ROI 5 min So, You’re Ready to Invest in Renewable Energy Projects. Here’s Where to Start. | Solar Builder Financier/Investor
+Increase ROI 3 min What Every Commercial Lender Should Know about Solar on Mortgaged Property | Solar Power World Financier/Investor
+Increase ROI 2 min “Entire Fortune 500” Looking at Clean Energy Tax Credits | PV Tech Financier/Investor
+
+--------------------------------------------------------------------------------
+
+URL: https://www.omnidian.com/community-engagement/
+
+Community Engagement
+As a team, we are committed to bringing our vision to life through active engagement in our communities.
+Our WeGu (“We Guarantee”) group is a resource for all team members for information, guidance and support which bring our vision to life through community engagement.
+The Civic Action Committee fulfills our corporate commitment to provide thoughtful support to local BIPOC-led businesses and non-profits who are solving systemic issues within marginalized communities.
+Omnidian supports important social issues including but not limited to Black Lives Matter, Stop Asian Hate, LGBTQIA, and initiatives at the state and federal level addressing climate change and environmental issues.
+Our Speakers Program brings influential women, African American leaders, political and social influencers, and educators to a series designed to provide meaningful engagement with all team members.
+Past Speakers:
+We have partnered with institutions like Seattle Central College, University of Chicago, and TACT (Teaching The Autism Community Trades), a new internship program tailored to people with autism.
+It begins with our team! We hire to our culture which comes to life through our Mission, Vision and Values.
+We strongly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better product for our customers. We are committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. We value diversity and inclusion and are committed to ensuring our hiring and retention practices, as well as our office culture, reflects these values.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.omnidian.com/careers/
+
+At Omnidian we take pride in our recruiting process, and have a passion for finding great people who will elevate our culture and propel our mission. That requires real conversations with real people. Please be aware that we will never ask for personal details before an offer is made, and will never make an offer without going through a rigorous process. If you have any questions throughout your hiring process you can always email [email protected].
+We support and inspire one another with integrity, not ego.
+Our values inform all we do.
+We commit to ethical business practices with each other, our partners, and the planet.
+We celebrate the good things in life.
+Named 100 Best Companies to Work For seven years in a row (2018-2024), and one of America’s Most Innovative Companies (2025).
+We’ve also earned these honors, and more:
+“We Guarantee” or “WeGu” represents Omnidian’s dedication to diversity, inclusion, and equity within our company and employees.
+Omnidian Inc. prides itself on our core values, which guide our actions and shape our company culture. As individuals and as a policy, we treat everyone with dignity and respect. These values are more than just words — they are a commitment to act and uphold our values. We accomplish this through hiring and advancement, partnerships and suppliers, and services and product.
+Omnidian is committed to building a diverse and inclusive company and workplace culture. We believe that everybody deserves to work in an environment where they feel welcome, safe, and supported. To this end, we embody our values through everyday action and policy, and we hold each other accountable to our coworkers, clients, partners, and community.
+WeGu is a resource for information, guidance, and support. WeGu is a community of practice, that fosters discussion and inspires action.
+We think you should enjoy your job.
+We invest in our employees from day one, and our onboarding program was recognized by Lever as the best in the nation (2021).
+
+--------------------------------------------------------------------------------
+
+URL: https://support.omnidian.com/HelpCenter/s/?utm_source=website&utm_medium=main-nav&utm_campaign=US&utm_term=support
+
+Loading
+×
+Sorry to interrupt
+CSS Error
+Refresh
+
+--------------------------------------------------------------------------------
+
+URL: https://www.omnidian.com/commercial-client-support/
+
+If you are a current client, please contact your dedicated Portfolio Operations Manager or Client Success Manager.
+If you are a potential new client, please schedule a consultation here.
+Operation Center Hours
+Monday – Friday:
+5:00 a.m. – 5:00 p.m. Pacific Time
+8:00 a.m. – 8:00 p.m. Eastern Time
+Excluding national holidays.
+Headquarters
+Omnidian, Inc.
+506 2nd Ave
+2nd Floor
+Seattle, WA 98104
+
+--------------------------------------------------------------------------------
+
+URL: https://www.omnidian.com/solar-provider-support/
+
+The best way to get in touch with us is by responding to email communications that you have received from our field service team or through the partner portal. You may also reach out to our Operations Center.
+Monday – Friday:
+7:00 a.m. – 5:00 p.m. Pacific Time
+10:00 a.m. – 8:00 p.m. Eastern Time
+Excluding national holidays.
+Headquarters
+Omnidian, Inc.
+506 2nd Ave
+2nd Floor
+Seattle, WA 98104
+Are you a solar provider looking to work with Omnidian? Provide the below information and we will reach out to you with any current opportunities.
+
+--------------------------------------------------------------------------------
+
+URL: https://support.omnidian.com/HelpCenter/s/?utm_source=website&utm_medium=main-nav&utm_campaign=US
+
+Loading
+×
+Sorry to interrupt
+CSS Error
+Refresh
+
+--------------------------------------------------------------------------------
+
+URL: https://omnidian.com/contact-a-sales-executive/
+
+Why Omnidian?
+Why Now?
+Our mission is simple. Protect and accelerate investments in clean energy with one industry-leading service: Performance Assurance. And we’ve tailored it with options that are right for you.
+- Intelligent system diagnostics
+- Nationwide service network
+- Transparency and control
+
+--------------------------------------------------------------------------------

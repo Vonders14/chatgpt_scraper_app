@@ -1,0 +1,275 @@
+ROOT: https://angelenogroup.com/
+SCRAPED_AT_UTC: 2026-02-11T19:49:45.024679Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://angelenogroup.com/
+
+Founded in 2001, Angeleno Group is a pioneer in providing growth capital for next generation clean energy and climate solutions companies.
+Climate change – driven primarily by atmospheric carbon dioxide levels – presents unparalleled threats to human welfare and the health of the planet. Our carbon-based economy, while responsible for centuries of unprecedented economic development, is fundamentally unsustainable. GHG emissions threaten society in a wide range of critical areas, including human health, agricultural yields and food security, water availability, infrastructure erosion and destruction, national security, as well as biodiversity and ecosystem health. While decarbonization has rightly been a primary focus, we believe creating a more sustainable global economy will demand a broader reimagining of energy, materials, resources, land-use and much more.
+Angeleno Group believes that we are at the beginning of a once-in-a-generation global secular transformation to a low carbon, electrified and highly digitized economy driven by technology and innovation, environmental imperatives and markets and economics. Current market conditions, as well as the renewed policy and business climate in the next generation energy and natural resources sectors, present compelling opportunities for companies in the clean energy and climate solutions sector. The firm invests in a diverse portfolio of companies and has identified seven focus areas that represent a large addressable universe of opportunities.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolios/
+
+Founded in 2013, IND Technology developed the world’s first continuously monitoring EFD™ system capable of identifying incipient electrical faults across high-, medium- and low-voltage electrical systems. IND Technology’s preventative technology utilizes AI and ML to identify faults long before they...
+AZZO, an Australian-founded global engineering company, excels in systems integration for energy management and renewable energy transformation. With expertise in energy management, electrical engineering, power quality, and digital systems, AZZO delivers advanced energy solutions on a global scale. AZZO’s EnergyX®...
+REsurety is a mission-driven organization dedicated to accelerating the world’s transition to a zero-carbon future. We provide software and services to support both the financial and sustainability goals of clean energy buyers, sellers, and investors. Our software offers data-driven insights...
+Anza’s procurement technology connects solar and energy storage equipment suppliers with buyers to accelerate the procurement process and increase profits. The proprietary technology engine behind the Anza digital platform is a cost and performance modeling software that identifies the most...
+The SPAN smart electric panel provides advanced levels of monitoring and intelligence driving the electrification and decarbonization of the home. Purpose-built for functionality and durability, the SPAN Panel, Meter Panel, and SPAN Drive electric vehicle charger all allow for elegant,...
+mPrest, with headquarters in Israel, is a global provider of mission-critical monitoring and control software solutions for the defense, security, energy and IoT (Internet-of-Things) sectors. The company’s reliable and scalable software platform enables organizations to optimize their operations through the...
+Scodix, Ltd. is a provider of post-print digital enhancement presses for commercial and industrial printing markets that help its customers reduce waste, save energy and minimize environmental impact.
+Kinematics is a globally leading supplier of highly engineered, precision motion control solutions, servicing the solar, oil & gas, mining, construction and other industrial markets.
+Renew Financial (Formerly Renewable Funding) develops large scale, low-cost finance solutions for energy efficiency and renewable energy products through programs such as Property Assessed Clean Energy (PACE), residential unsecured loans, and utility on-bill financing.
+INRIX is a provider of real-time traffic information and connected driving services worldwide. In August 2015, INRIX acquired ParkMe in a stock acquisition.
+Stem provides Intelligent Energy Storage Systems that reduce power costs, increase operational efficiencies, maximize renewable generation value and reduce greenhouse gas emissions.
+The Edeniq, Inc. platform consists of a suite of analytical chemistry methods called “Intellulose®,” the scope of which is the quantitative determination of sugars and carbohydrates in grains and agricultural materials. Edeniq’s history of developing innovative new technologies and methods...
+ZincFive is a developer and manufacturer of rechargeable nickel-zinc batteries and battery solutions that are safe, recyclable and energy efficient for mission critical applications.
+Fictiv is a sustainable, on-demand digital manufacturing software platform enabling automation, localization and decarbonization of manufacturing supply chain operations. Fictiv’s solution is built around a digital core that leverages proprietary AI algorithms to deliver instant pricing, design for manufacturability feedback,...
+Locana, a location and mapping technology company, provides software products and services that seek to solve the world’s most pressing business, climate, and social challenges. With more than 20 years of experience, Locana provides globally both enterprise geospatial solutions and...
+eCullet, Inc., a technology-based glass processing company, develops and maintains technology and processing systems that engage in removing contaminants and color sorting broken mixed post-consumer glass to produce furnace ready glass cullet that is used by manufacturers to produce new...
+Telogis is a software company that provides location-based Intelligent Transportation Systems (ITS) that improve the way enterprises track and utilize mobile workers and assets to enhance resource efficiency and reduce fuel consumption and O&M for large industrial trucking fleet. The...
+Soraa is a developer of GaN-on-GaN (gallium nitride on gallium nitride) solid-state LED lighting technology for the general illumination market.
+Metriv is an enterprise IT company focused on cloud-based IT intelligence and optimization software. At its core, Metriv identifies classes of systems in the data center to determine optimal candidates for cloud computing and allows customers to estimate the costs...
+Eka Systems is an advanced metering network company that develops and markets a wireless mesh technology for large scale deployments in the utility, energy, and sub-metering markets. Eka Systems was acquired by Cooper Industries in 2010.
+Click Energy is an Australian energy retailer with a commitment to providing low-cost energy to residential, commercial and industrial customers. Click’s digital customer platform enables customers to understand and manage their energy use and spend.
+Patriot is a provider of comprehensive, vertically integrated environmental services, including emergency spill response, hazardous waste management and transportation, industrial cleaning, hydro-excavation, full facility closure and remediation, non-hazardous wastewater treatment, solidification, and other complementary services.
+Newterra is a global provider of advanced and decentralized water treatment solutions to the municipal, industrial and environmental remediation sectors.
+New Forests manages investments in sustainably managed timberland and associated eco products, such as carbon credits, biodiversity credits and mitigation banks.
+Verengo Solar is a provider of full-service solar PV installation and other energy efficiency home products to homeowners.
+TPI is a developer and volume manufacturer of specialized composite wind turbine blades for the renewable wind energy industry, and other large-scale composite structures for the transportation and military vehicle markets.
+Amonix is a designer and manufacturer of patented high concentration photovoltaic (HCPV) power generation systems for utility scale solar applications.
+GT Advanced Technologies, a designer and manufacturer of semi-custom and specialty polysilicon production equipment, crystalline ingot growth systems and related PV manufacturing equipment, went public in 2008 (Nasdaq: GTAT).
+The portfolio companies presented are intended to be illustrative of the types of investments made by Angeleno Group and do not include all investments made.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolio/zincfive/
+
+ZincFive is a developer and manufacturer of rechargeable nickel-zinc batteries and battery solutions that are safe, recyclable and energy efficient for mission critical applications.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolio/edeniq/
+
+The Edeniq, Inc. platform consists of a suite of analytical chemistry methods called “Intellulose®,” the scope of which is the quantitative determination of sugars and carbohydrates in grains and agricultural materials. Edeniq’s history of developing innovative new technologies and methods has allowed it to become the top service provider of fiber and cellulosic analytical testing for ethanol producers across North America.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolio/stem-2/
+
+Stem provides Intelligent Energy Storage Systems that reduce power costs, increase operational efficiencies, maximize renewable generation value and reduce greenhouse gas emissions.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolio/inrix-2/
+
+INRIX is a provider of real-time traffic information and connected driving services worldwide. In August 2015, INRIX acquired ParkMe in a stock acquisition.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolio/renew-financial-3/
+
+Renew Financial (Formerly Renewable Funding) develops large scale, low-cost finance solutions for energy efficiency and renewable energy products through programs such as Property Assessed Clean Energy (PACE), residential unsecured loans, and utility on-bill financing.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolio/kinematics-2/
+
+Kinematics is a globally leading supplier of highly engineered, precision motion control solutions, servicing the solar, oil & gas, mining, construction and other industrial markets.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolio/scodix-2/
+
+Scodix, Ltd. is a provider of post-print digital enhancement presses for commercial and industrial printing markets that help its customers reduce waste, save energy and minimize environmental impact.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolio/mprest-3/
+
+mPrest, with headquarters in Israel, is a global provider of mission-critical monitoring and control software solutions for the defense, security, energy and IoT (Internet-of-Things) sectors. The company’s reliable and scalable software platform enables organizations to optimize their operations through the collection and analysis of real-time situational awareness data from a variety of end-points across multiple complex systems. mPrest technology is deployed in power and water utilities, smart cities, defense systems and more.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolio/span-4/
+
+The SPAN smart electric panel provides advanced levels of monitoring and intelligence driving the electrification and decarbonization of the home. Purpose-built for functionality and durability, the SPAN Panel, Meter Panel, and SPAN Drive electric vehicle charger all allow for elegant, efficient and integrated solutions for the residential market.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolio/anza-renewables/
+
+Anza’s procurement technology connects solar and energy storage equipment suppliers with buyers to accelerate the procurement process and increase profits. The proprietary technology engine behind the Anza digital platform is a cost and performance modeling software that identifies the most optimized components based on customer-provided project details.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolio/resurety-renewables-2/
+
+REsurety is a mission-driven organization dedicated to accelerating the world’s transition to a zero-carbon future. We provide software and services to support both the financial and sustainability goals of clean energy buyers, sellers, and investors. Our software offers data-driven insights at various stages of the project lifecycle from initial exploration to portfolio management. Our services leverage our domain expertise and deliver solutions tailored to the unique needs of our customers.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolio/azzo/
+
+AZZO, an Australian-founded global engineering company, excels in systems integration for energy management and renewable energy transformation. With expertise in energy management, electrical engineering, power quality, and digital systems, AZZO delivers advanced energy solutions on a global scale. AZZO’s EnergyX® IoT platform seamlessly integrates energy management programs, electrical distribution monitoring and control, and distributed energy resource orchestration.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolio/ind-technology/
+
+Founded in 2013, IND Technology developed the world’s first continuously monitoring EFD™ system capable of identifying incipient electrical faults across high-, medium- and low-voltage electrical systems. IND Technology’s preventative technology utilizes AI and ML to identify faults long before they lead to outages, safety incidents or wildfires. Driven by a commitment to lasting impact, IND Technology has grown into a global enterprise with operations across the United States, Australia, Canada, Europe, and Southeast Asia.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolios/?status=exited
+
+Fictiv is a sustainable, on-demand digital manufacturing software platform enabling automation, localization and decarbonization of manufacturing supply chain operations. Fictiv’s solution is built around a digital core that leverages proprietary AI algorithms to deliver instant pricing, design for manufacturability feedback,...
+Locana, a location and mapping technology company, provides software products and services that seek to solve the world’s most pressing business, climate, and social challenges. With more than 20 years of experience, Locana provides globally both enterprise geospatial solutions and...
+eCullet, Inc., a technology-based glass processing company, develops and maintains technology and processing systems that engage in removing contaminants and color sorting broken mixed post-consumer glass to produce furnace ready glass cullet that is used by manufacturers to produce new...
+Telogis is a software company that provides location-based Intelligent Transportation Systems (ITS) that improve the way enterprises track and utilize mobile workers and assets to enhance resource efficiency and reduce fuel consumption and O&M for large industrial trucking fleet. The...
+Soraa is a developer of GaN-on-GaN (gallium nitride on gallium nitride) solid-state LED lighting technology for the general illumination market.
+Metriv is an enterprise IT company focused on cloud-based IT intelligence and optimization software. At its core, Metriv identifies classes of systems in the data center to determine optimal candidates for cloud computing and allows customers to estimate the costs...
+Eka Systems is an advanced metering network company that develops and markets a wireless mesh technology for large scale deployments in the utility, energy, and sub-metering markets. Eka Systems was acquired by Cooper Industries in 2010.
+Metriv is an enterprise IT company focused on cloud-based IT intelligence and optimization software. At its core, Metriv identifies classes of systems in the data center to determine optimal candidates for cloud computing and allows customers to estimate the costs...
+Eka Systems is an advanced metering network company that develops and markets a wireless mesh technology for large scale deployments in the utility, energy, and sub-metering markets. Eka Systems was acquired by Cooper Industries in 2010.
+Click Energy is an Australian energy retailer with a commitment to providing low-cost energy to residential, commercial and industrial customers. Click’s digital customer platform enables customers to understand and manage their energy use and spend.
+Patriot is a provider of comprehensive, vertically integrated environmental services, including emergency spill response, hazardous waste management and transportation, industrial cleaning, hydro-excavation, full facility closure and remediation, non-hazardous wastewater treatment, solidification, and other complementary services.
+Newterra is a global provider of advanced and decentralized water treatment solutions to the municipal, industrial and environmental remediation sectors.
+New Forests manages investments in sustainably managed timberland and associated eco products, such as carbon credits, biodiversity credits and mitigation banks.
+Verengo Solar is a provider of full-service solar PV installation and other energy efficiency home products to homeowners.
+TPI is a developer and volume manufacturer of specialized composite wind turbine blades for the renewable wind energy industry, and other large-scale composite structures for the transportation and military vehicle markets.
+Click Energy is an Australian energy retailer with a commitment to providing low-cost energy to residential, commercial and industrial customers. Click’s digital customer platform enables customers to understand and manage their energy use and spend.
+Amonix is a designer and manufacturer of patented high concentration photovoltaic (HCPV) power generation systems for utility scale solar applications.
+GT Advanced Technologies, a designer and manufacturer of semi-custom and specialty polysilicon production equipment, crystalline ingot growth systems and related PV manufacturing equipment, went public in 2008 (Nasdaq: GTAT).
+The portfolio companies presented are intended to be illustrative of the types of investments made by Angeleno Group and do not include all investments made.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolios/?status=active
+
+Founded in 2013, IND Technology developed the world’s first continuously monitoring EFD™ system capable of identifying incipient electrical faults across high-, medium- and low-voltage electrical systems. IND Technology’s preventative technology utilizes AI and ML to identify faults long before they...
+AZZO, an Australian-founded global engineering company, excels in systems integration for energy management and renewable energy transformation. With expertise in energy management, electrical engineering, power quality, and digital systems, AZZO delivers advanced energy solutions on a global scale. AZZO’s EnergyX®...
+REsurety is a mission-driven organization dedicated to accelerating the world’s transition to a zero-carbon future. We provide software and services to support both the financial and sustainability goals of clean energy buyers, sellers, and investors. Our software offers data-driven insights...
+Anza’s procurement technology connects solar and energy storage equipment suppliers with buyers to accelerate the procurement process and increase profits. The proprietary technology engine behind the Anza digital platform is a cost and performance modeling software that identifies the most...
+The SPAN smart electric panel provides advanced levels of monitoring and intelligence driving the electrification and decarbonization of the home. Purpose-built for functionality and durability, the SPAN Panel, Meter Panel, and SPAN Drive electric vehicle charger all allow for elegant,...
+mPrest, with headquarters in Israel, is a global provider of mission-critical monitoring and control software solutions for the defense, security, energy and IoT (Internet-of-Things) sectors. The company’s reliable and scalable software platform enables organizations to optimize their operations through the...
+Scodix, Ltd. is a provider of post-print digital enhancement presses for commercial and industrial printing markets that help its customers reduce waste, save energy and minimize environmental impact.
+Kinematics is a globally leading supplier of highly engineered, precision motion control solutions, servicing the solar, oil & gas, mining, construction and other industrial markets.
+Renew Financial (Formerly Renewable Funding) develops large scale, low-cost finance solutions for energy efficiency and renewable energy products through programs such as Property Assessed Clean Energy (PACE), residential unsecured loans, and utility on-bill financing.
+INRIX is a provider of real-time traffic information and connected driving services worldwide. In August 2015, INRIX acquired ParkMe in a stock acquisition.
+Stem provides Intelligent Energy Storage Systems that reduce power costs, increase operational efficiencies, maximize renewable generation value and reduce greenhouse gas emissions.
+The Edeniq, Inc. platform consists of a suite of analytical chemistry methods called “Intellulose®,” the scope of which is the quantitative determination of sugars and carbohydrates in grains and agricultural materials. Edeniq’s history of developing innovative new technologies and methods...
+ZincFive is a developer and manufacturer of rechargeable nickel-zinc batteries and battery solutions that are safe, recyclable and energy efficient for mission critical applications.
+The portfolio companies presented are intended to be illustrative of the types of investments made by Angeleno Group and do not include all investments made.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolios/?status=all
+
+Founded in 2013, IND Technology developed the world’s first continuously monitoring EFD™ system capable of identifying incipient electrical faults across high-, medium- and low-voltage electrical systems. IND Technology’s preventative technology utilizes AI and ML to identify faults long before they...
+AZZO, an Australian-founded global engineering company, excels in systems integration for energy management and renewable energy transformation. With expertise in energy management, electrical engineering, power quality, and digital systems, AZZO delivers advanced energy solutions on a global scale. AZZO’s EnergyX®...
+REsurety is a mission-driven organization dedicated to accelerating the world’s transition to a zero-carbon future. We provide software and services to support both the financial and sustainability goals of clean energy buyers, sellers, and investors. Our software offers data-driven insights...
+Anza’s procurement technology connects solar and energy storage equipment suppliers with buyers to accelerate the procurement process and increase profits. The proprietary technology engine behind the Anza digital platform is a cost and performance modeling software that identifies the most...
+The SPAN smart electric panel provides advanced levels of monitoring and intelligence driving the electrification and decarbonization of the home. Purpose-built for functionality and durability, the SPAN Panel, Meter Panel, and SPAN Drive electric vehicle charger all allow for elegant,...
+mPrest, with headquarters in Israel, is a global provider of mission-critical monitoring and control software solutions for the defense, security, energy and IoT (Internet-of-Things) sectors. The company’s reliable and scalable software platform enables organizations to optimize their operations through the...
+Scodix, Ltd. is a provider of post-print digital enhancement presses for commercial and industrial printing markets that help its customers reduce waste, save energy and minimize environmental impact.
+Kinematics is a globally leading supplier of highly engineered, precision motion control solutions, servicing the solar, oil & gas, mining, construction and other industrial markets.
+Renew Financial (Formerly Renewable Funding) develops large scale, low-cost finance solutions for energy efficiency and renewable energy products through programs such as Property Assessed Clean Energy (PACE), residential unsecured loans, and utility on-bill financing.
+INRIX is a provider of real-time traffic information and connected driving services worldwide. In August 2015, INRIX acquired ParkMe in a stock acquisition.
+Stem provides Intelligent Energy Storage Systems that reduce power costs, increase operational efficiencies, maximize renewable generation value and reduce greenhouse gas emissions.
+The Edeniq, Inc. platform consists of a suite of analytical chemistry methods called “Intellulose®,” the scope of which is the quantitative determination of sugars and carbohydrates in grains and agricultural materials. Edeniq’s history of developing innovative new technologies and methods...
+ZincFive is a developer and manufacturer of rechargeable nickel-zinc batteries and battery solutions that are safe, recyclable and energy efficient for mission critical applications.
+Fictiv is a sustainable, on-demand digital manufacturing software platform enabling automation, localization and decarbonization of manufacturing supply chain operations. Fictiv’s solution is built around a digital core that leverages proprietary AI algorithms to deliver instant pricing, design for manufacturability feedback,...
+Locana, a location and mapping technology company, provides software products and services that seek to solve the world’s most pressing business, climate, and social challenges. With more than 20 years of experience, Locana provides globally both enterprise geospatial solutions and...
+eCullet, Inc., a technology-based glass processing company, develops and maintains technology and processing systems that engage in removing contaminants and color sorting broken mixed post-consumer glass to produce furnace ready glass cullet that is used by manufacturers to produce new...
+Telogis is a software company that provides location-based Intelligent Transportation Systems (ITS) that improve the way enterprises track and utilize mobile workers and assets to enhance resource efficiency and reduce fuel consumption and O&M for large industrial trucking fleet. The...
+Soraa is a developer of GaN-on-GaN (gallium nitride on gallium nitride) solid-state LED lighting technology for the general illumination market.
+Metriv is an enterprise IT company focused on cloud-based IT intelligence and optimization software. At its core, Metriv identifies classes of systems in the data center to determine optimal candidates for cloud computing and allows customers to estimate the costs...
+Eka Systems is an advanced metering network company that develops and markets a wireless mesh technology for large scale deployments in the utility, energy, and sub-metering markets. Eka Systems was acquired by Cooper Industries in 2010.
+Click Energy is an Australian energy retailer with a commitment to providing low-cost energy to residential, commercial and industrial customers. Click’s digital customer platform enables customers to understand and manage their energy use and spend.
+Patriot is a provider of comprehensive, vertically integrated environmental services, including emergency spill response, hazardous waste management and transportation, industrial cleaning, hydro-excavation, full facility closure and remediation, non-hazardous wastewater treatment, solidification, and other complementary services.
+Newterra is a global provider of advanced and decentralized water treatment solutions to the municipal, industrial and environmental remediation sectors.
+New Forests manages investments in sustainably managed timberland and associated eco products, such as carbon credits, biodiversity credits and mitigation banks.
+Verengo Solar is a provider of full-service solar PV installation and other energy efficiency home products to homeowners.
+TPI is a developer and volume manufacturer of specialized composite wind turbine blades for the renewable wind energy industry, and other large-scale composite structures for the transportation and military vehicle markets.
+Amonix is a designer and manufacturer of patented high concentration photovoltaic (HCPV) power generation systems for utility scale solar applications.
+GT Advanced Technologies, a designer and manufacturer of semi-custom and specialty polysilicon production equipment, crystalline ingot growth systems and related PV manufacturing equipment, went public in 2008 (Nasdaq: GTAT).
+The portfolio companies presented are intended to be illustrative of the types of investments made by Angeleno Group and do not include all investments made.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolios/?category=sustainable-mobility-and-smart-cities&id=12
+
+The SPAN smart electric panel provides advanced levels of monitoring and intelligence driving the electrification and decarbonization of the home. Purpose-built for functionality and durability, the SPAN Panel, Meter Panel, and SPAN Drive electric vehicle charger all allow for elegant,...
+mPrest, with headquarters in Israel, is a global provider of mission-critical monitoring and control software solutions for the defense, security, energy and IoT (Internet-of-Things) sectors. The company’s reliable and scalable software platform enables organizations to optimize their operations through the...
+INRIX is a provider of real-time traffic information and connected driving services worldwide. In August 2015, INRIX acquired ParkMe in a stock acquisition.
+Locana, a location and mapping technology company, provides software products and services that seek to solve the world’s most pressing business, climate, and social challenges. With more than 20 years of experience, Locana provides globally both enterprise geospatial solutions and...
+Telogis is a software company that provides location-based Intelligent Transportation Systems (ITS) that improve the way enterprises track and utilize mobile workers and assets to enhance resource efficiency and reduce fuel consumption and O&M for large industrial trucking fleet. The...
+Soraa is a developer of GaN-on-GaN (gallium nitride on gallium nitride) solid-state LED lighting technology for the general illumination market.
+Metriv is an enterprise IT company focused on cloud-based IT intelligence and optimization software. At its core, Metriv identifies classes of systems in the data center to determine optimal candidates for cloud computing and allows customers to estimate the costs...
+Eka Systems is an advanced metering network company that develops and markets a wireless mesh technology for large scale deployments in the utility, energy, and sub-metering markets. Eka Systems was acquired by Cooper Industries in 2010.
+The portfolio companies presented are intended to be illustrative of the types of investments made by Angeleno Group and do not include all investments made.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolios/?category=carbon-mitigation-climate-adaptation&id=11
+
+New Forests manages investments in sustainably managed timberland and associated eco products, such as carbon credits, biodiversity credits and mitigation banks.
+The portfolio companies presented are intended to be illustrative of the types of investments made by Angeleno Group and do not include all investments made.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolios/?category=industrial-energy-efficiency-digital-manufacturing&id=10
+
+Scodix, Ltd. is a provider of post-print digital enhancement presses for commercial and industrial printing markets that help its customers reduce waste, save energy and minimize environmental impact.
+Fictiv is a sustainable, on-demand digital manufacturing software platform enabling automation, localization and decarbonization of manufacturing supply chain operations. Fictiv’s solution is built around a digital core that leverages proprietary AI algorithms to deliver instant pricing, design for manufacturability feedback,...
+The portfolio companies presented are intended to be illustrative of the types of investments made by Angeleno Group and do not include all investments made.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolios/?category=critical-infrastructure-resiliency&id=7
+
+Renew Financial (Formerly Renewable Funding) develops large scale, low-cost finance solutions for energy efficiency and renewable energy products through programs such as Property Assessed Clean Energy (PACE), residential unsecured loans, and utility on-bill financing.
+Metriv is an enterprise IT company focused on cloud-based IT intelligence and optimization software. At its core, Metriv identifies classes of systems in the data center to determine optimal candidates for cloud computing and allows customers to estimate the costs...
+Eka Systems is an advanced metering network company that develops and markets a wireless mesh technology for large scale deployments in the utility, energy, and sub-metering markets. Eka Systems was acquired by Cooper Industries in 2010.
+Click Energy is an Australian energy retailer with a commitment to providing low-cost energy to residential, commercial and industrial customers. Click’s digital customer platform enables customers to understand and manage their energy use and spend.
+The portfolio companies presented are intended to be illustrative of the types of investments made by Angeleno Group and do not include all investments made.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolios/?category=resource-energy-water-agriculture-sustainable-inputs&id=6
+
+The Edeniq, Inc. platform consists of a suite of analytical chemistry methods called “Intellulose®,” the scope of which is the quantitative determination of sugars and carbohydrates in grains and agricultural materials. Edeniq’s history of developing innovative new technologies and methods...
+eCullet, Inc., a technology-based glass processing company, develops and maintains technology and processing systems that engage in removing contaminants and color sorting broken mixed post-consumer glass to produce furnace ready glass cullet that is used by manufacturers to produce new...
+Patriot is a provider of comprehensive, vertically integrated environmental services, including emergency spill response, hazardous waste management and transportation, industrial cleaning, hydro-excavation, full facility closure and remediation, non-hazardous wastewater treatment, solidification, and other complementary services.
+Newterra is a global provider of advanced and decentralized water treatment solutions to the municipal, industrial and environmental remediation sectors.
+The portfolio companies presented are intended to be illustrative of the types of investments made by Angeleno Group and do not include all investments made.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolios/?category=next-generation-energy-storage&id=9
+
+Stem provides Intelligent Energy Storage Systems that reduce power costs, increase operational efficiencies, maximize renewable generation value and reduce greenhouse gas emissions.
+ZincFive is a developer and manufacturer of rechargeable nickel-zinc batteries and battery solutions that are safe, recyclable and energy efficient for mission critical applications.
+The portfolio companies presented are intended to be illustrative of the types of investments made by Angeleno Group and do not include all investments made.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.angelenogroup.com/portfolios/?category=clean-energy-transition-renewable-power-at-scale&id=8
+
+Founded in 2013, IND Technology developed the world’s first continuously monitoring EFD™ system capable of identifying incipient electrical faults across high-, medium- and low-voltage electrical systems. IND Technology’s preventative technology utilizes AI and ML to identify faults long before they...
+AZZO, an Australian-founded global engineering company, excels in systems integration for energy management and renewable energy transformation. With expertise in energy management, electrical engineering, power quality, and digital systems, AZZO delivers advanced energy solutions on a global scale. AZZO’s EnergyX®...
+REsurety is a mission-driven organization dedicated to accelerating the world’s transition to a zero-carbon future. We provide software and services to support both the financial and sustainability goals of clean energy buyers, sellers, and investors. Our software offers data-driven insights...
+Anza’s procurement technology connects solar and energy storage equipment suppliers with buyers to accelerate the procurement process and increase profits. The proprietary technology engine behind the Anza digital platform is a cost and performance modeling software that identifies the most...
+Kinematics is a globally leading supplier of highly engineered, precision motion control solutions, servicing the solar, oil & gas, mining, construction and other industrial markets.
+Verengo Solar is a provider of full-service solar PV installation and other energy efficiency home products to homeowners.
+TPI is a developer and volume manufacturer of specialized composite wind turbine blades for the renewable wind energy industry, and other large-scale composite structures for the transportation and military vehicle markets.
+Click Energy is an Australian energy retailer with a commitment to providing low-cost energy to residential, commercial and industrial customers. Click’s digital customer platform enables customers to understand and manage their energy use and spend.
+Amonix is a designer and manufacturer of patented high concentration photovoltaic (HCPV) power generation systems for utility scale solar applications.
+GT Advanced Technologies, a designer and manufacturer of semi-custom and specialty polysilicon production equipment, crystalline ingot growth systems and related PV manufacturing equipment, went public in 2008 (Nasdaq: GTAT).
+The portfolio companies presented are intended to be illustrative of the types of investments made by Angeleno Group and do not include all investments made.
+
+--------------------------------------------------------------------------------

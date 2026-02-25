@@ -1,0 +1,892 @@
+ROOT: https://elexicon.com/
+SCRAPED_AT_UTC: 2026-02-11T20:01:42.538799Z
+PAGES_INCLUDED: 21
+
+================================================================================
+
+URL: https://elexicon.com/
+
+about us
+Since 1999, Elexicon’s experienced team has been focused on one thing: Building impactful digital communication platforms for the most innovative companies and organizations, to help them communicate their vision, delight their customers, and grow their sales.
+Our Blog
+Elexicon’s experts share their advice and insights on the art and science of digital communication — or whatever topic we feel will help our clients and readers succeed.
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/about-us/
+
+About Us
+Elexicon's strategists, designers, and developers provide a broad range of interactive communication services and expertise. We plan, design, build, and manage user-centered digital experiences for world-class clientele.
+Our Principles
+For over 20 years, we’ve built a talented team, strong client relationships, and a diverse portfolio of successful projects on three guiding principles that focus our creative vision and shape our agency culture:
+The end is the beginning
+We take Steven Covey’s second habit to heart: Begin with the end in mind — envision your creation before you physically create it. This thinking is the catalyst for our entire process and is central to what we do. We begin each project with research, scenarios and lots of questions, followed by visuals, concepts and prototypes. We always have the desired end result in sight while we focus on every detail required to get there.
+Simplicity is Awesome
+Musician Charles Mingus said it best: “Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that’s creativity.” This mindset establishes clear priorities and purpose; reduces confusion and increases understanding; and replaces clutter and noise with impact and clarity. Some equate “simple” with boring and plain. To us, simplicity is beautiful and powerful.
+Our Business is Personal
+“All fine architectural values are human values, else not valuable.” These words from Frank Lloyd Wright capture the value we place on people: our team, our clients, and their users. All three groups are closely connected in our thinking and in our work. After all, we ultimately share the same goals: Happy, loyal customers and strong relationships based on digital experiences that people can easily understand and trust.
+Our Team
+We’re a close-knit, innovative team of web designers, developers and strategy experts. We bring unique talents, a common vision and uncommon passion to all of our projects.
+e•lex•i•con defined
+The word “lexicon” denotes a vocabulary or language. In 1999, founder Brion Eriksen added an “e” to represent all things digital, and this interactive communication agency was born.
+Our Culture
+We’re a multi-disciplined team that uniquely blends creative savvy and technical expertise. We love what we do and it shows in our dedication, teamwork, craftsmanship and long-standing customer relationships.
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/web-design-development-marketing-services/
+
+Services & Process
+Innovative technology companies face unique communication challenges. Elexicon helps high-tech companies communicate their forward-thinking vision from proof of concept to a solid marketing plan and all the creative and digital steps in between.
+Our Services
+Elexicon has established a proven process for taking our clients’ innovations from idea to execution through clear and impactful communication. From prototype to the final product, Elexicon’s creatives and technologists guide your business strategy from a cohesive plan to holistic execution.
+-
+Strategy
+- UX Strategy & Research
+- Creative strategy
+- Digital strategy
+- Content strategy
+- Marketing & growth strategy
+- Information architecture
+- Ecosystem visualization
+- Product & business Roadmapping
+- Investor Communications
+-
+Creative
+- Brand Design
+- Web Site Design
+- Design Systems
+- Product & Website Prototyping
+- Software UX & UI Design
+- Messaging & Copywriting
+- Content Development
+- Explainers & Infographics
+- Video & Animation
+-
+Development
+- Enterprise WordPress Theme Development
+- Custom PHP and JavaScript Development
+- Front-End Development/React
+- Marketing Automation Systems
+- Software Prototyping and Development
+-
+Marketing
+- Content marketing & brand journalism
+- Full-funnel lead generation
+- Thought leadership strategy
+- Analytics & search optimization
+- E-mail, search & social media marketing
+- Marketing communications & management
+We begin with meticulous, collaborative planning to define project success and plot the most efficient and effective course to get there. We ask, listen and learn from stakeholders and end customers alike, and gain deeper understanding through user research and testing. We structure content, study analytics, and identify key functionality, resulting in clear priorities and a detailed blueprint for design and development.
+With a clear, detailed plan in place, we continue to bring the user experience to life with creative and design. Content strategies and information architecture become wireframes and interface designs. Branding guidelines and creative briefs become impactful imagery and messaging. Complex product details and corporate data become easy to find and understand. Every pixel has a purpose on our digital canvas.
+Development planning begins from the project start, but coding only begins when the strategy, design and content are well-architected. Upon that solid foundation, we begin to build the site or application, flexibly leveraging the right techniques, technologies and platforms for the user experience. Our coding harmoniously coexists with our creative process, ensuring user-centered designs become user-friendly interactions.
+Our management phase spans the entire project from planning to launch and beyond, to the next major iteration or release. Pre-launch, our project managers maintain communications, facilitate collaboration and frequently monitor expectations, quality and deliverables. Post-launch, we provide a range of services to help you nurture, promote and continuously improve the product, from governance and analytics to social media and digital marketing.
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/leadership-by-design/
+
+Leadership by Design
+“We cannot solve our problems with the same thinking we used when we created them. — Albert Einstein”
+Innovation is an interesting buzzword in business. Many companies claim to be innovative, yet few seem to figure out what “innovative” truly is—what is it that drives innovation? What sets those companies that “get it” apart?
+In the area of digital product innovation, there’s a reason it’s estimated that less than 1% of apps succeed, or that nearly 90% of startups never get off the ground. It’s not for a lack of an innovative vision, amazing-looking UI, or slide deck used to help sell the idea to investors. Rather, the trouble is the implementation of these innovative ideas into a tangible strategy that meets an actual consumer or user’s needs. It’s this intentionality that is often missed, which subsequently leads to failure.
+Seeing innovation through to implementation is an intentional process, but organizations struggle to build the systems necessary to consistently deliver new and improved sources of value to customers and stakeholders. It’s as James Clear states in his book Atomic Habits…”we don’t rise to our goals, we fall to our systems,” How then do innovative leaders create the systems necessary to put their plans into action to set themselves up for success?
+They lead by design.
+Quite literally. They lead by design, through design led innovation. Design led innovation (DLI) is a relatively new concept within the world of product development. Prior to the emergence of DLI 10-15 years ago, efforts in innovation and development were mostly marketing-led. But companies are increasingly turning to design-led solutions to solve their biggest challenges in reaching their customers.
+This is because of DLI’s human-centered approach to innovation. That approach enables real agility for a process in which efforts to innovate are put in front of customers, validated or unsupported, and moved forward based on what findings are discovered.
+Putting an innovative idea to work is like pushing a heavy ball up a hill. As if the act of doing so is not hard enough on it’s own, when you try to take steps that are too large at one time, you’re going to lose your footing, stumble and fall. In the same way, when companies make unsupported assumptions and decisions toward a desired goal during product development, it’s like trying to leap your way up the hill. Only the 1% that are the most fit and agile will make it to the top taking that approach.
+In general, marketers and designers look at users through different lenses. Marketing often asks how they can use data to quantify a company’s current position to best align that data with the stakeholder’s current value propositions. “How is X performing?” On the other hand, design-led strategy allows a company to consider and evaluate radically new ideas from multiple perspectives. “Who is X, and why should they care what we’re creating?” DLI typically spans user needs, business requirements as well as technology demands. This in turn gives a broader view of the consumer or user because it constitutes a human-centered approach to the research and data. DLI can lead to smarter product decisions that are good for both the company and the consumer, which helps drive innovation.
+Design Led Innovation (DLI) typically spans user needs, business requirements as well as technology demands.Focusing solely on market research also tends to narrow simple questions to the most basic answers that never truly give you the full picture of why users do what they do, or how your product might help solve a problem. Confirmation bias is also a concern when only focused on market research. That is, stakeholders and teammates may look to validate their preconceived notions about what the product will do for the user by looking only at existing data or findings. Too often, they do this without venturing out to determine actual customers’ needs or doing other design-led experiments to quantify their thoughts. Market research is important in regards to a company’s well-being in general, but as it relates to innovative growth, there’s much more that should be done to ensure that your decisions are set up to drive momentum forward in a way that’s manageable, scalable and agile.
+That ‘more’ is where DLI really shines. DLI leverages design thinking methodologies. Design thinking is a non-linear process that is used to understand users, challenge assumptions, redefine problems and create innovative solutions to prototype and test. This thinking is the small, controlled steps that allow businesses to move the ball of innovation and growth up the hill. This is the controlled, agile approach to researching ideas, vetting those to real users and gauging their effectiveness long before large sums of time and money are thrown at said idea.
+Design thinking methodologies encompasses many things and can be researched and documented in a variety of ways. It can include user interviews, ethnographic research, observing consumer buying behaviors, guerilla research, design-led workshops, prototyping, and much more. While there are many approaches to what can be measured, it’s important to determine what strategies would be most effective for your product based on where you’re at in your product development process (something we can help you determine, if you’re having trouble figuring out where to start!).
+In a world that’s moving quicker every day with product development and getting new ideas in front of users—users who are more connected than ever before by our products, economies, thoughts and processes—the need for innovative digital companies to adapt and consider DLI is greater than ever. Especially if you want to keep up with the demands, changes and evolution of these people.
+Our team here at Elexicon is well versed in DLI methodologies and has helped startups, software companies and innovators around the globe push that ball over the hill and get it rolling toward great products that people understand, buy, use, and enjoy. Keep an eye out as we’ll be sharing ways that you can start leveraging design thinking within your organization today through practical approaches that help set the tone for innovation to take root and be successful.
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/tag/services/
+
+Managing the fifth risk
+Posted by: Matt SalerHow Elexicon’s retainer service can help you manage risks to your marketing efforts in uncertain times
+I’ve been re-reading Michael Lewis’ The Fifth Risk. It’s a slim volume, but I consider it one of the most important books to come out in the past few years. Lewis masterfully demonstrates the critical role the federal government plays in managing an enormous portfolio of risks that no other entity has the resources or inclination to handle.
+The “fifth risk” of the title is the threat stalking out of mind, crowded out by focus on more seemingly urgent threats one, two, and three—maybe four. Lewis writes about people whose job it is to think beyond the usual prioritized threats.
+Many of these risks are things most people don’t know about or ever think about—things we can live our lives without worrying about because they’re being “handled.” For example, he writes in a chapter about the Department of Energy (DOE):
+Roughly half of the DOE’s annual $30 billion budget is spent on maintaining and guarding our nuclear arsenal. Two billion of that goes to hunting down weapons-grade plutonium and uranium at loose in the world so that it doesn’t fall into the hands of terrorists. In eight years alone—2010-2018—the DOE’s National Nuclear Security Administration collected enough material to make 160 nuclear bombs. The department trains every international atomic-energy inspector; if nuclear power plants around the world are not producing weapons-grade material on the sly by reprocessing spent fuel rods and recovering plutonium, it’s because of these people. The DOE also supplies radiation-detection equipment to enable other countries to detect bomb material making its way across national borders.
+So, basically, the DOE is why tales of a dirty bomb or homebrew nuke going off in a city or airport somewhere in the world are only told in fantastical spy movies.
+In other chapters, he writes about the Department of Agriculture’s role in ensuring a stable and robust food supply—it doesn’t just happen—and the Department of Commerce’s role in weather forecasting through the National Oceanic and Atmospheric Administration—your Weather Channel app would be far less reliable without government data. He could have written a book five times the length and not run out of material.
+I should say that part of Lewis’ project is to show how the management of those risks is often itself at risk for various political reasons, but that’s beyond the scope of this post.
+The takeaway that I went to emphasize is this: The Fifth Risk argues persuasively you want people at the wheel, thinking about all the ways present stability can dissolve, and working to avoid those trip points so you can keep on living your life.
+Basically, you want prevention over mitigation. But it follows that if prevention fails, you want the smartest, most experienced people on hand for dealing with the fallout.
+That’s something I’ve been thinking about a lot as the COVID-19 pandemic has derailed the world. The virus burst on the scene late last year as a major threat we didn’t prevent—but could have. Now we have to mitigate the threat, with measures that are far more painful than prevention would have been.
+Now to Business
+You know the #1 risk to your digital and traditional marketing efforts—which is not far off from saying you know the #1 risk to your business. Right now, after three months or more of economic upheaval due to the pandemic, it’s probably painfully obvious. You probably have contingency plans against it and risks #2-3, maybe #4 on the outside. But what’s the fifth risk? Is anybody managing that for you?
+It’s also worth pointing out that not every business is facing the same challenges right now. Maybe consumer demand for your product or service has dropped to critical levels because of the pandemic and you need to adapt efficiently to a difficult market reality. Or maybe due to the unique changes to society brought on by the novel coronavirus, your product or service is in unusually high demand and you need to ramp up effective marketing and communications quickly. Either situation carries with it deep uncertainty about the weeks and months ahead.
+Whether demand is up or down or just wobbly, it’s smart to have a rapid response team available for the fast-changing reality your business faces—so you’re able to focus on your core mission. Sometimes you have such a team available internally. Often, though, you need to bring that kind of expertise in from the outside. In the latter case, how do you budget for that?
+Project or Retainer?
+I talked recently with a client about a budget for work they are planning for the year. The question was whether the work would be project-based or funded from a retainer. I suggested a retainer would be a valuable insurance policy for needs that may arise around their goals.
+My thinking: from a budget planning standpoint, there can be more uncertainty with projects. That’s because projects often risk expectations being set with unintentionally rose-colored glasses and assumptions about best-case scenarios. When a client and a vendor try to calibrate specific project spends within a fine-tuned overall marketing budget, we find it can be easy to leave too little room for what isn’t known. When you inevitably find out what that was, it can mean costly project overages.
+And even if the project goes well and stays on budget, there’s always the question “what now?” A week later, the CMS or a plugin for crucial site functionality requires a critical security update that impacts functionality. The person trained and responsible for maintaining the site content leaves for another organization a month after that. The new Chief Marketing Officer wants to change direction by next quarter. The original project is over—how do you quickly account for these new needs?
+A monthly retainer is a recognition of the inherent messiness of life and work, projects and marketing. It can encompass all that is good about a project budget while offering ongoing stability and certainty. It can position an expert agency to manage risks an organization may not have the resources or expertise to manage itself, while offering flexibility to change direction that a project-based approach lacks.
+The marketing department challenge
+Effective marketing translates to increased sales and profitability. To get there, you need a highly-skilled team with expertise in several key areas, as well as the right technology. Depending on the size of your business, it can be difficult and costly to make the right moves in the right sequence to build that team and bring on the right tools.
+If you manage a team with marketing responsibilities within a larger organization, you may have budget, hiring, or internal resource usage limitations that restrict you in similar ways.
+The marketing and digital retainer solution
+An Elexicon retainer matches your marketing needs with the skills and technologies necessary to meet those needs, at a predictable cost.
+We do this by:
+- working closely with you, within an overall strategy and toward set goals, with regular communications and monthly reports.
+- providing a skilled roster of experienced staff, using proven tools that are ready to plug in.
+- sharing a vested interest in the overall success of your organization—we’re always thinking ahead about what can and should be done.
+- letting you mix and match skills to goals on a month-to-month basis, making sure you only pay for what you need, when you need it.
+- harnessing the momentum that’s made by being constantly engaged, thereby avoiding the frequent startup time and costs that come with the estimate process for tactical needs.
+- offering a discounted hourly rate due to the annual commitment of the retainer
+This partnership means you always have the resources and confidence to set and achieve marketing goals. A retainer approach allows your needs and costs to stay synchronized (even when needs change from month-to-month), and delivers the talent and tools you need, when you need them. The talent and tools specifically manifest in our full slate of services.
+Stay vital to being vital
+Our user interface design and user experience services ensure that you’re thinking through every aspect of your customer journey and user flow, whether you have a software or SaaS product, or an e-commerce ecosystem for your physical products. Your development teams may be collaborating with your sales and marketing teams to deliver the features that help the product sell, but do they help the sales “stick?” We help map out the big-picture and long-view of your user’s relationship with the product, to identify where they may be running into frustrations, and opportunities to boost customer delight.
+Customer delight is especially important in times like these, when folks need to prioritize what they’re spending money on, and are thinking about what subscriptions and memberships they find vital. Your user interface and digital experience is vital to being vital.
+Laying a foundation that stands the test of … anything
+With our strategic services, we help our customers not only envision the big picture and the long view, but plan it and map it out. We build and iterate early product prototypes. We research, refine, and report on your digital traffic and optimize audiences. We place the right messaging and content in front of the right prospects and customers at the right time. All of this establishes a solid foundation for customer loyalty, and a clear strategy for acquiring more of those ideal customers.
+Teamwork makes the dream work
+All of this works on a project basis, but is particularly powerful with the continuity of an ongoing retainer relationship. Such a relationship forges the kind of bonds of teamwork that only come with practice.
+With the right resources in the right place working together in the right way, you can finally accomplish things like:
+- Refreshing your site’s design
+- Updating your logo and branding
+- Setting up a digital ad and remarketing campaign
+- Getting a handle your site’s security (i.e. stopping that spam)
+- Standing up an email campaign for the first time
+- Developing a new type of communication page for your customers/audience
+You can probably add to that list.
+But what does it cost?
+If you’re thinking “I’ve just finished my pandemic lockdown rewatch of Mad Men. Retainers are expensive. I don’t have room in my budget for a retainer,” let me put your mind at ease: a retainer is what you make it. You can, of course, do more with more. But even if it’s just a way to ensure you have somebody to call when something goes wrong with your website, that’s okay too. We’re confident you’ll see the value because we know from experience that retainers work.
+If you’re ready to make a safe investment in your digital marketing, if you’re ready to have your marketing risks managed—#1-5 and beyond—by an experienced team dedicated to your success, get in touch.
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/tag/meet-the-team/
+
+Meet: Joe Greve
+Posted by: ElexiconMeet: Joe Greve
+Welcome Joe Greve, our new web developer at Elexicon! We are thrilled to have him join our team. To help you get to know Joe better, we asked him to answer a few questions.
+What is your educational background?
+I have an associates degree in Web Design from Kalamazoo Valley Community College, and spent a year at Ferris State University studying Game Design and Animation.
+What are five interesting facts about you?
+- No matter the topic, I probably have some random fun fact about it
+- I like to think I’m pretty great at making food
+- I’m exceptionally detail oriented (sometimes to a fault!)
+- I can repair most anything on a car
+- I once solved a Rubik’s Cube, by following a guide
+If you could visit anywhere in the world you’ve never been, where would you go?
+Japan! Osaka, Tokyo, Toyota City, the mountains — all of it.
+How do you wind down after work?
+Usually by cooking myself a nice meal. I find cooking really therapeutic. Maybe just because you can’t really rush a good meal!
+What’s a topic you wish you knew more about?
+I feel like my answer to this changes every week. But right now, I think I’d say automotive metalworking.
+If you had to listen to one song for the rest of your life, what would it be?
+Africa, by Toto. Extra points for the Weezer cover.
+Who inspires you?
+In no particular order: Steve Jobs, Christian von Koenigsegg, anyone who can stick it out with a personal project for more than a few weeks, and my fiancé.
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/tag/leadership/
+
+“I believe this will be our finest hour.”
+Posted by: Brion EriksenLessons in leadership, perseverance and improvisation, on the 50th anniversary of the Apollo 13 mission
+A few weeks ago, I wrote a post about John F. Kennedy’s 1962 “we will go to the moon” speech. I detailed my thoughts of how I felt that inspirational speech is relevant to today’s COVID-19 crisis. This past weekend was the 50th anniversary of the Apollo 13 mission, which happened eight years after JFK’s speech. The U.S. had already a year earlier in 1969 reached the moon with the Apollo 11 mission, “in this decade” as Kennedy aspired, and ahead of the U.S.S.R. The Apollo 13 mission had a much different result, but its story still draws a through-line directly back to Kennedy’s spirit of determination and innovation, embodied in the phrase “…that goal will serve to organize and measure the best of our energies and skills.”
+A ‘successful failure’
+Most of you are probably familiar with the Apollo 13 mission that—due to an explosion and damage to the spacecraft—failed to land on the moon. But the craft didn’t come crashing down on the moon or back to earth. Instead, the crippled technology successfully ferried its crew safely around the moon and back home, due to the leadership, perseverance, innovation and hard work of the mission control crew in Houston. If you need a refresher, the 1995 Apollo 13 movie directed by Ron Howard and starring Tom Hanks, Ed Harris and Gary Sinise is excellent work, and should be on everyone’s social-distancing list for a watch or re-watch. And an insightful new interview with the mission’s captain Jim Lovell was posted by USA Today this weekend to commemorate the 50th anniversary.
+Whether you are one of my fellow small business owners and entrepreneurs, or one of Elexicon’s clients or colleagues, I’m sure we’re all feeling uncertain and at least a little shaken right now—if not overwhelmed by the breadth and depth of this crisis’ impact on the economy. We’ve all been setting goals, and organizing the best our energies and skills. We’ve been planning our own versions of successful moon landings, and we’ve pulled some off.
+But now the course that we were on has been obscured, and in some cases, seemingly erased.
+No playbook, no blueprint
+As I talked about in another recent post, we were holding “maps”—plans, projects, targets—for the territory our businesses and teams would traverse in 2020. Now that terrain has changed and we need new maps. The Apollo 13 mission team’s response to their sudden reversal of fate set a great example of how to rise to a challenge for which there was no playbook or blueprint, with resourcefulness and determination. Sometimes we do our best work by developing a well thought-out strategy, and then implementing that strategy to successfully reach an objective. But other times we need to respond to unexpected adversity. We need to set aside the original aspirations we had, let go of “what could have been,” and focus on what needs to be done now. In these moments, with these decisions we can still achieve our “finest hours.”
+Here’s Ed Harris’ Gene Krantz* defusing any thought that “This could be the worst disaster NASA has ever experienced.” Instead, he delivers a counterfactual, that this team is going to adapt to the new reality, and “…this will be our finest hour.”
+“We have a new mission”
+Many of us entrepreneurs, business owners and team leaders are now throwing out our flight plans, and are faced with a new mission. “I don’t care what anything was designed to do, I only care about what it can do,” says Harris’ Krantz in this scene. In normal times, for all of us, this is counterintuitive. We envision, plan, design, and create products and processes to do a certain thing or produce a certain result. But when we’re faced with a seismic shift in outlook or an unexpected crisis, we need to decisively and creatively determine what our business, product or services can do to first survive and then thrive in a new way.
+Creativity under constraints
+I’ve always loved this scene where an ad hoc team “downstairs” at mission control needs to quickly devise a way to connect a square fitting to a round hole, to give the astronauts the carbon monoxide filtering they’ll need. They need to “fit this into this, using nothing but that,” with “that” being only the spare parts and gear available on the spacecraft. The sequence is a great example of creativity under constraints, and inventing a solution with limited resources. In different ways, we’ll all be facing new constraints on our processes, where before we typically had all the resources we’d need. Sometimes, it is from within constraints that true creativity and innovation happen, and new solutions are invented that we may have never thought of before.
+Communication, trust, teamwork
+Finally, this roughly 4-minute scene—terrifically written* and acted—depicts the flight crew exercising their problem-solving and leadership brainpower as a team. We all know how to deliver advice on subjects that we’re experts in, and how to be a good team player. But in times like these, we need to dig deeper, below all that stuff we read and learned, and into our instincts and guts. This scene is timeless, but is especially timely and relevant in the context of current events (whether we’re talking about leading our own businesses and teams, or our leaders in government):
+- Communication: Loren Dean’s EECOM John Aaron, clearly and authoritatively arguing that “power is everything,” that the module’s electrical battery power needs to be shut down to be conserved for later. He states exactly why, and that has the data to back it up.
+- Trust: Harris’ Gene Krantz to Dean’s John Aaron, “That’s the deal?” Then after a deliberative pause, “Okay, John, the minute we finish the burn, we’ll power down the L.E.M.” Krantz knows he’s not the smartest guy in the room and sets aside any need to prove that he is. Instead, he trusts their advice, puts a plan in motion based on that trust, and then sends them off to work with a little pep talk. But the trust he instilled was probably enough extra motivation already.
+- Teamwork: Gary Sinise’s Ken Mattingly is called in to run the power simulations, to determine how to most efficiently bring the L.E.M. power down and then back up again. Mattingly requests that the simulator be “cold and dark” like it is up in the spacecraft, and he’ll need a flashlight. When he’s handed a random flashlight, Mattingly says “That’s not what they have up there … don’t give me anything they don’t have up there.” Even though the kind of flashlight is probably inconsequential to the power-up procedures, but Mattingly instinctually knows he needs to practically put himself in that cockpit with his teammates in order to precisely do his job.
+While it’s no silver bullet for our anxiety, I hope that looking back on the early days of the U.S. space program provides some lessons in what we’re all capable of, and reminds us that perseverance, ingenuity, and sometimes improvisation are in our nation’s DNA.
+*According to interviews with the astronauts and flight teams, and with the filmmakers, the Apollo 13 movie falls somewhere between being “firmly-” and “loosely-based” on actual events and characters. Some roles were composites, such as Ed Harris’ depiction of White Team Flight Director Gene Krantz, which also incorporated decisions made by Black Team Flight Director Glynn Lunney. Some quotes such as “Failure is not an option!” were added with artistic license for dramatic effect. Regardless, I find the movie’s dramatic portrayals to be an effective embodiment of the leadership, teamwork and problem solving that led to saving the astronauts’ lives. The movie captures the spirit of “toughness and competence” that the real-life Krantz would make a central theme of his autobiography (which, interestingly, Krantz went ahead and titled, “Failure is Not an Option”).
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/tag/digital-strategy/
+
+Don’t forget the digital strategy
+Posted by: Calvin ChoppYou’ve just been put in a room with 4 other people and it’s dark. Can’t-see-your-hand-in-front-of-your-face kind of dark.
+Each of you have been told that there’s an item directly in front of you, and that you need to describe it.
+You reach out and place your hand on what feels like a hard, leathery, textured wall. The person nearest to you describes a long, protruding spike that’s smooth and solid. Another feels a vine-like hairy rope.
+Who’s right, and how can you decide what it is?
+Without seeing the whole picture or knowing in advance, each person can’t communicate with the other that what they’re actually describing is a rhino.
+On-boarding and communicating your digital strategy within your company’s team structure can often feel like trying to describe something in the dark that has many facets and attributes:
+If you’re in marketing, a digital strategy likely involves your website, social media, online campaigns, and design approach.
+If you’re a stakeholder, you’re likely more focused on analytics and ROI.
+If you’re in IT or data networking, you’re likely focused on things like information and data processing, storage and backups, etc.
+If you’re in sales you’re likely concerned with the integrity of your CRM database, making sure it’s reliable, and with conversions.
+With so many ways your company’s digital strategy can be approached, it can feel overwhelming. This shows in companies even today where everything seems to be online.
+The 2016 Report on the State of Digital Business found that
+- 62% of survey respondents felt their companies were in denial about the need to transform their business approach digitally,
+- 55% were worried that they would have only a year or less to make the proper steps before they would suffer both financially and competitively, and
+- 59% were worried that it was already too late to start the process of creating a digital strategy.
+(Hopefully since the report’s release the companies that were surveyed have taken necessary steps.)
+There’s no denying that an effective digital strategy in your business or organization is important. But how do you personally implement a digital strategy well? What’s the difference between having a digital strategy, and just creating digital products?
+We’re here to help answer those questions.
+For over 20 years, we’ve specialized in working alongside companies to design, establish, and successfully execute digital strategies, both internally and externally company-facing. The way that we see this played out most commonly for our clients is through a combination of website content, social media, mobile and application development, email/CRM/CMS integration, and project data analytics, among others.
+Each of these are often seamlessly woven together into the client’s existing business ecosystem. This means that our clients don’t have to start from the ground up when implementing their digital strategy. We’re working alongside them to help keep their ongoing business momentum while merging a digital strategy into those processes.
+It starts with a conversation.
+Your needs aren’t your competitor’s needs. Your business is uniquely your own, and your digital strategy shouldn’t be a cookie-cutter, one-size-fits-all approach.
+The backbone between us and our clients is always our relationship, and part of establishing that relationship is working with the client to determine their unique needs, and how our team of experts can come alongside their existing internal teams to aid in the implementation of their digital strategy, or work with them to open up this channel of content where they might not be capable to do so on their own. We explore what our clients are doing digitally currently that they feel is effective, what their goals are, and areas that they’re feeling pressure to evolve their approach. Based on this information, we’re able to communicate a solution that works for our clients, as well as offer recommendations to approaches they might also look to consider.
+It’s more than just a product.
+As I mentioned, your digital strategy is more than just a product. Your website isn’t your digital strategy. Your CRM database and promotional email schedule isn’t your digital strategy. Your social media channels and content aren’t your digital strategy. These are all pieces of a greater mechanism that we like to look at with you and create a way that all these tools (and more) can work seamlessly together—making you more noticeable, your online business more effective and measurable, and your future digital initiatives more scalable.
+Analyzing your effectiveness.
+Although the concept isn’t new, a major buzzword over the last half-decade has been ‘UX’ or ‘user experience’. Its implementation on the digital landscape in your company ultimately comes down to your ‘digital equation’ — adopting data analytics and metrics to build up your analytical thinking which will help drive your digital business decisions.
+We see this play out a number of ways. We can help you implement tools and show you how you can analyze data and insights for your current online systems, or for new products, which help you deliver better, more responsive services to your customers. Through user research, A/B testing, persona research, and user feedback, we can fine-tune your website, software, and applications to better suit the user, quicker and more effectively than ever before. We set up our digital products in a way that allows us to build, execute, analyze, and optimize as we go.
+Digital Strategy at Work.
+For your consideration, a recent example of digital strategy at work in a project completed for one of our clients.
+Two years ago we were tasked to work alongside the Amway Global team to develop a digital experience for their media guide that, to that point, lived solely in a print publication. The desire was to have a single, long-scroll page that would keep the user’s attention, divide the content up into digestible, navigable chunks of content, and that was high-design and interactive. The client also desired to have data they could analyze to see what information was being consumed and where users were gravitating to on the page.
+We worked with Amway to not only meet these expectations, but to throw in some additional features along the way.
+The digital solution we crafted was a long-scroll page that was managed by a content management system where the team could easily edit the content of the page, move content around the page, and manage multiple levels of in-page navigation to access that content in an experience that was immersive and effective. The client had the ability to track what sections of the page were being clicked on and which products were most popular. This all wrapped into a single, 30,000+ pixel long, mobile-optimized page.
+The foundational strategy of the page also was that we wanted the solution to be scalable and manageable. Because of the pre-planning and work that went into this strategy, the next year we were able to update the content and look and feel of the page at a fraction of the cost that it would of taken to start over, or go a different direction. What originally took months to design and develop in 2017 took a matter of days to update with a fresh look and content for 2018.
+Regardless of your company or organization’s size, you can’t afford to be unfocused in your digital strategy. Tackling it on your own can be a daunting task, and this can cause you to fall behind your competition and to put you into a cycle of feeling the need to always be catching up. We’re ready to partner alongside you to build your digital strategy. Whether you need a team of professionals to hit the ground running on something new, or need someone to work alongside your internal team to help see your initiatives through effective completion, we’ve got your back.
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/tag/content-strategy/
+
+Becoming contagious in health communications
+Posted by: Emma SluiterIf you work in consumer-facing health communications, you face the considerable challenges of language barriers and health literacy gaps. Here’s how the US Department of Health and Human Services assessed it:
+Only 12 percent of adults have Proficient health literacy, according to the National Assessment of Adult Literacy. In other words, nearly nine out of ten adults may lack the skills needed to manage their health and prevent disease.
+That level of health illiteracy is of course concerning, because health is related to everything we do. Our health is affected by the amount of sleep we get, the nutrition we put into our bodies, the amount of social interaction we have with friends or family in a week, and even the way we sit in a chair. All of these factors impact our overall health.
+So, how do health communications professionals work on this issue? How can they create content that is more understandable, and then spread that information as far and wide as possible? How does a healthcare brand make its important communications ‘contagious’?
+Contagious
+Contagious is a sublime book written by Jonah Berger. He goes into six “STEPPS” that can help your content go viral. His framework can be incorporated into health communications and help professionals work smarter—not harder—with their content.
+Berger’s STEPPS are as follows:
+- Social Currency
+- Triggers
+- Emotion
+- Public
+- Practical Value
+- Stories
+Understanding these can help you plan your content to make it a ‘social epidemic.’ If you want to spread your information fast and become top-of-mind, then you need to think about how to apply each of Berger’s STEPPS into your marketing campaigns.
+Step 1: Social Currency
+Social currency is the knowledge you have to add value to a conversation. The more you know, the more “status” you often have in society.
+People are always talking about what was on the news and what they saw on social media. They use this information to start conversations at work, among friends and family, and even with total strangers. When we do this and share the right type of information, we gain social currency.
+According to research cited by Buffer, there are two main reasons people share content:
+- “to give others a better sense of who they are and what they care about”
+- “to stay connected to people.”
+The research showcases that people want to be liked. Berger explains that “[the] desire for social approval is fundamental human motivation.” With this knowledge, health organizations need handcrafted, creative content so people can engage with it.
+Health organizations need to dive deeper into their target audience(s) and find valuable content based on the consumer’s interests and motivations. The content also needs to be remarkable. According to Berger:
+“Remarkable content provides social currency because they make people who talk about them seem more, well, remarkable.”
+In healthcare communications, you should almost always provide an example or visual to help explain the health-related concept. This will not only help with readers with lower health literacy rates, but it will also boost the attention and social currency value of the content.
+Step 2: Triggers
+Triggers are prompts that keep people talking about your brand or product. Berger provided a great example of triggers that may help you understand this concept better.
+Rebecca Black’s song, “Friday”, has a prevalent trigger associated with it. Can you take a guess on what it is?
+Drum roll please… the song’s title, “Friday”, is the trigger! When this song was popular, every Friday people would turn on this song because it was Friday.
+Health organizations could easily take advantage of triggers because health is related to everything you do. Content could be focused on everyday health and wellness topics to prompt healthier decisions and lifestyle habits.
+Step 3: Emotion
+If you make someone feel an emotion with your content, you will create a bond with the recipient of your message. This person then has the ability to share your message with their network and spread your brand to potential new customers of your products or services.
+According to Harvard professor Gerald Zaltman, purchase decisions, brand loyalty, and customer engagement are directly related to the subconscious mind. Emotional benefits can overpower the rational benefits of a product or service because people care about how they feel with a product or service.
+Healthcare organizations should be factoring in how they can make people feel. A prime example of doing this step right, is Health Beat, a brand journalism publication of Spectrum Health. Health Beat publishes inspiring patient stories of hardship, hope, love, joy, and excitement that spark a range of emotions in their readers, leading them to share those stories on social media so others can share in that emotional connection.
+Step 4: Public
+Another step that is crucial is “public.” A key factor of this step is observability — meaning if people see something, they will engage with it. How far the engagement goes depends on the content and the person.
+Berger also relates this concept to “social proof.” Social proof can be seen in how people wait in line for an overpriced cup of coffee. People assume the longer the line, the better the coffee. But in reality, they are herding to “social influence.” Social influence has a big effect on behavior.
+Health organizations can take advantage of this step, but have to be careful what topics they promote and educate about.
+For example, Berger discussed how anti-drug ads aren’t always the best tactic to prevent people from using them. Although the aim of these ads is to prevent young adults from using drugs, the response was often the opposite. Berger informs us that anti-drug ads promote drugs as bad, but clearly showcase that people are using them.
+Showing the drug use creates visibility and social proof that can increase the appeal of drug use among teens, and even create a larger problem. It is important to remember this example as a cautionary tale when moving forward with health-related campaigns.
+Step 5: Practical Value
+People share practically valuable information to help others. This includes useful information.
+Useful content is different for every person. It could be a tutorial video on how to prepare a meal, or an infographic giving consumers useful, relevant information. The opportunities to create useful informative content in healthcare are endless.
+So, how do you know if your content has value? Ask yourself if the content provides a functional or emotional benefit to someone. If it does, you have your answer.
+Step 6: Stories
+Stories carry things — a lesson or moral; information or a take-home message. According to Berger, stories “provide a quick and easy way for people to acquire lots of knowledge in a vivid and engaging fashion.”
+So how do you know if you are creating a good or bad story?
+Good stories provide social currency, emotion, and practical value. Bad stories do not.
+Final Thoughts
+If you want to create desirable, shareable content in healthcare you need to put these STEPPS into action.
+- Social Currency
+- Triggers
+- Emotion
+- Public
+- Practical Value
+- Stories
+Think about how your message could be woven into these important considerations, and then wait for your consumers to engage with it or not. Then make adjustments and try again.
+Remember, you can’t make something viral, but your audience can.
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/category/content-strategy/
+
+Knowledge is power
+Posted by: Matt SalerHow Elexicon helps our clients empower their customers with the knowledge they need to accomplish their goals
+I recently heard Elexicon’s Creative Director Mike VerStrat cite the aphorism “knowledge is power” to distill the essence of how we add value for our clients. He pointed out that our work is fundamentally about helping our clients organize, optimize, and deliver knowledge for their customers.
+The last part of that phrase got me thinking—something like “knowledge … is power … power … energy … knowledge is energy? We’re an energy company (but not that one).” YMMV, but that’s where my mind went. So.
+The Energy Business
+Energy companies are in the generation and transmission business. The same is true for Elexicon. You want the knowledge you’re developing, organizing, and delivering to act like a sort of energy, galvanizing your customers to make a purchase or set an appointment or otherwise use your product or service. We can help with that. We also deal in a kind of infrastructure maintenance to support both generation and transmission.
+Generation
+In the context of a website, content is electricity—it’s necessary for the site to run. And as in regular life, the source of the electricity matters. Is it cheaply produced but toxic in the long run like a spewing well of crude oil? Or is it carefully adapted to the need and sustainable like a wind turbine off a windy shore? Is the byproduct of its production going to pollute the surrounding air and blunt the cognition of its users? Or is it suited to the local topography and prevailing winds, enabling fresh air for smooth comprehension? Elexicon strives for the latter in both cases.
+We could help a client get up and running with cheap fuel, but the long-term damage that can do to a brand is never worth it. We’d rather carefully sight out the project and craft an energy solution that is suited to the landscape.
+The most important thing in this context is that the customer gets what they need and feels good about the source. Our content services, including strategy, writing, editing, and management, ensure you deliver clean energy to your customers regardless of medium.
+Transmission
+Energy is no good to anybody if it’s not transmitted where it’s needed, when it’s needed. We understand that. We build delivery systems that get your knowledge where it needs to be, whether on a website, social media platform, trade show booth, or executive report—when it needs to be there.
+We can redo your existing wires with a website overhaul or just update them to get up-to-speed with a rebrand. And if the need is an all-new hookup in the form of a spin-off brand or product launch, we’re there too. Whether the infrastructure already exists or needs to be built from scratch, our branding, strategy, design, development services can make sure your project connects.
+The Grid
+The real life Grid is a hodgepodge network that requires constant upkeep to avoid a system-wide shutdown. It’s in desperate need of modernization. Elexicon’s energy production and delivery systems are held together with more than duct tape and chicken wire. We use modern frameworks that lay down a strong foundation, enabling simpler upkeep and reduced reliance on costly workarounds. And we work with reliable, stable hosts that help us avoid systemic risks analogous to power lines perilously close to tree branches. But if a tree branch falls on a line on a unusually windy day, we’re there to repair the line and restore service.
+A bit of a sidenote while on this topic: in terms of real life energy used, we strive to ensure the work we do is lean and makes efficient use of the world’s energy while directing our customers to responsible hosts.
+Reducing Energy Loss
+Another feature of the real life energy grid is energy loss due to transmission over long distances and at various points from generation to point of service. For our purposes, this translates to anything that increases bounce rates, prevents user action, and, in most cases, reduces time on site. We work to avoid energy leeches in our work, working hard at optimization to enable your users to feed off the energy you produce, interacting with or reacting to it—even adding to it via social media or user-created content.
+Power to the People
+The phrase “knowledge is power” is a translation from the Latin “scientia potentia est,” where “potentia” is “power.” Without getting too deep into the muck trying to be cool with root words, it’s worth noting the connection to the English word “potential.” Knowledge begins as potential. We can help you make it more than that.
+Whatever product or service you offer, you want to enable customers to do something. Like a real energy company, that’s our goal too. We enable you to empower your customers with the knowledge they need to accomplish their goals through your product or service.
+What can we help you power?
+Who we ultimately work for (we’re all In this together)
+Posted by: Calvin Chopp“From the store windows, the store touchpoints, the website, social media or a magazine – it has to be one pure customer experience, not just to gain market share but to gain mind share.”
+-Angela Ahrendts, CEO Burberry
+The process of making a website or application is tricky, and not only in regards to design and development. Often just as challenging—and seemingly overlooked—is the process of properly identifying who you’re building for.
+When we work on a client project, we’re not really working for the client. We’re working for client’s customers or audience. We’re ultimately working to ensure the experience your customer has with you is a positive one that reinforces your brand’s validity, encourages use, and ultimately shows you a return on your investment with the project.
+How do you manage a seamless experience across an always changing and increasing number of content channels, though?
+Honestly, you can’t.
+But, what you can do is influence your users’ experience by being very intentional about where and how you deliver your brand and content, doing so in a way that is consistent across platforms. When we do this, it’s what we call “designing the experience.”
+This is how we do it.
+Identify Your Audience.
+You may already know your audience, or you may need help determining who they are. If you do know, it can be worth it to do the research anyway. The goal is to focus the project’s direction by identifying the audience: your customers, current and/or potential.
+Gaining a better understanding of your customers can be accomplished through the process of user and A/B testing, market research, and other early-stage research methods.
+It’s very possible that you already have a good understanding of who your audience is, but it’s equally important to know your audience’s why and how. Why will your audience be interested in what you’re doing? How will that affect the way they view your brand? How do you keep your audience returning and engaging?
+Gain Perspective.
+Now that you understand your audience, you need to know who within your audience you’re designing for.
+During the discovery phase of any project, it’s important to keep in mind how the design, functionality, and content will affect your customer. This often means putting aside personal preferences, putting away egos, and establishing a cohesive direction between the client and the agency. That requires clear direction and communication from the client, and a sense of trust that the agency has the (client’s) customer’s best interests in mind.
+It’s the agency’s job to combine that with a clear understanding of what will work best from an industry perspective and ultimately enrich the customer’s overall experience.
+Just because you want to create an app doesn’t mean that your customers are going to install and use it even once, let alone on a regular basis.
+Or visit that website.
+Or ingest that content, evoking the desired response.
+Understanding the why behind your customer’s need (implied or apparent) will ultimately be a gauge for design decisions along the way.
+Set Measurable Goals.
+We see it all the time: client wants a project completed, comes to an agency. Agency creates the project, hopefully to the client’s liking. End of story… right?
+Not here, at least.
+It’s important, especially early on, that the client and agency sit down and set measurable goals for what they want to accomplish with their project. Hardly ever is just launching the site or application the measure of success—nor should it be.
+Setting measurable project goals does a few things.
+First, it gives the client a baseline to measure a project’s success against once it’s completed.
+Second, it provides a foundation upon which they could build in the future if a change in direction is required.
+Third, it gives the agency a framework to work within to provide a solution.
+After all, an equation can’t be solved without first having a problem, right?
+Walk, Don’t Run.
+This next point might seem a little blunt, but it’s important. Because we care. Really.
+Don’t be too anxious to jump right into design and production, at least initially.
+It’s pretty normal, and honestly expected, that a client will come to the table with what they feel to be a pretty solid understanding of exactly what needs to be done and created, but without taking preliminary steps of discovery and planning. The thing is, discovery and planning can make the difference for a successful project.
+Even if it’s not within your project budget to account for variations of the steps listed above, it’s good to be at least open to sitting down and having an honest conversation about the project. Give your agency a chance to really make the project work for your customers. In doing so, you may find that your good idea really has the potential to be great.
+In the end, we’re all on the same team, playing for the same goal: hitting a home run for your customers by providing the most seamless possible experience that enforces your brand’s integrity and messaging, leading to engagement, sales and growth.
+It’s the Elexicon way.
+Don’t forget the digital strategy
+Posted by: Calvin ChoppYou’ve just been put in a room with 4 other people and it’s dark. Can’t-see-your-hand-in-front-of-your-face kind of dark.
+Each of you have been told that there’s an item directly in front of you, and that you need to describe it.
+You reach out and place your hand on what feels like a hard, leathery, textured wall. The person nearest to you describes a long, protruding spike that’s smooth and solid. Another feels a vine-like hairy rope.
+Who’s right, and how can you decide what it is?
+Without seeing the whole picture or knowing in advance, each person can’t communicate with the other that what they’re actually describing is a rhino.
+On-boarding and communicating your digital strategy within your company’s team structure can often feel like trying to describe something in the dark that has many facets and attributes:
+If you’re in marketing, a digital strategy likely involves your website, social media, online campaigns, and design approach.
+If you’re a stakeholder, you’re likely more focused on analytics and ROI.
+If you’re in IT or data networking, you’re likely focused on things like information and data processing, storage and backups, etc.
+If you’re in sales you’re likely concerned with the integrity of your CRM database, making sure it’s reliable, and with conversions.
+With so many ways your company’s digital strategy can be approached, it can feel overwhelming. This shows in companies even today where everything seems to be online.
+The 2016 Report on the State of Digital Business found that
+- 62% of survey respondents felt their companies were in denial about the need to transform their business approach digitally,
+- 55% were worried that they would have only a year or less to make the proper steps before they would suffer both financially and competitively, and
+- 59% were worried that it was already too late to start the process of creating a digital strategy.
+(Hopefully since the report’s release the companies that were surveyed have taken necessary steps.)
+There’s no denying that an effective digital strategy in your business or organization is important. But how do you personally implement a digital strategy well? What’s the difference between having a digital strategy, and just creating digital products?
+We’re here to help answer those questions.
+For over 20 years, we’ve specialized in working alongside companies to design, establish, and successfully execute digital strategies, both internally and externally company-facing. The way that we see this played out most commonly for our clients is through a combination of website content, social media, mobile and application development, email/CRM/CMS integration, and project data analytics, among others.
+Each of these are often seamlessly woven together into the client’s existing business ecosystem. This means that our clients don’t have to start from the ground up when implementing their digital strategy. We’re working alongside them to help keep their ongoing business momentum while merging a digital strategy into those processes.
+It starts with a conversation.
+Your needs aren’t your competitor’s needs. Your business is uniquely your own, and your digital strategy shouldn’t be a cookie-cutter, one-size-fits-all approach.
+The backbone between us and our clients is always our relationship, and part of establishing that relationship is working with the client to determine their unique needs, and how our team of experts can come alongside their existing internal teams to aid in the implementation of their digital strategy, or work with them to open up this channel of content where they might not be capable to do so on their own. We explore what our clients are doing digitally currently that they feel is effective, what their goals are, and areas that they’re feeling pressure to evolve their approach. Based on this information, we’re able to communicate a solution that works for our clients, as well as offer recommendations to approaches they might also look to consider.
+It’s more than just a product.
+As I mentioned, your digital strategy is more than just a product. Your website isn’t your digital strategy. Your CRM database and promotional email schedule isn’t your digital strategy. Your social media channels and content aren’t your digital strategy. These are all pieces of a greater mechanism that we like to look at with you and create a way that all these tools (and more) can work seamlessly together—making you more noticeable, your online business more effective and measurable, and your future digital initiatives more scalable.
+Analyzing your effectiveness.
+Although the concept isn’t new, a major buzzword over the last half-decade has been ‘UX’ or ‘user experience’. Its implementation on the digital landscape in your company ultimately comes down to your ‘digital equation’ — adopting data analytics and metrics to build up your analytical thinking which will help drive your digital business decisions.
+We see this play out a number of ways. We can help you implement tools and show you how you can analyze data and insights for your current online systems, or for new products, which help you deliver better, more responsive services to your customers. Through user research, A/B testing, persona research, and user feedback, we can fine-tune your website, software, and applications to better suit the user, quicker and more effectively than ever before. We set up our digital products in a way that allows us to build, execute, analyze, and optimize as we go.
+Digital Strategy at Work.
+For your consideration, a recent example of digital strategy at work in a project completed for one of our clients.
+Two years ago we were tasked to work alongside the Amway Global team to develop a digital experience for their media guide that, to that point, lived solely in a print publication. The desire was to have a single, long-scroll page that would keep the user’s attention, divide the content up into digestible, navigable chunks of content, and that was high-design and interactive. The client also desired to have data they could analyze to see what information was being consumed and where users were gravitating to on the page.
+We worked with Amway to not only meet these expectations, but to throw in some additional features along the way.
+The digital solution we crafted was a long-scroll page that was managed by a content management system where the team could easily edit the content of the page, move content around the page, and manage multiple levels of in-page navigation to access that content in an experience that was immersive and effective. The client had the ability to track what sections of the page were being clicked on and which products were most popular. This all wrapped into a single, 30,000+ pixel long, mobile-optimized page.
+The foundational strategy of the page also was that we wanted the solution to be scalable and manageable. Because of the pre-planning and work that went into this strategy, the next year we were able to update the content and look and feel of the page at a fraction of the cost that it would of taken to start over, or go a different direction. What originally took months to design and develop in 2017 took a matter of days to update with a fresh look and content for 2018.
+Regardless of your company or organization’s size, you can’t afford to be unfocused in your digital strategy. Tackling it on your own can be a daunting task, and this can cause you to fall behind your competition and to put you into a cycle of feeling the need to always be catching up. We’re ready to partner alongside you to build your digital strategy. Whether you need a team of professionals to hit the ground running on something new, or need someone to work alongside your internal team to help see your initiatives through effective completion, we’ve got your back.
+Let’s write shorter letters
+Posted by: Brion Eriksen“If I had more time, I would have written you a shorter letter.”
+Identifying the originator of that sublime quote has been the subject of m`uch debate over the years—one that has encompassed a who’s-who list of the world’s most influential thinkers, from Voltaire to Mark Twain to Winston Churchill. This article on Quote Investigator seems to trace it back to French mathematician and philosopher Blaise Pascal in the 17th Century.
+Pascal’s saying sounds odd the first time you hear it, but then its premise almost immediately becomes clear: Clarity and simplicity take time. Pascal otherwise prides himself in crafting concise, informative letters to his friends and colleagues that communicate his key thoughts, waste few words, and leave little doubt about his intent. Most of the time, Pascal likely researched, scribbled, sketched, made a list, sorted his thoughts, wrote and re-wrote before putting his final version’s pen to paper. Only after all that planning and envisioning of his message does he arrive at a message that is all signal and no noise. Any information not on point was left on the cutting room floor.
+However, in this one particular instance that allegedly produced the famous quote, Pascal was short on time and simply needed to start writing. The letter probably meandered a bit, was not as well organized as usual, and contained more information and ideas than the recipient really needed. It may have been difficult to sort through Pascal’s thoughts and identify his intent. For that, Pascal apologized, basically saying “I was short on time, so I had to throw in everything … Sorry about wasting a bit more of your time than I intended to.”
+If Pascal lived in our modern day he’d be a big fan of Post-It™ Notes, I’m sure. Digital project managers, creatives and developers can certainly appreciate Pascal’s approach. Our research, strategy, sketching and wireframing, information architecture, and prototyping represent the “more time” that Pascal preferred to take. This is the work that comes before any design comps, or any lines of code — because it needs to come first. While design and code often seems to many as being more “tangible” progress, a well-thought-out, properly-invested-in Discovery phase involving strategy, research, mapping, and planning is the most important progress of all.
+Your project’s goal is to deliver a “shorter letter” to your audience:
+- an easy-to-navigate web site;
+- a delightful mobile app experience;
+- an efficient business software user interface;
+- an infographic, data visualization or explainer that conveys complex information.
+In short, without the right amount of up front planning, you may be apologizing for a hastily-delivered project being such a “long letter.”
+Becoming contagious in health communications
+Posted by: Emma SluiterIf you work in consumer-facing health communications, you face the considerable challenges of language barriers and health literacy gaps. Here’s how the US Department of Health and Human Services assessed it:
+Only 12 percent of adults have Proficient health literacy, according to the National Assessment of Adult Literacy. In other words, nearly nine out of ten adults may lack the skills needed to manage their health and prevent disease.
+That level of health illiteracy is of course concerning, because health is related to everything we do. Our health is affected by the amount of sleep we get, the nutrition we put into our bodies, the amount of social interaction we have with friends or family in a week, and even the way we sit in a chair. All of these factors impact our overall health.
+So, how do health communications professionals work on this issue? How can they create content that is more understandable, and then spread that information as far and wide as possible? How does a healthcare brand make its important communications ‘contagious’?
+Contagious
+Contagious is a sublime book written by Jonah Berger. He goes into six “STEPPS” that can help your content go viral. His framework can be incorporated into health communications and help professionals work smarter—not harder—with their content.
+Berger’s STEPPS are as follows:
+- Social Currency
+- Triggers
+- Emotion
+- Public
+- Practical Value
+- Stories
+Understanding these can help you plan your content to make it a ‘social epidemic.’ If you want to spread your information fast and become top-of-mind, then you need to think about how to apply each of Berger’s STEPPS into your marketing campaigns.
+Step 1: Social Currency
+Social currency is the knowledge you have to add value to a conversation. The more you know, the more “status” you often have in society.
+People are always talking about what was on the news and what they saw on social media. They use this information to start conversations at work, among friends and family, and even with total strangers. When we do this and share the right type of information, we gain social currency.
+According to research cited by Buffer, there are two main reasons people share content:
+- “to give others a better sense of who they are and what they care about”
+- “to stay connected to people.”
+The research showcases that people want to be liked. Berger explains that “[the] desire for social approval is fundamental human motivation.” With this knowledge, health organizations need handcrafted, creative content so people can engage with it.
+Health organizations need to dive deeper into their target audience(s) and find valuable content based on the consumer’s interests and motivations. The content also needs to be remarkable. According to Berger:
+“Remarkable content provides social currency because they make people who talk about them seem more, well, remarkable.”
+In healthcare communications, you should almost always provide an example or visual to help explain the health-related concept. This will not only help with readers with lower health literacy rates, but it will also boost the attention and social currency value of the content.
+Step 2: Triggers
+Triggers are prompts that keep people talking about your brand or product. Berger provided a great example of triggers that may help you understand this concept better.
+Rebecca Black’s song, “Friday”, has a prevalent trigger associated with it. Can you take a guess on what it is?
+Drum roll please… the song’s title, “Friday”, is the trigger! When this song was popular, every Friday people would turn on this song because it was Friday.
+Health organizations could easily take advantage of triggers because health is related to everything you do. Content could be focused on everyday health and wellness topics to prompt healthier decisions and lifestyle habits.
+Step 3: Emotion
+If you make someone feel an emotion with your content, you will create a bond with the recipient of your message. This person then has the ability to share your message with their network and spread your brand to potential new customers of your products or services.
+According to Harvard professor Gerald Zaltman, purchase decisions, brand loyalty, and customer engagement are directly related to the subconscious mind. Emotional benefits can overpower the rational benefits of a product or service because people care about how they feel with a product or service.
+Healthcare organizations should be factoring in how they can make people feel. A prime example of doing this step right, is Health Beat, a brand journalism publication of Spectrum Health. Health Beat publishes inspiring patient stories of hardship, hope, love, joy, and excitement that spark a range of emotions in their readers, leading them to share those stories on social media so others can share in that emotional connection.
+Step 4: Public
+Another step that is crucial is “public.” A key factor of this step is observability — meaning if people see something, they will engage with it. How far the engagement goes depends on the content and the person.
+Berger also relates this concept to “social proof.” Social proof can be seen in how people wait in line for an overpriced cup of coffee. People assume the longer the line, the better the coffee. But in reality, they are herding to “social influence.” Social influence has a big effect on behavior.
+Health organizations can take advantage of this step, but have to be careful what topics they promote and educate about.
+For example, Berger discussed how anti-drug ads aren’t always the best tactic to prevent people from using them. Although the aim of these ads is to prevent young adults from using drugs, the response was often the opposite. Berger informs us that anti-drug ads promote drugs as bad, but clearly showcase that people are using them.
+Showing the drug use creates visibility and social proof that can increase the appeal of drug use among teens, and even create a larger problem. It is important to remember this example as a cautionary tale when moving forward with health-related campaigns.
+Step 5: Practical Value
+People share practically valuable information to help others. This includes useful information.
+Useful content is different for every person. It could be a tutorial video on how to prepare a meal, or an infographic giving consumers useful, relevant information. The opportunities to create useful informative content in healthcare are endless.
+So, how do you know if your content has value? Ask yourself if the content provides a functional or emotional benefit to someone. If it does, you have your answer.
+Step 6: Stories
+Stories carry things — a lesson or moral; information or a take-home message. According to Berger, stories “provide a quick and easy way for people to acquire lots of knowledge in a vivid and engaging fashion.”
+So how do you know if you are creating a good or bad story?
+Good stories provide social currency, emotion, and practical value. Bad stories do not.
+Final Thoughts
+If you want to create desirable, shareable content in healthcare you need to put these STEPPS into action.
+- Social Currency
+- Triggers
+- Emotion
+- Public
+- Practical Value
+- Stories
+Think about how your message could be woven into these important considerations, and then wait for your consumers to engage with it or not. Then make adjustments and try again.
+Remember, you can’t make something viral, but your audience can.
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/our-work/
+
+Our Work
+We work with organizations of all types and sizes on digital projects of every scope, from launching a start-up with new brand and content strategies to guiding global web initiatives for large corporations.
+We work with organizations of all types and sizes on digital projects of every scope, from launching a start-up with new brand and content strategies to guiding global web initiatives for large corporations.
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/our-blog/
+
+Leadership by Design
+Posted by: Calvin Chopp“We cannot solve our problems with the same thinking we used when we created them. — Albert Einstein”
+Innovation is an interesting buzzword in business. Many companies claim to be innovative, yet few seem to figure out what “innovative” truly is—what is it that drives innovation? What sets those companies that “get it” apart?
+In the area of digital product innovation, there’s a reason it’s estimated that less than 1% of apps succeed, or that nearly 90% of startups never get off the ground. It’s not for a lack of an innovative vision, amazing-looking UI, or slide deck used to help sell the idea to investors. Rather, the trouble is the implementation of these innovative ideas into a tangible strategy that meets an actual consumer or user’s needs. It’s this intentionality that is often missed, which subsequently leads to failure.
+Seeing innovation through to implementation is an intentional process, but organizations struggle to build the systems necessary to consistently deliver new and improved sources of value to customers and stakeholders. It’s as James Clear states in his book Atomic Habits…”we don’t rise to our goals, we fall to our systems,” How then do innovative leaders create the systems necessary to put their plans into action to set themselves up for success?
+They lead by design.
+Quite literally. They lead by design, through design led innovation. Design led innovation (DLI) is a relatively new concept within the world of product development. Prior to the emergence of DLI 10-15 years ago, efforts in innovation and development were mostly marketing-led. But companies are increasingly turning to design-led solutions to solve their biggest challenges in reaching their customers.
+This is because of DLI’s human-centered approach to innovation. That approach enables real agility for a process in which efforts to innovate are put in front of customers, validated or unsupported, and moved forward based on what findings are discovered.
+Putting an innovative idea to work is like pushing a heavy ball up a hill. As if the act of doing so is not hard enough on it’s own, when you try to take steps that are too large at one time, you’re going to lose your footing, stumble and fall. In the same way, when companies make unsupported assumptions and decisions toward a desired goal during product development, it’s like trying to leap your way up the hill. Only the 1% that are the most fit and agile will make it to the top taking that approach.
+In general, marketers and designers look at users through different lenses. Marketing often asks how they can use data to quantify a company’s current position to best align that data with the stakeholder’s current value propositions. “How is X performing?” On the other hand, design-led strategy allows a company to consider and evaluate radically new ideas from multiple perspectives. “Who is X, and why should they care what we’re creating?” DLI typically spans user needs, business requirements as well as technology demands. This in turn gives a broader view of the consumer or user because it constitutes a human-centered approach to the research and data. DLI can lead to smarter product decisions that are good for both the company and the consumer, which helps drive innovation.
+Design Led Innovation (DLI) typically spans user needs, business requirements as well as technology demands.Focusing solely on market research also tends to narrow simple questions to the most basic answers that never truly give you the full picture of why users do what they do, or how your product might help solve a problem. Confirmation bias is also a concern when only focused on market research. That is, stakeholders and teammates may look to validate their preconceived notions about what the product will do for the user by looking only at existing data or findings. Too often, they do this without venturing out to determine actual customers’ needs or doing other design-led experiments to quantify their thoughts. Market research is important in regards to a company’s well-being in general, but as it relates to innovative growth, there’s much more that should be done to ensure that your decisions are set up to drive momentum forward in a way that’s manageable, scalable and agile.
+That ‘more’ is where DLI really shines. DLI leverages design thinking methodologies. Design thinking is a non-linear process that is used to understand users, challenge assumptions, redefine problems and create innovative solutions to prototype and test. This thinking is the small, controlled steps that allow businesses to move the ball of innovation and growth up the hill. This is the controlled, agile approach to researching ideas, vetting those to real users and gauging their effectiveness long before large sums of time and money are thrown at said idea.
+Design thinking methodologies encompasses many things and can be researched and documented in a variety of ways. It can include user interviews, ethnographic research, observing consumer buying behaviors, guerilla research, design-led workshops, prototyping, and much more. While there are many approaches to what can be measured, it’s important to determine what strategies would be most effective for your product based on where you’re at in your product development process (something we can help you determine, if you’re having trouble figuring out where to start!).
+In a world that’s moving quicker every day with product development and getting new ideas in front of users—users who are more connected than ever before by our products, economies, thoughts and processes—the need for innovative digital companies to adapt and consider DLI is greater than ever. Especially if you want to keep up with the demands, changes and evolution of these people.
+Our team here at Elexicon is well versed in DLI methodologies and has helped startups, software companies and innovators around the globe push that ball over the hill and get it rolling toward great products that people understand, buy, use, and enjoy. Keep an eye out as we’ll be sharing ways that you can start leveraging design thinking within your organization today through practical approaches that help set the tone for innovation to take root and be successful.
+CTRL+C: The Art of Copying Your Way to Originality
+Posted by: Calvin ChoppIt was a year or so after I’d graduated from college and I was ready to make my mark professionally on the world. I was fortunate and found a job in my chosen career path of digital design and development. I was excited to work my way up the vocational ladder.
+Along with the excitement was a building sense of stress as I felt the need to create something original for our clients every time a project came across my desk. I didn’t want anything I created to look like something anyone had seen before. I was going to be the one to start design trends.
+I joined communities like Dribbble, Behance, and Instagram where I’d share work that I was doing, and to find others that inspired or I’d look up to, hoping to one day achieve similar success with my designs. Despite all that, there was always an underlying feeling of stress and anxiety around the need to be innovative and original with everything that I laid my fingers on.
+It wasn’t long before I felt like I was treading water in my work with only the creative, original ideas I brought to the table (seemingly few and far between) keeping me afloat. The stress of this process was completely counterproductive to what I was trying to achieve. In the name of presenting something original within budgetary and timeframe constraints, I was creating my own creative blocks, and finding it difficult to produce products for our clients that achieved a desired goal within a desired timeframe.
+So, I want to explore what it is that drives us toward creativity, why we get creative blocks on original ideas, and how practicing good copying and mimicry can help us unleash creative potential and create better products for our customers.
+What do you mean I should copy something? That’s wrong!
+You’re right! Plagiarism is wrong, and not what I’m advocating. Originality and creativity is something we build up, and is a reflection of our personality and experiences, which we bake into the things we make. It’s not surprising to me that the concept of copying is so taboo, because the line we walk between copying and plagiarism can often seem very thin.
+That said, I think that it’s good for us to look at the art of copying and consider what it helps us do, when and how it should be practiced, and how we can use these techniques to improve our skills as designers.
+Copying is one of the fundamental ways we learn.
+Humans are hardwired to mimic and copy. It’s one of the fundamental building blocks of learning. A baby, unable to communicate any other way, observes and learns how to accomplish many basic life skills by copying what those around them do. Speech patterns, first steps, and how to twist a door knob are all patterns that are developed through observation and mimicry. As we continue to grow, cultural norms, behavioral patterns and routines are developed largely from observation of those we associate ourselves with. (Face it, at some point in your life you will think something like “I really am becoming my father/mother!”). It shouldn’t come as a surprise that, if our brains are hardwired with learning patterns such as this, that there would be professional ways that we could apply these same processes.
+For an early example of this, let’s look at the ancient city of Alexandria.
+The ancient city of Alexandria was a hub of commerce, culture, and economic prosperity. From the time the city was founded, it was imbued with the spirit of curiosity. The founders of the city were greatly influenced by Aristotle, his philosophy based on observation and data collection, as well as logical reasoning, being driving factors for the city’s development.
+Being a port city, commerce from all over the world came through its harbors. For a ship to dock in Alexandria, they were required by law to give not money or other treasures, but to turn over any book they carried. The books were then copied (by hand), and a copy of their books were given back to the owners. The debate over how many books were in the total collection still is disputed, but half a million books is a typical estimate. This mass collection of books would become the Great Library of Alexandria.
+As a result of this tedious process of gathering and copying the books, the city amassed an incredible trove of knowledge of the experiences of other people, which played a large part to Alexandria making huge advancements in the ancient world, and becoming one of the central hubs of learning and innovation for the Roman Empire.
+For the leaders of Alexandria, the process of copying and studying the work and progress of many led to further innovation and ideas. Copying, mimicry, and learning are the soil in the garden of creativity. Our own experiences and personality water the seeds of innovation.
+Cartoonist Lynda Berry wrote:
+“I think copying someone’s work is the fastest way to learn certain things about drawing and line. It’s funny how there is such a taboo against it. I learned everything from just copying other people’s work.”
+By casting a wide net of those who we copy and observe, we create a greater opportunity to, like the city of Alexandria, use that knowledge to guide us to better, more original ideas.
+Using copying & mimicry for professional development: learn the mindset
+When we look to copy in a productive way professionally, our goal isn’t to plagiarize. (Can’t say that enough.) Our goal is to see through the eyes of the designers and creators we see doing what they do well. It’s to get a better understanding of the mindset that creates successful products.
+Search out sites, applications or other digital experiences that have been successful, and be curious. Can what made those products successful be applied to your customer in some way? How might you use those successful approaches or strategies that you’ve observed within the projects that you’re working on?
+Free yourself from the pressure of instant-originality
+Original ideas don’t necessarily mean better. There’s the obvious pride in knowing that you were the first to come up with an idea, but especially in UX and digital products, we need to weigh the cost of doing something completely new against how the user will actually interact with what we’re creating, as well as the client’s budget and timeframe for production.
+There’s a reason that the majority of ecommerce experiences follow a similar general pattern, or an app’s onboarding experience follows similar steps. Users are accustomed to a certain experience, and introducing changes to that experience, unless measured and well-vetted, may have negative [expensive] repercussions.
+Instead of stressing about creating a completely original approach to your client’s current problem, look for ways to leverage what you’ve observed, what you know and are capable of doing, to formulate a plan. Often, innovation and originality is discovered through this process regardless, as opposed to a conscious choice to search it out. Take time to set a project up to allow for scalability into originality. (Stay posted for an upcoming discussion on being product focused, as opposed to simply project focused. It’s applicable here.)
+Focus on authenticity, less on originality.
+When originality is replaced as our focus by observation through copying and mimicry how I’ve described, we bring something else into our work—authenticity. Focus on creating authentic products that solve problems for your customer, and by doing so, give yourself the roadmap to reach new ideas. Look at how it’s been done before. Copy it, tear it down, and do it again, over and over and over again, until you start to see your own take on that idea being shaped based on your collective observations.
+Before you know it, the creativity and innovation that used to stress you out will start to show organically through the ways that you approach your projects, and the products and solutions created for your clients will only benefit.
+Essential work: Trusted, authentic communication
+Posted by: Brion EriksenHealth Beat continues to set the standard for brand journalism with trusted storytelling—when our community needs it most.
+Our friend Jim Ylisela at Ragan Consulting Group recently wrote a blog post that highlights how companies’ brand journalism platforms have been essential to their communications and overall brand clarity and visibility during the COVID-19 crisis.
+Jim and RCG are tremendous communication partners to some of the world’s leading brands, and these companies he’s profiling all have great stories to tell. As Jim points out, building a brand journalism platform (not just a blog or newsroom) for your organization will be even more important going forward, in your efforts to remain highly visible in the digital realm with clear, authentic, and relevant storytelling, directly to your customers and prospects.
+So we won’t fault Jim for not mentioning Health Beat, a brand journalism site Elexicon partnered with Spectrum Health to build, and we’ll gladly report on their accomplishments during this strange and scary spring and summertime of 2020.
+Where the mission meets the moment
+As the Coronavirus pandemic swiftly descended onto West Michigan in March 2020, the entire Spectrum Health organization confidently mobilized into action. As the largest health system in the region, Spectrum Health would be the epicenter for COVID-19 diagnosis, testing, and care in West Michigan. Through best-practices preparedness and strong leadership from system President Tina Freese-Decker and Chief Medical Officer Darryl Elmouchi MD, Spectrum Health has been weathering the storm as effectively as can possibly be expected.
+Testing and case treatments have been handled with the utmost care and dedication from the inside, and Ms. Freese-Decker and Dr. Elmouchi have also spearheaded constant, transparent communications that kept the community informed and led to Grand Rapids and West Michigan residents successfully managing the “curve” of cases (as of this writing, trends have been carefully, optimistically, positive).
+Health Beat, as you might imagine, played an important role alongside these executive communications. Information on hand washing and social distancing and telehealth options could be found everywhere, but Health Beat’s journalism clearly and authoritatively provided this type of detailed information directly from the region’s leading health experts. And, in true Health Beat fashion, they didn’t stop there.
+On-the-ground reports
+Health Beat delivered “on the scene” reports with photo galleries and video of drive-through testing operations, helping to reduce stress by giving patients an idea of how it works and what it would be like when they arrive.
+More authentic personal stories
+Health Beat’s beautiful storytelling about health journeys continued, but with a different focus: The caregivers on the front lines of Spectrum Health’s response. Health Beat created amazing profiles of the courageous nurses and doctors, where their dedication to saving lives — in the face of danger — shined through.
+A steady flow of clear, trusted advice for keeping yourself and your family physically and mentally healthy
+Over the past several weeks, Health Beat has delivered an incredible succession of advice for dealing with COVID-19, from identifying symptoms to staying safe and sane at home: At-home exercise, easy and affordable meal ideas, sleep advice, mental health tips, even an article reminding folks who can’t go to the hairdresser that some hair color products can cause an allergic reaction.
+As our nation—and our city of Grand Rapids—were forced to once again come to grips with racial inequality and inequity in the wake of police violence and the outsized impact of COVID-19 on minorities, Health Beat continued its thoughtful reporting from the perspective of Spectrum Health’s role as a pillar of community health.
+In the last few months, Health Beat has once again proven why it has achieved over 120 web site, public relations and content marketing awards, and why it’s a standard-bearer among brand journalism platforms. Get in touch with us to learn more about how we can help you develop a brand journalism platform for your communications strategies.
+Managing the fifth risk
+Posted by: Matt SalerHow Elexicon’s retainer service can help you manage risks to your marketing efforts in uncertain times
+I’ve been re-reading Michael Lewis’ The Fifth Risk. It’s a slim volume, but I consider it one of the most important books to come out in the past few years. Lewis masterfully demonstrates the critical role the federal government plays in managing an enormous portfolio of risks that no other entity has the resources or inclination to handle.
+The “fifth risk” of the title is the threat stalking out of mind, crowded out by focus on more seemingly urgent threats one, two, and three—maybe four. Lewis writes about people whose job it is to think beyond the usual prioritized threats.
+Many of these risks are things most people don’t know about or ever think about—things we can live our lives without worrying about because they’re being “handled.” For example, he writes in a chapter about the Department of Energy (DOE):
+Roughly half of the DOE’s annual $30 billion budget is spent on maintaining and guarding our nuclear arsenal. Two billion of that goes to hunting down weapons-grade plutonium and uranium at loose in the world so that it doesn’t fall into the hands of terrorists. In eight years alone—2010-2018—the DOE’s National Nuclear Security Administration collected enough material to make 160 nuclear bombs. The department trains every international atomic-energy inspector; if nuclear power plants around the world are not producing weapons-grade material on the sly by reprocessing spent fuel rods and recovering plutonium, it’s because of these people. The DOE also supplies radiation-detection equipment to enable other countries to detect bomb material making its way across national borders.
+So, basically, the DOE is why tales of a dirty bomb or homebrew nuke going off in a city or airport somewhere in the world are only told in fantastical spy movies.
+In other chapters, he writes about the Department of Agriculture’s role in ensuring a stable and robust food supply—it doesn’t just happen—and the Department of Commerce’s role in weather forecasting through the National Oceanic and Atmospheric Administration—your Weather Channel app would be far less reliable without government data. He could have written a book five times the length and not run out of material.
+I should say that part of Lewis’ project is to show how the management of those risks is often itself at risk for various political reasons, but that’s beyond the scope of this post.
+The takeaway that I went to emphasize is this: The Fifth Risk argues persuasively you want people at the wheel, thinking about all the ways present stability can dissolve, and working to avoid those trip points so you can keep on living your life.
+Basically, you want prevention over mitigation. But it follows that if prevention fails, you want the smartest, most experienced people on hand for dealing with the fallout.
+That’s something I’ve been thinking about a lot as the COVID-19 pandemic has derailed the world. The virus burst on the scene late last year as a major threat we didn’t prevent—but could have. Now we have to mitigate the threat, with measures that are far more painful than prevention would have been.
+Now to Business
+You know the #1 risk to your digital and traditional marketing efforts—which is not far off from saying you know the #1 risk to your business. Right now, after three months or more of economic upheaval due to the pandemic, it’s probably painfully obvious. You probably have contingency plans against it and risks #2-3, maybe #4 on the outside. But what’s the fifth risk? Is anybody managing that for you?
+It’s also worth pointing out that not every business is facing the same challenges right now. Maybe consumer demand for your product or service has dropped to critical levels because of the pandemic and you need to adapt efficiently to a difficult market reality. Or maybe due to the unique changes to society brought on by the novel coronavirus, your product or service is in unusually high demand and you need to ramp up effective marketing and communications quickly. Either situation carries with it deep uncertainty about the weeks and months ahead.
+Whether demand is up or down or just wobbly, it’s smart to have a rapid response team available for the fast-changing reality your business faces—so you’re able to focus on your core mission. Sometimes you have such a team available internally. Often, though, you need to bring that kind of expertise in from the outside. In the latter case, how do you budget for that?
+Project or Retainer?
+I talked recently with a client about a budget for work they are planning for the year. The question was whether the work would be project-based or funded from a retainer. I suggested a retainer would be a valuable insurance policy for needs that may arise around their goals.
+My thinking: from a budget planning standpoint, there can be more uncertainty with projects. That’s because projects often risk expectations being set with unintentionally rose-colored glasses and assumptions about best-case scenarios. When a client and a vendor try to calibrate specific project spends within a fine-tuned overall marketing budget, we find it can be easy to leave too little room for what isn’t known. When you inevitably find out what that was, it can mean costly project overages.
+And even if the project goes well and stays on budget, there’s always the question “what now?” A week later, the CMS or a plugin for crucial site functionality requires a critical security update that impacts functionality. The person trained and responsible for maintaining the site content leaves for another organization a month after that. The new Chief Marketing Officer wants to change direction by next quarter. The original project is over—how do you quickly account for these new needs?
+A monthly retainer is a recognition of the inherent messiness of life and work, projects and marketing. It can encompass all that is good about a project budget while offering ongoing stability and certainty. It can position an expert agency to manage risks an organization may not have the resources or expertise to manage itself, while offering flexibility to change direction that a project-based approach lacks.
+The marketing department challenge
+Effective marketing translates to increased sales and profitability. To get there, you need a highly-skilled team with expertise in several key areas, as well as the right technology. Depending on the size of your business, it can be difficult and costly to make the right moves in the right sequence to build that team and bring on the right tools.
+If you manage a team with marketing responsibilities within a larger organization, you may have budget, hiring, or internal resource usage limitations that restrict you in similar ways.
+The marketing and digital retainer solution
+An Elexicon retainer matches your marketing needs with the skills and technologies necessary to meet those needs, at a predictable cost.
+We do this by:
+- working closely with you, within an overall strategy and toward set goals, with regular communications and monthly reports.
+- providing a skilled roster of experienced staff, using proven tools that are ready to plug in.
+- sharing a vested interest in the overall success of your organization—we’re always thinking ahead about what can and should be done.
+- letting you mix and match skills to goals on a month-to-month basis, making sure you only pay for what you need, when you need it.
+- harnessing the momentum that’s made by being constantly engaged, thereby avoiding the frequent startup time and costs that come with the estimate process for tactical needs.
+- offering a discounted hourly rate due to the annual commitment of the retainer
+This partnership means you always have the resources and confidence to set and achieve marketing goals. A retainer approach allows your needs and costs to stay synchronized (even when needs change from month-to-month), and delivers the talent and tools you need, when you need them. The talent and tools specifically manifest in our full slate of services.
+Stay vital to being vital
+Our user interface design and user experience services ensure that you’re thinking through every aspect of your customer journey and user flow, whether you have a software or SaaS product, or an e-commerce ecosystem for your physical products. Your development teams may be collaborating with your sales and marketing teams to deliver the features that help the product sell, but do they help the sales “stick?” We help map out the big-picture and long-view of your user’s relationship with the product, to identify where they may be running into frustrations, and opportunities to boost customer delight.
+Customer delight is especially important in times like these, when folks need to prioritize what they’re spending money on, and are thinking about what subscriptions and memberships they find vital. Your user interface and digital experience is vital to being vital.
+Laying a foundation that stands the test of … anything
+With our strategic services, we help our customers not only envision the big picture and the long view, but plan it and map it out. We build and iterate early product prototypes. We research, refine, and report on your digital traffic and optimize audiences. We place the right messaging and content in front of the right prospects and customers at the right time. All of this establishes a solid foundation for customer loyalty, and a clear strategy for acquiring more of those ideal customers.
+Teamwork makes the dream work
+All of this works on a project basis, but is particularly powerful with the continuity of an ongoing retainer relationship. Such a relationship forges the kind of bonds of teamwork that only come with practice.
+With the right resources in the right place working together in the right way, you can finally accomplish things like:
+- Refreshing your site’s design
+- Updating your logo and branding
+- Setting up a digital ad and remarketing campaign
+- Getting a handle your site’s security (i.e. stopping that spam)
+- Standing up an email campaign for the first time
+- Developing a new type of communication page for your customers/audience
+You can probably add to that list.
+But what does it cost?
+If you’re thinking “I’ve just finished my pandemic lockdown rewatch of Mad Men. Retainers are expensive. I don’t have room in my budget for a retainer,” let me put your mind at ease: a retainer is what you make it. You can, of course, do more with more. But even if it’s just a way to ensure you have somebody to call when something goes wrong with your website, that’s okay too. We’re confident you’ll see the value because we know from experience that retainers work.
+If you’re ready to make a safe investment in your digital marketing, if you’re ready to have your marketing risks managed—#1-5 and beyond—by an experienced team dedicated to your success, get in touch.
+“I believe this will be our finest hour.”
+Posted by: Brion EriksenLessons in leadership, perseverance and improvisation, on the 50th anniversary of the Apollo 13 mission
+A few weeks ago, I wrote a post about John F. Kennedy’s 1962 “we will go to the moon” speech. I detailed my thoughts of how I felt that inspirational speech is relevant to today’s COVID-19 crisis. This past weekend was the 50th anniversary of the Apollo 13 mission, which happened eight years after JFK’s speech. The U.S. had already a year earlier in 1969 reached the moon with the Apollo 11 mission, “in this decade” as Kennedy aspired, and ahead of the U.S.S.R. The Apollo 13 mission had a much different result, but its story still draws a through-line directly back to Kennedy’s spirit of determination and innovation, embodied in the phrase “…that goal will serve to organize and measure the best of our energies and skills.”
+A ‘successful failure’
+Most of you are probably familiar with the Apollo 13 mission that—due to an explosion and damage to the spacecraft—failed to land on the moon. But the craft didn’t come crashing down on the moon or back to earth. Instead, the crippled technology successfully ferried its crew safely around the moon and back home, due to the leadership, perseverance, innovation and hard work of the mission control crew in Houston. If you need a refresher, the 1995 Apollo 13 movie directed by Ron Howard and starring Tom Hanks, Ed Harris and Gary Sinise is excellent work, and should be on everyone’s social-distancing list for a watch or re-watch. And an insightful new interview with the mission’s captain Jim Lovell was posted by USA Today this weekend to commemorate the 50th anniversary.
+Whether you are one of my fellow small business owners and entrepreneurs, or one of Elexicon’s clients or colleagues, I’m sure we’re all feeling uncertain and at least a little shaken right now—if not overwhelmed by the breadth and depth of this crisis’ impact on the economy. We’ve all been setting goals, and organizing the best our energies and skills. We’ve been planning our own versions of successful moon landings, and we’ve pulled some off.
+But now the course that we were on has been obscured, and in some cases, seemingly erased.
+No playbook, no blueprint
+As I talked about in another recent post, we were holding “maps”—plans, projects, targets—for the territory our businesses and teams would traverse in 2020. Now that terrain has changed and we need new maps. The Apollo 13 mission team’s response to their sudden reversal of fate set a great example of how to rise to a challenge for which there was no playbook or blueprint, with resourcefulness and determination. Sometimes we do our best work by developing a well thought-out strategy, and then implementing that strategy to successfully reach an objective. But other times we need to respond to unexpected adversity. We need to set aside the original aspirations we had, let go of “what could have been,” and focus on what needs to be done now. In these moments, with these decisions we can still achieve our “finest hours.”
+Here’s Ed Harris’ Gene Krantz* defusing any thought that “This could be the worst disaster NASA has ever experienced.” Instead, he delivers a counterfactual, that this team is going to adapt to the new reality, and “…this will be our finest hour.”
+“We have a new mission”
+Many of us entrepreneurs, business owners and team leaders are now throwing out our flight plans, and are faced with a new mission. “I don’t care what anything was designed to do, I only care about what it can do,” says Harris’ Krantz in this scene. In normal times, for all of us, this is counterintuitive. We envision, plan, design, and create products and processes to do a certain thing or produce a certain result. But when we’re faced with a seismic shift in outlook or an unexpected crisis, we need to decisively and creatively determine what our business, product or services can do to first survive and then thrive in a new way.
+Creativity under constraints
+I’ve always loved this scene where an ad hoc team “downstairs” at mission control needs to quickly devise a way to connect a square fitting to a round hole, to give the astronauts the carbon monoxide filtering they’ll need. They need to “fit this into this, using nothing but that,” with “that” being only the spare parts and gear available on the spacecraft. The sequence is a great example of creativity under constraints, and inventing a solution with limited resources. In different ways, we’ll all be facing new constraints on our processes, where before we typically had all the resources we’d need. Sometimes, it is from within constraints that true creativity and innovation happen, and new solutions are invented that we may have never thought of before.
+Communication, trust, teamwork
+Finally, this roughly 4-minute scene—terrifically written* and acted—depicts the flight crew exercising their problem-solving and leadership brainpower as a team. We all know how to deliver advice on subjects that we’re experts in, and how to be a good team player. But in times like these, we need to dig deeper, below all that stuff we read and learned, and into our instincts and guts. This scene is timeless, but is especially timely and relevant in the context of current events (whether we’re talking about leading our own businesses and teams, or our leaders in government):
+- Communication: Loren Dean’s EECOM John Aaron, clearly and authoritatively arguing that “power is everything,” that the module’s electrical battery power needs to be shut down to be conserved for later. He states exactly why, and that has the data to back it up.
+- Trust: Harris’ Gene Krantz to Dean’s John Aaron, “That’s the deal?” Then after a deliberative pause, “Okay, John, the minute we finish the burn, we’ll power down the L.E.M.” Krantz knows he’s not the smartest guy in the room and sets aside any need to prove that he is. Instead, he trusts their advice, puts a plan in motion based on that trust, and then sends them off to work with a little pep talk. But the trust he instilled was probably enough extra motivation already.
+- Teamwork: Gary Sinise’s Ken Mattingly is called in to run the power simulations, to determine how to most efficiently bring the L.E.M. power down and then back up again. Mattingly requests that the simulator be “cold and dark” like it is up in the spacecraft, and he’ll need a flashlight. When he’s handed a random flashlight, Mattingly says “That’s not what they have up there … don’t give me anything they don’t have up there.” Even though the kind of flashlight is probably inconsequential to the power-up procedures, but Mattingly instinctually knows he needs to practically put himself in that cockpit with his teammates in order to precisely do his job.
+While it’s no silver bullet for our anxiety, I hope that looking back on the early days of the U.S. space program provides some lessons in what we’re all capable of, and reminds us that perseverance, ingenuity, and sometimes improvisation are in our nation’s DNA.
+*According to interviews with the astronauts and flight teams, and with the filmmakers, the Apollo 13 movie falls somewhere between being “firmly-” and “loosely-based” on actual events and characters. Some roles were composites, such as Ed Harris’ depiction of White Team Flight Director Gene Krantz, which also incorporated decisions made by Black Team Flight Director Glynn Lunney. Some quotes such as “Failure is not an option!” were added with artistic license for dramatic effect. Regardless, I find the movie’s dramatic portrayals to be an effective embodiment of the leadership, teamwork and problem solving that led to saving the astronauts’ lives. The movie captures the spirit of “toughness and competence” that the real-life Krantz would make a central theme of his autobiography (which, interestingly, Krantz went ahead and titled, “Failure is Not an Option”).
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/work/blackbaud/
+
+Blackbaud
+The leading technology solutions provider for non-profit organizations, Blackbaud provides software, services, expertise, and data intelligence that empowers and connects people to advance the social good movement. Since 2011, Elexicon has partnered with Blackbaud’s IT and marketing teams to plan, build and manage their robust corporate family of websites through content strategy, technical planning and enterprise-class web development.
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/work/christmanco/
+
+Christman Company
+We’re admirers of Christman Company’s construction work, and we see stunning examples of it every day throughout Michigan. Based in Lansing and founded in 1894, Christman is the largest and most admired construction management company in the state, as well as nationwide through their expansion into the mid-eastern and southern U.S.
+Information Architecture
+Christman approached us with the desire to replatform their existing website and design a more engaging user experience. This included intentional use of their new photography, color, typography, and icon standards, something that had not be present on their existing site. We worked to simplify the information architecture of the existing sitemap. Many pages were consolidated or eliminated through best practices and collaboration with the client.
+Design System / Component Library
+Working closely with their marketing and brand team, we created a robust design system and component library that allowed them to flexibly create pages that fit their content. Ever growing to meet their needs, this approach allows a “plug and play” experience for our clients while remaining completely custom to their brand and needs.
+Website design & development
+Next, Elexicon put our proven process to work to build the website. Our UX designer worked seamlessly with our web development team to implement the design system and components into beautiful pages and navigation that tell the story of Christman’s long history and modern accomplishments. The site was built using the latest WordPress technologies for content management and performance optimization.
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/work/cogrounded/
+
+Cogrounded
+Cogrounded is an education technology start-up that helps institutions achieve both educational impact and commercial success. We provide a managed services model to educational experts who need access and viability to bring their IP to the K-12 market.
+Brand development
+As a new start-up, Cogrounded turned to Elexicon for creative direction and design to define their brand from the ground up. Building on Cogrounded’s envisioning of their brand personality, Elexicon created an energetic and forward-thinking visual design system, including the company logo, imagery, iconography, web design, and marketing collateral templates.
+Design system elements
+The Cogrounded team is led by marketing experts who we equipped and empowered with a comprehensive design palette to help them create their own promotional assets. Elexicon designed frameworks and templates to support an array of marketing and advertising assets for a variety of media channels.
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/work/grass-valley/
+
+Augusto
+Augusto Digital is a long-time partner of Elexicon, and one that we’re proud to partner with offering services including UX/UI design, UX research, prototyping, brand strategy, as well as front and back end development. Augusto builds cloud-native software applications that take advantage of the distributed computing power of the cloud and allow their customers to achieve their business dreams with great flexibility.
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/work/amway/
+
+Amway
+How do you test new business models for a global corporation within a limited timeframe and budget? By carefully crafting user-centered live model tests for measuring a diverse audience’s engagement. Working alongside other talented groups at Amway, we created web experiences that blended online information with e-commerce, social strategies, and on-site events. The result: unique testing environments that provided measurable user feedback about the effectiveness of given approaches.
+The Projects
+Both live model test projects for Amway were set in motion to test a specific business model within the company, but each project accomplished different tasks. The first test was completed in Moscow, Russia, and the second in Toulouse, France. Each test was targeted by the needs of the company’s local clientele, specifically how those users incorporated Amway products as part of their everyday lives.
+The Approach
+In Moscow
+The project in Moscow was focused on Amway’s role with individual fulfillment, rather than selling Amway products. Because the goal was to boost the feeling of success associated with personal development, the focus was on empowering Amway Independent business owners to extend their reach into their communities through a series specifically tailored events.
+In Toulouse
+In Toulouse, we created an online experience around products for a completely new brand, SOLI by Amway. We redeveloped an online approach for users to experience the brand through online profiles where they could create their own collections of SOLI products. The project also incorporated an e-commerce solution for secure purchasing within a tested, controlled environment.
+Personalized Content
+To best meet the needs of users for both projects, we worked with Amway to create an algorithm-driven user assessment. Users that completed the assessment would be presented with custom-tailored content regarding upcoming events, products of interest, and the creation of product collections.
+Measurable Results
+Simply building and launching these projects was never our measure of success. We worked with the teams at Amway to create ways of visualizing the data in a way that the teams could more easily analyze and interpret results. This included custom back-end site dashboards grouping and displaying pertinent analytic user details.
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/work/harris-corp/
+
+L3Harris
+Before Harris Corporation divested their commercial business division and merged with L3 Communications, Elexicon helped Harris Broadcast Communications with multiple web and marketing initiatives. Ever seeking to maximize and promote a strong brand assertion for Harris, we engaged their customers with a wide range of digital and print projects. These projects included web design, product demos, microsite development, advertisements, print design, and trade show support.
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/ctrlc-the-art-of-copying-your-way-to-originality/
+
+CTRL+C: The Art of Copying Your Way to Originality
+It was a year or so after I’d graduated from college and I was ready to make my mark professionally on the world. I was fortunate and found a job in my chosen career path of digital design and development. I was excited to work my way up the vocational ladder.
+Along with the excitement was a building sense of stress as I felt the need to create something original for our clients every time a project came across my desk. I didn’t want anything I created to look like something anyone had seen before. I was going to be the one to start design trends.
+I joined communities like Dribbble, Behance, and Instagram where I’d share work that I was doing, and to find others that inspired or I’d look up to, hoping to one day achieve similar success with my designs. Despite all that, there was always an underlying feeling of stress and anxiety around the need to be innovative and original with everything that I laid my fingers on.
+It wasn’t long before I felt like I was treading water in my work with only the creative, original ideas I brought to the table (seemingly few and far between) keeping me afloat. The stress of this process was completely counterproductive to what I was trying to achieve. In the name of presenting something original within budgetary and timeframe constraints, I was creating my own creative blocks, and finding it difficult to produce products for our clients that achieved a desired goal within a desired timeframe.
+So, I want to explore what it is that drives us toward creativity, why we get creative blocks on original ideas, and how practicing good copying and mimicry can help us unleash creative potential and create better products for our customers.
+What do you mean I should copy something? That’s wrong!
+You’re right! Plagiarism is wrong, and not what I’m advocating. Originality and creativity is something we build up, and is a reflection of our personality and experiences, which we bake into the things we make. It’s not surprising to me that the concept of copying is so taboo, because the line we walk between copying and plagiarism can often seem very thin.
+That said, I think that it’s good for us to look at the art of copying and consider what it helps us do, when and how it should be practiced, and how we can use these techniques to improve our skills as designers.
+Copying is one of the fundamental ways we learn.
+Humans are hardwired to mimic and copy. It’s one of the fundamental building blocks of learning. A baby, unable to communicate any other way, observes and learns how to accomplish many basic life skills by copying what those around them do. Speech patterns, first steps, and how to twist a door knob are all patterns that are developed through observation and mimicry. As we continue to grow, cultural norms, behavioral patterns and routines are developed largely from observation of those we associate ourselves with. (Face it, at some point in your life you will think something like “I really am becoming my father/mother!”). It shouldn’t come as a surprise that, if our brains are hardwired with learning patterns such as this, that there would be professional ways that we could apply these same processes.
+For an early example of this, let’s look at the ancient city of Alexandria.
+The ancient city of Alexandria was a hub of commerce, culture, and economic prosperity. From the time the city was founded, it was imbued with the spirit of curiosity. The founders of the city were greatly influenced by Aristotle, his philosophy based on observation and data collection, as well as logical reasoning, being driving factors for the city’s development.
+Being a port city, commerce from all over the world came through its harbors. For a ship to dock in Alexandria, they were required by law to give not money or other treasures, but to turn over any book they carried. The books were then copied (by hand), and a copy of their books were given back to the owners. The debate over how many books were in the total collection still is disputed, but half a million books is a typical estimate. This mass collection of books would become the Great Library of Alexandria.
+As a result of this tedious process of gathering and copying the books, the city amassed an incredible trove of knowledge of the experiences of other people, which played a large part to Alexandria making huge advancements in the ancient world, and becoming one of the central hubs of learning and innovation for the Roman Empire.
+For the leaders of Alexandria, the process of copying and studying the work and progress of many led to further innovation and ideas. Copying, mimicry, and learning are the soil in the garden of creativity. Our own experiences and personality water the seeds of innovation.
+Cartoonist Lynda Berry wrote:
+“I think copying someone’s work is the fastest way to learn certain things about drawing and line. It’s funny how there is such a taboo against it. I learned everything from just copying other people’s work.”
+By casting a wide net of those who we copy and observe, we create a greater opportunity to, like the city of Alexandria, use that knowledge to guide us to better, more original ideas.
+Using copying & mimicry for professional development: learn the mindset
+When we look to copy in a productive way professionally, our goal isn’t to plagiarize. (Can’t say that enough.) Our goal is to see through the eyes of the designers and creators we see doing what they do well. It’s to get a better understanding of the mindset that creates successful products.
+Search out sites, applications or other digital experiences that have been successful, and be curious. Can what made those products successful be applied to your customer in some way? How might you use those successful approaches or strategies that you’ve observed within the projects that you’re working on?
+Free yourself from the pressure of instant-originality
+Original ideas don’t necessarily mean better. There’s the obvious pride in knowing that you were the first to come up with an idea, but especially in UX and digital products, we need to weigh the cost of doing something completely new against how the user will actually interact with what we’re creating, as well as the client’s budget and timeframe for production.
+There’s a reason that the majority of ecommerce experiences follow a similar general pattern, or an app’s onboarding experience follows similar steps. Users are accustomed to a certain experience, and introducing changes to that experience, unless measured and well-vetted, may have negative [expensive] repercussions.
+Instead of stressing about creating a completely original approach to your client’s current problem, look for ways to leverage what you’ve observed, what you know and are capable of doing, to formulate a plan. Often, innovation and originality is discovered through this process regardless, as opposed to a conscious choice to search it out. Take time to set a project up to allow for scalability into originality. (Stay posted for an upcoming discussion on being product focused, as opposed to simply project focused. It’s applicable here.)
+Focus on authenticity, less on originality.
+When originality is replaced as our focus by observation through copying and mimicry how I’ve described, we bring something else into our work—authenticity. Focus on creating authentic products that solve problems for your customer, and by doing so, give yourself the roadmap to reach new ideas. Look at how it’s been done before. Copy it, tear it down, and do it again, over and over and over again, until you start to see your own take on that idea being shaped based on your collective observations.
+Before you know it, the creativity and innovation that used to stress you out will start to show organically through the ways that you approach your projects, and the products and solutions created for your clients will only benefit.
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/essential-work-trusted-authentic-communication/
+
+Health Beat continues to set the standard for brand journalism with trusted storytelling—when our community needs it most.
+Our friend Jim Ylisela at Ragan Consulting Group recently wrote a blog post that highlights how companies’ brand journalism platforms have been essential to their communications and overall brand clarity and visibility during the COVID-19 crisis.
+Jim and RCG are tremendous communication partners to some of the world’s leading brands, and these companies he’s profiling all have great stories to tell. As Jim points out, building a brand journalism platform (not just a blog or newsroom) for your organization will be even more important going forward, in your efforts to remain highly visible in the digital realm with clear, authentic, and relevant storytelling, directly to your customers and prospects.
+So we won’t fault Jim for not mentioning Health Beat, a brand journalism site Elexicon partnered with Spectrum Health to build, and we’ll gladly report on their accomplishments during this strange and scary spring and summertime of 2020.
+Where the mission meets the moment
+As the Coronavirus pandemic swiftly descended onto West Michigan in March 2020, the entire Spectrum Health organization confidently mobilized into action. As the largest health system in the region, Spectrum Health would be the epicenter for COVID-19 diagnosis, testing, and care in West Michigan. Through best-practices preparedness and strong leadership from system President Tina Freese-Decker and Chief Medical Officer Darryl Elmouchi MD, Spectrum Health has been weathering the storm as effectively as can possibly be expected.
+Testing and case treatments have been handled with the utmost care and dedication from the inside, and Ms. Freese-Decker and Dr. Elmouchi have also spearheaded constant, transparent communications that kept the community informed and led to Grand Rapids and West Michigan residents successfully managing the “curve” of cases (as of this writing, trends have been carefully, optimistically, positive).
+Health Beat, as you might imagine, played an important role alongside these executive communications. Information on hand washing and social distancing and telehealth options could be found everywhere, but Health Beat’s journalism clearly and authoritatively provided this type of detailed information directly from the region’s leading health experts. And, in true Health Beat fashion, they didn’t stop there.
+On-the-ground reports
+Health Beat delivered “on the scene” reports with photo galleries and video of drive-through testing operations, helping to reduce stress by giving patients an idea of how it works and what it would be like when they arrive.
+More authentic personal stories
+Health Beat’s beautiful storytelling about health journeys continued, but with a different focus: The caregivers on the front lines of Spectrum Health’s response. Health Beat created amazing profiles of the courageous nurses and doctors, where their dedication to saving lives — in the face of danger — shined through.
+A steady flow of clear, trusted advice for keeping yourself and your family physically and mentally healthy
+Over the past several weeks, Health Beat has delivered an incredible succession of advice for dealing with COVID-19, from identifying symptoms to staying safe and sane at home: At-home exercise, easy and affordable meal ideas, sleep advice, mental health tips, even an article reminding folks who can’t go to the hairdresser that some hair color products can cause an allergic reaction.
+As our nation—and our city of Grand Rapids—were forced to once again come to grips with racial inequality and inequity in the wake of police violence and the outsized impact of COVID-19 on minorities, Health Beat continued its thoughtful reporting from the perspective of Spectrum Health’s role as a pillar of community health.
+In the last few months, Health Beat has once again proven why it has achieved over 120 web site, public relations and content marketing awards, and why it’s a standard-bearer among brand journalism platforms. Get in touch with us to learn more about how we can help you develop a brand journalism platform for your communications strategies.
+
+--------------------------------------------------------------------------------
+
+URL: https://elexicon.com/category/articles/
+
+Leadership by Design
+Posted by: Calvin Chopp“We cannot solve our problems with the same thinking we used when we created them. — Albert Einstein”
+Innovation is an interesting buzzword in business. Many companies claim to be innovative, yet few seem to figure out what “innovative” truly is—what is it that drives innovation? What sets those companies that “get it” apart?
+In the area of digital product innovation, there’s a reason it’s estimated that less than 1% of apps succeed, or that nearly 90% of startups never get off the ground. It’s not for a lack of an innovative vision, amazing-looking UI, or slide deck used to help sell the idea to investors. Rather, the trouble is the implementation of these innovative ideas into a tangible strategy that meets an actual consumer or user’s needs. It’s this intentionality that is often missed, which subsequently leads to failure.
+Seeing innovation through to implementation is an intentional process, but organizations struggle to build the systems necessary to consistently deliver new and improved sources of value to customers and stakeholders. It’s as James Clear states in his book Atomic Habits…”we don’t rise to our goals, we fall to our systems,” How then do innovative leaders create the systems necessary to put their plans into action to set themselves up for success?
+They lead by design.
+Quite literally. They lead by design, through design led innovation. Design led innovation (DLI) is a relatively new concept within the world of product development. Prior to the emergence of DLI 10-15 years ago, efforts in innovation and development were mostly marketing-led. But companies are increasingly turning to design-led solutions to solve their biggest challenges in reaching their customers.
+This is because of DLI’s human-centered approach to innovation. That approach enables real agility for a process in which efforts to innovate are put in front of customers, validated or unsupported, and moved forward based on what findings are discovered.
+Putting an innovative idea to work is like pushing a heavy ball up a hill. As if the act of doing so is not hard enough on it’s own, when you try to take steps that are too large at one time, you’re going to lose your footing, stumble and fall. In the same way, when companies make unsupported assumptions and decisions toward a desired goal during product development, it’s like trying to leap your way up the hill. Only the 1% that are the most fit and agile will make it to the top taking that approach.
+In general, marketers and designers look at users through different lenses. Marketing often asks how they can use data to quantify a company’s current position to best align that data with the stakeholder’s current value propositions. “How is X performing?” On the other hand, design-led strategy allows a company to consider and evaluate radically new ideas from multiple perspectives. “Who is X, and why should they care what we’re creating?” DLI typically spans user needs, business requirements as well as technology demands. This in turn gives a broader view of the consumer or user because it constitutes a human-centered approach to the research and data. DLI can lead to smarter product decisions that are good for both the company and the consumer, which helps drive innovation.
+Design Led Innovation (DLI) typically spans user needs, business requirements as well as technology demands.Focusing solely on market research also tends to narrow simple questions to the most basic answers that never truly give you the full picture of why users do what they do, or how your product might help solve a problem. Confirmation bias is also a concern when only focused on market research. That is, stakeholders and teammates may look to validate their preconceived notions about what the product will do for the user by looking only at existing data or findings. Too often, they do this without venturing out to determine actual customers’ needs or doing other design-led experiments to quantify their thoughts. Market research is important in regards to a company’s well-being in general, but as it relates to innovative growth, there’s much more that should be done to ensure that your decisions are set up to drive momentum forward in a way that’s manageable, scalable and agile.
+That ‘more’ is where DLI really shines. DLI leverages design thinking methodologies. Design thinking is a non-linear process that is used to understand users, challenge assumptions, redefine problems and create innovative solutions to prototype and test. This thinking is the small, controlled steps that allow businesses to move the ball of innovation and growth up the hill. This is the controlled, agile approach to researching ideas, vetting those to real users and gauging their effectiveness long before large sums of time and money are thrown at said idea.
+Design thinking methodologies encompasses many things and can be researched and documented in a variety of ways. It can include user interviews, ethnographic research, observing consumer buying behaviors, guerilla research, design-led workshops, prototyping, and much more. While there are many approaches to what can be measured, it’s important to determine what strategies would be most effective for your product based on where you’re at in your product development process (something we can help you determine, if you’re having trouble figuring out where to start!).
+In a world that’s moving quicker every day with product development and getting new ideas in front of users—users who are more connected than ever before by our products, economies, thoughts and processes—the need for innovative digital companies to adapt and consider DLI is greater than ever. Especially if you want to keep up with the demands, changes and evolution of these people.
+Our team here at Elexicon is well versed in DLI methodologies and has helped startups, software companies and innovators around the globe push that ball over the hill and get it rolling toward great products that people understand, buy, use, and enjoy. Keep an eye out as we’ll be sharing ways that you can start leveraging design thinking within your organization today through practical approaches that help set the tone for innovation to take root and be successful.
+CTRL+C: The Art of Copying Your Way to Originality
+Posted by: Calvin ChoppIt was a year or so after I’d graduated from college and I was ready to make my mark professionally on the world. I was fortunate and found a job in my chosen career path of digital design and development. I was excited to work my way up the vocational ladder.
+Along with the excitement was a building sense of stress as I felt the need to create something original for our clients every time a project came across my desk. I didn’t want anything I created to look like something anyone had seen before. I was going to be the one to start design trends.
+I joined communities like Dribbble, Behance, and Instagram where I’d share work that I was doing, and to find others that inspired or I’d look up to, hoping to one day achieve similar success with my designs. Despite all that, there was always an underlying feeling of stress and anxiety around the need to be innovative and original with everything that I laid my fingers on.
+It wasn’t long before I felt like I was treading water in my work with only the creative, original ideas I brought to the table (seemingly few and far between) keeping me afloat. The stress of this process was completely counterproductive to what I was trying to achieve. In the name of presenting something original within budgetary and timeframe constraints, I was creating my own creative blocks, and finding it difficult to produce products for our clients that achieved a desired goal within a desired timeframe.
+So, I want to explore what it is that drives us toward creativity, why we get creative blocks on original ideas, and how practicing good copying and mimicry can help us unleash creative potential and create better products for our customers.
+What do you mean I should copy something? That’s wrong!
+You’re right! Plagiarism is wrong, and not what I’m advocating. Originality and creativity is something we build up, and is a reflection of our personality and experiences, which we bake into the things we make. It’s not surprising to me that the concept of copying is so taboo, because the line we walk between copying and plagiarism can often seem very thin.
+That said, I think that it’s good for us to look at the art of copying and consider what it helps us do, when and how it should be practiced, and how we can use these techniques to improve our skills as designers.
+Copying is one of the fundamental ways we learn.
+Humans are hardwired to mimic and copy. It’s one of the fundamental building blocks of learning. A baby, unable to communicate any other way, observes and learns how to accomplish many basic life skills by copying what those around them do. Speech patterns, first steps, and how to twist a door knob are all patterns that are developed through observation and mimicry. As we continue to grow, cultural norms, behavioral patterns and routines are developed largely from observation of those we associate ourselves with. (Face it, at some point in your life you will think something like “I really am becoming my father/mother!”). It shouldn’t come as a surprise that, if our brains are hardwired with learning patterns such as this, that there would be professional ways that we could apply these same processes.
+For an early example of this, let’s look at the ancient city of Alexandria.
+The ancient city of Alexandria was a hub of commerce, culture, and economic prosperity. From the time the city was founded, it was imbued with the spirit of curiosity. The founders of the city were greatly influenced by Aristotle, his philosophy based on observation and data collection, as well as logical reasoning, being driving factors for the city’s development.
+Being a port city, commerce from all over the world came through its harbors. For a ship to dock in Alexandria, they were required by law to give not money or other treasures, but to turn over any book they carried. The books were then copied (by hand), and a copy of their books were given back to the owners. The debate over how many books were in the total collection still is disputed, but half a million books is a typical estimate. This mass collection of books would become the Great Library of Alexandria.
+As a result of this tedious process of gathering and copying the books, the city amassed an incredible trove of knowledge of the experiences of other people, which played a large part to Alexandria making huge advancements in the ancient world, and becoming one of the central hubs of learning and innovation for the Roman Empire.
+For the leaders of Alexandria, the process of copying and studying the work and progress of many led to further innovation and ideas. Copying, mimicry, and learning are the soil in the garden of creativity. Our own experiences and personality water the seeds of innovation.
+Cartoonist Lynda Berry wrote:
+“I think copying someone’s work is the fastest way to learn certain things about drawing and line. It’s funny how there is such a taboo against it. I learned everything from just copying other people’s work.”
+By casting a wide net of those who we copy and observe, we create a greater opportunity to, like the city of Alexandria, use that knowledge to guide us to better, more original ideas.
+Using copying & mimicry for professional development: learn the mindset
+When we look to copy in a productive way professionally, our goal isn’t to plagiarize. (Can’t say that enough.) Our goal is to see through the eyes of the designers and creators we see doing what they do well. It’s to get a better understanding of the mindset that creates successful products.
+Search out sites, applications or other digital experiences that have been successful, and be curious. Can what made those products successful be applied to your customer in some way? How might you use those successful approaches or strategies that you’ve observed within the projects that you’re working on?
+Free yourself from the pressure of instant-originality
+Original ideas don’t necessarily mean better. There’s the obvious pride in knowing that you were the first to come up with an idea, but especially in UX and digital products, we need to weigh the cost of doing something completely new against how the user will actually interact with what we’re creating, as well as the client’s budget and timeframe for production.
+There’s a reason that the majority of ecommerce experiences follow a similar general pattern, or an app’s onboarding experience follows similar steps. Users are accustomed to a certain experience, and introducing changes to that experience, unless measured and well-vetted, may have negative [expensive] repercussions.
+Instead of stressing about creating a completely original approach to your client’s current problem, look for ways to leverage what you’ve observed, what you know and are capable of doing, to formulate a plan. Often, innovation and originality is discovered through this process regardless, as opposed to a conscious choice to search it out. Take time to set a project up to allow for scalability into originality. (Stay posted for an upcoming discussion on being product focused, as opposed to simply project focused. It’s applicable here.)
+Focus on authenticity, less on originality.
+When originality is replaced as our focus by observation through copying and mimicry how I’ve described, we bring something else into our work—authenticity. Focus on creating authentic products that solve problems for your customer, and by doing so, give yourself the roadmap to reach new ideas. Look at how it’s been done before. Copy it, tear it down, and do it again, over and over and over again, until you start to see your own take on that idea being shaped based on your collective observations.
+Before you know it, the creativity and innovation that used to stress you out will start to show organically through the ways that you approach your projects, and the products and solutions created for your clients will only benefit.
+Essential work: Trusted, authentic communication
+Posted by: Brion EriksenHealth Beat continues to set the standard for brand journalism with trusted storytelling—when our community needs it most.
+Our friend Jim Ylisela at Ragan Consulting Group recently wrote a blog post that highlights how companies’ brand journalism platforms have been essential to their communications and overall brand clarity and visibility during the COVID-19 crisis.
+Jim and RCG are tremendous communication partners to some of the world’s leading brands, and these companies he’s profiling all have great stories to tell. As Jim points out, building a brand journalism platform (not just a blog or newsroom) for your organization will be even more important going forward, in your efforts to remain highly visible in the digital realm with clear, authentic, and relevant storytelling, directly to your customers and prospects.
+So we won’t fault Jim for not mentioning Health Beat, a brand journalism site Elexicon partnered with Spectrum Health to build, and we’ll gladly report on their accomplishments during this strange and scary spring and summertime of 2020.
+Where the mission meets the moment
+As the Coronavirus pandemic swiftly descended onto West Michigan in March 2020, the entire Spectrum Health organization confidently mobilized into action. As the largest health system in the region, Spectrum Health would be the epicenter for COVID-19 diagnosis, testing, and care in West Michigan. Through best-practices preparedness and strong leadership from system President Tina Freese-Decker and Chief Medical Officer Darryl Elmouchi MD, Spectrum Health has been weathering the storm as effectively as can possibly be expected.
+Testing and case treatments have been handled with the utmost care and dedication from the inside, and Ms. Freese-Decker and Dr. Elmouchi have also spearheaded constant, transparent communications that kept the community informed and led to Grand Rapids and West Michigan residents successfully managing the “curve” of cases (as of this writing, trends have been carefully, optimistically, positive).
+Health Beat, as you might imagine, played an important role alongside these executive communications. Information on hand washing and social distancing and telehealth options could be found everywhere, but Health Beat’s journalism clearly and authoritatively provided this type of detailed information directly from the region’s leading health experts. And, in true Health Beat fashion, they didn’t stop there.
+On-the-ground reports
+Health Beat delivered “on the scene” reports with photo galleries and video of drive-through testing operations, helping to reduce stress by giving patients an idea of how it works and what it would be like when they arrive.
+More authentic personal stories
+Health Beat’s beautiful storytelling about health journeys continued, but with a different focus: The caregivers on the front lines of Spectrum Health’s response. Health Beat created amazing profiles of the courageous nurses and doctors, where their dedication to saving lives — in the face of danger — shined through.
+A steady flow of clear, trusted advice for keeping yourself and your family physically and mentally healthy
+Over the past several weeks, Health Beat has delivered an incredible succession of advice for dealing with COVID-19, from identifying symptoms to staying safe and sane at home: At-home exercise, easy and affordable meal ideas, sleep advice, mental health tips, even an article reminding folks who can’t go to the hairdresser that some hair color products can cause an allergic reaction.
+As our nation—and our city of Grand Rapids—were forced to once again come to grips with racial inequality and inequity in the wake of police violence and the outsized impact of COVID-19 on minorities, Health Beat continued its thoughtful reporting from the perspective of Spectrum Health’s role as a pillar of community health.
+In the last few months, Health Beat has once again proven why it has achieved over 120 web site, public relations and content marketing awards, and why it’s a standard-bearer among brand journalism platforms. Get in touch with us to learn more about how we can help you develop a brand journalism platform for your communications strategies.
+Managing the fifth risk
+Posted by: Matt SalerHow Elexicon’s retainer service can help you manage risks to your marketing efforts in uncertain times
+I’ve been re-reading Michael Lewis’ The Fifth Risk. It’s a slim volume, but I consider it one of the most important books to come out in the past few years. Lewis masterfully demonstrates the critical role the federal government plays in managing an enormous portfolio of risks that no other entity has the resources or inclination to handle.
+The “fifth risk” of the title is the threat stalking out of mind, crowded out by focus on more seemingly urgent threats one, two, and three—maybe four. Lewis writes about people whose job it is to think beyond the usual prioritized threats.
+Many of these risks are things most people don’t know about or ever think about—things we can live our lives without worrying about because they’re being “handled.” For example, he writes in a chapter about the Department of Energy (DOE):
+Roughly half of the DOE’s annual $30 billion budget is spent on maintaining and guarding our nuclear arsenal. Two billion of that goes to hunting down weapons-grade plutonium and uranium at loose in the world so that it doesn’t fall into the hands of terrorists. In eight years alone—2010-2018—the DOE’s National Nuclear Security Administration collected enough material to make 160 nuclear bombs. The department trains every international atomic-energy inspector; if nuclear power plants around the world are not producing weapons-grade material on the sly by reprocessing spent fuel rods and recovering plutonium, it’s because of these people. The DOE also supplies radiation-detection equipment to enable other countries to detect bomb material making its way across national borders.
+So, basically, the DOE is why tales of a dirty bomb or homebrew nuke going off in a city or airport somewhere in the world are only told in fantastical spy movies.
+In other chapters, he writes about the Department of Agriculture’s role in ensuring a stable and robust food supply—it doesn’t just happen—and the Department of Commerce’s role in weather forecasting through the National Oceanic and Atmospheric Administration—your Weather Channel app would be far less reliable without government data. He could have written a book five times the length and not run out of material.
+I should say that part of Lewis’ project is to show how the management of those risks is often itself at risk for various political reasons, but that’s beyond the scope of this post.
+The takeaway that I went to emphasize is this: The Fifth Risk argues persuasively you want people at the wheel, thinking about all the ways present stability can dissolve, and working to avoid those trip points so you can keep on living your life.
+Basically, you want prevention over mitigation. But it follows that if prevention fails, you want the smartest, most experienced people on hand for dealing with the fallout.
+That’s something I’ve been thinking about a lot as the COVID-19 pandemic has derailed the world. The virus burst on the scene late last year as a major threat we didn’t prevent—but could have. Now we have to mitigate the threat, with measures that are far more painful than prevention would have been.
+Now to Business
+You know the #1 risk to your digital and traditional marketing efforts—which is not far off from saying you know the #1 risk to your business. Right now, after three months or more of economic upheaval due to the pandemic, it’s probably painfully obvious. You probably have contingency plans against it and risks #2-3, maybe #4 on the outside. But what’s the fifth risk? Is anybody managing that for you?
+It’s also worth pointing out that not every business is facing the same challenges right now. Maybe consumer demand for your product or service has dropped to critical levels because of the pandemic and you need to adapt efficiently to a difficult market reality. Or maybe due to the unique changes to society brought on by the novel coronavirus, your product or service is in unusually high demand and you need to ramp up effective marketing and communications quickly. Either situation carries with it deep uncertainty about the weeks and months ahead.
+Whether demand is up or down or just wobbly, it’s smart to have a rapid response team available for the fast-changing reality your business faces—so you’re able to focus on your core mission. Sometimes you have such a team available internally. Often, though, you need to bring that kind of expertise in from the outside. In the latter case, how do you budget for that?
+Project or Retainer?
+I talked recently with a client about a budget for work they are planning for the year. The question was whether the work would be project-based or funded from a retainer. I suggested a retainer would be a valuable insurance policy for needs that may arise around their goals.
+My thinking: from a budget planning standpoint, there can be more uncertainty with projects. That’s because projects often risk expectations being set with unintentionally rose-colored glasses and assumptions about best-case scenarios. When a client and a vendor try to calibrate specific project spends within a fine-tuned overall marketing budget, we find it can be easy to leave too little room for what isn’t known. When you inevitably find out what that was, it can mean costly project overages.
+And even if the project goes well and stays on budget, there’s always the question “what now?” A week later, the CMS or a plugin for crucial site functionality requires a critical security update that impacts functionality. The person trained and responsible for maintaining the site content leaves for another organization a month after that. The new Chief Marketing Officer wants to change direction by next quarter. The original project is over—how do you quickly account for these new needs?
+A monthly retainer is a recognition of the inherent messiness of life and work, projects and marketing. It can encompass all that is good about a project budget while offering ongoing stability and certainty. It can position an expert agency to manage risks an organization may not have the resources or expertise to manage itself, while offering flexibility to change direction that a project-based approach lacks.
+The marketing department challenge
+Effective marketing translates to increased sales and profitability. To get there, you need a highly-skilled team with expertise in several key areas, as well as the right technology. Depending on the size of your business, it can be difficult and costly to make the right moves in the right sequence to build that team and bring on the right tools.
+If you manage a team with marketing responsibilities within a larger organization, you may have budget, hiring, or internal resource usage limitations that restrict you in similar ways.
+The marketing and digital retainer solution
+An Elexicon retainer matches your marketing needs with the skills and technologies necessary to meet those needs, at a predictable cost.
+We do this by:
+- working closely with you, within an overall strategy and toward set goals, with regular communications and monthly reports.
+- providing a skilled roster of experienced staff, using proven tools that are ready to plug in.
+- sharing a vested interest in the overall success of your organization—we’re always thinking ahead about what can and should be done.
+- letting you mix and match skills to goals on a month-to-month basis, making sure you only pay for what you need, when you need it.
+- harnessing the momentum that’s made by being constantly engaged, thereby avoiding the frequent startup time and costs that come with the estimate process for tactical needs.
+- offering a discounted hourly rate due to the annual commitment of the retainer
+This partnership means you always have the resources and confidence to set and achieve marketing goals. A retainer approach allows your needs and costs to stay synchronized (even when needs change from month-to-month), and delivers the talent and tools you need, when you need them. The talent and tools specifically manifest in our full slate of services.
+Stay vital to being vital
+Our user interface design and user experience services ensure that you’re thinking through every aspect of your customer journey and user flow, whether you have a software or SaaS product, or an e-commerce ecosystem for your physical products. Your development teams may be collaborating with your sales and marketing teams to deliver the features that help the product sell, but do they help the sales “stick?” We help map out the big-picture and long-view of your user’s relationship with the product, to identify where they may be running into frustrations, and opportunities to boost customer delight.
+Customer delight is especially important in times like these, when folks need to prioritize what they’re spending money on, and are thinking about what subscriptions and memberships they find vital. Your user interface and digital experience is vital to being vital.
+Laying a foundation that stands the test of … anything
+With our strategic services, we help our customers not only envision the big picture and the long view, but plan it and map it out. We build and iterate early product prototypes. We research, refine, and report on your digital traffic and optimize audiences. We place the right messaging and content in front of the right prospects and customers at the right time. All of this establishes a solid foundation for customer loyalty, and a clear strategy for acquiring more of those ideal customers.
+Teamwork makes the dream work
+All of this works on a project basis, but is particularly powerful with the continuity of an ongoing retainer relationship. Such a relationship forges the kind of bonds of teamwork that only come with practice.
+With the right resources in the right place working together in the right way, you can finally accomplish things like:
+- Refreshing your site’s design
+- Updating your logo and branding
+- Setting up a digital ad and remarketing campaign
+- Getting a handle your site’s security (i.e. stopping that spam)
+- Standing up an email campaign for the first time
+- Developing a new type of communication page for your customers/audience
+You can probably add to that list.
+But what does it cost?
+If you’re thinking “I’ve just finished my pandemic lockdown rewatch of Mad Men. Retainers are expensive. I don’t have room in my budget for a retainer,” let me put your mind at ease: a retainer is what you make it. You can, of course, do more with more. But even if it’s just a way to ensure you have somebody to call when something goes wrong with your website, that’s okay too. We’re confident you’ll see the value because we know from experience that retainers work.
+If you’re ready to make a safe investment in your digital marketing, if you’re ready to have your marketing risks managed—#1-5 and beyond—by an experienced team dedicated to your success, get in touch.
+“I believe this will be our finest hour.”
+Posted by: Brion EriksenLessons in leadership, perseverance and improvisation, on the 50th anniversary of the Apollo 13 mission
+A few weeks ago, I wrote a post about John F. Kennedy’s 1962 “we will go to the moon” speech. I detailed my thoughts of how I felt that inspirational speech is relevant to today’s COVID-19 crisis. This past weekend was the 50th anniversary of the Apollo 13 mission, which happened eight years after JFK’s speech. The U.S. had already a year earlier in 1969 reached the moon with the Apollo 11 mission, “in this decade” as Kennedy aspired, and ahead of the U.S.S.R. The Apollo 13 mission had a much different result, but its story still draws a through-line directly back to Kennedy’s spirit of determination and innovation, embodied in the phrase “…that goal will serve to organize and measure the best of our energies and skills.”
+A ‘successful failure’
+Most of you are probably familiar with the Apollo 13 mission that—due to an explosion and damage to the spacecraft—failed to land on the moon. But the craft didn’t come crashing down on the moon or back to earth. Instead, the crippled technology successfully ferried its crew safely around the moon and back home, due to the leadership, perseverance, innovation and hard work of the mission control crew in Houston. If you need a refresher, the 1995 Apollo 13 movie directed by Ron Howard and starring Tom Hanks, Ed Harris and Gary Sinise is excellent work, and should be on everyone’s social-distancing list for a watch or re-watch. And an insightful new interview with the mission’s captain Jim Lovell was posted by USA Today this weekend to commemorate the 50th anniversary.
+Whether you are one of my fellow small business owners and entrepreneurs, or one of Elexicon’s clients or colleagues, I’m sure we’re all feeling uncertain and at least a little shaken right now—if not overwhelmed by the breadth and depth of this crisis’ impact on the economy. We’ve all been setting goals, and organizing the best our energies and skills. We’ve been planning our own versions of successful moon landings, and we’ve pulled some off.
+But now the course that we were on has been obscured, and in some cases, seemingly erased.
+No playbook, no blueprint
+As I talked about in another recent post, we were holding “maps”—plans, projects, targets—for the territory our businesses and teams would traverse in 2020. Now that terrain has changed and we need new maps. The Apollo 13 mission team’s response to their sudden reversal of fate set a great example of how to rise to a challenge for which there was no playbook or blueprint, with resourcefulness and determination. Sometimes we do our best work by developing a well thought-out strategy, and then implementing that strategy to successfully reach an objective. But other times we need to respond to unexpected adversity. We need to set aside the original aspirations we had, let go of “what could have been,” and focus on what needs to be done now. In these moments, with these decisions we can still achieve our “finest hours.”
+Here’s Ed Harris’ Gene Krantz* defusing any thought that “This could be the worst disaster NASA has ever experienced.” Instead, he delivers a counterfactual, that this team is going to adapt to the new reality, and “…this will be our finest hour.”
+“We have a new mission”
+Many of us entrepreneurs, business owners and team leaders are now throwing out our flight plans, and are faced with a new mission. “I don’t care what anything was designed to do, I only care about what it can do,” says Harris’ Krantz in this scene. In normal times, for all of us, this is counterintuitive. We envision, plan, design, and create products and processes to do a certain thing or produce a certain result. But when we’re faced with a seismic shift in outlook or an unexpected crisis, we need to decisively and creatively determine what our business, product or services can do to first survive and then thrive in a new way.
+Creativity under constraints
+I’ve always loved this scene where an ad hoc team “downstairs” at mission control needs to quickly devise a way to connect a square fitting to a round hole, to give the astronauts the carbon monoxide filtering they’ll need. They need to “fit this into this, using nothing but that,” with “that” being only the spare parts and gear available on the spacecraft. The sequence is a great example of creativity under constraints, and inventing a solution with limited resources. In different ways, we’ll all be facing new constraints on our processes, where before we typically had all the resources we’d need. Sometimes, it is from within constraints that true creativity and innovation happen, and new solutions are invented that we may have never thought of before.
+Communication, trust, teamwork
+Finally, this roughly 4-minute scene—terrifically written* and acted—depicts the flight crew exercising their problem-solving and leadership brainpower as a team. We all know how to deliver advice on subjects that we’re experts in, and how to be a good team player. But in times like these, we need to dig deeper, below all that stuff we read and learned, and into our instincts and guts. This scene is timeless, but is especially timely and relevant in the context of current events (whether we’re talking about leading our own businesses and teams, or our leaders in government):
+- Communication: Loren Dean’s EECOM John Aaron, clearly and authoritatively arguing that “power is everything,” that the module’s electrical battery power needs to be shut down to be conserved for later. He states exactly why, and that has the data to back it up.
+- Trust: Harris’ Gene Krantz to Dean’s John Aaron, “That’s the deal?” Then after a deliberative pause, “Okay, John, the minute we finish the burn, we’ll power down the L.E.M.” Krantz knows he’s not the smartest guy in the room and sets aside any need to prove that he is. Instead, he trusts their advice, puts a plan in motion based on that trust, and then sends them off to work with a little pep talk. But the trust he instilled was probably enough extra motivation already.
+- Teamwork: Gary Sinise’s Ken Mattingly is called in to run the power simulations, to determine how to most efficiently bring the L.E.M. power down and then back up again. Mattingly requests that the simulator be “cold and dark” like it is up in the spacecraft, and he’ll need a flashlight. When he’s handed a random flashlight, Mattingly says “That’s not what they have up there … don’t give me anything they don’t have up there.” Even though the kind of flashlight is probably inconsequential to the power-up procedures, but Mattingly instinctually knows he needs to practically put himself in that cockpit with his teammates in order to precisely do his job.
+While it’s no silver bullet for our anxiety, I hope that looking back on the early days of the U.S. space program provides some lessons in what we’re all capable of, and reminds us that perseverance, ingenuity, and sometimes improvisation are in our nation’s DNA.
+*According to interviews with the astronauts and flight teams, and with the filmmakers, the Apollo 13 movie falls somewhere between being “firmly-” and “loosely-based” on actual events and characters. Some roles were composites, such as Ed Harris’ depiction of White Team Flight Director Gene Krantz, which also incorporated decisions made by Black Team Flight Director Glynn Lunney. Some quotes such as “Failure is not an option!” were added with artistic license for dramatic effect. Regardless, I find the movie’s dramatic portrayals to be an effective embodiment of the leadership, teamwork and problem solving that led to saving the astronauts’ lives. The movie captures the spirit of “toughness and competence” that the real-life Krantz would make a central theme of his autobiography (which, interestingly, Krantz went ahead and titled, “Failure is Not an Option”).
+
+--------------------------------------------------------------------------------

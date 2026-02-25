@@ -1,0 +1,172 @@
+ROOT: https://carolinasolarenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T19:54:16.598384Z
+PAGES_INCLUDED: 9
+
+================================================================================
+
+URL: https://carolinasolarenergy.com/
+
+Testimonials
+“The City of Raleigh’s first major solar development was in a partnership with Carolina Solar Energy. CSE worked very effectively with our staff and City Council to effect a successful project that encouraged the City to embark on a larger, more robust renewable energy program. Their professionalism, knowledge and commitment to the solar industry are well documented and we look forward to future projects with them.
+A valuable part of their project work was the utilization of personnel resources from TROSA – Triangle Residential Options for Substance Abusers – a very positive rehabilitative commitment that supports the City’s broader sustainability goals.”
+— Julian B. Prosser, Jr., Assistant City Manager
+City of Raleigh
+“The relationship that Person County has developed with Carolina Solar energy has produced great benefits for all parties. Through their vision and expertise Person County today has three magnificent photovoltaic facilities that produce approximately five megawatts of clean, renewable energy- helping our community send a strong and wonderful message to our region and state.
+For us Carolina Solar Energy has been an excellent partner bringing a perfect balance of renewable energy expertise, engineering and installation abilities and financial and business knowledge. We recommend Carolina Solar Energy to all who call.”
+— James E. Stovall, Former Chairman
+Person County Economic Development Commission
+
+--------------------------------------------------------------------------------
+
+URL: https://carolinasolarenergy.com/about
+
+For more than 15 years, we’ve been pioneers in bringing solar energy to the Southeast. Our role is to connect all the essential people to spark a successful solar project.
+We develop utility-scale photovoltaic (PV) solar energy projects across the Southeastern US. Our goals are to:
+reduce the cost of solar energy
+increase the use of renewable energy
+bring economic development to underserved areas
+We believe solar is an important part of an affordable and sustainable energy future.
+Carson Harkrader
+CEO
+Carson leads Carolina Solar Energy’s business strategy, forging partnerships in new markets. She has recently guided the company into new projects in Kentucky and Louisiana, and in 2021, 2022 and 2023 made Business North Carolina’s list of top CEO’s in Energy. Before joining CSE in 2012, she led teams at GE Energy on worldwide projects. She holds a BA in Political Science from Brown University, and a MBA from New York University and is the Vice Chair of the Carolinas Clean Energy Business Association. Carson stepped up to lead the company in early 2018. She lives in Durham, NC.
+Tyler Caron
+Solar Developer
+Tyler focuses on site selection and project management including interconnection applications and state permitting for new development projects. He also manages Carolina Solar Energy’s intern program. He received a BS in Environmental Technology and Management from NC State University. Tyler joined our CSE team in 2018. He completed a summer internship with Strata Solar in 2016. Tyler lives in Durham, NC.
+Vann Joines
+Business Development Director
+Vann manages our corporate landowner outreach, gulf south market development, and due diligence in Louisiana and other states. Before CSE, he worked in commercial real estate development, financing and building multifamily & commercial tax credit financed projects throughout the southeast. Vann holds a Masters in Sustainable Real Estate Development from Tulane University, and lives with his wife in New Orleans, LA.
+Benjamin “Benny” Finch
+Outreach Director
+A veteran of countless solar projects, Benny joined our team in 2010. His responsibilities include early outreach to landowners, community relations, and event planning. Benny joined CSE after a career working in economic development in North Carolina. Benny lives with his wife in Henderson, NC.
+Richard Harkrader
+Founder
+An architect emeritus, building contractor, solar installer and real estate developer, Richard founded CSE in 2004. Through his leadership, CSE built the first utility-scale solar energy project in the Southeast in 2007. Richard is a lead policy advocate in NC for renewable energy and energy efficiency, past Chair of the NC Sustainable Energy Association and founder of the Carolinas Clean Energy Business Association.
+He lives with his wife in Chapel Hill, NC.
+Our History
+We continue the family legacy of solar energy pioneers to build a greener future.
+From a young age, Carson knew of her dad's passion for solar energy. She didn't know then that Richard Harkrader would become known as the "grandfather of solar energy in NC."
+Richard started Carolina Solar Energy in 2004. His goal was to show that Renewable Energy and Energy Efficiency Portfolio Standard legislation could build an industry for solar energy legislation could build an industry for solar energy in NC. He spent a few years of trial and error in developing early projects. In 2007, Richard built the first utility-scale solar project in the Southeast, at NC State.
+That same year, his business partner Gerry Dudzik joined the company. Gerry's experience at AT&T from the early days of the cell phone industry proved ideal. Instead of zoning permits for cell phone towers, Gerry now sought permits for solar projects.
+For 11 years, Richard and Gerry developed many solar projects in North Carolina and Virginia. The company has always been active in policy work to build and support the US solar industry.
+Carson joined them in 2012, after gaining experience with GE Energy and getting her MBA. Richard and Gerry both retired in early 2018, passing the company to Carson’s care.
+One of Carson's key decisions after taking over the company was to shift focus to Kentucky. In March 2020, Carolina Solar Energy became the first solar company to apply for Kentucky state-level permits for a solar project. We continue to be early to market, leading others into successful solar projects.
+In part due to our early work, NC has been one of the country's leading solar markets. Our company keeps leading communities throughout the Southeast to create sustainable clean energy. Learn about some of our recent projects.
+
+--------------------------------------------------------------------------------
+
+URL: https://carolinasolarenergy.com/projects
+
+Developing Projects
+See our utility scale projects in the Southeast.
+3
+Projects in Construction
+950
+Megawatts (DC) in Operation
+NC, VA, KY, LA
+Southeast & Gulf South Regions
+In operation: 2022-2024
+Featured
+In operation: 2015 - 2021
+Featured
+In operation: 2007 - 2014
+Featured
+In development
+These KY projects have land control, interconnection, environmental and zoning work completed and are preparing for construction in late 2025-2026.
+Featured
+
+--------------------------------------------------------------------------------
+
+URL: https://www.carolinasolarenergy.com/projects-featured-source/ncsu-demo
+
+North Carolina State University DOE Technology Demonstration Project
+System Capacity: 75.6 kW dc
+Commissioned: October 2007
+Location: Raleigh NC
+Developer & Owner/Operator: Carolina Solar Energy
+Utility Offtaker: Progress Energy
+In October 2007 Carolina Solar Energy built and began operating a 75.6 kW dc solar farm on Lot 86 at NC State University opposite the RBC Arena in Raleigh NC. The project is located on top of a “brownfield” that was a former agricultural pesticide landfill.
+The electricity generated is sold to Progress Energy under an avoided-cost contract and the renewable energy certificates (RECs), for the first five years of operation, were sold to NC GreenPower under a separate. This project won a prestigious US Department of Energy “Brownfields to Brightfields” Technology Demonstration Grant which helped CSE cover the extra costs of permitting a project on a “brownfield” and developing a unique foundation system that did not disturb the landfill. Instead of grading and digging into the site for concrete foundations, a recycled plastic foundation system designed by SunEdison allowed the solar arrays to be constructed and ballasted on top of the existing uneven ground.
+The project consists of 432 ground mounted, high-efficiency SolarWorld 175 Watt PV panels arranged in 12 arrays of 36 collectors each.
+
+--------------------------------------------------------------------------------
+
+URL: https://carolinasolarenergy.com/partners
+
+In the news
+"Many rural landowners see solar as a unique opportunity to really optimize the value they can get from their rural property,"
+- CEO Carson Harkrader to Smart Cities Dive.
+From our early days, we’ve shown our commitment to the communities where our projects are located.
+TROSA: We joined together with TROSA which provided labor for three of our early solar projects. TROSA is an innovative, multi-year residential program for people with substance use disorders. Our projects helped provide vocational training in their comprehensive program.
+Grifton nature walk: We donated to Grifton, NC, after the permitting of our Buckleberry project there. This donation unlocked a matching grant to create a nature walk on donated land in the town. Local environmental organizations have been busy planting native trees throughout the property.
+Southside Roller Mill: We gave a grant to improve this historical structure in Chase City,VA, after the permitting of our Bluestone project there. Our donation helped replace the roof of the flour and cornmeal mill built in 1912. The Roller Mill is an important community landmark that continues to be restored.
+
+--------------------------------------------------------------------------------
+
+URL: https://carolinasolarenergy.com/qualifications
+
+We use a variety of online and on-the-ground methods to qualify land for our projects, such as:
+GIS
+Google Earth
+ArcGIS
+ALTA surveys
+wetland surveys
+geotech surveys
+During our process, we dig deeper into items such as the topography, soil types, and history of the land.
+Optimal parcels for solar have large stretches of clear land with minimal topography.
+We can develop solar on parcels with some topography, as long as it is not north-facing. Solar projects must also have a qualified transmission line on one of the parcels.
+We can help you find out if your land is a good fit for a solar project.
+Please provide us with your contact information, parcel number, state, and county information.
+Or call us directly at 919-682-6822.
+
+--------------------------------------------------------------------------------
+
+URL: https://carolinasolarenergy.com/advocacy
+
+Engaging Locally, Regionally, Nationally
+We contribute time, effort and resources to strengthen the solar industry in the US. Our experience, history and values guide our policy work.
+We meet with legislators to share information about our projects in their districts. We emphasize the property tax benefits of solar energy.
+Carson serves as Chair of the Carolinas Clean Energy Business Association (CCEBA). She has testified twice before the NC Utilities Commission as an expert witness.
+We also help grow energy solar energy markets in the Southeast. We are members of the regional groups NC Sustainable Energy Association (NCSEA) and the Gulf States Renewable Energy Industries Association (GSREIA).
+Our policy work even predates our company’s founding. In 1997, Governor Jim Hunt named Richard to serve on the NC Legislative Study Commission on Electric Utility Deregulation.
+Richard championed NC's Renewable Energy and Energy Efficiency Portfolio Standard ("REPS"). North Carolina became the first state in the Southeast to pass REPS legislation in 2007.
+Richard testified many times before the NC Utilities Commission. He also served three terms as Chair of the NC Sustainability Energy Association. He helped found the NC Clean Energy Business Alliance.
+These early efforts helped NC to become one of the top states in the country in installed solar energy.
+
+--------------------------------------------------------------------------------
+
+URL: https://carolinasolarenergy.com/faq
+
+FAQs
+How does a solar project benefit my community?
+Your community receives valuable new property taxes. In North Carolina, land with solar projects is paying 2,000% more in property taxes than before solar. To understand the great impact of solar projects, see this county tax revenue report on NC. Most of our new projects will pay more than $1 million in new property taxes in their first 20 years of operation.
+Solar projects also bring a large number of jobs while under construction. For our typical projects, 200-300 construction jobs are created for about one year. Wherever possible, local installation workers are hired and trained. Construction workers contribute to the local economy by eating nearby and buying supplies.
+After construction is complete, you have a clean, emission-free source of electricity. See examples of our projects here.
+How long does it take to return the energy used to create a solar project?
+The energy payback period is only 2 to 3 years. Our projects use solar photovoltaic panels with crystalline silicon module technology. See these calculations by the US Department of Energy for this type of solar panel.
+Can you use the land for anything else if solar panels are installed?
+Yes! Many of our solar farms contract with local sheep farmers for mutual benefit. The farmers pasture their sheep during the spring, summer and fall when the grass is growing. The sheep control the grass so that it does not grow high and shade the solar panels.
+A gutter is attached to the bottom of some rows of solar panels to collect rainwater for the sheep to drink. Goats or cows are not used because they might eat the electric wires or jump up on or rub against the solar panels.
+What happens at the end of the solar farm life?
+At the end of the long and useful life of the solar panel system, you remove and recycle it. You can recycle the component metals of the solar system - steel, aluminum and copper. The value of these metals is higher than the cost of removing the system.
+Our projects deliberately install solar panels on driven metal pilings rather than concrete. This allows you to remove the solar panels and pilings with little trouble. The land will look as it did before the solar farm was installed.
+We expect that the solar farms installed now may remain in the field generating power for 30-40 years. Solar panel warranties are typically 25 years.
+What type of solar technology do you use?
+Most projects use modules made of crystalline silicon. The crystals are “grown” from a solution made of pure molten sand. In fact, one of the world’s purest silicone mines is right here in North Carolina, near Asheville.
+What should I do if I have more questions?
+We encourage you to check out this information on our partners, qualifying land, and project examples. You can also learn more about our company here. You can also use this contact form to reach us.
+
+--------------------------------------------------------------------------------
+
+URL: https://carolinasolarenergy.com/home/
+
+Testimonials
+“The City of Raleigh’s first major solar development was in a partnership with Carolina Solar Energy. CSE worked very effectively with our staff and City Council to effect a successful project that encouraged the City to embark on a larger, more robust renewable energy program. Their professionalism, knowledge and commitment to the solar industry are well documented and we look forward to future projects with them.
+A valuable part of their project work was the utilization of personnel resources from TROSA – Triangle Residential Options for Substance Abusers – a very positive rehabilitative commitment that supports the City’s broader sustainability goals.”
+— Julian B. Prosser, Jr., Assistant City Manager
+City of Raleigh
+“The relationship that Person County has developed with Carolina Solar energy has produced great benefits for all parties. Through their vision and expertise Person County today has three magnificent photovoltaic facilities that produce approximately five megawatts of clean, renewable energy- helping our community send a strong and wonderful message to our region and state.
+For us Carolina Solar Energy has been an excellent partner bringing a perfect balance of renewable energy expertise, engineering and installation abilities and financial and business knowledge. We recommend Carolina Solar Energy to all who call.”
+— James E. Stovall, Former Chairman
+Person County Economic Development Commission
+
+--------------------------------------------------------------------------------

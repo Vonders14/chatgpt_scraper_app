@@ -1,0 +1,294 @@
+ROOT: https://rimere.com/
+SCRAPED_AT_UTC: 2026-02-11T20:29:50.427518Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://rimere.com/
+
+Decarbonizing natural gas with plasma technology.
+To tackle climate change, we need immediate and practical solutions. Rimere’s groundbreaking devices decarbonize the existing natural gas infrastructure so that it can become a critical delivery system for clean, cost-effective hydrogen. In the process, we produce graphene–a new material so valuable, it transforms carbon from a liability into an asset.
+Learn moreWe need more energy and fewer emissions, fast.
+Global natural gas consumption has increased more than any other fossil fuel since 2000, and demand is forecasted to grow more than 20% by 2040. But with this growth comes an increase in greenhouse gas emissions.
+Natural gas is an affordable and globally abundant resource, but its infrastructure is notorious for emitting methane into the atmosphere. And though cleaner-burning than coal or oil, natural gas still generates carbon emissions when used as a fuel or feedstock for hydrogen.
+By eliminating these emissions, Rimere’s advanced plasma technology repositions natural gas as a solution for both climate change and the global energy needs of the future.
+Our devices and products.
+The magic of our technology.
+Rimere™ is the only company that uses sequential hybrid plasma technology to deconstruct methane (CH4) at a molecular level, before recombining the elements into valuable new compounds.
+We ﬁrst excite methane molecules to an ionized state, and then use high-voltage and high-frequency arcs to crack the ionized gas under an induced electromagnetic field.
+We essentially "zap" methane with plasma lightning to break apart its molecules, and then reconﬁgure the molecules into cleaner alternatives.
+Learn more“By decarbonizing the natural gas pipeline that already exists, we can rapidly achieve the clean hydrogen solution the world urgently needs.”
+Mitchell W. Pratt, CEO
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/about
+
+At Rimere™, we’re a mix of wildly brilliant plasma physicists and seasoned natural gas experts. Together, we discovered that we can use our proprietary plasma technology to solve for both climate change and the energy needs of the future.
+Rimere’s sequential hybrid plasma technology allows us to break apart methane molecules and reconfigure them into cleaner alternatives. The result? The existing natural gas infrastructure can now become a clean hydrogen infrastructure. We can connect our Mitigator device to the leaking points along the pipeline, and then use our Reformer to turn the natural gas supply into clean hydrogen.
+There’s no need to “capture” any CO2, because the Reformer turns the carbon molecules into a unique, solid-state called graphene – a wonder material that was only just discovered in 2004. The potential applications for graphene are still being explored, but the implications are as ground-breaking as the invention of plastic.
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/mitigator
+
+What is the Mitigator?
+The Mitigator is a first-to-market plasma thermal oxidizer that targets fugitive methane emitting from marginal convention wells, natural gas compressors, pneumatic controllers, and other oil & gas equipment.
+Mitigation is especially critical because of methane’s potency. Methane is 86x more damaging to the atmosphere over a 20-year period than CO2. In order to address climate change, we urgently need a cost-effective solution that can be implemented today.
+What is the Mitigator?
+The Mitigator is a first-to-market plasma thermal oxidizer that targets fugitive methane emitting from marginal convention wells, natural gas compressors, pneumatic controllers, and other oil & gas equipment.
+Mitigation is especially critical because of methane’s potency. Methane is 86x more damaging to the atmosphere over a 20-year period than CO2. In order to address climate change, we urgently need a cost-effective solution that can be implemented today.
+Our clean energy future depends on eliminating fugitive methane emissions.
+How it works.
+The Mitigator is designed to be installed inside hazardous classification areas, right next to the emitting equipment. Simply connect the Mitigator via flex line to the leaking point, such as a compressor crankcase ventilation port, to reduce the greenhouse gas impact by 88%.
+Cleaner energy starts here.
+For more information on the Mitigator or to discuss potential applications, please fill out the form and we’ll be in touch.
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/reformer
+
+What is the Reformer?
+The Reformer turns natural gas into cost-effective hydrogen, without generating any CO2 emissions in the process. Instead, it produces graphene, a highly valuable material with extraordinary properties.
+More than a competitive alternative to electrolysis, the Reformer transforms carbon from a liability into an asset, producing both clean energy and an advanced material at the same time.
+What is the Reformer?
+The Reformer turns natural gas into cost-effective hydrogen, without generating any CO2 emissions in the process. Instead, it produces graphene, a highly valuable material with extraordinary properties.
+More than a competitive alternative to electrolysis, the Reformer transforms carbon from a liability into an asset, producing both clean energy and an advanced material at the same time.
+The Reformer is a win-win solution that creates two critical products at once: clean hydrogen and graphene.
+Blending application
+The beauty of the Reformer is that it delivers clean hydrogen exactly where it’s needed: with end-users. When installed on-site at power plants and other hard-to-decarbonize facilities, the Reformer blends hydrogen into the gas stream, immediately reducing the CO2 emissions of boilers, burners, and other processes.
+We simply route a slip stream of natural gas to the Reformer, extract the high-value graphene, and then re-inject the hydrogen-rich gas back into the pipeline.
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/graphene
+
+What is graphene?
+Graphene is a highly valuable material produced by the Reformer when it separates hydrogen from methane. Unlike other solid forms of carbon, such as black carbon or graphite, graphene is a nano-carbon: a single layer of carbon atoms arranged in a honeycomb structure.
+What is graphene?
+Graphene is a highly valuable material produced by the Reformer when it separates hydrogen from methane. Unlike other solid forms of carbon, such as black carbon or graphite, graphene is a nano-carbon: a single layer of carbon atoms arranged in a honeycomb structure.
+Graphene is often referred to as the wonder material of the century due to its extraordinary properties.
+Though scientists speculated about graphene’s existence for decades, it wasn’t until 2004 that the material was formally discovered and studies began.
+At Rimere™, we produce high-quality graphene that is both scalable and cost-effective. We’ve engaged multiple 3rd party laboratories to independently verify our results, including Intertek and ACS Materials Testing.
+Our results show a consistent and homogeneous quality across a large sample, with few defects and minimal layers. The high specific surface area and high conductivity make our graphene ideal for energy storage and battery applications.
+How graphene is made.
+As the Reformer converts natural gas into zero-emission hydrogen, graphene is extracted into a holding container. The graphene flakes are so thin and lightweight, they resemble black snow.
+Graphene applications
+Due to its remarkable strength, electrical conductivity, and thermal properties, graphene is being applied with outstanding success across numerous industries, such as batteries and semi-conductors, composites and resins, and building materials.
+Batteries
+Rimere’s Reformer can produce battery-grade crumpled graphene sheets which are ideal for increased energy storage and battery efficiency.
+Contact usConcrete
+In partnership with Holliday Rock, we’re actively testing graphene’s effect on concrete in terms of strength, elasticity, shrinkage, shielding, and durability.
+Learn more
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/plasma
+
+Our advanced plasma technology.
+Plasma is a unique and naturally-occurring state of matter where electrons are separated from atoms and they move freely. In space, plasmas appear as stars, nebulas, and quasars. Even our sun is a plasma. Earth’s atmosphere contains many different plasmas as well, like lightning and the Aurora Borealis.
+Our advanced plasma technology.
+Plasma is a unique and naturally-occurring state of matter where electrons are separated from atoms and they move freely. In space, plasmas appear as stars, nebulas, and quasars. Even our sun is a plasma. Earth’s atmosphere contains many different plasmas as well, like lightning and the Aurora Borealis.
+Rimere’s technology is inspired by plasma phenomena found in nature.
+The science behind our approach.
+What makes Rimere’s technology so unique is our proprietary sequence of different plasma types. This hybrid approach gives us greater precision and control–and it’s why we’re able to produce high-quality graphene whereas other plasma pyrolysis technology companies produce black carbon.
+How it works.
+Our sequential hybrid plasma technology first excites methane (CH4) to an ionized state. Then we use high-voltage and high-frequency arcs to crack the molecules under an induced electromagnetic field. This separates the carbon atoms from the hydrogen atoms.
+By deconstructing methane at a molecular level, we can then recombine the elements into cleaner and more valuable compounds.
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/careers
+
+Careers
+Discover exciting career opportunities at Rimere™ across different departments. Apply today!
+Our team is fully staffed at the moment, but we are always interested in talking with industry talent. Please connect with us on LinkedIn and check back for future opportunities. Feel free to send us your resume at info@rimere.com
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/newsroom
+
+Rimere™ partners with ACS Material for global distribution of nanocarbon materials
+Newport Beach, Calif. – August 21, 2025 – Rimere™, an advanced plasma company with proprietary nanocarbon production technology, has announced a distribution partnership with ACS Material, a leading provider of...
+Read more
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/resources
+
+Plasma is one of the four common states of matter – solid, liquid, gas, and plasma. Plasma is an electrically charged gas. Because plasma particles have an electrical charge, they are affected by electrical and magnetic fields. This is the main difference between a gas and a plasma.
+Published by the United States Department of State and the United States Executive Office of the President, Washington DC. November 2021.
+The U.S. Department of Energy launched Carbon Negative Shot—an all-hands-on-deck call for innovation in carbon dioxide removal pathways that will capture carbon dioxide from the atmosphere and store it at gigaton scales for less than $100/net metric ton of carbon dioxide-equivalent.
+To tackle climate change and its negative impacts, world leaders at the UN Climate Change Conference (COP21) in Paris reached a breakthrough on 12 December 2015: the historic Paris Agreement. The Agreement sets long-term goals to guide all nations toward substantially reducing global greenhouse gas emissions.
+The Global Methane Pledge is a joint agreement by over 100 countries to reduce global methane emissions by at least 30% from 2020 levels by 2030, which could eliminate over 0.2˚C warming by 2050.
+EPA develops an annual report, called the Inventory of U.S. Greenhouse Gas Emissions and Sinks (Inventory), that tracks U.S. greenhouse gas emissions and sinks by source, economic sector, and greenhouse gas going back to 1990. This annual report provides a comprehensive accounting of total greenhouse gas emissions for all man-made sources in the United States.
+The purpose of this report by the Office of Fossil Energy of the U.S. Department of Energy is to inform the states and other stakeholders on natural gas flaring and venting regulations, the level and types of restrictions and permissions, and potential options available to economically capture and utilize natural gas, if the economics warrant.
+This document is one of the lessons learned resources developed by the Natural Gas STAR Program to promote the use of technologies and best practices that reduce methane emissions. This resource discusses options for reducing methane emissions from pneumatic devices in the natural gas industry.
+This document is one of the lessons learned resources developed by the Natural Gas STAR Program to promote the use of technologies and best practices that reduce methane emissions. This resource discusses reducing methane emissions from compressor rod packing systems.
+A view of energy production by source and energy consumption by fuel, from 1990 through (projected) 2050. Published by the U.S. Energy Information Administration.
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/resource_categories/the-us-long-term-strategy
+
+Published by the United States Department of State and the United States Executive Office of the President, Washington DC. November 2021.
+The U.S. Department of Energy launched Carbon Negative Shot—an all-hands-on-deck call for innovation in carbon dioxide removal pathways that will capture carbon dioxide from the atmosphere and store it at gigaton scales for less than $100/net metric ton of carbon dioxide-equivalent.
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/contact-us
+
+Rimere™ 4675 MacArthur Court, Ste 800 Newport Beach, CA 92660 (949) 437-1212 info@rimere.com Name Job Title Company Email Address Phone Your message (optional) Δ
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/contact-us/
+
+Rimere™ 4675 MacArthur Court, Ste 800 Newport Beach, CA 92660 (949) 437-1212 info@rimere.com Name Job Title Company Email Address Phone Your message (optional) Δ
+
+--------------------------------------------------------------------------------
+
+URL: https://info@rimere.com/
+
+Decarbonizing natural gas with plasma technology.
+To tackle climate change, we need immediate and practical solutions. Rimere’s groundbreaking devices decarbonize the existing natural gas infrastructure so that it can become a critical delivery system for clean, cost-effective hydrogen. In the process, we produce graphene–a new material so valuable, it transforms carbon from a liability into an asset.
+Learn moreWe need more energy and fewer emissions, fast.
+Global natural gas consumption has increased more than any other fossil fuel since 2000, and demand is forecasted to grow more than 20% by 2040. But with this growth comes an increase in greenhouse gas emissions.
+Natural gas is an affordable and globally abundant resource, but its infrastructure is notorious for emitting methane into the atmosphere. And though cleaner-burning than coal or oil, natural gas still generates carbon emissions when used as a fuel or feedstock for hydrogen.
+By eliminating these emissions, Rimere’s advanced plasma technology repositions natural gas as a solution for both climate change and the global energy needs of the future.
+Our devices and products.
+The magic of our technology.
+Rimere™ is the only company that uses sequential hybrid plasma technology to deconstruct methane (CH4) at a molecular level, before recombining the elements into valuable new compounds.
+We ﬁrst excite methane molecules to an ionized state, and then use high-voltage and high-frequency arcs to crack the ionized gas under an induced electromagnetic field.
+We essentially "zap" methane with plasma lightning to break apart its molecules, and then reconﬁgure the molecules into cleaner alternatives.
+Learn more“By decarbonizing the natural gas pipeline that already exists, we can rapidly achieve the clean hydrogen solution the world urgently needs.”
+Mitchell W. Pratt, CEO
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/wp-content/uploads/2025/09/Rimere_Mitigator_OneSheet_091125.pdf
+
+120V/220V
+Mitigator: Advanced plasma thermal oxidizerMethane is the second most abundant anthropogenic greenhouse gas behind CO2 and is responsible for 20–30% of the rise in the Earth’s temperature since the Industrial Revolution.How does the Mitigator lower greenhouse gas emissions?•The Mitigator is designed to address fugitive methane emissions from different natural gas emitting sources, such as natural gas compressor crankcases, pneumatic controllers, marginal conventional wells, oil and gas tank separators, component gas leaks, etc.•Plasma assist oxidation, no open flame, no pilot gas•Each Mitigator can eliminate 200 Mtons CO2e per year (based 100-year GWP of 25)Mitigator specifications: •Eliminate up to 200 Mtons of CO2e per year •Natural gas flow rate: 50 scfh (upgradable to 150 scfh)•Low voltage requirement: 120V / 220V•Low power consumption: 0.75–1.5 kW•Weight: ~ 500 lbs•Low maintenance cost: < $15 per MT CO2e•High destruction efficiency: >98%•Fully automatic operation with local interface•Remote monitoring and data collection•Rated for Class 1 Division 2 hazardous environment operationPotential applications of Mitigator
+For more information or to discuss applications, contact:Denis Ding, P.Eng.COO & CPO949.437.1212dding@rimere.com
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/press-room/rimere-advances-its-graphene-development-with-holliday-rock
+
+Leading concrete producer to trial high-quality graphene to improve material properties
+Newport Beach and Upland, Calif. – June 18 – Rimere™, a climate solutions company with proprietary plasma technology, and Holliday Rock, one of the leading producers of concrete and asphalt in California, today announced a new co-development agreement for Rimere’s high-quality graphene to be tested in Holliday Rock’s concrete applications.
+The development and testing partnership will see graphene, a remarkably thin material composed of a single layer of atoms and known to be 200 times stronger than steel, tested in Holliday Rock’s concrete for potential incorporation into production. The trial is structured to determine the significance the combination has to enhance concrete’s properties in terms of strength, elasticity, shrinkage, shielding, durability, and penetration.
+Rimere is currently developing and testing two independent devices, the Reformer and the Mitigator, that reduce climate harming emissions and enable the use of natural gas to accelerate the transition to a clean hydrogen future. Rimere’s Reformer device produces graphene as a co-product. It transforms natural gas into high-quality graphene and clean hydrogen without generating any CO2 emissions.
+Graphene is a material with extraordinary properties and is increasingly being applied with notable success across numerous industries such as batteries and semi-conductors, composites and resins, and building materials such as concrete. It is recognized to be 200 times stronger than steel, 40 times harder than diamond, 500 percent more thermally conductive than aluminum and 160% more electrically conductive than copper.
+“Holliday Rock is a very respected and forward-thinking leader in an industry that is not always thought to be so. Our partnership has been formed with innovation and sustainability in mind and this testing will explore the possibilities that graphene can offer in advancing construction materials. The results could drastically change both the very foundations of the concrete industry, but also help with the sector’s greenhouse gas emissions issues which are some of the most difficult to abate,” said CEO of Rimere, Mitchell Pratt.
+“Partnering with Rimere aligns with our goal to deliver high-quality, cutting-edge, sustainable solutions as part of our offering. By integrating graphene into our concrete formulations, we hope to raise the bar for the industry, ultimately increasing the value and utility of concrete, while reducing the carbon intensity of construction”, said Sam Rade, Director of Sustainability and Strategy for Holliday Rock.
+Rimere has developed a proprietary process to further functionalize its graphene into graphene oxide, an “immediate use” water-soluble form of graphene but without harsh chemicals and other labor intensive processes typically required. As part of the co-development relationship, Rimere will provide Holliday Rock with graphene oxide to evaluate its performance under typical concrete lab test conditions. The tests are aimed at proving graphene’s potential to improve the properties of concrete.
+Cement production is responsible for approximately 7 percent of global greenhouse gas emissions and is a difficult to abate sector. This co-development agreement explores practical approaches to help reduce greenhouse gas emissions by enhancing performance of construction materials.
+About Rimere
+Rimere is an advanced technology solutions company focused on providing practical and meaningful products that reduce the impact of GHG emissions and deliver affordable zero-emission hydrogen to meet increasing global energy demands. Additionally, Rimere’s Reformer produces a valuable co-product known as graphene. Graphene is recognized as this century’s wonder material with applications that range from reducing GHG emissions to dramatically improving the performance of existing products. Visit rimere.com and on LinkedIn.
+About Holliday Rock
+Holliday Rock, independently owned and operated in California since 1937, is a leading producer of ready-mix concrete, asphalt and aggregates. As a regional material supplier, Holliday Rock is known for its commitment to quality, reliability, and sustainability. Visit www.hollidayrock.com and on LinkedIn.
+Rimere media contact:
+mediainquiry@rimere.com
+Holliday Rock media contact:
+Peggy Robertson – probertson@hollidayrock.com
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/press-room/rimere-partners-with-acs-material-for-global-distribution-of-nanocarbon-materials
+
+Newport Beach, Calif. – August 21, 2025 – Rimere™, an advanced plasma company with proprietary nanocarbon production technology, has announced a distribution partnership with ACS Material, a leading provider of graphene for research and industry, to help accelerate Rimere’s international reach of its unique material products.
+This strategic relationship will give ACS Material’s network of research universities, laboratories, and technology companies access to Rimere’s unique portfolio of nanocarbon materials, including its innovative crumpled graphene, known for its electrical conductivity and thermal properties.
+ACS is one of the few global graphene supply and manufacturing companies in the industry providing a platform to bring together state-of-the-art technology, advanced engineering, research and testing to enhance and intensify the performance and applications of graphene.
+Rimere uses its patented sequential hybrid plasma technology to break apart methane molecules and reconfigure them into high-value clean energy and materials. Rimere’s Reformer can selectively produce different nanocarbon materials including high purity graphene, as it transforms natural gas into clean hydrogen with zero emissions.
+“Our distribution agreement with ACS Material positions Rimere’s products on a trusted, established platform, making it available to researchers, manufacturers, and innovators around the world. We are pleased to be a partner in providing nanocarbon and graphene materials to advance applications on an international scale,” said CEO of Rimere, Mitchell Pratt.
+“Rimere’s high quality and consistent production of their crumpled graphene and other nanocarbon materials offer exciting new capabilities to our global customer base,” said Richard Ploss, CEO of ACS Material. “We look forward to connecting industries and innovators to discover new, cutting-edge applications.”
+About Rimere
+Rimere is an advanced plasma technology company, inspired by naturally occurring phenomena, focused on providing cost-effective and practical climate solutions, zero emissions hydrogen and valuable nano-carbon materials. To meet the exciting and fast-growing nanomaterials markets, Rimere’s Reformer device produces multiple grades of nanocarbon products including high purity graphene. Graphene is recognized as this century’s wonder material with applications across various industries, it provides faster and more efficient electronics, improved energy storage in batteries and supercapacitors, better corrosion protection in coatings and paints, enhanced strength and flexibility in building materials. Visit rimere.com or follow Rimere on LinkedIn and X to learn more.
+About ACS Material
+Since 2011, ACS Material has offered a wide range of materials focused on nano-scale characteristics. This focus has allowed research and industry the opportunity to assemble from one catalog multi-material products, which address challenges that would yield only to nano-scale solutions. The graphene phenomenon has been at the center of ACSM’s product mix since our founding, and we are excited to offer these new formulations from Rimere to further advance science by building a future of sensibly created technology.
+Rimere media contact: mediainquiry@rimere.com
+ACS Material media contact: contact@acsmaterial.com
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/press-room/rimere-announces-high-quality-nanocarbon-and-graphene-materials-now-available-for-commercial-applications
+
+Newport Beach, Calif. – July 30, 2025 – Rimere™, an advanced plasma technology company, announced today that its portfolio of nanocarbon materials is available for testing and evaluation. This milestone follows the successful advancement of Rimere’s Reformer technology, a sequential hybrid plasma methane pyrolysis process that now has the ability to consistently produce varying grades and scalable quantities of nanocarbon materials, including high-purity graphene.
+Rimere has released its initial two products, branched nanocarbon spheres and crumpled graphene sheets, which have both moved into production and are ready for partner testing. The branched nanocarbon spheres material has a desired morphology ideal for applications in the concrete, polymers, and automotive industries. Crumpled graphene is a unique sheet form of graphene with high electrical and thermal conductivity properties used to improve capacitors, battery, paints, and coatings.
+“It’s an exciting time for the growth and application of nanocarbon materials, especially our graphene which is produced at a distinctively high quality, purity level and at attractive pricing,” said Rimere CEO Mitchell Pratt. “Our team has been hard at work refining our environmentally friendly Reformer technology and we’re pleased we can now move forward with testing and expand collaboration with customers across industries that are eager to integrate high-performance materials into their products.”
+With its recent developments, Rimere can selectively tune and continuously produce a range of nanocarbon materials to serve numerous market applications and potential use cases. Rimere has already initiated material shipments and testing programs with partners across a variety of sectors.
+Market researchers forecast the global market for nanocarbon materials to reach over $32.8 billion by 2033*, with graphene expected to grow at a 46.5% compound annual growth rate (CAGR) to $3.8 billion**, highlighting the increasing demand for scalable production.
+For more information or to request materials for evaluation, please visit rimere.com.
+About Rimere
+Rimere is an advanced plasma technology company, inspired by naturally occurring phenomena, focused on providing cost-effective and practical climate solutions, zero emissions hydrogen, and valuable nano-carbon materials. To meet the exciting and fast-growing nanomaterials markets, Rimere’s Reformer device produces multiple grades of nanocarbon products including high purity graphene. Graphene is recognized as this century’s wonder material with applications across various industries. It provides faster and more efficient electronics, improved energy storage in batteries and supercapacitors, better corrosion protection in coatings and paints, and enhanced strength and flexibility in building materials. Visit rimere.com or follow Rimere on LinkedIn and X to learn more.
+Rimere media contact: mediainquiry@rimere.com
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/2025/08
+
+Rimere™ partners with ACS Material for global distribution of nanocarbon materials
+Newport Beach, Calif. – August 21, 2025 – Rimere™, an advanced plasma company with proprietary nanocarbon production technology, has announced a distribution partnership with ACS Material, a leading provider of...
+Read more
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/2025/07
+
+Rimere™ announces high-quality nanocarbon and graphene materials now available for commercial applications
+Newport Beach, Calif. – July 30, 2025 – Rimere™, an advanced plasma technology company, announced today that its portfolio of nanocarbon materials is available for testing and evaluation. This milestone...
+Read more
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/2024/06
+
+Rimere™ advances its graphene development with Holliday Rock
+Leading concrete producer to trial high-quality graphene to improve material properties Newport Beach and Upland, Calif. – June 18 – Rimere™, a climate solutions company with proprietary plasma technology, and...
+Read more
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/category/press-room
+
+Rimere™ partners with ACS Material for global distribution of nanocarbon materials
+Newport Beach, Calif. – August 21, 2025 – Rimere™, an advanced plasma company with proprietary nanocarbon production technology, has announced a distribution partnership with ACS Material, a leading provider of...
+Read more
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/author/esw
+
+Change your cover photoUpload Change your cover photoUpload Rimere This user account status is Approved About About Posts Posts Comments Comments This user has not added any information to their profile yet.
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/resources/
+
+Plasma is one of the four common states of matter – solid, liquid, gas, and plasma. Plasma is an electrically charged gas. Because plasma particles have an electrical charge, they are affected by electrical and magnetic fields. This is the main difference between a gas and a plasma.
+Published by the United States Department of State and the United States Executive Office of the President, Washington DC. November 2021.
+The U.S. Department of Energy launched Carbon Negative Shot—an all-hands-on-deck call for innovation in carbon dioxide removal pathways that will capture carbon dioxide from the atmosphere and store it at gigaton scales for less than $100/net metric ton of carbon dioxide-equivalent.
+To tackle climate change and its negative impacts, world leaders at the UN Climate Change Conference (COP21) in Paris reached a breakthrough on 12 December 2015: the historic Paris Agreement. The Agreement sets long-term goals to guide all nations toward substantially reducing global greenhouse gas emissions.
+The Global Methane Pledge is a joint agreement by over 100 countries to reduce global methane emissions by at least 30% from 2020 levels by 2030, which could eliminate over 0.2˚C warming by 2050.
+EPA develops an annual report, called the Inventory of U.S. Greenhouse Gas Emissions and Sinks (Inventory), that tracks U.S. greenhouse gas emissions and sinks by source, economic sector, and greenhouse gas going back to 1990. This annual report provides a comprehensive accounting of total greenhouse gas emissions for all man-made sources in the United States.
+The purpose of this report by the Office of Fossil Energy of the U.S. Department of Energy is to inform the states and other stakeholders on natural gas flaring and venting regulations, the level and types of restrictions and permissions, and potential options available to economically capture and utilize natural gas, if the economics warrant.
+This document is one of the lessons learned resources developed by the Natural Gas STAR Program to promote the use of technologies and best practices that reduce methane emissions. This resource discusses options for reducing methane emissions from pneumatic devices in the natural gas industry.
+This document is one of the lessons learned resources developed by the Natural Gas STAR Program to promote the use of technologies and best practices that reduce methane emissions. This resource discusses reducing methane emissions from compressor rod packing systems.
+A view of energy production by source and energy consumption by fuel, from 1990 through (projected) 2050. Published by the U.S. Energy Information Administration.
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/resource_categories/what-is-plasma
+
+Plasma is one of the four common states of matter – solid, liquid, gas, and plasma. Plasma is an electrically charged gas. Because plasma particles have an electrical charge, they are affected by electrical and magnetic fields. This is the main difference between a gas and a plasma.
+
+--------------------------------------------------------------------------------
+
+URL: https://rimere.com/resource_categories/paris-agreement
+
+To tackle climate change and its negative impacts, world leaders at the UN Climate Change Conference (COP21) in Paris reached a breakthrough on 12 December 2015: the historic Paris Agreement. The Agreement sets long-term goals to guide all nations toward substantially reducing global greenhouse gas emissions.
+The Global Methane Pledge is a joint agreement by over 100 countries to reduce global methane emissions by at least 30% from 2020 levels by 2030, which could eliminate over 0.2˚C warming by 2050.
+
+--------------------------------------------------------------------------------

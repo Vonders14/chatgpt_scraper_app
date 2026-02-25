@@ -1,0 +1,2150 @@
+ROOT: https://alphaess.com/
+SCRAPED_AT_UTC: 2026-02-11T19:48:24.379007Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://alphaess.com/
+
+Today, AlphaESS powers thousands of homes and businesses in over 140+ countries. We help consumers store clean power, gain energy independence, hedge against raising utility rates and contribute to the reduction of carbon emissions on our planet.
+Energy storage is indispensable for grid integration of renewables and decarbonisation, and for energy security as well.
+See how AlphaESS energy storage is making a real difference→
+-
+AlphaESS Achieves Global Recognition Through ISO IEC 27001 2022 Information Security Certification
+2026-02-04
+MORE
+-
+AlphaESS Showcases Next-Gen Liquid-Cooled Energy Storage Solutions at Solar Energy Expo in Poland
+2026-01-26
+MORE
+-
+AlphaESS Inaugurates Nigerian Subsidiary, Commits to Long-Term Energy Transition Partnership
+2025-12-18
+MORE
+We always need your help to expand and grow our business. If you are interested in our products or becoming our partner,
+please follow the button below and our team will contact you as soon as possible.
+Copyright © 2025 Alpha ESS Co., Ltd.
+Please input the email
+submission successfully
+Pete Whittle
+1 Review
+UK
+We've installed Alpha systems for years with no failures. Easy setup and excellent technical support make Alpha our first choice.
+Bart
+1 Review
+NL
+A very professional and friendly installer. Everything was clearly explained, and the battery works flawlessly. The smooth Jabba integration gives me clear insight and confidence in my energy savings.
+Francesco
+1 Review
+IT
+Great satisfaction with my first use of AlphaESS inverters. I used AlphaESS hybrid inverters with their storage system for the first time and was pleasantly surprised by how easy it was to set them up and activate the monitoring.
+Powerhive
+1 Review
+AFR
+AlphaESS systems perform reliably in tough African conditions, and their responsive, committed team has been a true long-term partner.
+Philip O'Neill
+1 Review
+UK
+The system works exceptionally well and has already delivered meaningful savings. The entire installation process was smooth and professional.
+Marina Van den Eynde
+1 Review
+NL
+The battery works very well. The app is also easy to use and very clear. You can immediately see how much battery percentage is left, how many watts your solar panels are generating, and how much you are taking from the grid. I am very satisfied with it.
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/company-profile
+
+AlphaESS is a leading global green energy storage solution and service provider. The company excels in providing tailored solutions for a wide range of applications, including residential, commercial, industrial, large-scale, and utility projects. AlphaESS has 40+ subsidiaries providing local services and 200,000+ systems actively running in 130+ countries, enabling millions of people to enjoy reliable, accessible and clean energy.
+130+
+Countries & Regions
+150,000+m2
+Factory Area
+40+
+Corporate Establishments Worldwide
+1,000+
+Employees in the Globe
+200,000+
+Systems Installed Globally
+250+
+Patents in the ESS field
+WHY ALPHAESS
+We believe the quality of each single component equals the quality of the complete system.
+Save Money
+Make Money
+A Better Tomorrow
+A Safer Investment
+More Intelligent
+Quality & Confidence
+Make the best use of your solar system by raising up self-consumption, load shifting and peak shaving
+With AlphaESS, homeowners can actually earn the VPP revenue including ancillary services and electricity arbitrage
+Eco-friendly, No blackout with UPS available, Green energy independence
+Safest LFP battery ONLY
+AlphaCloud monitors and optimizes your power system 24/7
+We have “outlived” our warranty offer, and we standby the quality of workmanship and the long term reliability of products.
+HISTORY
+-
+Establishment of South African Subsidiary
+-
+Launched 5th Generation Residential ESS
+-
+TOP 1 Australia Market Share (by SUNWIZ)
+-
+SMILE-G3 Won Reddot and G-Mark Good Design Award
+-
+Establishment of Malaysian Subsidiary
+-
+Launched 4th Generation Residential ESS
+-
+TOP 5 Residential ESS Provider in Germany (by EuPD Research)
+-
+TOP 3 Overseas ESS Shipment (by CNESA)
+-
+Establishment of USA Subsidiary
+-
+TOP 5 Supplier of Global Residential Storage System (by IHS Markit)
+-
+Establishment of International Headquarters in Singapore
+-
+Establishment of UK and New Zealand Subsidiaries
+-
+Launched Portable Power Station
+-
+No.1 in AU Residential Market Share
+-
+Global TOP 10 Residential Brand (by IHS Markit)
+-
+Establishment of Korean Subsidiary
+-
+Launched 3rd Generation Residential ESS
+-
+SMILE5 Won iF & Reddot Design Award
+-
+Launched Commercial & Industrial ESS
+-
+Establishment of Italian Subsidiary
+-
+Launched 2nd Generation Residential ESS
+-
+Establishment of European Subsidiary
+-
+Establishment of Australian Subsidiary
+-
+Launched 1st All-in-One Residential ESS
+-
+Developed AlphaCloud Management Platform
+-
+Launched 1st Energy Storage Battery
+-
+Established in Nantong, China
+-
+Launched EMS (Energy Management System)
+-
+2023
+-
+2022
+-
+2021
+-
+2020
+-
+2019
+-
+2018
+-
+2017
+-
+2016
+-
+2015
+-
+2014
+-
+2013
+-
+2012
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/products
+
+-
+Residential Energy Storage Systems
+-
+EV Charger
+-
+Balcony Solar System
+-
+Commercial & Industrial Energy Storage Systems
+-
+Utility Scale Energy Storage Systems
+-
+Our residential energy storage solution covers 3 ~ 20 kW, and this range is predominantly designed for PV self-consumption, back-up power, load shifting and off-grid solutions for household applications.
+-
+The AlphaESS EV charger, SMILE-EVC11, could be easily installed at home and integrated with Alpha energy storage system, which makes it capable to charge your vehicle with 100% renewable energy and take full advantage of AlphaCloud to cut your electricity bills.
+-
+VitaPower is an All-in-one home battery solution that can expand up to 6144Wh, supporting both on-grid and off-grid use. Get ready to revolutionize your home energy management with VitaPower.
+-
+The commercial energy storage solutions offer from 30kW to 10MW+. We have delivered hundreds of projects covering most of the commercial applications such as demand charge management, PV self-consumption and back-up power, fuel saving solutions, micro-grid and off-grid options.
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/residential-energy-storage-system
+
+SMILE SERIES
+Our residential energy storage solution covers 3 ~ 20 kW, and this range is predominantly designed for PV self-consumption, back-up power, load shifting and off-grid solutions for household applications.
+Storing renewable energy with AlphaESS - it's a no-brainer.
+ADVANTAGES
+FREQUENTLY ASKED QUESTIONS
+-
+Q:
+What is a residential energy storage system?
+A:A residential energy storage system is a technology that allows homeowners to store electricity generated from renewable energy sources, like solar panels or wind turbines, or from the grid during off-peak hours when electricity rates are lower. The primary purpose of these systems is to provide backup power during power outages, reduce reliance on the grid, and minimize energy costs by using stored energy during peak demand periods.
+The most common type of residential energy storage system is a battery-based system, typically using lithium-ion batteries. These systems can be connected to the home's electrical system and work in conjunction with solar panels or other renewable energy sources. Homeowners can use the stored energy during periods of high electricity demand, at night when solar panels are not generating power, or when grid electricity is not available.
+-
+Q:
+How does a residential energy storage system work?
+A:A residential energy storage system stores electrical energy in batteries and releases it when needed for backup power during outages or to offset electricity consumption during peak demand periods.
+The residential battery storage systems can be charged using electricity generated from renewable sources like solar panels or wind turbines or from the grid during off-peak hours when the energy rates are lower. The charged batteries store the electrical energy as chemical energy, and then the inverter converts the direct current (DC) electricity stored in the batteries into alternating current (AC) electricity for household appliances and devices. Additionally, many residential energy storage systems come with monitoring and control features that allow homeowners to track energy generation, storage, and consumption for cost savings and system maintenance.
+Overall, a residential energy storage system provides a reliable, cost-effective, and sustainable energy solution for homeowners by working in conjunction with renewable energy sources or grid electricity.
+-
+Q:
+What are the benefits of a residential energy storage system?
+A:Energy Independence: Enable homeowners to store energy generated from renewable sources, reducing their reliance on the grid.
+Backup Power: Provide backup power during outages, ensuring critical appliances and devices remain operational.
+Cost Savings: Help homeowners to save money or even earn incentives by using stored energy during peak demand times.
+Grid Support: Provide power during peak demand periods and support grid services like frequency regulation and voltage support, helping to reduce the need for additional power plants and stabilize the grid.
+Environmental Benefits: Contribute to a cleaner, more sustainable energy future by promoting renewable energy and reducing the need for fossil fuel-based power plants.
+Increased Renewable Energy Usage: Store excess energy generated during periods of high production for use during periods of low production or at night.
+Improved Solar Panel Efficiency: Optimize solar panel efficiency by reducing the intermittency and shading effects, providing a more stable and reliable power output.
+-
+Q:
+What are the different types of residential energy storage systems?
+A:There are several types of residential energy storage systems, each with its own advantages and disadvantages. The primary types include battery-based, thermal, mechanical, hydrogen energy storage, and supercapacitors.
+Among these, battery-based systems are the most commonly used for residential energy storage. These systems employ electrochemical batteries, such as lithium-ion, lead-acid, or flow batteries, to store energy. Battery-based systems are popular due to their relatively high energy density, efficiency, and modularity. Lithium-ion batteries are particularly popular for their longer lifespan, higher energy density, and better performance compared to other battery types.
+-
+Q:
+How much does a residential energy storage system cost?
+A:The cost of a residential energy storage system can vary widely based on factors such as the type, capacity, installation costs, and additional equipment or services required. The cost components of the most common residential energy storage system are as follows:
+Battery: Depend on the type (e.g., lithium-ion, lead-acid), capacity (measured in kWh), and quality.
+Inverter: Depend on the capacity and features, ranging from $1,000 to $3,000 or more.
+System Components: Include items like charge controllers, battery management systems (BMS), wiring, switches, and other necessary equipment which can add several hundred to a few thousand dollars to the overall cost.
+Installation Costs: Depend on the installation complexity, labor rates, local regulations, etc., ranging from $1,000 to $5,000 or more.
+Maintenance and Replacement Costs: Depend on the battery type and usage patterns. Batteries may need to be replaced every 5 to 15 years and there may be ongoing costs to maintain the system in good working order.
+Considering these factors, a typical residential battery-based energy storage system can cost anywhere from $5,000 to $20,000 or more, including installation. However, these costs can be offset over time through energy bill savings.
+AlphaCloud
+Connects all the AlphaESS systems and enables monitoring, smart control, trading and energy service.
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/smile-evct11-ev-charger
+
+FEATURES
+-
+100% Green Energy
+-
+Anti-Fuse Tripping
+-
+Smart AlphaCloud
+Management -
+Data Security
+SPECS
+-
+-
+Model
+SMILE-G3-EVCS7
+-
+Nominal Power Rate
+11000w
+-
+AC Rated Voltage
+220 V / 380 V, 230 V / 400 V (3P+N+PE)
+-
+Rated Current
+16A
+-
+Frequency
+50/60 Hz
+-
+AC Output Voltage
+400 V
+-
+Max. Current
+16 A
+-
+Communication Protocol
+OCPP 1.6 Json
+-
+Start-up Methods
+Plug & Charge / App / RFID Card / Time-based Setting
+-
+Work Modes
+Green mode: EV Charged only by solar energy or battery
+-
+Fast mode: First priority for EV charging
+-
+ECO mode: Customized timers and fixed power
+-
+-
+-
+Model
+SMILE-G3-EVCT11
+-
+Nominal Power Rate
+11000 W
+-
+AC Rated Voltage
+220 V / 230 V (L+N+PE)
+-
+Rated Current
+32 A
+-
+Frequency
+50/60 Hz
+-
+AC Output Voltage
+400 V
+-
+Max. Current
+16 A
+-
+Communication Protocol
+OCPP 1.6 Json
+-
+Start-up Methods
+Plug & Charge / App / RFID Card / Time-based Setting
+-
+Work Modes
+Green mode: EV Charged only by solar energy or battery
+-
+Fast mode: First priority for EV charging
+-
+ECO mode: Customized timers and fixed power
+-
+WHAT CAN WE DO FOR YOU
+Buy Your Energy Storage System
+Join Us as a Partner
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/vitapower-vt-1000
+
+FEATURES
+-
+All-in-One Design
+-
+On-Grid & Off-Grid
+-
+Smart APP Control
+-
+Up to 2000W Adjustable Power
+-
+Expandable up to 6 kWh
+-
+Safe & Reliable
+SPECS
+-
+-
+Battery Capacity
+1024 Wh
+-
+Battery Type
+LFP(LiFePo4)
+-
+Wireless Connection
+Wifi
+-
+Input Port
+Anderson Powerpole*2
+-
+PV Input Power
+2*600W
+-
+Fast Charging USB-C Port
+2*100W
+-
+AC Output Port
+3
+-
+Voltage Range
+40~60VDC
+-
+Max.Expansion Capacity
+Up to 6,144 Wh (5 Battery Modules)
+-
+HOW TO CHARGE
+YOUR VitaPower VT1000
+-
+Solar Panel
+-
+Wall Outlet
+ALWAYS BE READY FOR YOUR HOME APPLIANCES
+*The above information is for reference only
+WHAT CAN WE DO FOR YOU
+Buy Your Energy Storage System
+Join Us as a Partner
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/commercial-and-industrial-energy-storage-system
+
+STORION SERIES
+AlphaESS C&I solutions offer from 30kW to 30+MW. We have delivered hundreds of projects covering most of the commercial applications such as demand charge management, PV self-consumption and back-up power, fuel saving solutions, micro-grid and off-grid options.
+ADVANTAGES
+FREQUENTLY ASKED QUESTIONS
+-
+Q:
+How do I determine the right system size and configuration for my business?
+A:AlphaESS offers a comprehensive sizing service based on your load profile, electricity tariff structure, energy usage patterns, and whether the system will be paired with solar PV. Our intelligent EMS analyzes historical energy consumption and peak-valley differences to design an optimal solution that maximizes your return on investment. Our STORION series, for example, supports flexible expansion to adapt to your evolving energy needs.
+-
+Q:
+What are the key benefits of a C&I energy storage system?
+A:AlphaESS commercial and industrial energy storage systems can reduce peak demand charges, lower overall electricity costs, increase self-consumption of solar energy, provide backup power, and support renewable integration. In some regions, businesses can also generate additional revenue by participating in demand response programs or providing ancillary services to the grid—boosting both economic and environmental performance.
+-
+Q:
+How does a C&I storage system maximize solar PV utilization?
+A:Our energy storage systems seamlessly integrate with solar PV to create a closed-loop "generate-store-use" energy model. During the day, excess solar energy is stored and then discharged during the evening or peak pricing periods. This not only improves overall energy efficiency but also significantly reduces solar curtailment and enhances the economic value of your PV investment.
+-
+Q:
+What are the space and installation requirements for a C&I storage system?
+A:AlphaESS C&I systems feature a compact, modular design suitable for deployment on factory rooftops, next to electrical rooms, or in outdoor spaces. The standard system can be housed in a prefabricated cabinet or container, allowing for quick installation with minimal site disruption. For projects with specific spatial limitations, we offer customized deployment solutions.
+-
+Q:
+How is the system maintained? Do I need a dedicated operations team?
+A:AlphaESS provides a cloud-based remote monitoring platform that allows users to access real-time system performance data, charge/discharge records, and energy trends via web or mobile app. Our systems support automatic fault alerts, self-diagnostics, and data reporting, minimizing the need for manual inspections. Localized service support is also available to ensure system reliability without the need for a dedicated in-house maintenance team.
+-
+Q:
+What is the typical payback period for a C&I energy storage project?
+A:The payback period depends on factors such as electricity tariffs, load characteristics, and available incentives. For typical peak shaving and PV+storage projects, ROI can be achieved in 3 to 6 years. AlphaESS also offers scenario-based financial modeling tools to help you evaluate the return on investment and make informed business decisions.
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/utility-scale
+
+UTILITY-SCALE SOLUTIONS
+AlphaESS utility-scale solutions integrate with wind and solar power to enhance clean energy self-consumption and stabilize supply-demand fluctuations. Combined with smart energy management and IoT technologies, they drive the energy transition and support global carbon neutrality goals.
+ADVANTAGES
+FREQUENTLY ASKED QUESTIONS
+-
+Q:
+What are the typical application scenarios for a utility-scale energy storage system?
+A:AlphaESS utility-scale ESS is designed for large-scale power systems and infrastructure applications, including renewable energy plant integration, grid frequency and peak regulation, capacity support, energy trading in wholesale or spot markets, microgrid supply, and off-grid deployments in remote areas. These systems are ideal for scenarios that require high power, large capacity, and extended-duration storage to enhance grid flexibility and resilience.
+-
+Q:
+How do I determine the right system size and configuration for my utility-scale project?
+A:AlphaESS provides customized system design based on your project objectives—whether it's frequency regulation, capacity market participation, renewable smoothing, or off-grid operation. We consider discharge duration, response speed, dispatch frequency, and revenue model to recommend the optimal solution. Our utility-scale products range from 1MWh to 100MWh+ systems, featuring liquid cooling, high integration, modular architecture, and intelligent control.
+-
+Q:
+What are the main revenue streams for utility-scale energy storage systems?
+A:Key revenue sources include:
+Grid ancillary services (e.g., frequency regulation, spinning reserve, black start)
+Renewable energy integration to enhance output stability and grid compatibility
+Participation in capacity markets or spot electricity trading platforms
+Deferring investments in transmission and distribution infrastructure
+Microgrid or islanded grid applications providing autonomous power and frequency control
+-
+Q:
+What are the site and installation requirements for a utility-scale ESS project?
+A:We offer multiple deployment formats including liquid-cooled containerized solutions, prefabricated cabin designs, and distributed modular systems to suit various terrains and climates. Installation requires basic conditions such as structural load capacity, fire access, cable routing, grid connection capability, and voltage compatibility.
+-
+Q:
+How is grid integration and dispatch managed? Does the system support communication with grid operators?
+A:AlphaESS utility-scale systems are fully compatible with mainstream grid communication protocols, enabling seamless integration with utility SCADA and control systems. The built-in EMS platform supports real-time dispatch, strategy execution, bidirectional communication, and cloud-based system management. It can also integrate with customers' proprietary energy management platforms for unified control.
+-
+Q:
+Is system operation and maintenance (O&M) complex? How is long-term reliability ensured?
+A:Despite the large scale, AlphaESS ensures efficient and intelligent O&M through digital tools and a modular hardware architecture. Our comprehensive service includes:
+24/7 remote monitoring and smart fault alerts
+Automated diagnostics with maintenance recommendations
+Swappable modules for rapid replacement and expansion
+Periodic system health reports and lifecycle assessmentsIn addition, AlphaESS provides localized service teams globally to deliver on-site inspection, training, and responsive technical support throughout the project lifecycle.
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/energy-storage-solutions
+
+-
+Residential Energy Storage
+-
+Commercial & Industrial Energy Storage
+-
+Balcony Solar System
+-
+EV Charger
+-
+Residential Energy Storage Solution
+More and more homeowners are going solar to reduce their electricity bills and protect the environment for future generations. A battery system allows you to go even further by storing surplus solar generation for use at any time, increasing your savings and providing additional backup power in case of a blackout.
+AlphaESS offers homeowners a comprehensive range of energy storage products with various features and capacity options to meet the needs of a wide range of building types and demand profiles.
+-
+-
+Home
+Home Solar System + Energy Storage System:
+Self-Consumption -
+UPS
+Uninterrupted Power Supply
+-
+VPP
+Virtual Power Plant Ready
+-
+-
+-
+Energy Scarce Regions
+-
+Disaster-Prone Regions
+-
+Areas with Unstable/
+No Power Supply
+-
+-
+-
+Commercial & Industrial Energy Storage
+Schools, factories, petrol stations, and other commercial buildings with high levels of energy demand can maximize their energy independence and lower their reliance on the grid with solar PV and battery storage. Even businesses without solar PV systems can benefit from the ability of batteries to reduce peak power demand and shift grid consumption to off-peak hours.
+With a diverse range of tailored products that cater to global market needs, AlphaESS offers one-stop solutions for commercial and industrial facilities which aim to reduce electricity bills, mitigate the effects of rising energy prices, generate renewable energy revenue, and lower environmental footprint.
+-
+-
+Traditional Power Plants
+Backup Energy Storage System,
+Frequency Modulation -
+Wind Farm / PV Plants
+Adjust Quality of Grid Connection
+-
+Distributed Renewable Energy
+For Off-Grid Areas
+(Remote Areas and Island etc.)
+-
+-
+-
+Communication Base Station &
+Data CenterBackup Power Supply
+-
+Family
+Family with High Grid Consumption
+-
+Industrial & Commercial Facilities
+Peak Shaving & Valley Filling,
+Electricity Demand Reduction
+-
+-
+-
+Transformer Substation
+Improve Quality and Reliability of Power Supply,
+Improve Grid Utilization -
+EV Charging Station
+Peak Shaving & Valley Filling,
+Improve Renewable Energy Utilization -
+Electric Ship
+Power Supply
+-
+-
+-
+Balcony Solar System
+VitaPower is an All-in-one home battery solution that can expand up to 6144Wh, supporting both on-grid and off-grid use. Get ready to revolutionize your home energy management with VitaPower.
+-
+-
+Emergency
+During Blackouts
+-
+Outdoor
+Ideal for Camping
+-
+Lower Monthly Electricity Bills
+0% Solar Energy Waste
+-
+-
+-
+EV Charger
+Electric vehicles are gaining popularity due to their cutting-edge fashion style and the fact that they offer an eco-friendly alternative to fossil fuels for transportation. The AlphaESS EV charger, SMILE-EVC11, was born to bring your green life by feeding your electric car with 100% renewable energy. This EV charger distinguishes itself from others on the market since it can be integrated with the AlphaESS energy storage system.
+-
+-
+Solar + Storage with EV Charger
+Residential Solar + Storage with
+EV Charger Solution -
+Real Estate Developers
+Energy Solution for the Community
+-
+Comprehensive Energy Project
+Project Including Planning, Design,
+Investment, Building and Operation
+-
+-
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/alphacloud
+
+AlphaCloud is a lifetime FREE platform that automatically detects & configures all AlphaESS system connected devices and makes every AlphaESS battery much more than storing.
+MONITORING AND OPTIMIZING YOUR ENERGY 24/7
+Once you purchase an AlphaESS energy storage system, AlphaCloud will allow you to manage your energy from anywhere anytime, and it’s lifetime free.
+AlphaCloud provides you with a comprehensive view of your energy ecosystem. It enables you to see in real-time the amount of your PV generation, your energy consumption, your battery energy and to set your preferences to optimize for energy independence and saving.
+ADVANTAGES
+-
+Maximize Savings
+Maximizes your profit via remote setting/control subject to electricity tariff.
+24/7 monitoring system via user-friendly interface to demonstrate real-time profit.
+-
+Worry-Free
+Operates safely with built-in system protection machanisms.
+Responses promptly to any problems with remote diagnostics.
+-
+Free Upgrades
+Updates the system online or via USB drive easily.
+Keeps up with the evolving future of energy.
+Accesses to platform via Web and app for lifetime free.
+-
+AI Algorithm
+With intelligent strategy algorithms, AlphaCloud improves product performance, carries out diversified integration and conducts a multivariate complementary in centralized management.
+STAY AHEAD OF THE CURVE
+Local and remote control in real-time, hierarchical management;
+With the electricity data and AI algorithm, AlphaCloud is capable of predicting PV generation to maximize customers’ revenue;
+With the system data and AI algorithm, AlphaCloud is capable of predicting maintenance frequency, ensuring safe and sound operations;
+24/7 monitoring of core data, fault location, remote fault analysis, auxiliary maintenance;
+Efficient troubleshooting with glitch cloud storing and recording in milliseconds in real time;
+Online detecting, remote dispatching, cluster control, incremental distribution grid electricity trading and regional energy system construction;
+Multi-section charging and discharging configuration enables peak shaving and maximizes the profit；
+Remote security upgrade with terminal functions and services improved continuously;
+Collecting and analyzing massive data of parallel efficiency;
+Standardized open interfaces available；
+Industry-leading cloud computing with financial-grade security;
+Microsoft Azure, the only provider of AlphaCloud, provides multi-layer services from IaaS to PaaS and various highly elastic and scalable computing;
+With Microsoft solutions, AlphaCould provides users with enterprise-level security and control, including intercepting and encrypting the data, preventing data loss etc., to ensure the data security, and prevent the data from being infringed, especially for the IoT devices to be attacked easily;
+Play Video
+ALPHACLOUD APP OVERVIEW
+AlphaCloud allows you to manage your AlphaESS system anywhere anytime.
+Here we’d like to present you a comprehensive view including:
+What AlphaCloud provides you with;
+How your energy system is operating under the 24/7 mornitoring of AlphaCloud;
+How to set the key parameters properly in order to make the best use of your solar system;
+First see, then believe.
+TRY THE DEMO
+Feel the user-friendly app by yourself now. Download the app or go to https://cloud.alphaess.com/dashboard
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/smile-m5-5kw-residential-energy-storage-system
+
+FEATURES
+-
+Stackable Design for
+Quick Setup & Expansion -
+240%
+PV Oversizing -
+100%
+Depth of Discharge -
+Built-in
+Aerosol Fire Defense -
+Ultra Quiet
+(<35 dB) -
+All-in-One System
+( Inverter + Battery )
+SPECS
+-
+-
+Nominal Output Power
+5000 W
+-
+Battery Capacity
+5 ~ 20 kWh ( 100% DoD )
+-
+Max. PV Input Power
+10000 Wp
+-
+MPPT Number / Max. Input String Number per MPPT
+2 / 1
+-
+Rated Output Voltage
+230 V
+-
+Ingress Protection
+IP 65
+-
+Communication
+Ethernet / Wi-Fi
+-
+Warranty
+10 Years
+-
+WHAT CAN WE DO FOR YOU
+Buy Your Energy Storage System
+Join Us as a Partner
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/smile-g3-3-6kw-5kw-residential-energy-storage-system
+
+FEATURES
+-
+VPP Ready
+-
+Smart Off-Grid
+-
+High Max. PV Input
+-
+High PV Input Current
+-
+Better Backup
+Overload Capability
+SPECS
+-
+-
+Model
+SMILE-G3-B5
+-
+Coupling
+AC
+-
+Nominal Output Power
+5 kW
+-
+Capacity Range
+3.8 - 15.4 kWh / 8.2 - 49.2 kWh / 10.1 - 60.5 kWh
+-
+Depth of Discharge
+95%
+-
+Battery Chemistry
+LFP (LiFePO₄)
+-
+Max. PV Input Power
+N/A
+-
+IP Protection
+IP65 (Outdoor) / IP21 (Indoor)
+-
+Warranty
+5 Years Product Warranty,
+10 Years Battery Performance Warranty
+-
+-
+-
+Model
+SMILE-G3-S5
+-
+Coupling
+Hybrid
+-
+Nominal Output Power
+5 kW
+-
+Capacity Range
+3.8 - 15.4 kWh / 8.2 - 49.2 kWh / 10.1 - 60.5 kWh
+-
+Depth of Discharge
+95%
+-
+Battery Chemistry
+LFP (LiFePO₄)
+-
+Max. PV Input Power
+10 kW
+-
+IP Protection
+IP65 (Outdoor) / IP21 (Indoor)
+-
+Warranty
+5 Years Product Warranty,
+10 Years Battery Performance Warranty
+-
+BATTERY MODULE
+Lego-style modular design, easy installation and expansion to meet different requirements.
+WHAT CAN WE DO FOR YOU
+Buy Your Energy Storage System
+Join Us as a Partner
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/smile-g3-t4~10
+
+FEATURES
+-
+3 MPPT for
+Higher PV Input -
+Redundant Design
+without HV Box -
+Capable of 150%
+Unbalancing per Phase
+SPECS
+-
+-
+Model
+SMILE-G3-T4~10
+-
+Coupling
+Hybrid
+-
+Nominal Output Power
+4 / 5 / 6 / 8 / 10 kW
+-
+Capacity Range
+3.8 - 45.6 kWh
+-
+Depth of Discharge
+95%
+-
+Battery Chemistry
+LFP (LiFePO₄)
+-
+Max. PV Input Current
+16 A
+-
+IP Protection
+IP65
+-
+Warranty
+5 Years Product Warranty,
+10 Years Battery Performance Warranty
+-
+BATTERY MODULE
+Lego-style modular design, easy installation and expansion to meet different requirements.
+WHAT CAN WE DO FOR YOU
+Buy Your Energy Storage System
+Join Us as a Partner
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/smile-g3-t12~20
+
+FEATURES
+-
+3 MPPT for
+Higher PV Input -
+Commercial Applications Compatibility
+-
+Elegant Design
+SPECS
+-
+-
+Model
+SMILE-G3-T12~20
+-
+Coupling
+Hybrid
+-
+Nominal Output Power
+12 / 15 / 20 kW
+-
+Capacity Range
+7.3 - 111.6 kWh
+-
+Depth of Discharge
+95%
+-
+Battery Chemistry
+LFP (LiFePO₄)
+-
+Max. PV Input Current
+18 A
+-
+IP Protection
+IP21 (Indoor)
+-
+Warranty
+5 Years Product Warranty,
+10 Years Battery Performance Warranty
+-
+BATTERY MODULE
+Lego-style modular design, easy installation and expansion to meet different requirements.
+WHAT CAN WE DO FOR YOU
+Buy Your Energy Storage System
+Join Us as a Partner
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/stax-m50-commercial-and-industrial-energy-storage-system
+
+FEATURES
+-
+Stackable Design for Quick Setup & Expansion
+-
+IP66 Protection
+-
+200% PV Input
+-
+Reliable Operation with AutoPilot BMS Tech
+-
+Boost Lifetime by Auto-diagnostics & SOC Calibration
+SPECS
+System Specifications
+Module
+M30/M50
+Rated Power
+29.9 /50 kW
+No. of MPPT Trackers
+3/4
+Protection Level
+IP66
+Warranty
+5 Years Product Warrenty，10 Years Battery Performance Warranty
+Battery Specifications
+Module Model
+Battery Type
+Nominal Capacity
+Rated Voltage
+Operating Voltage
+Max. Charging/Discharging Current
+Dimensions (W x D x H)
+-
+Module Model
+M38314-S
+Battery Type
+LiFePO₄
+Nominal Capacity
+12.05 kWh
+Rated Voltage
+38.4 V
+Operating Voltage
+32.4 ~ 42.24V
+Max. Charging/Discharging Current
+157 A
+Dimensions (W x D x H)
+550*615*250 mm
+CASE STUDY
+WHAT CAN WE DO FOR YOU
+Buy Your Energy Storage System
+Join Us as a Partner
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/commercial-industrial-ess-g3-h30-h50
+
+FEATURES
+-
+All-in-One Compact Battery Cabinet
+-
+On-Grid Application
+-
+Off-Grid Application
+-
+Small Footprint,Great Energy
+-
+Hybrid Coupling for Maximum Flexibility
+-
+Pre-Installed for Faster, Easy for Setup
+SPECS
+System Specifications
+IP Protection Class
+IP55
+Energy Capacity
+120.5 kWh per cabinet
+Dimensions (W x D x H)
+1,120 x1,300 x2,050 mm
+Weight
+1,600 kg
+Max. Efficiency & European Efficiency
+97.8% & 97.2%
+Corrosion Class
+C4
+Sound Emission
+≤ 65 dB @l m
+Temperature Range
+-30℃~50℃(PCS>45°c derating)
+Warranty
+5-year product warranty, 10-year battery warranty
+Battery Specifications
+Module Model
+Battery Type
+Nominal Capacity
+Rated Voltage
+Operating Voltage
+Max. Charging/Discharging Current
+Dimensions (W x D x H)
+-
+Module Model
+M77314-S
+Battery Type
+LiFePO₄
+Nominal Capacity
+24.1 kWh
+Rated Voltage
+76.8 V
+Operating Voltage
+69.6 V ~ 84 V
+Max. Charging/Discharging Current
+157 A
+Dimensions (W x D x H)
+525 x 856 x 260 mm
+CASE STUDY
+WHAT CAN WE DO FOR YOU
+Buy Your Energy Storage System
+Join Us as a Partner
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/tb125
+
+FEATURES
+-
+All-in-One & Fast Setup
+3-step deployment: AC wiring, meter connection and EMS commissioning. -
+Modular & Scalable
+Start with required capacity, expand as demand grows. -
+Flexible EMS Strategies
+Scheduled charge/discharge, self-consumption, generator support and demand control. -
+High Efficiency
+Liquid cooling, active cell balancing, up to 99% PCS efficiency.
+SPECS
+System Specifications
+Module
+STORION-LC-TB125
+Power
+125 kW
+System Ingress Protection
+IP55
+Nominal AC Voltage
+230 V / 400 V
+Certifications
+IEC 62477, IEC 62109, IEC 61000, EN 50549
+Battery Specifications
+Battery Capacity
+Battery Chemistry
+Depth of Discharge
+Dimensions (W*D*H)
+Fire Protection System
+Certifications
+-
+Battery Capacity
+261.2kWh
+Battery Chemistry
+LiFePO₄
+Depth of Discharge
+98%
+Dimensions (W*D*H)
+1003 * 1500 *2483 mm
+Fire Protection System
+Smoke & Temperature Detection + Aerosol (Pack & Rack) + Sprinkler
+Certifications
+UN 38.3, IEC 62477, UL 9540A, IEC 61000
+CASE STUDY
+WHAT CAN WE DO FOR YOU
+Buy Your Energy Storage System
+Join Us as a Partner
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/tb500
+
+FEATURES
+-
+400V/800V System Campability
+-
+Front-Access Installation Design
+-
+All-in-One
+-
+Independent Fire Protection System
+-
+UL9540A Certification
+SPECS
+System Specifications
+Module
+Aster TB250/TB500
+Power
+250–500 kW
+Capacity
+705–1410 kWh
+System Ingress Protection
+IP55
+Nominal AC Voltage
+400 / 800 V
+Certifications
+UN38.3,UN3536, IEC 62619, IEC 62477, IEC 61000, UL 9540A
+Battery Specifications
+Battery Model
+Rated Voltage
+Nominal Capacity
+Rated Charging and Discharging Power
+Ingress Protection
+Weight
+Dimensions (W × D × H)
+Operating Temperature Range
+-
+Battery Model
+M166314-52S-EX
+Rated Voltage
+166.4 V
+Nominal Capacity
+52.24 kWh
+Rated Charging and Discharging Power
+26.12 kW (0.5 P)
+Ingress Protection
+IP67
+Weight
+340 kg
+Dimensions (W × D × H)
+810 × 1125.5 × 237.5 mm
+Operating Temperature Range
+30 °C – 50 °C
+CASE STUDY
+WHAT CAN WE DO FOR YOU
+Buy Your Energy Storage System
+Join Us as a Partner
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/aster-5000
+
+FEATURES
+-
+Ultra Safe
+-
+High System Integration
+-
+Flexible Site Layout
+-
+External Maintenance Design
+SPECS
+System Specifications
+Nominal Capacity
+5.015 MWh
+IP Protection
+IP55
+Dimensions (L x W x H)
+6058 x 2438 x 2896 mm
+Battery Type
+LiFePO₄
+Application Model
+Outdoor (Container)
+Battery Specifications
+Module Model
+Nominal Voltage
+Module Capacity
+IP Protection
+Operating Temperature Range
+-
+Module Model
+M332314-104S-EX
+Nominal Voltage
+332.8 V
+Module Capacity
+104.4 kWh
+IP Protection
+IP67
+Operating Temperature Range
+-40 °C ~ 50 °C
+CASE STUDY
+WHAT CAN WE DO FOR YOU
+Buy Your Energy Storage System
+Join Us as a Partner
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/residential-energy-storage-solution-cases
+
+-
+-
+Project
+SMILE-G3: 10kW/20kWh
+-
+Application
+PV + Storage
+-
+Address
+Quezon, Metro Manila, Philippines
+MORE
+-
+-
+-
+Project
+SMILE-G3: 5kW/10.1kWh
+-
+Application
+PV + Storage
+-
+Address
+Colyton, NSW, Australia
+MORE
+-
+-
+-
+Project
+SMILE-G3: 5kW/20.2kWh
+-
+Application
+PV + Storage
+-
+Address
+Hervey Bay, Australia
+MORE
+-
+-
+-
+Project
+SMILE-G3: 5kW/10.1kWh
+-
+Application
+PV + Storage
+-
+Address
+Hervey Bay, Australia
+MORE
+-
+-
+-
+Project
+SMILE5: 5kW/10.1kWh
+-
+Application
+PV + Storage
+-
+Address
+South Australia, Australia
+MORE
+-
+-
+-
+Project
+SMILE-T10-HV: 10kW/8.2kWh
+-
+Application
+PV + Storage
+-
+Address
+Lahore, Pakistan
+MORE
+-
+-
+-
+Project
+SMILE-SP: 9.6kW/16.4kWh
+-
+Application
+PV + Storage
+-
+Address
+Los Angeles, California, US
+MORE
+-
+-
+-
+Project
+SMILE5: 5kW/13.3kWh
+-
+Application
+PV + Storage
+-
+Address
+Australia
+MORE
+-
+-
+-
+Project
+SMILE5: 5kW/10.1kWh
+-
+Application
+PV + Storage
+-
+Address
+Sydney, Australia
+MORE
+-
+-
+-
+Project
+SMILE5: 5kW/5.7kWh
+-
+Application
+PV + Storage
+-
+Address
+New Zealand
+MORE
+-
+-
+-
+Project
+SMILE5: 5kW/10.1kWh
+-
+Application
+PV + Storage
+-
+Address
+Ireland
+MORE
+-
+-
+-
+Project
+SMILE5: 5kW/10.1kWh
+-
+Application
+PV + Storage
+-
+Address
+NSW, Australia
+MORE
+-
+-
+-
+Project
+SMILE5: 5kW/11.4kWh
+-
+Application
+PV + Storage
+-
+Address
+Martinique, Caribbean
+MORE
+-
+-
+-
+Project
+SMILE5: 5kW/10.1kWh
+-
+Application
+PV + Storage
+-
+Address
+South Africa
+MORE
+-
+-
+-
+Project
+SMILE-B3: 3kW/17.4 kWh
+-
+Application
+PV + Storage
+-
+Address
+Belgium
+MORE
+-
+-
+-
+Project
+SMILE5: 5kW/5.7kWh
+-
+Application
+PV + Storage
+-
+Address
+Philippines
+MORE
+-
+-
+-
+Project
+SMILE5: 5kW/11kWh
+-
+Application
+PV + Storage
+-
+Address
+Brandenburg, Germany
+MORE
+-
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/commercial-and-industrial-energy-storage-solution-cases
+
+-
+-
+Project
+250kW / 522,4 kWh
+-
+Application
+Off-Grid
+-
+Address
+Netherlands - Schiedam
+MORE
+-
+-
+-
+Project
+50 kW / 100 kWh
+-
+Application
+PV + Storage
+-
+Address
+Italy - Modena
+MORE
+-
+-
+-
+Project
+50 kw / 130 kwh
+-
+Application
+Off-Grid
+-
+Address
+Kenya - Kisii and Nyamira
+MORE
+-
+-
+-
+Project
+1.8MW / 7.3MWh
+-
+Application
+PV+ Storage
+-
+Address
+Sierra Leone
+MORE
+-
+-
+-
+Project
+50 kW/102 kWh
+-
+Application
+PV + Storage
+-
+Address
+Wolfsberg, Germany
+MORE
+-
+-
+-
+Project
+100 kW/250 kWh
+-
+Application
+PV + Storage + Off-Grid
+-
+Address
+Moomba, SA, Australia
+MORE
+-
+-
+-
+Project
+100 kW/670 kWh
+-
+Application
+PV + Storage + Microgrid
+-
+Address
+Fremantle, WA, Australia
+MORE
+-
+-
+-
+Project
+10 MW/20 MWh
+-
+Application
+PV + Storage
+-
+Address
+Luan, Hubei
+MORE
+-
+-
+-
+Project
+5 MW/10 MWh
+-
+Application
+PV + Storage
+-
+Address
+Laohekou, Hubei
+MORE
+-
+-
+-
+Project
+6 MW/12 MWh
+-
+Application
+PV + Storage
+-
+Address
+Guangshui, Hubei
+MORE
+-
+-
+-
+Project
+10 MW/20 MWh
+-
+Application
+PV + Storage
+-
+Address
+Jiuquan, Gansu
+MORE
+-
+-
+-
+Project
+100 kW/400 kWh
+-
+Application
+PV + Storage + Genset
+-
+Address
+Ergun, Inner Mongolia
+MORE
+-
+-
+-
+Project
+500 kW/1 MWh
+-
+Application
+PV + Storage
+-
+Address
+Zhenjiang, Jiangsu
+MORE
+-
+-
+-
+Project
+100 kW/160 kWh
+-
+Application
+PV + Storage
+-
+Address
+Suzhou, Jiangsu
+MORE
+-
+-
+-
+Project
+360 kW/1.5 MWh
+-
+Application
+PV + Storage
+-
+Address
+Nantong, Jiangsu
+MORE
+-
+-
+-
+Project
+4 MW/8 MWh
+-
+Application
+PV + Storage
+-
+Address
+Huzhou, Zhejiang
+MORE
+-
+-
+-
+Project
+100 kW/206 kWh
+-
+Application
+PV + Storage + Genset
+-
+Address
+Abu Dhabi, The United Arab Emirates
+MORE
+-
+-
+-
+Project
+50 kW/172 kWh, 50 kW/257 kWh
+-
+Application
+PV + Storage + Microgrid
+-
+Address
+Philippines
+MORE
+-
+-
+-
+Project
+50 kW/100 kW & 100 kWh-300 kWh
+-
+Application
+Solar-Battery-Diesel Microgrid System
+-
+Address
+DeeDoke village, Myanmar
+MORE
+-
+-
+-
+Project
+50 kW/200 kWh
+-
+Application
+PV + Storage
+-
+Address
+Myanmar
+MORE
+-
+-
+-
+Project
+10ft container 50 kW/ 103 kWh
+-
+Application
+PV + Storage + Genset
+-
+Address
+Indonesia
+MORE
+-
+-
+-
+Project
+150 kW/612 kWh
+-
+Application
+PV + Storage + Genset
+-
+Address
+Tangerang, Indonesia
+MORE
+-
+-
+-
+Project
+50 kW/266 kWh
+-
+Application
+PV + Storage + Genset
+-
+Address
+Thailand
+MORE
+-
+-
+-
+Project
+50 kW/130 kWh
+-
+Application
+Off-Grid
+-
+Address
+Kisii and Nyamira counties, Kenya
+MORE
+-
+-
+-
+Project
+2x 50 kW/162 kWh
+-
+Application
+Mini-Grid
+-
+Address
+Rwanda
+MORE
+-
+-
+-
+Project
+40ft 500 kW/1 MWh
+-
+Application
+Energy Independence
+-
+Address
+Accra, Ghana
+MORE
+-
+-
+-
+Project
+2x 40ft 1 MW/2 MWh
+-
+Application
+Microgrid
+-
+Address
+Accra, Ghana
+MORE
+-
+-
+-
+Project
+750 kW/2 MWh
+-
+Application
+Solar-Battery-Diesel Microgrid System
+-
+Address
+Koh Jik, Chanthaburi, Thailand
+MORE
+-
+-
+-
+Project
+50 kW/266 kWh
+-
+Application
+PV (72kW) + Energy Storage System (50kW/266kWh) + Diesel Genset (60kW)
+-
+Commission Date
+July, 2022
+-
+Address
+Koh Jik, Chanthaburi, Thailand
+MORE
+-
+-
+-
+Project
+250 kW/517.5 kWh
+-
+Application
+PV + Storage + UPS + Peak Shaving
+-
+Commission Date
+July, 2022
+-
+Address
+Shenzhen, China
+MORE
+-
+-
+-
+Project
+50 kW/162 kWh
+-
+Application
+PV + Storage + Off-Grid
+-
+Commission Date
+June, 2022
+-
+Address
+North East Nigeria
+MORE
+-
+-
+-
+Project
+50/100/150 kW
+-
+Application
+Solar + Storage + Diesel
+-
+Commission Date
+Dec, 2019
+-
+Address
+Myanmar
+MORE
+-
+-
+-
+Project
+250 kW/650 kWh
+-
+Application
+PV + Storage + Off-Grid + Microgrid + Diesel
+-
+Commission Date
+Dec, 2020
+-
+Address
+Inner Mongolia, China
+MORE
+-
+-
+-
+Project
+500 kW/1 MWh
+-
+Application
+PV + Storage + Diesel Generator
+-
+Commission Date
+Feb, 2022
+-
+Address
+Zimbabwe, Africa
+MORE
+-
+-
+-
+Project
+50 kW/60 kWh
+-
+Application
+PV + Storage
+-
+Commission Date
+Jan, 2022
+-
+Address
+Kathmandu, Nepal
+MORE
+-
+-
+-
+Project
+2.5 MW/10 MWh
+-
+Application
+Storage + Peak-Shaving
+-
+Commission Date
+Oct, 2020
+-
+Address
+Nanjing, China
+MORE
+-
+-
+-
+Project
+2 MW/8 MWh
+-
+Application
+Storage + UPS + Peak Shaving
+-
+Commission Date
+Jun, 2020
+-
+Address
+Changshu, China
+MORE
+-
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/utility-scale-energy-storage-solution-cases
+
+-
+-
+Project
+12.5MW/12.5MWh
+-
+Application
+Black Start, Frequency Regulation & Peak Shaving
+-
+Address
+Zhaoqing City, Guangdong Province, China
+MORE
+-
+-
+-
+Project
+6MW/12MWh
+-
+Application
+Biomass + Storage
+-
+Address
+Mazhai Village, Guangshui City, Hubei Province, China
+MORE
+-
+-
+-
+Project
+5MW/10MWh
+-
+Application
+Wind Power + Storage (Peak Shaving & Frequency Regulation)
+-
+Address
+Ruzhou City, Henan Province, China
+MORE
+-
+-
+-
+Project
+100MW/200MWh
+-
+Application
+Wind Power + Storage
+-
+Address
+Neihuang County, Henan Province, China
+MORE
+-
+-
+-
+Project
+140MW/280MWh + 80MW/160MWh
+-
+Application
+Peak Shaving and Frequency Regulation
+-
+Address
+Ulanqab, Inner Mongolia, China
+MORE
+-
+-
+-
+Project
+80MW/160MWh + 40MW/80MWh
+-
+Application
+Peak Shaving and Frequency Regulation
+-
+Address
+Kubuqi Desert, Inner Mongolia, China
+MORE
+-
+-
+-
+Project
+2MW/4MWh
+-
+Application
+PV + Storage
+-
+Address
+Lithuania
+MORE
+-
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/expertise
+
+OUR EXPERTISE
+CORE TECHNOLOGY
+Building a “Windows or Android System” within the Energy Sector ESS Covering Full Power Range / Power Facilities
+-
+Platform
+-
+-
+Prediction
+-
+Scheduling
+-
+-
+-
+AI Algorithm
+-
+Big Data
+-
+-
+-
+Communication
+Control-
+-
+5G/4G
+Power Carrier -
+EMS
+-
+-
+-
+Cloud
+Communication -
+BMS
+-
+-
+-
+Hardware
+-
+-
+Power Generation/
+Transmission/ Distribution -
+Grid
+-
+-
+SAFETY FIRST
+-
+The safest chemistry LiFePO4
+We use only LiFePO4 batteries to ensure our customers benefit from premium electrical characteristics while maintaining the highest safety standards.
+-
+The most robust cell types
+To ensure long mechanical lifespans and safety, AlphaESS never uses unreliable casing materials.
+-
+Global TIER 1 cell manufacturer
+AlphaESS selects global TIER 1 cell manufacturer to provide high-quality and reliable batteries.
+ALPHACLOUD
+Energy Management & Monitoring Platform
+The AlphaCloud Energy Management & Monitoring System is a powerful tool built on Microsoft Azure
+Cellphone, Tablet, Laptop. Computer, Wherever you want to see!
+The cloud management system is available to
+-
+Homeowner
+The homeowner account provides full transparency of household energy data for its users, it also enables the homeowner to customize settings to optimize energy usages
+-
+Installer
+The account allows installers to monitor and conduct remote servicing where possible, preventing issues before they occur.
+ENERGY MANAGEMENT SYSTEM
+EMS communicates with BMS and inverter separately and collects updated data from both. It also issues instructions according to demand and logical operation to manage BMS and inverter.
+-
+Multifunctional and Powerful
+Local absorption, reducing wind and PV power abandonment
+Peak and frequency regulation
+PV and wind power self-consumption
+Load shifting
+Backup power supply, UPS/EPS
+Peak shaving
+Micro/Off-grid control
+Demand charge management
+-
+Highly Compatible
+Enabling external control through SCADA, MODBUS, ETHERNET Etc.,
+-
+Safety
+Safety control designs
+BATTERY MANAGEMENT SYSTEM
+BMS monitors and manages batteries and provides key protection measures for batteries and extend battery life.
+-
+Alpha BMS research institute
+20+ BMS R&D veteran researchers with 10+ year ESS BMS manufacture experience
+-
+High SOC accuracy
+Our SOC algorithm is 97% accurate
+-
+Comprehensive protection
+3-level software protection
+Redundant hardware level protection
+-
+Functional safety
+ASIL (Automotive Safety Integrity Level) hardware (Level D), software and system architecture
+IEC61508 testing, the highest level (D)
+Comprehensive and optimized protection including multiple monitoring items, POST, hardwired alarm system, multiple protection during operation
+-
+EMS
+-
+BMS
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/contact-us
+
+No. 1086 Bihua Road, Tongzhou District, Nantong City, Jiangsu Province, China
+2180 S Ivanhoe St. Unit 5
+Denver.CO 80222 USA
+Alfred-Herrhausen-Allee 3-5, 65760 Eschborn, Germany
+Via Del Molinuzzo 83, 59100 Prato (PO), Italy
+16 Science Park Drive,#05-01 DNV GL Technology Centre, Singapore 118227
+8/15-21 Gibbes Street, Chatswood,
+NSW 2067 Australia
+2F, 19-4, Nohyeong 11-gil, Jeju-si, Jeju-do, Republic of Korea
+Room 113 F1, High Tech Campus 41, 5656 AE Eindhoven, Netherlands
+WHAT CAN WE DO FOR YOU
+Buy Your Energy Storage System
+Join Us as a Partner
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaess.com/news
+
+-
+AlphaESS Achieves Global Recognition Through ISO IEC 27001 2022 Information Security Certification
+2026-02-04
+MORE
+-
+AlphaESS Showcases Next-Gen Liquid-Cooled Energy Storage Solutions at Solar Energy Expo in Poland
+2026-01-26
+MORE
+-
+AlphaESS Inaugurates Nigerian Subsidiary, Commits to Long-Term Energy Transition Partnership
+2025-12-18
+MORE
+-
+AlphaESS Secures Milestone Agreement for Czech Republic's Largest Stand-alone Energy Storage Project
+2025-12-09
+MORE
+-
+AlphaESS Strengthens East Africa Presence with Kenya Subsidiary Grand Opening and Participation in Powerelec Kenya 2025
+2025-11-19
+MORE
+-
+AlphaESS Recognized as Tier 1 Energy Storage Manufacturer by BloombergNEF 2025
+2025-11-06
+MORE
+-
+AlphaESS and One Stop Warehouse Sign Global Strategic Cooperation Agreement
+2025-06-06
+MORE
+-
+AlphaESS Launches STORION-M50 at Solar & Storage Live Philippines 2025, Accelerating Expansion Across the Asia-Pacific Market
+2025-05-21
+MORE
+-
+AlphaESS Showcases Cutting-Edge Large-Scale Energy Storage at Solarplaza Summit Baltics 2025
+2025-03-20
+MORE
+-
+AlphaESS Wins 2024 ESG Transparency Award for the Second Year in a Row
+2024-12-13
+MORE
+-
+AlphaESS Energises All Energy Expo 2024 with Flexible Energy Solutions
+2024-10-24
+MORE
+-
+AlphaESS Unveils All-in-One Energy Storage Solutions for Residential and Commercial Applications at ees Europe & Intersolar in Munich 2024
+2024-06-26
+MORE
+-
+AlphaESS Drives Smart Energy Transition, Unfolding the Future of Energy Storage at SNEC Expo Shanghai
+2024-06-18
+MORE
+-
+AlphaESS Showcased Its Next-Gen Energy Storage Solutions at ESIE 2024 in Beijing
+2024-04-24
+MORE
+-
+AlphaESS Malaysia Factory Successfully Completes First Shipment!
+2024-04-03
+MORE
+-
+AlphaESS Envisions Energy Transformation at ASEAN Sustainable Energy Week 2023
+2023-09-01
+MORE
+-
+AlphaESS Spearheads Green Energy Transition with Cutting-Edge Solutions Unveiled at Intersolar & EES Europe 2023
+2023-06-16
+MORE
+-
+AlphaESS Ranks No. 1 in Australia's Energy Storage Installations with 23% Market Share in 2022
+2023-06-05
+MORE
+-
+AlphaESS Empowers Future Growth at SNEC 2023: Strengthening Global Strategic Collaborations, Distribution Network and Product Service Support
+2023-05-26
+MORE
+-
+AlphaESS and OSW Announced Global Partnership for Expanded Product Sales Worldwide
+2023-05-24
+MORE
+-
+AlphaESS Makes a Splash at the Future Energy Show Philippines with SMILE-G3 Energy Storage System
+2023-05-16
+MORE
+-
+AlphaESS Continues its Success at the Smart Energy Conference & Exhibition 2023 in Sydney
+2023-05-05
+MORE
+-
+AlphaESS Showcases Comprehensive Energy Storage Solutions at the Solar Show Africa 2023
+2023-04-27
+MORE
+-
+AlphaESS Unveils Safe and Reliable Energy Storage Solutions at K.EY Exhibition in Italy
+2023-03-24
+MORE
+-
+AlphaESS Reveals Its New Modular Portable Power Stations Equipped with LiFePO4 Batteries at CES 2023
+2023-01-17
+MORE
+-
+AlphaESS Achieves Global Recognition Through ISO IEC 27001 2022 Information Security Certification
+2026-02-04
+-
+AlphaESS Showcases Next-Gen Liquid-Cooled Energy Storage Solutions at Solar Energy Expo in Poland
+2026-01-26
+-
+AlphaESS Inaugurates Nigerian Subsidiary, Commits to Long-Term Energy Transition Partnership
+2025-12-18
+-
+AlphaESS Secures Milestone Agreement for Czech Republic's Largest Stand-alone Energy Storage Project
+2025-12-09
+-
+AlphaESS Leads Change in Sierra Leone Through Sustainable Energy Transformation
+2025-11-28
+-
+AlphaESS Strengthens East Africa Presence with Kenya Subsidiary Grand Opening and Participation in Powerelec Kenya 2025
+2025-11-19
+
+--------------------------------------------------------------------------------

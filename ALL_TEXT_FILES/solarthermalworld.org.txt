@@ -1,0 +1,537 @@
+ROOT: https://solarthermalworld.org/
+SCRAPED_AT_UTC: 2026-02-11T20:34:14.667680Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://solarthermalworld.org/
+
+Switzerland isn’t exactly known for cost-effective production conditions. That makes it all the more remarkable that a receiver manufacturer based in Renens, near Lausanne in western Switzerland, claims to produce as cost-effectively as its competitors from Asia. We’re talking about Sunaxer, a startup founded by Anna Krammer and Maxime Lagier …
+In recent years, research into compact thermal energy storage has focused primarily on the development of storage materials. This focus is now set to broaden. The IEA SHC Programme has launched a new research group dedicated to Components for Thermal Energy Storage. “We would like to bridge the gap between …
+The combination of PV module and thermal absorber – known as PVT – is available in many different designs. „There is no universally optimal PVT collector; the best solution is always application-specific,” said Iván Acosta, Project Coordinator of PVT4EU and Head of Engineering at MG Sustainable Engineering, Sweden. This is …
+The newly started IEA Solar Heating and Cooling Programme Task 75 on Thermal Energy Storage Material aims at taking the successes of previous task work and making them accessible for other research groups. In charge of this communication effort is Professor Frédéric Kuznik from the National Institute for Applied Science …
+A solar collector can do more than just generate heat. As a hybrid collector, it can simultaneously produce fuel and electricity as well. Scientists from IEA SHC Task 72 are working on the development of such versatile solar elements for solar photoreactors for the production of fuels and chemicals. The …
+Demand for industrial heat pumps is growing. Customers want heat pumps with large capacities and, if possible, with natural refrigerants. This calls for advanced heat exchangers for condensers and evaporators. The German agency solrico conducted a survey among heat exchanger manufacturers to find out what requirements are placed on heat …
+PV hot water systems are growing fast in several regions. Growth is strongest in countries with high PV market penetration or less mature electricity systems. Falling PV hardware prices and smarter control technologies are driving this trend. In a recent IEA SHC Solar Academy webinar, UK-based consultant Tony Day explained …
+The European PVT collector industry is undergoing a significant transformation, with manufacturers focusing on increasing production efficiency, improving quality assurance, and reducing dependence on imported components, particularly from China. These developments are the findings of a workshop on production and supply chain strategies for PVT collectors, organized by the PVT …
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/about-us/
+
+Solar heat is a key element for sustainable heating and cooling and plays an essential role in developing a carbon-neutral building stock, thus providing a fundamental contribution to the achievement of climate targets. Solar thermal technology has great potential to support a carbon-neutral economy as well as contribute to energy efficiency, flexibility through thermal energy storage, reliability and security of energy supply.
+Solarthermalworld.org offers news and background information about policies, regulations, business models, technology & market trends, challenges and opportunities of the solar heating and cooling market globally. With over 3,500 articles and more than 20,000 regular users, it is the largest knowledge-based web portal for the solar heating and cooling sector worldwide.
+Do you want to receive weekly/monthly news about solar heating and cooling, subscribe to our free Solarthermalworld.org newsletter.
+Who is behind the site?
+Solarthermalworld.org was initiated by the International Copper Association Europe (ICA Europe), Brussels, Belgium, in 2008 with the aim of providing stakeholders from research, public and private sector all around the globe with first-class information about solar heating and cooling to stimulate market growth. The ICA Europe has supported the hosting of the website as well as the content gathering continuously between 2008 and 2020. ICA Europe was instrumental in making the site the global SHC showcase it is today, and will remain a supporting partner even beyond 2020.
+The German agency solrico has been responsible for the news section of the website since 2008 and has sent out newsletters regularly. On 1 January 2021, solrico assumed complete ownership of solarthermalworld.org and remains the editor-in-chief for the news section and the newsletters. solrico cooperates with solar thermal experts from various countries (e.g. India, Brazil, China, Portugal, Italy, Spain, Russia, and Kenia) and backgrounds to deliver well developed insights into this dynamically growing global sector.
+Translate news articles
+Feel free to translate the news articles from solarthermalworld.org into other languages and distribute them among colleagues, followers, members or business partners. Please mention the website as the source of your translated news.
+Strategic partnerships
+Solarthermalworld.org aims to enter partnerships with other national and international organisations or projects to spread the content to new stakeholder groups. Between 2008 and 2015 solarthermalworld.org cooperated with United Nations Environment Programme (UNEP) as part of the Solar Water Market Transformation and Strengthening Initiative.
+At the beginning of 2015 solarthermalworld.org formed a partnership with the IEA Solar Heating and Cooling Programme to explain the latest in research and innovation.
+Since September 2017 solarthermalworld.org has cooperated with the project Solar Payback that aims to promote industrial solar heat in South Africa, Brazil, Mexico and India.
+Since January 2021 the European Copper Institute supports solarthermalworld.org as a strategic partner to cover news about European solar heating and cooling policies, market opportunities, green buildings and commercial solar heat applications.
+Strategic distributors
+Solarthermalworld.org also team works with associations and international organisations that spread the solar heating and cooling news among their networks, particularly Solar Heat Europe/ESTIF and REN21. The latter uses the content from this portal in its annual Renewables Global Status Report.
+How to navigate the side?
+Use the advanced search tool on top of each page which combines the keyword search box and the tag-based filter.
+You can choose between different market drivers: Awareness Raising / Certification / Finance and Incentives / Policy / Standards / Training and Education. Each news is also tagged according the application that you can choose from a drop-down menu: Air Heating / District Heating / Domestic Hot Water and Heating etc.
+If you have further questions or comments, please feel free to contact us.
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/european-copper-institute/
+
+Based in Brussels, the International Copper Association (ICA) Europe is the leading advocate for the copper industry in Europe. As ICA’s European branch, the organisation represents companies that mine, smelt and recycle copper for use across the economy, in the electricity system, buildings, transport and industry. Through a team of policy, industry and scientific experts, ICA Europe promotes copper as an essential material for achieving the EU’s ambition of a resilient, climate-neutral Europe and seeks to ensure that EU policies enable the sustainable production of copper to serve Europe’s future needs.
+Solarthermalworld.org was initiated by ICA Europe in 2008 with the aim of providing stakeholders from research, public and private sector all around the globe with first-class information about solar heating and cooling to stimulate market growth. The ICA Europe has supported the hosting of the website until 2021 as well as the content gathering continuously since 2008.
+Demand for industrial heat pumps is growing. Customers want heat pumps with large capacities and, if possible, with natural refrigerants. This calls for advanced heat exchangers for condensers and evaporators. The German agency solrico conducted a survey among heat exchanger manufacturers to find out what requirements are placed on heat …
+Solar Heat Europe has seen several exciting developments recently. The Brussels-based solar thermal association has elected a new Board, updated its statutes, and launched a completely revamped website. With a broader team and an enhanced communication strategy, Solar Heat Europe is now better positioned to accelerate the adoption of solar …
+The realization of two huge solar district heating projects in the Balkans is progressing. The pre-qualification tender for a 44 MW collector field with seasonal storage in Pristina, Kosovo, ended on 11 April 2025. The second site is Novi Sad – a town in Serbia, where a 27 MW collector …
+The integration of solar thermal energy into its district heating network has not only provided the small Latvian town of Salaspils near Riga with a more sustainable and emission-free heat supply, but also cheaper heating bills for the citizens connected to it. This was revealed in a presentation given by …
+The German heating technology manufacturer Viessmann Climate Solutions has been part of Carrier Global, the largest US manufacturer of air conditioning systems, since March 2023. This merger is now also beginning to bear fruit in Germany. The German town of Bracht is not only benefiting from a turnkey solar heat …
+Two innovative heat pump projects in the megawatt range connected to district heating grids went into operation in Germany last year. The installations from Johnson Controls International (JCI), Denmark, and Friotherm, Switzerland, are both designed to provide hot water of up to 90 °C for their respective district heating networks …
+The market for high-temperature heat pumps for industrial applications is developing very dynamically. The number of manufacturers has doubled in the last six years. This is confirmed by Dr Cordin Arpagaus, who has been closely following the industry since 2018. As a Senior Research Engineer at the IES Institute for …
+Fewer and fewer solar collectors are being bought in Germany: the negative trend from the previous year continued in the first quarter of 2024. Sales of solar collectors fell from just under 500 MW of capacity in 2022 to 263 MW in 2023 (see chart below). In previous years, the …
+Roger Hackstock is celebrating his 20th anniversary as a solar thermal lobbyist this year. From 2002 to 2013 and again since 2016, he has headed the Austrian association Austria Solar. He is still bursting with positive energy when he talks about the challenges facing the future of his industry. He …
+After France, the Netherlands has the largest specific PVT area installed per 1,000 inhabitants in Europe. At the end of 2022, a total of 111,342 m2 of PVT collectors were in operation. Between 30,000 and 40,000 m2 are added every year. A well-established Dutch industry offers PVT elements. We spoke …
+Construction will start on three enormous solar industrial heat plants in Chile in the next months. The Chilean power utility Gasco is investing USD 71 million in three flat plate collector fields with a total capacity of 154 MW and will deliver heat for the electrowinning baths to the two …
+European PVT manufacturers are anticipating strong growth in demand and expanding their factories. In November 2023 Abora Solar from Spain inaugurated its extended factory in Zaragoza, which has a capacity of 200,000 units per year, totalling 80 MWel. Sunmaxx PVT is building a PVT production plant in Saxony, eastern Germany, …
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/news/44-mw-in-kosovo-27-mw-in-serbia-solar-district-heating-projects-gain-momentum/
+
+44 MW in Kosovo, 27 MW in Serbia: solar district heating projects gain momentum
+April 30, 2025The realization of two huge solar district heating projects in the Balkans is progressing. The pre-qualification tender for a 44 MW collector field with seasonal storage in Pristina, Kosovo, ended on 11 April 2025. The second site is Novi Sad – a town in Serbia, where a 27 MW collector field is planned together with a seasonal storage. Here the Government of Serbia and the European Bank for Reconstruction and Development (EBRD) signed a loan agreement for an amount of up to EUR 105 million in December 2024. The tendering process for the implementation consultant for the Big Solar Novi Sad project is under development. Photo: TVP Solar
+“We are currently qualifying consortia that will be invited to submit a bid for the installation of the entire solar thermal system including collector field, seasonal storage tank, technical centre and heat pumps”, reported Felix Eckert. He is the Project Manager at the Austrian company CES – Clean Energy Solutions – the implementation consultant for the Big Solar Pristina project. “We deliberately want to source everything from a single source for our customer, the local energy supplier Termokos in Pristina, so that the interfaces between the various subsections of the solar district heating plant work as smoothly as possible during construction.”
+CES teamed up with the Austrian iC group in a consortium and included subcontracts with PlanEnergi from Denmark, SOLID Solar Energy Systems from Austria and Gjeokonsult from Albania to submit a bid to become the implementation consultant for the Pristina plant in August 2022. The tendering process was two-stage and lasted a year and a half. The consortium iC-CES signed the contract as the implementation partner for Termokos in January 2024.
+“As implementation consultant we are responsible to support the client throughout the implementation of the project, from tendering to construction supervision, commissioning and handover”, said Eckert. The division of competences within the consortium is clear: iC-CES is coordinating the project and responsible for all overarching aspects. PlanEnergi is primarily responsible for the seasonal storage system, SOLID provides expertise for collector arrays and Gjeokonsult is in charge of the local construction supervision, as the team is based not so far from the construction site.
+Tender with flexible technology requirements encourages innovation
+iC-CES created a technology-open call for proposals to leave room for optimized and innovative solutions. A reference design with a flat-plate collector field and pit heat storage was provided together with the tender documents. However, suppliers could also offer other technologies if they fulfilled the required performance data such as temperature level and amount of supplied heat. Less than a hand full of consortia submitted applications within the pre-qualification phase by 11 April 2025.
+iC-CES is planning a second tender procedure, which will then comprise the following measures: Expansion of the local heating network and the installation of heating substations for 38,000 inhabitants of Pristina as well as the construction of kilometres of connecting pipelines between the existing heat transmission pipe, the solar heating plant and the district heating network.
+Scheme for the solar district heating plant in Pristina, Kosovo, which will be connected via a 4.2 km pipeline (rosa line) with the city of Pristina. A branch line of 1.6 km (blue line) will connect the seasonal storage with the CHP transmission pipe. Graphic: CES
+Big Solar Pristina project moves toward tender phase
+CES has been working in Kosovo as a consultant for heating technology since 2012. They have been supporting Termokos with its modernisation, decarbonisation and expansion, mainly financed by the German Financial Cooperation. During the modernization projects the idea of solar thermal district heating came up and was developed by CES step by step in different studies.
+According to the current timetable, the tendering process for the solar part should start as early as June 2025 if the pre-qualification phase runs smoothly. Ideally, construction could then start in mid-2026. However, Eckert points out that there are many external influences, for example due to the very complex authorization procedure that can lead to future delays in such major projects.
+| Site | Pristina, Kosovo | Novi Sad, Serbia |
+| Planned size of collector field | 44.1 MW (63,000 m2) | 27 MW (38,600 m2) |
+| Planned size of seasonal storage | 380,000 m3 | 850,000 m3 |
+| Planned capacity of heat pumps | Absorption heat pump(s) totalling 20 MW | Heat pump with 17 MW, e-boiler with 60 MW |
+| Available land | North-west of Pristina, outside the city with a approx. 4 km pipeline to the city’s district heating grid | City’s sanitary water supply protection area |
+| Investor | Termokos | Novosadska Toplana Novi Sad |
+| Author of the pre-feasibility study | CES – Clean Energy Solutions, Austria | Pre-feasibility study developed by SOLID Solar Energy Systems, Austria.
+Full feasibility study developed by Aalborg CSP, Denmark |
+| Implementation consultant | Consortium with iC group + CES clean energy solutions, both from Austria | Tendering procedure for implementation consultant in preparation |
+| Total CAPEX for solar district heating plant | EUR 80 million | EUR 105 million |
+| Provision of CAPEX | EUR 31.6 million grant from the German government via KfW Development Bank, EUR 21.5 million grant from EU via Western Balkans Investment Framework (WBIF) EUR 23.5 million from EBRD (all three signed) and national contributions |
+EUR 21 million grant by European Union within the Western Balkans Investment Framework (WBIF) expected to be signed in second Quarter 2025,
+EUR 84 million loan by EBRD signed in December 2024 |
+| Financing for implementation and supervision | Included in the CAPEX | EUR 3.1 million provided by EU grant |
+| Status of planning progress | Pre-qualification tender for solar district heating plant closed on 11 April 2025 | Pre-feasibility study completed since August 2024,
+Tendering for implementation partner under preparation |
+Key data for the two big solar district heating plants in Kosovo and Serbia Source: EBRD / CES
+Websites of organizations mentioned in this news article:
+iC consulenten: https://ic-group.org/
+CES clean energy solutions: https://ic-ces.at/
+Termokos: https://termokos.org/v2/
+Novosadska Toplana Novi Sad: https://nstoplana.rs/
+European Bank for Reconstruction and Development (EBRD): https://www.ebrd.com/
+Western Balkans Investment Framework (WBIF): https://wbif.eu/
+KFW Banking Group: https://www.kfw-entwicklungsbank.de/International-financing/KfW-Entwicklungsbank/
+PlanEnergi: https://planenergi.eu/
+SOLID Solar Energy Systems: https://www.solid.at/
+Gjeokonsult: https://gjeokonsult.com/en/
+Big Solar Pristina Project: https://solar4kosovo2.org/en/
+Aalborg CSP A/S: https://www.aalborgcsp.com/
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/iea-shc/
+
+International Energy Agency’sSolarHeatingandCoolingProgramme
+The IEA Solar Heating and Cooling (SHC) Programme has over 35 years of international collaborative work in the field of research, development, demonstration (RD&D) and test methods for solar thermal energy and solar buildings. The results of this work are available for researchers, policy makers, industry, utility and business representatives, builders, architects and teachers
+The IEA SHC Programme is a member-based Programme with 20 member countries and 5 member organizations. Its mission is “To enhance collective knowledge and application of solar heating and cooling through international collaboration to fulfill its vision of solar thermal energy meeting 50% of low temperature heating and cooling demand by 2050.”
+Highlighted in the section below are some of our most recent publications:
+In recent years, research into compact thermal energy storage has focused primarily on the development of storage materials. This focus is now set to broaden. The IEA SHC Programme has launched a new research group dedicated to Components for Thermal Energy Storage. “We would like to bridge the gap between …
+The newly started IEA Solar Heating and Cooling Programme Task 75 on Thermal Energy Storage Material aims at taking the successes of previous task work and making them accessible for other research groups. In charge of this communication effort is Professor Frédéric Kuznik from the National Institute for Applied Science …
+A solar collector can do more than just generate heat. As a hybrid collector, it can simultaneously produce fuel and electricity as well. Scientists from IEA SHC Task 72 are working on the development of such versatile solar elements for solar photoreactors for the production of fuels and chemicals. The …
+PV hot water systems are growing fast in several regions. Growth is strongest in countries with high PV market penetration or less mature electricity systems. Falling PV hardware prices and smarter control technologies are driving this trend. In a recent IEA SHC Solar Academy webinar, UK-based consultant Tony Day explained …
+The European PVT collector industry is undergoing a significant transformation, with manufacturers focusing on increasing production efficiency, improving quality assurance, and reducing dependence on imported components, particularly from China. These developments are the findings of a workshop on production and supply chain strategies for PVT collectors, organized by the PVT …
+Technical and social issues were on the agenda at the SOLTRAIN+/IEA SHC Task 69 Joint Symposium held in Windhoek, Namibia, at the end of September. The first day focused on standards and certification training, while the second day centred on gender equality and women’s empowerment. The event was jointly organised …
+How can research and innovation tackle the urgent challenges of industrial heat decarbonization? This was the central question explored during the Research on Solar Heat for Industrial Processes in the Nordics workshop, held in early September. The one-day event was organized by the Swedish company MG Sustainable Engineering in collaboration …
+The Netherlands, though small in size, is one of Europe’s most densely populated countries and a long-standing member of the IEA Solar Heating and Cooling Programme. Renowned for its innovation and strong environmental consciousness, the country has become a leader in the adoption of solar thermal energy. This progress was …
+IEA SHC Task 68 on efficient solar district heating systems is coming to an end. Over the past three years, the task has made strong progress. It helped introduce the technology to project developers and utilities. This work resulted in a series of comprehensive reports. Luuk Beurskens from TNO, the …
+The Solar Process Heat Training Week in mid-August 2025 near Pretoria, South Africa, offered a well-balanced mix of theory and practice. The four-day training was organized and hosted by SANEDI, the South African National Energy Development Institute, in cooperation with the IEA SHC Solar Academy. A total of 37 participants …
+The PVT international research community is receiving support from Northern Europe. MG Sustainable Engineering from Sweden officially launched the PVT Nexus Research Network at the end of August. To kick things off, a one-day online conference was held on 27 August, at which a number of experts from IEA SHC …
+Türkiye is a leading solar heat nation in various areas. It was the third largest market in terms of new solar collector capacity in 2024 after China and Brazil. Systems with a record 19.4 GW were in operation at the end of 2023. With its high solar radiation level, even …
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/ship-supplier-world-map/
+
+SHIP Supplier World Map Surveys
+The German agency solrico has developed a global map of SHIP suppliers, available in English, Spanish, and Portuguese (https://www.solar-payback.com/suppliers/). SHIP stands for Solar Heat for Industrial Processes. Each company on the world map is presented with its portfolio and the number of SHIP projects implemented. The world map has been updated annually since 2017. Each year, questionnaires are sent to the approximately 70 turnkey SHIP suppliers of the world map. The results of these annual surveys are published in this news section.
+Please see below the articles created as part of this partnership:
+The evolving SHIP supply industry: Key players and new entrants
+The updated SHIP Supplier World Map lists 66 companies. Among them 15 had installed SHIP plants totalling more than 10,000 m2 by the end of 2024. They are headquartered in the USA, Mexico, Europe and China (see World Map above). One further company has fulfilled the requirement to be listed …
+Global expansion of solar industrial heat: Key insights from the latest Outlook
+Solar process heat is spreading worldwide. Projects are currently under construction or in planning on all five continents. Project developers have reported 73 plants totalling 277 MW that are to be realized by 2027 – the majority of them in Europe. The Solar Industrial Heat Outlook 2025-2027 presents the results …
+Key factors behind SHIP project developers’ business satisfaction
+Development of solar process heat projects is a challenging business around the world. Slow decision-making by the clients, low fossil fuel energy prices and a lack of faith in the relatively new technology once again made it hard to close deals last year. This became apparent when around 70 SHIP …
+Global SHIP market reaches five-year high despite national fluctuations
+The global solar industrial heat (SHIP) market maintained its dynamic development in 2024. The project developers reported 106 new systems with a total capacity of 120 MW for the year. A further 125 MW were under construction by the end of 2024. This is an enormous capacity increase compared to …
+Ranking of the world’s most experienced SHIP suppliers
+The updated SHIP Supplier World Map lists 68 companies. Those among them with the highest number of SHIP systems commissioned by the end of 2023 are listed in the ranking above. The world’s most experienced SHIP suppliers come from Mexico, the Netherlands and China: Modulo Solar, Solareast Group, G2 Energy, …
+Successes and challenges on the SHIP world market 2023
+Success and frustration went hand-in-hand on the global solar industrial heat market 2023. Some companies were extremely successful in implementing many small SHIP (Solar Heat for Industrial Processes) projects or a few large ones and met their targets. In general, technology providers around the world are experiencing high demand but …
+The Netherlands and Spain drive SHIP market 2023
+The world market for solar process heat (SHIP) continues to pick up speed. In 2023, the newly installed capacity tripled compared to the two previous years. The project developers reported 116 systems with a capacity of 94 MW. A year earlier there were also 116 systems but with only 31 …
+Green Heat subsidy scheme in Flanders supports concentrating solar heat plants
+Flanders, the northern region of Belgium, will see a series of concentrating solar process heat systems go into operation in the next year. The starting point is the 2.5 MW parabolic trough collector field at Avery Dennison, a leading global packaging and materials manufacturer in Turnhout, inaugurated at the beginning …
+Supply chain constraints in concentrating solar thermal
+The demand for heat above 100 °C in industry is huge. More and more project developers offer solutions with concentrating collectors that can provide heat between 100 and 400 °C. On the regularly updated World Map of SHIP Turnkey Suppliers, the number of concentrating collector providers has now grown to …
+Cost reduction potential through prefabricated and standardized balance of plants
+Standardized, modular interfaces for the integration of solar heat into factories can reduce solar heat system costs significantly. The photo shows such a prefabricated so-called balance of plant (BoP) before being shipped to Turnhout in Belgium to connect a 2.5 MW parabolic trough collector field with a chemical factory. The …
+High innovation potential of suppliers for concentrating heat solutions
+The number of providers with higher temperature solar process heat solutions continues to grow. More manufacturers of concentrating collectors are now listed on the SHIP Supplier World Map than manufacturers of stationary collectors (see pie chart above). The dominant technology is parabolic trough collectors, provided by 17 companies. A total …
+Mood on the SHIP market: High interest but slow decision making
+Last year, gas shortages in Europe dominated the headlines for months. Energy prices peaked and heat-intensive producers had to increase the prices of their products. Against this background we asked solar industrial heat project developers for their assessment of the progress in the business. Of the around 70 companies listed …
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/prosolnetz/
+
+The German research project ProSolNetz demonstrates the key role of concentrating solar thermal collectors for process and district heating in Germany. The 3-year project (May 2024 to April 2027) provides planners, municipal utilities, heating network operators and industrial companies with a comprehensive service package, so that they can take into account and realise concentrating solar thermal systems in their heat planning (Photo: Siemens Energy, 2024).
+Together with several commercial partners, researchers from the German Aerospace Center (DLR), Fraunhofer ISE and Solites will work on improving design tools such as ScenoCalc and Greenius. The ProSolNetz consortium also wants to measure commercial parabolic trough systems in order to validate yields.
+Within the partnership with solarthermalworld.org, articles are published and the annual surveys among SHIP turnkey suppliers are supported.
+The solar process heat plant at Heineken in the Spanish town of Seville stands as a flagship project in several key respects. Remarkably, it was completed in just 13 months, from groundbreaking to commissioning. With a capacity of 30 MW, it is the largest solar process heat plant in Europe ...
+This quote comes from someone who knows all about the development of parabolic trough technology: Markus Balz. He spent over 20 years of his career at Schlaich Bergermann Partner (sbp), the international structural engineering and consulting firm, leading the development of technologies for solar power generation. In December 2022, he ...
+The updated SHIP Supplier World Map lists 66 companies. Among them 15 had installed SHIP plants totalling more than 10,000 m2 by the end of 2024. They are headquartered in the USA, Mexico, Europe and China (see World Map above). One further company has fulfilled the requirement to be listed ...
+Solar process heat is spreading worldwide. Projects are currently under construction or in planning on all five continents. Project developers have reported 73 plants totalling 277 MW that are to be realized by 2027 – the majority of them in Europe. The Solar Industrial Heat Outlook 2025-2027 presents the results ...
+Development of solar process heat projects is a challenging business around the world. Slow decision-making by the clients, low fossil fuel energy prices and a lack of faith in the relatively new technology once again made it hard to close deals last year. This became apparent when around 70 SHIP ...
+The global solar industrial heat (SHIP) market maintained its dynamic development in 2024. The project developers reported 106 new systems with a total capacity of 120 MW for the year. A further 125 MW were under construction by the end of 2024. This is an enormous capacity increase compared to ...
+Between 2021 and 2024 the Austrian Climate and Energy Fund was active in supporting feasibility studies for large solar plants. The fund subsidized 15 studies regarding industrial solar heat plants with a total collector area of 306,000 m2. Among these studies were seven that included parabolic trough collectors to provide ...
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/news/we-absolutely-recommend-this-investment-to-other-manufacturers/
+
+“We absolutely recommend this investment to other manufacturers”
+October 15, 2025The solar process heat plant at Heineken in the Spanish town of Seville stands as a flagship project in several key respects. Remarkably, it was completed in just 13 months, from groundbreaking to commissioning. With a capacity of 30 MW, it is the largest solar process heat plant in Europe. Most notably, the customer – Heineken Brewery – has expressed satisfaction with its performance and operational efficiency. The photo shows the view of the solar process heat plant with the storage tanks and balance of plant on the left and one of two parabolic trough fields on the right. The solar plant is owned and operated by energy provider Engie España, under a 20-year heat supply agreement with Heineken.
+Photo: Solarlite CSP Technology GmbH
+“We absolutely recommend this investment to other manufacturers. It’s a scalable and forward-looking solution and a symbol for Heineken’s commitment to sustainability and innovation”, said Consuelo Carmona, Technical Manager of Sustainability Heineken España. She confirmed that the “progress in fine-tuning the system so far is encouraging, and we are confident in the long-term value of this solution.” Heineken also sees the use of water as a heat transfer fluid, instead of synthetic oil, as a great environmental advantage.
+Other special features of the solar process heat plant:
+- The parabolic troughs are identical in size and structure to those of large concentrating solar power plants for electricity production (12 m x 5.77 m).
+- The storage volume consists of eight stratified, pressurised steel tanks with a total volume of 800m3.
+- Some of the major collector components – receivers and mirrors – were shipped from China, but the entire solar field installation work was led by Azteq/Solarlite Spain and carried out by an Andalusian construction company
+Schema of the solar process heat plant at Heineken in Sevilla, Spain Source: ProSolNetz
+Plant specifications at a glance
+The diagram below illustrates how the solar thermal system is seamlessly integrated into the factory’s infrastructure. A heat exchanger separates the solar collector field from the customer’s pressurized water system, ensuring that the solar input does not interfere with the existing heat supply network of the client. Additionally, a bypass in the solar circuit allows the heat transfer medium to circulate through the collector field until it reaches 210°C. Thanks to the HEX design, the solar field and the storage can supply the inlet to the heat exchanger within a flexible range of 170 to 210 °C, which is sufficient to ensure that the client’s required supply temperatures are consistently met.
+The solar process heat plant is designed to deliver an annual usable solar yield of 28.5 GWh, covering approximately 50 % of the factory’s total heat demand of 56 GWh per year. The brewery works five days a week. Based on the site’s annual Direct Normal Irradiance of 2,095 kWh/m²a, this results in an overall system efficiency during the 261 working days of 44 % – accounting for all system losses.
+With such a high solar fraction of 50 %, there may be excess heat during the sunny summer months. For this reason, the parabolic trough collectors at Heineken were arranged in an east–west direction. This orientation was chosen for two main reasons: firstly, it provides a marginally better annual heat supply at the client interface, as it balances heat production with the demand profile and reduces the risk of dumping solar energy during periods of low heat demand in the factory; and secondly, it allows for a more compact and optimised fit within the available land size and shape. Although the plant achieves its highest yields around solar noon and comparatively less during sunrise and sunset than a north–south facing field, the east–west configuration was ultimately the best match for the site-specific constraints and the brewery’s load profile.
+Websites of companies mentioned in this news article:
+Heineken: https://www.heinekenespana.es/age-gate/8717
+Engie España: https://www.engie.es/
+Azteq Energy: https://azteq.energy/
+Solarlite: https://www.solarlite.de/
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/news/
+
+Switzerland isn’t exactly known for cost-effective production conditions. That makes it all the more remarkable that a receiver manufacturer based in Renens, near Lausanne in western Switzerland, claims to produce […]Read More
+In recent years, research into compact thermal energy storage has focused primarily on the development of storage materials. This focus is now set to broaden. The IEA SHC Programme has […]Read More
+The combination of PV module and thermal absorber – known as PVT – is available in many different designs. „There is no universally optimal PVT collector; the best solution is […]Read More
+The newly started IEA Solar Heating and Cooling Programme Task 75 on Thermal Energy Storage Material aims at taking the successes of previous task work and making them accessible for […]Read More
+A solar collector can do more than just generate heat. As a hybrid collector, it can simultaneously produce fuel and electricity as well. Scientists from IEA SHC Task 72 are […]Read More
+Demand for industrial heat pumps is growing. Customers want heat pumps with large capacities and, if possible, with natural refrigerants. This calls for advanced heat exchangers for condensers and evaporators. […]Read More
+PV hot water systems are growing fast in several regions. Growth is strongest in countries with high PV market penetration or less mature electricity systems. Falling PV hardware prices and […]Read More
+The European PVT collector industry is undergoing a significant transformation, with manufacturers focusing on increasing production efficiency, improving quality assurance, and reducing dependence on imported components, particularly from China. These […]Read More
+Technical and social issues were on the agenda at the SOLTRAIN+/IEA SHC Task 69 Joint Symposium held in Windhoek, Namibia, at the end of September. The first day focused on […]Read More
+The EU-funded Treasure project aims to process the lessons learned from existing pit thermal energy storage installations in order to simplify the planning and implementation of follow-up initiatives. Per Alex […]Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/previous-newsletters/
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/keyword/webinar/
+
+PV hot water systems are growing fast in several regions. Growth is strongest in countries with high PV market penetration or less mature electricity systems. Falling PV hardware prices and […]Read More
+How can research and innovation tackle the urgent challenges of industrial heat decarbonization? This was the central question explored during the Research on Solar Heat for Industrial Processes in the […]Read More
+South Africa holds a unique position in the global energy sector for several reasons. It is the largest market for both solar thermal and solar PV in Africa, with a […]Read More
+In today’s fast-changing European policy landscape, effective advocacy is more crucial than ever – both at EU and at national level. The EU is pushing forward with ambitious climate goals […]Read More
+Mexico’s solar heat market is gaining impressive traction. In 2023, the market grew by 5%, ranking sixth globally, while mature markets like Germany shrank by 47 %. This upward trend […]Read More
+Over the past three years, a distinguished team of 60 researchers from 14 different countries has collaborated intensively on advancing the characterization and optimization of compact thermal energy storage (CTES) […]Read More
+The integration of solar thermal energy into its district heating network has not only provided the small Latvian town of Salaspils near Riga with a more sustainable and emission-free heat […]Read More
+Evaluating the performance of solar thermal plants is of great interest for operators and it provides a basis for optimizations. A tool for this task is SunPeek, which met with […]Read More
+Site work has started on what will be the largest concentrating solar heat project in the Australian food industry. An 18 MW parabolic trough field is to be built at […]Read More
+In Germany, one record-breaking plant is being built after another. Solar district heating is a large, rapidly growing business. This could be an inspiring model for the UK, said George […]Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/contact/
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/newsletter/
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/keyword/green-buildings/
+
+Digital tools play an increasingly important role in urban planning. Researchers from the IEA Solar Heating and Cooling Programme have cooperated on solar neighbourhood planning within Task 63 to describe […]Read More
+The revision of the Energy Performance of Buildings directive tightens the energy standards for buildings across the European Union. The member states are to establish national building renovation plans that […]Read More
+Solar Decathlon – the world’s largest construction competition for universities – will open for visitors in mid-June in Wuppertal, Germany. More than 1,200 students have worked over three years to […]Read More
+On 23 March 2022, the first industry workshop organised by IEA SHC Task 66 – Solar Energy Buildings showcased solar building ideas from different corners of the globe, including the […]Read More
+A new web application named HiBERtool helps practitioners find the perfect solution for the conservation of historic buildings. The tool explains more than 150 retrofit measures, which range from increasing […]Read More
+Historic building stock and solar energy are not mutually exclusive, as illustrated by La Marseillaise in Nantes, western France. A block of 39 student flats, this 1930s building has no […]Read More
+PVT collectors – which use solar radiation to produce both heat and electricity – have been gaining in popularity in a rising number of markets around the world. In 2019, […]Read More
+This summer, the first families will be able to move into Solardomizil III, Germany’s soon-to-be-largest showcase of residential solar thermal design. The multi-family property is being put up by FASA, […]Read More
+During an online meeting from 1 to 2 July, the IEA Solar Heating and Cooling programme will launch a new global research platform called Task 66 Solar Energy Buildings. The […]Read More
+In the last four years, the multidisciplinary IEA SHC Task 56 research group worked intensively on strategies to increase the market penetration of solar envelope systems. The group has found […]Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/keyword/eu-policy/
+
+From 2027 onward, private households in the European Union will also have to pay a CO2 tax on the fossil fuels they use. This is envisaged by the reform of […]Read More
+With the Fit for 55 Package in July 2021 the European Commission started the revision of the EU´s core climate and energy directives. The revisions of two of them – […]Read More
+Following an EU Commission proposal, the Council of the European Union adopted its Council Regulation (EU) 2022/2577 on 19 December 2022 as a “framework to accelerate the deployment of renewable […]Read More
+Solar heat is on a growth path in Europe. The newly installed capacity grew by 8 % in 2021 to 1.45 GW in the EU27 plus Switzerland and Great Britain […]Read More
+The REPowerEU plan from May 2022 includes a series of measures to overcome the EU’s dependence on Russian fossil fuels and accelerate the transition to renewable energies. In addition to […]Read More
+In a joint letter, 18 organisations from diverse sectors of the economy have called on EU Energy Ministers and the European Parliament to support an ambitious EU solar mandate. Among […]Read More
+At a meeting on 27 June, the EU Committee on Industry, Research and Energy (ITRE) discussed the role of solar heat in the Union’s Solar Energy Strategy, published in mid-May. […]Read More
+In recent years, the term Local Energy Communities has gained wider currency. And what it describes has given rise to the new phenomenon of the ‘prosumer’, who not only consumes […]Read More
+The Russian invasion of Ukraine triggered the publication of the REPowerEU plan, which the European Commission introduced on 18 May. Accelerated deployment of renewable energies and energy efficiency measures should […]Read More
+The European Commission plans to launch its EU Solar Energy Strategy in June 2022. According to the official announcement this strategy will “take the form of a Commission communication“, aiming […]Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/news/eu-solar-energy-strategy-should-balance-out-heat-and-power/
+
+EU Solar Energy Strategy should balance out heat and power
+May 10, 2022The European Commission plans to launch its EU Solar Energy Strategy in June 2022. According to the official announcement this strategy will “take the form of a Commission communication“, aiming to ensure that solar energy both for power generation and heat production “achieves its full potential in helping to meet the European Green Deal’s climate & energy targets“. The Renewable Energy Directive envisages doubling the share of renewable energies to 40 % by 2030 and achieving climate neutrality by 2050. Photo: Arcon Sunmark
+These ambitious goals are only realistic if environmentally friendly and cost-effective solar energy technologies are optimally used by the EU member states. So that each country does not have to find its own way to do this, the EU Commission is drafting the EU Solar Energy Strategy as a common guideline and a tool to enable countries to “reap the benefits of an integrated energy system by identifying barriers to the use of solar energy, proposing measures to accelerate its deployment and making EU solar energy systems more competitive and resilient”. This will be achieved through demand-side and supply-side measures as well as high sustainability standards which further “maximise the socio-economic benefits, potential and value of solar energy for wider society”.
+447 submissions during the public consultation
+To obtain orientation for the elaboration of the strategy, the EU Commission asked EU citizens and companies, industry associations and institutions to provide their expertise via the Commission’s online public consultation. A total of 447 stakeholders took the chance to have their say from mid January until 12 April 2022. Solar Heat Europe, the European solar thermal industry federation, encouraged its members to take part in the consultation since the EU Solar Energy Strategy is “a key document for the years to come, as it will determine future solar energy policies“.
+In his public consultation statement Solar Heat Europe Secretary General Pedro Dias appealed to the European Commission to ensure that “this strategy addresses in a balanced and fair way the three solar technologies: solar heating and cooling (solar thermal), solar photovoltaics (solar PV) and Concentrated Solar Power (CSP)”. According to him, solar thermal energy should play a prominent role in the EU-SES since its potential “has been underestimated, as has the entire renewable heat sector”. Heat represents half of the energy demand in Europe, pointed out Dias and added, “solar thermal is already in use in over 10 million households in Europe and is increasingly being integrated into industrial heat processes”.
+Unbalanced emphasis on solar electricity
+Solar heating is crucial for the energy transition, Dias argued, since it is “a competitive and reliable source of heat for European homes and companies, including the industrial sector”. Dias criticised the “unfair competition between solar PV and solar heat in the EU market”. For over a decade, politicians have focused more on promoting renewable power generation, for example PV, and this “unbalanced emphasis on the provision of solar electricity in relation to solar heat is observable in terms of policies, regulatory measures, financial support and public promotion”.
+Secure heat supply from solar thermal
+Similarly, Stefan Abrecht from Solar-Experience GmbH/Solar Heating Initiative urged that the solar strategy should consider PV and solar thermal energy as equal partners. He is convinced that the use of solar thermal energy could relieve the electricity grids and be “the basis for a secure heat supply, as solar thermal energy is more efficient for heating and cooling than other renewable energy technologies such as heat pumps or biomass”. Abrecht emphasised that solar thermal products, in contrast to photovoltaic systems, are “already predominantly manufactured in Europe and therefore offer additional advantages for the European market and greater independence from non-European countries”.
+Quadrupling the installation rate of solar water heaters
+Panagiotis Kenterlis of the Greek Solar Industry Association also complained that the potential of solar thermal energy has been underestimated. According to him, one third of Greek households already benefit from solar water heating today but the Greek solar thermal industry would be “ready to quadruple the installation rate of solar water heaters within two years. With a programme of immediate replacement of electric water heaters this goal could easily be achieved as 60% of water heating in Greece is still performed using electric heaters”. Kenterlis is convinced that the European Union “cannot afford to neglect the potential of a sector that has strong production capacities in Europe and needs support to increase demand”. Standardisation and certification, as well as cooperation agreements between the EU and non-EU countries should “play an important role in supporting European leadership in solar thermal”.
+Implement solar obligations at national level
+Robert Pinter from the European Copper Institute in Brussels proposes a solar roof programme. In his view, the European Commission should develop a framework programme in cooperation with EU member states, “to enable the large-scale and rapid deployment of solar energy: solar thermal and/or PV on European roofs. This framework programme should promote the adoption of solar obligations at national level, including the use of solar (thermal or PV) and green roof solutions in new buildings and major renovations, as well as the prioritisation of solar thermal for water heating. Such solar obligations should be complemented by supportive measures, e.g. to facilitate the process of approval, installation and decision-making within co-ownership associations”.
+Once launched, the EU Solar Energy Strategy will not be alone for long. During Solar Heat Europe’s 30-year anniversary celebration in June 2022 the association intends to publish its own Solar Thermal Roadmap. “ It claims to replace 500 TWh of fossil fuels in Europe by 2030. This is the full solar capacity projected by the IEA and IRENA for 2050.
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/keyword/market-opportunities/
+
+Solar thermal and heat pump technologies are currently benefiting from several incentive schemes in Spain. Until the end of 2023, these technologies are eligible for more than EUR 1 billion. […]Read More
+Multinational corporations have discovered solar steam as an important way to achieve their climate protection goals. Among the global players that have purchased a solar industrial heat plant this year […]Read More
+In Spain, the global spike in fossil fuel prices has made large solar systems as competitive as ever. Together with the financial support granted by the European Regional Development Fund […]Read More
+Two weeks before the start of Russia’s war against Ukraine, France’s President Emmanuel Macron gave a speech in which he detailed his strategy for developing the nation’s energy sector. He […]Read More
+The combination of the Conto Termico incentive scheme, supporting renewable heat installations, and the 110 % Superbonus for energy efficiency in buildings allowed Italy to hit a record year for […]Read More
+The first call for renewable heat projects for the industry and service sectors in Spain resulted in awarded grants of EUR 108 million. This budget will be used to support […]Read More
+There are opportunities for solar industrial heat in a large number of countries globally. Among the key markets are Germany, Chile, Spain and France, which were named most by turnkey […]Read More
+The use of solar district heating is rapidly gaining momentum in Germany. One reason is that the first projects which have received state support under the Innovative Combined Heat and […]Read More
+In July, French NewHeat was revealed to be among the 32 organisations whose applications were approved by the new EU Innovation Fund for small-scale projects. The EUR 4.5 million the […]Read More
+In 2020, the German market for solar heat grew by 26 % – more than any other major solar thermal market around the globe, according to the new Solar Heat […]Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/news/eu-fund-allocates-eur-108-million-for-ci-renewable-heat-projects/
+
+EU fund allocates EUR 108 million for C&I renewable heat projects
+February 18, 2022The first call for renewable heat projects for the industry and service sectors in Spain resulted in awarded grants of EUR 108 million. This budget will be used to support 51 solar heat projects totalling 62 MW. Within this funding line Thermal Energy Production beneficiaries receive non-repayable grants co-financed by the European Regional Development Fund (ERDF). Concentrated solar technologies will be used for about two thirds of the total approved solar capacity. Some targeted regions, however, did not receive sufficient applications and over a 20 % of the budget will be returned to the EU. For 2022 the Spanish administration plans a call for solar heat investment grants financed by the Next Generation EU fund, the economic recovery package to support member states adversely impacted by the COVID-19 pandemic. This article is followed by a news piece summarizing market participants’ opinions about the subsidy scheme.
+Source: Institute for Energy Diversification and Saving – IDAE
+The Spanish government already approved the subsidy scheme Thermal Energy Production in August 2020 with the aim of supporting renewable energy projects with low and medium-temperature heat in the industry and service sectors. The administrator of the subsidy scheme, the Spanish Institute for Energy Diversification and Saving – IDAE, assigned an individual budget to each region. The regions then launched the calls to submit projects in the second half of 2020. The approval phase then took almost a year, so that the last projects received their confirmation only in January 2022. Eligible technologies were solar thermal, PV with heat pumps, geothermal, biomass, biogas and biomethane, as well as cooling and heat networks. The pie chart above shows the distribution of the EUR 108 million in subsidies among the different technologies.
+Highest demand in Andalusia and Madrid
+After the 2020 call for renewable heat projects the regions with most solar projects awarded were Andalusia with 11 projects totalling 42 MW and Madrid with 14 projects totalling 9 MW. Following these were Valencia with 4 MW, Castille La Mancha 3 MW and Castille Leon 2 MW.
+In total, EUR 136 million were available for the 13 regions of Spain. EUR 108 million were finally awarded. The remaining 21 % (EUR 28 million) will be refunded to the EU budget. This shortfall was created by some regions only receiving a small number of projects. In Asturias, for example, a region that had an available budget of EUR 3 million, only one project with 384 kW was submitted with an awarded grant of EUR 138,297. And in Cantabria the only submitted project was rejected.
+According to the IDAE: “The remaining EUR 28 million belonged to the 2014-2020 period. Now we are working on the ERDF 2021-2027 package, so no new calls are expected to be launched using the remaining budget.”
+Nevertheless, the IDAE is satisfied with the results of the first round of regional calls as a considerable proportion of the budget was awarded. “Although the total budget has not been utilised, there has been significant promotion of the different technologies and applications in various sectors. The text call within the European Next Generation EU fund will offer again funding for such innovative solutions,” said Claudia Ortega from IDAE’s Communication Department.
+A big share of the pie for solar
+The main winner from this first call has undoubtedly been concentrated solar technologies. They will be used in 23 projects totalling 42.6 MW and receive EUR 19.1 million of subsidies (see following table). The largest share of this capacity comes from one awarded project with 30 MW. The project developer Engie Servicios Energéticos submitted this proposal, which will receive around EUR 13.4 million. According to undisclosed sources from the sector, Engie will install this plant for a well-known beer brewery in Seville.
+The remaining CST projects will focus on the chemical industry (3 projects) and miscellaneous agribusinesses such as farms, meat processing, dairy and cheese manufacturers, complemented by several projects for the service sector.
+Among the 51 solar heat projects which will receive funding, concentrating collector technologies for industry will receive the lion’s share because of a 30 MW plant submitted by Engie. Source: IDAE and own investigations
+The company Vitalia Activos SL is among the beneficiaries for stationary collector fields. It received approvals for grants for 11 of its retirement homes. Furthermore, L. Pernia received two grant approvals for its factories in Andalucía and Madrid with a total of 7 MW. The company manufactures using by-products of the brewing industry. The remaining grants for conventional solar thermal projects went to sport centres, public buildings or hotels.
+Additional information:
+IDAE: Results of the call for proposals for investment in thermal energy production facilities using renewable energy sources online.
+IDAE: Royal Decree 1124/2021
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/keyword/solar-heat-for-cities/
+
+The way is clear for the construction of one of the largest solar district heating plants in Europe. The financing package for the EUR 80 million project was signed on […]Read More
+Around 50 large solar district heating systems are in operation in Germany, among them a growing number of energy community initiated projects. The three-year SolnetPlus project aims to popularise solar […]Read More
+Solar thermal and heat pump technologies are currently benefiting from several incentive schemes in Spain. Until the end of 2023, these technologies are eligible for more than EUR 1 billion. […]Read More
+Even now, when everybody is talking about heat costs and gas security, solar thermal has a hard time in Germany competing against PV and heat pump combinations. To bring solar […]Read More
+For decades, the Danish solar district heating sector has been a shining example for the world. And with the help of combining heat pumps with solar thermal, the market could […]Read More
+The German Ministry of Economics is making EUR 3 billion available until 2026 for decarbonising the district heating sector. Municipalities, energy suppliers and energy communities can apply for funding from […]Read More
+Air quality problems and energy security issues in a lot of Western Balkan regions have raised interest in solar district heating. The European Bank for Reconstruction and Development (EBRD) has […]Read More
+For an emission-free energy supply for new and existing buildings on industrial wasteland in Reutte, Tyrol, Austria, the project developers are using PVT collectors. The Zero Emission Building Design concept […]Read More
+Construction is about to start on a 77 MW solar heat plant for the Water World leisure resort in Handan, a city in the northern Chinese province of Hebei. The […]Read More
+Waste heat and photovoltaics seem to be the preferred technologies for cities aiming to decarbonize their energy supply, rather than solar heat. This became clear during the webinar Cities Going […]Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/news/swiss-made-and-cost-competitive-sunaxers-new-approach-to-solar-receiver-coatings/
+
+Swiss-made and cost-competitive: Sunaxer’s new approach to solar receiver coatings
+January 28, 2026Switzerland isn’t exactly known for cost-effective production conditions. That makes it all the more remarkable that a receiver manufacturer based in Renens, near Lausanne in western Switzerland, claims to produce as cost-effectively as its competitors from Asia. We’re talking about Sunaxer, a startup founded by Anna Krammer and Maxime Lagier. Sunaxer offers an absorber tube with a triple-layered coating that remains stable in air at temperatures above 300 °C. The company has already secured its first commercial contracts and is now preparing to scale up production. The photo shows the Sunaxer team at a collector test field on the roof of the Swiss Federal Institute of Technology Lausanne (EPFL), Switzerland, which includes Sunaxer receivers. Photo: Sunaxer
+Sunaxer’s core expertise lies in its proprietary coating technology. “We use a sol–gel dip-coating process to form a CuCoMn oxide nanolayer. This is significantly cheaper than sputtered coatings, as it can be carried out under ambient conditions and avoids costly vacuum processes,” explains Krammer. CuCoMn stands for copper, cobalt and manganese and these transition metals in a spinel oxide structure show good high-temperature stability. The coating process, which is protected by patents in nine countries, is based on two key innovations:
+- the sol-gel coating method that requires only a minimal amount of non-hazardous chemicals (1.5 g of solution per meter of coated tube)
+- an energy-efficient induction heating.
+The absorber is a triple-layered coating, fabricated through three successive dipping and heating cycles. The metal oxides are formed by annealing the amorphous gel-like coating which finally results in a dense CuCoMn mixed-metal oxide coating with an absorptivity of around 96% and an emissivity of approximately 14–15%.
+Performance criterion for degradation of solar absorber coatings
+One of the key advantages of Sunaxer’s coating is its resistance to oxidation in air at elevated temperatures. In addition, the coating is sufficiently robust to be cleaned – such as to remove fingerprints incurred during manufacturing or packaging- without compromising its optical performance.
+To quantify long-term stability, the degradation of solar absorber coatings in air is evaluated using a performance criterion (PC). A PC value of 0.05 corresponds to a 5 % loss in efficiency. In the chart below, the y-axis indicates the time required to reach this critical PC of 0.05, while the red dashed horizontal line marks a service lifetime of 25 years, assuming six hours of operation per day.
+Sunaxer’s coating, shown by the red curve, reaches a PC of 0.05 only after 25 years of operation at 310 °C in air. This performance significantly exceeds that of comparable commercially available absorber coatings.
+Measurements of performance criterion PC=0.05 at various temperatures for different receiver coatings. The red line marked EPFL is the coating from Sunaxer. Source: CEA liten, France
+Sunaxer’s expansion in receiver production
+“In our Renens production facility, we are able to manufacture receivers up to 3 m in length and 42 mm in diameter,” stated Krammer. “Last year, we successfully completed our first commercial orders, delivering approximately 1,260 m of receivers to Helioclim in France and Absolicon in Sweden. Follow-up orders will bring our total deliveries to 2,000 m by April 2026.” The current production capacity in Renens stands at 9,000 m receiver length per year.
+“We can offer as roughly the same price as our Chinese competitors, but with significantly shorter lead times of around two months and fewer reliability issues,” said Krammer. She added that the metal tubes are heated using an induction coil, which currently imposes certain constrains on tube geometry. However, as demand grows, Sunaxer can invest in a larger induction system, enabling the production of tubes with greater diameters and lengths.
+Coated metal tube from Sunaxer. The Swiss startup company supplies coated tubes to manufacturers of parabolic trough and Linear Fresnel collectors, where they are assembled to complete receiver units. Photo: Sunaxer
+Sunaxer is now at a decisive stage in its development: the technology has been successfully validated, but further growth depends on scaling up production and achieving strong market traction. Founded in 2021, the company has secured CHF 1.8 million in non-dilutive funding and convertible loans to support its expansion.
+Websites of organizations mentioned in this news article:
+Sunaxer: https://www.sunaxer.com/
+Swiss Federal Institute of Technology Lausanne (EPFL): https://www.epfl.ch/en/
+CEA liten: https://liten.cea.fr/cea-tech/liten/english/Pages/Welcome.aspx
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/news/lessons-learned-from-15-ship-projects-in-operation/
+
+Lessons learned from 15 SHIP projects in operation
+January 2, 2025The World Business Council for Sustainable Development (WBCSD) has published an unusual but practice-orientated Navigator Brief about solar industrial heat. Why unusual? The Brief summarizes the experience gained from 15 operational solar heat projects, not focusing on technical details but on decisive parameters and success factors that really got the projects off the ground. The 20-page brochure also includes a list of key parameters that companies should consider when assessing the suitability of solar thermal solutions for their company operations. The banner shows the leaders of WBCSD, who jointly organized a webinar to introduce the Navigator Brief on 5 December 2024. You can find the recording of the webinar and download link for the Brief here.
+“Low and medium temperature industrial process heat can be decarbonized using existing renewable heat solutions but the pace of adoption remains slow due to infrastructural hazards and commercial constrains,” pointed out Celine le Goazigo, Senior Manager at WBCSD in her opening remarks during the above-mentioned webinar. “So at WBCSD we recognized how important it is to accelerate the deployment of these solutions and that’s why we have a dedicated workstream on decarbonization and we are cooperating with our members to overcome these barriers.”
+WBCSD is a global, non-profit, CEO-led organization of over 240 leading businesses working together to accelerate the transition to a sustainable world. Well-known corporations are among the members such as ABB, Amazon, Apple, Bayer, Bloomberg, Daikin, E.ON etc.
+The Brief is the first in a series on mature renewable heat solutions. It provides an overview of the solar thermal solutions and experience from 15 operational projects. The following project developers provided the case studies: New Heat (France), TVP Solar (Switzerland), SOLID Solar Energy Systems (Austria), Solarlite CSP Technology (Germany), Flemming Jorgensen (Mexico), Absolicon Solar Collector (Sweden), Modulo Solar (Mexico). The large majority of the projects integrated solar heat into existing infrastructure. The lessons learned are structured into four categories and summarized in the figure below:
+- Decisive parameters leading to solar thermal being chosen as a solution
+- Barriers faced in realizing the installation and how they were overcome
+- Decisive success factors which really got the project off the ground
+- Ease of process integration into existing infrastructure
+Lessons learned from 15 case studies described in the SHIP Navigator Brief Source: WBCSD
+Required space and capital expenditure
+The second practice-orientated part of the Brief is a listing of key parameters that companies should consider when assessing the suitability of solar thermal solutions for their company operations. The parameters are spread across four areas, starting with key process parameters orientated on the requirements of the company. Second is the required space for the technology, third the commercial parameters and finally other parameters such as overall efficiency, safety and lifetime. You will find the ranges of the values and the detailed descriptions in the Navigator Brief, some of which are listed in the table below.
+| Parameter | Non-concentrating solar thermal | Concentrating solar thermal |
+| Required space | 1.6 to 1.9 m2/kW | 2.1 to 4.2 m2/kW |
+| Process integration | If using existing heat infrastructure, integration can be done in planned downtime without disrupting production. | |
+| Capital expenditure | 400 to 1000 EUR/kW | 600 to 1200 EUR/kW |
+| Operational cost | 0.5 to 1 % of CAPEX annually | 0.5 to 3 % of CAPEX annually |
+| Levelized cost of heat | 20 to 50 EUR/MWh | 30 to 70 EUR/MWh |
+Key parameters for assessing suitability of solar thermal solutions Source: WBCSD
+Factors that determine the commercial viability of SHIP projects
+“You can get a rough idea of the commercial viability of solar thermal by looking at three key parameters”, explained Daniel Galis, WBCSD Associate, during the webinar whilst showing the graphic below. The first parameter is the required temperature as a lower temperature requirement increases efficiency and decreases the capital costs. The second is the project size as bigger projects achieve economies of scale. The third parameter is the location as sites with higher irradiance produce more heat and the availability of land lowers the costs.
+Parameters that determine the commercial viability of a project Source: WBCSD
+More information:
+World Business Council for Sustainable Development (WBCSD): https://www.wbcsd.org/
+Renewable industrial heat Navigator Brief – Solar thermal solutions: https://www.wbcsd.org/resources/solar-thermal-solutions/
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/news/bridging-the-gap-between-pcm-research-and-real-world-storage/
+
+Bridging the gap between PCM research and real-world storage
+January 27, 2026In recent years, research into compact thermal energy storage has focused primarily on the development of storage materials. This focus is now set to broaden. The IEA SHC Programme has launched a new research group dedicated to Components for Thermal Energy Storage. “We would like to bridge the gap between storage materials and practical implementation”, explained Wim van Helden from AEE INTEC in Austria, which manages the group under IEA SHC Task 75. It met for the first time in October 2025 in Stockholm. Three suppliers of thermal energy storage material and systems took part in the kickoff meeting: Iceheart from Sweden, Rubitherm from Germany and PLUSS from the Netherlands. We spoke with two of the companies about their motivation for joining the task and their technology portfolio. The photo shows PhaseTube, a storage unit that can be used for either cooling or heating, depending on the phase change material (PCM) employed.
+Photo: Rubitherm
+“It was a good initiative to take part in the kickoff meeting. It was a very well-organized workshop with interesting subjects”, summarized Jan Sjöberg, CTO at Iceheart. “Our aim is to stay well-informed about the progress of cold storage technologies using phase change materials, plus we would like to contribute with our experience in industrial implementation of cold storage technologies.”
+“Our special knowhow is the way to extract the cooling powe”
+Iceheart is a startup company founded in 2022. After four years of development, the ice storage Iceheart COU26 has been tested and is almost market ready. “We have installed demonstrators in Spain, Sweden, Kenya and Italy. Presales have started and the market launch of Iceheart COU26 is planned for the third quarter this year”, explained Sjöberg. A typical application is cold rooms for food storage, typically around 4 °C.
+The storage has a volume of 250 litres. A conventional cooling unit freezes the water to ice. For this purpose, a standard copper pipe heat exchanger with aluminium fins is inserted into the storage tank.
+“Our special knowhow is the way to extract the cooling power from the ice in a controlled and efficient way adapted to the cooling needs of the cold room”, said Sjöberg. The company uses a thermosiphon circuit which includes fans that distribute the cold air into the room. The advantage is that the cooling energy extraction does not depend on the power of the compressor and can be up to 10 times higher than the compression power for short periods, according to Iceheart.
+Optimal economic operation can be achieved by using grid power at low-cost times to run the chiller and then cool the room using the storage when electricity prices are high. If the grid is unstable, the Iceheart COU26 can operate for up to 7 days without being charged via the chiller, avoiding a lot of food waste.
+Iceheart COU26 for cold food storage rooms on the left and its main principle using a thermosiphon circuit with fans on the right Graphics: Iceheart
+“PCM storage units behave differently to water storage”
+Dr Esther Kieseritzky, General Manager of the German company Rubitherm, is also very positive about her participation in the kickoff meeting of IEA SHC Task 74: “A lot of the topics covered in the task are also highly relevant for us in our daily work to improve PCM storages. Therefore, we think that the exchange between different stake holders and collecting/summarizing research from so many players will help us and others to improve PCM storage systems.”
+Rubitherm has worked on developing TES with PCMs intensively since 2015. One result of this long-term development is the PhaseCube storage system for air conditioning in homes. It was launched in 2020 and is offered Europewide. The storage unit contains 10 aluminium plates; each filled with 2 kg PCM. The distance between each plate is 5 mm, which means that the pressure loss is very low. Air flows past these plates, transferring heat away. The PhaseCube is charged at night; therefore the location needs a day/night temperature difference that falls into a suitable range. The type of PCM can be chosen depending on typical summer night temperatures, for example SP21EK with a melting point of 21°C for German homes or SP25 with a melting point at 25°C for Spanish homes.
+PhaseCube is an air conditioning storage that consists of PCM-filled aluminium plates with a special corrugated surface. Air flows between the aluminium plates and is cooled down. Photo: Rubitherm
+During her presentation at the kickoff meeting Kieseritzky made clear that PCM storage units behave differently to water storage units. “Nobody seems to ask what kind of performance and capacity a water storage unit has. This information is usually not included in the data sheets”, commented Kieseritzky. However, performance, capacity and volume flow have a strong influence on how a PCM storage tank is used.
+For example: a high temperature difference between inlet and melting point results in more capacity but lower performance. Whereas a small temperature difference and small volume flow lead to a smaller capacity but higher performance. There are many possible combinations and Rubitherm has compiled them in an overview table (see below). If you choose for example the performance at a temperature difference between inlet and melting temperature of 5 K at a flow rate of 40 litres/min/m3, the chart now answers the question of how long it takes to charge the storage tank. In the example the storage tank is 74 % charged in four hours and 81 % in six hours. “If this is too long, then I have to use, for example, a greater temperature difference. With 6 K and the same volume flow the storage is already filled up to 80 % in four hours”, explained Kieseritzky.
+Charging times for a 200 litre PCM storage filled with SP31 under different operating conditions. Table: Rubitherm
+The contributions from companies like Iceheart and Rubitherm underline the fact that compact storage technologies are already technically mature but still require better integration, clearer performance metrics and shared knowledge across stakeholders. By bringing researchers and manufacturers together, the new Task 75 aims to facilitate the step from material and component research to reliable, market-ready thermal storage solutions.
+Websites of organizations mentioned in this news article:
+IEA SHC Task 75 Components for Thermal Energy Storage: https://task75.iea-shc.org/
+AEE INTEC: https://www.aee-intec.at/
+Iceheart: https://www.iceheart.com/
+PLUSS: https://plussat.eu/
+Rubitherm: https://www.rubitherm.eu/en/
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/news/pvt4eu-develops-and-tests-next-generation-pvt-collectors/
+
+PVT4EU develops and tests next-generation PVT collectors
+January 23, 2026The combination of PV module and thermal absorber – known as PVT – is available in many different designs. „There is no universally optimal PVT collector; the best solution is always application-specific,” said Iván Acosta, Project Coordinator of PVT4EU and Head of Engineering at MG Sustainable Engineering, Sweden. This is precisely why the EU-funded PVT4EU project focuses on diversifying the PVT technology portfolio by developing and validating two fundamentally different collector concepts. PVT-SP is a retrofit solution based on a polymer absorber that can be mounted on existing PV systems and used as a heat source for heat pumps in residential buildings. PVT-MG is a double compound parabolic concentrator (CPC) collector capable of delivering operating temperatures of up to 140 °C. Both prototypes have been successfully tested, and clear improvement potentials have been identified.
+Photo: Technical University of Denmark (DTU)
+“Our intensive scientific investigation of the two prototypes did not only lead to significant improvements in performance, cost and reducing installation complexity,” explained Acosta. ”It also resulted in several detailed technical reports documenting these findings.”
+PV cells are a limiting factor in PVT systems
+One key takeaway is that conventional, off-the-shelf PV cells are not designed for the combined thermal and mechanical stresses of PVT operation. This becomes particularly critical in concentrating PVT systems, where radiation fluxes and operating temperatures are significantly higher.
+In the report on “PV Cell Technologies Assessment for PVT4EU concentrating technologies” the authors deliver a systematic assessment of PV cell technologies suitable for low-concentration PVT, analysing key indicators such as efficiency, temperature coefficient, thermal stability, cost, and scalability. The report provides a robust technical foundation for selecting PV technologies that are compatible with long-term PVT operation.You can download the report here.
+Exploded view of the first-generation PVT-MG receiver. Mirrors concentrate sunlight onto the lower absorber surface. Graphic: DTU
+Diversifying PVT technology
+The first monitoring campaign provided valuable insights into thermal behaviour, hydraulic design, and system integration aspects of the two prototypes. It also revealed clear weaknesses related to thermal insulation, material interfaces, manufacturability, and sustainability.
+These findings are now being incorporated into the design and modelling of the second-generation prototypes which are currently built at the University of Gävle in Sweden. For PVT-MG the redesign should reduce the collector weight by 25 % allowing installation by a maximum of two installers and reduce the production cost by minimum 15 % through the integration of alternative materials for the thermal absorber and concentrating structure as well as novel PV cells technology and configuration, targeting not only increased performance and cost-effectiveness but also recyclability and reparability.
+The V2 collectors will be transferred to the National Laboratory of Energy and Geology (LNEG) in Portugal for the next testing campaign in the coming months. The tests will validate performance improvements under different climatic conditions and provide final performance coefficients for system-level simulations.
+“Our work clearly shows that PVT development cannot rely solely on conventional PV components“, summarized Acosta. „By combining dedicated PV cell assessments, standardised testing, and eco-design principles, we aim to demonstrate how next-generation PVT collectors can become technically robust, economically competitive, and environmentally friendly.”
+The first generation (V1) prototypes of PVT-SP (left) and PVT-MG (right) were tested according to IS0 9806 standard at DTU in Denmark in 2025. For PVT-MG-V1, the measured optical efficiency reached 55.8%, with a heat loss coefficient of 5.52 W/m²K. PVT-SP-V1 achieved an optical efficiency of 45.5%, with a heat loss coefficient of 19.24 W/m²K. Photos: PVT4EU (Talha Jahangir)
+PVT collector with lowest carbon footprint
+Another major outcome of PVT4EU is the strategic value of retrofit PVT solutions like PVT-SP when combined with ground-source heat pump systems. In medium- and high-latitude European regions, this approach:
+- avoids the noise issues of air-source heat pumps,
+- improves overall system COP,
+- reduces required borehole lengths, and
+- mitigates long-term ground cooling.
+The PVT-SP concept uses a polymer heat absorber compatible with more than 70 % of commercially available crystalline silicon PV modules up to 450 W. Life-cycle assessment results confirm that PVT-SP exhibits the lowest global warming potential among the evaluated PVT options, mainly due to its low material demand and retrofit-based deployment.
+These results are summarised in the PVT4EU Ecodesign Recommendations report, which provides concrete guidance to improve sustainability and energy efficiency and highlights the significant impact of heat transfer fluid choice on overall environmental performance. You can download the report here.
+The project was funded by the Clean Energy Transition Partnership (Joint Call 2022). It started in September 2023 and is expected to be finalized in August 2026.
+Websites of organisations mentioned in this news article:
+PVT4EU: https://pvt4eu.eu/
+Technical University of Denmark (DTU): https://www.dtu.dk/english/
+National Laboratory of Energy and Geology (LNEG): https://www.lneg.pt/en/homepage/
+MG Sustainable Engineering (MGS): http://www.mgsust.com
+Clean Energy Transition Partnership: http://www.cetpartnership.eu
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/news/our-biggest-success-was-defining-a-protocol-for-characterization-of-storage-materials/
+
+“Our biggest success was defining a protocol for characterization of storage materials”
+January 20, 2026The newly started IEA Solar Heating and Cooling Programme Task 75 on Thermal Energy Storage Material aims at taking the successes of previous task work and making them accessible for other research groups. In charge of this communication effort is Professor Frédéric Kuznik from the National Institute for Applied Science (INSA) in Lyon, France. He has already drafted 15 lessons learned on thermal energy storage research in compact phrases, together with justifications that will be discussed by the IEA SHC Task 75 research group. Kuznik started in 2005 as an Associate Professor at INSA and became a full Professor in 2024. Photo: INSA
+You are part of the management team of the newly started research platform Task 75 on Thermal Energy Storage Materials. What are your research activities at INSA that back up this position?
+Kuznik: Since 2008 I have worked in the field of thermochemical storage for buildings and districts. We follow a reverse engineering approach. That means we design, characterize and model storage components for specific applications. Then we define the properties for the material that is best for our application. We then go to the material scientists and ask them for the best-fitting material. Obviously, it rarely happens that they have exactly the right material, but our idea is to try to find the best opportunity.
+Why are there so few commercially available compact thermal storage systems using thermochemical material (TCM) despite your nearly 20 years of effort?
+Kuznik: You are right. On the phase-change material side it is much easier to commercialize products as the performance of the material only depends on one parameter, the temperature. But for storage with TCMs two parameters are crucial – temperature and humidity, so it is a lot more complicated to control the system and determine the state of charge. Another complex issue is how to integrate the TCMs into the reactor. Most TCMs are available as powder, so you cannot use them directly, you need to encapsulate them and there is a lot of research going on in this field.
+We can look back at four tasks about compact thermal energy storage materials within the IEA SHC Programme: Task 67 (2021-2024), Task 58 (2017 to 2019), Task 42 (2009 to 2015) and Task 32 (2003 to 2007). What was achieved?
+Kuznik: When we started 20 years ago, there was no standard available to characterize materials for compact thermal energy storage. Each laboratory wrote its own protocols and the data in the literature was not comparable. However, to assess and model the performance of a material you need harmonized test protocols. Therefore, our biggest success was defining a protocol for characterization of phase-change materials and setting up a database of these materials. The work on harmonizing the test procedures for TCMs is still ongoing in the current task.
+Now, for the first time, you have created two parallel tasks, Task 75 for materials and Task 74 for components, why is that?
+Kuznik: Starting two tasks in parallel was really a good move. In the past, researchers developed storage tank materials without a clear definition of an application. Now, we would like to close the gap between component engineering and material development. All task meetings will be held jointly. The component engineers like my group will sit together with the material researchers to discuss the way we can design TES systems for applications.
+One of the main goals of the newly started Task 75 is the dissemination of lessons learned from previous tasks. How did this idea come about?
+Kuznik: We have developed test standards, but they are not used everywhere. Within the task we are a small group of, let’s say, 15 institutions, which is a rather small group compared to the global community researching compact thermal energy storage. Therefore, we have to communicate our standard protocol and explain to other laboratories why it is interesting for them to use it. We have decided to define compact lessons learned in one phrase to make them easy to access for other research groups.
+Can you give examples of such lessons learned?
+Kuznik: One fundamental lesson learned is the following, which also led to us starting two parallel tasks:
+- Collaboration between material and application experts leads to an improved understanding of material and component design strategies and supports the development of CTES systems.
+But as I said, we also have to convince our colleagues from other laboratories, who might not even know about the task work, to accept the need for harmonized test protocols – not only on the material side, but also on the component side. To compare the performance of different components and reactors, we need to agree on operating conditions for the tests. Hence, another important lesson learned is this one:
+- Standards to measure material properties and to evaluate components are a prerequisite for constructive discussions among experts and for advancing CTES technologies.
+Another lesson learned relates to the state of charge. As for electrochemical batteries, where it is easy to find out the state of charge at any time, we need to evaluate the state of charge for thermal batteries. We have made a big effort to develop measures for state of charge determination for thermal batteries in the previous tasks. We have put this effort into the following phrase:
+- In flexible heating and cooling systems, thermal batteries are needed: TES systems with instantaneous State of Charge (SoC) determination.
+What are the next steps regarding the lessons learned?
+Kuznik: So far, I have drafted 15 phrases, each of which illustrates a lesson learned and we started the discussion during the last task meeting. Each phrase comes along with a justification of half a page. We obviously need time to discuss these justifications because we have to speak the same language. Our objective is to publish overview papers about the lessons learned – one for PCMs and one for TCMs.
+Websites of organizations mentioned in this interview:
+Task 74 on Thermal Energy Storage Components: https://task75.iea-shc.org/
+Task 75 on Thermal Energy Storage Materials: https://task75.iea-shc.org/
+National Institute for Applied Science (INSA): https://www.insa-lyon.fr/en
+
+--------------------------------------------------------------------------------
+
+URL: https://solarthermalworld.org/news/stability-testing-is-needed-to-investigate-the-market-readiness-of-compact-thermal-energy-storage-materials/
+
+“Stability testing is needed to investigate the market readiness of compact thermal energy storage materials”
+January 27, 2023Stability is a key issue when evaluating new phase-change materials (PCMs) or thermochemical materials (TCMs) for thermal energy storage. A loss of stability may reduce the storage capacity and/or the thermal power exchange over the operational life of compact thermal energy storage (CTES) systems. This is why the researchers of IEA SHC Task 67 Compact Thermal Energy Storage Materials have started to list relevant degradation factors with the aim of developing recommendations for stability testing based on simple experiments. We discussed the approach with two Task 67 experts, Christoph Rathgeber from the Bavarian Center for Applied Energy Research – ZAE Bayern in Germany (left) and Ana Lazaro, Associate Professor at the i3a-University of Zaragoza, Spain. Their ultimate aim is to establish a definition of PCM and TCM stability.
+Photos: ZAE Bayern, private
+Why is stability such a big issue for PCM and TCM materials?
+Rathgeber: In CTES applications, PCMs and TCMs are continuously charged and discharged. PCMs are, for example, heated up and cooled down, thereby changing their phase – either from liquid to solid and vice versa or between two different solid states. In the case of TCMs, both heat and mass transfer take place. Many PCMs and TCMs are mixtures of different materials – blends or composite materials, e.g. combined with a solid matrix structure to improve their mechanical properties. Both the repeated heat and mass transfer processes and the complex nature of many PCMs and TCMs make investigations of their stability under application conditions an important field of R&D.
+Lazaro: The stability of materials used for CTES is an important issue because the system should ideally maintain their performance as designed throughout the lifetime. A loss of stability may cause a loss of storage capacity and/or thermal power exchange over the operation time of the CTES.
+Do you look at short-term stability (several cycles) or long-term stability (over the whole lifetime)?
+Lazaro: The stability is important in both the short and long term, so R&D activities are focused on both time perspectives. Short-term studies could also provide information on the limits for the operation of the material, for example the maximum operating temperature for a certain material to ensure the stability or the required atmosphere to avoid moisture sorption, among others. Considering the long term is important to determine the lifetime of the system and also to investigate whether there are possibilities to recover the material to the initial state with the initial thermal performance.
+Rathgeber: For many CTES materials, the charging/discharging behaviour within the first cycles is crucial. In the long term, stability testing under actual application conditions is needed to investigate the market readiness of CTES materials.
+One of your objectives is to find out how degradation can be accelerated in tests in order to assess the stability of CTES materials more quickly. How does this work?
+Lazaro: When a CTES is designed and a suitable storage material (PCM or TCM) is selected, the engineers would like to have as much information as possible on the stability of the material. Test routines for long-term stability take a long time, so any acceleration when testing stability will result on an increased number of materials whose stability has already been assessed.
+Rathgeber: The idea is to provide experimental test routines with which the stability of a certain CTES material can be evaluated more quickly under given application conditions. For this purpose, it would be helpful to accelerate degradation processes in a controlled manner. The overall goal is to better understand the conditions under which degradation takes place. An improved understanding of degradation will help to select an appropriate CTES material for a particular application or to modify a CTES material so that it can be applied in a storage system with little or no degradation.
+Template to assess factors which influence stability of PCMs and TCMs. It was drafted by the German institute ZAE Bayern and then discussed and extended during an IEA SHC Task 67 meeting. Schemes: ZAE Bayern
+You have developed a template to map factors which influence the stability of storage materials in different colours. What goals are you pursuing with this template?
+Rathgeber: The purpose of the template is, first, to collect the existing knowledge of the Task 67 participants on CTES material stability. Second, the template has been designed to structure the various aspects of stability and to support the discussion on CTES stability among the experts. As different CTES materials (material classes) exhibit different stability effects, the template is to be completed separately for different materials or material classes. Therefore, it will be distributed to the large group of Task experts who have expertise on specific CTES materials in order to complement it.
+Lazaro: The template is also useful as a checklist of issues to be considered when selecting material and operation conditions during the design of a CTES system.
+Wim van Helden, Co-Chair of Task 67, said in a meeting recently that “the aim is to develop a kind of ‘cookbook’”. What does this mean here?
+Rathgeber: As CTES material stability depends on the material (classes) and the conditions of a particular application, a step-by-step guide to testing and evaluating stability and selecting a suitable CTES material for an application could be a valuable outcome of our Task 67 subgroup. In addition, similar to a “cookbook”, we aim at providing recipes to improve CTES material stability based on lessons learned by the Task experts.
+You have applied the template first to salt hydrates – a PCM material class. Can you further explain the blue bubbles, which include solutions to better understand the degradation?
+Rathgeber: Salt hydrates are mixtures of salt(s) and water. During thermal cycling, some salt hydrates exhibit a separation of solid phases, e.g. different hydration levels of the salt. To counteract phase separation, thickeners can be applied to obtain a gel-like material in which the different solids are mechanically hindered from separating spatially. In some cases, phase separation of salt hydrate mixtures occurs if one of the mixture components supercools. To reduce supercooling, nucleating agents can be added to the mixture. The described phase separation of salt hydrates is often observed within the first thermal cycles (e.g. within the first 10 cycles). Thus, a testing routine that carefully examines the first thermal cycles of salt hydrate mixtures could be a way to evaluate their stability quickly.
+Websites of organisations mentioned in this article:
+IEA SHC Task 67 Compact Thermal Energy Storage Material: https://task67.iea-shc.org/
+Bavarian Centre for Applied Energy Research – ZAE Bayern: https://en.zae-bayern.de/ (website of ZAE Bayern currently under revision)
+I3a-University of Zaragoza: https://i3a.unizar.es/
+
+--------------------------------------------------------------------------------

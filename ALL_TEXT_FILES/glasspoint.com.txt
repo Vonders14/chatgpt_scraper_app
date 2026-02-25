@@ -1,0 +1,1896 @@
+ROOT: https://glasspoint.com/
+SCRAPED_AT_UTC: 2026-02-11T20:08:22.184748Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://glasspoint.com/
+
+Solar steam for industry
+Proven technology, deployed at scale
+By harnessing sunshine to produce steam, GlassPoint helps industry leaders reduce their carbon emissions at the lowest possible cost. GlassPoint designed its enclosed trough technology specifically to address the needs of industrial users, especially those operating in remote and harsh environments. Enclosed trough technology has been deployed at scale in multiple projects in California and the Middle East.
+-
+GlassPoint has been delivering solar process steam in commercial quantities since its Amal project went online in 2012. To date, more than 60% of the installed base of solar process steam in the world uses GlassPoint enclosed trough technology.
+-
+Enclosed trough technology requires a fraction of the capital expense to construct, and significantly less cost to operate than alternative solutions. When this is combined with its inherent 600% advantage in energy density, GlassPoint delivers solar process steam at a fraction of the cost of alternative solutions.
+-
+GlassPoint delivers steam to its customers via long term steam supply agreements, reducing the financial impact of decarbonization on its customers, and acting as a hedge against increasingly volatile fuel prices.
+-
+By utilizing proven molten salt storage technology, GlassPoint delivers process steam both day and night.
+RECENT NEWS
+GlassPoint Closes $20M Funding Round to Fuel Global Expansion of Solar Industrial Process Heat
+Immediately reduce carbon emissions by up to 80% without disrupting existing operations.
+Reduce fuel use immediately
+GlassPoint customers typically retain their existing fossil fuel based sources of steam, but operate them at less than full capacity, reducing the amount of fuel used and the amount of CO2 emitted. Solar steam is added to ensure constant steam flow to the process.
+Depending on latitude and local weather conditions, customers can reduce their fuel use between 50% and 80% annually.
+Easy integration
+Enclosed trough technology was designed to deliver steam over a wide range of temperatures and pressures, making it easy to integrate with existing facilities without expensive retrofits and shutdowns.
+The steam specification of the GlassPoint system is set to be the same as the fossil fired steam generators at the site, minimizing the impact on operations.
+Pathway to 100% decarbonization
+Most electric utility grids still use large amounts of fossil fuels to generate their electricity, so switching to grid power for steam production today would lead to a huge increase in both emissions and cost when compared to continuing to burn fossil fuel on-site for steam production.
+Adopting zero carbon GlassPoint solar steam production today will reduce emissions by up to 80% immediately, and provide a platform for electrification in the future. The GlassPoint thermal storage system can be charged both thermally and electrically so when utility grids eventually decarbonize, the final 20% of steam production can also be decarbonized.
+
+--------------------------------------------------------------------------------
+
+URL: https://glasspoint.com/about
+
+GlassPoint is the leader in solar industrial process steam.
+Since 2009, GlassPoint has remained at the forefront of the energy transition helping its customers across the globe decarbonize their operations.
+Executives
+-
+Rod MacGregor
+President & CEO
+Rod was the founding CEO of GlassPoint in 2009. For more than three decades, he has led global companies across the United States, Europe, China and the Middle East. Rod’s companies have partnered with a range of multinational corporations in the energy and technologies industries, including Royal Dutch Shell, AT&T, Intel and Volkswagen. His first company, Insignia Solutions Ltd., received the Queen of England’s award for technical achievement and the Queen’s award for export achievement, and subsequently went public on NASDAQ. He has founded three other venture capital-backed high tech companies.
+-
+Randy Palombi
+Chief Commercial Officer, Americas
+Randy is a seasoned cleantech executive with over 30 years of experience in the energy sector. He oversees business development, and strategy across the Americas. He previously co-founded and served as Chief Commercial Officer of Veloce Energy, an innovative energy storage OEM. Randy has held senior leadership roles at five cleantech companies spanning retail energy, solar, demand response, energy storage, and EV charging—including Constellation Energy, Stem Inc., and CPower—driving transformative growth. His career began promoting cogeneration at SoCalGas and leading a management consulting practice at PricewaterhouseCoopers. Randy holds a BS in Mechanical Engineering and an MBA.
+-
+David Tickner
+Chief Operating Officer
+David leads the operations, manufacturing, supply chain, project development and deployment activities within GlassPoint. With more than 25 years background in engineering, he opened and led multiple engineering and manufacturing centers of excellence across Europe, China, USA and Middle East. David has a track record of leading NASDAQ 100 companies around the world to achieve excellence and profitability through safe and sustainable initiatives and technologies. David holds an MBA from the Richard Ivey School of Business at the University of Western Ontario.
+-
+Markus Balz
+Chief Technology Officer
+Markus leads the technology development of GlassPoint solar systems, supported by a team of experts he is setting the scene for technology innovation to minimize cost, increase performance and minimize Co2 emissions. Markus is well-known in the industry for decades of solar innovation, winning nearly a dozen awards over his career for engineering performance and designing cutting-edge technology. His expertise ranges from the technical aspects of designing solar technologies to the actual manufacturing and construction processes required to scale solutions internationally. Managing projects in over 25 countries he was actively involved in the development and construction of more than 1.4 GWth in CSP solar fields in 4 continents. He enjoys the most when innovation, courage, vision and teamwork lead to sustainable solution.
+-
+Bob Worthington
+Chief Financial Officer
+Bob Worthington is an accomplished venture and private equity portfolio CFO for high-growth technology companies, with a track record of driving company growth, leading international expansion, and executing strategic financial initiatives. He has raised over $150 million in capital, led 8 successful M&A transactions, and supported multiple successful exits. Bob combines deep financial leadership with operational insight, helping organizations scale globally, optimize performance, and enter new markets. He holds a BS from the University of Kentucky, an MBA from UC Berkeley, and is a California CPA (inactive).
+-
+Ben Bierman
+Vice President Applications Engineering
+Ben leads technology at GlassPoint, overseeing the development of solar systems and helping our customers decarbonize their operations. He has more than three decades of design, manufacturing and scale-up experience at global energy and technology companies, including Applied Materials, Lam Research and Coherent. He brings extensive experience with plant design and facilities construction. Throughout his career, Ben has helped deploy nearly one million solar panels in more than 1,000 installations across 20 countries.
+Board of Directors
+-
+Henri de Bokay
+Director
+Henri is a founder and Chairman of 300ppm, a private company climate infrastructure investment company. He is the founder and CEO of ARB Investment Partners, a Berlin based real estate investment firm with a stellar track record. Henri has over three decades of experience financing, developing, building and operating various hard assets. He started his career in investment banking, advising on debt restructuring, infrastructure project finance, and privatisations before turning to private equity, then real estate private equity at Morgan Stanley and JP Morgan’s Peabody funds. Henri completed a fellowship of Harvard’s Advanced Leadership Initiative where he focused on climate related research.
+-
+Richard MacKellar
+Director
+Richard is a serial entrepreneur and venture capitalist with a strong affinity for early-stage companies. He is an Adjunct Professor, and has a passion for helping bright young people excel. After an early career in turbines with Rolls Royce, Richard spent 16 years in three startup companies, one as engineering manager, two as CEO, spinning out technology from UBC, to create investor returns of 45-60% IRR. For the past fourteen years Richard has been a managing partner at Chrysalix, focusing on digital transformation in energy, mining and metals. Richard has a metallurgy degree from Sheffield University and MBA from Harvard.
+-
+Bart Markus
+Director
+Apart from being a veteran VC, Bart is a seasoned and passionate technologist and entrepreneur having co-founded 6 companies. He is renowned for his relentless drive to internationalize companies and help them become successful beyond Europe by conquering the US or Asia. A Dutch native, he has been a General Partner at Wellington from 2000 to 2015 and played a significant role in building Wellington from a €50M fund in 1999 to a well-established player in the European VC market with some €800M of assets under management.
+Over the past 2 decades, Bart has invested in an impressive collection of DeepTech companies located in Europe and the US. Many have already made the successful leap to the US or are successfully opening up new foreign markets. Investments include Navteq (NASDAQ IPO in 2004: NVT; sold to Nokia in 2007), Meiosys (sold to IBM in 2005), Nawotec (sold to Carl Zeiss in 2005), Q-Layer (sold to Sun Microsystems in 2009), Cavendish Kinetics (sold to Qorvo in 2017), Ultimaker, First Light Fusion, Nexwafe, Orbex and of course Glasspoint.
+-
+Rod MacGregor
+President & CEO
+Rod was the founding CEO of GlassPoint in 2009. For more than three decades, he has led global companies across the United States, Europe, China and the Middle East. Rod’s companies have partnered with a range of multinational corporations in the energy and technologies industries, including Royal Dutch Shell, AT&T, Intel and Volkswagen. His first company, Insignia Solutions Ltd., received the Queen of England’s award for technical achievement and the Queen’s award for export achievement, and subsequently went public on NASDAQ. He has founded three other venture capital-backed high tech companies.
+Advisory Board
+-
+Malcolm Turnbull
+Malcolm Turnbull is a former Prime Minister of Australia and a notable advocate for clean energy. Before his term as the 29th Prime Minister of Australia, he held a number of parliamentary positions, including Minister for Environment and Water Resources. Before entering parliament in 2004, Mr. Turnbull was a successful trial lawyer and investment banker, where he led his own investment firm and served as a partner of Goldman Sachs. -
+Tomas Sigurdsson
+Tomas Sigurdsson is CEO of HS Orka, Iceland's leading private renewable energy company. He was formerly COO and executive vice president of Alcoa, the leading producer of aluminum, alumina and bauxite. He was responsible for the daily operations of global assets of the Company's bauxite, alumina, energy and aluminum segments across geographies. He previously served as president of Alcoa EU and ME.
+Values
+Safe
+The safety of our employees and those around them is our highest priority. We also strive to ensure the safety and security of the assets and facilities entrusted to us by our customers
+Happy
+GlassPoint strives to create a rewarding and fulfilling workplace. We are here to change the world and have fun while doing it.
+Agile
+Speed and agility provide us with a competitive advantage because they allow us to react more quickly to changes in the environment in which we work.
+Responsive
+We are responsive to our customers’ needs, and their primary need is for low-cost energy. We are focused on continuously reducing the cost of the solar energy delivered by our systems.
+Principled
+GlassPoint aspires to the highest ethical standards and maintains an honest, open and transparent culture. We value diversity within our workforce and respect one another equally, irrespective of race, gender or culture.
+
+--------------------------------------------------------------------------------
+
+URL: https://glasspoint.com/projects
+
+Projects
+GlassPoint has a proven track record of delivering commercial scale projects in multiple locations throughout the world.
+GlassPoint’s first enclosed trough system was installed in 2011 in California. This was quickly followed in 2012, by a 7 MW system delivering steam in commercial quantities at Amal in Oman. The project was delivered on time and on budget, leading to the award of a contract to build Miraah a 2,000 tons of steam per day-system producing peak power of over 330MW. Miraah became operational in 2018 and continues to operate every day.
+
+--------------------------------------------------------------------------------
+
+URL: https://glasspoint.com/technology
+
+Proven Technology
+GlassPoint’s enclosed trough technology combines the lowest capital cost to construct, with the lowest cost to operate, with an industry-leading energy density that is six times greater than that of solar panels.
+Lowest Capital Cost
+Enclosed trough systems are much lower-cost to build than systems with exposed mirrors, allowing GlassPoint to deliver zero carbon steam at the lowest possible cost.
+Solar thermal systems use large mirrors to focus sunlight onto pipes containing water. Commonly, these are placed outside which exposes them to the elements and makes them vulnerable to strong wind loads and increasingly common extreme weather events.
+To circumvent damaging exposure, GlassPoint’s enclosed trough design places the mirrors indoors so that they are protected from the wind.
+The enclosed trough design places the mirrors indoors so that they are protected from the wind. This allows them to be of low cost and lightweight construction. The side walls of the enclosure still need to be strong enough to withstand the wind, but that requires far less material, than reinforcing every mirror individually, as each wall protects many individual troughs.
+Overall, enclosed trough systems have less than half the amount of metal, glass and concrete than in an outdoor system of equivalent size.
+GlassPoint has been developing and improved enclosed trough technology over the last ten years, resulting in a portfolio of over 100 issued and pending patents.
+How enclosed troughs work
+Step one
+There are no solar panels in a GlassPoint system. Instead, large curved mirrors are suspended inside an agricultural glasshouse.
+Step two
+The mirrors automatically track the sun throughout the day, focusing sunlight on a stationary boiler tube containing water.
+Step three
+The concentrated sunlight heats the water to efficiently produce high-pressure steam.
+Lowest Operating Expense
+When the mirrors in solar thermal systems become soiled they reflect less sunlight, and hence produce less energy. Therefore, keeping the mirrors clean plays a crucial role in maintaining system performance. This is particularly challenging as industrial scale solar steam systems may contain several square kilometers of mirrors. As a result, in most solar thermal projects, the dominant operating expense is labor related to mirror cleaning.
+GlassPoint’s enclosed trough systems place the mirrors inside a “clean room” enclosure, protecting them from dust and dirt. The roof of the glasshouse enclosure is automatically cleaned every night by a robotic cleaning system. These systems have been in production for several decades and are a proven and robust technology. Automated cleaning boosts system performance and dramatically reduces operating expenses.
+Highest Energy Density
+Enclosed trough systems typically occupy one sixth the space of photovoltaic panels that produce the same amount of energy. They are also occupy one third the space of a trough or power-tower based system.
+This inherent space advantage is particularly important for industrial scale applications that require large amounts of energy and hence huge amounts of land. It is often impractical to find sufficient land near an industrial facility for conventional solar designs, making enclosed trough the only viable option for large scale decarbonization.
+Solar Steam Land Use
+Day & Night Steam
+During the day, sunlight is used to heat tanks of molten salt. At night, the hot molten salt can be used to generate steam. In this way, Enclosed trough systems can deliver steam both day and night.
+
+--------------------------------------------------------------------------------
+
+URL: https://glasspoint.com/news
+
+RECENT NEWS
+GlassPoint Closes $20M Funding Round to Fuel Global Expansion of Solar Industrial Process Heat
+What the press are saying
+-
+Why Eliminating Coal Could Take a Long Time
+-
+Vedanta Plans to Invest $2 Billion on Saudi Copper Projects
+-
+Sunshine, Mirrors And Steam: Meet The Company Quickly Decarbonizing The $444 Billion Industrial Heat Market
+-
+The Saudis are finding carbon-friendly ways to power industry
+-
+After reaching a peak valuation north of $400 million in its first incarnation, the solar-generated steam producer is back as a smaller company with a new strategy
+-
+Former prime minister Malcolm Turnbull is an investor in American solar steam producer GlassPoint and this week joined the advisory board that will help the revived company pivot toward a new strategy selling clean energy solutions to mining and manufacturing companies
+-
+Former Australian PM and Alcoa COO appointed to solar energy company advisory board
+-
+World’s biggest solar thermal plant to be built in Saudi Arabia
+-
+In the desert, these sprawling greenhouses help decarbonize heavy industry
+-
+Ma’aden to use steam from massive solar facility to produce alumina
+-
+“GlassPoint’s largest and most ambitious project to date – the 1 GW Miraah project in Oman – has hit each of its intermediate milestones on time and on budget, despite being sited in a very challenging and remote area. For a start-up to take on such an ambitious project and to deliver on its promises, rather than providing a stream of excuses and delays, is…refreshing.”
+-
+“Called Miraah, which means “mirror” in Arabic, the $600 million, 1,021-megawatt solar-thermal facility...will comprise 36 glasshouse modules and will generate an average of 6,000 tons of solar steam daily”
+-
+“One of the world’s largest solar farms is planned for the deserts of the Persian Gulf country Oman. But unlike most solar plants that produce electricity to power homes and buildings, the gigantic solar farm will use the sun’s rays to create steam”
+Press Releases
+GlassPoint Closes $20M Funding Round to Fuel Global Expansion of Solar Industrial Process Heat
+N.I.S. New Investment Solutions leads investment in the leading provider of solar steam
+- January 26, 2026
+Leader in decarbonizing industrial process heat also teams with Cox as technical and delivery partner to build the world's largest industrial solar thermal project
+- November 26, 2024
+Ma'aden and GlassPoint Unveil Plans to Build Solar Thermal Technology Showcase
+First phase of project development for world's largest industrial solar thermal project
+- January 11, 2024
+GlassPoint Unveils Technology Advancements Reducing Solar Steam Costs by 30%
+Unify storage system and redesigned structure enable lower-cost, zero-carbon, 24/7 industrial heat for the only solar steam solution proven at scale
+- December 14, 2023
+GlassPoint partners with MISA to build a solar manufacturing facility in Saudi Arabia
+The factory will provide supply chain resilience for the world's largest solar thermal project, help diversify the Kingdom's economy and deepen regional leadership as a technology export hub
+- October 25, 2023
+GlassPoint Accelerates Momentum, Adding Industry Veterans and Unveiling Solar Technology Center
+Industrial solar thermal leader appoints new chairman and board member, opens solar development headquarters in Stuttgart
+- September 27, 2023
+GlassPoint Closes $8M Series A to Help Industry Meet Pressing Net-Zero Goals
+300PPM leads investment in the only proven solution to decarbonize process heat at scale
+- July 31, 2023
+GlassPoint appoints award-winning solar industry expert as Chief Technology Officer
+Markus Balz to accelerate GlassPoint’s mission to decarbonize the $444 billion industrial process heat market
+- November 29, 2022
+Sustainable Finance Executive Named GlassPoint’s Chief Commercial Officer
+Jacob Drejer joins decarbonization leader to help industrial companies meet net-zero commitments
+- September 15, 2022
+Former Australian Prime Minister and Former Alcoa COO Join GlassPoint's Advisory Board
+New advisory board members will help solar steam leader meet the soaring demand for industrial decarbonization
+- July 20, 2022
+GlassPoint and Searles Valley Minerals Partner to Reduce Costs and Boost US Mineral Competitiveness
+The project will deploy 750 MWth of GlassPoint’s advanced solar technology to begin decommissioning two coal-fired power plants in California and strengthen domestic supply chains for strategic minerals
+- June 18, 2025
+Glasspoint delivers the lowest cost steam for industrial processes
+GlassPoint’s solar technology is specifically designed to harness the sun’s energy to generate the steam required by industrial processes, seamlessly integrating into existing operations.
+
+--------------------------------------------------------------------------------
+
+URL: https://glasspoint.com/contact
+
+Contact Us If you’d like to get in touch, please complete the form. We’ll get back to you within 48 hours.
+
+--------------------------------------------------------------------------------
+
+URL: https://glasspoint.com/press-release-glasspoint-20m-funding
+
+GlassPoint Closes $20M Funding Round to Fuel Global Expansion of Solar Industrial Process Heat
+N.I.S. New Investment Solutions leads investment in the leading provider of solar steam
+DUBAI, January 26, 2026 - GlassPoint, the leader in solar industrial process heat, today announced it has closed a $20M funding round led by N.I.S. New Investment Solutions, a Liechtenstein-based asset management firm, with participation from returning investor MIG Capital. The investment will advance existing megaprojects with Searles Valley Minerals in California and Ma’aden in Saudi Arabia, as well as power expansion across the globe with a focus on projects in the U.S. Southwest, Southern Europe, the Middle East and South America.
+More energy is used globally in the form of industrial process heat (26%) than all forms of electricity combined (20%), according to the International Energy Agency. Unlike electricity, industrial process heat is notoriously difficult to decarbonize, primarily due to the low cost of burning fossil fuels to generate heat.
+More than 50% of industry is located in regions sunny enough to benefit from GlassPoint technology. In those locations, GlassPoint’s technology delivers superior economics for industrial process heat compared to burning fossil fuels or electrification.
+“In many parts of the world, solar energy is now the lowest cost source of industrial power, creating an opportunity to simultaneously reduce operating costs and emissions,“ said Takashi Sato, Founder of N.I.S. “GlassPoint is a proven solution for this moment and has already won the confidence of some of the most discerning industrial organizations in the world, from oil and gas leaders to mining titans.”
+“GlassPoint provides industry leaders with a proven solution to deliver industrial process heat at the lowest cost,” said Rod MacGregor, Chief Executive Officer at GlassPoint. “With this latest round of financing, we will expand into several new global markets where GlassPoint’s technology delivers compelling value. We look forward to helping leaders across mining, oil & gas, and building materials achieve a significant cost advantage against their competitors.”
+The funding comes on the heels of GlassPoint’s partnership with Searles Valley Minerals to deploy 750 MWth of GlassPoint’s advanced solar technology to reduce costs while beginning to decommission the last two coal-fired plants in California. The company continues to advance its flagship 1.5 GWth project with Ma’aden to decarbonize a bauxite refinery in Saudi Arabia and help the Kingdom meet aggressive sustainability goals. Additionally, GlassPoint’s 330 MWth deployment in Oman has been providing steam on a daily basis since 2017.
+GlassPoint’s unmatched ability to deploy at scale is based on multiple industry-first technologies.
+GlassPoint’s Enclosed Trough is the lowest-cost way to convert sunlight into industrial heat, delivering nearly 70% of the energy available in sunlight directly to the customer.
+GlassPoint’s Unify Storage System stores solar heat during the day and releases it at night, enabling an uninterrupted supply of clean thermal energy whenever it is needed.
+With the new funding, GlassPoint is expanding its Technology Center in Stuttgart, Germany, with leading technologists and engineers. The company is also hiring business development, engineering, and finance talent in Dubai and the United States.
+About GlassPoint
+GlassPoint is the leader in solar industrial process heat, with its technology powering 60% of the world’s solar industrial steam capacity. With the only solar industrial process heat solution proven at scale, GlassPoint delivers superior unit economics compared to fossil fuels and electrification. GlassPoint is helping industrial organizations significantly lower costs while delivering a reliable source of carbon-free steam. The company builds, owns and operates large-scale solar steam facilities to reduce carbon emissions in hard-to-abate industries such as mining and metals, chemicals, construction materials, oil and gas, desalination and more. Learn more at glasspoint.com.
+About MIG Capital
+MIG Capital is one of the leading German VC investors. Through its MIG funds, MIG invests in young deep tech and life sciences companies in German-speaking Europe and beyond. To date, the company has invested over €770 million in approx. 60 start-ups. MIG portfolio companies develop innovations in areas including biopharmaceuticals, energy and environmental technologies, advanced computing, digitalization / IoT, medical technology, and digital health. The MIG investment portfolio currently consists of more than 30 companies.
+MIG’s investment team is made up of a dedicated group of engineers, scientists, physicians and entrepreneurs who use analytical and creative processes to assess the risks and opportunities of business models and technologies. Their reputation, experience and network provide excellent access to companies, institutions and decision-makers to support the growth of their portfolio companies.
+In recent years, MIG Capital has realized more than ten successful portfolio company sales, including Siltectra (to Infineon) and Hemovent (to MicroPort). It has placed several companies on the stock exchange including BRAIN, NFON, BioNTech, and Immatics.
+For further information, please visit www.mig.ag, www.mig-fonds.de or LinkedIn.
+GlassPoint contact:
+glasspoint@methodcommunications.com
+MIG Capital Contact:
+MC Services
+Dr. Cora Kaiser, Catherine Featherston, Dr. Johanna Kobler
++49-89-210228-0
+migag@mc-services.eu
+
+--------------------------------------------------------------------------------
+
+URL: https://headquarters@glasspoint.com/
+
+Solar steam for industry
+Proven technology, deployed at scale
+By harnessing sunshine to produce steam, GlassPoint helps industry leaders reduce their carbon emissions at the lowest possible cost. GlassPoint designed its enclosed trough technology specifically to address the needs of industrial users, especially those operating in remote and harsh environments. Enclosed trough technology has been deployed at scale in multiple projects in California and the Middle East.
+-
+GlassPoint has been delivering solar process steam in commercial quantities since its Amal project went online in 2012. To date, more than 60% of the installed base of solar process steam in the world uses GlassPoint enclosed trough technology.
+-
+Enclosed trough technology requires a fraction of the capital expense to construct, and significantly less cost to operate than alternative solutions. When this is combined with its inherent 600% advantage in energy density, GlassPoint delivers solar process steam at a fraction of the cost of alternative solutions.
+-
+GlassPoint delivers steam to its customers via long term steam supply agreements, reducing the financial impact of decarbonization on its customers, and acting as a hedge against increasingly volatile fuel prices.
+-
+By utilizing proven molten salt storage technology, GlassPoint delivers process steam both day and night.
+RECENT NEWS
+GlassPoint Closes $20M Funding Round to Fuel Global Expansion of Solar Industrial Process Heat
+Immediately reduce carbon emissions by up to 80% without disrupting existing operations.
+Reduce fuel use immediately
+GlassPoint customers typically retain their existing fossil fuel based sources of steam, but operate them at less than full capacity, reducing the amount of fuel used and the amount of CO2 emitted. Solar steam is added to ensure constant steam flow to the process.
+Depending on latitude and local weather conditions, customers can reduce their fuel use between 50% and 80% annually.
+Easy integration
+Enclosed trough technology was designed to deliver steam over a wide range of temperatures and pressures, making it easy to integrate with existing facilities without expensive retrofits and shutdowns.
+The steam specification of the GlassPoint system is set to be the same as the fossil fired steam generators at the site, minimizing the impact on operations.
+Pathway to 100% decarbonization
+Most electric utility grids still use large amounts of fossil fuels to generate their electricity, so switching to grid power for steam production today would lead to a huge increase in both emissions and cost when compared to continuing to burn fossil fuel on-site for steam production.
+Adopting zero carbon GlassPoint solar steam production today will reduce emissions by up to 80% immediately, and provide a platform for electrification in the future. The GlassPoint thermal storage system can be charged both thermally and electrically so when utility grids eventually decarbonize, the final 20% of steam production can also be decarbonized.
+
+--------------------------------------------------------------------------------
+
+URL: https://headquarters@glasspoint.com/about
+
+GlassPoint is the leader in solar industrial process steam.
+Since 2009, GlassPoint has remained at the forefront of the energy transition helping its customers across the globe decarbonize their operations.
+Executives
+-
+Rod MacGregor
+President & CEO
+Rod was the founding CEO of GlassPoint in 2009. For more than three decades, he has led global companies across the United States, Europe, China and the Middle East. Rod’s companies have partnered with a range of multinational corporations in the energy and technologies industries, including Royal Dutch Shell, AT&T, Intel and Volkswagen. His first company, Insignia Solutions Ltd., received the Queen of England’s award for technical achievement and the Queen’s award for export achievement, and subsequently went public on NASDAQ. He has founded three other venture capital-backed high tech companies.
+-
+Randy Palombi
+Chief Commercial Officer, Americas
+Randy is a seasoned cleantech executive with over 30 years of experience in the energy sector. He oversees business development, and strategy across the Americas. He previously co-founded and served as Chief Commercial Officer of Veloce Energy, an innovative energy storage OEM. Randy has held senior leadership roles at five cleantech companies spanning retail energy, solar, demand response, energy storage, and EV charging—including Constellation Energy, Stem Inc., and CPower—driving transformative growth. His career began promoting cogeneration at SoCalGas and leading a management consulting practice at PricewaterhouseCoopers. Randy holds a BS in Mechanical Engineering and an MBA.
+-
+David Tickner
+Chief Operating Officer
+David leads the operations, manufacturing, supply chain, project development and deployment activities within GlassPoint. With more than 25 years background in engineering, he opened and led multiple engineering and manufacturing centers of excellence across Europe, China, USA and Middle East. David has a track record of leading NASDAQ 100 companies around the world to achieve excellence and profitability through safe and sustainable initiatives and technologies. David holds an MBA from the Richard Ivey School of Business at the University of Western Ontario.
+-
+Markus Balz
+Chief Technology Officer
+Markus leads the technology development of GlassPoint solar systems, supported by a team of experts he is setting the scene for technology innovation to minimize cost, increase performance and minimize Co2 emissions. Markus is well-known in the industry for decades of solar innovation, winning nearly a dozen awards over his career for engineering performance and designing cutting-edge technology. His expertise ranges from the technical aspects of designing solar technologies to the actual manufacturing and construction processes required to scale solutions internationally. Managing projects in over 25 countries he was actively involved in the development and construction of more than 1.4 GWth in CSP solar fields in 4 continents. He enjoys the most when innovation, courage, vision and teamwork lead to sustainable solution.
+-
+Bob Worthington
+Chief Financial Officer
+Bob Worthington is an accomplished venture and private equity portfolio CFO for high-growth technology companies, with a track record of driving company growth, leading international expansion, and executing strategic financial initiatives. He has raised over $150 million in capital, led 8 successful M&A transactions, and supported multiple successful exits. Bob combines deep financial leadership with operational insight, helping organizations scale globally, optimize performance, and enter new markets. He holds a BS from the University of Kentucky, an MBA from UC Berkeley, and is a California CPA (inactive).
+-
+Ben Bierman
+Vice President Applications Engineering
+Ben leads technology at GlassPoint, overseeing the development of solar systems and helping our customers decarbonize their operations. He has more than three decades of design, manufacturing and scale-up experience at global energy and technology companies, including Applied Materials, Lam Research and Coherent. He brings extensive experience with plant design and facilities construction. Throughout his career, Ben has helped deploy nearly one million solar panels in more than 1,000 installations across 20 countries.
+Board of Directors
+-
+Henri de Bokay
+Director
+Henri is a founder and Chairman of 300ppm, a private company climate infrastructure investment company. He is the founder and CEO of ARB Investment Partners, a Berlin based real estate investment firm with a stellar track record. Henri has over three decades of experience financing, developing, building and operating various hard assets. He started his career in investment banking, advising on debt restructuring, infrastructure project finance, and privatisations before turning to private equity, then real estate private equity at Morgan Stanley and JP Morgan’s Peabody funds. Henri completed a fellowship of Harvard’s Advanced Leadership Initiative where he focused on climate related research.
+-
+Richard MacKellar
+Director
+Richard is a serial entrepreneur and venture capitalist with a strong affinity for early-stage companies. He is an Adjunct Professor, and has a passion for helping bright young people excel. After an early career in turbines with Rolls Royce, Richard spent 16 years in three startup companies, one as engineering manager, two as CEO, spinning out technology from UBC, to create investor returns of 45-60% IRR. For the past fourteen years Richard has been a managing partner at Chrysalix, focusing on digital transformation in energy, mining and metals. Richard has a metallurgy degree from Sheffield University and MBA from Harvard.
+-
+Bart Markus
+Director
+Apart from being a veteran VC, Bart is a seasoned and passionate technologist and entrepreneur having co-founded 6 companies. He is renowned for his relentless drive to internationalize companies and help them become successful beyond Europe by conquering the US or Asia. A Dutch native, he has been a General Partner at Wellington from 2000 to 2015 and played a significant role in building Wellington from a €50M fund in 1999 to a well-established player in the European VC market with some €800M of assets under management.
+Over the past 2 decades, Bart has invested in an impressive collection of DeepTech companies located in Europe and the US. Many have already made the successful leap to the US or are successfully opening up new foreign markets. Investments include Navteq (NASDAQ IPO in 2004: NVT; sold to Nokia in 2007), Meiosys (sold to IBM in 2005), Nawotec (sold to Carl Zeiss in 2005), Q-Layer (sold to Sun Microsystems in 2009), Cavendish Kinetics (sold to Qorvo in 2017), Ultimaker, First Light Fusion, Nexwafe, Orbex and of course Glasspoint.
+-
+Rod MacGregor
+President & CEO
+Rod was the founding CEO of GlassPoint in 2009. For more than three decades, he has led global companies across the United States, Europe, China and the Middle East. Rod’s companies have partnered with a range of multinational corporations in the energy and technologies industries, including Royal Dutch Shell, AT&T, Intel and Volkswagen. His first company, Insignia Solutions Ltd., received the Queen of England’s award for technical achievement and the Queen’s award for export achievement, and subsequently went public on NASDAQ. He has founded three other venture capital-backed high tech companies.
+Advisory Board
+-
+Malcolm Turnbull
+Malcolm Turnbull is a former Prime Minister of Australia and a notable advocate for clean energy. Before his term as the 29th Prime Minister of Australia, he held a number of parliamentary positions, including Minister for Environment and Water Resources. Before entering parliament in 2004, Mr. Turnbull was a successful trial lawyer and investment banker, where he led his own investment firm and served as a partner of Goldman Sachs. -
+Tomas Sigurdsson
+Tomas Sigurdsson is CEO of HS Orka, Iceland's leading private renewable energy company. He was formerly COO and executive vice president of Alcoa, the leading producer of aluminum, alumina and bauxite. He was responsible for the daily operations of global assets of the Company's bauxite, alumina, energy and aluminum segments across geographies. He previously served as president of Alcoa EU and ME.
+Values
+Safe
+The safety of our employees and those around them is our highest priority. We also strive to ensure the safety and security of the assets and facilities entrusted to us by our customers
+Happy
+GlassPoint strives to create a rewarding and fulfilling workplace. We are here to change the world and have fun while doing it.
+Agile
+Speed and agility provide us with a competitive advantage because they allow us to react more quickly to changes in the environment in which we work.
+Responsive
+We are responsive to our customers’ needs, and their primary need is for low-cost energy. We are focused on continuously reducing the cost of the solar energy delivered by our systems.
+Principled
+GlassPoint aspires to the highest ethical standards and maintains an honest, open and transparent culture. We value diversity within our workforce and respect one another equally, irrespective of race, gender or culture.
+
+--------------------------------------------------------------------------------
+
+URL: https://headquarters@glasspoint.com/projects
+
+Projects
+GlassPoint has a proven track record of delivering commercial scale projects in multiple locations throughout the world.
+GlassPoint’s first enclosed trough system was installed in 2011 in California. This was quickly followed in 2012, by a 7 MW system delivering steam in commercial quantities at Amal in Oman. The project was delivered on time and on budget, leading to the award of a contract to build Miraah a 2,000 tons of steam per day-system producing peak power of over 330MW. Miraah became operational in 2018 and continues to operate every day.
+
+--------------------------------------------------------------------------------
+
+URL: https://Rod@glasspoint.com/
+
+Solar steam for industry
+Proven technology, deployed at scale
+By harnessing sunshine to produce steam, GlassPoint helps industry leaders reduce their carbon emissions at the lowest possible cost. GlassPoint designed its enclosed trough technology specifically to address the needs of industrial users, especially those operating in remote and harsh environments. Enclosed trough technology has been deployed at scale in multiple projects in California and the Middle East.
+-
+GlassPoint has been delivering solar process steam in commercial quantities since its Amal project went online in 2012. To date, more than 60% of the installed base of solar process steam in the world uses GlassPoint enclosed trough technology.
+-
+Enclosed trough technology requires a fraction of the capital expense to construct, and significantly less cost to operate than alternative solutions. When this is combined with its inherent 600% advantage in energy density, GlassPoint delivers solar process steam at a fraction of the cost of alternative solutions.
+-
+GlassPoint delivers steam to its customers via long term steam supply agreements, reducing the financial impact of decarbonization on its customers, and acting as a hedge against increasingly volatile fuel prices.
+-
+By utilizing proven molten salt storage technology, GlassPoint delivers process steam both day and night.
+RECENT NEWS
+GlassPoint Closes $20M Funding Round to Fuel Global Expansion of Solar Industrial Process Heat
+Immediately reduce carbon emissions by up to 80% without disrupting existing operations.
+Reduce fuel use immediately
+GlassPoint customers typically retain their existing fossil fuel based sources of steam, but operate them at less than full capacity, reducing the amount of fuel used and the amount of CO2 emitted. Solar steam is added to ensure constant steam flow to the process.
+Depending on latitude and local weather conditions, customers can reduce their fuel use between 50% and 80% annually.
+Easy integration
+Enclosed trough technology was designed to deliver steam over a wide range of temperatures and pressures, making it easy to integrate with existing facilities without expensive retrofits and shutdowns.
+The steam specification of the GlassPoint system is set to be the same as the fossil fired steam generators at the site, minimizing the impact on operations.
+Pathway to 100% decarbonization
+Most electric utility grids still use large amounts of fossil fuels to generate their electricity, so switching to grid power for steam production today would lead to a huge increase in both emissions and cost when compared to continuing to burn fossil fuel on-site for steam production.
+Adopting zero carbon GlassPoint solar steam production today will reduce emissions by up to 80% immediately, and provide a platform for electrification in the future. The GlassPoint thermal storage system can be charged both thermally and electrically so when utility grids eventually decarbonize, the final 20% of steam production can also be decarbonized.
+
+--------------------------------------------------------------------------------
+
+URL: https://randy.palombi@glasspoint.com/
+
+Solar steam for industry
+Proven technology, deployed at scale
+By harnessing sunshine to produce steam, GlassPoint helps industry leaders reduce their carbon emissions at the lowest possible cost. GlassPoint designed its enclosed trough technology specifically to address the needs of industrial users, especially those operating in remote and harsh environments. Enclosed trough technology has been deployed at scale in multiple projects in California and the Middle East.
+-
+GlassPoint has been delivering solar process steam in commercial quantities since its Amal project went online in 2012. To date, more than 60% of the installed base of solar process steam in the world uses GlassPoint enclosed trough technology.
+-
+Enclosed trough technology requires a fraction of the capital expense to construct, and significantly less cost to operate than alternative solutions. When this is combined with its inherent 600% advantage in energy density, GlassPoint delivers solar process steam at a fraction of the cost of alternative solutions.
+-
+GlassPoint delivers steam to its customers via long term steam supply agreements, reducing the financial impact of decarbonization on its customers, and acting as a hedge against increasingly volatile fuel prices.
+-
+By utilizing proven molten salt storage technology, GlassPoint delivers process steam both day and night.
+RECENT NEWS
+GlassPoint Closes $20M Funding Round to Fuel Global Expansion of Solar Industrial Process Heat
+Immediately reduce carbon emissions by up to 80% without disrupting existing operations.
+Reduce fuel use immediately
+GlassPoint customers typically retain their existing fossil fuel based sources of steam, but operate them at less than full capacity, reducing the amount of fuel used and the amount of CO2 emitted. Solar steam is added to ensure constant steam flow to the process.
+Depending on latitude and local weather conditions, customers can reduce their fuel use between 50% and 80% annually.
+Easy integration
+Enclosed trough technology was designed to deliver steam over a wide range of temperatures and pressures, making it easy to integrate with existing facilities without expensive retrofits and shutdowns.
+The steam specification of the GlassPoint system is set to be the same as the fossil fired steam generators at the site, minimizing the impact on operations.
+Pathway to 100% decarbonization
+Most electric utility grids still use large amounts of fossil fuels to generate their electricity, so switching to grid power for steam production today would lead to a huge increase in both emissions and cost when compared to continuing to burn fossil fuel on-site for steam production.
+Adopting zero carbon GlassPoint solar steam production today will reduce emissions by up to 80% immediately, and provide a platform for electrification in the future. The GlassPoint thermal storage system can be charged both thermally and electrically so when utility grids eventually decarbonize, the final 20% of steam production can also be decarbonized.
+
+--------------------------------------------------------------------------------
+
+URL: https://David.tickner@glasspoint.com/
+
+Solar steam for industry
+Proven technology, deployed at scale
+By harnessing sunshine to produce steam, GlassPoint helps industry leaders reduce their carbon emissions at the lowest possible cost. GlassPoint designed its enclosed trough technology specifically to address the needs of industrial users, especially those operating in remote and harsh environments. Enclosed trough technology has been deployed at scale in multiple projects in California and the Middle East.
+-
+GlassPoint has been delivering solar process steam in commercial quantities since its Amal project went online in 2012. To date, more than 60% of the installed base of solar process steam in the world uses GlassPoint enclosed trough technology.
+-
+Enclosed trough technology requires a fraction of the capital expense to construct, and significantly less cost to operate than alternative solutions. When this is combined with its inherent 600% advantage in energy density, GlassPoint delivers solar process steam at a fraction of the cost of alternative solutions.
+-
+GlassPoint delivers steam to its customers via long term steam supply agreements, reducing the financial impact of decarbonization on its customers, and acting as a hedge against increasingly volatile fuel prices.
+-
+By utilizing proven molten salt storage technology, GlassPoint delivers process steam both day and night.
+RECENT NEWS
+GlassPoint Closes $20M Funding Round to Fuel Global Expansion of Solar Industrial Process Heat
+Immediately reduce carbon emissions by up to 80% without disrupting existing operations.
+Reduce fuel use immediately
+GlassPoint customers typically retain their existing fossil fuel based sources of steam, but operate them at less than full capacity, reducing the amount of fuel used and the amount of CO2 emitted. Solar steam is added to ensure constant steam flow to the process.
+Depending on latitude and local weather conditions, customers can reduce their fuel use between 50% and 80% annually.
+Easy integration
+Enclosed trough technology was designed to deliver steam over a wide range of temperatures and pressures, making it easy to integrate with existing facilities without expensive retrofits and shutdowns.
+The steam specification of the GlassPoint system is set to be the same as the fossil fired steam generators at the site, minimizing the impact on operations.
+Pathway to 100% decarbonization
+Most electric utility grids still use large amounts of fossil fuels to generate their electricity, so switching to grid power for steam production today would lead to a huge increase in both emissions and cost when compared to continuing to burn fossil fuel on-site for steam production.
+Adopting zero carbon GlassPoint solar steam production today will reduce emissions by up to 80% immediately, and provide a platform for electrification in the future. The GlassPoint thermal storage system can be charged both thermally and electrically so when utility grids eventually decarbonize, the final 20% of steam production can also be decarbonized.
+
+--------------------------------------------------------------------------------
+
+URL: https://markus.balz@glasspoint.com/
+
+Solar steam for industry
+Proven technology, deployed at scale
+By harnessing sunshine to produce steam, GlassPoint helps industry leaders reduce their carbon emissions at the lowest possible cost. GlassPoint designed its enclosed trough technology specifically to address the needs of industrial users, especially those operating in remote and harsh environments. Enclosed trough technology has been deployed at scale in multiple projects in California and the Middle East.
+-
+GlassPoint has been delivering solar process steam in commercial quantities since its Amal project went online in 2012. To date, more than 60% of the installed base of solar process steam in the world uses GlassPoint enclosed trough technology.
+-
+Enclosed trough technology requires a fraction of the capital expense to construct, and significantly less cost to operate than alternative solutions. When this is combined with its inherent 600% advantage in energy density, GlassPoint delivers solar process steam at a fraction of the cost of alternative solutions.
+-
+GlassPoint delivers steam to its customers via long term steam supply agreements, reducing the financial impact of decarbonization on its customers, and acting as a hedge against increasingly volatile fuel prices.
+-
+By utilizing proven molten salt storage technology, GlassPoint delivers process steam both day and night.
+RECENT NEWS
+GlassPoint Closes $20M Funding Round to Fuel Global Expansion of Solar Industrial Process Heat
+Immediately reduce carbon emissions by up to 80% without disrupting existing operations.
+Reduce fuel use immediately
+GlassPoint customers typically retain their existing fossil fuel based sources of steam, but operate them at less than full capacity, reducing the amount of fuel used and the amount of CO2 emitted. Solar steam is added to ensure constant steam flow to the process.
+Depending on latitude and local weather conditions, customers can reduce their fuel use between 50% and 80% annually.
+Easy integration
+Enclosed trough technology was designed to deliver steam over a wide range of temperatures and pressures, making it easy to integrate with existing facilities without expensive retrofits and shutdowns.
+The steam specification of the GlassPoint system is set to be the same as the fossil fired steam generators at the site, minimizing the impact on operations.
+Pathway to 100% decarbonization
+Most electric utility grids still use large amounts of fossil fuels to generate their electricity, so switching to grid power for steam production today would lead to a huge increase in both emissions and cost when compared to continuing to burn fossil fuel on-site for steam production.
+Adopting zero carbon GlassPoint solar steam production today will reduce emissions by up to 80% immediately, and provide a platform for electrification in the future. The GlassPoint thermal storage system can be charged both thermally and electrically so when utility grids eventually decarbonize, the final 20% of steam production can also be decarbonized.
+
+--------------------------------------------------------------------------------
+
+URL: https://bob.worthington@glasspoint.com/
+
+Solar steam for industry
+Proven technology, deployed at scale
+By harnessing sunshine to produce steam, GlassPoint helps industry leaders reduce their carbon emissions at the lowest possible cost. GlassPoint designed its enclosed trough technology specifically to address the needs of industrial users, especially those operating in remote and harsh environments. Enclosed trough technology has been deployed at scale in multiple projects in California and the Middle East.
+-
+GlassPoint has been delivering solar process steam in commercial quantities since its Amal project went online in 2012. To date, more than 60% of the installed base of solar process steam in the world uses GlassPoint enclosed trough technology.
+-
+Enclosed trough technology requires a fraction of the capital expense to construct, and significantly less cost to operate than alternative solutions. When this is combined with its inherent 600% advantage in energy density, GlassPoint delivers solar process steam at a fraction of the cost of alternative solutions.
+-
+GlassPoint delivers steam to its customers via long term steam supply agreements, reducing the financial impact of decarbonization on its customers, and acting as a hedge against increasingly volatile fuel prices.
+-
+By utilizing proven molten salt storage technology, GlassPoint delivers process steam both day and night.
+RECENT NEWS
+GlassPoint Closes $20M Funding Round to Fuel Global Expansion of Solar Industrial Process Heat
+Immediately reduce carbon emissions by up to 80% without disrupting existing operations.
+Reduce fuel use immediately
+GlassPoint customers typically retain their existing fossil fuel based sources of steam, but operate them at less than full capacity, reducing the amount of fuel used and the amount of CO2 emitted. Solar steam is added to ensure constant steam flow to the process.
+Depending on latitude and local weather conditions, customers can reduce their fuel use between 50% and 80% annually.
+Easy integration
+Enclosed trough technology was designed to deliver steam over a wide range of temperatures and pressures, making it easy to integrate with existing facilities without expensive retrofits and shutdowns.
+The steam specification of the GlassPoint system is set to be the same as the fossil fired steam generators at the site, minimizing the impact on operations.
+Pathway to 100% decarbonization
+Most electric utility grids still use large amounts of fossil fuels to generate their electricity, so switching to grid power for steam production today would lead to a huge increase in both emissions and cost when compared to continuing to burn fossil fuel on-site for steam production.
+Adopting zero carbon GlassPoint solar steam production today will reduce emissions by up to 80% immediately, and provide a platform for electrification in the future. The GlassPoint thermal storage system can be charged both thermally and electrically so when utility grids eventually decarbonize, the final 20% of steam production can also be decarbonized.
+
+--------------------------------------------------------------------------------
+
+URL: https://ben.bierman@glasspoint.com/
+
+Solar steam for industry
+Proven technology, deployed at scale
+By harnessing sunshine to produce steam, GlassPoint helps industry leaders reduce their carbon emissions at the lowest possible cost. GlassPoint designed its enclosed trough technology specifically to address the needs of industrial users, especially those operating in remote and harsh environments. Enclosed trough technology has been deployed at scale in multiple projects in California and the Middle East.
+-
+GlassPoint has been delivering solar process steam in commercial quantities since its Amal project went online in 2012. To date, more than 60% of the installed base of solar process steam in the world uses GlassPoint enclosed trough technology.
+-
+Enclosed trough technology requires a fraction of the capital expense to construct, and significantly less cost to operate than alternative solutions. When this is combined with its inherent 600% advantage in energy density, GlassPoint delivers solar process steam at a fraction of the cost of alternative solutions.
+-
+GlassPoint delivers steam to its customers via long term steam supply agreements, reducing the financial impact of decarbonization on its customers, and acting as a hedge against increasingly volatile fuel prices.
+-
+By utilizing proven molten salt storage technology, GlassPoint delivers process steam both day and night.
+RECENT NEWS
+GlassPoint Closes $20M Funding Round to Fuel Global Expansion of Solar Industrial Process Heat
+Immediately reduce carbon emissions by up to 80% without disrupting existing operations.
+Reduce fuel use immediately
+GlassPoint customers typically retain their existing fossil fuel based sources of steam, but operate them at less than full capacity, reducing the amount of fuel used and the amount of CO2 emitted. Solar steam is added to ensure constant steam flow to the process.
+Depending on latitude and local weather conditions, customers can reduce their fuel use between 50% and 80% annually.
+Easy integration
+Enclosed trough technology was designed to deliver steam over a wide range of temperatures and pressures, making it easy to integrate with existing facilities without expensive retrofits and shutdowns.
+The steam specification of the GlassPoint system is set to be the same as the fossil fired steam generators at the site, minimizing the impact on operations.
+Pathway to 100% decarbonization
+Most electric utility grids still use large amounts of fossil fuels to generate their electricity, so switching to grid power for steam production today would lead to a huge increase in both emissions and cost when compared to continuing to burn fossil fuel on-site for steam production.
+Adopting zero carbon GlassPoint solar steam production today will reduce emissions by up to 80% immediately, and provide a platform for electrification in the future. The GlassPoint thermal storage system can be charged both thermally and electrically so when utility grids eventually decarbonize, the final 20% of steam production can also be decarbonized.
+
+--------------------------------------------------------------------------------
+
+URL: https://rod@glasspoint.com/
+
+Solar steam for industry
+Proven technology, deployed at scale
+By harnessing sunshine to produce steam, GlassPoint helps industry leaders reduce their carbon emissions at the lowest possible cost. GlassPoint designed its enclosed trough technology specifically to address the needs of industrial users, especially those operating in remote and harsh environments. Enclosed trough technology has been deployed at scale in multiple projects in California and the Middle East.
+-
+GlassPoint has been delivering solar process steam in commercial quantities since its Amal project went online in 2012. To date, more than 60% of the installed base of solar process steam in the world uses GlassPoint enclosed trough technology.
+-
+Enclosed trough technology requires a fraction of the capital expense to construct, and significantly less cost to operate than alternative solutions. When this is combined with its inherent 600% advantage in energy density, GlassPoint delivers solar process steam at a fraction of the cost of alternative solutions.
+-
+GlassPoint delivers steam to its customers via long term steam supply agreements, reducing the financial impact of decarbonization on its customers, and acting as a hedge against increasingly volatile fuel prices.
+-
+By utilizing proven molten salt storage technology, GlassPoint delivers process steam both day and night.
+RECENT NEWS
+GlassPoint Closes $20M Funding Round to Fuel Global Expansion of Solar Industrial Process Heat
+Immediately reduce carbon emissions by up to 80% without disrupting existing operations.
+Reduce fuel use immediately
+GlassPoint customers typically retain their existing fossil fuel based sources of steam, but operate them at less than full capacity, reducing the amount of fuel used and the amount of CO2 emitted. Solar steam is added to ensure constant steam flow to the process.
+Depending on latitude and local weather conditions, customers can reduce their fuel use between 50% and 80% annually.
+Easy integration
+Enclosed trough technology was designed to deliver steam over a wide range of temperatures and pressures, making it easy to integrate with existing facilities without expensive retrofits and shutdowns.
+The steam specification of the GlassPoint system is set to be the same as the fossil fired steam generators at the site, minimizing the impact on operations.
+Pathway to 100% decarbonization
+Most electric utility grids still use large amounts of fossil fuels to generate their electricity, so switching to grid power for steam production today would lead to a huge increase in both emissions and cost when compared to continuing to burn fossil fuel on-site for steam production.
+Adopting zero carbon GlassPoint solar steam production today will reduce emissions by up to 80% immediately, and provide a platform for electrification in the future. The GlassPoint thermal storage system can be charged both thermally and electrically so when utility grids eventually decarbonize, the final 20% of steam production can also be decarbonized.
+
+--------------------------------------------------------------------------------
+
+URL: https://glasspoint.com/s/Construction_of_an_Enclosed_Trough_EOR_System_in_S.pdf
+
+Energy Procedia 49 ( 2014 ) 1756 – 1765 
+Available online at www.sciencedirect.com
+ScienceDirect
+1876-6102 © 2013 B. Bierman. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license 
+(http://creativecommons.org/licenses/by-nc-nd/3.0/).
+Selection and peer review by the scientiﬁ c conference committee of SolarPACES 2013 under responsibility of PSE AG. 
+Final manuscript published as received without editorial corrections. 
+doi: 10.1016/j.egypro.2014.03.186 
+SolarPACES 2013 
+Construction of an enclosed trough EOR system in South Oman 
+B. Biermana*, J. O’Donnella, R. Burkea, M. McCormicka, W. Lindsayb 
+aGlassPoint Solar, Inc., 46485 Landing Parkway, Fremont, CA 94538 USA 
+bPetroleum Development Oman, P.O. Box 81, Muscat, Sultanate of Oman 
+Abstract 
+Concentrating solar energy systems can serve many applications beyond electric power generation. GlassPoint Solar has 
+introduced an Enclosed Trough solar once -through steam generator (OTSG) system designed for challenging environments and 
+to meet all requirements for solar thermal e nhanced oil recovery (EOR). Parabolic trough collectors are enclosed within a 
+modified agricultural glasshouse, which pr otects the collectors from wind, sand and dust common in oilfield environments, and 
+eliminates energy losses due to wind. Automatic glasshouse washing an d air filtration equipment dramatically reduce soiling and 
+related losses. The once -through boiler process allows the use of feedwater with total dissolved solids as high as 30,000 ppm 
+while producing 80% quality steam at 100 bar, matching typical EOR specifications. The construction of a 17,280m 2 pilot plant 
+in southern Oman is reviewed. Construction was completed in 11 months, on time and on budget, with zero lost time injuries. 
+This paper reports on the plant design and construction methodologies and measurements of construction labor productivity 
+compared to long term build speed and cost objectives.
+ 
+ 
+© 2013 The Authors. Published by Elsevier Ltd. 
+Selection and peer review by the scientific conference committee of SolarPACES 2013 under responsibility of PSE AG. 
+Keywords: GlassPoint; EOR; steam; solar thermal; Oman; enhanced oil recovery; Enclosed Trough 
+1. Introduction 
+Concentrating solar energy systems can serve ma ny applications beyond electric power generation. Many 
+industrial processes require thermal energy at temperatures and conditions amenable to solar, if the cost of solar 
+steam can compete with existing fuels without su bsidies. One application of particular interest is solar thermal 
+ 
+ 
+* Corresponding author. Tel.: 1-415-778-2800, x815. 
+E-mail address: ben@glasspoint.com 
+© 2013 B. Bierman. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license 
+(http://creativecommons.org/licenses/by-nc-nd/3.0/).
+Selection and peer review by the scientific conference committee of SolarPACES 2013 under responsibility of PSE AG. 
+Final manuscript published as received without editorial corrections. 
+
+ B. Bierman et al. / Energy Procedia 49 ( 2014 ) 1756 – 1765 1757
+(a) 
+ (b) 
+enhanced oil recovery (EOR), which replaces fuel with sunshine as the energy source of steam for oilfield 
+operations. In thermal EOR, steam is inje cted into an oil reservoir to heat the formation. This improves production 
+rates and amounts, primarily by raising the temperature of the oil-bearing formation and reducing oil viscosity. 
+Heating cubic kilometers of liquid-saturated rock by 100 oC requires very large amounts of primary energy. Solar 
+steam generators can deliver up to 80% of the oilfield steam requirement. A large market opportunity exists if solar 
+energy can deliver steam at costs competitive with natural gas in sunny regions. Current EOR operations worldwide 
+consume over 1.7 billion MMBTU of natural gas each year, with substantial growth forecast [1]. 
+Using solar energy to generate stea m for EOR presents unique challenges for concentrating solar energy. The 
+area for solar collectors is limited. Initial and operating costs must compete with na tural gas. High aerosol levels in 
+dusty oilfield environments cause soiling rates that can re sult in average weekly optical losses as high as 30% or 
+more [2]. Water is often scarce, and what is availab le contains high levels of dissolved solids and other 
+contaminants. Boiler feed water is usually either “produced water” separated from production oil or is pumped from 
+brackish or saline aquifers. As it will be directly injected into the reservoir, water treatment costs must be minimized 
+to achieve acceptable economics. Steam generators are optimized to require the least water treatment infrastructure. 
+GlassPoint Solar has introduced an Enclosed Trough solar once-through steam generator (OTSG) that addresses 
+these challenges and additionally meets the requirements for the EOR application. Am erican Petroleum Institute 
+guidelines RP-11T, recommends design practices for oilfield steam generators. GlassPoint ’s solar OTSG 
+implements these recommendations. A pilot plant was built in a remote desert oil field in southern Oman between 
+January and December of 2012. The GlassPoint plant began generating steam upon completion, and transitioned to 
+full production February 1st 2013, on budget and on sche dule. A separate SolarPACES paper details performance 
+measured during the first 4 months of plant operation. Th e plant has injected over 5000 tons of steam into the 
+reservoir (figure 1a), consistently exceeding contract performance. 
+In sizing future plants to deliver significant fractions of the steam used in typical installations, requiring from 
+6,000 to over 36,000 tons of solar steam per day, it was determined that construction rates would need to exceed 5 
+hectares per week of glasshouse with associated steam systems. This paper will focus on the construction process 
+used and key metrics that would need to be met to achieve the anticipated construction speed and cost targets. 
+2. Technology description 
+Enclosed Trough represents an entirely new approach to the design and construction of concentrating solar 
+collectors. The Enclosed Trough system is protected by a glass-skinned structure, essentially a simplified 
+agricultural greenhouse. The subject plant has a solar field footprint of 17,280 m
+2 with a peak output of over 7 MW 
+thermal. Referring to Figure 1b, lightweight parabolic tr oughs (4) are suspended within the glasshouse (2). The 
+agricultural greenhouse industry has delivered over 30,000 hectares of glasshouse over the last few decades, and 
+they are installed worldwide over a wide range of clima tes. They are available at low cost, and by providing 
+structural support and isolating the solar collectors from wind and moisture, substantially reduce the total cost of the 
+solar energy system. Total material usage in the solar field per unit of steam produced is reduced significantly 
+Figure 1: (a) GlassPoint plant performance, (b) Diagram of Enclosed Trough 
+
+1758 B. Bierman et al. / Energy Procedia 49 ( 2014 ) 1756 – 1765 
+compared to older CSP architectures. Total material usage per m 2 of aperture was compared to the Andasol 1 plant 
+[3], with a reduction from 134 to 40 kg, driven by an 84% reduction in concrete and a 56% reduction in metal. Glass 
+usage was comparable at 12 kg/m 2, but GlassPoint uses lower cost clear, flat glass for glazing, as opposed to 
+Andasol’s curved glass mirrors. GlassPoint’s mirrors are of a lightweight aluminum honeycomb construction. As a 
+result of lower material usage, and competitive conversion efficiency, the Enclosed Trough architecture is expected 
+to offer lower cost per MMBTU of steam output compared with previous solar thermal technologies. 
+Ambient windborne sand, dust and humidity are substantial in many oil field environments. Overnight 
+condensation on dust -laden surfaces results in “mud” and requires wet washing. Dust accumulation rates are high: 
+GlassPoint has observed soiling rates resulting in a 12% per week drop in solar collection between washings at 
+GlassPoint’s plant site in California’s San Joaquin Valley, while Masdar has measured up to 30% decline per week 
+in the UAE. GlassPoint’s glasshouse structure (figure 2) is fitted with an automated roof washing system (1) capable 
+of cleaning the entire roof surface each night while the collecto rs are offline. The majority of wash water is returned 
+in the gutter system and can be recovered for re -use. Dust infiltration is minimized by an air handling unit (6), which 
+provides filtered, dried air at slight overpressure within th e structure in all conditions, including dust or sand storms. 
+These measures have proven effective in delivering consistent energy ou tput in oilfield conditions. The small losses 
+due to roof glass transmission and structural shading ar e more than compensated by the soiling control and wind 
+protection afforded by this architecture. 
+Due to the absence of wind forces acting on the collectors, a lightweight reflector can deliver consistently high 
+optical accuracy. Total weight of the mirror and frame is only 4.2 kg/m 2. The lightweight reflector enables a simple 
+cable drive aiming system. Tracking angle is measured by inclinometers with 0.01 degree accuracy. Dedicated 
+actuators positioned every few meters along each trough reduce collector torsion. Closed loop pointing control 
+delivers less than 0.5 mrad pointing error at hundreds of points within the glasshouse. Pointing accuracy is 
+maintained without regard to wind velocity, as collectors always operate in a zero -wind environment. 
+The low collector weight allows a simple, fully suspended installation of the entire trough system, incorporating a 
+fixed-position receiver and a reflector that pivots about it. Th e fixed receiver allows for a very simple, safe high -
+pressure direct-steam system, free of ball joints or hoses and their costs, safety risks and maintenance requirements. 
+The direct -steam system eliminates other costs and risks of olde r technologies such as heat exchangers and heat 
+transfer fluid conditioning, storage, and fire hazard. A proprietary receiver technology is employed, using a 60mm 
+receiver with an air stable s elective absorber system and glass convection shields (3). The glasshouse structure 
+carries the receivers and troughs. The receivers are suspended from the structure by steel rods (5). The troughs are 
+supported from the receiver tubes using similar rods. These non -rigid links accommodate the daily thermal 
+expansion and contraction of the receivers and troughs while maintaining precision alignment of the optical system. 
+The once-through steam generator (OTSG) boiler process accommodates feedwater with total dissolved solids as 
+high as 30,000 ppm while producing 80% quality steam at 100 bar, matching typical fuel -fired OTSG specifications. 
+Careful attention is given to outlet liquid fraction to avoid precipitating dissolved solids as scale deposits within the 
+evaporator tubes. Even with management of solids concen trations, some scaling inevitabl y occurs due to excursions 
+in water quality or chemistry. The system design incorporates features to enable receiver cleaning by pigging. 
+Figure 2: GlassPoint pilot plant, South Oman 
+
+
+ B. Bierman et al. / Energy Procedia 49 ( 2014 ) 1756 – 1765 1759
+In a typical application, to maintain steam in jection around the clock, solar steam is injected during the day and 
+steam produced by natural gas is injected at night. If the rate of steam injection is held constant, gas consumption is 
+reduced by up to 25%. By injecting more steam during the day and less at night, gas consumption can be reduced up 
+to 80% without the need for costly thermal storage. Th e heating and pressurization of the subterranean reservoir 
+typically transpires over a period of many months, and is not sensitive to the timing of steam injection. Thus, the 
+reservoir itself acts as a primary thermal storage medium. 
+3. Build objectives and strategies 
+The oil and gas industry has three key priorities for oil field development projects. 
+x Safety: Health and safety comes first, requiring compliance with many policies and procedures. 
+x Predictability: projects must be completed on schedule and budget. To illustrate the criticality of 
+adherence to schedule, we can estimate the impact of a one day delay in steam production. A solar plant 
+producing 6000 tons of steam per day at an oil field with a 3:1 Steam to Oil ratio increase s production 
+by 12,600 barrels of oil per day. At June 2013 prices of $100/barrel, the loss caused by a one day delay 
+in output would be in excess of $1.25 million. 
+x Quality: The industry expects documented adherence to established protocols to ensure quality in 
+engineering, design and execution. 
+The project site recently celebrated 600 days and over 200,000 hours of construction and operations effort 
+without a lost time injury (LTI). This safety record was achieved through ri gorous attention to established best 
+practices throughout the product design, project planning, and execution phases . Safety began in the design phase 
+with thorough adherence to hazard analysis and elimination and design for safety procedures. The design eliminates 
+many hazards common in previous solar systems by mini mizing the use of overhead lifting equipment. Lifting 
+hazards were further reduced by designing virtually all components to be handled by workers without mechanical 
+aids (Figure 3). No flammable liquids are used in the plant. The automatic roof washing system allows the roof 
+cleaning to be conducted without the need for work at height. Most maintenance activities are conducted at night 
+when temperatures are lower and the system is no t pressurized. During Construction and Operations,
+ Safety has 
+been a high priority with daily safety discussions and the use of Task Risk Identification Card (TRIC) and Safety 
+Training Observation Program (STOP) cards to reinforce the message to the site team. 
+Many aspects of the design enabled the timely compl etion of the project. The vast majority of the plant 
+components, such as the glasshouse, steam systems, control system and switchgear, were well -proven, reducing 
+schedule risk related to delivery or construction delays of new components. Thorough testing of all elements at 
+GlassPoint’s California test site, and in subsystem factory acceptance tests, ensured components worked as 
+designed. Keeping the project on schedule avoided cost ov erruns related to extending staffing beyond the planned 
+11 months of activity. The continued high reliability has helped to keep Operations and Maintenance costs in check. 
+Oil and gas industry quality standards were maintained throughout the program. D etailed checklists were 
+produced for every assembly and test step in the construction, pre -commissioning and commissioning processes. 
+Figure 3: Lightweight mirror installation, 3 workers, no crane, no work at height 
+
+1760 B. Bierman et al. / Energy Procedia 49 ( 2014 ) 1756 – 1765 
+For example, after external visual inspection, receiver welds were checked by X -ray and borescope with retained 
+films of each weld, followed by hydrostatic testing to a proof pressure of 200 bar. The customer conducted a 
+rigorous pre-start up audit of all quality documentation, procedures an d equipment status with senior representatives 
+from their operations, quality, safety and engineering teams. 
+The project construction presented a unique opportunity to study each phase of the process to develop a labor 
+model for planned large scale deployment of the technology, in excess of one hectare per week, after the work crew 
+has gained more than 2 years’ experience . The large -scale labor model, referred to as the “2016 Model” , included 
+target labor content for each of over 40 task s to be completed, and those tasks were grouped into phases. The 
+primary construction phases proceeded from glasshouse erection, glazing and pressurization, to simultaneous 
+installation of the receiver and trough system inside th e glasshouse, and the modular controls and steam piping 
+outside the glasshouse. Careful record keeping, combin ed with camera surveillance of the site, allowed the labor 
+content of each task to be accurately measured. Data for three sample tasks are discusse d in the results section. 
+Note that productivity is measured as total number of operations divided by total labor hours , and is inclusive of 
+safety training, prep time, cleanup time and any idle time during the work day. In each case, rapid improvement in 
+labor efficiency was observed as the build team grew more familiar with the task , and tools and procedures were 
+perfected. 
+4. Design for constructability 
+Construction of the system presented major challenges. The global expatriate construction workforce available at 
+the site generally has limited proficiency in English, of ten do not share a native language, and have no prior 
+experience with solar technology. The site location in southern Oman is several hundred km by road from any large 
+urban center. Shortages of materials, equipment or supplies during construction would cause delays as materials 
+were procured, often from outside of Oman, and transferre d to the site. Typical elapsed time from material request 
+to fulfillment at the site is two months. As a result, a mi ssing tool, gasket, bolt or lu bricant could delay completion 
+of a task for weeks. The start dates for subsequent depend ent tasks would be postponed as well. As workers at the 
+site would be contracted for months of labor, the consequences would include both schedule slippage and substantial 
+cost overruns. 
+These challenges were addressed in several ways. The glasshouse industry has successfully delivered structures 
+worldwide in thousands of agricultural applications. Over 30,000 hectares of glasshouse have been built, in locations 
+from McMurdo Station in the Antarctic to large numbers of glasshouses found in the Middle East. These structures 
+are often built in remote areas using locally sourced labor, and are sold into a highly competitive and cost sensitive 
+market. Their design has been refined through decades of evolution to ensure quality construction with a minimal 
+amount of specialized equipment and worker training. Once foundations are set, the st ructure is bolted together, 
+then covered with glass supported by aluminum extrusions with polymer seals. Glasshouse construction labor 
+productivity varies. In the United States, construction ty pically proceeds at a rate in excess of 1.25 hectares per 
+week with a crew of 40 working 60 hour weeks. This works out to over 5 square meters of glasshouse per 
+construction labor hour. Projects are often larger than 25 hectares, achieving economies of scale. Based on local 
+labor performance on other benchmark tasks, such as pipeline construction and cable trenching, GlassPoint 
+conservatively set a goal of achieving half this labor productivity after three years of continuous build activity in the 
+region.
+ 
+Based on experience at remote sites, the glasshouse industry has also established practice s of kitting all required 
+materials and tools, and minimizing reliance on tools, supplies, or hardware sourced by local contractors. This not 
+only eliminates delays and quality issues related to improper materials or equipment, it allows the construction 
+process to be executed in exactly the same manner, regardless of build location. 
+GlassPoint’s receiver and trough assembly , known as the “Solar Package” are the newest portions of the system 
+design. Significant effort was devoted to ensuring the same fast, defect free construction. The systems were 
+designed for rapid, correct assembly, by unskilled workers. Based on repeated design reviews, visual assembly 
+instructions were produced, rich in ph otographs and 3D graphics, with minimal reliance on written communication, 
+as shown in Figure 4a. Multiple test builds were carried out at a test glasshouse in GlassPoint’s facility in Shenzhen, 
+China by non -English-speaking factory staff. Once part quality and assembly speed met targets, a constructability 
+
+ B. Bierman et al. / Energy Procedia 49 ( 2014 ) 1756 – 1765 1761
+review was held at GlassPoint’s test site near Bakersfield, California. In a 3 day period, 80 meters of receiver, 
+troughs and controls were installed by a team with no prior knowledge of the system design. The review was 
+attended by representatives of the customer and more importantly, the Omani construction contractor. The effort not 
+only validated the design and procedures, it allowed the at tendees from Oman to clearly visualize each step and 
+identify and proactively resolve any potential issues. Doze ns of small projects were launched to address valuable 
+learning. For instance, component packaging changes we re made to reduce unpacking labor, and nut plates and 
+captive nuts replaced loose hardware. As with the glasshous e, every required part, tool or supply needed to complete 
+a task was kitted together, so that a crew could quickly obtain the supplies they needed for a shift and get to work, 
+rather than hunting for missing items. 
+Specialized fixtures and tooling were developed to for rapi d accurate installation of the so lar package. Aids were 
+developed for nearly every step of the operation. Lifting fixtures, receiver weld alignment fixtures, carts to allow 
+easy movement of the mirrors through the glasshouse, and simple tools to laser-align the receiver tubes, all 
+contributed to build speed and quality (Figure 4b). 
+ The design and execution plan focused on minimizing work at site, especially work with novel systems and 
+technologies. Subsystems such as the roof washer, air handler, controls and steam handling equipment were 
+completely built and tested at specialized facilities, then con tainerized and transported to site (figure 5). The system 
+control room was staged with the steam handling skids for in tegrated testing in the US before shipment to site. Pre-
+shipment acceptance testing of roof washing and air ha ndling equipment was carried out in Europe. The control 
+room and the air handler arrived as pre-packaged con tainerized modules. The steam handling equipment was 
+delivered on skids that were shipped to site in standard containers. The balance of the exterior system elements, 
+including cables, switchgear, water and steam lines used common oilfield EOR components. The construction team 
+was able to handle this part of the project with minimal training or tooling. 
+(a) 
+ (b) 
+Figure 4: (a) Highly visual assembly documentation, (b) Receiver Weld Fixture and simple lift fixtures. 30m sections of receiver were welded 
+and then hoisted into position and attached to overhead hangers 
+
+1762 B. Bierman et al. / Energy Procedia 49 ( 2014 ) 1756 – 1765 
+5. Results 
+Construction was completed on schedule during an 11 month pe riod. In several instance s, material deliveries to 
+the site were delayed by either late shipments or longer than planned transit times. As the plan was conservative, the 
+local construction team was able to maintain schedule despite these delays (Figure 6). 
+Figure 5: Containerized modules—(a) Control Container; (b)Air Handler with field assembled filter baghouse; (c) Positive displacement pump 
+skid; (d) Separator/valve/instrumentation skid 
+(a) 
+ (b) 
+(c) 
+ (d) 
+
+ B. Bierman et al. / Energy Procedia 49 ( 2014 ) 1756 – 1765 1763
+Construction began on January 17th, 2012 with surveying of the foundations. Next, a specialized rig drilled holes 
+in the leveled site provided by the cu stomer. Steel bases were set in the holes for the roughly 500 columns, and 
+concrete was poured to secure them in place. The column s and roof trusses were installed, and then the roofing 
+system of aluminum extrusions and glass was set in place. The roof was immediately covered with a chalk solution. 
+The resulting white surface helped reduce daytime heating of the glasshouse interior. Work paused to allow for 
+trenching and installation of pow er and control cables for the solar aiming system, and installation of the overhead 
+receiver suspension and mirror aiming drives. Finally, th e walls were glazed to create a pressurized environment. 
+At this point, in late July, the glasshouse was complete. 
+For each step in the glasshouse build process, a rapi d improvement in labor productivity was observed as the 
+build team became more familiar with the task and tools. In many cases, the local contractor found ways to re-
+organize the work for greater efficiency. As the glasshouse was quite small by agricultural standards, a decision was 
+made to work with locally available scissor and forklift s, instead of importing specialized equipment normally used 
+in the glasshouse industry. Adjusting for these factors, glasshouse construction productivity met expectations. In 
+future projects at greater scale, tas k scheduling can be optimized, teams will have months to perfect their skills at a 
+given task, and will be equipped with specialized machinery that will dramatically reduce the effort associated with 
+erecting columns, installing trusses, and glazing the structure. 
+With an air and water tight glasshouse in place, the air ha ndler was installed to pressurize the structure with clean 
+air. The design objective static test pressure was measured and achieved, ensuring that positive pressure could be 
+maintained in the structure even in windy conditions. To ensure safe temperatures inside the glasshouse, work 
+shifted from days, with ambient temperatures of 40 to 50 degrees C, to nights , with temperatures in the 20’s and 
+30’s. The high reflectivity of the chalked roof significantly improved the effectiveness of lighting. Workers reported 
+higher comfort, and higher productivity was observed, as a result of the lower temperatures. No safety or 
+productivity issues were encountered with night work, and the percentage of night work will likely increase in future 
+projects. 
+ High-Level Schedule: Glasshouse and Solar Field
+PHASE Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+Footings & Foundations
+Erect Structure
+Glaze Roof
+Glaze Walls
+Receiver Hanger
+Soiling Control
+Receiver
+Controls
+Mirror and Mirror Frame
+2012
+Solar Field
+Glasshouse
+Figure 7: Receiver labor productivity 
+Figure 6: Construction timeline 
+
+1764 B. Bierman et al. / Energy Procedia 49 ( 2014 ) 1756 – 1765 
+The interior was then pressure washed with deminer alized water, and the membrane flooring system was 
+installed to isolate the glasshouse environment from the co mpacted soil floor of the glasshouse. The membrane, an 
+engineered two-layer system of fiber reinforced polymer sheeting with flame retardant and UV resistant properties, 
+augmented by a heavy gauge fiber reinforced polyolefin pe rimeter walkway, provided a durable, low cost surface 
+that held up well under foot and light vehicle traffic. Within this clean envelope, the 5m long receivers were 
+unpacked, welded and installed on the overhead hangers. This operation was executed over a 3 week period with 
+rapidly improving technique, eventually exceeding a labor pr oductivity of 0.2 units per labor hour (Figure 7). Little 
+incremental work must be done to ensure achievement of the 0.25 unit per hour model goal for large scale 
+deployments. An additional opportunity exists to dramatically reduce the number of welds by manufacturing 10m 
+long receivers in the future, reducing the number of welds to be completed and inspected by half. 
+The mirror frames pivot around the receiver pipe on bearings that are part of the receiver assembly. Hanger rods 
+were installed, followed by the mirror frames. As mirror frames were completed in each row, the aiming drives 
+were installed and powered up, and each 10m section of mirror frame was moved through its full range of motion. 
+The 2016 labor model set a goal of 1.07 drives aligned per labor hour. This objective was met after three nights of 
+work. At completion of the effort, productivity exceeded the goal by a wide margin (Figure 8a). 
+After control functionality was verified, the main trough mirrors were installed. A cart allowed two workers to 
+move up to 24 mirrors at a time to the current work zo ne. Then, three workers would place the mirrors on the 
+frames and secure them. The mirrors weigh between 18 an d 28 kg and are easily handled without mechanical aids. 
+The installation rate increased quickly to approximately 80% of the model rate and stabilized at about 1.3 per labor 
+hour (Figure 8b). The gap to model was studied and a variety of small design and procedural improvements were 
+identified to ensure that the long term model goal would be met. 
+The steam handling and balance of plant installation was completed concurrently with the solar field and was 
+operational by the time that the solar field was complete; space constraints prevent a more detailed discussion. 
+Commissioning of the integrated system was completed on December 11
+th, and on December 12 th, 2012 the system 
+produced steam for the first time. Over the following month, many system failures were simulated to ensure a safe 
+shutdown in all eventualities, including power failures, water leaks, motor failures, loss of water supply and many 
+other scenarios. By January 24
+th 2013, all integrated system commissioning was completed, and operational testing 
+began. The first phase of acceptance testing, in which peak performance was measured, was completed in three 
+days, exceeding specification on each day of the test. Th e one-year operating test is now under way and has been 
+successful to date. The results of this testing are reviewed in a separate SolarPACES paper. 
+With steam production performance meeting expectations, focus shifted to smoothly integrating the solar steam 
+into the daily field operations. Solar steam was injected directly into a production steam header charged at 88 to 100 
+bar by the customer’s gas fired steam generators. No issues were encountered with this hybrid operation. 
+(a) 
+ 
+(b) 
+ 
+Figure 8: (a) Aiming drive labor productivity, (b) Main mirror installation productivity 
+
+ B. Bierman et al. / Energy Procedia 49 ( 2014 ) 1756 – 1765 1765
+One objective was to confirm the viability of a variable r ate steaming strategy for this field. While variable rate 
+steaming is used in EOR, the most common approach when using fuel fir ed OTSG’s is to run at a constant rate over 
+the course of the day. Since solar thermal production rates vary with the av ailable solar energy, the highest solar 
+fraction is achieved when injection r ates are allowed to increase during the day and drop to a lower rate at night. 
+Over many weeks of testing, with solar steam increasing injec tion rates by up to 50%, no issues were encountered. 
+It was necessary to adjust injection flow control valves to accommodate the higher daytime injection rates. An 
+injection network optimized for solar would accomplish this with remotely controlled motor operated valves . Such 
+designs are already common in the industry to give operators better control and more flexibility in how the steam is 
+delivered to various wells. 
+6. Conclusions 
+The construction of the solar EOR pilot plant met project objectives for safety, schedule, quality, and cost. The 
+project validated GlassPoint’s future project construction cost model, and proved that variable -rate solar steam could 
+be smoothly integrated with fuel fired steam generators. 
+x Construction and initial operation was completed with zero lost time injuries 
+x Pre-deployment testing succeeded in minimizing delays and costs related to field learning 
+x The project was completed on schedule and has met or exceeded all contractual performance commitments. 
+x Careful measurement of construction labor productivity indicates GlassPoint’s modeled labor costs for high 
+volume construction are achievable. 
+x The project cost met projections 
+x No significant issues were encountered integrating solar steam with the existing oil field EOR operation. Daily 
+increases in steam injection flow as high as 50% were successfully demonstrated. 
+Monitoring of plant performance continues. GlassPoint is currently working on minor design and procedural 
+improvements, based on the over one hundred lessons learned that were recorded during the pilot construction. This 
+will ensure that future systems can be built at the required rate and at target cost. 
+References 
+[1] Moritis, G. Special report, EOR/heavy oil survey, Oil and Gas Journal, vol. 108, no. 14, 2010. 
+[2] Tahboub, Dahleh, and Goebel. Solar mirrors soiling campaign--Abu Dhabi, SolarPACES , 2012. 
+[3] Viebahn, P., Kronshage, S., Trieb, F., and Lechon, Y. Final report on technical data, costs, and life cycle inventories of solar thermal power 
+plants, New Energy Externalities Developments for Sustainability (NEEDS), 2008.Externalities Developments for Sustainability (NEEDS), 
+2008. 
+[4] Lupfert, E., Geyer, M., Schiel, W., Esteban, A., Osuna, R., Zarza, E. aand Nava, P. Eurotrough design issues and prototype testing at PSA, in 
+Solar Energy: The Power to Choose, Washington, DC, 2001.
+
+--------------------------------------------------------------------------------
+
+URL: https://glasspoint.com/s/Deploying-Enclosed-Trough-for-Thermal-EOR-at-Commercial-Scale.pdf
+
+Deploying Enclosed Trough for Thermal EOR at 
+Commercial Scale 
+Ben Bierman1, a) Hassan Al-Lawatia2 b) Michael DiFilippo3, c) John O'Donnell4, d) 
+1Cheif Operating Officer, GlassPoint Solar Muscat, PO Box 1501, PC 114, Muscat, Sultanate of Oman 
+2Amal Cluster Project Mgr, Petroleum Development Oman, PO Box 81, PC 100, Muscat, Sultanate of Oman 
+3Consultant, 2803 Woolsey St, Berkeley, CA, USA, +1 510 406 6629 
+4Vice President of Business Development, GlassPoint Solar,47669 Fremont Blvd, Fremont, CA, USA 
+ 
+a)Ben@GlassPoint.com 
+b)Hassan.DM.Lawatia@PDO.co.com 
+c)difilippo.consulting@gmail.com 
+d)John@GlassPoint.com 
+Abstract. Solar energy, in the form of enclosed trough direct stea m generation, is now being deployed at scale to supply 
+a portion of the energy demand for thermal enhanced oil recovery in Amal, Oman. Construction of the 1,021 MW 
+Miraah project is well along and progr ess in cost reduction and labor productiv ity are evaluated. Results from the 
+successful Manufacturing Verification Test and the Miraah Solar Steam Generator Project are presented and discussed. 
+The Miraah data shows substantial reductions in material usage as a result of improved designs, increases in construction 
+speed, and reductions in labor per unit of construction with deployment of enhanced tooling. 
+INTRODUCTION 
+The global oil and gas industry consumes over 2,800 TW h of thermal energy each y ear [1] in producing the 
+world’s supply of fossil fuels. The reservoirs of easily extracted light oil have been heavily depleted; two thirds of 
+the remaining oil in place is heavy oil, which requires heating of the reservoirs to reduce oil viscosity and allow the 
+oil to be pumped to the surface. Use of this process, k n o w n a s T h e r m a l E n h a n c e d O i l R e c o v e r y ( E O R ) , i s 
+increasing, increasing the energy intensity of oil production and total energy demands of the industry. Steam 
+injection, the dominant approach in thermal EOR, requires very large amounts of thermal energy, with boiler 
+capacity at each field typically of gigawatt (GW) scale. So lar energy, in the form of enclosed trough direct steam 
+generation, is now being deployed at scale to supply a portion of this energy demand, lowering production costs and 
+dramatically reducing the carbon intensity of the extraction process. Enclosed trough technology was selected for its 
+low capital cost, low land usage, high reliability and automated cleaning in high wind, high dust environments. 
+ 
+In 2012, Petroleum Development Oman (PDO) deployed enclosed trough technology in a 7MWT pilot to 
+generate steam for EOR at its oilfield in Amal, Oman [2,3 ]. The pilot plant has now completed over four years of 
+daily oilfield operations. Initially operated by GlassPoint So lar, the plant has been operated by PDO since 2015[4]. 
+The pilot’s proof of performance, reliability and low operati ng costs led to a follow-on project at the same remote 
+desert location. The 1021MWT (1GWT) “Miraah” Project will deliver 6,000 tonnes of steam per day (1.4 TWH/yr) 
+and began construction in late 2015. The project is cu rrently in construction. Over 300,000 m2 of collector 
+enclosures are in place as of July 2017, with active construction over an area of nearly one square kilometer. 
+ 
+This paper reviews the reductions in material and constr uction costs achieved to date. Target construction rates 
+exceeding 1,500 m2 per day have been demonstrated. Construction has proceeded on schedule despite extreme 
+weather conditions including persistent high winds, dust storms, and high ambient temperatures. On-site 
+SolarP ACES 2017
+AIP Conf. Proc. 2033, 030002-1–030002-9; https://doi.org/10.1063/1.5067018
+Published by AIP Publishing. 978-0-7354-1757-1/$30.00
+030002-1
+
+manufacturing of the lightweight parabolic trough structure has dramatically reduced materials and shipping costs. 
+Simple, lightweight components designed for easy assembly, along with deployment of low cost tooling for various 
+construction operations, have been key drivers of labo r efficiency. Improvements in soiling control equipment 
+include a second-generation greenhouse , faster automatic roof washing with reduced water usage, and improved 
+flooring methods. The partnership between GlassPoint Solar and its customer PDO has improved sourcing and 
+construction efficiency while meeting rigorous Oil and Gas industry standards for design, construction, operational 
+safety, and reliability. 
+ 
+Thermal EOR involves in jecting steam into reservoirs at pressures from 40 to 120 bar. Occasionally, for deep, 
+high pressure, reservoirs, pressures as high as 175 bar may be used. To reduce the size of transmission lines, and 
+account for transmission losses, most oilf ield steam is specified to leave the boiler flange at ap proximately 100 or 
+134 bar. At these pressures, an equi valent mass of steam, with higher speci fic enthalpy, can move through smaller 
+transmission lines over long distances. For the Miraah project, outlet pressure is specified at 107 bar to maintain 95 
+bar pressure at the end of a 2.5km steam export line. 
+ 
+Supplying boiler feed water for thermal EOR at reasonable cost is a challenge, as the water produced from the 
+oil-bearing formation is mixed with oil, solids, and dissolved minerals. Water separated from oil (“produced water”) 
+or water from saline aquifers is commonly used. To miti gate treatment costs, water is softened rather than 
+demineralized. Hardness is removed to <1 mg/LCaCO3. If necessary, oxygen is reduced to <10 ppb using oxygen 
+scavengers. pH typically is maintained in a range to prev ent corrosion. While there is no published limit for Total 
+Dissolved Solids (TDS) in steam ge nerator feedwater, the American Petroleum Institute (API) Recommended 
+Practice 11T for Installation and Operation of Wet Steam Generators recommends 60,000 PPM as the upper limit. 
+Levels above 15,000 PPM are rarely seen, in part because softening becomes more difficult at higher levels of TDS. 
+Note that these contamination levels are many orders of magnitude higher than in any other solar application. 
+ 
+To put this in perspective, a single evaporator loop in the Miraah plant produces over 13,000 tonnes of steam per 
+annum. This quantity of the 8000-ppm water available at Amal would contain over 100 tonnes of salt, passing 
+through a receiver with a 48mm inside diameter. To avoid accumulations of solids, it is essential that the boiler exit 
+vapor fraction or “steam quality” is limited, such that the solids in the liquid fraction never reach a concentration in 
+excess of the solubility limit and begin depositing on the t ube walls. Depending on feedwater contamination levels 
+at a given field, the quality limit may be set as low as 60%, or as high as 80% for all boilers, whether fuel-fired or 
+solar. The Miraah plant operates at 80% quality. Above this level, concentration of solids becomes unacceptable. 
+ 
+Even with good operating practices, small amounts of solids inevitably accumulate in the evaporator tubes of all 
+oilfield boilers. These are periodica lly removed with hydraulic pigs. GlassP oint’s Solar Steam Generators (SSGs) 
+boiler tubes (receivers) are of carbon steel all-welded construction with long-radius bends and fixed positions, as in 
+conventional oilfield boiler practice 1. This design eliminates the safety hazards and maintenance problems – ball 
+joints and flexible connections – requ ired by the moving receivers in older trough designs, and allows for routine 
+pigging. The high feedwater salt conc entration requires that all wetted surfaces be composed of carbon steel, as 
+austenitic stainless alloys are susceptible to stress corros ion cracking when exposed to chloride concentrations >100 
+ppm. Where hydraulic pigging is not an op tion, “acidizing” is often raised as an alternative. In practice, the use of 
+acid treatments for oilfield boiler scaling is rare or non-existent, as the cost of acidization would be considerably 
+higher than hydraulic pigging and presents safety issues. Managing the large quantities of hazardous chemicals, 
+such as hydrochloric acid, to high oil and gas safety standards is challenging, as is safe disposal of the acid mixture. 
+The ball joints required in older trough designs pose safety concerns, and are particular ly susceptible to corrosion 
+damage. Careful monitoring of the circulating fluids by a trained chemical technician is required to avoid dissolving 
+the boiler tubes, and degraded boiler tube lifetime would be expected. 
+ 
+Some oilfield operators choose to use 100% quality or “ d r y ” s t e a m f o r t h e r m a l E O R . T h i s s i m p l i f i e s s t e a m 
+distribution, but increases operating costs and lowers boiler efficiency. Wet steam from the boiler at 60-80% quality 
+is directed to a cyclonic separator, and the dry steam is fed to the reservoir, while the liquid fraction is often directed 
+to a heat exchanger to heat the incoming feedwater. The resulting 120-180 qC water has solids concentration 4 to 5 
+times higher than the feedwater, and must be disposed of carefully or treated by distillation for reuse. 
+ 
+1 Once-Through Steam Generator (OTSG) and Heat Recovery Steam Generator (HRSG). 
+030002-2
+
+GLASSPOINT ENCLOSED TROUGH 
+The GlassPoint Enclosed Trough SSG was developed for thermal EOR operations. As with conventional oilfield 
+boiler systems, it is a direct steam boile r of carbon steel construction. Parabolic troughs with an aperture of 7.64m 
+are placed on 8m centers and focused on an all-welded receiver assembly, 61mm in diameter. All collectors are 
+enclosed within a greenhouse, a structure similar to those used by the agricultural industry, that protects the mirrors 
+from wind, dust and moisture, and provides for automatic washing with full recapture of the washing fluid. The 
+greenhouse also serves as the foundation and support st ructure for the sola r collectors. The mirrors and receiver 
+pipes are suspended from the greenho use ceiling and controlled by small positioning systems. Each 180m row of 
+greenhouse contains 177m of mirror, resulting in a mirror ground coverage ratio over 93%. The high ground 
+coverage ratio results in significant increases in annual steam production per unit of land versus older solar thermal 
+designs. 
+ 
+ 
+FIGURE 1. Greenhouse cross section from ray trace model 
+Cost 
+As with all solar technologies, the economic analysis of solar steam is based on its Levelized Cost of Energy 
+(LCOE) compared to fossil fuel ed alternatives. Over the life of the plant, operating and maintenance costs are far 
+lower than conventional fuel-fired boilers due to the elimina tion of fuel use. As a result, capital investment per unit 
+of energy output is the principal driver of LCOE. 
+ 
+In calculating the capital investment, it is important that al l costs be accounted for. It is common to find LCOE 
+calculations in the literature which limit considerations only to material costs, or material and labor costs, especially 
+in engineering and technical analysis of various design options. Fully representative plant pricing models should 
+consider the following factors at a minimum. 
+ 
+x Direct project cost: For any system used for EOR, project costs must in clude provisions for the customer 
+requirements for design and construction to demandi ng oil and gas industry standards for safety, quality, 
+and reliability, as well as the required support of local economic development using local content, even 
+when this results in slightly higher costs. Direct project costs include: 
+o All engineering costs, including all required customer and regulatory reviews, complete 
+construction drawing and documentation packages with data sheets and inspection test plans for 
+each component, capture of field redlines, and back d r a f t i n g t o c r e a t e a f i n a l a s - b u i l t p a c k a g e . 
+This scope also includes production of plan t operating manuals, spares and maintenance 
+management systems, and comprehensive training plans for client operations and maintenance 
+personnel. 
+o Project management, including Engineering, Procurement, Safety, Construction, Project Controls, 
+Commissioning and Operations, and Quality 
+o Logistics and shipping costs for all materials to the project site. 
+o All solar collector field material costs, incl uding mirrors, receivers, structures, aiming, and 
+cleaning systems, including one year of spare parts. 
+030002-3
+
+o All balance of plant costs, including: 
+ Electrical - High voltage (12kV to 38kV) switch gear, transformers, low voltage (415-
+480V) switch gear properly housed in a i r - c o n d i t i o n e d b u i l d i n g s , a n d l o c a l A C 
+distribution boards across the project site, as well as all power distribution wiring, 
+including site-wide grounding grid. 
+ Piping & Mechanical – All plant piping from water supply at the plant boundary to 
+export steam at the plant bound ary, including all control, isolation and relief valves, 
+pumps, separators, blowdown pits, etc. Miraah includes an RO plant to produce wash 
+water and an N2 plant to blanket the feed water storage tank. 
+ Instrumentation and Controls – All required process measurements and controls, as well 
+as air conditioned accommodations for operators with approved toilet, pantry, rest and 
+prayer facilities. 
+ Telecommunications – Intertie network to a customer field control room, phone service 
+between the site and the control room, and local networks between the plant controller 
+and all distributed control or smart devices. 
+ Fire detection and suppression per client standards. 
+ Commissioning and operational spares, including provision of air conditioned or shaded 
+spares storage where needed. 
+o All construction costs, including: 
+ Direct construction labor including site accommodations for up to 400 people, with their 
+required visas, and travel expenses 
+ Construction management, subcontractor travel for construction supervision, training and 
+commissioning 
+ Bulk materials, including concrete, rebar, gravel, etc. 
+ Safety and Quality management and costs 
+ Construction equipment with certified operators, rental offices, rest areas, canteens, etc., 
+all compliant with client standards and local regulations 
+o Taxes and duties as applicable throughout the supply chain 
+x One year operating costs after co mpletion of all commissioning work, including staffing, services, 
+transportation, etc. 
+x All required overheads, including 
+o Selling, General and Administrative expenses 
+o Research and Development costs to support continuous improvement in plant performance while 
+reducing cost, as well as development of configurations to serve new applications 
+x Reasonable profit for sustainable business and growth 
+ 
+It is important that all of the above are considered wh en calculating project pricing. M o s t o f t h e s e c o s t s a r e 
+driven by, and scale with, the cost of the solar field, the balance of plant, and the construction costs. Thus, cost 
+reduction efforts can be focused in these three areas. 
+ 
+Scale effects are significant. Economies of scale ac crue from spreading one-time engineering, project 
+management and procurement expenses across a larger project. Higher procurement volumes allow negotiation of 
+lower material costs, as well as allowing investments in tooling and manufacturing techniques that are only cost-
+effective at high volumes. GlassPoint’s experience has shown that these factors alone account for a 10% reduction 
+in cost as project size increases from 100 to 300 MWt. 
+Product Development Drives Cost Reduction 
+The Miraah solar field is similar to t h e p i l o t b u i l t i n 2 0 1 2 , b u t v i r t u a l l y e v e r y f a c e t o f t h e d e s i g n h a s b e e n 
+improved to reduce materials, construction and operating cost, increase specific outp ut, and improve already high 
+reliability and serviceability. The design changes had to be conducted in a way that minimized risk and ensured that 
+any new, unanticipated problems would be identified and resolved prior to field deployment, whether such problems 
+arose in the manufacturing, shipping, installation, performance, or reliability of the new equipment. 
+ 
+030002-4
+
+Achieving significant cost reduction often requires significant design changes; scale alone could not support the 
+target cost reductions for Miraah. For instance, in th e mirror support and aiming systems, the 36-fold increase in 
+volume between the pilot and the early construction years of the Miraah project would allow 10% to 20% cost 
+reductions without design change, but evolutionary design changes allowed many subsystems to be cost reduced by 
+over 50%. 
+ 
+As labor is a key cost element in component manufacturing and plant construction, industrial engineering 
+methods have been integrated into all product and tooling design. Approaches are evaluated and adjusted to first 
+and foremost ensure the safety and ergonomics of each operatio n. Next, labor produc tivity is evaluated and 
+improvements are developed in component design, tooling, fixturing, training and quality assurance processes. A 
+goal was set for construction operations to complete each step for one 180m row in an 8-hour work shift. This goal 
+was achieved as construction proceeded; efforts then focused on achieving hi gher build rates while simultaneously 
+reducing the number of workers assigned to each operation. 
+ 
+GlassPoint uses a phase-gate process for the release of new or improved designs. New solutions go through a 
+Concept and Feasibility stage where small scale lab tests quic kly screen new ideas. Viable solutions are moved to a 
+Prototype phase where full scale working prototypes are lab tested. Refined designs go through an Engineering 
+Verification Test, where components are deployed to the field for testing in small volumes and performance and 
+reliability are confirmed. Finally, a Manufacturing Verification Test (MVT ) is conducted at full scale with 
+significant volume, to ensure that parts produced on production tooling match the performance and reliability of 
+engineering prototypes, and that the packaging, installation tooling, quality checklists, and other details are finalized. 
+Out of an extended pipeline of design and sourcing improvements, only design changes ready for MVT in mid-2015 
+were considered for the Miraah project. Less mature concepts are road-mapped for future release. 
+ 
+The first new iteration of the design was to be deployed across 432 rows of greenhouse and collector. The total 
+greenhouse footprint for these collectors is approximately 622,000 m2. To conduct an adequate MVT, a full row of 
+greenhouse and collector was added to the existing Solar Steam Generator Pilot (SSGP) in Amal. Steam from one 
+row of the existing plant was rerouted to allow the MVT to provide the final pass of the direct steam process at 
+approximately 110 bar and 300qC, with peak steam flows of approximately 7 tons per hour. The plant started in this 
+new configuration in June of 2016 and has operated routinely since. Construction and operation of this 1440 m2 
+structure allowed sufficient scale to verify construc tion labor estimates, performance, and reliability. Lessons 
+learned were recorded, and minor design, packaging, tooling, and construction process improvements were 
+identified prior to the final production release of materials for the Miraah project. 
+Selected Design Improvements 
+A structured process was utilized to capture and prioritize lessons learned from construction and operation of the 
+pilot plant. These led to a large number of design improvement projects. 
+ 
+As the mirrors operate in a controlled, wind free, environment, design efforts focused on minimizing the mass of 
+the mirror structure. The mass of aluminum used to form the front and back sheets of the composite mirror itself was 
+reduced by 18%, from 550 to 450 microns thick. GlassPoint’s inline metrology system for mirrors uses machine 
+vision to evaluate aiming accuracy. In figure 2, mirror performance before and after the reduction in material usage 
+are compared for 2,500 mirrors or approximately 25,000 m2 of reflector. 
+ 
+GlassPoint’s figure of merit (Fig. 2) calculates the percentage of the sun’s reflected rays that would strike the 
+receiver, assuming a properly positioned and aimed reflector. As a result of a large number of improvements to the 
+mirror manufacturing process, mirror precision improved despite the reduction in mirror face material mass to about 
+1.2 kg/m2. 
+030002-5
+
+ 
+FIGURE 2. Mirror thickness reduction qualification data 
+ 
+Reflector support structure cost was reduced by replacing the previous hydraulically formed and hinged ribs with 
+a rigid space frame designed for field fabr ication. Figure 3 compares the previous design to the current structure 
+configuration. Analysis showed that savings from elim inating the hinged section more than compensated for the 
+cost of increasing greenhouse interior height to accommodate the monolithic structure. 
+ 
+ 
+FIGURE 3. Mirror structure and aiming system evolution 
+ 
+Structural aluminum usage per m2 of aperture was re duced 30% from 1.14 to 0.8 kilograms. At current 
+prevailing extrusion costs of approximately $3.00 (USD) per kg, the mirror structure materials now cost $2.40 per 
+m2. Finite element analysis s h o w e d t h e n e w , monolithic space frame structure was five times stiffer than the 
+previous design. The switch from offsite to on-site manufacturing reduced the number of shipping containers 
+Pilot Configuration 
+ Miraah Configuration 
+030002-6
+
+required for collector structure by more than 50%. The construction costs of a temporary factory were avoided, as 
+careful review of the construction schedule and night-time in terior temperatures showed that the greenhouse interior 
+could be used for this operation. Thus, the incremental cost of shifting the operation on-site is limited to differences 
+in labor rates. 
+ 
+The resulting reduction in weight and improvements in stiffness of the mirror assembly enabled a new aiming 
+drive system that reduced installation and maintenance costs associated with the previously used overhead pulleys. 
+The new design uses 33% fewer motors to position each 180m row of mirrors, paired with an absolute inclinometer 
+to control aiming with a precision of 0.01 degrees or 0.2 milliradians. The 33% reduction in motor count, combined 
+with increased manufacturing volume and simplifications to c a b l e s t h a t c o n n e c t t h e m i r r o r s t o t h e m o t o r s , h a v e 
+resulted in a total cost reductions in the aiming system of over 60%. Note that all of the savings listed, in mirror, rib 
+and aiming drive materials, are attributable to the support and protection from wind and dust provided by the 
+greenhouse enclosure. 
+Construction Conditions 
+Site conditions in Amal, Oman present significant challenges. Figure 4 shows the wind data from a typical year 
+weighted by the available solar energy. Approximately 30 % of the energy is delivered at times when the wind 
+ranges between 8 and 16 m/s (29-58 km/hr). Construction work is typically limited when wind speeds exceed 30 
+km/hr due to concerns about blowing dust and sand, and difficulty handling materials, although steam generator 
+operation is unaffected by these conditions. 
+ 
+Figure 5 shows the average high and low temperatures measured at the site for each month. The highest 
+temperature measured was 45qC. In the summer months, work hours are shifted to avoid the hottest portions of the 
+day. The impact of the summer heat was mitigated by using night shifts for solar collector construction, with peak 
+night shift temperatures usually remaining below 35qC. 
+ 
+ 
+FIGURE 4. Amal solar-rated wind rose 
+030002-7
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 5. Amal average monthly temperature extremes 
+Labor Reductions 
+During construction, labor productivity for each construction operation was caref ully monitored. This data was 
+then normalized to labor hours per m2 of greenhouse footprint. Due to the high ground coverage ratio, this metric is 
+sufficiently close to the labor hours per m2 of collector aperture. 
+ 
+Construction began with minimal special tooling. Additional equipment was delivered and developed over the 
+course of the project. In addition to tools and fixtures, specialized tooling included el ectric tugs and trailers to 
+facilitate material movement through the greenhouse, permanent m obile scaffolds to facilitate each task performed 
+at height, and improved lighting for night work. 
+ 
+An example of the effectiveness of th e improvements is shown in fig. 6. Installation of Mirrors and Receivers 
+initially took over 0.6 labor hours per m2 of greenhouse. A s t h e n u m b e r o f c u m u l a t i v e r o w s i n s t a l l e d g r e w , 
+proficiency increases and specialized tooling reduced this to less than 0.2 hours. 
+ 
+Improvements continue to increase productivity and subs tantial improvements are anticipated as the number of 
+rows installed climbs into the hundreds. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 6. Solar equipment install labor 
+ ‐
+ 5
+ 10
+ 15
+ 20
+ 25
+ 30
+ 35
+ 40
+ 45
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Jan
+°Celsius
+Monthly Average
+Ambient Temperature
+High Low
+0,00
+0,10
+0,20
+0,30
+0,40
+0,50
+0,60
+0,70
+Rows 1-20 Rows 21-40 Rows 41-60
+Labor Hours per m2
+Solar Equipment Install Trend
+Mirror Install
+Receiver Install
+030002-8
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 7. Total solar field construction labor 
+The results are summarized in the chart above. Greenhouse construction labor was reduced 68% from 1.75 to 
+0.56 hours per m2 of greenhouse. Solar collector installation labor was reduced 35% from 0.85 to 0.55 hours per 
+m2 of greenhouse. As a structured process continues to identify many opportunities for further improvement, labor 
+productivity is forecasted to improve significantly as we complete the Miraah project. 
+ 
+It should also be noted that return on investments in labor reduction is region-dependent. Compared to the 
+relatively low-wage environment for Middle Eastern construction projects, in higher cost regions, such as the United 
+States, different design and construction tradeoffs would be made to further reduce labor at the expense of slightly 
+higher material and tooling costs. 
+CONCLUSIONS 
+Over four years of safe and successful operation, the en closed trough solar steam ge neration pilot has operated 
+using feedwater with a Total Dissolved Solids concentration of 8,000 ppm with energy output and availability above 
+contract requirements, demonstrating the safety and effec tiveness of solar steam generation in real-world oilfield 
+conditions. The GW-scale Miraah plant will operate using th e same feedwater and deliver large-scale reductions in 
+operating costs and carbon emissions at the field. 
+ 
+A structured product development effort has resulted in s ubstantial reductions in material and labor costs. The 
+Miraah data shows increases in construction speed, and reductions in labor per unit of construction. These savings 
+result from deployment of improved designs, enhanced tooling, and growing workforce experience with solar 
+construction. Solar field construction labor costs of approximately $10/m2 have been achieved with an identified 
+path to further reductions for future construction. 
+REFERENCES 
+1. J. Wang, J. O'Donnell, A. Brandt, "Potential solar energy use in the global petroleum sector," in Energy Vol. 
+118 Issue 1 (2017), pp. 884-892. 
+2. B. Bierman, J. O’Donnell, "Construction of an Enclosed Trough EOR System in South Oman," in Energy 
+Procedia Vol 49 (2014), pp. 1756-1765, SolarPACES 2013 
+3. B. Bierman, C. Treynor, "Performance of an Enclosed Trough EOR System in South Oman," in Energy 
+Procedia Vol 49 (2014), pp. 1269-1278, SolarPACES 2013 
+4. D. Palmer, J. O’Donnell, "Construction, Operations and Performance of the First Enclosed Trough Solar 
+Steam Generation Pilot for EOR Applications," 2014 SPE EOR Conference, Muscat, Oman, SPE 169745 
+ -
+ 0,50
+ 1,00
+ 1,50
+ 2,00
+ 2,50
+ 3,00
+2012 Pilot 2017 Actual
+Labor Hours per m2 of 
+Greenhouse
+Amal Construction Labor 
+Productivity 
+030002-9
+
+--------------------------------------------------------------------------------
+
+URL: https://glasspoint.com/s/Performance_of_an_Enclosed_Trough_EOR_System_in_So.pdf
+
+Energy Procedia 49 ( 2014 ) 1269 – 1278 
+Available online at www.sciencedirect.com
+ScienceDirect
+1876-6102 © 2013 B. Bierman. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license 
+(http://creativecommons.org/licenses/by-nc-nd/3.0/).
+Selection and peer review by the scientiﬁ c conference committee of SolarPACES 2013 under responsibility of PSE AG. 
+Final manuscript published as received without editorial corrections. 
+doi: 10.1016/j.egypro.2014.03.136 
+SolarPACES 2013 
+Performance of an enclosed trough EOR system in South Oman 
+B. Biermana*, C. Treynora, J. O’Donnella, M. Lawrencea, M. Chandraa, A. Farvera, 
+P. von Behrensa, W. Lindsayb 
+aGlassPoint Solar, 46485 Landing Parkway, Fremont, CA 94538, USA 
+bPetroleum Development Oman, P.O. Box 81, Muscat, Sultanate of Oman 
+Abstract 
+Concentrating solar energy systems can serve many applications beyond ele ctric power generation. GlassPoint Solar has 
+introduced an Enclosed Trough Once -Through Steam Generator system that is adaptable to challengin g environments and meets 
+all requirements for Solar Thermal Enhanced Oil Recovery (EOR). In this system, troughs are enclosed in a modified agricultural 
+glasshouse. This innovation, when combined with an air filtr ation system and automatic roof washers, dramatically reduces 
+energy losses due to soiling and wind. In addition, the Once -Through design allows the use of feed-water with total dissolved 
+solids as high as 30,000 ppm to produce 80% quality steam at 100 bar, matching typical EOR specifications. Performance during 
+the first four months of production operation is reviewed. A dust storm during the pe riod confirms the efficacy of the glasshouse 
+and roofwasher in minimizing operational impacts of weather phe nomena common in the MENA region. Output is determined 
+to be consistent with the company’s energy yield model. Plant reliability is monitored and 99.8% uptime is measured in the 
+fourth month of operation. 
+ 
+© 
+2013 The Authors. Published by Elsevier Ltd. 
+Selection and peer review by the scientific conference committee of SolarPACES 2013 under responsibility of PSE AG. 
+Keywords: GlassPoint; EOR; steam; solar thermal; Oman; oil; Enclosed Trough 
+1. Introduction 
+Concentrating solar energy systems can serve many ap plications beyond electric power generation. Many 
+industrial processes require thermal energy at temperatures and conditions amenable to solar, if the cost of solar 
+ 
+ 
+* Corresponding author. Tel.: 1-415-778-2800 x815 
+E-mail address: ben@glasspoint.com 
+© 2013 B. Bierman. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license 
+(
+http://creativecommons.org/licenses/by-nc-nd/3.0/).
+Selection and peer review by the scientific conference committee of SolarPACES 2013 under responsibility of PSE AG. 
+Final manuscript published as received without editorial corrections. 
+
+1270 B. Bierman et al. / Energy Procedia 49 ( 2014 ) 1269 – 1278 
+steam can compete with existing fuels without subsidies. One application of particular interest is solar thermal 
+enhanced oil recovery (EOR), which replaces fuel with sunshine as the energy source of steam for oilfield 
+operations. In thermal EOR, steam is injected into an o il reservoir to heat the formation. This improves production 
+rates and amounts, primarily by raising the temperature of the oil-bearing formation and reducing oil viscosity. 
+Heating cubic kilometers of liquid-saturated rock by 100 oC requires very large amounts of primary energy. Solar 
+steam generators can deliver up to 80% of the oilfield steam requirement. A large market opportunity exists if solar 
+energy can deliver steam at costs competitive with natural gas in sunny regions. Current EOR operations worldwide 
+consume over 1.7 billion MMBTU of natural gas each year, with substantial growth forecast [1]. 
+Using solar energy to generate stea m for EOR presents unique challenges for concentrating solar energy. The 
+area for solar collectors is limited. Initial and operating costs must compete with na tural gas. High aerosol levels in 
+dusty oilfield environments cause soiling rates that can resu lt in average weekly optical losses as high as 30% or 
+more [2]. Water is often scarce, and what is availab le contains high levels of dissolved solids and other 
+contaminants. Boiler feedwater is usually either “produced water ” separated from production oil or is pumped from 
+brackish or saline aquifers. As it will be directly injected into th e reservoir, water treatment costs must be minimized 
+to achieve acceptable economics. Steam generators are optimized to require the least water treatment infrastructure. 
+GlassPoint Solar has introduced an Enclosed Trough solar once-throu gh steam generator (OTSG) that addresses 
+these challenges and additionally meets the requirements for the EOR application. Am erican Petroleum Institute 
+guidelines RP-11T , recommends design practices for oilfield stea m generators. GlassPoint’s solar OTSG 
+implements these recommendations. A pilot plant was built in a remote desert oil field in southern Oman between 
+January and December of 2012. The GlassPoint plant began generating steam upon completion, and transitioned to 
+full production February 1st 2013, on budget and on schedu le. During the study period from February 1st to May 
+31st, the GlassPoint Solar EOR pilot wa s in daily operation, injecting a total of over 5000 tons of steam into the 
+reservoir, consistently exceeding contract performance (Figure 1a). 
+2. Technology description 
+ Enclosed Trough represents an entirely new approach to the desi gn and construction of concentrating solar 
+collectors. The Enclosed Trough system is protected by a glass-ski nned structure, essentially a simplified 
+agricultural greenhouse. The subject plant has a solar field footprint of 17,280 m 2 with a peak output of over 7 MW 
+thermal. Referring to Figure 1b, lightweight parabolic tr oughs (4) are suspended with in the glasshouse (2). The 
+agricultural greenhouse industry has delivered over 30,000 hectares of glasshouse over the last few decades, and 
+they are installed worldwide over a wide range of clima tes. They are available at low cost, and by providing 
+structural support and isolating the solar collectors from wind and moisture, substantially reduce the total cost of the 
+solar energy system. Total material usage in the solar field per unit of steam produced is reduced significantly 
+compared to older CSP architectures. Total material usage per m 2 of aperture was compared to the Andasol 1 plant 
+[3], with a reduction from 134 to 40 kg, driven by an 84% reduction in concrete and a 56% reduction in metal. Glass 
+usage was comparable at 12 kg/m 2, but GlassPoint uses lower cost clear, flat glass for glazing, as opposed to 
+(a) (b) 
+Figure 1: (a) GlassPoint plant performance, (b) Diagram of Enclosed Trough 
+
+ B. Bierman et al. / Energy Procedia 49 ( 2014 ) 1269 – 1278 1271
+Andasol’s curved glass mirrors. GlassPoint’s mirrors are of a lightweight aluminum honeycomb construction. As a 
+result of lower material usage, and competitive conv ersion efficiency, the Enclosed Trough architecture is expected 
+to offer lower cost per MMBTU of steam output compared with previous solar thermal technologies. 
+Ambient windborne sand, dust and humidity are subs tantial in many oil field environments. Overnight 
+condensation on dust -laden surfaces results in “mud” and requires wet washing. Dust accumulation rates are high: 
+GlassPoint has observed soiling rates resulting in a 12% per week drop in solar collection between washings at 
+GlassPoint’s plant site in California’s San Joaquin Valle y, while Masdar has measured up to 30% decline per week 
+in the UAE. GlassPoint’s glasshouse structure (figure 2) is fitted with an automated roof washing system (1) 
+capable of cleaning the entire roof surface each night while th e collectors are offline. The majority of wash water is 
+returned in the gutter system and can be recovered for re -use. Dust infiltration is minimized by an air handling unit 
+(6), which provides filtered, dried air at slight overpressu re within the structure in all conditions, including dust or 
+sand storms. These measures have proven effective in delivering consistent energy output in oilfield conditions. The 
+small losses due to roof glass transmission and structural shading are more than compensated by the soiling control 
+and wind protection afforded by this architecture. 
+Due to the absence of wind forces acting on the colle ctors, a lightweight reflector can deliver consistently high 
+optical accuracy. Total weight of the mirror and frame is only 4.2 kg/m 2. The lightweight reflector enables a simple 
+cable drive aiming system. Tracking angle is measured by inclinom eters with 0.01 degree accuracy. Dedicated 
+actuators positioned every few meters along each trough reduce collector torsion. Closed loop pointing control 
+delivers less than 0.5 mrad pointing error at hundreds of points within the glasshouse. Pointing accuracy is 
+maintained without regard to wind velocity, as collectors always operate in a zero-wind environment. 
+The low collector weight allows a simple, fully suspended installation of the entire trough system, incorporating a 
+fixed-position receiver and a reflector that pivots about it. Th e fixed receiver allows for a very simple, safe high -
+pressure direct-steam system, free of ball joints or hoses and their costs, safety risks and maintenance requirements. 
+The direct -steam system eliminates other costs and risks of olde r techn ologies such as heat exchangers and heat 
+transfer fluid conditioning, storage, and fire hazard. A proprietary receiver technology is employed, using a 60mm 
+receiver with an air stable selective ab sorber system and glass convection shields (3). The glasshouse structure 
+carries the receivers and troughs. The receivers are suspended from the structure by steel rods (5). The troughs are 
+supported from the receiver tubes using similar rods. These non -rigid links accommodate the daily thermal 
+expansion and contraction of the receivers and troughs while maintaining precision alignment of the optical system. 
+The once-through steam generator (OTSG) boiler process accommodates feedwater with total dissolved solids as 
+high as 30,000 ppm while producing 80% quality steam at 100 bar, matching typical fuel -fired OTSG specifications. 
+Careful attention is given to outlet liquid fraction to avoid precipitating dissolved solids as scale deposits within the 
+evaporator tubes. Even with management of solids concen trations, some scaling inevitably occurs due to excursions 
+in water quality or chemistry. The system design incorporates features to enable receiver cleaning by pigging. 
+In a typical application, to maintain stea m injection around the clock, solar steam is injected during the day and 
+steam produced by natural gas is injected at night. If the rate of steam injection is held constant, gas consumption is 
+reduced by up to 25%. By injecting more steam during the day and less at night, gas consumption can be reduce d up 
+to 80% without the need for costly thermal storage. Th e heating and pressurization of the subterranean reservoir 
+Figure 2: GlassPoint pilot plant, South Oman 
+
+1272 B. Bierman et al. / Energy Procedia 49 ( 2014 ) 1269 – 1278 
+typically transpires over a period of many months, and is not sensitive to the timing of steam injection. Thus, the 
+reservoir itself acts as a primary thermal storage medium. 
+3. Forecasting performance 
+System performance is measured as tons of steam delivere d to the outlet per day. The subject system has a design 
+peak output of 14.8 tons of steam pe r hour and an average output of 50 to ns of steam per day. An outlet steam 
+separator is used to ensure accurate measurement of saturated steam and condensate production. A performance 
+model is used to forecast output based on measurements of Direct Normal Irradiance (DNI) derived from an on-sit e 
+meteorological station. System output over the study period will be reviewed and compared to forecast 
+performance. 
+GlassPoint uses both optical modeling and thermal mode ling to predict performance. For the optical model, 
+available DNI is measured and expected optical collection is modeled. Optical modeling for the system is 
+complicated by the need to account for the effects of the glass roof and walls, and to calculate shadowing effects 
+from the glasshouse structural elements. A proprietary Mont e Carlo ray tracing program (Figure 3) was developed to 
+characterize the solar field. The solar field —metal structure elements, glass, reflectors, receiver tubes, and recei ver 
+convection shields —is modeled in detail, taking into account both physical location and optical properties: 
+reflection, transmission, and absorption. The model was verified by comparing results to NREL’s ray tracin g 
+program SolTRACE [4] and analytical models, as well as by running special, extreme ca ses. Final verification is 
+based on actual results from operation. 
+The optical model calculates an optical efficiency -- that frac tion of incoming solar energy which is delivered 
+onto and absorbed by the receiver. The thermal model then accounts for energy losses due to radiation, conduction 
+and convection, and calculates the net energy available to heat water and produce steam. 
+The model also includes other variables that affect performance. First, the syste m’s thermal mass and the amount 
+of energy it takes to warm the system to working temper atures must be taken into account. Similarly, the starting 
+water temperature and the final steam quality and pressure determine the resulting steam flow rate for a given input 
+thermal power. For these, measurements are taken at the si te to establish operating parameters. A final key variable 
+is soiling of the glasshouses. In the model, a constant soili ng loss of 2% is used, and has generally provided a good 
+fit to the data. With basic enthalpy calculations, it is possi ble to calculate a mass flow of steam with a particular 
+quality and pressure from the therm al energy and input feedwater temperature and mass flow. Through th is 
+sequence of operations, the model pred icts the start of steam export and the steam output in tons based on the 
+average DNI recorded for each minute of plant operation. 
+Figure 3: Ray trace diagram 
+
+ B. Bierman et al. / Energy Procedia 49 ( 2014 ) 1269 – 1278 1273
+4. Performance benchmarking 
+With the performance model, we can compare forecast plant outp ut to that of the EuroTrough system, whose 
+performance model is publicly available on NREL’s System Advisor Model (SAM). Two assumptions are worthy 
+of comment. First, the SAM model baseline assumptions included 5% soiling on mirrors and 2% average soiling on 
+the receiver envelope. Given the high soiling rates at th e site, very frequent cleaning would be needed to maintain 
+this level of soiling. Second , the EuroTrough design optical loss es increase with wind speed [5], and the project site 
+winds during peak solar production hours are significant. Between the hours of 10 and 3pm, the site weather station 
+reports average peak wind speeds of 25kmph. Figure 2 of [5] suggests that in th ese conditions the Eurotrough output 
+would be reduced by approximately 15% versus the the SAM model due to collecto r twisting. 
+The subject pilot plant was developed in 2011. GlassPoint is currently plann ing construction of a new system in 
+2014 with slightly higher performance, and this is included in the comparison. For a projected aperture area at a 
+zenith angle of 0 o, and DNI of 950 W/m 2, the 2011 plant achieves an peak efficiency of 66%, while the 2014 plant 
+should reach 68%, both with 2% soiling losses, versus the 71.8 % EuroTrough efficiency used in the SAM model. 
+Efficiency is slightly lower than the EuroTrough design, likely as a result of roof structure shadowing, glazing losses 
+and the use of an air-stable selective abso rber coating and non-evacuated receiver (Figure 4a). Note also that since 
+the average operating temperatures of EuroTrough is approximately 100 oC higher than for the EOR application, we 
+can anticipate that the EuroTrough efficiency would be slight ly increased at the lower EOR operating temperature. 
+However, an external heat exchanger would be needed to boil the low grade feedwater using the Heat Transfer Fluid 
+it is designed for, as this system is not designed for the required 200 bar proof pressures or hydraulic pigging. 
+As previously noted, the oil field envir onment is characterized by space constr aints. Typically, existing roads, 
+pipelines and wellheads constrain the available space. Long steam pipelines to remote areas that will not be 
+developed in the future add cost and operational complex ity, while lowering efficiency. Potential future drilling 
+plans further limit siting options for an asset expected to operate for over 25 years. Thus energy yield per unit area is 
+a critical figure of merit. Comparing the Enclosed Troug h solar field, with its 94% ground coverage, to the 
+EuroTrough design with 32% ground coverage assumed (17m spacing) , the Enclosed Trough system has 109% 
+higher annual energy yield per unit area of solar field. Perimeter areas outside the so lar field for the Enclosed 
+Trough system are also significantly sm aller, providing an additional benefit of up to 10% in total energy density 
+(Figure 4b). 
+5. Measuring DNI 
+Accurate DNI measurements are required as inputs to both the performance model and the plant control 
+algorithm. GlassPoint’s pilot plant uses two rotating shadowband radiom eters (Irradiance RSR2 units)— one 
+primary and one redundant —to measure and calculate DNI. To verify the ac curacy of this data, the RSR2 units are 
+periodically tested against a Kipp and Zonen CHP 1 pyrheliometer aimed on a two axis tracker. Comparing the CHP 
+1 pyrheliometer readings with RSR2 read ings, they have been shown to match averaged daily values within 1.0%. 
+(a) (b) 
+Figure 4: (a) Mirror area efficiency, (b) Energy per solar field area 
+
+1274 B. Bierman et al. / Energy Procedia 49 ( 2014 ) 1269 – 1278 
+Work is currently under way to collect and summarize DNI comp arison data at the pilot si te in Oman but so far has 
+shown that the RSR2 is performing well within its specif ied accuracy. The uncertainty for DNI measurements taken 
+with a rotating shadowband unit such as the RSR2 is estimated to be +/- 4.76% with 95% confidence level based on 
+analysis completed at the National Renewable Energy Labs. [6] 
+6. Measuring output 
+GlassPoint utilizes the ASME Performance Test C odes (PTC) as guidance for design, construction, 
+commissioning, and performance evaluations. PTC 46, Overall Plant Performance, is the primary test code. Test 
+boundaries were established accordingly, as shown in Figu re 5a. Test duration is s et at a full operating day to 
+account for startup and shutdown behavior. 
+The primary control interface at the site is a Supervisor y Control and Data Acquisition (SCADA) PC on which all 
+operating data is recorded in one minute intervals. All performance inform ation including process set points, process 
+values, alarms, warnings, error messages, and operator messages are stored on this machine, but data from only six 
+sensors is required for performance evaluation. These sensors were calibra ted during plant commissioning following 
+PTC and industry best practices. GlassPoint analyzes and re views process data daily to make sure the system is 
+operating correctly. Figure 5b shows a simplified schematic of th e steam generation system including the six 
+evaluation sensors. 
+The process flow diagram for the system is simple, as a pump directly press urizes the feedwater, which is boiled 
+in the solar field, then metered from a separator vessel. No heat exchangers or heat transfer fluids are used. The 
+evaluation sensors indicate temperature of feedwater and output s team (Temp 021 and 026), output pressure (Press 
+107), and water and steam flows (056, 057, and 058). The flows are measured by differentia l pressure flow sensing 
+devices that measure pressure drop across a fixed orifice primary element placed in fluid and steam lines. Accuracy 
+of these pressure sensors are +/- 0.4% of the reading. Di fferential pressure is converted to flow rate using a standard 
+equation and was verified by comparison of flows between th ese sensors, and other sensors in the system. As output 
+steam must be maintained at 80 quality (80% vapor and 20% liq uid), the control valve V030 is opened as needed to 
+maintain level in the steam separator vessel when the plant output is at less than 80 qualit y. The excess water is 
+determined by subtracting the flow at DP058 from the total condensate output measured at DP057. 
+7. Actual performance and comparison to model 
+Using 2011 reference year weather data from an onsite weather station, dai ly output in tons of steam was 
+calculated using the GlassPoint performance model (Figure 6a). As can be seen, significant variation in output is 
+expected as a result of variations in the solar day and we ather conditions. Near-zero output days between day 100 
+and 250 are often a result of dust storms. Low output in other periods is associated with cloud cover or haze. 
+(a) 
+ (b) 
+Blow Down 
+Steam 
+ 
+GlassPoint Solar 
+Steam Plant 
+DNI 
+Sun 
+Inlet Water 
+(Temperature) 
+Exported 
+Steam 
+Figure 5: (a) Test boundaries, (b) Simplified schematic 
+
+ B. Bierman et al. / Energy Procedia 49 ( 2014 ) 1269 – 1278 1275
+The project is similar to earlier designs, but was an order of magnitude larger and had many advancements in 
+detail design and controls. As a result, initial performance at system commissioning was expected to be less than 
+model forecast. GlassPoint planned a series of actions to bring plant performance to modeled levels over a period of 
+180 operating days. Performance commitments for the first year of operation were adjusted to allow for these 
+improvement activities. GlassPoint expects the plant to exceed its nominal output targets within the first 180 days of 
+operation. Performance improvement efforts first focused on the tracking algorithm, and ensuring the sun remained 
+focused on the receiver throughout the day. Next, water flow control al gorithms were optimized to maximize the 
+conversion of available energy into exported 80% quality steam, in addition to handling rapid changes in DNI 
+caused by passing clouds. Currently, efforts are focused on fine tuning the shape of the parabolic troughs. After over 
+100 days of operation, the plant is ope rating at an average of mo re than 97% of the theoretical output, exceeding 
+expectations for this stage of operatio n and the performance commitments ma de to the end user. Examination of 
+actual versus modeled performance over the study period sh ows rapid progress, as shown in Figure 6b. Figure 7a 
+shows a comparison between modeled and actual performance for a clea r, cloudless day. 82.7 tons of steam were 
+exported, versus a theoretical output of 84.7 tons. Note th at the output is not symmetrical about noon, as it takes 
+between 40 and 70 minutes each morning to heat the system to its 310 oC operating temperature and establish level in 
+the steam separator drum before steam can be exported to the reservoir at the requisite pressure and quality. Fit to 
+model is slightly better in the morning than the afternoon; this is due in part to the accumulation of soiling on the 
+(a) (b) 
+Figure 6: (a) Daily output forecast, (b) Pilot performance vs. model 
+(b) (a) 
+Figure 7: (a) Clear day, model vs. actual; (b) Typical day, model vs. actual 
+
+1276 B. Bierman et al. / Energy Procedia 49 ( 2014 ) 1269 – 1278 
+glasshouse roof over the course of the day. The roof is washed each night, so transmission through the roof is highest 
+in the morning and decreases over the course of the day. Daily cleaning of at least half of the roof surface is 
+required to maintain average soiling losses at 2% or less. 
+Figure 7b shows performance versus model for a more ty pical day, with scattered clouds passing over the site. 
+This phenomenon presents control challe nges, as feed water flow must be ra pidly reduced, and then increased to 
+match the available energy. Failure to reduce flow as so lar input drops will result in lost output, while failure to 
+rapidly increase flow as solar input increases could result in higher than target steam quality in the lines. This can 
+cause scaling in the evaporator tubes, or in extreme cases, overheating of the tubes and superheating of the steam. 
+To address this problem, a feed forw ard loop modulates water flow to the p lant based on incident DNI and modeled 
+efficiency based on the curren t position of the sun. As a result, output steam quality has been consist ently 
+maintained at the 80% target through rapid variations in available energy. 
+8. Soiling studies 
+GlassPoint has performed preliminary soiling studies, bot h on the reflectors and on the glasshouses at a test site 
+near Bakersfield, CA. For reflective material, as with similar studies [2], mirror stands were used to hold the material 
+at 0 o, 45 o, and 90 o, and these were placed both inside and outside of a glasshouse. Reflectivity of the mirrors and 
+transmission properties of the glasshouse were then tested with S urface Optics 410 Reflectometer and Filmetrics 
+aRTie spectrophotometer. The data showed that the reflectors outside th e glasshouse experienced soiling rates as 
+high as 12% per week, while those inside the glasshouse had a soiling rate averaging 0.2% per week, though a longer 
+study is needed as this is near the resolution limits of the instruments. We can conclude that the glasshouse reduced 
+mirror soiling by more than 95%. A significant qualitative difference in soiling was al so noted. Daily cycles of 
+condensation on the outside mirrors caused caking of the deposited dust. This depos it was impossible to remove 
+without the use of large amounts of water, a method which wi ll likely result, over the long term, in degradation of 
+the reflective surface. Inside the glasshouse, a non-cond ensing environment is maintained at all times. As a result, 
+accumulated dust is easily removed with a dry cleaning cloth. Fi gure 8a shows weekly soiling rates for aluminum 
+mirrors, both inside and outside the glasshouses. 
+Measurements were also made of roof soiling and the e ffectiveness of the automatic roof-washer at the California 
+site. It was found that the automatic roof washing system restored tra nsmission of glass to within 0.5% of complete 
+cleanliness after repeated soiling cycles that reduced transm ission by over 10%. In a separate study, the roof was 
+exposed to 2300 wash cycles in a single location, simulating over 12 years of two-day cleaning cycles. No loss of 
+glass transmission was detectable (Figure 8b). As with the re flector soiling studies, further study is needed to test for 
+any long-term effects missed by these short term and accelerated tests. 
+-2% 
+0% 
+2% 
+4% 
+6% 
+8% 
+10% 
+12% 
+14% 
+3/7 3/27 4/16 5/6 5/26
+Loss of specular reflectivity (% )
+Al mirror (Outside 0 deg) Al mirror (Inside 0 deg)
+Al mirror (Outside 45 deg) Al mirror (Inside 45 deg)
+Average weekly outdoor soiling rate Average weekly indoor soiling rate
+(a) 
+75% 
+77% 
+79% 
+81% 
+83% 
+85% 
+87% 
+89% 
+91% 
+93% 
+95% 
+2/25 3/7 3/17 3/27 4/6 4/16 4/26 5/6 5/16
+Roof Glass Transmission (% )
+Roof Glass 1 (AR) Roof Glass 2 (AR)
+(b) 
+Figure 8: (a) Soiling rates for aluminium mirrors, (b) Roof soiling and recovery after washing 
+
+ B. Bierman et al. / Energy Procedia 49 ( 2014 ) 1269 – 1278 1277
+The Oman site has different soiling characteristics than the California site. Average soiling rate is expected to be 
+similar to UAE [2] which was measured at around 15% per week and as high as 30% per week. The Arabian 
+Peninsula and the MENA region are subject to high average aerosol levels and dust storms (Figure 9). 
+One such dust storm was observed in early April. During this event, winds exceeded 40km per hour for over 24 
+hours, with peak gusts over 60km/hour. Surface visibility was reduced t o less than 100 meters. The plant continued 
+to operate during this storm, producing 48 tons of steam. It was noted that a lthough the windblown dust forced a 
+shutdown of outdoor activities, at the 6 meter level of the glasshouse roof, there was sufficient direct sunlight to 
+continue normal plant operation. Others have observed a r elationship between airborne dust and elevation. A Desert 
+Research Institute study of windblown dust from vehicu lar traffic, a common oil field soiling source, found a 55% 
+reduction in dust at 4.6m elevation compared with a 1.8m elevation, and an 87% reduction at 9.1m. [7] 
+Comparing system performance before, during, and after th e storm provides another confirmation of the efficacy 
+of the glass enclosure (Figure 10). During the storm, with strong wind, but dust primarily near the ground, DNI was 
+only slightly affected. Performance dropped by 6% as measured by fit to model. When operation resumed after the 
+storm, performance had degraded by nearly 12%. After me asuring the performance with the soiled roof for a full 
+day, the roof was cleaned overnight using the automatic roof washing system and performance was measured again. 
+Performance had returned to the pre-storm baseline. Several conclusions can be drawn from this data. First, that the 
+automatic roof washing system effectively removes so iling due to airborne dust. Second, that there was no 
+significant soiling of the mirrors during the storm. Thir d, that the enclosure allows normal operation in high winds, 
+with negligible attenuation from airborne particles or loss of optical alignment. 
+Results for soiling studies at the southern Oman site 
+are preliminary at the time of writing, but initial data is 
+consistent with the California data. As the Oman 
+glasshouse has improved leak integrity and added a 
+superior air handling system, the ultimate performance of 
+the system with regard to mirror and receiver soiling 
+control is expected to be supe rior. Trends appear to be 
+consistent with those seen in California. Enclosing the 
+reflectors in a glasshouse results in dramatically reduced 
+soiling rates, and the automatic roof washing system 
+effectively removes dust deposits from the glass without 
+reducing transmission of the glass. 
+9. Dispatch reliability 
+As a production system, the p ilot plant is subject to 
+rigorous daily reporting of uptime and downtime, with 
+root cause and corrective actions required for any lost 
+Figure 9: Dust (red), sea salt (blue), smoke (green), sulfate particles (white). Source – NASA/Goddard 
+Figure 10: Performance vs. baseline, weather event 
+
+1278 B. Bierman et al. / Energy Procedia 49 ( 2014 ) 1269 – 1278 
+production. Substantial effort was devoted to ensuring syst em reliability in the oil field environment. For instance, 
+the mirror positioning electronics were of particular concern. These off -the-shelf electronics operate inside the 
+glasshouse at temperatures as high as 70 oC. Highly Accelerated Life Testing was conducted at operating 
+temperatures as high as 100 oC to ensure their reliability. Similar endurance testing was conduct ed for all high stress 
+or critical components or systems. 
+For the first four months of operation, the plant has be en available to run during 98.5% of the potential operating 
+hours. Most downtime has been related to various plant safety protections causing nuisance shutdowns in response 
+to sensor inputs that exceeded conserv ative operating limits. As these issues were addressed, availability reached 
+99.8% in May, 2013. 
+10. Conclusions 
+After four months of production operation, initial oper ating metrics for the Solar EO R Pilot are encouraging, 
+indicating the project has met all design objectives. 
+x The Optical and Thermal models developed to predict system performance based on weather data have been 
+shown to conservatively predict plant output on a minute by minute basis. 
+x Measured performance is approaching modeled performance, is exceeding performance commitments, and 
+should exceed model forecast within the first year of operation. 
+x Frequent scattered clouds present a significant challenge at the site, but model-based feed-forward control based 
+on measured Direct Normal Irradiance has allowed fully automated operation in all use cases. 
+x The glasshouse enclosure has been demonstrated to reduce mirror soiling by more than 95%, and to alter the 
+nature of mirror deposits, allowing them to be easily removed with a dry cloth. 
+x The automatic roof-washing system has demonstrated its effectiveness and reliability in the solar application. 
+Full recovery from a 12% soiling event was accomplished in 12 hours after a major dust storm, confirming the 
+benefit of this technology. 
+x Dispatch Reliability has been excellent; after a few short weeks of commissioning, the plant was placed in daily 
+production operation, and has achieved 99.8% uptime in its 4th month of operation. 
+Areas for further study include continued monitoring of long -term performance and reliability, as well as receiver 
+fouling studies based on pigging results. 
+References 
+[1] Moritis, G. Special report, EOR/heavy oil survey, Oil and Gas Journal, vol. 108, no. 14, 2010. 
+[2] Tahboub, Dahleh, and Goebel. Solar mirrors soiling campaign--Abu Dhabi, SolarPACES , 2012. 
+[3] Viebahn, P., Kronshage, S., Trieb, F., and Lechon, Y. Final report on technical data, costs, and life cycle inventories of solar thermal power 
+plants, New Energy Externalities Developments for Sustainability (NEEDS), 2008. 
+[4] Wilcox, S., and Myers, D. Evaluation of radiometers in full-time use as the National Renewable Energy Laboratory Solar Radiation Research 
+Laboratory. NREL/TP-550-44627, Golden, CO: National Renewable Energy Laboratory, 2008. 
+[5] Lupfert, E., Geyer, M., Schiel, W., Esteban, A., Osuna, R., Zarza, E., and Nava, P. Eurotrough design issues and prototype testing at PSA, in 
+Solar Energy: The Power to Choose, Washington, DC, 2001. 
+[6] Stoffel, T., Renne, D., Myers, D., Wilcox, S., Sengupta, M., George R., and Turchi, C. Concentrating solar power: Best practices handbook 
+for the collection and use of solar resource data. NREL/TP-550-47465., Golden, CO: National Renewable Energy Laboratory, 2010. 
+[7] Etyemezian, V., Gillies, J., Kuhns, H., Nikolic, D., Watson, J., Veranth, J., et al. Field testing and evaluation of dust deposition and removal 
+mechanisms: Final report, Western States Air Resources Council (WESTAR), Lake Oswego, OR, 2003.
+
+--------------------------------------------------------------------------------
+
+URL: https://glasspoint.com/press-release-maaden-and-glasspoint-unveil-plans-to-build-solar-thermal-technology-showcase-1
+
+GlassPoint and MISA unveil the next phase of development for the GlassPoint Ma'aden Technology Showcase
+Leader in decarbonizing industrial process heat also teams with Cox as technical and delivery partner to build the world's largest industrial solar thermal project
+RIYADH, Saudi Arabia, Nov. 26, 2024 /PRNewswire/ - GlassPoint, the leader in decarbonizing industrial process heat, today unveiled the next phase of development for the GlassPoint Ma'aden Technology Showcase (GMTS) in partnership with the Ministry of Investment of Saudi Arabia (MISA). In addition, GlassPoint has partnered with Cox as its technical and delivery partner to build the GMTS, as well as several additional solar thermal projects globally. The GMTS is the first stage in building the world's largest industrial solar thermal project, Ma'aden I, a $1.5B project which will combine direct solar to heat technology with advanced thermal storage to accelerate the decarbonizing of Ma'aden's aluminum supply chain.
+To support these projects for Ma'aden and to export high technology renewable energy components to the region, Glasspoint and MISA will be constructing a state-of-the-art solar manufacturing facility in the Kingdom.
+H. E. Khalid Al-Falih, the Saudi Minister of Investment, stated: "We are pleased to move forward with this important project with GlassPoint. This milestone advances us toward building a cutting-edge concentrated solar power-to-steam manufacturing facility in the Kingdom, which will build our leadership across the region while strengthening our economy and creating an independent supply chain."
+Bob Wilt, CEO of Ma'aden, stated: "Our Technology Showcase with GlassPoint is an important step toward large-scale decarbonization and is strongly in support of meeting the Kingdom's net zero target by 2060. We are constantly looking at how we can drive operations and integrate technology that delivers more efficiently and more sustainably."
+Rod MacGregor, CEO of GlassPoint, stated: "We are proud to partner with the Kingdom of Saudi Arabia to develop not only the largest industrial solar thermal project in history, but also a pioneering technology showcase and solar manufacturing facility. Decarbonizing industrial heat is essential to manufacture low-carbon materials and meet net-zero commitments, representing a $444B market globally. Together with MISA, Ma'aden and Cox we are on our way to scale our proven solution to meet the scale of the opportunity."
+Enrique Riquelme, Executive Chairman at Cox, stated: "We are seeing rising demand for decarbonized heat around the world as industrial facilities seek to cost-effectively meet net-zero goals. GlassPoint stands out as offering the only solution proven at scale to reduce carbon emissions while delivering favorable economics. We look forward to working with them on this lighthouse project with MISA, as well as many more in our shared pipeline."
+The GMTS will feature several advanced technology developments from GlassPoint that enable industrial facilities to decarbonize heat by up to 70% while delivering cost parity with legacy gas-powered steam systems. Breakthroughs in anticlastic polymer membranes, high-performance Niobium mirrors, and ternary liquid salt have enabled the company to reduce parts count by 60% and weight by 75%. Together these enhancements, built on previous technology improvements revealed last year, have reduced the cost of the solar field by 30% and the cost of the thermal storage subsystem by 50%.
+GlassPoint provides direct solar-to-heat technology that generates industrial process heat from sunshine without going through electricity as an intermediate step. The GMTS will use reflective mirrors inside a glasshouse to focus sunlight onto a pipe carrying liquid salt to capture energy from the sun. GlassPoint's Unify storage system uses ternary liquid salts to provide a continuous base load of heat to Ma'aden's refinery at Ras al Khair, which refines bauxite ore into alumina, a core ingredient for aluminum production. The solution will provide for complete optionality, enabling Ma'aden to complement solar steam with gas, biomass, electricity, hydrogen or any other fuel as those technologies mature.
+The GMTS will provide 1% of the steam required by Ma'aden's bauxite refinery at Ras Al Khair; when complete, the entire project will provide 65% of the steam and reduce carbon emissions by 600,000 tons per year, the equivalent of taking nearly 130,000 cars off the road. The project supports MISA's Global Supply Chain Resilience Initiative to diversify supply chains, as well as the Kingdom's Saudi Vision 2030 plan to strengthen the economy and the Saudi Green Initiative to accelerate the Kingdom's environmental leadership.
+GlassPoint's factory in Saudi Arabia will create over 200 green factory jobs in the Kingdom, and export renewable energy components to the GCC, North Africa and Southern Europe, helping the Kingdom expand its non oil & gas economy.
+Application of GlassPoint's technology at Ma'aden and beyond helps decarbonize the Saudi industrial base, reduce domestic gas consumption and decrease the carbon footprint of hard-to-abate industries.
+About GlassPoint
+GlassPoint is the leader in decarbonizing the $444B industrial process heat market. By focusing on reducing emissions associated with the production of materials essential to the energy transition, GlassPoint is making a substantial impact on combating climate change. The company builds, owns and operates large-scale solar steam facilities to reduce carbon emissions in hard-to-abate industries such as mining and metals, chemicals, construction materials, desalination and more.
+GlassPoint is the only solution proven at scale to reduce carbon emissions from industrial process heat and has built more than half of the industrial solar steam capacity in the world. Learn more at glasspoint.com.
+About Cox
+Listed in Spain, Cox is a vertically integrated global water and energy utility that applies innovative technological solutions for sustainable development.
+The company is a world leader in the conservation and efficient management of water resources, specializing in desalination, reuse and treatment technologies, as well as a major player in the generation and transmission of green energy, circular economy and new energy vectors. Learn more at grupocox.com.
+Media contact:
+glasspoint@methodcommunications.com
+
+--------------------------------------------------------------------------------
+
+URL: https://glasspoint.com/press-release-maaden-and-glasspoint-unveil-plans-to-build-solar-thermal-technology-showcase
+
+Ma'aden and GlassPoint Unveil Plans to Build Solar Thermal Technology Showcase
+First phase of project development for world's largest industrial solar thermal project
+NEW YORK and RIYADH, Saudi Arabia, Jan. 11, 2024 /PRNewswire/ - Saudi Arabian Mining Company (Ma'aden), the largest multi-commodity mining and metals company firm in the Middle East, and GlassPoint, the leader in decarbonizing industrial process heat, today unveiled plans to build a Technology Showcase for its solar steam technology during the Future Minerals Forum taking place in Riyadh, Saudi Arabia.
+The Technology Showcase marks the first stage of project development for the world's largest industrial solar thermal project and will have capacity to supply nine tons of steam per hour to begin decarbonizing Ma'aden's aluminum supply chain.
+The Technology Showcase will combine direct generation of heat and storage to provide a continuous base load of steam to Ma'aden's Alumina refinery at Ras al Khair. Initial capacity will be about 1% of the larger project, which is slated to save more than 12M MMBTUs of energy annually and reduce carbon emissions by 600,000 tons per year.
+Robert Wilt, CEO of Ma'aden said: "Ma'aden is taking action today to help the Kingdom achieve its net zero target by 2060. Our Technology Showcase with GlassPoint represents an important step toward large-scale decarbonization that will firmly position Ma'aden as a sustainable industrial leader and support the continued advancement of important climate goals."
+Rod MacGregor, GlassPoint founder and CEO, stated: "Governments have agreed that we must act now to scale renewables and transition away from fossil fuels to stop climate change. Our Technology Showcase is an important first step to kick off project development and begin building on location. The Kingdom of Saudi Arabia continues to stand out as a leader in decarbonization which is not only setting ambitious climate goals but also developing the projects to fulfill them."
+Low-carbon aluminum increasingly commands a premium with industrial companies who seek to meet sustainability requirements from their customers. Moreover, new policies such as the EU's carbon border adjustment mechanism will tax high-carbon imports and make low-carbon aluminum, enabled by solar thermal solutions, even more appealing.
+The Technology Showcase will include several new advancements from GlassPoint that reduce the cost of its solutions by more than 30%. Enhancements include GlassPoint's Unify storage system, which uses direct heat and ternary molten salts to provide around-the-clock steam for industry, as well lighter materials which boost solar efficiency and notably reduce weight, materials, carbon intensity, shading and the levelized cost of energy.
+Plans for the Technology Showcase come on the heels of GlassPoint's October announcement that it will partner with the Ministry of Investment of Saudi Arabia to build a solar manufacturing facility in the Eastern Province that will serve as an export hub for clean energy projects throughout the region.
+About Ma'aden
+Ma'aden is the largest multi-commodity mining and metals company in the Middle East and among the fastest-growing mining companies in the world, with revenues of SAR 40.3 billion (US$10.7 billion) in 2022. We are developing the mining industry into the third pillar of Saudi economy in line with Vision 2030 and aim to be a role model in responsible and sustainable operations.
+We operate 17 mines and sites, have 6,500+ direct employees and export products to over 30 countries. We are embarking on massive growth over the next 18 years across phosphate, aluminum, gold, copper and new minerals – to leverage the Kingdom's estimated US$1.3 trillion mineral endowment and international opportunities.
+For more information, please visit https://www.maaden.com.sa
+About GlassPoint
+GlassPoint is the leader in decarbonizing the $444B industrial process heat market. By focusing on reducing emissions associated with the production of materials essential to the energy transition, GlassPoint is making a substantial impact on combating climate change. The company builds, owns and operates large-scale solar steam facilities to reduce carbon emissions in hard-to-abate industries such as mining and metals, chemicals, construction materials, desalination and more. GlassPoint is the only solution proven at scale to reduce carbon emissions from industrial process heat and has built more than half of the industrial solar steam capacity in the world. Learn more at glasspoint.com.
+Media contact:
+glasspoint@methodcommunications.com
+
+--------------------------------------------------------------------------------
+
+URL: https://glasspoint.com/press-release-glasspoint-unveils-technology-advancements
+
+GlassPoint Unveils Technology Advancements Reducing Solar Steam Costs by 30%
+Unify storage system and redesigned structure enable lower-cost, zero-carbon, 24/7 industrial heat for the only solar steam solution proven at scale
+NEW YORK, Dec. 14, 2023 /PRNewswire/ - GlassPoint, the leader in decarbonizing industrial process heat, today unveiled a range of technology advances that drive a 30% reduction in the cost of solar steam. In addition, the company revealed a new Unify storage system which uses direct heat and ternary molten salts to provide around-the-clock steam for industry, eliminating the need for costly heat exchangers and reducing capital expenses. GlassPoint has also reimagined its solar enclosure to feature lighter materials which boost solar efficiency and notably reduce weight, materials, carbon intensity, shading and the levelized cost of energy.
+With these enhancements, GlassPoint is significantly improving economics for adopting the only solution proven at scale to help the $444B industrial heat market meet pressing net-zero goals.
+Hoop and film structure enclosure reduces weight and shading
+GlassPoint systems previously featured agricultural greenhouses which provided protection from harsh remote environments and enabled the use of low-cost, low-weight materials inside. GlassPoint has changed the heavier glass windows found in traditional greenhouses to a protective film, a far lighter material that requires less metal support while also improving air tightness and weatherization, a boon to overall system performance.
+Moreover, GlassPoint changed the sawtooth-style glass roof structure to a hoop-shaped design, which reduces mirror shading by up to 38% and also enables rows of mirrors to be placed closer together to generate more steam per foot. The new design has operated reliably in pilot and demonstration-scale plants both in California and the Middle East, and will be installed in the company's upcoming project with Saudi mining champion, Ma'aden .
+GlassPoint's new enclosure design has slashed embodied carbon by 52%, driving a 45% reduction in structural mass required for the enclosure and a 16% reduction in total project cost, all while reducing complexity and the number of parts needed.
+Unify Storage System
+GlassPoint's new Unify storage system runs ternary molten salts under direct heat to deliver steam reliably both day and night, essential for modern industry. The design eliminates the need for costly heat exchangers, oil handlers and oil itself, which is common to many solar thermal storage solutions. The Unify system is optimized for 450°C, a sweet spot in thermal storage which halves the amount of storage tanks typically required—and associated capital costs—while enabling the use of lower-cost materials. Unify's flexible design can incorporate a wide range of energy sources to create and store steam. Together, Unify in combination with GlassPoint's updated enclosure design achieves a total cost savings of 30%.
+"These landmark technological achievements confirm that GlassPoint's solar steam will not only help industrial companies meet net-zero commitments, but also will boost the bottom line," said Rod MacGregor, CEO and founder of GlassPoint. "Our cost curve continues to outperform solar PV, while offering greater predictability than legacy fossil fuels. With the top solar thermal engineering team in the industry and a culture of innovation, GlassPoint is uniquely positioned to continue delivering compelling economics which are essential to decarbonize materials essential to the energy transition."
+These advancements come on the heels of several major accomplishments for the company. GlassPoint recently announced a partnership with the Ministry of Investment of Saudi Arabia (MISA) to build a solar manufacturing facility in the Eastern Province. GlassPoint also recently closed an $8M Series A funding round led by 300PPM, following a groundbreaking memorandum of understanding with Ma'aden to develop the world's largest solar process heat plant and help Saudi Arabia meet sustainability goals.
+About GlassPoint
+GlassPoint is the leader in decarbonizing the $444B industrial process heat market. By focusing on reducing emissions associated with the production of materials essential to the energy transition, GlassPoint is making a substantial impact on combating climate change. The company builds, owns and operates large-scale solar steam facilities to reduce carbon emissions in hard-to-abate industries such as mining and metals, chemicals, construction materials, desalination and more. GlassPoint is the only solution proven at scale to reduce carbon emissions from industrial process heat and has built more than half of the industrial solar steam capacity in the world.
+To learn more about GlassPoint, visit: https://www.glasspoint.com/
+Media contact:
+glasspoint@methodcommunications.com
+
+--------------------------------------------------------------------------------
+
+URL: https://glasspoint.com/press-release-glasspoint-partners-with-misa
+
+GlassPoint partners with MISA to build a solar manufacturing facility in Saudi Arabia
+The factory will provide supply chain resilience for the world's largest solar thermal project, help diversify the Kingdom's economy and deepen regional leadership as a technology export hub
+RIYADH, Saudi Arabia, Oct. 25, 2023 - GlassPoint, the leader in decarbonizing industrial process heat, today announced it has partnered with the Ministry of Investment of Saudi Arabia (MISA) to build a solar manufacturing facility and technology showcase in the Eastern Province of Saudi Arabia.
+At full capacity, the factory will produce enough renewable energy technology annually to generate 5,000 tons of solar steam each day, enough to offset four million MMBtus of gas and reduce carbon emissions by 200,000 tons each year. Technology manufactured in the facility will be used for projects in the metals & mining, building materials and additional industrial sectors. Last year, GlassPoint signed an MOU with the Saudi Arabian Mining Company (MA'ADEN) to develop the world's largest solar process steam plant. The manufacturing facility will also support technology exports throughout the region, while helping to further diversify the Kingdom's economy and deepen its leadership as a technology export hub.
+Under the partnership, MISA will provide support and advisory. GlassPoint will provide technology and operational expertise - from deploying the only solution proven at scale to decarbonize industrial heat.
+H. E. Khalid Al-Falih, the Saudi Minister of Investment, stated: "Saudi Arabia is committed to leading the region in economic development as well as sustainability. Our partnership with GlassPoint demonstrates important progress in doing both, while also diversifying our economy, strengthening supply chains and deepening high-tech leadership."
+Asaad H. Aljomoai, M.D. Global Supply Chain Resilience Initiative stated: "MISA's partnership with GlassPoint will deepen the Kingdom's leadership in climate technology across the region. The new factory will play an important role in building some of the largest solar thermal projects in the world and also will create a new export market to advance renewable energy projects beyond our borders."
+Rod MacGregor, CEO and founder of GlassPoint, stated: "The Kingdom of Saudi Arabia has set a goal to generate 50% of its power from renewable sources by 2030 and achieve net-zero by 2060. With support from MISA, GlassPoint's new facilities will help deploy renewable energy across the Kingdom to help meet these targets. By helping decarbonize the industrial sector, we will improve the climate impact of hard-to-abate industries across the region and help meet rising demand for low-carbon materials."
+The partnership is part of MISA's Global Supply Chain Resilience Initiative, which aims to attract strategic supply chains to Saudi Arabia and expands the Kingdom's market share in sectors essential to combating climate change. The agreement also represents progress towards achieving Saudi Vision 2030 – a transformational plan that aims to diversify the country's economy, society, and culture - as well as goals set out in the Saudi Green Initiative to create a greener future for all.
+The news comes on the heels of GlassPoint's recent funding round led by 300PPM to meet growing demand for proven solutions to decarbonize industrial process heat. The company recently added a slate of seasoned leadership to its board and opened a solar technology center in Stuttgart, Germany, to expand its innovation leadership.
+About GlassPoint
+GlassPoint is the leader in decarbonizing the $444B industrial process heat market. By focusing on reducing emissions associated with the production of materials essential to the energy transition, GlassPoint is making a substantial impact on combating climate change. The company builds, owns and operates large-scale solar steam facilities to reduce carbon emissions in hard-to-abate industries such as mining and metals, chemicals, construction materials, desalination and more.
+GlassPoint is the only solution proven at scale to reduce carbon emissions from industrial process heat and has built more than half of the industrial solar steam capacity in the world.
+To learn more about GlassPoint, visit: https://www.glasspoint.com/
+Media contact:
+glasspoint@methodcommunications.com
+
+--------------------------------------------------------------------------------
+
+URL: https://glasspoint.com/press-release-glasspoint-accelerates-momentum
+
+GlassPoint Accelerates Momentum, Adding Industry Veterans and Unveiling Solar Technology Center
+Industrial solar thermal leader appoints new chairman and board member, opens solar development headquarters in Stuttgart
+NEW YORK, Sept. 27, 2023 — GlassPoint, the leader in decarbonizing industrial process heat, announced today it has added a slate of seasoned leadership to its board to enable rapid growth for its solar steam solutions. Additionally, the company has opened a technology center in Stuttgart, Germany, a hotbed of solar talent, which is headed by CTO and concentrated solar power luminary Markus Balz. The expanded resources reflect growing momentum for the company as it faces strong global demand from industrial companies seeking solutions to meet net-zero and climate commitments.
+Bart Markus is GlassPoint's new chairman, bringing more than 25 years of experience as a serial entrepreneur, technology investor, and chair for a range of clean energy and innovation companies. GlassPoint also added Dr. Andrea Wuttke to the board, who was the managing director of business development and capital markets for Canadian Solar and the CFO of Energy Vault Holdings Inc., where she led the company's public market debut. Andrea brings over 15 years of experience scaling and financing large solar projects around the world.
+"I've long been impressed by GlassPoint's ability to deliver the only solar thermal solution for industry proven at scale," said Bark Markus, chairman of the board. "The market for industrial process heat is massive at $444B and we're seeing strong demand around the world as hard-to-abate industries face pressing decarbonization goals and need a reliable, trusted solution. I look forward to working with Rod and his team of seasoned industry leaders to ensure we continue to deliver on this tremendous opportunity."
+"GlassPoint continues to deepen our resources with vast expertise across renewables, business strategy and innovation," said Rod MacGregor, CEO and founder of GlassPoint. "Bart and Andrea will play crucial roles as we help industrial businesses realize their ambitious net-zero goals, while our Stuttgart technology center will be essential to continue to attract the best and brightest solar technologists to advance our mission."
+Markus and Wuttke join GlassPoint on the heels of several major accomplishments for the company. GlassPoint recently closed an $8M Series A investment led by 300PPM and signed a groundbreaking memorandum of understanding with Ma'aden to develop the world's largest solar process heat plant to help Saudi Arabia meet sustainability goals.
+About GlassPoint
+GlassPoint is the leader in decarbonizing the $444B industrial process heat market. By focusing on reducing emissions associated with the production of materials essential to the energy transition, GlassPoint is making a substantial impact on combating climate change. The company builds, owns and operates large-scale solar steam facilities to reduce carbon emissions in hard-to-abate industries such as mining and metals, chemicals, construction materials, desalination and more. GlassPoint is the only solution proven at scale to reduce carbon emissions from industrial process heat and has built more than half of the industrial solar steam capacity in the world.
+To learn more about GlassPoint, visit: https://www.glasspoint.com/
+Media contact:
+glasspoint@methodcommunications.com
+
+--------------------------------------------------------------------------------

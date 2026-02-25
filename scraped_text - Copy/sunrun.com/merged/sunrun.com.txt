@@ -1,0 +1,928 @@
+ROOT: https://sunrun.com/
+SCRAPED_AT_UTC: 2026-02-11T20:39:23.823615Z
+PAGES_INCLUDED: 19
+
+================================================================================
+
+URL: https://sunrun.com/
+
+PLANS & PRICING
+Sunrun Subscription Plan
+The #1 home solar & storage company in America
+Unrivaled home solar and battery experience
+With 1 million homes and counting, no one has more installation expertise.
+Smart technology
+An ecosystem of innovative products that put you in control of your home energy needs.
+Payment solutions for every home
+Tailored plans including predictable monthly payments, little-to-no money down, and no-debt options.
+The Sunrun Guarantee
+The industry’s most comprehensive repairs, maintenance & monitoring program.
+Keep your phone close - a solar advisor will be calling you soon. We’ll call back if we miss you!
+Ready to chat now?
+Call us at 833.386.2912
+Refer a friend
+Power life on your terms with solar and battery storage
+Have a Sunrun system?
+*Your app experience may vary based on your system's equipment.
+Easy Process. Better Technology. Happy Customers.
+Introducing the Tesla Powerwall 3
+awards & recognition
+Trusted by the best
+Consumer Affairs Buyer's Choice Award
+BBB A+ rated
+Best Company
+Good Housekeeping
+FAQs
+How long do solar panels really last?
+Solar panels can last anywhere between 25 to 30 years, sometimes more. This doesn’t mean that the panels on your roof will stop producing electricity after a couple of decades. It just means their energy production will decrease by what solar panel manufacturers consider optimal to meet the average household's energy needs. With proper care and maintenance, you can expect to receive significant solar benefits for the next 20 to 30 years.
+What happens if I decide to move?
+Sunrun makes it easy to transfer your solar lease agreement to the new homeowners. Our service transfer specialists handle everything from educating realtors and potential buyers to working with escrow officers, title agents, home inspectors, and anyone else who might need to know about your system or solar lease agreement. When you decide to move, get started in our Service Transfer Portal for everything you need for a successful transfer. Learn more.
+How much can I expect to save when I go solar?
+When you sign up for a free quote, our in-house Solar Advisors will work with you to determine how much you can expect to save on your monthly energy bill. This relies on factors like your utility, how much electricity you use and how much sunlight your home gets. We’ll only recommend solar if it’s the right fit for your home energy needs and profile.
+Does my state offer incentives to go solar?
+See where Sunrun currently operates and what solar incentives may be available in your state. The most common solar incentives include state tax credits, net metering and rebates from your local utility. No matter what state you live in, you’ll also be eligible for the federal solar tax credit when you purchase your own solar system.
+The great thing about BrightSave Monthly is that any benefits you would get through rebates and tax credits come to you in the form of a lower monthly cost with Sunrun. You can avoid high upfront costs, and we'll take care of the paperwork.
+How many solar panels will my home need?
+Every household is different. When determining the number of solar panels your home needs, consider the following questions:
+How much power do I need? Check your electric bills to see how many kilowatt hours (kWhs) you use throughout the year. We’ll go over this with you in detail during your free solar consultation to figure out just how much power your panels will need to produce.
+What’s your climate like? The number of panels you need depends on how much sun reaches the ground where you are.
+How much direct sun hits your roof? Shading, which direction your roof faces, and any aesthetic preferences you have can impact how big your system needs to be.
+At Sunrun, we have proprietary solar design technology called BrightPath™ to help us create a customized system that maximizes energy production better and faster than if we did it by hand.
+Is my home good for solar?
+A lot of things affect how well-suited your home is for solar, including where your home is, the angle of your roof, how much shade it gets throughout the day, and how old your home is.
+Our solar advisors can help you determine if your home is a good fit for solar at the moment. They’ll run a custom analysis of your home with our proprietary solar design technology, BrightPath,™ and they’ll get a sense for your energy needs.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunrun.com/our-team
+
+Mary Powell
+Chief Executive Officer
+Ms. Powell has served as Sunrun's Chief Executive Officer since August 2021 and as a member of our Board since 2018. From 2008 to 2019, Ms. Powell served as the President and Chief Executive Officer of Green Mountain Power Corporation (“GMP”), a fully integrated electric utility company that serves 75 percent of the State of Vermont’s residential and business customers. At GMP, Ms. Powell successfully executed strategies to drive increased customer satisfaction and growth, delivered on an ambitious energy vision to provide low-carbon, low-cost, and highly reliable power to Vermonters, and positioned the company as a leading energy transformation business. Ms. Powell’s previous roles at GMP include serving as Senior Vice President and Chief Operations Officer from 2001 to 2008 and as Senior Vice President of Customer and Organizational Development from 1999 to 2001. Ms. Powell is nationally recognized for her work disrupting the energy sector and has received numerous industry awards, including being named to the 2024 TIME100 Climate List of Most Influential Leaders, Utility Dive’s 2019 Executive of the Year, and one of Fast Company’s 100 Most Creative People in Business in 2016. Prior to joining GMP in 1998, Ms. Powell held executive roles within the banking industry and served in state government. Ms. Powell currently serves on the board of directors of CGI Inc., a global IT and business consulting services firm. From 2019 to 2021, Ms. Powell served on the board of Hawaiian Electric Industries Inc., the largest utility in Hawaii, and from 2019 to 2023, on the board of Energir, one of the largest energy companies in Québec and the northeastern United States. She has also served on the boards of a number of other privately held companies and nonprofits. Ms. Powell also chaired the board of Climate Change Crisis Real Impact | Acquisition Corporation, a former special-purpose acquisition corporation that combined with EVgo Services and enabled the fast charging network for electric vehicles to become a publicly listed company. Ms. Powell holds an associate’s degree from Keene State College.
+Paul Dickson
+President and Chief Revenue Officer
+Mr. Dickson has served as our Chief Revenue Officer since January 2022 and our President since April 2024, prior to that, he served as Senior Vice President. Mr. Dickson served as Chief Revenue Officer at Vivint Solar, Inc. from September 2016 until he joined us in October 2020 via our acquisition of Vivint Solar, Inc. Prior to his role as Chief Revenue Officer, he served as Vivint Solar, Inc.’s Senior Vice President of Operations from November 2013 to September 2016, and as Vivint Solar, Inc.’s Vice President of Finance and Capital Markets from May 2011 to November 2013. Prior to joining Vivint Solar, Inc.’s founding team, Mr. Dickson served as the Director of Smart Grid and Energy Management for Vivint, Inc. from December 2010 to May 2011. From May 2007 to December 2010, Mr. Dickson co-founded and served as the President and Chief Executive Officer of Meter Solutions Pros, LLC, an energy management and smart-grid business acquired by Vivint, Inc. Mr. Dickson holds a B.A. in communications from Brigham Young University.
+Danny Abajian
+Chief Financial Officer
+Mr. Abajian has served as our Chief Financial Officer since May 2022. Prior to becoming our Chief Financial Officer, Mr. Abajian served in many leadership roles within our Project Finance organization, including Senior Vice President from April 2020 to June 2022, Vice President from February 2016 to April 2020, Senior Director from August 2013 to February 2016, and Director from July 2010 to August 2013. From July 2005 to July 2010, Mr. Abajian was an investment banker, having served as an associate at Barclays Capital and an analyst and associate at BNP Paribas. Mr. Abajian holds a B.S. in finance and international business from the New York University Stern School of Business.
+Jeanna Steele
+Chief Legal Officer and Chief People Officer
+Ms. Steele has served as our Chief Legal Officer since May 2018 and our Chief People Officer since December 2021 where she oversees legal affairs, people strategy, operations and development, health & safety, and environmental, social, governance (ESG) matters. From March 2015 to May 2018, Ms. Steele served in various roles at our company, including Head of Litigation. Previously, Ms. Steele was an attorney at the law firm Wilson Sonsini Goodrich & Rosati. Ms. Steele serves on the board of directors of the Giffords Law Center to Prevent Gun Violence, and she is a former member of the California Pay Equity Task Force, the first of its kind in the nation. Ms. Steele holds a B.A. in English from McGill University and a J.D. from the University of San Francisco.
+Chance Allred
+Chief Experience and Direct Sales Officer
+Chance is responsible for delivering exceptional customer experiences at Sunrun, overseeing Customer Strategy, Customer Engagement, Sales Operations, Marketing, Employee Experience, and the company’s direct-to-consumer sales organization. Before assuming his role as Direct Sales Officer in July 2025, he was named Chief Experience Officer in 2022, following his role as Chief Sales Officer at the company. He joined Sunrun through the acquisition of Vivint Solar, where he spent a decade building one of the industry’s most successful sales organizations, specializing in direct-to-consumer, retail, and inside sales channels. As Chief Sales Officer at Vivint Solar, he led a team that drove a 225% compound annual growth rate between 2011 and 2015, helping the company become the second-largest residential solar provider in the U.S. and go public with a $1.5B IPO in 2014. Chance holds a business degree from Southern Utah University. Outside of work, Chance enjoys landscape photography, friends, family, a good outdoor adventure, and golf.
+Patrick Kent
+Chief Field Operations Officer
+Patrick Kent leads all aspects of our installation and field service fulfillment teams, ensuring exceptional service with top-tier safety and quality standards. Since joining Sunrun in 2014, Mr. Kent has significantly contributed to our success, serving as Senior Vice President of Operations since 2022. Previously, Mr. Kent was a key player in our Sales organization, rising from Regional Sales Manager to Senior Vice President of Field and Retail Sales. Prior to joining Sunrun, he worked at a channel partner of Sunrun's (Verengo), was President and founder of Next Step Racing, and started his career managing outdoor sports retailers. Mr. Kent holds a BA in history from the University at Albany and is an alumni of the National Outdoor Leadership School.
+Rachit Srivastava
+Chief Technology Officer
+Rachit Srivastava has served as Chief Technology Officer since December 2024. He brings nearly 20 years of expertise in artificial intelligence, machine learning, and data analytics to the role. Rachit was promoted to CTO after joining Sunrun as Head of Artificial Intelligence, where he quickly advanced the company’s use of AI to drive innovation. As CTO, he leads Sunrun’s technology strategy, focusing on greater system automation to deepen customer relationships and accelerate the efficient deployment of storage and solar assets. Prior to joining Sunrun, Rachit led machine learning initiatives at Cockroach Labs, where he advanced distributed SQL database solutions adopted across multiple consumer-facing industries. Before that, he developed trading signals using AI and machine learning as Vice President, Research and Modeling at Two Sigma. He has also built machine learning and forecasting tools for leading financial institutions including Goldman Sachs and Morgan Stanley. Rachit holds a Master of Science in Computational Finance from Carnegie Mellon University, a Master of Science in Electrical Engineering from the University of Southern California, and a Bachelor of Software Engineering from the University of New South Wales.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunrun.com/solar-plans-and-services
+
+Lots of Plans. One Trusted Partner.
+The Sunrun Solar Subscription is the best selling subscription in America, but every home is unique. Find the best plan for your situation.
+Sunrun Subscription Plan vs. solar panels ownership
+Our solar lease subscription plan offers predictable, affordable rates for as little as $0 down in upfront costs, or you could purchase solar panels outright.
+Sunrun Subscription Plan
+Solar panels ownership
+Most popular
+Sunrun Subscription Plan
+Leasing solar panels
+Benefits
+Who maintains?
+Payments
+Solar panels ownership
+Purchasing solar panels
+Benefits
+Who maintains?
+Payments
+Take control of your energy bills
+Pick the right plan for you
+Power life on your terms
+Our tailored payment plans make home solar more affordable with predictable monthly payments, little to no money down, and no debt options.
+battery storage
+Solar storage for uninterrupted living
+Unlock reliable energy and greater control over your electricity usage with our cutting-edge battery technology. Power your home sustainably and experience a brighter future, day and night.
+Protected power
+Energy savings
+A cleaner future
+Seamless integration
+
+--------------------------------------------------------------------------------
+
+URL: https://sunrun.com/solar-plans-and-services/purchase-solar-system
+
+The ultimate power move
+Full ownership
+Take full control of your solar system by owning your equipment and all of the potential savings, and benefit directly from federal and state solar incentives, like tax credits and rebates.
+Dependable warranties
+Get added peace of mind through original manufacturer warranties on the entire Sunrun system.
+Optional extended service
+Feel confident with 100% service coverage through our optional Protection Plus program.
+Unrivaled home solar and battery experience
+Backed by the nation’s #1 home solar panel & battery installer
+details
+What's included in ownership
+Hardware
+We utilize cutting-edge solar panels with high-efficiency photovoltaic cells, ensuring maximum energy capture from the sun. Our solar panels are designed for durability, clean aesthetics, and longevity—built to withstand even the harshest weather.
+Selected for their advanced energy storage capabilities, our solar batteries ensure you have reliable power when you need it. Whether you choose a backup battery for outages or a non-backup option for energy management, our systems offer top performance.
+Take control of your energy bills
+Sunrun Subscription Plan vs. solar panels ownership
+Our solar lease subscription plan offers predictable, affordable rates for as little as $0 down in upfront costs, or you could purchase solar panels outright.
+Sunrun Subscription Plan
+Leasing solar panels
+Benefits
+Who maintains?
+Payments
+Solar panels ownership
+Purchasing solar panels
+Benefits
+Who maintains?
+Payments
+Easy process. Better technology. Happy customers
+Peace of mind, guaranteed
+FAQs
+How does solar panel ownership work?
+When you own your solar energy system, you pay for it upfront and produce your own electricity at home. Ownership gives you more control of your energy bills, as well as federal, state, and local solar incentives where available. As the system owner, you’re responsible for upkeep, but with Sunrun, you don’t have to manage it alone. Our solar ownership plan includes professional installation, system monitoring, and comprehensive product warranties to help protect your investment for years to come.
+What is the benefit of buying solar panels for your home up front?
+Paying for your solar system upfront gives you full ownership and the greatest long-term financial benefit. You can start saving on your electric bills, and you may qualify for valuable incentives like the federal solar tax credit and local rebates where available. Upfront ownership also means you keep 100% of any energy savings over time. With Sunrun, your purchase includes expert installation, system monitoring, and product warranties, so you can invest in solar with confidence and peace of mind.
+Can I just buy my own solar panels?
+Yes, homeowners can purchase solar panels, but doing so online and attempting a DIY installation isn’t recommended. Installing a home solar system requires electrical expertise, permitting, and utility approvals, and improper installation can lead to safety issues or void warranties. If you choose to purchase your home solar system outright, make sure you choose a trusted solar and storage installer like Sunrun. Sunrun handles everything from home solar system design and professional installation to permitting, inspections, and ongoing support.
+Is it better to lease or buy solar panels?
+Leasing and buying solar panels come with their own unique advantages.
+Sunrun gives you the option to buy your solar panels. When you own your home solar system, you'll get all the solar benefits. This means solar incentives like state solar rebates, Solar Renewable Energy Credits (SRECs), and the federal solar tax credit will go directly to you. You could also recoup the cost of your investment thanks to the potential value the system adds to your home; however, you’ll be responsible for any repairs and maintenance your solar system needs outside the scope of your home solar system’s manufacturer warranty.
+Going solar can be costly. That’s why Sunrun also offers the stress-free Sunrun Subscription Plan solar lease,, so you can go solar for as little as $0 down. You’ll only be responsible for paying a low monthly bill. Because Sunrun owns the system, we’ll also provide 24/7 monitoring and maintenance during the length of your agreement, free of charge. That means clean, worry-free energy that’s guaranteed to save you money, and if it breaks, we’ll fix it!
+What happens if my home solar system breaks or isn't working as expected?
+We stand by our solar and battery systems and only use technology that maximizes their quality, efficiency, and affordability. All of our home solar and storage systems are backed by robust warranties; however, since our customers own their systems with our system purchase plan, they'll have to cover any cost of repairs outside the scope of the manufacturer warranties.
+If you choose our monthly lease or prepaid lease plan, your solar system will be backed by our Solar Guarantee. We monitor your solar system daily and will proactively maintain and repair your panels, free of charge.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunrun.com/solar-plans-and-services/monthly-solar-lease
+
+America's #1 Solar Plan: The Sunrun Subscription
+Plan benefits
+Solar made simple.
+Solar panels with no debt or upfront costs
+Solar financing with predictable, affordable payments and locked-in rates
+25-year equipment guarantee
+Industry-leading warranty for a best-in-class solar panel and battery storage system
+Free maintenance and repairs
+25-year free maintenance and repairs for total peace of mind
+Unrivaled home solar and battery experience
+Backed by the nation’s #1 home solar panel & battery installer
+details
+What's included in the solar subscription
+Hardware
+We utilize cutting-edge solar panels with high-efficiency photovoltaic cells, ensuring maximum energy capture from the sun. Our solar panels are designed for durability, clean aesthetics, and longevity—built to withstand even the harshest weather.
+Selected for their advanced energy storage capabilities, our solar batteries ensure you have reliable power when you need it. Whether you choose a backup battery for outages or a non-backup option for energy management, our systems offer top performance.
+Solar panel services
+25 year coverage
+All our equipment is fully warrantied and has complete service coverage for 25 years. We cover any repairs or replacements over the entire course of your agreement.
+Expert installation from the most experienced installer in America
+We’re trusted by more people than any other solar and storage company with 1 million homes and counting.
+Dedicated support throughout your entire solar journey
+We do more than install solar panels and batteries. We’re with you all the way, providing dedicated support, performance guarantees, and 24/7 system monitoring.
+Easy process. Better technology. Happy customers
+FAQs: Solar lease
+What is solar leasing and how does it work?
+Solar leasing is a financing option where you pay a monthly fee to use a solar panel system installed on your home, but the solar company owns and maintains the equipment. You benefit from the solar energy produced without the upfront cost of purchasing the system.
+What are the benefits of solar leasing vs. buying?
+Solar leasing offers low or no upfront costs, system maintenance by the provider, and predictable monthly payments. Buying provides potential tax incentives, and full ownership, which can increase home value.
+How much can I expect to potentially save when leasing with a Sunrun Subscription?
+When you sign up for a free quote, our in-house Solar Advisors will work with you to determine how much monthly energy savings you may expect. This relies on factors like your utility, how much electricity you use, and solar energy production at your home. We also make sure you get the most of your state’s solar incentives and federal solar tax credit that may be available. We'll only recommend solar if it’s the right fit for your home energy needs and profile.
+How to choose the best solar leasing company?
+To choose the best solar leasing company, seek out companies that demonstrate long-term stability, backed by strong customer reviews, and included maintenance. Compare rates, system performance guarantees, and reputation for service and support. Sunrun stands out for its proven track record of over 15 years, customizable solar plans, and dedicated customer support.
+Can I really go solar for little to $0 down?
+Yes, you can really go solar with no upfront costs. Qualifying Sunrun customers can take control of their long-term electricity costs for as little as $0 down with the Sunrun solar subscription. The benefits of solar are rolled up into a low, predictable monthly rate for solar power that replaces all or some of the power you used to receive from the grid.
+Beyond a solar lease, what are my other solar panel financing options with Sunrun?
+When it comes to your solar financing options, Sunrun’s best selling plan, the Sunrun Subscription, allows for a solar lease with no upfront costs. We also offer solar loans with monthly payments, a prepaid solar lease, and the option to purchase solar panels outright. With Sunrun, your journey to renewable energy has never been easier and our team will work with you to find the best solar financing for your home and your family. From the very beginning, we will clearly lay out the entire cost, upfront cost, monthly payment costs, and any future bills. Whether you buy or finance solar panels, we’ll be with you every step of the way to help make decisions.
+What are some of the top solar leasing companies?
+Sunrun is the #1 solar leasing company in the U.S., offering flexible solar plans, professional installation, and ongoing system maintenance to help homeowners go solar without upfront costs.
+What happens during a Sunrun solar installation?
+Once you’re approved for installing solar panels, your home will undergo a site assessment so our expert Solar Technicians can work on and present your system design.
+After that, our Solar Design Experts will make any necessary adjustments to your solar design and get your final approval. Once it’s approved, we’ll submit your design to the city for permitting, which can take up to eight weeks. From there, either Sunrun or one of our local certified partners will begin your solar installation. We only partner with top-rated solar installers, so rest assured that you’ll end up with the highest-quality solar system on your roof.
+When your home solar system is complete, the city or county will perform a final inspection of your system. Once it’s approved, it’ll be connected to the grid, and we’ll submit your documents to your utility company. After your utility company grants Permission to Operate (PTO), you’ll be ready to power your home with the sun. Whether you’re buying solar panels, doing a solar lease, or getting a solar loan, when you go with Sunrun, we’re with you every step of the installation process.
+Want to learn more? Here’s a detailed timeline of our installation process.
+How much solar energy will my panels generate?
+The electricity generated by a home solar system is ruled by its rated power output. Yet, it’s dependent on other factors as well to best serve your energy usage. These include panel efficiency, temperature sensitivity, shading, and the angle of your roof. A roof’s angle, though, has less impact on panel performance than the direction it faces. Top production occurs when panels face south a tilt angle of 30° to 45°.5
+Additionally, available sunlight varies by location. This brief equation shows how sunlight and a solar panel’s specifications turn into the amount of power generated.
+Let’s say on a good day, you average 5 hours of direct sunlight. Multiply 5 hours of sunlight x 290 watts from a solar panel = 1,450 watts or roughly 1.5 kilowatt hours per day. That’s about 500-550 kilowatt hours of energy per year from each panel on your roof.4 How does that compare to your annual energy usage?
+Will my home solar energy system have a warranty?
+We only offer best-in-class solar equipment, including rooftop solar panels and batteries with the highest quality workmanship. All of our solar and storage products are backed by robust manufacturer warranties. To learn more, get a free quote today.
+Ways to pay
+Solar financing options for solar leasing
+Monthly payments
+Prepay solar subscription (lease) in full
+Get your solar panel system with confidence
+Sunrun subscription plan vs. solar panels ownership
+Our solar lease subscription plan offers predictable, affordable rates for as little as $0 down in upfront costs, or you could purchase solar panels outright.
+Sunrun Subscription Plan
+Leasing solar panels
+Benefits
+Who maintains?
+Payments
+Solar panels ownership
+Purchasing solar panels
+
+--------------------------------------------------------------------------------
+
+URL: https://sunrun.com/solar-plans-and-services/owned-plans
+
+The ultimate power move
+Full ownership
+Take full control of your solar system by owning your equipment and all of the potential savings, and benefit directly from federal and state solar incentives, like tax credits and rebates.
+Dependable warranties
+Get added peace of mind through original manufacturer warranties on the entire Sunrun system.
+Optional extended service
+Feel confident with 100% service coverage through our optional Protection Plus program.
+Unrivaled home solar and battery experience
+Backed by the nation’s #1 home solar panel & battery installer
+details
+What's included in ownership
+Hardware
+We utilize cutting-edge solar panels with high-efficiency photovoltaic cells, ensuring maximum energy capture from the sun. Our solar panels are designed for durability, clean aesthetics, and longevity—built to withstand even the harshest weather.
+Selected for their advanced energy storage capabilities, our solar batteries ensure you have reliable power when you need it. Whether you choose a backup battery for outages or a non-backup option for energy management, our systems offer top performance.
+Take control of your energy bills
+Sunrun Subscription Plan vs. solar panels ownership
+Our solar lease subscription plan offers predictable, affordable rates for as little as $0 down in upfront costs, or you could purchase solar panels outright.
+Sunrun Subscription Plan
+Leasing solar panels
+Benefits
+Who maintains?
+Payments
+Solar panels ownership
+Purchasing solar panels
+Benefits
+Who maintains?
+Payments
+Easy process. Better technology. Happy customers
+Peace of mind, guaranteed
+FAQs
+How does solar panel ownership work?
+When you own your solar energy system, you pay for it upfront and produce your own electricity at home. Ownership gives you more control of your energy bills, as well as federal, state, and local solar incentives where available. As the system owner, you’re responsible for upkeep, but with Sunrun, you don’t have to manage it alone. Our solar ownership plan includes professional installation, system monitoring, and comprehensive product warranties to help protect your investment for years to come.
+What is the benefit of buying solar panels for your home up front?
+Paying for your solar system upfront gives you full ownership and the greatest long-term financial benefit. You can start saving on your electric bills, and you may qualify for valuable incentives like the federal solar tax credit and local rebates where available. Upfront ownership also means you keep 100% of any energy savings over time. With Sunrun, your purchase includes expert installation, system monitoring, and product warranties, so you can invest in solar with confidence and peace of mind.
+Can I just buy my own solar panels?
+Yes, homeowners can purchase solar panels, but doing so online and attempting a DIY installation isn’t recommended. Installing a home solar system requires electrical expertise, permitting, and utility approvals, and improper installation can lead to safety issues or void warranties. If you choose to purchase your home solar system outright, make sure you choose a trusted solar and storage installer like Sunrun. Sunrun handles everything from home solar system design and professional installation to permitting, inspections, and ongoing support.
+Is it better to lease or buy solar panels?
+Leasing and buying solar panels come with their own unique advantages.
+Sunrun gives you the option to buy your solar panels. When you own your home solar system, you'll get all the solar benefits. This means solar incentives like state solar rebates, Solar Renewable Energy Credits (SRECs), and the federal solar tax credit will go directly to you. You could also recoup the cost of your investment thanks to the potential value the system adds to your home; however, you’ll be responsible for any repairs and maintenance your solar system needs outside the scope of your home solar system’s manufacturer warranty.
+Going solar can be costly. That’s why Sunrun also offers the stress-free Sunrun Subscription Plan solar lease,, so you can go solar for as little as $0 down. You’ll only be responsible for paying a low monthly bill. Because Sunrun owns the system, we’ll also provide 24/7 monitoring and maintenance during the length of your agreement, free of charge. That means clean, worry-free energy that’s guaranteed to save you money, and if it breaks, we’ll fix it!
+What happens if my home solar system breaks or isn't working as expected?
+We stand by our solar and battery systems and only use technology that maximizes their quality, efficiency, and affordability. All of our home solar and storage systems are backed by robust warranties; however, since our customers own their systems with our system purchase plan, they'll have to cover any cost of repairs outside the scope of the manufacturer warranties.
+If you choose our monthly lease or prepaid lease plan, your solar system will be backed by our Solar Guarantee. We monitor your solar system daily and will proactively maintain and repair your panels, free of charge.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunrun.com/add-a-battery
+
+Add a Tesla Powerwall battery to your solar system
+Get even more from solar
+Protect against outages
+Gain energy independence
+Monitor your energy
+Details
+Hardware: Sunrun is currently offering Tesla Powerwall 3, one of the most trusted energy storage solutions available on the market.
+Services
+10 year coverage
+All our equipment is fully warrantied and has complete service coverage for 10 years.
+Expert installation
+With over 1,000,000 customers and counting, we're the premier installer of home solar and battery systems in America.
+Virtual power plants
+Sunrun is the nation’s premier Virtual Power Plant provider, delivering value to customers in eligible utility markets - usually in the form of yearly cash payments!
+Easy Process. Better Technology. Happy Customers.
+Get an add-on battery
+If you are a Sunrun customer interested in adding a battery, complete the form or call 844.363.2966. We'll contact you shortly, if available in your area, to discuss next steps.
+FAQs
+Who can get an add-on battery?
+Add-on batteries are currently available for Sunrun customers in the following markets: California (PG&E, SCE, SDGE or LADWP), Maryland, Massachusetts, Florida, Nevada, New York (PSEGLI), Texas (Oncor and Centerpoint), HI, and IL (ComEd). Availability in other locations is coming soon. Complete the form above to be contacted once add-on batteries become available in your location.
+What is the process for getting an add-on battery installed?
+If you are eligible for our current add-on battery solution, fill out the form above. You’ll be contacted by a Sunrun representative who will guide you through the next steps of verifying your information and completing paperwork.
+What are the options for payment of an add-on battery?
+You can pay for your add-on battery in cash, as a 10 year loan, or as a $0 down monthly Sunrun payment in CA. Speak with your Sunrun team to confirm payment options in additional markets.
+What battery do you install?
+We are currently offering Tesla Powerwall batteries, one of the most innovative and powerful batteries on the market.
+How many batteries are right for me?
+A Sunrun representative can help you determine how many batteries you’ll need to achieve your goals. Sunrun offers up to 4 batteries.
+How does billing for an add-on battery work?
+An add-on battery will not change the billing for your current solar system. You will receive a new separate bill for an add-on battery that reflects your financing selection.
+*In California, outside of Virtual Power Plant (VPP) rewards opportunities that may be available, customers who went solar in 2016 or earlier on a NEM 1.0 metering plan outside of SCE’s service territory are not incentivized for evening battery usage and are thus generally recommended to keep all stored energy for outage protection.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunrun.com/free-solar-quote?utm_source=website&utm_medium=hpherotopgaqcta&utm_campaign=SR6302&campid=SR6302&utm_term=websitehp&utm_match=e&utm_site=website
+
+go solar
+Take control of your energy today
+Reliable power, predictable energy bills
+- 1Get a cutting edge solar and storage system
+- 2Protect against outages
+- 3Learn why over 1 million customers rely on Sunrun
+Skip to content
+go solar
+Reliable power, predictable energy bills
+
+--------------------------------------------------------------------------------
+
+URL: https://sunrun.com/free-solar-quote?utm_source=website&utm_medium=hpherogaqcta-var1b&utm_campaign=SR6302&campid=SR6302&utm_term=websitehp&utm_match=e&utm_site=website
+
+go solar
+Take control of your energy today
+Reliable power, predictable energy bills
+- 1Get a cutting edge solar and storage system
+- 2Protect against outages
+- 3Learn why over 1 million customers rely on Sunrun
+Skip to content
+go solar
+Reliable power, predictable energy bills
+
+--------------------------------------------------------------------------------
+
+URL: https://www.sunrun.com/referral
+
+Refer A Friend: Give $500, Get $500*
+To our valued customers, give the gift of clean, reliable energy to someone you know and love—neighbors, colleagues, friends and families. Collectively, we can leave a cleaner planet for generations to come.
+Skip to content
+
+--------------------------------------------------------------------------------
+
+URL: https://www.sunrun.com/our-team
+
+Mary Powell
+Chief Executive Officer
+Ms. Powell has served as Sunrun's Chief Executive Officer since August 2021 and as a member of our Board since 2018. From 2008 to 2019, Ms. Powell served as the President and Chief Executive Officer of Green Mountain Power Corporation (“GMP”), a fully integrated electric utility company that serves 75 percent of the State of Vermont’s residential and business customers. At GMP, Ms. Powell successfully executed strategies to drive increased customer satisfaction and growth, delivered on an ambitious energy vision to provide low-carbon, low-cost, and highly reliable power to Vermonters, and positioned the company as a leading energy transformation business. Ms. Powell’s previous roles at GMP include serving as Senior Vice President and Chief Operations Officer from 2001 to 2008 and as Senior Vice President of Customer and Organizational Development from 1999 to 2001. Ms. Powell is nationally recognized for her work disrupting the energy sector and has received numerous industry awards, including being named to the 2024 TIME100 Climate List of Most Influential Leaders, Utility Dive’s 2019 Executive of the Year, and one of Fast Company’s 100 Most Creative People in Business in 2016. Prior to joining GMP in 1998, Ms. Powell held executive roles within the banking industry and served in state government. Ms. Powell currently serves on the board of directors of CGI Inc., a global IT and business consulting services firm. From 2019 to 2021, Ms. Powell served on the board of Hawaiian Electric Industries Inc., the largest utility in Hawaii, and from 2019 to 2023, on the board of Energir, one of the largest energy companies in Québec and the northeastern United States. She has also served on the boards of a number of other privately held companies and nonprofits. Ms. Powell also chaired the board of Climate Change Crisis Real Impact | Acquisition Corporation, a former special-purpose acquisition corporation that combined with EVgo Services and enabled the fast charging network for electric vehicles to become a publicly listed company. Ms. Powell holds an associate’s degree from Keene State College.
+Paul Dickson
+President and Chief Revenue Officer
+Mr. Dickson has served as our Chief Revenue Officer since January 2022 and our President since April 2024, prior to that, he served as Senior Vice President. Mr. Dickson served as Chief Revenue Officer at Vivint Solar, Inc. from September 2016 until he joined us in October 2020 via our acquisition of Vivint Solar, Inc. Prior to his role as Chief Revenue Officer, he served as Vivint Solar, Inc.’s Senior Vice President of Operations from November 2013 to September 2016, and as Vivint Solar, Inc.’s Vice President of Finance and Capital Markets from May 2011 to November 2013. Prior to joining Vivint Solar, Inc.’s founding team, Mr. Dickson served as the Director of Smart Grid and Energy Management for Vivint, Inc. from December 2010 to May 2011. From May 2007 to December 2010, Mr. Dickson co-founded and served as the President and Chief Executive Officer of Meter Solutions Pros, LLC, an energy management and smart-grid business acquired by Vivint, Inc. Mr. Dickson holds a B.A. in communications from Brigham Young University.
+Danny Abajian
+Chief Financial Officer
+Mr. Abajian has served as our Chief Financial Officer since May 2022. Prior to becoming our Chief Financial Officer, Mr. Abajian served in many leadership roles within our Project Finance organization, including Senior Vice President from April 2020 to June 2022, Vice President from February 2016 to April 2020, Senior Director from August 2013 to February 2016, and Director from July 2010 to August 2013. From July 2005 to July 2010, Mr. Abajian was an investment banker, having served as an associate at Barclays Capital and an analyst and associate at BNP Paribas. Mr. Abajian holds a B.S. in finance and international business from the New York University Stern School of Business.
+Jeanna Steele
+Chief Legal Officer and Chief People Officer
+Ms. Steele has served as our Chief Legal Officer since May 2018 and our Chief People Officer since December 2021 where she oversees legal affairs, people strategy, operations and development, health & safety, and environmental, social, governance (ESG) matters. From March 2015 to May 2018, Ms. Steele served in various roles at our company, including Head of Litigation. Previously, Ms. Steele was an attorney at the law firm Wilson Sonsini Goodrich & Rosati. Ms. Steele serves on the board of directors of the Giffords Law Center to Prevent Gun Violence, and she is a former member of the California Pay Equity Task Force, the first of its kind in the nation. Ms. Steele holds a B.A. in English from McGill University and a J.D. from the University of San Francisco.
+Chance Allred
+Chief Experience and Direct Sales Officer
+Chance is responsible for delivering exceptional customer experiences at Sunrun, overseeing Customer Strategy, Customer Engagement, Sales Operations, Marketing, Employee Experience, and the company’s direct-to-consumer sales organization. Before assuming his role as Direct Sales Officer in July 2025, he was named Chief Experience Officer in 2022, following his role as Chief Sales Officer at the company. He joined Sunrun through the acquisition of Vivint Solar, where he spent a decade building one of the industry’s most successful sales organizations, specializing in direct-to-consumer, retail, and inside sales channels. As Chief Sales Officer at Vivint Solar, he led a team that drove a 225% compound annual growth rate between 2011 and 2015, helping the company become the second-largest residential solar provider in the U.S. and go public with a $1.5B IPO in 2014. Chance holds a business degree from Southern Utah University. Outside of work, Chance enjoys landscape photography, friends, family, a good outdoor adventure, and golf.
+Patrick Kent
+Chief Field Operations Officer
+Patrick Kent leads all aspects of our installation and field service fulfillment teams, ensuring exceptional service with top-tier safety and quality standards. Since joining Sunrun in 2014, Mr. Kent has significantly contributed to our success, serving as Senior Vice President of Operations since 2022. Previously, Mr. Kent was a key player in our Sales organization, rising from Regional Sales Manager to Senior Vice President of Field and Retail Sales. Prior to joining Sunrun, he worked at a channel partner of Sunrun's (Verengo), was President and founder of Next Step Racing, and started his career managing outdoor sports retailers. Mr. Kent holds a BA in history from the University at Albany and is an alumni of the National Outdoor Leadership School.
+Rachit Srivastava
+Chief Technology Officer
+Rachit Srivastava has served as Chief Technology Officer since December 2024. He brings nearly 20 years of expertise in artificial intelligence, machine learning, and data analytics to the role. Rachit was promoted to CTO after joining Sunrun as Head of Artificial Intelligence, where he quickly advanced the company’s use of AI to drive innovation. As CTO, he leads Sunrun’s technology strategy, focusing on greater system automation to deepen customer relationships and accelerate the efficient deployment of storage and solar assets. Prior to joining Sunrun, Rachit led machine learning initiatives at Cockroach Labs, where he advanced distributed SQL database solutions adopted across multiple consumer-facing industries. Before that, he developed trading signals using AI and machine learning as Vice President, Research and Modeling at Two Sigma. He has also built machine learning and forecasting tools for leading financial institutions including Goldman Sachs and Morgan Stanley. Rachit holds a Master of Science in Computational Finance from Carnegie Mellon University, a Master of Science in Electrical Engineering from the University of Southern California, and a Bachelor of Software Engineering from the University of New South Wales.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.sunrun.com/solar-plans-and-services
+
+Lots of Plans. One Trusted Partner.
+The Sunrun Solar Subscription is the best selling subscription in America, but every home is unique. Find the best plan for your situation.
+Sunrun Subscription Plan vs. solar panels ownership
+Our solar lease subscription plan offers predictable, affordable rates for as little as $0 down in upfront costs, or you could purchase solar panels outright.
+Sunrun Subscription Plan
+Solar panels ownership
+Most popular
+Sunrun Subscription Plan
+Leasing solar panels
+Benefits
+Who maintains?
+Payments
+Solar panels ownership
+Purchasing solar panels
+Benefits
+Who maintains?
+Payments
+Take control of your energy bills
+Pick the right plan for you
+Power life on your terms
+Our tailored payment plans make home solar more affordable with predictable monthly payments, little to no money down, and no debt options.
+battery storage
+Solar storage for uninterrupted living
+Unlock reliable energy and greater control over your electricity usage with our cutting-edge battery technology. Power your home sustainably and experience a brighter future, day and night.
+Protected power
+Energy savings
+A cleaner future
+Seamless integration
+
+--------------------------------------------------------------------------------
+
+URL: https://www.sunrun.com/contact-us
+
+Contact Us
+Interested in solar?
+Got questions about solar?
+Already with Sunrun?
+Log into your Sunrun App to help answer questions such as getting a copy of your agreement, billing, payments, monitoring your system, and more.
+Operating Hours
+- Mon - Fri: 5am - 7pm PST
+- Sat: 6am - 4pm PST
+- Sun: Closed
+Your home energy, customized
+1
+Learn about the incentives in your state2
+Find your ideal system and battery3
+Get your cost to go solar todaySunrun Careers
+Partnership Opportunities
+Press Inquiries
+Change the world one rooftop at a time.
+Team up with the #1 residential solar and storage company in the U.S.
+Looking for a story to tell? We’ve got one or two.
+
+--------------------------------------------------------------------------------
+
+URL: https://sunrun.com/solar-battery-storage/tesla-powerwall
+
+Tesla Powerwall
+Introducing Tesla Powerwall 3
+Request a free quote
+Gain even greater control over your energy by adding Tesla Powerwall 3 to your solar installation.
+Elevate your home with Powerwall when you go solar
+Power more than ever before
+Monitor your energy with the app
+Enjoy greater energy independence
+Leaders in solar technology and service
+Powerwall FAQs
+How long will a Tesla Powerwall power my home?
+In an outage, your Powerwall(s) will automatically disconnect from the grid and restore electricity in your home in a matter of milliseconds. The duration of outage protection with Powerwall 3 depends on your starting charge level, energy usage, how many batteries you have, and the amount of solar feeding your home or recharging your Powerwall(s). Click here for a more detailed guide of what to expect.
+How many Tesla Powerwalls should I get?
+For many customers, one Powerwall is sufficient. However, depending on your personal usage, backup desires, and utility bill savings potential, your Sunrun consultant may recommend more than one Powerwall. Give us a call to get in touch with a Sunrun consultant today.
+Where will my Tesla Powerwall battery be placed?
+A certified Sunrun installer will mount your Tesla Powerwall on the wall, usually next to your electrical panel inside your garage or on the outside of your home.
+How much does Tesla Powerwall cost?
+You can get Tesla Powerwall for as little as $0 down. Plus, both our monthly and full amount leases come with worry-free performance and 24/7 monitoring and maintenance.
+See which financing options are available in your area by getting in touch with a Sunrun consultant today.
+Can I add Tesla Powerwall to my existing Sunrun solar system?
+At this time, we only offer Tesla Powerwall as an add-on to an existing Sunrun installation in California. If you’re outside of California, stay tuned for future opportunities to add to your Sunrun system.
+What is the difference between Tesla Powerwall and other batteries?
+Whole-home backup: Many homeowners with a single Powerwall 3 are able to have whole-home backup.
+This means the one Powerwall 3 unit is connected to all your home's circuits. However, the question isn't whether your battery can power your whole home, but for how long. Note that similar to a cellphone or laptop, battery life declines more quickly when using more energy all at once. So, if you’re anticipating a longer outage, being mindful of your usage and limiting backup to only necessary loads is wise.
+Battery life: The Powerwall 3 offers robust storage capacity of 13.5 kWh* for extended battery life, allowing you to keep your critical appliances running in an outage.
+App experience: The Tesla app has a user-friendly interface available to Sunrun customers with one or more Powerwalls that lets you access additional energy insights related to your home energy production, consumption, and storage.
+“Blinkless” backup: Powerwall features "blinkless" outage transition, which provides seamless power supply transfer during outages, eliminating any flicker or interruption in electricity. That means no need to reset your clocks and router.
+Stacking: Finally, you can stack multiple Powerwalls in your new Sunrun installation to increase flexibility and protection in an outage, particularly in extended outages.
+Connect with a Sunrun consultant and determine the battery storage and backup solution that will best meet your energy needs.
+*See Tesla spec sheet for power and storage capacity details.
+
+--------------------------------------------------------------------------------
+
+URL: https://servicetransfer.sunrun.com/
+
+Selling or buying a home with a Sunrun system? Complete your transfer in this portal. Get started by entering the address below.
+Have Questions? Learn more here
+Ensure a seamless transition of your Sunrun service when selling your home. Our process is simple, transparent, and supported by our dedicated team.
+Seamless Transfer
+Easily transfer your Sunrun service to the new homeowner without any hassle or interruption.
+Customer Support
+Our dedicated support team is here to assist you every step of the way to ensure a smooth transition.
+No Hidden Fees
+Transparent pricing and no hidden fees make the transfer process straightforward and stress-free.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.sunrun.com/moving-made-easy
+
+Are You Selling Your Home with Sunrun Solar?
+Need more details on transferring your service?
+Follow these steps in our transfer portal.
+Prepare your information
+Verify & submit details
+Sign & credit check
+Finalize the transfer
+Start transfer & view special discount offer
+Begin your service transfer
+Get started
+Get a special solar offer for your new home
+See my offer
+Contact:
+Call us with any questions.
+FAQs
+Is transferring your solar agreement easy?
+Absolutely! Transferring your Sunrun Solar service agreement is straightforward and designed with both existing and new customers in mind. Whether you're moving or taking over a service, our process ensures a seamless transition.
+What if I bought my Sunrun solar system up front or with a loan?
+If you bought your solar system up-front or with a solar loan, how you proceed is up to you. We recommend that you sell it with your home and include the cost of the solar system in your home’s price. When you have a buyer, it’s easy to do your transfer. Start the process now by logging in to the Service Transfer Portal.
+What can I do if my home’s buyer is not interested in transferring my solar service agreement?
+Your buyer and/or their realtor can call us to discuss how the solar system will benefit them.
+In the unlikely event that the buyer doesn’t want the solar service agreement, you can prepay for the remainder of your service and bundle it into the price of your home. After paying for the remainder of your service, the new buyers will receive solar power from the system until the end of the solar service agreement, at which point Sunrun can remove the solar system at no extra cost.
+Does Sunrun have a lien on my home?
+No! Because your Sunrun system is an independent energy source, some states require that we file a notice of the agreement on the title. Depending on the circumstance, your home may have an NOIEPC/PUC and/or a UCC on the title. The good news is that we will temporarily remove this during the transfer process, at no cost to you!
+
+--------------------------------------------------------------------------------
+
+URL: https://sunrun.com/go-solar-center/solar-faq
+
+Which best describes you?
+My Home and Solar
+Solar Prep
+Why should I switch to solar?
+The sun rises every day. That's why solar power is a completely renewable, reliable and clean energy source. It reduces our reliance on dirty sources of power such as oil, coal and natural gas, which produce harmful emissions affecting our health and environment.
+Sunrun pioneered the "solar-as-a-service" model in 2007. Since then, we have been delivering on a vision to create a planet run by the sun and provide Americans with affordable, reliable and clean energy. Residential solar energy systems represent an investment in the future of the planet, conserving non-renewable energy sources and protecting the environment.
+In addition, solar panels and home batteries are becoming more affordable, accessible, resilient and efficient. They provide peace of mind and energy security for households when the power goes out or the next storm strikes. Unlike those from your utility, Sunrun customers pay predictable, affordable rates for 20 to 25 years. With home solar, you get to control your energy future.
+Is my home good for solar?
+A lot of things affect how well-suited your home is for solar, including where your home is, the angle of your roof, how much shade it gets throughout the day, and how old your home is.
+Our solar advisors can help you determine if your home is a good fit for solar at the moment. They’ll run a custom analysis of your home with our proprietary solar design technology, BrightPath,™ and they’ll get a sense for your energy needs.
+How many solar panels will my home need?
+Every household is different. When determining the number of solar panels your home needs, consider the following questions:
+How much power do I need? Check your electric bills to see how many kilowatt hours (kWhs) you use throughout the year. We’ll go over this with you in detail during your free solar consultation to figure out just how much power your panels will need to produce.
+What’s your climate like? The number of panels you need depends on how much sun reaches the ground where you are.
+How much direct sun hits your roof? Shading, which direction your roof faces, and any aesthetic preferences you have can impact how big your system needs to be.
+At Sunrun, we have proprietary solar design technology called BrightPath™ to help us create a customized system that maximizes energy production better and faster than if we did it by hand.
+Why do you need my historical electricity usage?
+Your historical electricity usage allows us to design a custom solar system that is the right size for your home.
+Electricity usage varies from person to person and from season to season. That’s why we request a full year of your electricity bills so we can build a system that’s right for you.
+Your sales consultant is trained to review a year’s worth of usage data so we can get the full picture. Energy usage can change with the seasons so we look at 12-months of data to best understand your home’s usage patterns and needs.
+How do you customize my solar system?
+We customize your home solar system by taking into account your past usage, the available roof space and your design preferences to make sure the system will work for you and your home.
+We start with your historical usage and design a solar system that will provide you with the right amount of power based on how much you normally use.
+Then we look at your roof via satellite imagery to see how many panels can fit on each roof plane, keeping in mind that south-facing roofs are the best for solar.
+We verify our measurements and system design with a site survey,a visit to your home to check the roof and your main electrical panel.
+Finally, we reconfirm our final design with you so you know exactly what it will look like and how much electricity you'll receive from solar.
+If you want to learn about the efficiency of your panels or review what the equipment will look like for your specific home, talk to your sales consultant.
+View More
+Installation
+Who will help me when I have questions?
+From design and installation to a lifetime of service and care, Sunrun pairs you with the perfect person to guide you through it.
+Your sales consultant will work with our design team to customize your solar system and find the right payment plan for your needs. Then a project coordinator who is well-versed in your region will manage the rest of the process.
+After your system is up and running, our customer care team will be your go-to for any questions or concerns you have.
+There are a lot of people behind the scenes to make sure your solar panels are producing as much power from the sun as possible — now and in the future.
+Learn more about the Sunrun team.
+What happens during an installation?
+Once we have finalized your system design and have all of the necessary approvals, it will be time to install the solar panels on your roof.
+Our local installation crews are experienced and efficient. A lot of times, they can complete installations in one day. Here's what a typical installation day looks like:
+Step 1 - Crew arrival and preparation
+First things first. We introduce ourselves and map out where we’ll be working and parking our vehicles.
+Step 2 - Review system design and equipment location
+Your foreman will review the plans with you and confirm the equipment and where it will go.
+Step 3 - System installation
+The crew will install the solar panels and wiring on your roof, while the foreman installs your inverter and other electrical equipment.
+Step 4 - Crew clean up
+We clean up as construction winds down to make sure we leave your property exactly as we found it.
+Step 5 - Final walk-through
+Once installation is complete, your foreman will explain how your new home solar system works and how to power it on.
+What happens to my roof when solar panels are installed?
+Since Sunrun home solar systems are roof-mounted, we do drill holes in the roof to anchor the racking equipment for the panels during installation. All our roof penetrations are made watertight and are guaranteed by a workmanship warranty.
+One little known benefit, once the solar panels are on your roof, they can protect the underlying sections from normal weathering and increase its longevity.
+What is installed as a part of a solar system?
+How long does the installation usually take?
+The process of having the solar system installed on your roof can be relatively quick — many Sunrun installations are completed in one day.
+Before our crew comes to your house, it takes several weeks to prepare your project so that you have the smoothest installation day possible. Whenever possible, we’ll do the work for you, and we’ll keep you updated along the way. Here’s what we’ll do:
+Conduct a site survey to look at your roof, attic and electrical panel
+Finalize your custom design
+Apply for permits and wait for approval
+Collect other necessary approvals and documentation that is specific to your neighborhood (such as HOA approval)
+When it comes time to install the system, we’ll let you know how long the construction process will take for your home and what you can do to prepare.
+View More
+My Solar Options
+Home Solar
+How does a home solar system work?
+A home solar system is made up of components that all work together to convert the power of sunlight into usable energy for your lights, appliances and devices.
+1. Solar panels
+Solar panels are made of photovoltaic cells that convert sunlight to direct current electricity (DC electricity). As long as the sun ray’s are making contact with your roof, your panels are converting solar radiation into DC electricity. Even when it’s cloudy, you can still expect your panels to produce 10% to 25% of their normal output. But your electricity isn’t ready just yet. You’ll need an inverter to get the kind of power you need to turn the lights on.
+2. Inverter
+The inverter takes the DC electricity produced by your solar panels and turns it into alternating current electricity (AC electricity). It’s typically installed on an exterior wall of your house, or in the garage.
+3. Main electric service panel
+Solar electricity from your inverter flows to the electrical panel, and then into to your home where it powers your lights and appliances. If your panels generate more solar energy than you use, the excess power will flow to the utility grid. Even better? You might even earn energy credits from your local utility for the power you send.
+4. Sunrun meter
+Your Sunrun meter monitors your system production and sends the information to us through a wireless signal. Since it tracks your energy production 24/7, it will automatically alert Sunrun if it detects problems or irregularities. That way, we can make sure your solar system is in the very best shape without you ever having to lift a finger.
+5. Utility meter
+When your system produces more than you need, the excess energy is sold back to your utility and credited to your monthly electric bill. When you need more energy than your solar system can produce, your home will automatically pull the energy from your utility. Your utility meter measures how much energy comes from and goes to the grid.
+What is installed as a part of a solar system?
+Can I add more panels to my system?
+We aren’t able to add solar panels to existing home solar systems. However, if you qualify, Sunrun can add a second home solar system under a second agreement. If you’re interested, please talk to a solar advisor or Customer Care.
+Home Solar and Battery
+What can my battery back up?
+During a power outage, your battery allows you to backup your kitchen (including the refrigerator), bedroom and bathroom lights, garage door opener and wifi for approximately 8 to 12 hours. When the sun rises again, your solar panels will recharge your battery. The most important rooms and appliances in your home will be powered by your home battery until the grid is up and running again.
+Finance Options and Benefits - Solar Lease
+Is it better to lease or buy solar panels?
+Leasing and buying solar panels come with their own unique advantages.
+Purchasing solar generally requires upfront investment which can make it cost-prohibitive for many. That’s why Sunrun offers stress-free solar leasing so you can switch to solar for as little as $0 down. When you lease solar panels or pay for power through a Power Purchase Agreement (PPA), you are only responsible for a locked-in monthly payment. Since Sunrun owns the system when it is leased, we’ll also provide top-notch monitoring and maintenance during the length of your agreement, free of charge. That means clean, worry-free energy. And if it breaks, we’ll fix it.
+We also know that many people want to own their equipment which is why Sunrun also gives you the option to buy your solar panels. When you own your solar system, you own your production and all the benefits that come with solar investment. That means solar incentives like state solar rebates, net metering and the federal solar tax credit will go directly to you. However, you’ll be responsible for any repairs and maintenance your solar system needs outside the scope of your solar system’s warranty.
+To learn more about which solar plan is right for you, get connected with one of our solar advisors today at (855) 478-6786
+What's a solar lease or PPA?
+Knowing there had to be a more affordable way to bring clean energy to the people, we invented solar leasing and power purchase agreements, or PPAs. So instead of purchasing a system outright, we offer additional options that require little to zero upfront costs.
+The difference between a solar lease and solar PPA is simple: With a lease, you pay a fixed monthly “rent” in return for use of the system. With a PPA you pay a fixed price per kWh for power generated. We’ll help you decide which option is best for you. So now that you know what a solar lease and PPA is, you’re probably wondering why you shouldn’t just buy a home solar system outright. Here are a few reasons why:
+Get started for as little as $0 down.
+Skip the hassle of ownership. Sunrun will handle installation, maintenance, monitoring, and insurance for the life of the agreement.
+Rain or shine, we guarantee solar system performance. If the system doesn’t produce the electricity we promised - for any reason - you’ll receive a refund for the difference. If the system overproduces, you keep the excess power.
+Sell your home with ease. Sunrun has a team of service transfer experts and we guarantee a seamless agreement transfer to the new buyer.
+Sunrun’s BrightSave plans pass down the benefits of rebates, tax incentives, and credits in the form of a low, locked-in bill.
+Flexible financing options let you pay as you go, or you can receive the lowest possible rate with a prepaid option that eliminates monthly billing from Sunrun.
+Want more reasons to get a solar lease or PPA? Our top five reasons to lease your solar system will show you why it’s the smartest way to go solar.
+Can I really go solar for little to $0 down?
+Yes. Qualifying Sunrun customers can take control of their long-term electricity costs for as little as $0 down with BrightSave Monthly. The benefits of solar are rolled up into a low, predictable monthly rate for solar power that replaces all or some of the power you used to receive from the grid.
+How does a prepaid solar lease work?
+With a solar power purchase agreement, or PPA, you pay for the power, not the panels. The amount you pay is based on a per kilowatt-hour rate for the electricity produced by your solar panels, and is usually lower than what the local utility charges for electricity.
+With BrightSave Prepaid, you can go solar with just one, up front payment that covers 25 years worth of solar power. When you choose BrightSave Prepaid, we’ll also actively monitor and maintain your solar panels over the life of your agreement, so all you have to do is enjoy that glorious solar energy made right on your roof.
+Finance Options and Benefits - Solar Purchase
+Is it better to lease or buy solar panels?
+Leasing and buying solar panels come with their own unique advantages.
+Purchasing solar generally requires upfront investment which can make it cost-prohibitive for many. That’s why Sunrun offers stress-free solar leasing so you can switch to solar for as little as $0 down. When you lease solar panels or pay for power through a Power Purchase Agreement (PPA), you are only responsible for a locked-in monthly payment. Since Sunrun owns the system when it is leased, we’ll also provide top-notch monitoring and maintenance during the length of your agreement, free of charge. That means clean, worry-free energy. And if it breaks, we’ll fix it.
+We also know that many people want to own their equipment which is why Sunrun also gives you the option to buy your solar panels. When you own your solar system, you own your production and all the benefits that come with solar investment. That means solar incentives like state solar rebates, net metering and the federal solar tax credit will go directly to you. However, you’ll be responsible for any repairs and maintenance your solar system needs outside the scope of your solar system’s warranty.
+To learn more about which solar plan is right for you, get connected with one of our solar advisors today at (855) 478-6786
+What is the average cost to buy solar panels?
+Depending on the state, a home solar system can cost between $15,000 to $29,000 for system sizes ranging for 4kW to 8kW.* The more power your household uses, the more solar panels you’ll need, which will add to the cost of your solar system.
+Sound like a lot? The upfront cost of a solar system doesn’t have to keep you from going solar. Get in touch with a Sunrun solar advisor to see how you can go solar for as low as $0 with our flexible financing options.
+*Figures based on national averages: https://www.solar-estimate.org/
+Will owning solar panels increase my home value?
+Studies have shown that owning home solar panels can significantly increase your property value.* Solar homes in California sell for $20,000 more on average, while solar homes in other states sell for about $15,000 more. With numbers like that, you can likely recoup the cost of your solar system when you sell your home. Not only will you enjoy clean, reliable energy, you’ll know you've made a smart investment.
+*Source:https://emp.lbl.gov/publications/selling-sun-price-premium-analysis
+How does a solar system purchase work?
+When you purchase a home solar system from Sunrun, you purchase the equipment and Sunrun takes care of everything related to the installation. When you buy your own system, you will directly receive the applicable federal and state solar incentives, tax credits and rebates.
+Sunrun offers two different ways to finance your solar purchase: BrightBuy and BrightAdvantage.
+BrightBuy is the full upfront purchase option where you would pay for the full price of the system at installation.
+BrightAdvantage allows you to finance your solar system purchase with low, fixed monthly payments, upon qualification, at a competitive interest for as little as $0 down.
+With either solar purchase option, you also have the option to add Protection Plus which is our service package that includes system monitoring and maintenance for the lifetime of the agreement.
+What is the benefit of home solar financing?
+With BrightAdvantage, you can enjoy the benefits of going solar like a lower electricity bill, tax credits, solar rebates and hassle-free financing without having to pay the full cost of a solar system up front. We partner with trusted loan providers to help you get fast approvals and low, fixed interest rates, hassle-free.
+By financing your system, you can enjoy the benefits of going solar at little to no up-front cost.
+View More
+Why Go Solar with Sunrun
+What makes Sunrun the best choice for home solar?
+Every home is different and your electricity demands are unique. Our experts are here to help you. Sunrun designs, installs, finances, insures, monitors and maintains solar home solar systems, while families receive predictable pricing for 20 years or more. As the nation’s largest residential solar, battery storage and energy services company, we provide families with industry-leading service, products and financing options to be able to meet different peoples’ needs. Our solar leases offer the financial value and flexibility you deserve.
+With Sunrun, you can take control of your own electricity, and not be left at the whims of your utility company with the next inevitable rate hike. Join the more than a quarter of a million American households who have gone solar with Sunrun.
+Hear from our customers about why Sunrun is the best choice for home solar.
+How does Sunrun compare to other solar companies?
+You have a choice when it comes to solar providers. Since you’ll be working with your provider for the life of your system, you’ll want to choose an established one you can count on for the long haul. Most solar companies offer the bare minimum for what you need to put up a home solar system, while extra benefits like warranties, maintenance, and repairs can come at an extra cost. At Sunrun, we take all the guesswork out of going solar so that you don’t have to worry about the fine print or hidden fees.
+Here are some key things to look for in a home solar company:
+A high volume of positive ratings and a great track record of service before, during and after installation.
+Solar companies that take care of the paperwork, inspections, and working with the city.
+Flexible payment options including solar leases and PPAs.
+Lifetime maintenance on your system should be included, not an add-on.
+An honest provider won’t sell you solar if it can’t save you money—insist on a performance guarantee.
+Choose a provider with the most residential experience.
+We’ll just make this easy for you and tell you that yes, our products include these services, and then some. We’re here to make going solar worry-free. That means helping you with designing your home solar system and controlling your electricity costs, and taking care of the technical details like paperwork, approvals, and installation. And when you choose our BrightSave® solar lease or PPA plans, your solar system comes with 24/7 maintenance and performance guarantees.* Get a free quote today.
+*Sunrun direct sales PPA compared to SolarCity and Vivint Solar PPA, and SunPower and NRG lease. Claims based on contracts created in February, May, & July 2014
+I heard about Sunrun through another solar company. How does Sunrun work with partners?
+Our nationwide network of certified partners are the bedrock of our business because they allow us to provide stellar Sunrun service where you live.
+We only work with the best so you can rest easy knowing that whether Sunrun installs your system or one of our trusted partners does, you’ll have top-notch service as long as you’re a customer.
+My Life with Solar
+Solar Electricity Production
+What is a kWh?
+kWh stands for kilowatt hour, and a kilowatt is 1,000 watts. A kilowatt hour is the standard unit of measure for electricity. It represents the amount of energy required to power a 1 kilowatt appliance for one hour.
+The more power an appliance consumes, the faster it will use up 1 kWh. For example, a power-hungry, 500-watt vacuum cleaner will use up a kWh in two hours, whereas the same amount of energy will power a 100 watt light bulb for 10 hours.
+Your utility will track how many kWh your buy from them, as well as how many kWh you send into the grid.
+Sunrun will track how many kWh your solar panels produce.
+Will my panels work when it is cloudy?
+Solar panels are capable of producing electricity in all types of weather all year round. You will notice that performance will vary from day to day. On a cloudy day a solar system typically performs at 10% to 25% of its capacity.
+When we design our systems and estimate their production, we take in to account the amount of sunlight that your specific region receives each year. This means that your system will be sized appropriately for the amount of sunny (or cloudy) days you receive each year.
+Will my panels work in winter?
+Yes, your solar system will provide your home with power all year, though the amount of power that is produced does shift with the seasons.
+Summer is when solar production peaks with the longest days of the year and consistent sunshine. During winter, solar production is at its lowest due to short days and more variable weather.
+We design our systems with all four seasons in mind, and this seasonal fluctuation will be factored into your solar production estimate.
+Do solar panels work at night?
+Solar panels need sunlight to create electricity--they’re dormant at night. However, you do still have power at night when you go solar through net metering or a home battery.
+Net Metering Makes the Most of Your Solar Production
+Connecting your solar installation to the grid enables net metering. When your solar panels produce excess energy, it's sent to the grid. The utility company then provides credit on your account. At night, you can apply those credits toward drawing electricity from the grid so your solar power never goes to waste. Net metering exists in some form in all of the markets that Sunrun operates in except for Hawaii.
+Solar Battery Storage Offers Energy Independence
+Since there is no Net Energy Metering available for new customers in Hawaii, we use battery storage to make use of solar power at night. Solar batteries maximize your panels’ daytime energy production and provide electricity for later use. So instead of sending your excess electricity to the grid, store it and use your own energy. You'll consume electricity from the battery first before drawing from the grid.
+A home battery or net metering enable your solar installation to access free or reduced-cost electricity at night. That’s how solar is a 24/7 affordable energy option. Sunrun solar panels and a Brightbox battery will have you covered both day and night.
+What happens during a blackout?
+During a power outage, Sunrun solar systems automatically turn off to protect utility workers that may be working on power lines. This means that the solar system will not provide power to the house during an outage. It will turn back on automatically when the utility restores power to the grid.
+The exception to this is home solar systems that have a battery system.
+View More
+Solar Service and Care - Lease and PPA
+How do I care for my solar panels?
+Sunrun covers all system maintenance and guarantees that you will receive a certain amount of power from your system when you sign up for a lease or PPA. There are also few things you can do as a solar homeowner to make sure you are gettting the most out of your solar system.
+Trim back trees.
+The more sun on your panels, the better. It's a good idea to keep nearby trees trimmed to allow the sunshine to reach your panels for as much of the day as possible.
+Spray dusty panels.
+Just a few rainy days a year is enough to clean your panels. If you live in a particularly dusty area, you may want to hose them off — just do it from the ground to be safe.
+Watch out for falling snow.
+It's normal for snow to stick to your panels. Please resist the urge to clean them. The snow will eventually slide off. Try to avoid parking in the landing zone.
+Who do I reach out to if I have a question or concern?
+As a Sunrun customer, you have a team of experts that are ready to help whenever questions come up.
+Throughout the installation process, your project coordinator will be your main point of contact should you have any questions or concerns. Our project coordination team is based out of Denver but specialize in managing projects within a specific region. Their contact information can be found on mysunrun.com.
+You will also have an installation coordinator that will help you with the logistics around your installation day. They are local to your area and work directly with the install team and local building inspectors to manage the on-site work. You’ll receive their contact information when you schedule your installation.
+Once your system is activated, the customer care team is your long-term support system. They are dedicated, knowledgeable, and caring, and are available during the office hours below to help you find a solution to any kind of problem.
+If you ever have any issues or questions, reach out to the Customer Care team at 855-478-6786.
+Does Sunrun monitor my system?
+Yes! We have an entire team dedicated to keeping an eye on your system, the Monitoring Team, and they’re watching all the time. This is how it works:
+1 – We Record Production (in Real-Time)
+Among the various components of your solar system is the Sunrun Meter. It counts your kilowatts as they’re produced.
+2 – We Collect Your Production Data (Every Six Hours)
+Four times a day, your Sunrun Meter sends your production data to our Denver, CO based Monitoring Team, where all production data is collected, stored and analyzed.
+3 – We Evaluate Your Production (Every Day)
+We compare your production to the estimates included in your contract to confirm that your system is working as expected. We also check the weather and other systems in your neighborhood to make sure you’re harvesting just as much sunshine as your neighbors.
+4 – We Fix What Needs Fixing (If Necessary)
+If your system isn’t working as expected, we will dive deeper to identify the issue and rectify the situation. If we cannot fix your system with remote troubleshooting, we may need to send a technician to take a look at your system in person.
+What happens if my system breaks or isn't working as expected?
+Sunrun takes complete care of your solar system, which includes making any necessary repairs or replacements to the equipment over the course of your agreement.
+If you have reason to believe the solar system is damaged or not working as expected, please let us know by logging into the mySunrun app and navigating to Support where you can chat with an agent.
+Will my home solar system have a warranty?
+Yes, all of our solar equipment is backed by robust warranties. When you choose BrightSave, your solar system will also come with 24/7 monitoring and maintenance. So if it breaks? We’ll fix it, free of charge.
+View More
+Solar Service and Care - Purchase
+How do I care for my solar panels?
+Solar systems generally operate without the need for much care and maintenance but there are a few things you can do as a solar homeowner to make sure you are gettting the most out of your solar system.
+Trim back trees.
+The more sun on your panels, the better. It's a good idea to keep nearby trees trimmed to allow the sunshine to reach your panels for as much of the day as possible.
+Spray dusty panels.
+Just a few rainy days a year is enough to clean your panels. If you live in a particularly dusty area, you may want to hose them off — just do it from the ground to be safe.
+Watch out for falling snow.
+It's normal for snow to stick to your panels. Please resist the urge to clean them. The snow will slide off when it's ready. Try to avoid parking in the landing zone.
+Who do I reach out to if I have a question or concern?
+As a Sunrun customer, you have a team of experts that are ready to help whenever questions come up.
+Throughout the installation process, your project coordinator will be your main point of contact should you have any questions or concerns. Our project coordination team is based out of Denver but specialize in managing projects within a specific region. Their contact information can be found on mysunrun.com.
+You will also have an installation coordinator that will help you with the logistics around your installation day. They are local to your area and work directly with the install team and local building inspectors to manage the on-site work. You’ll receive their contact information when you schedule your installation.
+Once your system is activated, the customer care team is your long-term support system. They are dedicated, knowledgeable, and caring, and are available during the office hours below to help you find a solution to any kind of problem.
+If you ever have any issues or questions, reach out to the Customer Care team at 855-478-6786.
+What happens if my system breaks or isn't working as expected?
+If you have reason to believe the solar system is damaged or not working as expected, please let us know by logging into the mySunrun app and navigating to Support where you can chat with an agent.
+Will my home solar system have a warranty?
+Yes, all of our solar equipment is backed by robust warranties. We only choose best-in-class equipment, including solar panels and batteries, with the highest quality workmanship, backed by 20 years of residential solar experience.
+My Bills
+Solar Billing
+How is the way I pay for power different with solar?
+When you go solar, the way that you pay for your power also changes.
+Whether you choose to purchase your solar system or pay monthly, you will still receive a utility bill as you will now receive power from two sources, your solar system and the gird.
+The payment you make to Sunrun, whether upfront or on a monthly basis is for your solar. Your utility bill will then be for any extra power that you need that month that the solar system does not produce. How much energy you end up having to buy from your utility depends on the size of your solar system and how much energy you're actually using. With weather and seasonal changes, your utility bill will vary. For this reason, it helps to think about your energy costs on an annual basis.
+Why do I still receive a utility bill with solar?
+You still receive a bill from the utility when you have solar because you remain connected to the grid. Even in months where your solar system provides all of the electricity you need, you can expect to pay standard utility connection fees.
+Being connected to the grid is a good thing. It allows you to have power when your are producing less than you need, like on a cloudy day, during the winter or when you're running your air conditioning. It also allows you to take advantage of net metering so your solar power never goes to waste.
+How does paying for solar power help control my costs?
+Utility rate increases are unpredictable, and they’re only expected to get worse. When you replace utility power with solar power, you take control of your costs with a predictable, locked-in rate.
+The more your utility increases its rates, the greater the benefit you can see from solar.
+How much can I expect to save when I go solar?
+When you sign up for a free quote, our in-house Solar Advisors will work with you to determine how much you can expect to save on your monthly energy bill. This relies on factors like your utility, how much electricity you use and how much sunlight your home gets. We’ll only recommend solar if it’s the right fit for your home energy needs and profile.
+My Community & Utility
+Utilities & Solar
+How can I prepare for rolling blackouts in my area?
+Installing home solar and a battery as backup electricity supply is a smart wasy to prepare for rolling blackouts. Unpredictable outages emphasize the value of having solar for your household's energy security and peace of mind.
+Utility companies are increasingly implementing rolling blackouts, known as a Public Safety Power Shutoff (PSPS), to reduce risks during extreme weather conditions and wildfires.The California Public Utilities Commission (CPUC) authorizes companies to de-energize the electric grid as a preventative measure to protect public safety and maintain the grid's viability.
+Blackouts now disrupt power to millions of Californians each year and, of course, extreme weather and power outages are not exclusive to the Golden State. Whether you are looking to power through a planned outage, winter storm or a hurricane, traditional fuel-powered generators are not a dependable solution for your emergency plan. A Sunrun solar system and Brightbox battery can safely and reliably power your home through an outage.
+What is net metering?
+Net metering means that your utility will keep track of the solar power that you send into the grid when you are producing more than you’re using. In some months, you may run a credit for this extra power while in others you will need to buy grid power to meet the energy demands of your home.
+What are energy credits?
+You receive energy credits from your utility company for power you produce and don't immediately use.* Your energy credits count towards any energy you get from the utility.
+Most of the energy your panels produce is used right away. This energy does not appear on your utility bill because it never went to the grid. If you have a battery, the energy that it stores also does not appear on your utility bill.
+*In Hawaii, energy that solar homeowners produce is not sent to the grid so utility customers do not receive energy credits.
+Will I get credits from my utility with Sunrun?
+Yes, your system will be grid tied and you'll get credits from your utility when you're a Sunrun customer whether you choose to own your system or go solar through a lease or PPA. These energy credits come from a billing system called Net Energy Metering (NEM). Net metering means that your utility will keep track of the solar power that you send into the grid when you are producing more than you’re using. In some months, you may run a credit for this extra power while in others you will need to buy grid power to meet the energy demands of your home. The only exception to this is in Hawaii where net metering isn't available.
+What are tiered utility rates?
+Tiered utility rates are a structure in which the more electricity you use, the higher your rate gets. You are allowed a certain amount of power (kilowatt hours) in each tier. Once you've exceeded the amount in the tier, you move into the next highest tier. The lower tier rates are affordable and the higher tier rates are very expensive.
+When we customize your home solar system, we assess your energy needs to determine the number of solar panels you’ll need for your home. You’ll still be connected to the grid in case you need to source any extra energy. The goal with a solar system design will be to keep you in the lower tiers so you are only replacing the most expensive power with solar.
+Not all utilities are created equal, and not all utilities have tiered utility rates. Contact one of our expert solar consultants to learn more about your utility rate structure and how solar can help you avoid paying for power when it is at its most expensive.
+View More
+Impact
+What is the environmental impact of a Sunrun system?
+There are many different ways that you can measure the positive environmental impact of your Sunrun home solar system. Here are just a few:
+It takes just 10 months of solar production for a Sunrun home solar system to offset the carbon emissions associated with its manufacture.
+Over its lifetime, the average Sunrun solar home will prevent harmful carbon emissions equal to driving 498,778 miles in an average car, which is more than enough to drive to the moon and back.
+When you look at cumulative impact of all 233,000 Sunrun homes, we have had the same impact as recycling 2.6 trillion pounds of waste, which is like recycling 128 Eiffel Towers.
+As more people like you join the solar movement, the amount of impact we are able to have becomes all the more significant.
+How does going solar help my community?
+Going solar means that you have adopted a clean source of electricity for your home. Instead of using power that was generated at a plant using fossil fuels, you get your power from the sun with zero emissions. This home grown power doesn't just help contribute to cleaner air, it also helps take strain off the grid during peak demand periods, which is safer for everyone.
+What does Sunrun do to give back?
+Sunrun believes in giving back to the communities where our customers and employees live, work and play. Here are a few examples of the work we've done, made possible by our customers.
+Illuminating low-income homes. We partnered with GRID Alternatives to bring solar energy to 1,000 low-income families, providing over $25 million in lifetime savings and preventing as much pollution as 11,890 cars emit in a year.
+Powering Puerto Rico's recovery. When hurricane Maria devastated Puerto Rico, we rushed to equip eight blackout-stricken fire stations with solar and battery systems to power their urgent emergency aid work.
+Training for jobs of the future. We partnered with the NAACP’s Solar Equity Initiative to bring job training and solar installations to low-income families across the United States.
+My Financing & Agreement Options
+Agreement
+Can I change my agreement type? (How I pay)
+Once you have solar panels installed on your home, you cannot make a change to your agreement type.
+You may have weighed a few different agreement options when you signed up. If you’re reconsidering or need clarity on your options, reach out to your sales consultant or project coordinator.
+We understand everyone has different situations and needs. Our experts are well-versed in the benefits associated with our options. We are here to help you figure out what’s best for you.
+Should I buy insurance on my Sunrun system?
+Not necessarily. Depending on where you live, there may be state regulations that require you to insure the system. When this is the case, we will make sure that you are aware of the regulations but you will be responsible for working with your insurance company.
+In states where insurance is not required, we still recommend that you tell your insurance company that you are getting a home solar system. It is likely already covered under your current policy, and may not include any additional fees for coverage.
+What's the deal with solar tax credits?
+The availability of solar tax credits is dependent on the region you live in and the solar product that you invested in.
+The federal solar tax credit gives you a dollar-for-dollar reduction against your federal income tax. The 26% tax credit applies as long as the home solar system is installed by December 31, 2022. Starting in 2023, the value of the tax credit will step down to 22%. After 2023, the tax credit for residential solar ends.
+State or utility tax incentives vary depending on the region you reside in. To learn more about policies and incentives in your region, check out the Database of State Incentives for Renewables & Efficiency website.
+What happens at the end of a Sunrun lease agreement?
+When you reach the end of your Sunrun agreement, you have three options:
+1. You can purchase the solar system at the fair market value (excluding New York homeowners).
+2. You can renew your lease with us on an annual basis.
+3. Sunrun can remove the system at no cost to you.
+When you reach the end of your agreement, Customer Care will help you move forward.
+What happens when I decide to move?
+Sunrun makes it easy to transfer your solar lease agreement to the new homeowners. Our service transfer specialists handle everything from educating realtors and potential buyers to working with escrow officers, title agents, home inspectors, and anyone else who might need to know about your system or solar lease agreement. When you decide to move, get started in our Service Transfer Portal for everything you need for a successful transfer. Learn more here.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.sunrun.com/solar-plans-and-services/full-amount-solar-lease
+
+America's #1 Solar Plan: The Sunrun Subscription
+Plan benefits
+Solar made simple.
+Solar panels with no debt or upfront costs
+Solar financing with predictable, affordable payments and locked-in rates
+25-year equipment guarantee
+Industry-leading warranty for a best-in-class solar panel and battery storage system
+Free maintenance and repairs
+25-year free maintenance and repairs for total peace of mind
+Unrivaled home solar and battery experience
+Backed by the nation’s #1 home solar panel & battery installer
+details
+What's included in the solar subscription
+Hardware
+We utilize cutting-edge solar panels with high-efficiency photovoltaic cells, ensuring maximum energy capture from the sun. Our solar panels are designed for durability, clean aesthetics, and longevity—built to withstand even the harshest weather.
+Selected for their advanced energy storage capabilities, our solar batteries ensure you have reliable power when you need it. Whether you choose a backup battery for outages or a non-backup option for energy management, our systems offer top performance.
+Solar panel services
+25 year coverage
+All our equipment is fully warrantied and has complete service coverage for 25 years. We cover any repairs or replacements over the entire course of your agreement.
+Expert installation from the most experienced installer in America
+We’re trusted by more people than any other solar and storage company with 1 million homes and counting.
+Dedicated support throughout your entire solar journey
+We do more than install solar panels and batteries. We’re with you all the way, providing dedicated support, performance guarantees, and 24/7 system monitoring.
+Easy process. Better technology. Happy customers
+FAQs: Solar lease
+What is solar leasing and how does it work?
+Solar leasing is a financing option where you pay a monthly fee to use a solar panel system installed on your home, but the solar company owns and maintains the equipment. You benefit from the solar energy produced without the upfront cost of purchasing the system.
+What are the benefits of solar leasing vs. buying?
+Solar leasing offers low or no upfront costs, system maintenance by the provider, and predictable monthly payments. Buying provides potential tax incentives, and full ownership, which can increase home value.
+How much can I expect to potentially save when leasing with a Sunrun Subscription?
+When you sign up for a free quote, our in-house Solar Advisors will work with you to determine how much monthly energy savings you may expect. This relies on factors like your utility, how much electricity you use, and solar energy production at your home. We also make sure you get the most of your state’s solar incentives and federal solar tax credit that may be available. We'll only recommend solar if it’s the right fit for your home energy needs and profile.
+How to choose the best solar leasing company?
+To choose the best solar leasing company, seek out companies that demonstrate long-term stability, backed by strong customer reviews, and included maintenance. Compare rates, system performance guarantees, and reputation for service and support. Sunrun stands out for its proven track record of over 15 years, customizable solar plans, and dedicated customer support.
+Can I really go solar for little to $0 down?
+Yes, you can really go solar with no upfront costs. Qualifying Sunrun customers can take control of their long-term electricity costs for as little as $0 down with the Sunrun solar subscription. The benefits of solar are rolled up into a low, predictable monthly rate for solar power that replaces all or some of the power you used to receive from the grid.
+Beyond a solar lease, what are my other solar panel financing options with Sunrun?
+When it comes to your solar financing options, Sunrun’s best selling plan, the Sunrun Subscription, allows for a solar lease with no upfront costs. We also offer solar loans with monthly payments, a prepaid solar lease, and the option to purchase solar panels outright. With Sunrun, your journey to renewable energy has never been easier and our team will work with you to find the best solar financing for your home and your family. From the very beginning, we will clearly lay out the entire cost, upfront cost, monthly payment costs, and any future bills. Whether you buy or finance solar panels, we’ll be with you every step of the way to help make decisions.
+What are some of the top solar leasing companies?
+Sunrun is the #1 solar leasing company in the U.S., offering flexible solar plans, professional installation, and ongoing system maintenance to help homeowners go solar without upfront costs.
+What happens during a Sunrun solar installation?
+Once you’re approved for installing solar panels, your home will undergo a site assessment so our expert Solar Technicians can work on and present your system design.
+After that, our Solar Design Experts will make any necessary adjustments to your solar design and get your final approval. Once it’s approved, we’ll submit your design to the city for permitting, which can take up to eight weeks. From there, either Sunrun or one of our local certified partners will begin your solar installation. We only partner with top-rated solar installers, so rest assured that you’ll end up with the highest-quality solar system on your roof.
+When your home solar system is complete, the city or county will perform a final inspection of your system. Once it’s approved, it’ll be connected to the grid, and we’ll submit your documents to your utility company. After your utility company grants Permission to Operate (PTO), you’ll be ready to power your home with the sun. Whether you’re buying solar panels, doing a solar lease, or getting a solar loan, when you go with Sunrun, we’re with you every step of the installation process.
+Want to learn more? Here’s a detailed timeline of our installation process.
+How much solar energy will my panels generate?
+The electricity generated by a home solar system is ruled by its rated power output. Yet, it’s dependent on other factors as well to best serve your energy usage. These include panel efficiency, temperature sensitivity, shading, and the angle of your roof. A roof’s angle, though, has less impact on panel performance than the direction it faces. Top production occurs when panels face south a tilt angle of 30° to 45°.5
+Additionally, available sunlight varies by location. This brief equation shows how sunlight and a solar panel’s specifications turn into the amount of power generated.
+Let’s say on a good day, you average 5 hours of direct sunlight. Multiply 5 hours of sunlight x 290 watts from a solar panel = 1,450 watts or roughly 1.5 kilowatt hours per day. That’s about 500-550 kilowatt hours of energy per year from each panel on your roof.4 How does that compare to your annual energy usage?
+Will my home solar energy system have a warranty?
+We only offer best-in-class solar equipment, including rooftop solar panels and batteries with the highest quality workmanship. All of our solar and storage products are backed by robust manufacturer warranties. To learn more, get a free quote today.
+Ways to pay
+Solar financing options for solar leasing
+Monthly payments
+Prepay solar subscription (lease) in full
+Get your solar panel system with confidence
+Sunrun subscription plan vs. solar panels ownership
+Our solar lease subscription plan offers predictable, affordable rates for as little as $0 down in upfront costs, or you could purchase solar panels outright.
+Sunrun Subscription Plan
+Leasing solar panels
+Benefits
+Who maintains?
+Payments
+Solar panels ownership
+Purchasing solar panels
+
+--------------------------------------------------------------------------------
+
+URL: https://education.sunrun.com/meet-the-team
+
+The Sunrun difference
+Unrivaled home solar and battery experience
+With 1 million homes and counting, no one has more installation expertise.
+Smart technology
+An ecosystem of innovative products that put you in control of your home energy needs.
+Payment solutions for every home
+Tailored plans including predictable monthly payments, little-to-no money down, and no-debt options.
+The Sunrun Guarantee
+The industry’s most comprehensive repairs, maintenance & monitoring program.
+our story
+Lighting the way with clean energy
+Keep your phone close - a solar advisor will be calling you soon. We’ll call back if we miss you!
+Ready to chat now?
+Call us at 833.386.2912
+Refer a friend
+awards & recognition
+Trusted by the best
+Consumer Affairs: Buyer's Choice Awards
+BBB A+ rated
+Consumer Affairs: Best Company in Solar
+Consumer Affairs: Top Pick for Solar Leases
+Easy Process. Better Technology. Happy Customers.
+innovation
+SPAN® Smart Electrical Panel
+Leading with impact: how Sunrun is making a difference
+25.6B
+Since 2007, Sunrun solar energy systems have generated 25.6B kw hours of clean energy, helping enable the avoidance of an estimated 14.6 million metric tons of CO2e from entering the atmosphere.
+1M
+Sunrun has delivered more than 1 million hours of backup since 2019.
+$1B
+Since 2007, Sunrun has saved customers over 1 billion dollars in energy savings.
+11,100
+Sunrun delivered energy and substantial bill savings to over 11,100 low-income households.
+More than a solar company
+FAQs
+How is Sunrun different from other solar and battery storage providers?
+Sunrun stands out in the clean energy sector with a commitment to quality, innovation, and customer satisfaction. Unlike other providers, we offer a tailored approach to meet your specific energy needs, ensuring you get the most efficient and cost-effective solar solution to meet your family’s individual needs. Our industry-leading warranty, The Sunrun Guarantee, and dedicated customer support team mean you’re covered with comprehensive care and service throughout the lifespan of your system. We offer payment solutions for every home, from America’s number 1 solar subscription to full ownership options. Plus, our commitment to using only the latest, high-efficiency solar panels and battery storage technology ensures you're investing in a system designed for peak performance and reliability.
+What happens if something goes wrong with my system?
+Your peace of mind is our top priority. If you encounter any issue with your Sunrun system, our dedicated support team is on standby to assist you. We provide industry-leading warranties that cover repairs, maintenance, and even system monitoring to ensure your solar panels and battery storage are always running optimally. The Sunrun Solar Subscription Plan, the industry’s most comprehensive warranty, includes 24/7 system monitoring, free maintenance and repairs, and solar performance guarantee.
+What type of solar panels and batteries does Sunrun offer?
+Sunrun selects only the highest quality solar panels and batteries, focusing on durability, efficiency, and performance. Our solar panels are designed to deliver maximum energy output, even in varying weather conditions, ensuring you get the most from your solar investment. For battery storage, we offer cutting-edge solutions that provide reliable backup power, enhanced energy independence, and the ability to store excess solar energy for use when you need it most. With Sunrun, you're not just getting solar and battery technology; you're getting the future of clean, sustainable energy tailored to your lifestyle.
+How does the solar installation process work with Sunrun?
+Our solar installation process is designed to be as smooth and efficient as possible. From the initial consultation to the final system activation, our team of experts will guide you every step of the way. We handle all necessary permits and inspections, ensuring your system meets local regulations and is optimized for maximum performance.
+Once approved for a solar installation, your property will undergo a site assessment, and an expert technician will schedule a visit with you to confirm the design of your solar panels and full solar energy system.
+After that, our Solar Design Experts will make any necessary adjustments to the design of your solar panels and get your final approval. Once it’s approved, we’ll submit your design to the city for permitting, which can take up to eight weeks. From there, either Sunrun or one of our local certified partners will install your solar panels. We only partner with top-rated solar installers, so you can rest easy knowing you’ll have the highest quality solar installation available.
+When your installation is finished, the city or county will perform a final inspection of your system. Once it’s approved, it’ll be connected to the grid, and we’ll submit your documents to the utility company. After your utility company grants Permission to Operate (PTO), you’ll be all set to start powering your home with the sun.
+What financing options does Sunrun offer?
+We believe in making solar energy accessible to everyone. We offer a range of flexible financing options, including solar leases, power purchase agreements (PPAs), loans, and outright purchase, to fit different budgets and preferences. Our solar consultants will help you choose the best option for your financial goals.
+How much can I expect to save when I go solar with Sunrun?
+When you sign up for a free quote our in-house Solar Advisors will work with you to determine how much you can expect to save on your monthly energy bill. This relies on factors like your utilities, how much electricity you use and how much sunlight your home gets. We’ll only recommend solar if it’s the right fit for your home energy needs and profile.
+
+--------------------------------------------------------------------------------

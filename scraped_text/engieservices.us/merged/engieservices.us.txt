@@ -1,0 +1,161 @@
+ROOT: https://engieservices.us/
+SCRAPED_AT_UTC: 2026-02-11T20:03:11.579325Z
+PAGES_INCLUDED: 3
+
+================================================================================
+
+URL: https://engieservices.us/
+
+WHO WE ARE
+Our team of trusted experts has been committed to delivering innovative, cost-effective, and efficient infrastructure solutions to the public sector for over 50 years.
+Serving the Public Sector
+-
+Education
+K–12, Community Colleges, Universities
+-
+Local Government
+Cities, Counties, States
+-
+Federal Government
+Department of Defense, General Services Administration, Veterans Administration
+-
+Special Districts
+Wastewater Treatment, Transportation, Ports
+-
+Healthcare
+Hospitals, Research, University Medical Centers
+Your Partner for Comprehensive Energy Solutions
+-
+Operational Efficiency
+Heating & Cooling, Lighting, Control Systems, Low Flow Fixtures
+-
+Facilities and Infrastructure Modernization
+Electrical Infrastructure, Civil, Security, Automation, Controls
+-
+Resiliency
+Battery Storage, Back-up Generation, Microgrids
+-
+Onsite Energy Generation
+Solar, Combined Heat & Power, Geothermal, Biogas
+-
+Electric Vehicle Infrastructure
+Fleet, Car and Bus Charging Stations, Renewable Power
+-
+Water Districts, Management, and Wastewater Treatment
+Biogas, Process Improvements, Industrial Pumping, Metering
+3 Dimensions of Impact
+-
+Savings
+Modernizing facilities to improve efficiency and operational performance and minimize risk.
+-
+Energy
+Ensuring energy independence and resiliency to support communities during emergencies and natural disasters.
+-
+Community
+Enhancing community by creating local jobs, fostering civic engagement, and providing relevant education and training opportunities.
+
+--------------------------------------------------------------------------------
+
+URL: https://engieservices.us/customers/
+
+WHO WE ARE
+Our team of trusted experts has been committed to delivering innovative, cost-effective, and efficient infrastructure solutions to the public sector for over 50 years.
+Serving the Public Sector
+-
+Education
+K–12, Community Colleges, Universities
+-
+Local Government
+Cities, Counties, States
+-
+Federal Government
+Department of Defense, General Services Administration, Veterans Administration
+-
+Special Districts
+Wastewater Treatment, Transportation, Ports
+-
+Healthcare
+Hospitals, Research, University Medical Centers
+Your Partner for Comprehensive Energy Solutions
+-
+Operational Efficiency
+Heating & Cooling, Lighting, Control Systems, Low Flow Fixtures
+-
+Facilities and Infrastructure Modernization
+Electrical Infrastructure, Civil, Security, Automation, Controls
+-
+Resiliency
+Battery Storage, Back-up Generation, Microgrids
+-
+Onsite Energy Generation
+Solar, Combined Heat & Power, Geothermal, Biogas
+-
+Electric Vehicle Infrastructure
+Fleet, Car and Bus Charging Stations, Renewable Power
+-
+Water Districts, Management, and Wastewater Treatment
+Biogas, Process Improvements, Industrial Pumping, Metering
+3 Dimensions of Impact
+-
+Savings
+Modernizing facilities to improve efficiency and operational performance and minimize risk.
+-
+Energy
+Ensuring energy independence and resiliency to support communities during emergencies and natural disasters.
+-
+Community
+Enhancing community by creating local jobs, fostering civic engagement, and providing relevant education and training opportunities.
+
+--------------------------------------------------------------------------------
+
+URL: https://engieservices.us/solutions/
+
+WHO WE ARE
+Our team of trusted experts has been committed to delivering innovative, cost-effective, and efficient infrastructure solutions to the public sector for over 50 years.
+Serving the Public Sector
+-
+Education
+K–12, Community Colleges, Universities
+-
+Local Government
+Cities, Counties, States
+-
+Federal Government
+Department of Defense, General Services Administration, Veterans Administration
+-
+Special Districts
+Wastewater Treatment, Transportation, Ports
+-
+Healthcare
+Hospitals, Research, University Medical Centers
+Your Partner for Comprehensive Energy Solutions
+-
+Operational Efficiency
+Heating & Cooling, Lighting, Control Systems, Low Flow Fixtures
+-
+Facilities and Infrastructure Modernization
+Electrical Infrastructure, Civil, Security, Automation, Controls
+-
+Resiliency
+Battery Storage, Back-up Generation, Microgrids
+-
+Onsite Energy Generation
+Solar, Combined Heat & Power, Geothermal, Biogas
+-
+Electric Vehicle Infrastructure
+Fleet, Car and Bus Charging Stations, Renewable Power
+-
+Water Districts, Management, and Wastewater Treatment
+Biogas, Process Improvements, Industrial Pumping, Metering
+3 Dimensions of Impact
+-
+Savings
+Modernizing facilities to improve efficiency and operational performance and minimize risk.
+-
+Energy
+Ensuring energy independence and resiliency to support communities during emergencies and natural disasters.
+-
+Community
+Enhancing community by creating local jobs, fostering civic engagement, and providing relevant education and training opportunities.
+
+--------------------------------------------------------------------------------

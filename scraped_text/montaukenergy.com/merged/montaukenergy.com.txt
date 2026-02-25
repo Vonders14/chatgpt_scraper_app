@@ -1,0 +1,13 @@
+ROOT: https://montaukenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:20:14.641150Z
+PAGES_INCLUDED: 1
+
+================================================================================
+
+URL: https://montaukenergy.com/
+
+Montauk has been engaged in commercial-scale development of renewable energy facilities for over 30 years. Getty Synthetic Fuels, the forerunner to one of our existing subsidiaries, built a groundbreaking high Btu landfill gas to energy plant at the CID landfill in Chicago, Illinois in 1980. Our longest tenured employee began working at that facility in 1983. Getty Synthetic Fuels eventually became GSF Energy. Over the years, GSF Energy built some of the largest landfill gas to energy plants in the nation. Montauk acquired GSF Energy in the 1990s and still operates two of those large facilities. Our unwavering commitment to renewable energy began at the inception of the industry and remains today. 100% of our energy portfolio is still derived from renewable energy sources.
+Montauk is a fully-integrated renewable energy company specializing in the management, recovery, and conversion of biogas into renewable energy. Montauk has over 30 years of experience in the development, operation, and management of biogas-fueled renewable energy projects.
+Montauk is a leader in renewable energy development from biogas. We specialize in developing projects which collectively benefit all parties involved. Our portfolio is diversified and positioned to withstand market fluctuations, as well as to capture emerging trends and future demand.
+
+--------------------------------------------------------------------------------

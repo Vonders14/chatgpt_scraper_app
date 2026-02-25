@@ -1,0 +1,231 @@
+ROOT: https://signalenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:31:16.901098Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://signalenergy.com/
+
+As a leading design/build contractor in the renewable energy industry, Signal Energy has earned a reputation for excellence in the planning, design and execution of wind energy, solar energy and infrastructure projects. Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy and infrastructure projects globally.
+Learn More
+
+--------------------------------------------------------------------------------
+
+URL: https://signalenergy.com/projects
+
+Signal Energy has completed dozens of full design/build renewable energy projects across the United States. Explore some of our featured projects.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/lotus-solar-project
+
+Utility Scale Single Axis Tracker Ground Mount
+SOW to come
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/rambler-solar-project
+
+Utility Scale Single Axis Tracker Ground Mount
+Signal Energy was the full design/build, turn-key contractor for this ground-mounted single-axis tracker project. Signal was responsible for full EPC of the PV system, GEotech, civil work, structural work, mechanical work, electrical collection system (DC and AC), and 345kV substation, interconnection to LCRA switching station, and SCADA controls with the utility.
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/iron-horse-solar-battery-storage-project
+
+Signal Energy was the full design/build contractor for the solar portion of this ground-mounted, fixed-tilt project. In concert with owner-provided modules, Signal Energy was responsible for EPC of the PV system, civil infrastructure, electrical collection system (DC and AC), and project switchgear.
+For the battery storage component, Signal Energy served a BOP role. Utilizing the owner-provided Toshiba lithium titanate oxide batteries, containers, and power conversion systems, Signal was responsible for the design of the structural foundations and supporting electrical components, as well as the overall system installation.
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/west-tennessee-solar-farm
+
+Construction of all civil, structural, and electrical, including interconnection to the utility.
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/maricopa-solar-project
+
+Full Design/Build turn-key EPC: all engineering and construction of civil work, structural work, mechanical work, DC/AC electrical, 69kV substation, transmission line and SCADA controls with the utility.
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/alamo-solar-project
+
+Full Design/Build turn-key EPC: all engineering and construction of roads, foundations, turbine erection, individual padmounted transformers, underground
+and overheard electrical collection system, fiber optics and SCADA building with the utility.
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/spectrum-solar-project
+
+Full Design/Build turn-key EPC: all engineering and construction of civil work, structural work, mechanical work, DC/AC electrical, 69kV substation,
+transmission lines and SCADA controls with the utility.
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/gillespie-solar-project
+
+Full Design/Build turn-key EPC: all engineering and construction of civil work, structural work, mechanical work, DC/AC electrical, 12kV switchgear, transmission lines and SCADA controls with the utility.
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/searchlight-solar-project
+
+Full Design/Build turn-key EPC: all engineering and construction of civil work, structural work, mechanical work, DC/AC electrical, 69kV substation, transmission lines and SCADA controls with the utility.
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/garland-solar-project
+
+Full Design/Build turn-key EPC: all engineering and construction of civil work, structural work, mechanical work, DC/AC electrical, 220kV substation, transmission line and SCADA controls with the utility.
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/tranquillity-solar-project
+
+Full Design/Build turn-key EPC: all engineering and construction of Geotech, civil work, structural work, mechanical work, DC/AC electrical, 230kV
+substation, interconnection to PG&E switching station and SCADA controls with the utility.
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/amazon-solar-farm-u-s-east
+
+Full Design/Build turn-key EPC: all engineering and construction of Geotech, civil work, structural work, mechanical work, DC/AC electrical, 115kV substation, interconnection to Dominion switching station and SCADA controls with the utility.
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/aragorn-solar
+
+Utility Scale Single Axis Tracker Ground Mount
+Full Design-Build Solar Project
+• Geotech • Project optimization • Complete plant engineering • Civil construction • Mechanical supply and install • HV interconnection • AC/DC electrical supply and construction • SCADA
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/titan-solar
+
+Utility Scale Single Axis Tracker Ground Mount
+Full Design-Build Solar Project
+• Geotech • Project optimization • Complete plant engineering • Civil construction • Mechanical supply and install • HV interconnection & Gentie • AC/DC electrical supply and construction • SCADA
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/juno-solar
+
+Utility Scale Single Axis Tracker Ground Mount
+Full Design-Build Solar Project
+• Geotechnical Studies • Project Optimization • Complete Plant Engineering • Civil Construction • Mechanical/Structural Supply & Construction • AC/DC Electrical Supply & Construction • SCADA System • Supply & Construction 138kV Substation • Interconnection
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/mulligan-solar
+
+Utility Scale Single Axis Tracker Ground Mount
+Full Design-Build Solar Project
+• Geotechnical Studies • Project Optimization • Complete Plant Engineering • Civil Construction • Mechanical/Structural Supply & Construction • AC/DC Electrical Supply & Construction • SCADA System • Supply & Construction 115kV Substation • Interconnection
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/sunflower-solar
+
+Utility Scale Single Axis Tracker Ground Mount
+Full Design-Build Solar Project
+• Geotechnical Studies • Project Optimization • Complete Plant Engineering • Civil Construction • Mechanical/Structural Supply & Construction • AC/DC Electrical Supply & Construction • SCADA System • Supply & Construction 115kV Substation • Interconnection
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/noble-solar-storage
+
+Utility Scale Single Axis Tracker Ground Mount
+Full Design/Build EPC project. Geotechnical Studies, Project Optimization, Complete Plant Engineering, Civil Construction, Mechanical/Structural Supply & Construction, AC/DC Electrical Supply & Construction, SCADA System, Supply & Construction 138kV Substation, Interconnection
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/athos-iii
+
+Utility Scale Single Axis Tracker Ground Mount
+Tesla Megapack 2.0
+Full Design-Build Solar Project
+•Design: civil, structural, collection, grounding, communications, and auxiliary power system
+•Procurement: cable, auxiliary transformers, and auxiliary panels
+•Construction: complete civil, foundation, and electrical scopes
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/brittlebush
+
+Single Axis Tracker
+Ground Mount
+Full Design-Build Solar Project
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/radian-solar
+
+Single Axis Tracker Ground Mount
+Full Design-Build Solar Project
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/pearl-river
+
+Single Axis Tracker
+Ground Mount
+Full Design-Build Solar Project
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------
+
+URL: https://www.signalenergy.com/projects/gibson-solar
+
+Single Axis Tracker
+Ground Mount
+Full Design-Build Solar Project
+Signal Energy provides a full portfolio of EPC/Balance of Plant (BOP) services for renewable energy & infrastructure projects throughout the United States. From concept to completion, we emphasize project efficiency and value engineering.
+Read More
+
+--------------------------------------------------------------------------------

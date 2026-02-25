@@ -1,0 +1,636 @@
+ROOT: https://nine.energy/
+SCRAPED_AT_UTC: 2026-02-11T20:22:40.968983Z
+PAGES_INCLUDED: 24
+
+================================================================================
+
+URL: https://nine.energy/
+
+Delivering battery energy storage for the New York City area
+We are the leading developer of community-scale battery energy storage systems (BESS) in the New York City metropolitan area. With sites in the Bronx, Brooklyn, Queens and Staten Island as well as Westchester County and Long Island, NineDot Energy is helping to make our local power grid cleaner, more resilient, more equitable and less costly, supporting New York’s energy transition.
+We can navigate the urban clean energy puzzle
+NineDot Energy combines “outside-the-box” thinking with collaboration and execution. We pull together the right teams, technology and partners, to make our projects happen — that’s why we are leading the way to urban clean energy in the New York City area.
+We're not just developers, we're part of the community
+NineDot combines real-world experience with local expertise. We were founded and are based in New York City — and we care about the communities around us.
+A mural created in coordination with students from the Bronx Charter School for Better Learning 2 (BBL2), artist Tijay Mohammed, and ArtBridge.
+Delivering real projects, real news
+Breakthrough storage + solar site
+Importance: First Tesla Megapack system in NYC
+Size: 3 MW / 12 MWh
+-
+February 9, 2026NineDot Energy Completes $431 Million Financing with Natixis for 28 Battery Energy Storage Projects in New York City
+-
+October 17, 2025Op-ed: Battery storage is the safe energy solution we need
+-
+June 26, 2025Op-Ed | Why we support battery energy storage systems throughout New York City
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/about/work-with-us
+
+Grow your career at a company that thinks outside-the-box
+Our story starts with a puzzle—a culture defined by “outside-the-box” thinking. We’re looking for creative collaborators who support a sustainable future, and work for it. If you’re looking for a company with the benefits and culture to support the work you believe in, you’ve found the right place. We’re building more than resilient energy solutions—we’re building a workplace where people thrive. We believe in big ideas, the ones that come from collaboration, flexibility, and a shared sense of purpose.
+Add your energy to NineDot.
+Flexibility
+Hybrid work environment combining remote and office work.
+Outings
+Company-sponsored team-building events and social activities.
+Family
+12 weeks of 100% paid parental leave within the first year of a child’s birth or adoption.
+Health
+Comprehensive health insurance coverage for employees and families.
+401K
+Retirement savings plan with 5% company matching contributions.
+PTO
+20 paid vacation days off, plus 3 personal floating holidays.
+Benefits and perks for balance, growth, and impact
+Your work makes a difference, and your well-being matters too. When you join NineDot, you’re not just joining a company; you’re stepping into an organization that invests in your growth, celebrates your life outside of work, and supports you at every stage of your journey. Explore the ways we empower you to thrive, personally and professionally.
+Building with purpose, together
+Inclusive culture is essential to advancing clean energy. In this NY-BEST Inclusive Energy Storage Workforce Award presentation, our team shares why building belonging isn’t just the right thing to do—it’s a strategic driver of better outcomes. We highlight the steps we’ve taken, from pay equity reviews to inclusive hiring and employee development. We’re not perfect, but we’re committed to progress and open to learning from others working toward the same goal.
+Values that connect the dots
+We’re doing meaningful work with a talented team, in a dynamic city, for a cause that matters. At NineDot, you’ll find opportunities to grow, collaborate, and tackle complex challenges every day.
+Join the team powering NYC's future
+NineDot Energy develops battery energy storage systems (BESS) at the community scale—right where they’re needed most. As the leading BESS developer in the New York City metro area, we’ve raised over $500 million in capital and have more than 50 projects in development, construction, or operation.
+Why batteries? Because they’re essential to building a cleaner, more reliable grid. Our systems store energy when it’s abundant and dispatch it when demand peaks, helping reduce dependence on the oldest, dirtiest fossil fuel plants. It’s a smarter, faster path to integrating more renewable power into cities like New York—where energy challenges are complex and stakes are high.
+Current opportunities
+- New York
+- New York
+Interviewing at NineDot
+Every hire strengthens our team of creative collaborators who blend technology, policy, and market insights to build a more sustainable future.
+We value transparency and efficiency in our hiring process. You can expect to meet with members of our talent team, your potential manager, peer collaborators, and company leadership. Our goal: give you a clear view of the role, the team, and the impact you’ll help create.
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/about
+
+We’re energy business innovators
+NineDot’s name derives from the classic mathematical puzzle for sparking out-of-the-box solutions. David, Adam and Nalin combined their skills and experiences in clean-energy analysis, science and entrepreneurship to build exciting and important urban energy projects using “outside-the-box thinking.
+Founded in 2015, currently based at the NYU Urban Future Lab in Brooklyn and backed by The Carlyle Group and Manulife, we’re committed to providing clean energy solutions to the New York area and beyond.
+Mission statement
+At NineDot Energy, our team of creative collaborators shares a passion to design and execute innovative solutions that leverage technology, policy, and markets to support a sustainable future.
+Vision statement
+Climate change is the most critical issue of our time: as such, we aspire to have a positive impact on the environment and the society in which we live and work.
+NineDot's story is built on experience and expertise
+When a chaos physicist, a finance professor and a clean-tech entrepreneur got together, good things happened.
+Before 2014, David created SolarCity’s SolarLease, driving a multi-billion $ industry; Adam joined the U.S. Department of Energy after receiving his PhD in physics; Nalin published a breakthrough paper on residential solar risk. So with a foundation in solar strategy, business, finance, science and technology, NineDot Energy’s co-founders (David Arfin, Adam Cohen and Nalin Kulatilaka) met and began their work together
+Our Co-founders created CertainSolar (the predecessor to NineDot Energy), and self-funded its work while they receiving a $490k matching grant from the SunShot Initiative of the Department of Energy, concentrated on projects for community-scale energy and leased the company’s first sites in New York City
+As CertainSolar began work on two fuel cell projects, the Company achieved its first revenues and focused on local distributed battery storage sites, initially in Staten Island and the Bronx, to support NYC’s grid. We received growth capital from Carlyle to expand the team and our project pipeline while also announcing our V2G (vehicle-to-grid) pilot
+Now NineDot Energy (reflecting the Company’s broader energy vision), the Company announced the first Tesla Megapack Site in New York, a milestone in the city’s energy transition and a harbinger of things to come. Our first battery storage site in the Bronx was under construction. NineDot received an $85 million construction-to-term debt facility provided by CIT and SMBC. We held a ribbon-cutting on August 9, 2022, attended by the Bronx Borough President and representatives from the Public Service Commission, NYSERDA and ConEd
+NineDot’s first battery energy site in the Northeast Bronx went live, ready to strengthen the local power grid and provide stable, reliable and resilient power to the surrounding community, and Starbucks became our anchor subscriber. We were named #5 on Crain’s New York Business 2023 list of 100 Best Places to Work in New York City. The company received a $25 million revolving credit debt facility provided by NY Green Bank (NYGB), a division of the New York State Energy Research and Development Authority (NYSERDA). After months of hard work and collaboration between NineDot and the Bronx Charter School for Better Learning 2, we revealed a clean energy mural, created by students, that now hangs outside our battery site across the street from the school
+NineDot received an additional $225 million equity capital commitment from Manulife Investment Management as well as Carlyle. NineDot also secured a $13 million real estate financing deal with SolaREIT. Construction began on multiple NineDot battery sites. Adam Cohen, NineDot co-founder and CTO, was elected to the NY-BEST Board of Directors
+NineDot is on track to develop, build and operate more than 400 megawatts (MW) of clean energy systems by the end of 2026 that will strengthen the local power grid infrastructure and provide clean, reliable and resilient power to tens of thousands of New York households and businesses, in support of New York State’s mission to achieve 100% clean energy by 2040
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/about/team
+
+Leadership
+Adam Cohen, PhD
+Adam Cohen, PhD
+CTO, Co-founder
+Adam B. Cohen, Ph.D., is leading the way to urban clean energy as the Chief Technology Officer and co-founder of NineDot Energy, building community energy sites to make the NYC metro grid cleaner, more resilient, more equitable and less costly.
+Projects in operation or under development that Adam has spearheaded include battery energy storage systems in Staten Island, the Bronx, Queens, Brooklyn, Long Island and Westchester County.
+Adam developed his exceptional understanding of how complex systems interact and evolve in his academic work (Ph.D. from the Chaos Group at University of Maryland and B.S. in physics from Bucknell University); he now applies his findings to the interconnected dynamics of energy markets, technologies, regulations and grid economics. Adam was a postdoctoral fellow at the U.S. Department of Energy (launching a research program applying social and behavioral science to scale up solar energy adoption) where Adam met his NineDot Energy co-founders. Adam is passionate about opportunities to modernize the urban electric system in a way that benefits all stakeholders. Recognizing the impact of Adam’s work, Crain’s New York Business selected Adam as an inaugural “2023 Notable Leader in Sustainability”.
+Anthony Santamaria
+David Arfin
+David Arfin
+CEO, Co-founder
+David is CEO and co-founder of NineDot Energy. As CEO, David spearheads the implementation of NineDot’s strategic vision, including leading the organization, identifying innovative urban energy solutions, galvanizing the company’s financing efforts and engaging with business, political, regulatory and community members as he works to help NineDot accelerate the energy transition in New York City and beyond. He is also the co-founder of Ener-Pacte (France) and SolarVento (Mexico), and has served on the Board of Directors of Simpa Networks (India) and WattzOn (Palo Alto), and as an Advisor to Everyday Energy (San Diego), United Wind (New York), Tigi Solar (Israel), and eMotorWerks (acquired by ENEL). Previously, David served as a Consultant to the US Department of Energy’s SunShot initiative and as Entrepreneur-In-Residence at Israel Cleantech Ventures. David has also been an emissary for the US Department of State in Angola and the Middle East.
+Previously David was the VP of Strategy at Solar City — the largest solar installer in the US — where he created the SolarLease, a game-changing solar financing program that enabled millions of American homeowners to have solar power in their homes. SolarCity was acquired by Tesla.
+David loves building sustainable businesses that contribute to environmental wellness.
+David has a BA in Political Science from the University of California, Los Angeles, an MA in Public Policy Analysis from the Claremont Graduate University, and an MBA from Stanford University. He currently serves on the Green Advisory Council of the New York City Economic Development Corporation and the Board of the Friends of the Arava Environmental Institute for Environmental Studies. He is also a member of the Cleantech Leaders Roundtable.
+Giuseppe Zeppieri
+Jon Carbajal
+Nalin Kulatilaka
+Nalin Kulatilaka
+Chief Strategy Officer, Co-founder
+Nalin is Wing Tat Lee Family Professor of Management and Professor of Finance at Boston University’s Questrom School of Business where he also serves as the co-director of the Susilo Institute for Ethics in the Global Economy. Nalin’s current research interests include impact investing and financing distributed energy resources. Nalin has published extensively in top academic journals as well as influential managerial publications. His book, Real Options (HBS Press), has received wide acclaim. His honors include Bertil Danielson Chair (Stockholm School of Economics), Takang Chair (Tamkang University, Taipei), and the Association for Investment Management and Research’s Graham and Dodd Award. He has co-founded several companies including FirstFuel Software (energy data analytics), and NineDot Energy (community distributed generation for congested urban grids). He serves on the Board of Directors of Assette. Nalin holds a PhD from MIT
+Board of directors
+Adam Cohen, PhD
+Adam Cohen, PhD
+CTO, Co-founder
+Adam B. Cohen, Ph.D., is leading the way to urban clean energy as the Chief Technology Officer and co-founder of NineDot Energy, building community energy sites to make the NYC metro grid cleaner, more resilient, more equitable and less costly.
+Projects in operation or under development that Adam has spearheaded include battery energy storage systems in Staten Island, the Bronx, Queens, Brooklyn, Long Island and Westchester County.
+Adam developed his exceptional understanding of how complex systems interact and evolve in his academic work (Ph.D. from the Chaos Group at University of Maryland and B.S. in physics from Bucknell University); he now applies his findings to the interconnected dynamics of energy markets, technologies, regulations and grid economics. Adam was a postdoctoral fellow at the U.S. Department of Energy (launching a research program applying social and behavioral science to scale up solar energy adoption) where Adam met his NineDot Energy co-founders. Adam is passionate about opportunities to modernize the urban electric system in a way that benefits all stakeholders. Recognizing the impact of Adam’s work, Crain’s New York Business selected Adam as an inaugural “2023 Notable Leader in Sustainability”.
+Christopher McKenzie
+David Arfin
+David Arfin
+CEO, Co-founder
+David is CEO and co-founder of NineDot Energy. As CEO, David spearheads the implementation of NineDot’s strategic vision, including leading the organization, identifying innovative urban energy solutions, galvanizing the company’s financing efforts and engaging with business, political, regulatory and community members as he works to help NineDot accelerate the energy transition in New York City and beyond. He is also the co-founder of Ener-Pacte (France) and SolarVento (Mexico), and has served on the Board of Directors of Simpa Networks (India) and WattzOn (Palo Alto), and as an Advisor to Everyday Energy (San Diego), United Wind (New York), Tigi Solar (Israel), and eMotorWerks (acquired by ENEL). Previously, David served as a Consultant to the US Department of Energy’s SunShot initiative and as Entrepreneur-In-Residence at Israel Cleantech Ventures. David has also been an emissary for the US Department of State in Angola and the Middle East.
+Previously David was the VP of Strategy at Solar City — the largest solar installer in the US — where he created the SolarLease, a game-changing solar financing program that enabled millions of American homeowners to have solar power in their homes. SolarCity was acquired by Tesla.
+David loves building sustainable businesses that contribute to environmental wellness.
+David has a BA in Political Science from the University of California, Los Angeles, an MA in Public Policy Analysis from the Claremont Graduate University, and an MBA from Stanford University. He currently serves on the Green Advisory Council of the New York City Economic Development Corporation and the Board of the Friends of the Arava Environmental Institute for Environmental Studies. He is also a member of the Cleantech Leaders Roundtable.
+David Gluck
+Nalin Kulatilaka
+Nalin Kulatilaka
+Chief Strategy Officer, Co-founder
+Nalin is Wing Tat Lee Family Professor of Management and Professor of Finance at Boston University’s Questrom School of Business where he also serves as the co-director of the Susilo Institute for Ethics in the Global Economy. Nalin’s current research interests include impact investing and financing distributed energy resources. Nalin has published extensively in top academic journals as well as influential managerial publications. His book, Real Options (HBS Press), has received wide acclaim. His honors include Bertil Danielson Chair (Stockholm School of Economics), Takang Chair (Tamkang University, Taipei), and the Association for Investment Management and Research’s Graham and Dodd Award. He has co-founded several companies including FirstFuel Software (energy data analytics), and NineDot Energy (community distributed generation for congested urban grids). He serves on the Board of Directors of Assette. Nalin holds a PhD from MIT
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/about/work-with-us/apply?gh_src&gh_jid=4621597005
+
+Skip to main content
+Battery storage
+Projects
+Landowners
+EV infrastructure
+FAQs
+About
+Our story
+Team
+Careers
+News
+Resources
+Contact
+NineDot Careers
+Finance
+Senior Accountant
+New York
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/about/work-with-us/apply?gh_jid=4621597005
+
+Skip to main content
+Battery storage
+Projects
+Landowners
+EV infrastructure
+FAQs
+About
+Our story
+Team
+Careers
+News
+Resources
+Contact
+NineDot Careers
+Finance
+Senior Accountant
+New York
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/about/work-with-us/apply?gh_src&gh_jid=4485594005
+
+Skip to main content
+Battery storage
+Projects
+Landowners
+EV infrastructure
+FAQs
+About
+Our story
+Team
+Careers
+News
+Resources
+Contact
+NineDot Careers
+People Operations
+General Application
+New York
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/about/work-with-us/apply?gh_jid=4485594005
+
+Skip to main content
+Battery storage
+Projects
+Landowners
+EV infrastructure
+FAQs
+About
+Our story
+Team
+Careers
+News
+Resources
+Contact
+NineDot Careers
+People Operations
+General Application
+New York
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/projects
+
+Breakthrough storage + solar site
+- In operation, August 2023
+- 3 MW / 12MWh
+This Bronx battery storage and solar project is operational and providing electricity to the local community at times of peak demand, especially in the summer.
+Staten Island battery storage project
+- Under construction
+- 5 MW / 20 MWh
+NineDot Energy designed and is developing a battery storage project in one of the highest need areas of New York City. The site is currently under construction. We helped the landowner monetize an underutilized lot, which will provide load relief to one of the most stressed substations in this area of Staten Island.
+Image is a rendering and not the final site construction
+Vehicle-to-grid (V2G) pilot
+- In operation, July 2022
+- 45 kW / 186 kWh
+NineDot Energy worked with partners Revel and Fermata Energy, with a grant from the Wells Fargo Innovation Incubator (IN2) and support from the U.S. Department of Energy’s National Renewable Energy Laboratory (NREL), to launch New York City’s first Vehicle-to-Grid (V2G) pilot in August 2022. Based at Revel’s Red Hook warehouse, this V2G system feeds energy stored in electric vehicles (EVs) back into the grid during times of peak demand, as informed by Con Edison. We are excited by the potential for V2G to augment the battery energy storage solutions we are building in New York City and surrounding areas.
+Fuel cell project
+- In operation, August 2022
+- 5 MW
+NineDot Energy designed and developed this fuel cell site in the Bronx, bringing a new, efficient source of energy to a high-need area. Fuel cells are an ultra-dense source of baseload clean energy.
+This project was purchased by Catamaran Renewables.
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/battery-storage
+
+Batteries are better for the grid
+Battery sites store energy when it’s plentiful and clean, and discharge it back to the grid at times of peak demand, such as on hot summer days — similar to a peaker plant, only with much lower emissions. Battery storage sites allow the grid to incorporate the intermittent renewable energy that is coming online to New York’s electricity supply. In addition, NineDot’s energy storage projects reduce local and system peak load usage and help avoid grid outages. There are so many benefits to New York from deploying battery storage — and that’s why New York State, City and surrounding communities are working hard to support the development of these projects.
+Batteries will help retire dirty "peaker" plants
+Fossil-fuel based “peaker” plants are the dirtiest sources of urban energy, and though they don’t run frequently, they often account for large proportions of greenhouse gas emissions and health problems in surrounding communities. In New York, peaker plants are disproportionately located near low-income communities.
+New York's clean energy goals depend on battery storage
+The Climate Leadership and Community Protection Act (Climate Act or CLCPA), passed by New York State in 2019, established some of the most aggressive energy and climate goals nationwide, including 1,500 MW of energy storage by 2025 and 3,000 MW by 2030 (on the path to developing a nation-leading 6000 megawatts of energy storage). Batteries can store excess wind, solar and hydro power when it’s made, and release that stored energy when there’s excess demand, bolstering the resilience and efficacy of New York’s grid, which is projected to rely on 70% renewable energy by 2030 and achieve 100% carbon-free electricity by 2040. Moreover, energy storage plays a pivotal role in stabilizing supply during peak electric demand and sustaining critical systems during outages.
+Starting in 2024, Local Law 97 sets limits on the allowable greenhouse gas emissions of covered buildings to help New York City reach the goal of a 40% reduction in greenhouse gas emissions from buildings by the year 2030, and an 80% reduction in citywide emissions by 2050. By subscribing to NineDot’s battery projects, building owners can earn credits to use against their energy bills while also reducing their fines owed as the battery system’s CO2 reductions act as an offset.
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/landowners
+
+A win-win for you and your community
+We develop properties in New York City, Westchester and Long Island into valuable and important community-scale energy resources, helping New York City and New York State achieve their decarbonization goals. We generally lease properties, but are open to purchasing land outright over time.
+We are an excellent tenant, delivering on all our commitments while bringing long-term improvements to the properties we develop. We connect our batteries, solar panels and supporting equipment directly to the grid to provide energy as needed, all in a clean, safe and protected manner.
+All of our technologies are approved by utilities like Con Edison and safety organizations like the New York City Fire Department. Since our projects have a direct connection to the FDNY in case of emergency, fencing and fully remote monitoring, you don’t have to worry about any on-site personnel.
+How NineDot Energy works with landowners
+The first step to working with NineDot is to sign a Letter of Intent and authorize us to begin due diligence. We use standard lease or purchase agreements with no landowner investment or maintenance required. As a tenant, NineDot is responsible for removing and disposing of batteries and other equipment when the lease expires.
+Working with the NineDot Energy team was a really smooth experience, as their construction and communication were professional, and they’ve proven to be great tenants too. We’re excited to generate new value from our site while supporting New York’s transition to a cleaner, stronger electric grid.
+-LANDOWNER, BRONX ENERGY SITE
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/ev
+
+Bringing power & parking to accelerate EV adoption
+Electric vehicle adoption is critical to New York’s sustainable future and decarbonization goals. NineDot’s site development can make electrifying your fleet less costly and less difficult.
+Many of NineDot’s existing battery energy storage sites across New York City are built to host EVCs (Electric Vehicle Chargers) – connect with us to learn about space we have available for EV charging. We have a robust pipeline and talented team continually reviewing new sites suitable for EV charging – ask us how we might partner to identify new real estate that fits your electric fleet needs. By leveraging our team’s expertise in securing property, upgrading power service availability, and financing and operating energy infrastructure, we can provide the power & parking needed for organizations to electrify their fleets. Our services are also applicable to companies managing public and private charging hubs in and around New York City.
+Leading the charge
+NineDot has been a leader in electric vehicle adoption and infrastructure development since launching New York City’s first Vehicle-to-Grid (V2G) pilot at Revel’s Red Hook warehouse in Brooklyn. Our V2G systems feed energy stored in electric vehicles back into the grid during times of peak demand, as informed by Con Edison.
+NineDot has also proudly supported the Zero-Emission Vehicles for New York City Act, legislation that would require NYC to transition most of its municipal fleet to zero-emission vehicles by July 2035.
+Opportunities for power & parking with NineDot
+We provide sublease and critical power upgrades, as well as reduced-cost electricity to private and public EV charging stakeholders. Optional V2G solutions provide additional revenue opportunities for fleet operators.
+NineDot is ready to work with real estate owners who want to develop EV charging on their property; construction firms who build EV charging infrastructure; technology providers such as automobile manufacturers; EV charging equipment suppliers (EVSE); and energy and charging management software companies looking for a trustworthy developer who understands how to navigate the New York metro area energy ecosystem.
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/faq
+
+Overview
+-
+1. Who is NineDot Energy?
+NineDot is a Brooklyn-based developer of urban clean energy solutions, with a particular focus on battery storage in the NYC metro area. NineDot was founded and is based in Brooklyn, and the majority of our team of 70+ employees lives in or nearby New York City. We have the largest community energy storage pipeline in NYC, with more than 50 projects in some phase of development, construction or operation in The Bronx, Brooklyn, Queens, Staten Island and Westchester. NineDot now has seven commissioned battery storage projects across four locations in The Bronx and Staten Island, all ready to provide low-emissions power to the grid at times of peak demand. We also have several more projects that we expect to come online by the end of 2026. Our team previously built two fuel cell projects in Staten Island and The Bronx, successfully bringing cleaner energy to parts of the electric grid identified as high-need areas by Con Edison. We’re on target to have 400 megawatts of battery storage in development, construction or operation by the end of 2026—enough to power hundreds of thousands of homes and businesses for four hours on a hot summer day while cutting pollution and improving the grid’s resilience. We invest in local clean energy solutions to build a healthier and cleaner NYC for everyone.
+-
+2. What are battery energy storage systems (BESS)?
+Battery energy storage systems (BESS) are special batteries that connect to the utility’s electricity grid, making that grid cleaner, more reliable and less costly, while helping the community be safer, cleaner and healthier. The batteries charge up overnight when the grid has cleaner energy and excess capacity, and discharge that energy back to the grid when called upon by the utility. Batteries help reduce reliance on polluting fossil fuel power plants (especially the ones that only turn on when electricity demand is at its peak, known as “peaker plants,” typically the highest polluting power options in the grid), improving local air quality and health outcomes by keeping those peaker plants turned off more often. Batteries might be called upon more frequently over time as more intermittent renewables come online, like wind and solar.
+The battery systems NineDot uses are based on lithium-ion chemistry, similar to batteries that are used in electric vehicles, laptops, phones and earbuds for decades. What’s different about energy storage batteries, though, are the stringent regulations they are subject to by the FDNY and DOB, among other local, state, national, and international oversight agencies, and how they are used.
+-
+3. What’s the history of battery storage development in New York City?
+New York has been steadily working on the regulations and safety of distributed, community battery energy storage for over a decade (“distributed” meaning spaced throughout a network, closer to the places where energy is used than traditional power plants). The need for this kind of BESS was one of the main lessons learned after infrastructure failures during Superstorm Sandy in 2012. NYC and the FDNY have also been working on local zoning and safety regulations for BESS over this timeframe. Today, there are operational BESS in every borough of New York City and over 6,000 installations across the state.
+-
+4. What are other benefits of community-scale battery storage systems?
+In addition to making the community cleaner, safer and healthier, BESS are faster and easier to build than larger power plants, as they can be modularly designed exactly to fit the local needs. They can also be placed closer to where power is needed without overwhelming the grid.
+These systems reduce strain on the electric power grid from peak demand: by having more capacity instantly available from grid-connected, local batteries, NineDot’s projects help make the grid more stable and reliable.
+Battery storage also increases use of low-emissions energy: according to the Peak Coalition, “About 750,000 people in New York City live within one mile of a peaker plant…78 percent of these people are either low-income or people of color; many are both.”(Source: Accelerate Now! The Fossil Fuel End Game 2.0) By replacing peaker plants in these communities, BESS brings lower-emissions energy to the area, vs. dirty air from burning fossil fuels nearby.
+Energy storage supports new jobs for New York: the New York City Economic Development Corporation estimates that by 2030 there will be nearly 1,000 permanent jobs within the local energy storage industry. And each of our sites creates up to 30 construction jobs, many of which are subject to prevailing wage and apprenticeship requirements.
+-
+5. Do battery storage systems charge up with renewable energy?
+BESS currently charges from the grid at night, when there’s excess energy available, and that energy is cleaner than during the daytime. So even without directly charging from renewable energy sources, batteries still lead to a net reduction in greenhouse gas emissions. BESS also facilitates the adoption of more renewable energy like wind and solar by providing a storage mechanism for clean energy production spikes, and the energy discharged from BESS when called upon stays in the community.
+-
+6. How else does NineDot support the community?
+As a New York-based small business, we are committed to partnering with local organizations to support their needs. At our first battery site in the Bronx, we have supported and regularly help teach an after-school STEM education program with the Bronx Charter School for Better Learning across the street from us. The students in that school created a mural that tells their clean-energy story to decorate our site, in partnership with a local artist. At other sites and neighborhoods, we have partnered with community gardens to provide financial support; coordinate closely with local elected officials; and sponsor local non-profits and philanthropic organizations such as The HOPE Program, the Bronx River Alliance, and the New York Restoration Project. Finally, we look forward to working with local labor and workforce organizations to maximize our community and MWBE hiring practices.
+Safety
+-
+7. Are lithium-ion batteries for storage systems like yours safe?
+Yes, the battery storage systems we build are safe. We wouldn’t build them otherwise. The technology we use, the designs we create, the construction approach we follow and the permission to operate the systems – these all follow the most stringent rules set by the FDNY, and the FDNY needs to approve our projects from start to finish, before they are allowed to charge up and then discharge energy to the grid.
+-
+8. What about environmental safety?
+Environmental safety is the reason our company exists in the first place – that is, the purpose of BESS is to create a healthier and more sustainable environment where we live and work. BESS has low emissions and creates no air pollution – there’s no fuel burning, no pollutants, and no air permits required. Battery storage has minimal noise impact, and all our projects are designed to fully comply with the NYC Noise Code. Regarding hazardous waste, batteries are managed under RCNY 608 decommissioning plans and follow City and State recycling protocols. In addition, BESS has minimal shadow impact, as no structure is higher than 23 feet from the ground.
+-
+9. What certifications and testing does your technology have?
+Stationary battery energy storage systems are rigorously tested, vetted, certified, and built to comply with extensive national and international safety standards. The risks posed by batteries, like all electrical infrastructure, can be mitigated or eliminated with rigorous testing and safety standards. That’s why product certifications are so important. The most widely recognized battery energy storage safety standards include Underwriter Laboratories (UL) certification and compliance with National Fire Protection Association (NFPA) standards.
+Underwriter Laboratories (UL) Certification or equivalent. UL is a third-party certification company founded in 1894 that develops industry-wide safety standards for a wide range of electrical products and lays out stringent testing protocols to demonstrate product safety. While other third-party companies also provide similar standards and certification services, UL is the “gold standard” and the most common in the U.S. You may have noticed a UL sticker on your toaster, refrigerator or extension cord. Most consumer electrical products sold in the U.S. are required by law to be tested, listed and labeled by a third-party certified laboratory such as UL to protect consumers from unsafe products.
+National Fire Protection Association (NFPA) requirements. NFPA is a U.S.-based nonprofit organization that develops and publishes standards relating to fire and building safety that are recognized and respected around the world. The national standard for battery energy storage safety, NFPA 855, provides requirements for the design, installation, commissioning, operation, maintenance, and decommissioning of battery energy storage facilities. It also outlines the necessary collaboration between the battery energy storage industry and local first responders to maximize the safe and reliable performance of battery energy storage as critical grid infrastructure. Adopting and enforcing the latest edition of NFPA 855 is the best approach to ensure safety at all future battery energy storage facilities. New York State has been a national leader in contributing to the development and early adoption of NFPA 855. NFPA 855 includes provisions that comprehensively address fire risks, including venting (NFPA 68), explosion prevention (NFPA 69), electric code (NFPA 70), and fire alarms and signalling (NFPA 72). (Source: NY-BEST)
+-
+10. Beyond battery safety features, what fire prevention or mitigation methods are typically in place?
+In addition to the safety systems built into the batteries themselves, NineDot battery storage sites have many layers of fire safety features. These include: an overhead deluge/sprinkler system; closed circuit cameras with 24×7 remote monitoring; UV/IR cameras for flame or heat detection and automated gas detection and pressure vents; a “pull station” for manual fire alarm activation; and backup power for monitoring and control systems for use in a grid power outage. Furthermore, there are automatic and remote electricity cutoffs for the system in the event of a safety concern. Finally, our sites provide for FDNY emergency alerts and direct coordination. Every site also requires a Certificate of Fitness (COF) holder supervision, ensuring an expert is available within 15 minutes in case of emergency (Certificate of Fitness [COF] for fire is a certification issued by the FDNY that verifies an individual has the necessary knowledge and skills to safely perform specific fire-related duties or manage certain equipment or materials. These certificates are required for various occupations and operations, ensuring compliance with the New York City Fire Code and promoting safety). We do not plan on having personnel onsite daily as the sites are monitored 24×7 by professionals remotely. Overall, our battery sites and the technology we use are more tested, certified, and monitored than most of the built environment around us.
+-
+11. If battery systems are so safe, why have I been reading news about battery fires?
+Batteries are present in just about every part of our lives, but we know there have been two types of recent battery fires that have caused concerns: fires involving e-mobility devices (such as e-scooters and e-bikes), and larger battery storage systems outside of New York City.
+E-mobility devices are very different from stationary storage: Until recently, many of these battery products were not tested or regulated according to normal consumer standards (such as UL certification). Furthermore, many owners of these devices don’t have the knowledge, training or physical space to charge or store their devices safely. E-mobility batteries are also subject to physical and weather stresses while being moved around the city, unlike our stationary battery systems. We applaud the FDNY for stepping in to make e-mobility battery use safe (NYC DOT even has a trade-in program to replace uncertified e-bikes with approved UL-certified bikes and batteries!). However, the battery storage products NineDot uses in our projects, and the way our technology is deployed, monitored and managed, far exceed safety regulations even now in place with e-mobility batteries.
+Regarding the batteries we use for our systems, the FDNY and DOB have some of the strictest (if not THE strictest) safety requirements in the country for installing energy storage. They require all systems to go through multiple levels of testing and certification at Nationally Recognized Testing Laboratories like UL (the company that likely certified your toaster or refrigerator for safety). If the product isn’t safe, it isn’t allowed in NYC.
+Not only does NineDot work with manufacturers and NYC safety agencies to design the battery sites themselves to be as safe as possible, but also we layer in multiple levels of emergency planning and response; in the very unlikely event that something does go wrong, sprinkler systems and extensive first responder planning would ensure that the situation was contained in short order. While there’s an extremely rare chance of a thermal event at our sites, we’ve taken extra precautions such as putting redundant systems in place to contain and extinguish any fires.
+Notably the Warwick, NY, and Moss Landing, CA, fires – two of the most recent widely-discussed BESS fires – use technology and designs that simply would not be allowed in New York City. In fact, there have been no battery storage fires in NYC to date. We don’t think that’s a coincidence. The City’s public safety officials have put the right resources in place to service the people of New York.
+Projects and Construction
+-
+12. Why are you building batteries near where people live, instead of in less-dense areas outside of NYC?
+Because that’s where the need is. A key obstacle we face in the clean energy transition is known as “transmission congestion”: that is, a limitation in how much electricity we can transport from one area to another with our existing wires. Think of it like an electricity traffic jam. Part of the reason NYC is still so reliant on in-city fossil fuel plants is because transmission congestion limits how much electricity we can import from outside, like clean solar, hydro and wind power from upstate NY, as well as the ability to shift power from one part of the city to another to meet demand. Battery projects built locally, near where electricity is consumed, can help alleviate that congestion and make sure people have access to cleaner electricity when they need it, at a lower cost than upgrading the transmission grid. As a result, Con Edison sometimes directs developers to build in specified neighborhoods, such as with their Brooklyn Queens Demand Management (BQDM) program and other “non-wires” programs that are designed to replace costly, time-consuming, and disruptive power grid upgrades with lower-cost, strategically-sited BESS installations.
+-
+13. Are the batteries noisy?
+Prior to receiving the necessary permits to build by the Department of Buildings, we are required to demonstrate compliance with the NYC Noise Code for each project submitted for approval. The sound from our battery systems stems primarily from the internal fans, and are treated similar to other HVAC equipment in that code. The designs are reviewed by a registered design professional and if they determine that our projects will emit noise that is above levels permitted under the Noise Code, we incorporate sound attenuation, such as a sound wall, into the design to reach permitted levels.
+-
+14. Can you build your sites to be appealing in a neighborhood setting?
+We aim to make our sites blend into their surroundings and look as appealing as possible. For example, our Bronx site’s main fence has a 135-ft wide mural on it, designed by students from the school across the street. Other sites in more mixed-use areas have fencing designed to match the built environment and context of the surrounding neighborhood. We hope to get input from and work with our neighbors and local community as we complete our sites for the parts where we have more design freedom such as the site perimeter and landscaping.
+-
+15. What sort of perimeter walls do you build on your sites? What regulations do you follow?
+Every site we build has walls or fencing around it. While each site design is unique, the rules we follow are the ones laid out by the FDNY and DOB for all battery storage projects in New York City. For example, as part of the standard regulatory process, every BESS installation is required to undergo a Hazard Mitigation Analysis (HMA) and an Acoustical Analysis, in compliance with FDNY regulations and the NYC Noise Code.
+Fire safety: The applicable FDNY rule — 3 RCNY 608-01 — mandates that separation distances between battery systems and surrounding structures be based on UL 9540A full-scale fire testing, which is specific to each battery chemistry (e.g., lithium-ion, lead acid, flow, etc.). The commonly referenced 10-foot clearance is often misunderstood as a fixed requirement. In reality, it is a minimum baseline that applies even to low-risk technologies like lead-acid batteries (such as those used in vehicles). The actual required separation distances are determined by the UL 9540A test data and the findings of the site-specific HMA – in other words, FDNY and the Department of Buildings (DOB) examine the safety features of each technology and each site, on a case-by-case basis.
+Noise mitigation: An Acoustical Analysis is also required to ensure compliance with the NYC Noise Code. This analysis evaluates the potential impact on nearby receptors (such as windows and occupied buildings) and determines what mitigation is necessary to reduce sound levels to within compliant limits.
+Perimeter walls: Where there are concrete structures at our sites, they may be engineered sound and fire barriers, designed with a minimum 2-hour fire-resistance rating and sound blocking. The details of these designs are driven by the Hazard Mitigation Analysis (HMA) – that is, in close coordination with the FDNY and DOB, there is a study of structures within 100 feet that may be adversely affected in worst-case scenarios. This approach reflects our commitment to safety and our strong partnership with FDNY — widely regarded as the most expert fire department in the world.
+Beyond these rules, we strive to provide design and landscaping at our sites that help them fit into the surrounding areas.
+-
+16. Do you need special permission and zoning to build these projects?
+The NYC Zoning Resolution allows battery energy storage systems throughout the City on an “as-of-right” basis – that is without discretionary approvals from the Board of Standards and Appeals or the City Planning Commission and without the need for variance. At NineDot, we focus primarily on manufacturing and commercial zones where we believe our systems will not dramatically alter the existing built environment.
+In NYC, where the need for BESS is significant, many types of buildings are located close together. That’s just a fact of life in the dense urban environment across the five boroughs, and the experts and regulators create safety rules that account for this density. We believe BESS will have significantly less of an impact upon the surrounding community than other uses which are allowed as-of-right in these locations, such as sewage pumping facilities, gas and electric substations, and police stations. Also, in many cases, we are building sites on vacant, underutilized, or untended sites that have been on the market for years or even decades.
+-
+17. Do you have all the permits required for your projects?
+NineDot only develops in zoning districts where our energy storage projects are “as-of-right” (meaning no discretionary land use approvals are required), and we have the permits we need for any work we are doing on a particular project at that point in time.
+-
+18. Does NineDot do residential or small commercial solar and/or energy storage installations?
+No we currently don’t, but here’s links to NYSERDA ’s lists of solar installers and energy storage contractors.
+Solar Installers
+https://www.nyserda.ny.gov/All-Programs/NY-Sun/On-site-Solar/Homes/Choosing-a-Contractor/Residential-InstallersEnergy Storage Contractors
+https://www.nyserda.ny.gov/Contractors/Find-a-Contractor/Energy-Storage-Residential-Contractors
+Sustainability
+-
+19. How does NineDot support and measure Environmental, Social, and Governance (ESG)?
+NineDot has created an ESG Policy that outlines our ESG objectives (which are reviewed annually) and guides us in creating long-term value for our stakeholders while supporting a more sustainable and equitable future. The policy also outlines the activities we undertake to embed sustainability across the company and applies to NineDot employees, contractors and supply chain. Key examples of our ESG objectives and activities include:
+- Environment
+- Measuring and reducing our scope 1, 2 and 3 greenhouse gas emissions
+- Implementing sustainable waste management practices at our battery storage sites
+- Social
+- Hiring individuals who live in the communities where we operate
+- Measuring and fostering strong employee engagement
+- Building a company that reflects the diversity of NYC and ensuring employees feel they are included and belong at NineDot
+- Benchmarking our health and safety practices, and protecting the health and safety of our employees and the community
+- Governance
+- Establishing strong ESG governance which includes Board of Directors’ oversight of ESG matters
+- Implementing cybersecurity processes that ensure employee, stakeholder, and company data is protected
+- Environment
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/news
+
+NineDot Energy Completes $431 Million Financing with Natixis for 28 Battery Energy Storage Projects in New York City
+Announcement: NineDot has Now Raised More than One Billion Dollars to Modernize the Urban Electric Grid for Local Communities
+Solar One and NineDot bring green jobs training to high school
+Brooklyn Daily Eagle: Solar One and NineDot staff joined students at the Health, Arts, Robotics and Technology High School for a green jobs training focused on energy production and battery energy [...]
+HARTS High School goes green: New training program prepares students for renewable energy careers
+QNS – Queens News: The Health, Arts, Robotics and Technology High School is preparing students for future careers in the clean energy sector, partnering with Solar One and NineDot to [...]
+NineDot Energy to Provide Over $60 Million in Energy Credits for Low-Income Households in the Next Decade
+Announcement: NineDot Energy®, the leading developer of community-scale battery energy storage systems (BESS) in the New York City metro area, today announced its participation in the New York Statewide Solar for [...]
+Energy Storage Brings Affordable, Safe, Clean Energy to Queens
+Announcement: From the mayoral debates to kitchen table family meetings, “affordability” is top of mind for many New Yorkers. Prices seem to be skyrocketing across the board, including for electricity. [...]
+NineDot Energy and Solar One Announce Educational Partnership on Battery Energy Storage
+Announcement: NineDot Energy®, the leading developer of community-scale battery energy storage systems (BESS) in the New York City metro area, and Solar One, New York City’s leading environmental education nonprofit, today [...]
+Op-ed: Battery storage is the safe energy solution we need
+Crain’s New York: Roughly a quarter of the state’s fossil-based generators are more than 50 years old. In New York City, the most polluting peaker plants, long past their intended [...]
+NineDot Energy Tackles NYC’s Energy Future with Safer, Smarter Battery Storage
+QNS – Queens News: As New York City pushes toward a cleaner energy future, NineDot Energy has emerged as a leader in urban battery energy storage solutions, growing from three [...]
+NineDot Energy Announces $175 Million Corporate Debt Facility from Deutsche Bank
+Announcement: NineDot Energy®, the leading developer of community-scale battery energy storage systems (BESS) in the New York City metro area, today announced the company has completed a $175 million revolving [...]
+NineDot Energy Selected as One of Crain’s 2025 Best Places to Work in New York City
+Announcement: NineDot makes the list for the second time, reflecting a commitment to workplace culture and community impact.
+We can trust New York battery energy storage
+Daily News: During my time as head of hazmat operations for the New York City Fire Department, I learned that New Yorkers expect one thing above all else: to know [...]
+Urban Energy Storage Emerges as Critical Infrastructure Investment
+KeyCrew: The race to decarbonize America’s cities has created a new asset class that’s capturing attention from institutional investors—urban energy storage. As renewable energy sources become more prevalent, the need [...]
+Sign up to get news and insights from NineDot Energy
+"*" indicates required fields
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/resources
+
+Resources library
+NineDot in action
+View documentsVideo library
+View videosPhoto gallery
+View photosBrand guidelines & logos
+View assetsAvailable Resources
+Regulatory comments
+Browse the list below.
+Download each item as you go.
+Video library
+Browse the list below.
+Watch each item as you go.
+- Employee spotlight: Carley Rowe
+- New York minute: How energy storage helps New York
+- NineDot clean energy champion
+Want everything in one place?
+Visit us on YouTube.
+Available Resources
+NineDot in action
+Browse the list below.
+Download each item as you go.
+Brand guidelines & logos
+Browse the list below.
+Download each item as you go.
+Available Resources
+Photo gallery
+Browse the list below.
+Download each item as you go.
+- NineDot Energy Site with Tesla Batteries
+- NineDot Energy Battery Landing
+- NineDot Energy Co-founders at Battery Storage Site in Northeast Bronx
+- NineDot Energy Battery Site Equipment
+- NineDot Team Members at Battery Site
+- NineDot Energy Battery Site in Staten Island
+- Mural outside NineDot Energy Site
+- NineDot Energy Battery Containers and Solar Canopy
+- NineDot Energy Staten Island Battery Site
+Sign up to get news and insights from NineDot Energy
+"*" indicates required fields
+Regulatory comments
+View one pagers
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/connect
+
+Send us a message and a member of the NineDot Team will respond promptly.
+"*" indicates required fields
+Maximum number of sites reached.
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/urban-clean-energy
+
+Batteries are better for the grid
+Battery sites store energy when it’s plentiful and clean, and discharge it back to the grid at times of peak demand, such as on hot summer days — similar to a peaker plant, only with much lower emissions. Battery storage sites allow the grid to incorporate the intermittent renewable energy that is coming online to New York’s electricity supply. In addition, NineDot’s energy storage projects reduce local and system peak load usage and help avoid grid outages. There are so many benefits to New York from deploying battery storage — and that’s why New York State, City and surrounding communities are working hard to support the development of these projects.
+Batteries will help retire dirty "peaker" plants
+Fossil-fuel based “peaker” plants are the dirtiest sources of urban energy, and though they don’t run frequently, they often account for large proportions of greenhouse gas emissions and health problems in surrounding communities. In New York, peaker plants are disproportionately located near low-income communities.
+New York's clean energy goals depend on battery storage
+The Climate Leadership and Community Protection Act (Climate Act or CLCPA), passed by New York State in 2019, established some of the most aggressive energy and climate goals nationwide, including 1,500 MW of energy storage by 2025 and 3,000 MW by 2030 (on the path to developing a nation-leading 6000 megawatts of energy storage). Batteries can store excess wind, solar and hydro power when it’s made, and release that stored energy when there’s excess demand, bolstering the resilience and efficacy of New York’s grid, which is projected to rely on 70% renewable energy by 2030 and achieve 100% carbon-free electricity by 2040. Moreover, energy storage plays a pivotal role in stabilizing supply during peak electric demand and sustaining critical systems during outages.
+Starting in 2024, Local Law 97 sets limits on the allowable greenhouse gas emissions of covered buildings to help New York City reach the goal of a 40% reduction in greenhouse gas emissions from buildings by the year 2030, and an 80% reduction in citywide emissions by 2050. By subscribing to NineDot’s battery projects, building owners can earn credits to use against their energy bills while also reducing their fines owed as the battery system’s CO2 reductions act as an offset.
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/regulatory
+
+NineDot Energy advocates for essential battery energy storage systems in New York City and State through smart, cost-effective policy and regulatory solutions
+City of Yes for Carbon Neutrality
+City of Yes for Carbon Neutrality allows for the siting of energy storage systems in a wider array of zoning districts and more flexible rules regarding yards and permitted obstructions, paving the way for NYC and State to meet its clean energy and energy storage goals. NineDot was strongly supportive of the City of Yes for Carbon Neutrality zoning updates, which was approved December 2023.
+Local Law 97
+Local Law 97 was passed by the New York City Council in April 2019 a part of the Climate Mobilization Act. Starting in 2025, LL97 will penalize New York City buildings that exceed emissions thresholds, unless the owners pursue measures to reduce the building’s carbon footprint. Our analysis of the Department of Buildings’ Time-of-Use (TOU) greenhouse gas emissions methodology shows that subscribing to energy storage assets could help building owners achieve net reductions of CO2e emissions by hundreds of tons annually, helping meet emissions targets and align with the city’s climate goals.
+New York Energy Storage Roadmap 2.0
+The Energy Storage Roadmap 2.0 lays out a pathway to meet New York’s state 6 GW energy storage target with a series of policy, regulatory and programmatic recommendations to jump-start New York’s nascent energy storage market. NineDot supported the budget proposal within the Roadmap 2.0 as a responsible use of ratepayer funds that will provide environmental, financial, and social-equity benefits to ratepayers.
+DPS/NYSERDA Statewide Solar for All (S-SFA)
+At a high-level, the Statewide Solar for All program allows community solar projects to sell their credits to the utility at a fixed price, with the utilities then passing along these credits to eligible low income customers. This program attempts to provide relief to energy-burdened communities of NYS. NineDot will be actively monitoring further development of the program, particularly with respect to the inclusion of storage, and is hopeful that it will allow for the widespread participation of the retail storage industry in New York City.
+Federal Treasury 48(e) Low Income ITC Adder
+The Investment Tax Credit (ITC) has been key to the U.S. solar industry’s growth. The 2022 Inflation Reduction Act (IRA) extended this credit for 10 years, included standalone storage for the first time, and introduced the Low Income Adder, a bonus incentive which provides additional credits for eligible projects in low-income areas. However, current federal guidelines exclude standalone storage from receiving this bonus. NineDot believes that this exclusion overlooks the potential of community-scale storage to deliver crucial benefits to low-income urban communities, particularly in space-constrained cities like New York, and we are continuing our advocacy efforts to have battery storage systems included for this particular IRA provision.
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/subscribers
+
+How battery storage credits work
+NineDot’s energy storage sites operate under the Value of Distributed Energy Resources (VDER) Value Stack program, established by the New York Public Service Commission to encourage development of clean energy sites that benefit local electric networks.
+When battery sites respond to the electric utility’s calls to export power during high-stress periods, they receive VDER credits, which are then virtually allocated to remote subscribers’ monthly utility bills. In turn, NineDot invoices our subscribers for these credits, often at a discount.
+Battery storage Remote Crediting agreements are similar to community solar Distributed Generation contracts, but with a different implementation mechanism.
+Subscribing to battery storage sites is a great way for an organization to lower its energy costs while supporting New York’s energy transition!
+Subscribing to battery storage sites may help reduce LL97 fines
+Starting in 2024, Local Law 97 (LL97) sets limits on the allowable greenhouse gas emissions of covered buildings to help New York City reach its goal of a 40% reduction in greenhouse gas emissions from buildings by the year 2030, and 80% reduction in citywide emissions by 2050.
+NineDot projects can generate carbon reduction credits for subscribers to offset LL97 fines commencing in 2024. The specific amounts are determined based on the NYC Dept. of Buildings time-of-use calculator, derived by comparing the emissions profile of energy involved in charging vs. discharging our batteries. Receiving LL97 deductions is another great benefit of being a battery storage subscriber.
+It's easy to become a battery storage subscriber
+- Meet the NineDot team and learn about our specific energy offerings
+- Share information for ConEd / PSEG-LI electric accounts including energy consumption, supply costs and recent bills, as well as LL97 fines, if applicable
+- Discuss estimated cost and carbon savings with NineDot
+- Execute the Remote Crediting (RC) Subscription Agreement
+- Get ready for your first on-bill credits!
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/news/ny-best-announces-energy-storage-partnerships-award-winners
+
+NY-BEST: NineDot Energy’s People Operations team is recognized for its leadership in building a more inclusive clean energy workplace. Through initiatives such as equitable hiring practices, cultural heritage celebrations, innovative social programming, and strategic internships, the team has embedded inclusive practices in a variety of ways throughout NineDot’s daily operations. NineDot is also proud to participate in the NYSERDA Clean Energy Internship Program and the NYSERDA On-the-Job Training Program to support individuals from underrepresented groups.
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/wp-content/uploads/BESS-Fire-Safety-2025-09-09-600-x-1800-px-3.pdf
+
+The local fire station targets arrival at the BESS site within minutes of being
+dispatched by FDNY central station. Before operation, NineDot Energy develops 
+an FDNY-approved site-specific hazard mitigation analysis and emergency
+management plan on which the local fire station is trained. The hazard mitigation
+analysis is designed so that, in the event of a fire, it will not spread beyond the
+perimeter of the BESS site and will often require fire-rated walls or other proactive
+measures. BESS safety events are very rare and we are not aware of any fire that 
+has spread beyond a BESS site. Further, analysis of these events has shown that 
+the composition of BESS fires are similar to those of house fires, and even cleaner
+than those of car fires, not requiring any hazmat response. Firefighters manage
+smoke, if any, with water and use handheld pollution monitoring devices to be 
+sure that no hazardous materials response is required.
+1
+Detect
+A heat-sensing fire detection
+camera will identify a potential fire.
+The camera sends a signal to the
+on-site fire access control panel.
+3
+Verify
+FDNY central station processes 
+and verifies the alarm signal.
+Central station dispatches the 
+local fire station to respond 
+to the safety event.
+5
+Assist
+The certified BESS expert aids 
+the FDNY in managing the event.
+They are on-site within one hour.
+B a t t e r y e n e r g y s t o r a g e
+s y s t e m s a f e t y r e s p o n s e
+NineDot Energy brings clean, reliable power closer to home.
+Our community-scale battery energy storage systems keep 
+the grid clean and the lights on across New York City.
+For NineDot Energy, safety is paramount. Each of our battery energy storage systems
+(BESS) is equipped with multiple redundant safety features. All batteries are approved
+by the FDNY, tested by Con Edison, protected by fencing and sprinkler systems, and
+monitored 24/7 by heat-sensing cameras connected directly to the FDNY,  our
+company, and a certified BESS subject-matter expert. We currently use Tesla Megapacks,
+which have the following built-in safety features:
+On-site safety systems
+Safety in action: A minute-by-minute response timeline
+On-site emergency management
+Containerized design to stop the
+spread of gases or heat 
+Off-gassing and cooling fans 
+Spark plug to prevent gas buildup
+Separated modular battery cells 
+Battery management system to
+shut off battery cells if adjacent
+ones are overheating
+2
+Alert
+The fire access control panel sends
+a signal to FDNY’s Central Station
+operator and the local fire station.
+4
+Dispatch
+The local fire station is on alert
+after receiving a signal from 
+the fire access control panel. 
+It awaits verification from FDNY
+central station.
+6
+Monitor
+NineDot Energy actively monitors
+the event and is in contact with 
+the certified BESS expert.
+S i g n a l s e n t i n 1 - 3 s e c o n d s
+S i g n a l s e n t w i t h i n s e c o n d s
+S i g n a l s e n t w i t h i n s e c o n d s
+V e r i f i c a t i o n s e n t i n
+3 0 s e c o n d s – 1 m i n u t e
+N o t i f i c a t i o n s e n t 
+w i t h i n 1 m i n u t e
+Learn more about our commitment to safety at nine.energy
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/news/ninedot-energy-and-bbl-clean-energy-mural-reveal
+
+Bronx Better Learning: Karlene Buckle, Bronx Charter School for Better Learning Enrichment Manager, shares her thoughts on the Clean Energy Mural made with BBl2 students for NineDot’s Bronx battery site. Read more
+Bronx Better Learning: Karlene Buckle, Bronx Charter School for Better Learning Enrichment Manager, shares her thoughts on the Clean Energy Mural made with BBl2 students for NineDot’s Bronx battery site. Read more
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/news/category/ninedot-news
+
+NineDot Energy Completes $431 Million Financing with Natixis for 28 Battery Energy Storage Projects in New York City
+Announcement: NineDot has Now Raised More than One Billion Dollars to Modernize the Urban Electric Grid for Local Communities
+Solar One and NineDot bring green jobs training to high school
+Brooklyn Daily Eagle: Solar One and NineDot staff joined students at the Health, Arts, Robotics and Technology High School for a green jobs training focused on energy production and battery energy [...]
+HARTS High School goes green: New training program prepares students for renewable energy careers
+QNS – Queens News: The Health, Arts, Robotics and Technology High School is preparing students for future careers in the clean energy sector, partnering with Solar One and NineDot to [...]
+Energy Storage Brings Affordable, Safe, Clean Energy to Queens
+Announcement: From the mayoral debates to kitchen table family meetings, “affordability” is top of mind for many New Yorkers. Prices seem to be skyrocketing across the board, including for electricity. [...]
+NineDot Energy and Solar One Announce Educational Partnership on Battery Energy Storage
+Announcement: NineDot Energy®, the leading developer of community-scale battery energy storage systems (BESS) in the New York City metro area, and Solar One, New York City’s leading environmental education nonprofit, today [...]
+Op-ed: Battery storage is the safe energy solution we need
+Crain’s New York: Roughly a quarter of the state’s fossil-based generators are more than 50 years old. In New York City, the most polluting peaker plants, long past their intended [...]
+
+--------------------------------------------------------------------------------
+
+URL: https://nine.energy/news/category/energy-news
+
+HARTS High School goes green: New training program prepares students for renewable energy careers
+QNS – Queens News: The Health, Arts, Robotics and Technology High School is preparing students for future careers in the clean energy sector, partnering with Solar One and NineDot to [...]
+Energy Storage Brings Affordable, Safe, Clean Energy to Queens
+Announcement: From the mayoral debates to kitchen table family meetings, “affordability” is top of mind for many New Yorkers. Prices seem to be skyrocketing across the board, including for electricity. [...]
+NineDot Energy and Solar One Announce Educational Partnership on Battery Energy Storage
+Announcement: NineDot Energy®, the leading developer of community-scale battery energy storage systems (BESS) in the New York City metro area, and Solar One, New York City’s leading environmental education nonprofit, today [...]
+Op-ed: Battery storage is the safe energy solution we need
+Crain’s New York: Roughly a quarter of the state’s fossil-based generators are more than 50 years old. In New York City, the most polluting peaker plants, long past their intended [...]
+NineDot Energy Tackles NYC’s Energy Future with Safer, Smarter Battery Storage
+QNS – Queens News: As New York City pushes toward a cleaner energy future, NineDot Energy has emerged as a leader in urban battery energy storage solutions, growing from three [...]
+Urban Energy Storage Emerges as Critical Infrastructure Investment
+KeyCrew: The race to decarbonize America’s cities has created a new asset class that’s capturing attention from institutional investors—urban energy storage. As renewable energy sources become more prevalent, the need [...]
+
+--------------------------------------------------------------------------------

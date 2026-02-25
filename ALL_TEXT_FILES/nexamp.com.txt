@@ -1,0 +1,494 @@
+ROOT: https://nexamp.com/
+SCRAPED_AT_UTC: 2026-02-11T20:22:11.127474Z
+PAGES_INCLUDED: 24
+
+================================================================================
+
+URL: https://nexamp.com/
+
+Community Solar
+For Business
+About
+Contact
+Login
+Community Solar
+For Business
+About
+Contact
+Login
+Sign up
+Building the Future of Clean Energy
+Save between 10% and 15% on electricity costs*
+No rooftop panels
+No sign-up fees
+No long-term contracts
+No cancellation fees
+Enter your zip code
+Enter your zip code
+Select your utility provider
+Select your utility provider
+Check Availability
+*Savings vary by state
+We’re tapping into a natural source of energy and powering communities and businesses across the country.
+Business Expertise From Start to Finish
+Energy Storage
+A bank that boosts your bottom line
+Learn more
+Hosting a Farm
+Steady revenue built on your land or rooftop
+Learn more
+Power Purchase Agreements
+Sustainability at scale for commercial users
+Learn more
+Standalone Services
+Proven ability from development to management
+Learn more
+Development Process
+Savings for your home
+Community Solar
+No panels, no upfront cost, savings for everyone.
+Learn more
+Nexamp by the numbers
+Press, Updates, Ideas, & More
+Our Reviews
+Visit media page
+Contact Us
+Give us your questions, concerns, and business inquiries. We will get back to you as soon as we can.
+Contact Us
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/projects
+
+Community Solar
+For Business
+About
+Contact
+Login
+Community Solar
+For Business
+About
+Contact
+Login
+Sign up
+Search
+Search
+State
+State
+Type
+Type
+Technology
+Technology
+Nothing to show for your current selection.
+Contact Us
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/leadership
+
+Marc-Alain Behar
+Senior Vice President, Utility-Scale Solar
+Dan Clarke
+Senior Vice President, Marketing & Brand
+Michael Cucchiara
+Senior Vice President, Business Development
+Kelly Friend
+Senior Vice President, Policy & Markets
+Kyle Gietzen
+Senior Vice President, Capital Markets
+Beth Golden
+Senior Vice President, Accounting
+Jon Habeski
+Senior Vice President, Product & Technology
+Chris Perron
+Senior Vice President, Clean Energy Deployment
+Will Thompson
+Co-Founder and Senior Vice President, Nexamp Asset Management Services
+Laura Vanasse-Mangum
+Senior Vice President, People Culture and Operations
+Sutapa Adhikari
+Vice President & Assistant General Counsel
+Felix Aguayo
+Vice President, Business Development
+Nick Anti
+Vice President, Treasury & Finance
+Ammar Asfour
+Vice President, Supply Chain
+Jonathan Botkin
+Vice President, Engineering
+Robin Boorstein
+Vice President, Revenue Optimization & Compliance
+Bowen Burditt
+Vice President, Asset Management
+Jennifer DeLaney
+Vice President, Channel Operations
+Bill Eldredge
+Vice President, Data Management
+Babak Enayati
+Vice President, Grid Integration
+Brión Fitzpatrick
+Vice President, Business Development
+Mark Frigo
+Vice President, Energy Storage
+Ethan Gyles
+Vice President, Channel Diligence
+Marion Jones
+Vice President, Workforce Development & DEI Engagement
+Caitlin Kelly
+Vice President & Assistant General Counsel
+Hillary Meahl
+Vice President, Team Member Experience
+Palmer Moore
+Vice President, Business Development
+Steve Moore
+Vice President, Financial Planning & Analysis
+Barton Pitts
+Vice President, Business Development
+Skip Provost
+Vice President, Operations & Maintenance
+Hilary Ruffer
+Vice President and Assistant General Counsel
+Conrad St. Pierre
+Vice President, Operations Center
+Satoko Wakasa
+Vice President, Strategic Growth
+Matt Walsh
+Vice President, Business Development
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/about-us
+
+We’re working with communities, businesses, and municipalities to democratize clean energy and support U.S. energy independence.
+Nexamp subscribers receive an average of $275 annual electricity savings, and partners share in the profits of our unique vertically integrated model. Best practices are honored, operations are efficient, and each year our solution expands farther.
+We develop and purchase clean energy assets at any stage in a project's lifecycle, leveraging Nexamp's unique business model. From Clean Energy Deployment, Customer Acquisition, to Management, we remove strain for all counterparties.
+We treat each project like our own, minimizing your risk and exposure.
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/owner-services
+
+Nexamp has been a leader in the clean energy space for over a decade. Leverage our technology and team to bring your assets to the next level.
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/owner-services/community-solar-as-a-service
+
+Nexamp has been a leader in the community solar space for over a decade. We have worked with over twenty different partners, including lenders and equity investors, to launch our Community Solar offering. Most recently, we closed a $240 million equity investment led by Generate Capital.
+Management of stakeholders, contractual obligations, and negotiations associated with your asset or portfolio
+Our unique, vertically integrated business model makes it possible to purchase clean energy assets at any stage in a project’s lifecycle.
+Customers are welcomed into a friction-free program where the onboarding process is simple and streamlined. We manage over 400 MWs of distributed generation and have a direct line of communication to local utilities.
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/owner-services/asset-management
+
+Let our team of power market experts maximize your revenue and energy credit generation, oversee regulatory reporting, and support your customers. Our mission is to help you realize the most value from your energy production.
+Operations & Maintenance focuses on the monitoring, scheduled maintenance, service, and technical support necessary to ensure your system operates at peak availability and output.
+Asset Management ensures the financial security of your portfolio through the daily functions of billing, reporting, and regulatory compliance.
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/owner-services/operations-maintenance
+
+Nexamp’s team of power and solar professionals understands what it takes to monitor, maintain, and deliver maximum revenue from solar + storage plants. We provide comprehensive operations and maintenance services for third-party owned assets, applying the same rigorous standards, best practices, and care as for our own.
+Operations & Maintenance focuses on the monitoring, scheduled maintenance, service, and technical support necessary to ensure your system operates at peak availability and output.
+Asset Management ensures the financial security of your portfolio through the daily functions of billing, reporting, and regulatory compliance.
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/owner-services/clean-energy-deployment
+
+We’re a full-service engineering, supply chain, and construction operation that creates value throughout the entire design-build cycle. Nexamp customers are guided through critical project decisions and benefit from our longstanding supplier relationships.
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/blog/guide-to-community-solar
+
+Are you looking for a hassle-free way to support domestic energy production? Community solar might be the right solution for you. This accessible clean energy option doesn’t require any installation, making it ideal for renters and those living in homes not suited for rooftop solar panels. Community solar is a straightforward, no-installation-needed, subscription-based approach to clean energy.
+What Is Community Solar
+Community solar relies on large-scale solar arrays, often called solar farms or gardens. These shared facilities generate energy that is fed into the local power grid and allow multiple participants to benefit from solar energy generation. Subscribers to these solar farms see annual savings on their electricity costs while the grid is supported by clean, domestic energy. It really is a win-win!
+Check your eligibility for Nexamp Community Solar here:
+How Does Community Solar Work
+Community solar offers a unique opportunity for renters, homeowners, and businesses to tap into solar energy without installing solar panels. Here’s how it works:
+- Sign Up to Claim Your Spot. Provide some basic information and your utility account details
+- Get Assigned to a Farm. As soon as a spot opens up, we’ll add you to a farm. We’ll subscribe you to the right amount of solar shares based on your electricity needs.
+- Save on Electricity Costs. You’ll get a discount on your utility bill in the form of credits. You pay Nexamp for these credits at a discount, helping you save.
+The credits customers receive are calculated through virtual net metering. We ensure that subscribers are assigned a portion of a solar farm that matches their annual electricity usage. The number of credits that appear on each electricity bill reflects how much energy the subscriber’s share of the farm generated.
+At Nexamp, we manage the entire project lifecycle, from construction through operation. This vertically integrated approach allows us to provide community solar subscriptions without upfront costs, fees, or credit checks.
+What’s The Difference Between Residential Solar and Community Solar
+Both approaches to solar have the same goal of generating clean power from the sun, the difference is their approach to the task!
+Residential solar or rooftop solar. With rooftop solar, panels are installed on individual properties. Residential solar arrays are designed to meet the energy needs of the property owner alone, supplying them directly with clean energy. On occasion, excess energy generated by these installations is fed back into the grid, but the expectation is that the energy will primarily be for the property.
+Community solar is a shared resource that multiple individuals, households, and businesses can tap into. This involves the development of large solar arrays which generate energy that is fed into local utility grids. This communal approach maximizes the use of resources while extending the benefits of clean energy more broadly. By enabling a shared contribution to alternative energy solutions, community solar encourages a collective commitment to a more sustainable future.
+Who Is Eligible for Community Solar
+One of the primary challenges of rooftop solar is its accessibility. Barriers like high upfront costs, the need for a suitable roof, and homeownership can all be deterrents that prevent people from solar adoption. Luckily, community solar is an easy alternative that is designed to be accessible and simple. So who is eligible for community solar?
+- Renters and homeowners
+- Low-to-moderate income households
+- Businesses
+- Universities
+- Hospitals
+- Religious organizations
+- Municipalities
+How Much Can I Save with Community Solar
+An individual's community solar savings are based on several factors, such as the state they live in and their income. The chart below provides a breakdown of Nexamp’s community solar discount by state.
+| ME | MD | MA | MN | NJ | NY | IL | |
+| Annual Savings | 15% | 10% | 12.5% | 10% | 15% | 10% | 15% |
+How Does Community Solar Billing Work
+It can sound too good to be true–saving while supporting clean energy without any upfront costs or installation. Here’s a breakdown of how billing works and how community solar savings are calculated.
+- Two Bills: Subscribers will continue to receive a bill from their electricity provider as well as a bill from Nexamp. Here's what those two bills reflect.
+- Local Electricity Bill: Once the farm is live, customers' electricity bill will also show the community solar credits from the production of the subscriber’s share of the solar farm, which will reduce the total amount they owe to their electricity provider.
+- Nexamp Bill: This bill will be for the community solar credits that showed up on the electricity bill, always at the previously agreed-upon discount.
+- Saving: Nexamp and other community solar providers receive state and federal incentives for community solar. These incentives allow us to offer subscribers credits at a discount, and the discount is how subscribers save.
+- Crediting example: For example, let’s say that a subscriber’s utility bill is $110, and they receive a $100 credit. This would mean that they pay $10 to their utility. When they are invoiced for their credits, Nexamp will apply a discount of between 10-15%, depending on the terms of the community solar agreement. This means that the subscriber will pay between $85 (15% discount) and $90 (10% discount) for their utility bill credits. Although they are receiving a second bill, the total amount they pay goes down from $110 to between $95 and $100. Over a whole year, those savings can add up.
+What Is Seasonal Variability with Community Solar
+Solar production is influenced by the seasons; let’s explore how.
+Summer Months: when days are longer and warmer, solar production tends to increase.
+Winter Months: when days are shorter, and there is more cloud cover, solar production is typically lower.
+Nexamp’s community solar program was created with the seasons in mind and is designed to help you save money over the course of the year despite these fluctuations. This means that subscribers will typically see more credits, sometimes more than they need, in the summer and early fall. In the winter, they usually see fewer credits. However, unused credits from the summer months will roll over until they are needed. This is how subscribers save annually with community solar, despite seasonal variability.
+Is There a Downside to Community Solar with Nexamp
+Community solar offers a range of benefits, and while we want to emphasize those, it is essential to recognize the nuances as well.
+The downside to Nexamp is that subscribers will not own solar panels and will not be eligible for solar tax credits through their participation in Nexamp Community Solar. This is a general downside to community solar as a whole.
+On the bright side, this means they are not responsible for the operation and management of any solar panels, do not need to incur installation costs, and don’t need to worry about how many solar panels are right for them—we take care of everything!
+Furthermore, with Nexamp, subscribers do not pay any upfront costs, and they always have the option to cancel a subscription at no cost.
+What Are The Benefits of Community Solar
+Community solar offers an easy pathway toward a greener future. The difference between community solar and local solar is its accessibility, eliminating the need for upfront capital investment typically associated with personal rooftop solar installations. This opens the door for individuals passionate about clean energy to participate without financial barriers. As an industry leader, Nexamp empowers individuals to subscribe to a community solar farm effortlessly. When individuals sign up for Nexamp Community Solar, they’re championing environmental well-being and securing long-term energy savings at no upfront cost.
+With shared solar, community benefits are realized alongside individual benefits, bringing together businesses, renters, homeowners, non-profits, and more to share in the sun's power. Community solar builds grid reliability, helps local businesses, organizations, and residents save money, and contributes to domestic energy production and job creation. It’s accessible, abundant, and practical, making it a critical part of America's energy landscape.
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/for-business
+
+Energy Storage
+A bank that boosts your bottom line
+Learn moreHosting a Farm
+Steady revenue built on your land or rooftop
+Learn morePower Purchase Agreements
+Sustainability at scale for commercial users
+Learn moreStandalone Services
+Proven ability from development to management
+Learn more
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/contact-us
+
+Monday - Friday
+8:30a.m. – 6p.m. ET
+Phone:855-727-4636
+Email:support@nexamp.com
+Have questions about your account, billing, or community solar program? Please reach out to our Customer Service team. We’re happy to help!
+Please send your payment to:
+Nexamp, Inc., Attn: Payments
+PO Box 1466
+New York, NY 10008
+Be sure to include a copy of your physical invoice or write your invoice number(s) in the check memo line to ensure your payment is properly credited to your account.
+
+--------------------------------------------------------------------------------
+
+URL: https://community.nexamp.com/
+
+You need to enable JavaScript to run this app.
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/energy-storage
+
+Solar energy + storage represents a major breakthrough for the U.S. electricity sector and can provide many different services to the grid. The services provided by BESS range from the integration of clean energy generation, to cost savings and grid stability. The grid needs to balance electricity supply and demand in real-time and traditionally has not been able to keep excess energy for later use. That has now changed with the introduction of solar + storage systems that Nexamp can provide. Our facilities can receive and transfer energy on demand, and our bank is always full, thanks to the sun.
+Yes! There are no direct emissions associated with Nexamp’s energy storage systems.
+Absolutely. Our nation has been leveraging various technologies for energy storage since the 1930s, and today it is equivalent to approximately 2% of U.S. generation capacity. It’s just as safe as other electricity generation, transmission, and distribution technologies, yet it supports a healthier environment for all by integrating cleaner forms of energy generation. Newer solar energy + storage technologies, such as lithium-ion batteries, are the same technology that you find in electric vehicles, smartphones, laptop computers, and other electronics. However, when figuring out how to store solar energy, one needs to consider whether the potential provider can offer the top storage options in terms of efficiency for any given situation.
+In extreme weather or other events when electricity supply goes down or demand goes up, the price of energy usually spikes to cover demand. These charges are known as “time-of-use” or “peak” prices as they are directly linked to when the energy is needed. Energy storage offers a bank of ready-to-use energy at all times, thus mitigating higher prices and eliminating the need to pull in traditional generation sources to meet that demand.
+Yes! Our facilities are interconnected with the grid and can store any form of energy. We’re open to all, like always.
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/host-a-solar-farm
+
+Nexamp is a vertically integrated developer, owner, and operator of solar projects around the county. Not only do we take care of every step of the project, we’re in it for the long haul, and we’ll be with you until the end.
+Exact size requirements vary by market, but we generally require 10 acres of land or 40,000 square feet of roof or parking lot area. When you lease your property to solar companies like Nexamp, we ensure that every acre or square foot is used effectively. Our team of highly qualified solar developers will give you peace of mind throughout the process.
+As part of our solar land lease agreement, we ensure that at the end of the project’s lifecycle, we remove the system, and all materials, recycle the solar panels and restore the project site back to its original condition.
+We typically lease land for solar projects for 20 to 40 years, as this is the average lifespan of a solar project. At the end of the solar farm lease, we will decommission the system and restore the project site to its original state.
+We take all the necessary steps to ensure that your land is returned to its original condition after decommissioning the project. While there may be temporary changes to your land due to the installation of steel posts and concrete pads, which are necessary to support the arrays and electrical equipment, all of this will be removed at the end of the project life. This ensures that when you lease land for a solar farm, there will be no lasting impact beyond the duration of the agreement.
+When you lease land for solar, the construction term length ranges depending on the size of the array. As a rule of thumb, it takes 3-4 weeks per 1 MW installed, weather permitting.
+Taxes are an important consideration when leasing land to solar companies. Tax impacts vary by location, but rest assured that Nexamp takes responsibility for any increase in taxes as a result of the solar farm being located on your property. For additional questions on how to get a solar farm on your land, don’t hesitate to reach out, we’re here to help.
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/power-purchase-agreements
+
+In the case of an onsite, behind the meter solar PPA, the energy generated by the solar array is consumed directly by the customer.
+In an offsite solar PPA, such as a community solar project, the energy credits generated from the solar farm are applied against the bills you receive from your utility to offset your costs.
+A typical solar PPA has a term length of 15-20 years. This allows Nexamp to obtain, finance, build, and eventually operate the project.
+While this is a long-term agreement, Nexamp is obligated to find a replacement entity in the case of termination. We have years of experience developing creative solutions to address customers’ contractual concerns, and stand at the ready to develop a solution that works for you.
+While many community solar programs do not allow for the transfer of RECs to the customer, there are several select markets where project RECs can be passed along. In addition, Nexamp has developed a REC bundling product whereby we can seamlessly procure and retire Green-E Certified RECs to match the volume of community solar credits being delivered. For onsite PPAs, there is an option for the customer to retain the project RECs.
+Nexamp has been offering solar Power Purchase Agreements and other offtake products since 2012. We have a long history of working with customers, from Walmart and T-Mobile to small commercial and governmental entities.
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/solar-development
+
+We take pride in catering to everyone. Whether you’d like to turn your rooftop into revenue, or land into a reliable source of power, we’re your partner every step of the way.
+Our unique, vertically integrated business model makes it possible to purchase clean energy assets at any stage in a project’s lifecycle.
+We’re a full-service engineering, supply chain management, and construction operation. We offer superior projects that are timely and on budget.
+We operate solar and energy storage assets, leveraging the same rigorous standards and best practices employed in our own project portfolio.
+With over 50k customers acquired, our team has proven their expertise. From digital and offline marketing initiatives, all the way to customer management, we offer excellence.
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/reviews
+
+Thousands of Nexamp community solar customers are supporting solar in their local community. We make it easy for anyone to tap into clean energy, and our reviews speak for themselves. We want to hear from all of our customers, so if you have an experience you’d like to share, please reach out to us.
+Hear what other Nexamp subscribers have to say
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/media
+
+Community Solar
+For Business
+About
+Contact
+Login
+Community Solar
+For Business
+About
+Contact
+Login
+Sign up
+Blog & News
+Search
+Search
+All Topics
+All Topics
+Nothing to show for your current selection.
+Contact Us
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/sustainability
+
+Committed to onshoring all major components to support domestic jobs and manufacturing
+Recycling all solar panels as they are decommissioned
+Transitioning our entire fleet to hybrid and all-electric by 2030
+Recycling 100% of cardboard and wood construction waste
+Delivering on sustainable land use while following local, state, and federal requirements
+Offering sheep grazing as an alternative maintenance method
+Ensuring safe conditions, ethical treatment, and fair labor practices throughout our business and global supply chain
+- Creating educational and technical experience opportunities in our site communities
+Planting native pollinator vegetation on select sites
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/community-engagement
+
+We work with community organizations, community action agencies, affordable housing providers, and municipalities to welcome new subscribers into our Community Solar program.
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/careers
+
+You’re entering a mission-first zone where innovative thinkers are building a business and a movement to address the climate crisis. Here, you'll learn, be challenged, and break new ground. We have a shared goal: safeguarding our planet and future generations.
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/blog/how-many-solar-panels-do-i-need
+
+If you’ve been considering installing rooftop solar panels, you might have some unanswered questions about the process like how much solar do I need or what is the cost of installation. Finding answers can be difficult and confusing. Nexamp is here to help with this comprehensive guide, beginning with the most frequently asked question—how many solar panels do I need? The average household needs between 15 and 20 solar panels to offset their energy needs; however, specific individual needs will vary based on energy usage, roof size, roof orientation, and location.
+In this article, we explore these factors and give you a formula to calculate how many solar panels are right for you.
+How Many Solar Panels Do I Need?
+Before we get started, we suggest that you grab a copy of your recent electricity bill. This will make it easier to calculate your solar power needs based on your energy usage. There are three main factors to consider in making the solar panel calculation: your annual electricity usage, the solar panel wattage, and the production ratio. Let’s dive into these three elements.
+1. How much solar energy do I need?
+Consider your annual electricity usage to determine how much electricity you need your solar panels to produce. You should be able to see your total energy consumption from the last twelve months on your electric bill.
+2. What is the wattage of my solar panels?
+The solar panel wattage refers to how much electricity each individual solar panel will produce under ideal conditions. You can use 320 watts as an estimate for solar panel wattage.
+If you already have a specific type of solar panel in mind, congrats! You’re ahead of the curve. Go ahead and use the wattage of those panels in place of 320 in our equation.
+3. What is the production ratio in my area?
+The production ratio refers to how much electricity your solar panel produces under the average sunlight and weather conditions in your area. In the U.S., production ratios range from 1-1.6 but it varies by region. The chart below breaks it down in greater detail based on geographic region.
+*Data from EnergySage
+Now that you have all the components of the equation, let’s plug them in. It’s like your own solar panel calculator!
+Solar Panel Calculators
+To calculate how many solar panels you need, divide your annual energy usage by the production ratio in your area. Then divide that by the wattage of the solar panels you are considering purchasing, or use our estimate of 320. The outcome of this equation approximates how many solar panels you will need to offset your electricity needs.
+Let’s run through a sample solar panel calculation. Say your house has an estimated energy consumption of 12,800 kWh, and you live in an area with a production ratio of 1.6. Assuming the estimated 320 wattage of the solar panels, you would need:
+12,800 kWh / 1.6 / 320 = 25 panels total.
+Many homeowners are also curious about the square footage of solar panels. A commonly posed question is, “How many square feet of solar panels do I need?” To answer this, consider that the average residential solar panel is around 17.5 feet.
+To find the total area of solar panels needed, multiply this number by the result of your solar panel calculation. So, for the example shown above, you would multiply 25 panels by 17.5 feet, giving you the outcome of 427.5 square feet of solar panels.
+Let’s run it back and recap.
+- To calculate how many solar panels you need, divide your annual electricity usage by the wattage of your desired solar panels, and divide this by your local production ratio.
+- Production ratios vary based on geographic region, which means that you may need more solar panels in the Northeast than the Southwest for the same energy production.
+- The average solar panel is 17.5 feet. You can use this figure to answer the question: how big a system do I need?
+You can also use this solar calculator to assess how many solar panels and kWh of solar you need. And this one to calculate your potential solar savings.
+How Many Solar Panels to Power a House?
+Another common question is how many solar panels do I need based on the square footage of my home. It is worth noting that a home’s power usage isn’t entirely dependent on its square footage. The number of residents and their energy habits play a much more significant role.
+However, it is of course possible to estimate, and we’ve put together some sample calculations which provide an estimate of how many solar panels to power a house based on its square footage.
+How many solar panels do I need for a 1,000 sq ft home?
+Let’s assume the consumption of a 1,000 sq ft home with four residents and average usage to be 690 kWh per month or 8,280 kWh per year. With a wattage of 320 and a production ratio of 1.4, the number of solar panels you’d need for a 1,000 sq ft home is:
+8,280 / 1.4 / 320 = 18.48 or 19 solar panels (rounding up).
+How many solar panels for a 2,500 sq ft home?
+Let’s assume that five people with regular energy usage habits live in our 2,500 sq ft home. The estimated consumption would be 1,131 kWh per month, or 13,572 annually. Considering a 320-watt panel and a 1.4 production ratio, the number of solar panels you’ll need for a 2,500 sq ft home is:
+13,572 / 1.4 / 320 = 30.29 or 31 solar panels (rounding up).
+You can also use the chart below as a more comprehensive reference point for home size, energy consumption, and the recommended number of solar panels.
+*Data from the Residential Energy Consumption Survey
+Now that you understand how to calculate how many solar panels are needed to power a house based on size, let’s get into some other factors to consider before you commit to installing solar on your roof.
+Is My Roof Suitable for Solar Panels?
+In addition to estimating how many solar panels you need, consider the weight of the panels themselves. The average solar panel weighs around 40 pounds. It’s important to know what size solar system your roof can support, and remember, not all roofs can even support solar.
+In addition to the weight, consider the material of your roof, how old it is, and whether it’s pitched or flat. All of these factors will help determine if your roof can support solar panels. It is also best to have a professional roof inspection before you decide to begin the installation process.
+How Efficient Will My Solar Panels Be?
+All things being equal, the design of the solar panel determines how efficient it is. This, in turn, specifies how well each square foot can convert sunlight into energy.
+For example, gridlines on most panels reduce the active surface area. Therefore, they are not as efficient as those without them. In addition, grid panels are susceptible to peeling, further reducing efficiency.
+Quality plays a role, too. For example, if the construction is subpar and introduces corrosion and cracking, it can also impact the ability of the panel to absorb sunlight.
+But as a rule of thumb, expect residential solar panels to give you between 150 – 370 watts. This translates to an average solar panel’s wattage per square foot of 15 watts.
+How Much Do Solar Panels Cost?
+The average cost of a solar panel is typically between $0.65 to over $2 per watt for high-end models. This means that an average 6 kW system will set you back up to $12,000, depending on the location. That doesn’t include the solar installation costs, which can bump the price up by another $5,000-$10,000. However, the Residential Clean Energy Tax Credit can offset up to 30% of the cost of solar installation, alleviating some of the financial burden.
+Solar Panel Alternatives
+At the end of the day, we recognize that installing rooftop solar panels can be a tremendous investment. While federal incentives for solar can significantly lessen the financial burden, the upfront cost can still be daunting. Furthermore, according to the National Renewable Energy Laboratory of the U.S. Department of Energy, approximately 50% of homes can’t support rooftop solar panels.
+If you’re unsure about the investment, or can’t install rooftop panels, there’s another way to save with solar energy—community solar!
+Community solar is a way for renters, homeowners, and businesses to benefit from solar energy without actually installing anything on their roof. Community solar subscribers realize annual electricity savings with no up-front cost. If you aren't ready for installation, consider community solar as another easy way to save on electricity costs!
+
+--------------------------------------------------------------------------------
+
+URL: https://nexamp.com/blog/srec-solar-renewable-energy-credit
+
+There is a pressing need for a nationwide shift towards cost-effective, renewable, and dependable energy sources. In response to this need, state governments have introduced incentive programs to encourage households and businesses to embrace clean energy solutions. One such initiative is the Solar Renewable Energy Credit or Solar Renewable Energy Certificate, commonly referred to as SREC. Solar Renewable Energy Credits provide financial incentives for solar power system owners, offering them financial returns for their commitment to clean energy.
+What is an SREC (Solar Renewable Energy Credit)?
+Let's start with the SREC meaning. A Solar Renewable Energy Credit (SREC) is a non-tangible certificate awarded to the owner of a solar panel system for every megawatt-hour (MWh) or 1,000 kilowatt-hours (kWh) of energy their system generates. For instance, if a system produces 12,000 kWh annually, the owner could earn around 12 SRECs per year. These solar energy credits have monetary value for the property owner, offering them an opportunity to generate additional income through clean energy production.
+What Are Renewable Portfolio Standards?
+To fully understand what solar renewable energy credits are and how they operate, it is essential to understand Renewable Portfolio Standards (RPS). These are policies that state that a specific portion of a state’s electricity must be generated from renewable energy sources. RPS significantly influence the SREC market. Some RPS include solar carveouts, specifically dedicated to energy generated from solar projects and home solar energy systems. Only states that have Renewable Portfolio Standards with solar carveouts have dedicated SREC markets. This is the key difference between RECs (renewable energy credits) and SRECs. In states with solar carve-outs, utilities can obtain a set number of SRECs annually, either by generating the power themselves or by purchasing and retiring the SRECs to meet the solar RPS requirements.
+Earning and Selling SRECS
+Which States have an SREC Program?
+While 38 states and Washington D.C. have Renewable Portfolio Standards in place, only 8 of these states have SREC programs in place where individuals can participate in selling solar credits. These states are:
+- Delaware
+- Maryland
+- Massachusetts
+- New Jersey
+- Ohio
+- Pennsylvania
+- Washington DC
+- Virginia
+In addition to these states, individuals who own solar energy systems in some parts of Michigan, Indiana, Kentucky, and West Virginia can sell their SRECs in Ohio’s SREC market despite not having their own market for SRECs.
+How do SRECs Work?
+The process begins with Renewable Portfolio standards, which establish the required percentage of a state’s energy production that must come from renewable sources. From there, the public utility commission (PUC) of each state enforces the RPS to all electricity providers in the area. SRECs can then be used as proof of compliance with these standards. These SRECs are created at certified home solar systems or farms, which the PUC or a similar agency tracks through meter readings.
+Overall, Solar Renewable Energy Credits incentivize homeowners and utility companies to adopt green energy. It can be helpful to think of an SREC as a “coupon” that a solar array produces for every set amount of electricity it generates. Note that this is separate from the actual energy from a solar energy system. With SRECs, solar can become an even more efficient and profitable energy solution for the individual.
+How Many SRECs Will My System Produce?
+One SREC is issued for approximately every 1 MWh (1,000 kWh) of electricity produced. To estimate it on your system, multiply the size of the system by 1.2. For example, for an 8 KW solar panel array, you’ll get around 9 to 10 SRECs every year.
+How do I sell my SRECs?
+To get started selling SRECs, ensure you understand your state’s SREC program and have a certified solar system that meets the program requirements. From there, you can register with an SREC aggregator or exchange platform such as SRECTrade or Sol Systems. Once your SRECs are generated, you can list them for sale on the SREC market, and you’ll be paid once they are sold. Not only will you be supporting renewable energy, but you’ll also be earning additional income! It is important to note that by selling and retiring your SRECs, you forfeit the ability to claim the environmental attributes of your solar energy system. This means that you will not be able to claim carbon neutrality in your home energy use.
+How are SRECs Valued?
+Renewable Portfolio Standards (RPS) drive market demand. This gives solar system owners the chance to sell their SRECs through the SREC market to energy suppliers and utilities, helping them meet their state's solar carve-out requirements.
+The value of an SREC can shift due to changes in supply and demand. In addition, SRECs can be traded, as well as bought and sold, further impacting their value.
+Another important factor in the value of an SREC is the state's alternative compliance payment (ACP), which is the fee utility companies need to pay if they don’t meet the state’s RPS requirements. Companies will not pay for an SREC that costs more than the ACP fee, thereby setting the limit on SREC prices.
+In the grand scheme of things, the availability of SRECs on the market plays a pivotal role in determining their cost, as does the state. Currently, SREC prices vary widely across states.
+How much can I earn selling SRECs?
+How much an SREC is worth largely depends on the state where you live. For example, in Ohio, SRECs are valued at around $4. Conversely, in Washington, DC, the value of an SREC is closer to $330.
+SREC Value by State as of 2023
+- Maryland: $55
+- Massachusetts: $315
+- New Jersey: $215
+- Ohio: $4
+- Pennsylvania: $40
+- Washington, DC: $330
+- Virginia: $45
+What happens to SRECs if I move?
+As a rule of thumb, you can sell your house and move out while still retaining ownership of your SRECs. Solar homeowners, however, often use SRECs as a negotiation tactic. By transferring them to the new owner, they can often sell their property at higher prices.
+Ultimately, SRECs can offer financial compensation to solar system owners, providing them with a counterbalance to the upfront investment of home solar installation. Simultaneously, SRECs play a key role in promoting the growth of renewable solar energy, a critical step in facilitating a clean energy economy.
+To learn more about the additional financial incentives available for renewable energy and sustainable upgrades, check out our comprehensive guide to the Inflation Reduction Act!
+
+--------------------------------------------------------------------------------

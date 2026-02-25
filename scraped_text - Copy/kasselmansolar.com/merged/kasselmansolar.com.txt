@@ -1,0 +1,508 @@
+ROOT: https://kasselmansolar.com/
+SCRAPED_AT_UTC: 2026-02-11T20:15:59.810313Z
+PAGES_INCLUDED: 24
+
+================================================================================
+
+URL: https://kasselmansolar.com/
+
+Solar in the Winter: Facts and Myths on Cold Snaps, Snow, and Solar Production
+With the recent cold snap and freezing temperatures across the Northeast (plus plenty of snow and ice), it’s no surprise that homeowners are asking the same question: does solar still work in winter? When the
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/about-us/
+
+Solar in the Winter: Facts and Myths on Cold Snaps, Snow, and Solar Production
+With the recent cold snap and freezing temperatures across the
+Operating out of Albany, New York for over 70 years, Kasselman Electric has constructed projects ranging from residential developments to border patrol stations and Whole Foods supermarkets.
+Rest assured that our industry leading electrical expertise and community commitment is as steadfast as our reputation.
+Kasselman Solar was formed to save our customers money on costly utility bills while increasing their home values and allowing them to benefit the planet with renewable energy.
+Our commitment to aesthetics, craftsmanship, and attention to detail set us apart and allow us to build trust and confidence in our customers.
+We provide our customers with the top-quality service, products, and dedication that other solar panel installers cannot.
+Our company values of excellence, respect, diligence, and verity are reflected in every installation.
+Our solar energy systems monitor and report each individual solar panel’s status and energy production figures. With our advanced monitoring center and solar monitoring software, the solar energy systems we install report their production and status to us every few minutes. This is the same industry leading monitoring system that allows our customers to see their solar production from smartphones, tablets, and computers. When your installation is completed, the innovation continues for years as we make your system smarter and more efficient with software upgrades.
+Trust Kasselman Solar to ensure you have the best solar investment possible; we stake our reputation on it.
+For over a decade, Kasselman Solar has led with innovation, integrity, and trust. With us as your energy partner, you can rest assured the values we built our success upon will be there for you today, tomorrow, and decades from now. You deserve peace of mind.
+Kasselman is an established business operating in multiple industries. We provide a dynamic approach to sustainable energy with the most advanced products and fully-integrated solutions.
+Our longevity ensures leading quality craftsmanship, reliability, and utmost customer satisfaction. We are determined to make a positive impact in all that we do; relationships built on trust, reputation forged by results.
+Kasselman Solar is committed to providing quality customer service and we believe that your solar panel installation should be worry free. That is why we provide innovative solar energy technology installed by highly trained professionals. Energy efficiency often requires making major lifestyle changes but going solar shouldn’t interfere with your daily routine. That’s the Kasselman Solar guarantee.
+To ensure continued satisfaction after installation, we provide customers with the most popular and advanced monitoring systems from SolarEdge and Enphase. These cutting-edge solar monitoring systems can provide alerts directly to the customer once fully set up, ensuring you're able to identify any issues that may occur and reach out to our service team as soon as possible.
+We ensure any incentives you are eligible for are screened and captured after each sale with your dedicated Project Manager. From agriculture grants to doubling your NYSERDA incentive, we put in the work to identify and take care of any eligible incentives guaranteeing a painless process with the most incentives for your project.
+All of our installations, including the Enphase microinverters and solar panels, are under manufacturer warranty for 25 years. In addition, we provide simple solutions for any “what if” scenario you may encounter, whether it involves a move or a change to your roof.
+With the recent cold snap and freezing temperatures across the
+We’re proud to share that Kasselman Solar has been awarded
+By Steve Kasselman, CEO of Kasselman Solar New York’s power
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/about-solar-panels/our-installation-equipment/
+
+Protect Your Roof With a HUG- Halo UltraGrip
+The HUG™ from Iron Ridge protects your roof, and your wallet.
+Solar panels will only cause roof leaks and damages if the panel mounting hardware is installed incorrectly.
+Kasselman Solar has teamed with Iron Ridge for the highest-quality mounting supplies.
+What does Iron Ridge do?
+Iron Ridge provides the mounting supplies that hold the solar panels securely on the roof without poking holes in the roof that create leaks.
+Their equipment is designed to accelerate the installation process and provide a watertight installation.
+How does the equipment prevent damage?
+Due to recent innovations, many asphalt shingles have bounded courses. A mounting system that not only protects the roof, but eliminates the need to pry the shingles for a solar installation, can speed up the process greatly. With a custom-made structural screw, HUGs get mounted to the roof with an EPDM sealing washer, providing multiple barriers of waterproofing.
+What are the benefits Iron Ridge’s equipment provide?
+- Prevent leaks: Iron Ridge’s technology minimizes damage to the roof and reduce the chances of leaks with the innovative, custom-made RD Structural Screw.
+- Protection from critters and the elements: UltraGrip seal technology uses a unique foam-and-mastic combination that can adapt to fit composition shingles. By filling these gaps, critters can effectively stay out of your solar array.
+- Protect your investment: Because the chance of roof leaks, critter damage, and wear-and-tear from the elements becomes extremely slim, you can rest assured that your investment in solar for your property will not be harmed by damage to your roof or your home itself.
+By using Iron Ridge’s HUG equipment, there’s much less disruption of existing roof surface, because the HUG can adapt to the size, shape, pitch, etc of your roof. Once the solar is placed over your shingles, it will increase the roof’s longevity by blocking the Sun’s UV rays from degrading the roof, especially on the most southern roof planes.
+Latest Blog Posts
+Solar in the Winter: Facts and Myths on Cold Snaps, Snow, and Solar Production
+With the recent cold snap and freezing temperatures across the Northeast (plus plenty of snow and ice), it’s no surprise that homeowners are asking the same question: does solar still work in winter? When the
+Kasselman Solar Named Platinum NYSERDA Quality Solar Installer
+We’re proud to share that Kasselman Solar has been awarded NYSERDA Platinum Quality Solar Installer status – NYSERDA’s highest level of recognition for solar installation quality and consistency. NYSERDA (the New York State Energy Research
+Why Energy Independence is No Longer Optional for New York Homeowners
+By Steve Kasselman, CEO of Kasselman Solar New York’s power grid is approaching a breaking point. NYISO is warning of “dangerously thin” reliability margins starting summer 2026, with NYC facing a 410-650 MW shortfall that
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/about-solar-panels/our-design-process/
+
+Our Design Process with LIDAR
+For the most accurate designs, Kasselman Solar uses Aurora Solar. Aurora is a software that utilizes LIDAR (Light Detection and Ranging) technology to more affordably design solar panel systems on residential homes using only an address and an electric bill.
+Thanks to LIDAR’s cutting-edge technology, it has never been easier to engineer highly accurate designs and proposals for every customer.
+Light Detection and Ranging
+If you haven’t heard of LIDAR, you’ve definitely heard of two things it’s used for: self-driving cars and the Mars Rover!
+LIDAR, short for light detection and ranging, was first used by NASA in the 1960’s for research purposes. Now, over a half a century later, it is taking the solar industry by storm. LIDAR scanners emit pulses of light energy using a laser at buildings and other objects in an area to measure how long it takes for the pulse to return.
+Generally, LIDAR scanners are attached to a plane with a GPS to measure the elevation, latitude, and longitude of the area being examined to calculate measurements for objects in that area (buildings, trees, stoplights, etc).
+What are some benefits of LIDAR?
+LIDAR models can be used to calculate building heights, roof slopes, and tree heights – all of which are critical information when designing solar panel systems. It is the most accurate measurement scanner in the industry by far, so you can rest assured that your system design will be highly accurate.
+Since LIDAR uses a scanner to collect measurements, designing a solar panel system becomes much more efficient because the designers do not need to visit the site to collect measurements. In addition, Aurora Solar is super interactive, even creating proposals through both hard copies and PDF versions to appeal to customers of all ages.
+LIDAR benefits the solar industry and other industries through its pinpoint precision and accuracy. Especially with solar, measurements of building heights, roof slopes, tree heights, and more need to be exact. If any of these measurements are inaccurate, it can throw off the entire design and negatively impact the efficiency of the solar panel’s production. Luckily, LIDAR is used for its accuracy, and we do not anticipate the technology going anywhere anytime soon.
+Latest Blog Posts
+Solar in the Winter: Facts and Myths on Cold Snaps, Snow, and Solar Production
+With the recent cold snap and freezing temperatures across the Northeast (plus plenty of snow and ice), it’s no surprise that homeowners are asking the same question: does solar still work in winter? When the
+Kasselman Solar Named Platinum NYSERDA Quality Solar Installer
+We’re proud to share that Kasselman Solar has been awarded NYSERDA Platinum Quality Solar Installer status – NYSERDA’s highest level of recognition for solar installation quality and consistency. NYSERDA (the New York State Energy Research
+Why Energy Independence is No Longer Optional for New York Homeowners
+By Steve Kasselman, CEO of Kasselman Solar New York’s power grid is approaching a breaking point. NYISO is warning of “dangerously thin” reliability margins starting summer 2026, with NYC facing a 410-650 MW shortfall that
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/about-kasselman-solar/our-mission-vision-and-values/
+
+Our Mission, Vision, and Values
+Mission
+Our primary goal is to help homeowners and business owners in New York State save money on costly utility bills and increase their property values. We do this by bringing our customers clean energy with solar panels, through either a rooftop mount or ground mount.
+Our secondary goal is to do good for our planet. According to the US Environmental Protection Agency (EPA), greenhouse gas emissions are the leading contributor to climate change. By going solar, we can reduce our carbon footprint and decrease the demand for fossil fuels, which helps limit greenhouse gas emissions.
+There is no Planet B, and we see doing our part to preserve Earth as a duty.
+Vision
+As part of the 2022 State of the State address, Governor Kathy Hochul announced a plan to achieve 2 million climate-friendly homes by 2030 in New York. We intend to be a critical part of this plan. While we serve customers all over the state, we operate most heavily in the Capital Region and Hudson Valley.
+In addition, utility, electricity, and gas prices are the highest they have been in over a decade, with very little signs of stopping soon. We envision an eco-friendly and affordable future for New York residents by helping our customers take back their energy independence and alleviating the burden of higher prices.
+Values
+It is our belief that what matters most is doing what’s right: for our customers, for our people, and for our planet. Trust, transparency, and industry-leading products and customer service are paramount to our operations as a company. Our core values of excellence, respect, diligence, and verity are reflected in every installation, no matter how big or small.
+It’s all summed up in our company slogan: reputation forged by results, relationships built on trust.
+Latest Blog Posts
+Solar in the Winter: Facts and Myths on Cold Snaps, Snow, and Solar Production
+With the recent cold snap and freezing temperatures across the Northeast (plus plenty of snow and ice), it’s no surprise that homeowners are asking the same question: does solar still work in winter? When the
+Kasselman Solar Named Platinum NYSERDA Quality Solar Installer
+We’re proud to share that Kasselman Solar has been awarded NYSERDA Platinum Quality Solar Installer status – NYSERDA’s highest level of recognition for solar installation quality and consistency. NYSERDA (the New York State Energy Research
+Why Energy Independence is No Longer Optional for New York Homeowners
+By Steve Kasselman, CEO of Kasselman Solar New York’s power grid is approaching a breaking point. NYISO is warning of “dangerously thin” reliability margins starting summer 2026, with NYC facing a 410-650 MW shortfall that
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/about-kasselman-solar/
+
+Solar in the Winter: Facts and Myths on Cold Snaps, Snow, and Solar Production
+With the recent cold snap and freezing temperatures across the
+Operating out of Albany, New York for over 70 years, Kasselman Electric has constructed projects ranging from residential developments to border patrol stations and Whole Foods supermarkets.
+Rest assured that our industry leading electrical expertise and community commitment is as steadfast as our reputation.
+Kasselman Solar was formed to save our customers money on costly utility bills while increasing their home values and allowing them to benefit the planet with renewable energy.
+Our commitment to aesthetics, craftsmanship, and attention to detail set us apart and allow us to build trust and confidence in our customers.
+We provide our customers with the top-quality service, products, and dedication that other solar panel installers cannot.
+Our company values of excellence, respect, diligence, and verity are reflected in every installation.
+Our solar energy systems monitor and report each individual solar panel’s status and energy production figures. With our advanced monitoring center and solar monitoring software, the solar energy systems we install report their production and status to us every few minutes. This is the same industry leading monitoring system that allows our customers to see their solar production from smartphones, tablets, and computers. When your installation is completed, the innovation continues for years as we make your system smarter and more efficient with software upgrades.
+Trust Kasselman Solar to ensure you have the best solar investment possible; we stake our reputation on it.
+For over a decade, Kasselman Solar has led with innovation, integrity, and trust. With us as your energy partner, you can rest assured the values we built our success upon will be there for you today, tomorrow, and decades from now. You deserve peace of mind.
+Kasselman is an established business operating in multiple industries. We provide a dynamic approach to sustainable energy with the most advanced products and fully-integrated solutions.
+Our longevity ensures leading quality craftsmanship, reliability, and utmost customer satisfaction. We are determined to make a positive impact in all that we do; relationships built on trust, reputation forged by results.
+Kasselman Solar is committed to providing quality customer service and we believe that your solar panel installation should be worry free. That is why we provide innovative solar energy technology installed by highly trained professionals. Energy efficiency often requires making major lifestyle changes but going solar shouldn’t interfere with your daily routine. That’s the Kasselman Solar guarantee.
+To ensure continued satisfaction after installation, we provide customers with the most popular and advanced monitoring systems from SolarEdge and Enphase. These cutting-edge solar monitoring systems can provide alerts directly to the customer once fully set up, ensuring you're able to identify any issues that may occur and reach out to our service team as soon as possible.
+We ensure any incentives you are eligible for are screened and captured after each sale with your dedicated Project Manager. From agriculture grants to doubling your NYSERDA incentive, we put in the work to identify and take care of any eligible incentives guaranteeing a painless process with the most incentives for your project.
+All of our installations, including the Enphase microinverters and solar panels, are under manufacturer warranty for 25 years. In addition, we provide simple solutions for any “what if” scenario you may encounter, whether it involves a move or a change to your roof.
+With the recent cold snap and freezing temperatures across the
+We’re proud to share that Kasselman Solar has been awarded
+By Steve Kasselman, CEO of Kasselman Solar New York’s power
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/about-solar-panels/
+
+Solar in the Winter: Facts and Myths on Cold Snaps, Snow, and Solar Production
+With the recent cold snap and freezing temperatures across the Northeast (plus plenty of snow and ice), it’s no surprise that homeowners are asking the same question: does solar still work in winter? When the
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/how-do-solar-panels-work/
+
+Solar in the Winter: Facts and Myths on Cold Snaps, Snow, and Solar Production
+With the recent cold snap and freezing temperatures across the Northeast (plus plenty of snow and ice), it’s no surprise that homeowners are asking the same question: does solar still work in winter? When the
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/solar-faqs/
+
+Solar FAQs
+A lot of our customers have the same questions about solar. Here, we compiled a list of solar FAQ’s we receive most often and our answers backed by research and industry experience!
+Why should I go solar?
+There has never been a better time to go solar. Going solar gives you energy independence from the grid, helps you save money on utility bills (which are definitely not decreasing anytime soon), helps the environment in today’s age of the climate crisis, and increases the value of your home.
+Solar Panels and Installation:
+How do solar panels work?
+Solar panels absorb the sun’s energy during the day and convert it into direct current (DC) electricity. The DC electricity then passes through an inverter to convert it into alternating current (AC) electricity, which is what powers most homes and businesses.
+How long does it take for the solar panels to be installed?
+How long a project takes depends on the municipality, but we average around 8-12 weeks from a signed contract to a finished installation. With Kasselman Solar, every project is assigned a Project Manager who will serve as the point-of-contact for any questions, comments, concerns, or support needed during the installation process.
+How long do solar panels last?
+Many solar panels can last around 30 years or more with proper maintenance and care. At Kasselman Solar, all of our installations are under manufacturer warranty for 25 years.
+Will solar work with my roof?
+There are many factors that determine if your roof is a good fit for solar. Depending on factors such as materials of the roof, shade around the roof (often trees, but also other homes/buildings), orientation of the roof, the roof’s age and other factors, different roofs can work better for solar. In some cases where the roof is not a good fit for solar, a ground mount installation can help you to still earn the benefits of solar even without the optimal roof.
+Do solar panels work when the power is out?
+Solar panels do not work when the power is out, unless they are connected to a battery. A battery allows excess energy to be stored to be used when the solar panels are not/cannot actively generating energy, such as during the night or a power outage.
+Can my solar panels still produce energy with snow on them?
+Snow generally isn’t heavy enough to create issues with energy production, but solar panels do work best when they can be directly hit by the sun. To mitigate this, most solar panels are installed at an angle so snow can slide off easily. Even without an angle, or if snow accumulates, solar panels are very easy to clean.
+How can I monitor the performance of my solar system?
+To ensure continued satisfaction after installation, we provide customers with the most popular and advanced monitoring systems from SolarEdge and Enphase. These cutting-edge solar monitoring systems can provide alerts directly to the customer once fully set up, ensuring you’re able to identify any issues that may occur and reach out to our service team as soon as possible.
+Costs and Savings:
+How much do solar panels cost?
+The cost of solar panels can vary greatly depending on the size of the system, the equipment used, the location of the installation and more. In previous years, the cost of solar panels has decreased significantly and continues to become more affordable over the years. New York State and Federal incentives/tax credits can also help cover a large portion of the costs to install solar panels. You can also get a free quote on our website for your specific project to get an accurate price estimate.
+What solar incentives and tax credits are available?
+Currently there are both Federal and State solar incentives/tax credits which can cover a significant cost of the project for residential or commercial installs. These incentives can vary depending on the type of project, location and other factors. Click to read more about recent solar incentives and tax credits and see exactly what you could save on your project today!
+Why should I choose Kasselman Solar for my solar project?
+Choosing Kasselman Solar guarantees you a commitment to quality control that is unmatched in our area. With over 75 years of industry experience, you can rest assured that your project will be handled by the best of the best through professionalism, know-how, and top-tier service. Our engineers and installers treat every project with care and precision and our support staff is consistently available to answer questions and provide support. We are always ready to answer solar FAQ’s and other questions.
+Latest Blog Posts
+Solar in the Winter: Facts and Myths on Cold Snaps, Snow, and Solar Production
+With the recent cold snap and freezing temperatures across the Northeast (plus plenty of snow and ice), it’s no surprise that homeowners are asking the same question: does solar still work in winter? When the
+Kasselman Solar Named Platinum NYSERDA Quality Solar Installer
+We’re proud to share that Kasselman Solar has been awarded NYSERDA Platinum Quality Solar Installer status – NYSERDA’s highest level of recognition for solar installation quality and consistency. NYSERDA (the New York State Energy Research
+Why Energy Independence is No Longer Optional for New York Homeowners
+By Steve Kasselman, CEO of Kasselman Solar New York’s power grid is approaching a breaking point. NYISO is warning of “dangerously thin” reliability margins starting summer 2026, with NYC facing a 410-650 MW shortfall that
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/new-york-solar-incentives/
+
+Solar in the Winter: Facts and Myths on Cold Snaps, Snow, and Solar Production
+With the recent cold snap and freezing temperatures across the Northeast (plus plenty of snow and ice), it’s no surprise that homeowners are asking the same question: does solar still work in winter? When the
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/solar-permitting/
+
+Solar in the Winter: Facts and Myths on Cold Snaps, Snow, and Solar Production
+With the recent cold snap and freezing temperatures across the Northeast (plus plenty of snow and ice), it’s no surprise that homeowners are asking the same question: does solar still work in winter? When the
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/net-metering/
+
+Solar in the Winter: Facts and Myths on Cold Snaps, Snow, and Solar Production
+With the recent cold snap and freezing temperatures across the Northeast (plus plenty of snow and ice), it’s no surprise that homeowners are asking the same question: does solar still work in winter? When the
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/solar-remote-crediting/
+
+Solar in the Winter: Facts and Myths on Cold Snaps, Snow, and Solar Production
+With the recent cold snap and freezing temperatures across the Northeast (plus plenty of snow and ice), it’s no surprise that homeowners are asking the same question: does solar still work in winter? When the
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/solar-installation-map/
+
+Installation Map
+See how many people in your community have gone solar with the Kasselman Solar Installation Map!
+This map was created so potential and current customers can see where we have worked. As you can see, Kasselman Solar has completed thousands of projects across many different parts of New York State, serving both homeowners and businesses.
+The Kasselman Solar Installation Map shows residential and commercial projects. To see more of our work, visit our Homeowners and Commercial & Government tabs.
+Join The Kasselman Family!
+Ready to Learn More About Solar? Let Us Know:
+Latest Blog Posts
+Solar in the Winter: Facts and Myths on Cold Snaps, Snow, and Solar Production
+With the recent cold snap and freezing temperatures across the Northeast (plus plenty of snow and ice), it’s no surprise that homeowners are asking the same question: does solar still work in winter? When the
+Kasselman Solar Named Platinum NYSERDA Quality Solar Installer
+We’re proud to share that Kasselman Solar has been awarded NYSERDA Platinum Quality Solar Installer status – NYSERDA’s highest level of recognition for solar installation quality and consistency. NYSERDA (the New York State Energy Research
+Why Energy Independence is No Longer Optional for New York Homeowners
+By Steve Kasselman, CEO of Kasselman Solar New York’s power grid is approaching a breaking point. NYISO is warning of “dangerously thin” reliability margins starting summer 2026, with NYC facing a 410-650 MW shortfall that
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/solar-installation-process-with-kasselman/
+
+Solar Installation Process
+If you’re considering solar for your home or business, you probably have some questions about how it all works, let us help answer your questions and give insight into the process!
+Read below for a step-by-step explanation of the Kasselman Solar Installation Process!
+Our Step-By-Step Process:
+1. When the contract has been drawn up and executed, the project will then be submitted to our Project Management department.
+Every solar project (residential and commercial) is assigned a Project Manager who is a member of our office staff. Project Managers are responsible for overseeing every aspect of the project and act as a point-of-contact for any questions, comments, concerns, or support the customer may need.
+The Project Manager schedules a site assessment of the property, where a site assessor measures the roof and the electrical setup of the property.
+2. This information gathered at the site assessment is brought to one of our PV Design Engineers who will create a design for the project.
+Our engineering team creates the layout of the project through a site plan, which ensures the house can hold solar panels. Electrical is also reviewed to ensure the compatibility of a solar panel system with the property’s electrical infrastructure.
+Not sure if solar will work for your roof? No problem! Read more about best roofs for solar.
+3. Once the engineering team completes the design, the site plans are brought to the customer for their final approval.
+Any scope-of-work changes can occur during this stage. The customer will sign off on the design to move forward with the project.
+4. The design has been given final approval by the customer.
+Project Management works with the customer on financing the project and applying for applicable financial incentives.
+5. After receiving customer approval, we also issue a project permit when our permit team applies for one through the township’s municipality.
+Four to six weeks is the average wait time for a permit, but it could be more or less depending on the municipality. Our interconnection coordinator submits the contract and other appropriate documents to the utility and NYSERDA.
+6. Once the permit is secured, your Project Manager can schedule an installation!
+Installation takes on average 1-2 days to complete. Upon completion of installation, we can schedule an electrical inspection to ensure the solar panel system and the electrical infrastructure of the property are working together and not “clashing.” Finally, we can submit to close out the permit and submit the final project documents to the utility and NYSERDA. Then, we wait up to 15 business days for the utility to put the net meter on the house. Net metering is how your utility account gets credited. Read more about net metering here.
+7. We remotely activate your system for you after installation is complete.
+You can start saving money as quickly as possible! Our team will also show you how to monitor your system on the Enphase or SolarEdge mobile apps, so you can check your solar production anytime and anywhere you want.
+8. Now that everything is complete, you can start saving money with your solar panels.
+Plus we offer a $500 incentive for every referral who installs with us. So, if you have any friends or family interested in solar, send them our way and you can earn money too!
+When the project is complete, you can rest assured that our team will be easily accessible for any service or support required.
+With our 25-year warranty, we see our projects as partnerships and relationships with customers, not simple transactions. Our service and support team works daily with customers to ensure the best service possible.
+Still not sure about going solar? Check out our page “Why Go Solar” to explore the benefits of going solar with us!
+Latest Blog Posts
+Solar in the Winter: Facts and Myths on Cold Snaps, Snow, and Solar Production
+With the recent cold snap and freezing temperatures across the Northeast (plus plenty of snow and ice), it’s no surprise that homeowners are asking the same question: does solar still work in winter? When the
+Kasselman Solar Named Platinum NYSERDA Quality Solar Installer
+We’re proud to share that Kasselman Solar has been awarded NYSERDA Platinum Quality Solar Installer status – NYSERDA’s highest level of recognition for solar installation quality and consistency. NYSERDA (the New York State Energy Research
+Why Energy Independence is No Longer Optional for New York Homeowners
+By Steve Kasselman, CEO of Kasselman Solar New York’s power grid is approaching a breaking point. NYISO is warning of “dangerously thin” reliability margins starting summer 2026, with NYC facing a 410-650 MW shortfall that
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/home-solar-panels/
+
+Solar panels help save money, increase home value, and reduce carbon emissions. Kasselman Solar Energy Systems are virtually maintenance-free, include 24/7 Internet monitoring with iPhone and Android apps, and are designed to generate power for over 30 years. We install high-efficiency solar panels that blend seamlessly with your roof, creating a modern and attractive aesthetic that lasts for years.
+Kasselman Solar is committed to providing quality customer service and we believe that your solar panel installation should be worry free. That is why we provide innovative solar energy technology installed by highly trained professionals. Energy efficiency often requires making major lifestyle changes but going solar shouldn’t interfere with your daily routine. That’s the Kasselman Solar guarantee.
+To ensure continued satisfaction after installation, we provide customers with the most popular and advanced monitoring systems from SolarEdge and Enphase. These cutting-edge solar monitoring systems can provide alerts directly to the customer once fully set up, ensuring you're able to identify any issues that may occur and reach out to our service team as soon as possible.
+We ensure any incentives you are eligible for are screened and captured after each sale with your dedicated Project Manager. From agriculture grants to doubling your NYSERDA incentive, we put in the work to identify and take care of any eligible incentives guaranteeing a painless process with the most incentives for your project.
+All of our installations, including the solar panels, are under manufacturer warranty for 25 years. In addition, we provide simple solutions for any “what if” scenario you may encounter.
+Instead of having us talk about ourselves, why don’t we see what our clients have to say.
+Our passion for quality and performance begins with installing the best solar panels from the most trusted and experienced manufacturers. Our REC Alpha Pure solar panels are among the most powerful and efficient solar panels ever made while our QCell solar panels provide the most aesthetically attractive and cost-effective solution. Our solar panels have a 25-year warranty and possess advanced industry leading technology to ensure we exceed the highest performance specifications and quality standards.
+Can solar panels be powerful, affordable, and aesthetically attractive? With Kasselman Solar, the answer is yes. Our solar panels compliment your home with a modern seamless aesthetic, allowing for an elegant design that blends with the roof line and provides a sleek, low-profile appearance.
+We negotiate supply agreements and build relationships directly with the industry’s leading manufacturers.
+Get the most advanced solar panels for the best price, no compromises.
+Kasselman Solar uses the industry-leading software, Aurora, to design your solar system. Our designs are created custom to your energy needs always!
+New York State has some of the best incentives and financing options for solar energy systems in the country. We receive a grant from NYSERDA that lowers the cost of our client’s systems and they receive tax credits for most of the remaining cost, boosting the return on investment. It is imperative to act quickly, as more homeowners deploy solar, the incentives are scaled back.
+Kasselman Solar connects customers to live solar panel monitoring via iPhone and Android apps and by web browser.
+We use proprietary software to deliver reliable, secure solar energy monitoring 24/7 at no cost and we even have smartphone and tablet apps. You can even brag about your solar production by sharing daily solar production over Facebook, Instagram, and X!
+It gets better, our software is continuously updated to improve our client’s experience and maximize solar production. We now offer a consumption monitoring option to allow customers to see how much power they are using relative to how much solar they are creating, in real-time!
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/best-solar-panels/
+
+Solar in the Winter: Facts and Myths on Cold Snaps, Snow, and Solar Production
+With the recent cold snap and freezing temperatures across the Northeast (plus plenty of snow and ice), it’s no surprise that homeowners are asking the same question: does solar still work in winter? When the
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/solar-battery-storage/
+
+Simply, if you run high electric load items with your battery, your battery will drain faster.
+Think of the battery life on your cell phone. How long will it last depends on what apps you are using, video & music streaming, etc. If you’re doing multiple things at the same time, they will last shorter.
+If you have too many high load appliances running at the same time, you can cause a brown out with your battery, and it will shut off.
+Batteries can power a lot, however if you exceed that threshold (with say electric heat) the battery cannot handle that load, and everything will shut off. It is like a breaker popping from overloading a circuit in your electrical panel.
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/home/2026-new-york-solar-incentives/
+
+Solar in the Winter: Facts and Myths on Cold Snaps, Snow, and Solar Production
+With the recent cold snap and freezing temperatures across the Northeast (plus plenty of snow and ice), it’s no surprise that homeowners are asking the same question: does solar still work in winter? When the
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/business-government/
+
+Solar power reduces overhead by allowing companies to create renewable energy on-site. Using solar power offsets both electric delivery and supply charges. We can even get rid of our commercial customer’s demand meters with solar power. Solar energy systems allow businesses to dodge unexpected utility rate fluctuations, cut their peak demand, and secure low energy rates.
+Government incentives can cover up to 70% of the cost of a commercial solar system. New York State has some of the best incentives for solar energy systems in the country. We receive a grant from NYSERDA that lowers the cost of our client’s systems and they receive tax credits for most of the remaining cost. It is imperative to act quickly, as more businesses deploy solar the incentives are scaled back.
+Solar doesn’t only make for a good investment on paper, but it also creates a strong statement to employees and customers that your company is focused on the future. It promotes a culture that can influence purchasing decisions and build new brand loyalty. This positive effect can lead to increased sales and more loyal customers. Studies are available upon request to support these claims.
+For over a decade, Kasselman Solar has engineered and constructed some of the most cutting-edge technology seen in commercial and industrial solar applications. Rest assured that our industry-leading expertise and vast distribution network allow us to provide you with the most cost-effective solar solution with the most advanced technology available. We ensure our client’s solar energy systems meet all codes and ordinances and live up to our best practices and the reputation we have built.
+With over a decade of industry experience, Kasselman Solar has persevered through rapidly changing economic, political, social, and environmental climates since 2014. With us as your energy partner, you can rest assured the values we built our success upon will be there for you today, tomorrow, and decades from now. You deserve peace of mind.
+Celebrating 10 years of Kasselman Solar in 2024, the Kasselman name is an established business operating in multiple industries. We provide a dynamic approach to sustainable energy with the most advanced products and fully-integrated solutions.
+Our longevity ensures leading quality craftsmanship, reliability, and utmost customer satisfaction. We are determined to make a positive impact in all that we do; relationships built on trust, reputation forged by results. After all, it's why we have an average rating of 4.7 on Google and 5.0 on Energy Sage!
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/business-and-government-copy/
+
+Skip to content
+Upstate NY: (518) 478-8365
+Hudson Valley: (845) 681-4088
+Get Solar Quote
+About Solar
+About Solar Panels
+How Do Solar Panels Work
+FAQ’s
+Solar Incentives
+Permitting Process
+Net Metering
+Solar Remote Crediting
+About Us
+Our Mission, Vision, and Values
+Solar Install Map
+Solar Installation Process
+Our Design Process
+Our Installation Equipment
+Homeowners
+Better Solar Panels
+Solar Battery Storage
+2026 New York Solar Incentives
+Commercial & Government
+Business and Government
+Project Gallery
+Solar Resources
+Customer Support
+Contact
+Contact Us
+Refer A Friend
+Contract Deposit
+PR/Media Inquiries
+Careers
+About Solar
+About Solar Panels
+How Do Solar Panels Work
+FAQ’s
+Solar Incentives
+Permitting Process
+Net Metering
+Solar Remote Crediting
+About Us
+Our Mission, Vision, and Values
+Solar Install Map
+Solar Installation Process
+Our Design Process
+Our Installation Equipment
+Homeowners
+Better Solar Panels
+Solar Battery Storage
+2026 New York Solar Incentives
+Commercial & Government
+Business and Government
+Project Gallery
+Solar Resources
+Customer Support
+Contact
+Contact Us
+Refer A Friend
+Contract Deposit
+PR/Media Inquiries
+Careers
+(518) 478-8365
+New On Our Blog:
+“Kasselman Solar Named NYSERDA Platinum Quality Solar Installer”
+About Solar
+About Solar Panels
+How Do Solar Panels Work
+FAQ’s
+Solar Incentives
+Permitting Process
+Net Metering
+Solar Remote Crediting
+About Us
+Our Mission, Vision, and Values
+Solar Install Map
+Solar Installation Process
+Our Design Process
+Our Installation Equipment
+Homeowners
+Better Solar Panels
+Solar Battery Storage
+2026 New York Solar Incentives
+Commercial & Government
+Business and Government
+Project Gallery
+Solar Resources
+Customer Support
+Contact
+Contact Us
+Refer A Friend
+Contract Deposit
+PR/Media Inquiries
+Careers
+About Solar
+About Solar Panels
+How Do Solar Panels Work
+FAQ’s
+Solar Incentives
+Permitting Process
+Net Metering
+Solar Remote Crediting
+About Us
+Our Mission, Vision, and Values
+Solar Install Map
+Solar Installation Process
+Our Design Process
+Our Installation Equipment
+Homeowners
+Better Solar Panels
+Solar Battery Storage
+2026 New York Solar Incentives
+Commercial & Government
+Business and Government
+Project Gallery
+Solar Resources
+Customer Support
+Contact
+Contact Us
+Refer A Friend
+Contract Deposit
+PR/Media Inquiries
+Careers
+Project Gallery
+Highlighting some of our past commercial and government projects:
+Five Rivers Environmental Education Center
+Ace Hardware
+Albany Airport
+Albany Damien Center
+Battiste Orthodontics
+Capital Region Welcome Center
+Chas G Burch
+Everett Enterprises
+Henry Hill Farm
+Lucy Jo's Coffee Roastery
+Johnsburg Town Hall and Library
+Pavement Tech
+Raymond Watkins Apartments
+Riverside Maple Farms
+SUNY Albany
+Town Hall of Hurley
+WAM Associates
+Witt Construction
+Reach out to Kasselman Solar now and see how we can get you started on a path to a brighter future!
+Get in Touch
+Stay in Touch!
+By submitting this form, you authorize Kasselman Solar to contact you via phone, text, and email using the information you provided above, even if your number is on a Federal or State Do Not Call (DNC) list. Message and data rates may apply.
+Submit
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/resources/
+
+Solar in the Winter: Facts and Myths on Cold Snaps, Snow, and Solar Production
+With the recent cold snap and freezing temperatures across the Northeast (plus plenty of snow and ice), it’s no surprise that homeowners are asking the same question: does solar still
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/articles/large-us-solar-company-declares-bankruptcy/
+
+SunPower, a big name in the U.S. solar industry since 1985, has officially declared bankruptcy in a recent announcement.
+This decision comes during a challenging year for the company, marked by significant changes in leadership, financial troubles, and drops in stock prices (1). SunPower’s recent halt in solar leasing and PPAs seems to have only cemented this downward trend in the company as this Monday August 5th SunPower’s Executive Chairman, Tom Werner, sent out an official announcement to SunPower team members (2).
+What this Means:
+SunPower’s recent struggles should not be seen as a reflection of the solar industry as a whole, but instead just one aspect. When looking at the industry as overall, the larger solar industry remains overall highly favorable to customers. The Inflation Reduction Act, for instance, offers residential clean energy credit, allowing homeowners or businesses to save up to 30% or more of the cost of installing solar panels through tax credits!
+Very large-scale companies, like SunPower, often have a very different business model than smaller more local companies like Kasselman Solar. One big benefit we offer is owning your solar panels. At Kasselman Solar, we only sell solar panels, we do not offer solar leases. Paying for your solar panel system in full is one option, however this upfront cost can be intimidating at first. There are many additional financing options for purchasing solar which can make going solar easier for more people, including loan options, solar tax credits, incentives, rebates and more. The solar industry as a whole is growing more each year, and this means that incentives and rebates will likely keep decreasing as solar becomes more commonplace. Read more on New York State solar incentives.
+While leasing solar may seem like a more affordable way to save with solar, you are often losing out on greater savings by not owning solar, continue reading to look at a comparison of buying local solar vs. leasing solar.
+Why Buy with Kasselman?
+Purchasing solar panels offers greater control, generally a higher return on investment, and helps New York progress towards its energy goals.
+As highlighted in a Forbes article on Leasing vs. Buying, “If you have the available funds, then buying solar panels is ultimately the savvier financial decision…the average amount of time it takes to get a full return on the investment due to energy savings is between seven and 10 years. You can also benefit from federal tax credits and reimbursements when you own the system” (4).
+Both leasing and buying solar panels will allow you to help the environment and help New York further its climate goals, however leasing solar will leave you tethered to the solar company which can become uncertain in cases such as SunPower’s bankruptcy. When it comes to going solar, owning your panels is often the better long-term investment if your primary goal is saving money!
+Take a more in-depth look at leasing vs. buying solar panels!
+Updated: 8/7/2024
+
+--------------------------------------------------------------------------------
+
+URL: https://kasselmansolar.com/contact-us/
+
+Solar in the Winter: Facts and Myths on Cold Snaps, Snow, and Solar Production
+With the recent cold snap and freezing temperatures across the Northeast (plus plenty of snow and ice), it’s no surprise that homeowners are asking the same question: does solar still work in winter? When the
+
+--------------------------------------------------------------------------------

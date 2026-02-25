@@ -1,0 +1,15 @@
+ROOT: https://isunenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:15:19.014587Z
+PAGES_INCLUDED: 1
+
+================================================================================
+
+URL: https://isunenergy.com/
+
+Accelerate the world's transition from dirty to clean energy
+What we're about
+Legacy Power drives the rapid adoption of transformative technologies.
+Legacy Power supports both individuals and utility companies in adopting clean, energy-efficient technologies. From designing cutting-edge EV charging systems and installing tailored solar arrays to managing ongoing projects and installations, we guide our customers in making smart energy investments that meet their needs.
+Legacy Power’s proprietary electric vehicle (‘EV’) hardware and software solutions simplify and streamline the transition from internal combustion engine (‘ICE’) to electric vehicles.
+
+--------------------------------------------------------------------------------

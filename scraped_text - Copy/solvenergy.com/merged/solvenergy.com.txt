@@ -1,0 +1,628 @@
+ROOT: https://solvenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:36:05.581366Z
+PAGES_INCLUDED: 17
+
+================================================================================
+
+URL: https://solvenergy.com/
+
+Powering Progress with Proven Execution
+We build, operate and optimize solar, storage and critical energy infrastructure.
+Demand for electricity is accelerating as data centers grow and U.S. manufacturing rebounds. SOLV Energy delivers the large-scale solar and battery storage projects that keep these industries powered — on time and at massive scale. With proven expertise, deep resources and full lifecycle capabilities, we build power plants that deliver long-term performance and value for customers and communities.
+Our Focus
+From engineering through long-term operations, SOLV Energy delivers end-to-end solutions for utility-scale energy assets.
+Solar
+Full-scope EPC for large-scale solar, from civil to structural to electrical
+High Voltage
+Design and build substations and interconnection facilities up to 500 kV
+Energy Storage (BESS)
+Co-located PV+BESS or standalone storage at scale
+Services & O&M
+Operations, maintenance, performance engineering, testing, controls, dispatch and monitoring
+SCADA/OTS
+End-to-end SCADA and network infrastructure for plant operations
+SOLV Energy's commissioning planning and teams are top tier. They provided exceptional service in challenging conditions and played a vital role in bringing two large PV solar and BESS projects online within an impressive timeline. Chris Fox Clearway Energy
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solvenergy.com/projects/mammoth-north
+
+Mammoth North
+Modules
+Trina Solar
+Inverters
+Sungrow
+Trackers
+Nextracker Single-Axis
+Owner
+Global Energy Generation
+Location
+Monterey, IN
+MWdc
+480
+Categories
+- Solar
+District
+IN 2
+Greener, Cleaner, Better
+Mammoth North spreads across 4,500 acres of land in northwest Indiana, making it one of the largest solar projects in the United States. The Mammoth North project in its entirety is expected to generate 1.3 GW of clean energy to power approximately 275,000 households annually. As the EPC on Mammoth North, our goal was to not only build a quality solar facility, but also create job training and learning opportunities for area workers and students that will empower the clean energy economy in the Midwest for years to come. The project was named “Mammoth” due to the discovery of ancient mammoth bones in the fields where the project was built, along with the large size and scope of the project.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solvenergy.com/projects
+
+Featured Projects
+Environmental Equivalencies Per Year
+Project Experience
+Loading map...
+* Symbol under “YEAR” indicates that a project is currently under construction.
+| Project | State | City | District | MWdc | Year |
+|---|---|---|---|---|---|
+| Cherry Phase 1 Substation/Transmission | CA | Lemoore | CA 22 | 325 |
+2027
+|
+| Snowflake Solar | AZ | Holbrook | AZ 2 | 593 |
+2027
+|
+| Tormes Solar, Substation/Transmission | TX | Barry | TX 6 | 455 |
+2027
+|
+| Maricopa Phase 2 Solar | AZ | Tonopah | AZ 9 | 618 |
+2027
+|
+| Maricopa Phase 1 Solar | AZ | Tonopah | AZ 9 | 250 |
+2027
+|
+| Ontario 4 Solar | NY | Clifton Springs | 5 |
+2026
+|
+|
+| Somerset Solar Solar | NY | Appleton | 145 |
+2026
+|
+|
+| Tabernacle Solar | NJ | Tabernacle | 5 |
+2026
+|
+|
+| Somers Solar Solar | NY | Thomson | 27 |
+2026
+|
+|
+| Hawthorn Solar Solar | NY | Hoosick Falls | 26 |
+2026
+|
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solvenergy.com/projects/eiffel-solar
+
+Eiffel
+Modules
+Trina Solar
+Inverters
+Sungrow
+Trackers
+Nextracker Single-Axis
+Owner
+SB Energy Global, LLC
+Location
+Paris, TX
+MWdc
+314
+Categories
+- Solar
+- Operations & Maintenance
+District
+TX 4
+Clean, Sustainable Energy
+Eiffel is a 314 MWdc solar PV project located in Paris, Texas. The project consists of a solar facility and a substation with an interconnection voltage of 138kV. The project utilizes Trina 550W Solar modules, Sungrow 3600kW inverters, and Nextracker single axis trackers. Energy Transfer has signed a 15-year Power Purchase Agreement with SB Energy for 120 Megawatts of electricity generated from the Eiffel Solar project. SOLV provided Engineering, Procurement, and Construction (EPC) services on this project along with facility commissioning and testing once the site was complete. SOLV also provides operations and maintenance support to ensure site efficiency. This site is monitored by SOLV in their state-of-the-art medium impact Operations and Control Center (OCC).
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solvenergy.com/projects/vikings
+
+Vikings
+Modules
+First Solar
+Trackers
+Nextracker
+Inverters
+Sungrow
+Owner
+Arevon
+Location
+Holtville, CA
+MWdc
+157
+Categories
+- Solar
+- Energy Storage
+District
+CA 25
+The Power of Partnership
+Vikings Solar-plus-Storage is one of the nation's first solar peaker plants, now in operation in California's Imperial County. Throughout the design, planning and construction of Vikings Solar-plus-Storage, robust collaboration between all project stakeholders helped us drive down costs, boost efficiency and deliver a quality build to our client-partner Arevon. The project utilized components made in America from suppliers including Nextracker Inc. and Tesla, and employed more than 250 local union workers.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solvenergy.com/projects/gravel-pit
+
+Gravel Pit
+Modules
+Jinko
+Inverters
+Sungrow
+Trackers
+SOL Components
+Owner
+D.E. Shaw Renewable Energy Investments (DESRI)
+Location
+East Windsor, CT
+MWdc
+155
+Categories
+- Solar
+- Operations & Maintenance
+District
+CT 1
+A win-win for the Northeast
+Built in partnership with CS Energy for D. E. Shaw Renewable Energy Investments (DESRI), Gravel Pit Solar in East Windsor, Connecticut was designed and built with nature in mind. The project is home to native plants and habitats that reduce water runoff, improve air quality and attract pollinator species like bees, birds and local insects. This approach helps preserve the surrounding environment by stabilizing the soil and inviting more species to form a new habitat. When complete, Gravel Pit will generate enough clean electricity to power over 12,000 homes.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solvenergy.com/
+
+Powering Progress with Proven Execution
+We build, operate and optimize solar, storage and critical energy infrastructure.
+Demand for electricity is accelerating as data centers grow and U.S. manufacturing rebounds. SOLV Energy delivers the large-scale solar and battery storage projects that keep these industries powered — on time and at massive scale. With proven expertise, deep resources and full lifecycle capabilities, we build power plants that deliver long-term performance and value for customers and communities.
+Our Focus
+From engineering through long-term operations, SOLV Energy delivers end-to-end solutions for utility-scale energy assets.
+Solar
+Full-scope EPC for large-scale solar, from civil to structural to electrical
+High Voltage
+Design and build substations and interconnection facilities up to 500 kV
+Energy Storage (BESS)
+Co-located PV+BESS or standalone storage at scale
+Services & O&M
+Operations, maintenance, performance engineering, testing, controls, dispatch and monitoring
+SCADA/OTS
+End-to-end SCADA and network infrastructure for plant operations
+SOLV Energy's commissioning planning and teams are top tier. They provided exceptional service in challenging conditions and played a vital role in bringing two large PV solar and BESS projects online within an impressive timeline. Chris Fox Clearway Energy
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solvenergy.com/who-we-are
+
+Our Story
+We got our start in 2008 delivering some of the earliest large‑scale solar plants in the U.S. As projects grew, so did our capabilities — spanning engineering, procurement, construction, commissioning, operations and maintenance. Today, we’re a full-lifecycle provider that can design, build, operate and optimize complex assets, including high‑voltage substations, transmission interconnections and end‑to‑end SCADA/network systems. We are recognized for utility‑scale solar and battery storage leadership, bankable execution and long‑term performance.
+You can swipe left and right to see more of the image below
+Powered by a Nationwide Team
+Active across the continental U.S., we combine local knowledge with a reliable workforce to deliver projects of any size or complexity. We bring together:
+- Skilled civil, structural, electrical and high-voltage teams
+- Commissioning specialists for solar, storage and substations
+- Experienced SCADA and network engineers
+- Seasoned O&M technicians and performance experts
+- Cross-disciplinary teams that collaborate from design through operations
+This nationwide talent base enables consistent quality, safer execution and on-time delivery as projects scale.
+How We Work
+Safety is a core value lived every day on our jobsites and in our offices. A strong safety culture protects our people, builds trust and contributes to higher-quality outcomes.
+We operate as one integrated team. Engineering, procurement, construction, commissioning and operations work in sync to ensure a smooth transition between each phase — delivering efficient, reliable and high-performing assets.
+We invest in our people with training, mentorship, leadership development and opportunities to build long-term careers in better energy. When our teams grow, our customers benefit.
+Leadership
+Build Your Career in Better Energy
+Discover a career that makes you feel good. At SOLV Energy, we deliver solutions for renewable energy facilities, creating a safer, healthier future for everyone. Explore our opportunities today, and take advantage of our robust benefits and plenty of perks.
++ Learning and development resources
++ Mentoring, communication workshops
++ Safety training and education
++ Personalized financial coaching
++ Employee gift matching program
++ Counseling and well-being solutions
+Get Good News
+We generate good energy and a few emails. Subscribe to see what we do next.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solvenergy.com/who-we-are/why-solv-energy
+
+Safety Leads Every Action
+Safety is foundational to every phase of a project. Our teams follow proven processes that protect people, equipment and timelines. Continuous training and advanced tools reduce risk and improve accuracy.
+Performance You Can Measure
+Our experience at scale drives reliable delivery and stronger long‑term results. Every project benefits from the insights gained across hundreds of sites — from early engineering decisions through commissioning and long‑term operations.
+20 GW
+of utility-scale solar and storage delivered
+500+ power plants
+constructed nationwide
+Regional Expertise, National Reach
+Our teams are established across the U.S., bringing local knowledge and faster response times to every project.
+You can swipe left and right to see more of the image below
+Regionalization means:
+Whether it's a 200 MW solar-and-storage project or a high-voltage interconnection, our teams deliver results with local precision and nationwide strength.
+- Faster mobilization and execution
+- Local subsurface and weather expertise
+- Tailored workforce solutions
+- Strong community and subcontractor partnerships
+- Increased accountability and on-site presence
+A Partner Focused on Long-Term Value
+We aren’t here for a single project — we’re here for the life of your asset. Our team works collaboratively across every discipline to uncover efficiencies, improve performance and continually adapt to the needs of your portfolio through an integrated approach to construction and operations.
+This commitment is why developers, IPPs and utilities across the country choose SOLV Energy as their long-term partner.
+65%
+of the top 25 developers in the U.S. work with SOLV Energy
+7+ years
+average relationship with our largest customers
+Innovation That Drives Performance
+We leverage drones, robotics, advanced analytics, and proprietary platforms to enhance safety, quality and speed.
+Expanded Capabilities Through Our Companies
+SOLV Energy is strengthened by a network of specialized companies that expand our ability to deliver complex renewable infrastructure with speed and precision. These teams bring deep technical expertise in high‑voltage work, foundation systems and transmission construction, allowing us to self‑perform critical scopes and reduce reliance on subcontractors.
+For more than a decade, SEHV has supported utility‑scale EPC delivery across Southern California, specializing in high‑voltage substations, transmission, distribution and BESS integration. Their expertise strengthens project schedules and ensures safe, precise execution of complex electrical scopes.
+A recognized leader in solar foundation and mechanical installation, SDI brings advanced drilling, pre‑pile and module installation capabilities that reduce subsurface risk, increase speed and support consistent quality across challenging terrain.
+Based in Mesa, AZ, Spartan Infrastructure focuses exclusively on high‑voltage transmission construction. Their deep experience in T&D enhances our ability to deliver reliable interconnections and expand capacity for customers investing in large‑scale clean energy.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solvenergy.com/who-we-are/safety
+
+Safety is a core value that guides every decision. Our goal is simple: everyone goes home safe, every day.
+Our Approach to Safety
+Culture of Care
+Every team member looks out for one another and is empowered to speak up.
+Training & Education
+Comprehensive onboarding, recurring training and task‑specific programs for higher‑risk activities.
+Proactive Risk Management
+Job hazard analyses, pre‑task planning, and lessons‑learned drive continuous improvement.
+Field Leadership
+Dedicated safety professionals and craft leadership reinforce best practices and compliance on every jobsite.
+Safety Programs & Certifications
+A safe jobsite is a productive jobsite. Strong safety performance improves quality, reduces rework and supports schedule certainty for customers and communities.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solvenergy.com/who-we-are/contact
+
+Contact
+contactus@solvenergy.com
+careers@solvenergy.com
+media@solvenergy.com
+Let's do something great together.
+Locations
+2045 Lincoln Highway Edison, NJ 08817 732.860.4660
+100 Grove Street, Suite 102 Worcester, MA 01605
+250 Washington Avenue Extension, Suite 102, Albany, NY 12203
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solvenergy.com/what-we-do
+
+Integrated Services for Solar, Storage & High Voltage
+Solar EPC Services
+ABOUT SOLAR
+We provide full-scope EPC for utility-scale solar projects, including civil, structural and electrical delivery. Our teams leverage proven processes and advanced analytics to ensure safe, efficient builds and on-time commissioning.
+THE SOLV DIFFERENCE
+- Powered by Sunscreen, a SOLV Energy application
+- Agnostic and flexible supplier approach
+BESS Integration
+ABOUT ENERGY STORAGE
+SOLV Energy engineers and constructs PV+BESS hybrid systems and standalone storage facilities to meet growing grid demands. Our lifecycle support includes commissioning, operations and performance optimization.
+THE SOLV DIFFERENCE
+- 1st utility-scale BESS project in 2017
+- 11 projects completed to date
+High Voltage Infrastructure
+ABOUT HIGH VOLTAGE
+Our experience has earned us the expertise to help your project find success almost anywhere in North America. We offer both standalone HV or co-located with PV+BESS.
+THE SOLV DIFFERENCE
+- In-house capabilities to design and build substations up to 500 kV
+- Union and self-perform labor options allow seamless build-outs and schedule risk mitigation
+- Strategic procurement of long-lead HV breakers and queue slots to competitively bid
+Operations & Maintenance
+ABOUT OUR SERVICES
+Our O&M services optimize performance and extend asset life.
+- Preventive and Corrective Maintenance: Rapid response for repairs and replacements of critical components, including inverters, modules, and electrical balance of system (EBoS).
+- Performance Optimization: Advanced analytics and field testing to detect issues early and improve reliability.
+- 24/7 Monitoring: NERC-compliant Operations Control Center for real-time oversight and dispatch.
+THE SOLV DIFFERENCE
+- #2 O&M services provider for solar and BESS projects in the Americas, according to Wood Mackenzie
+- 24/7/365 Operations Control Center
+- 2,300+ total employees, 1,600 employees in the field, licensed contractor in 39 states
+SPECIALIZED CAPABILITIES
+- Operations and Maintenance (O&M)
+- Performance Analysis
+- High-Voltage Testing
+- Field Testing
+- Wind Monitoring, Controls & Dispatch
+Operational Technology Solutions (OTS)
+ABOUT OTS
+SOLV Energy provides end-to-end SCADA and network infrastructure solutions for PV and BESS projects. From design and integration to ongoing support, we deliver real-time visibility, grid compliance, and improved uptime.
+THE SOLV DIFFERENCE
+- Continuous feedback from renewable owners, EPC partners, and the SOLV Operations and Control Center (OCC), O&M, and Performance Engineering teams
+- Accelerate project timelines and maximize availability for our partners across the industry
+OUR IMPACT
+18+ GW
+SCADA solutions deployed across 200 utility-scale PV plants
+10 GW
+real-time control capabilities feed the SOLV Energy OCC
+Our Lifecycle Approach
+Your Service Provider at Any Stage
+Our integrated model combines EPC, O&M, SCADA/OT solutions and proprietary technology — giving owners a single trusted partner for every stage of the renewable energy lifecycle.
+Leveraging real-time insights and advanced analytics.
+CAPABILITIES
+- Custom site layouts
+- Energy modeling
+- Value engineering
+- Environmental compliance
+- On-site engineering during construction
+Delivering the right solution on time at a competitive price.
+CAPABILITIES
+- Source critical equipment and materials
+- Negotiate with multiple suppliers
+- Manage logistics and delivery
+- Advise on equipment selection
+Built with proprietary tech and next-generation applications.
+CAPABILITIES
+- Groundwork
+- Foundations
+- Posts & Racking
+- Tracking
+- Skids & Inverters
+- EBOS
+- Batteries
+- T&D
+- Skilled workforce and equipment fleet
+Connecting plants on time to ensure safe and efficient operations.
+OUR CAPABILITIES
+- Commissioning
+- Transformer & Switch Gear Services
+- Protective Relays
+- High Voltage
+- Substation
+- Transmission
+- Ground Fault Certification
+- SCADA
+Operating facilities to maximize output, reduce disruption, and save money.
+OUR CAPABILITIES
+- Controls & Dispatch
+- Nerc Solutions
+- 24/7 Operational Control Center
+- Performance Monitoring & Reporting
+- Performance Availability Guarantees
+- Vitals
+- Managed Network Services
+- Substation Testing
+- Aerial Thermography
+- MET Assessment
+Extending project lifespans and optimizing efficiency for maximum return.
+OUR CAPABILITIES
+- T&M
+- Warranty Management
+- Wind Monitoring
+- Vegetation Management
+- Emergency Response
+- Major Component Replacement
+- Fiber Troubleshooting & Repairs
+Sunscreen & Vitals Technologies
+With innovations ranging from AI to robotic automation, we don’t just keep up with the future—we lead it.
+Safety Across All of Our Capabilities
+We are proud recipients of a top safety rating.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solvenergy.com/what-we-do/epc
+
+Fully Capable
+Our Scope
+Our EPC services cover every stage of utility-scale power infrastructure development, from initial design through commissioning and beyond.
+Leveraging real-time insights and advanced analytics.
+CAPABILITIES
+- Custom site layouts
+- Energy modeling
+- Value engineering
+- Environmental compliance
+- On-site engineering during construction
+Delivering the right solution on time at a competitive price.
+CAPABILITIES
+- Source critical equipment and materials
+- Negotiate with multiple suppliers
+- Manage logistics and delivery
+- Advise on equipment selection
+Built with proprietary tech and next-generation applications.
+CAPABILITIES
+- Groundwork
+- Foundations
+- Posts & Racking
+- Tracking
+- Skids & Inverters
+- EBOS
+- Batteries
+- T&D
+- Skilled workforce and equipment fleet
+Ensuring Peak Performance and Compliance
+CAPABILITIES
+- Equipment and utility testing
+- NETA acceptance testing
+- System integration and SCADA setup
+- NERC/CIP certification support
+Maximizing Asset Longevity and Performance
+CAPABILITIES
+- 24/7 remote monitoring and maintenance
+- Preventative and corrective maintenance
+- Equipment upgrades and repowering
+- Data-driven performance analytics
+Markets We Serve
+Utility-Scale Solar
+Building large-scale solar projects with capacities of 200 MW DC and above, designed for maximum energy generation and rapid deployment.
+Battery Energy Storage Systems (BESS)
+Engineering and constructing advanced battery storage solutions that enhance grid reliability and support renewable integration.
+High-Voltage Substations
+Providing full-scope substation construction and transmission infrastructure services, including civil, structural, electrical and commissioning work.
+Nationwide Reach & Proven Capacity
+Our teams are established across the U.S., bringing local knowledge and faster response times to every project, from development through operations.
+2,300
+employees
+35
+states built in
+Why SOLV Energy
+Proven Track Record
+Over 500 power plants constructed, representing more than 20 GW DC of generation capacity across 35 states.
+Lifecycle Partner
+We are uniquely positioned as a top-five EPC and O&M provider, offering integrated services that maximize project value over its entire life.
+Bankable & Reliable
+Recognized by lenders and customers alike for our financial strength, risk management, and ability to deliver complex projects on time and on budget.
+Safety & Quality Focus
+Industry-leading safety programs and rigorous quality assurance ensure dependable, compliant project execution.
+Innovation & Technology
+Proprietary software platforms like Sunscreen and Vitals, along with robotics and AI-driven analytics, drive efficiency and performance improvements.
+Experienced Team
+A workforce of over 2,300 skilled professionals, including 1,600 craftworkers in the field, supported by a culture of continuous improvement and collaboration.
+A Powerful Refresh
+Renew was designed for one purpose: to extend your project’s life cycle so its technology can continue running as efficiently as possible. Our team has the detail-oriented and nuanced capability to update and replace old or damaged technology, allowing you to maximize your energy output and increase your annual revenue.
+Technology-Driven EPC Solutions
+SOLV Energy integrates advanced technology and proprietary tools to enhance project efficiency, quality and safety. Our data-driven approach and innovative platforms help deliver smarter, faster and more reliable energy infrastructure.
+Explore how our commitment to technology and innovation powers every stage of your project’s lifecycle.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solvenergy.com/what-we-do/operations-maintenance
+
+What We Offer
+- 24/7 remote monitoring, diagnostics and dispatch
+- Real-time data analytics to proactively address performance issues
+- NERC-registered medium impact control center based in San Diego
+- Routine inspections, vegetation management and module cleaning
+- Warranty preservation and compliance monitoring
+- Rapid response teams for equipment repair and weather damage
+- Major equipment replacements including inverters and transformers
+- Battery energy storage system (BESS) augmentation
+- Site expansions and technology upgrades
+- Performance analytics and reporting via proprietary Vitals platform
+- Integration with customer SCADA systems for seamless operations
+- Aerial thermography and reporting
+Why O&M Leadership Matters
+Maximizing the value of your solar and battery assets requires expert O&M. SOLV Energy delivers unmatched expertise and scale with a lifecycle advantage, leveraging construction insights and operational data to improve uptime and energy generation.
+18+ GW
+capacity managed and maintained
+#2
+U.S. O&M Provider
+Specialized Capabilities
+Performance Engineering
+To accurately detect underlying issues and assess the efficacy of a power plant, performance analysis is essential. Our services range from data analytics to degradation studies. With an all-around in-house team, we’re able to provide design support, energy modeling, commissioning and testing, and many other day-to-day operational needs.
+Field Testing
+We offer comprehensive testing services to ensure your equipment and systems operate optimally and deliver maximum ROI. Our field testing includes both third-party and in-house tests designed to verify that your technology meets warranty standards and performs safely and efficiently. For medium and high voltage (MV/HV) substation systems, we provide NETA-compliant acceptance and maintenance testing, repairs and upgrades. Our expert in-house team of utility design professionals, electrical and civil engineers, substation electricians and transmission and distribution linemen work together to ensure your system functions reliably for long-lasting performance.
+Wind Monitoring, Controls & Dispatch
+We also provide 24/7 monitoring, control and dispatch for wind assets from the SOLV Energy OCC. Our data integration team works with SCADA providers and turbine manufacturers to integrate site data into our OCC and configure alerts. This team will communicate with the local boots on the ground, track work orders and will execute orders from Balancing Authorities, ISOs, Utilities or Qualified Scheduling Entities. In addition, SOLV Energy can provide monthly reporting, NERC GOP responsibilities and GO support for these assets.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solvenergy.com/what-we-do/scada-solutions-solar-storage
+
+SCADA & Plant Control Systems for PV + BESS
+End-to-end SCADA expertise for every stage of the renewable energy lifecycle.
+SOLV Energy Operational Technology Solutions (OTS) provides complete end-to-end SCADA and network infrastructure solutions for utility-scale solar and hybrid PV+BESS projects. From design, deployment, commissioning and ongoing maintenance, we deliver industry-leading systems with unique EPC and O&M vertical integration options — helping you maximize uptime and efficiency across your renewable energy portfolio.
+Proven Scale & Results
+SOLV Energy’s SCADA solutions power some of the largest renewable projects in the U.S., delivering measurable improvements in uptime, reliability and cost efficiency. Our lifecyle approach to service empowers owners and operators with real-time visibility, advanced control and actionable insights — delivering value from commissioning through long-term operations.
+18 GW
+generation controlled across 200 utility-scale plants
+2 million
+live tags integrated in our Operations Control Center (OCC)
+OTS Capabilities
+Industry-Leading Technology
+SOLV Energy OTS uses industry-standard technology platforms and an innovative, open-system control architecture to simplify integration, reduce owners’ operational risks and deliver scalable, future-ready solutions built to support your assets throughout their lifecycle.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solvenergy.com/what-we-do/technology-innovation
+
+Technology for the Future of Solar & Storage
+Built by solar experts, designed for scale and proven across more than 18 GW of operating assets.
+SOLV Energy’s in‑house software ecosystem brings together real‑time data, field‑tested tools, and advanced analytics to deliver safer builds, faster schedules and higher‑performing assets — throughout the full 35‑year lifecycle of a project.
+Real-Time Construction Intelligence for Utility-Scale Projects
+Sunscreen is SOLV Energy’s proprietary construction management platform — designed specifically for the speed, scale and complexity of solar and storage builds. Originally developed as a simple QA/QC app, Sunscreen has evolved into a comprehensive field intelligence system used by project teams across the country.
+Transform How Projects Are Built
+Provides 24/7 access to jobsite data via mobile, tablet or desktop
+Used by 1,440+ field personnel on SOLV construction sites
+Designed for rugged field environments with intuitive, purpose-built workflows
+- QA/QC Reporting
+Standardized checklists, photo documentation, digital signatures and instant issue resolution keep quality high and rework low. - Daily Activity & Progress Tracking
+Construction teams capture daily operations, while visual maps, video updates and progress dashboards keep stakeholders aligned. - Schedule Integration
+Real‑time field data is compared against the P6 project schedule to identify risks early and accelerate decision‑making. - Module & Serial Tracking
+Barcode scans tied to GPS‑specific locations provide unmatched traceability for warranty claims and troubleshooting. - Safety Support
+Near‑miss reporting, activity monitoring and documentation create safer, more transparent job sites.
+Sunscreen reduces manual reporting time by up to 90%, improves accountability, strengthens client visibility and helps SOLV deliver consistent, high‑performance projects on aggressive timelines.
+Data-Driven Performance Across GWs of Operating Assets
+Vitals is SOLV Energy’s proprietary O&M analytics platform — a modern, cloud‑based system that helps teams assess performance, identify issues faster and reduce energy loss across some of the largest solar and storage fleets in the U.S.
+Scale That Sets Us Apart
+21.7+ TWh of energy data recorded
+2.8 million data points captured every 5 seconds
+50+ terabytes of operating data logged and growing
+- Real‑Time Operational Visibility
+View performance at any level — from portfolio trends to individual strings and components. - Advanced Analytics & Loss Categorization
+Quickly diagnose soiling, inverter downtime, availability losses and underperformance drivers. - Contractual Metrics Tracking
+Monitor availability, energy losses by category and modeled versus actual production. - Fleetwide Benchmarking
+Compare assets side‑by‑side to uncover systemic trends and performance improvement opportunities. - Data Transparency for Customers
+Export raw and calculated data for audits, reporting or third‑party reviews. - Integration with SOLV’s O&M Ecosystem
+Vitals connects directly with O&M scheduling tools, the Operations Control Center and field service operations.
+Vitals enables faster issue resolution, reduced maintenance costs, validated reporting and more accurate forecasting. The result: optimized energy production and stronger long‑term financial performance for asset owners.
+Delivering End-to-End Digital Advantage, From Groundbreaking to Year 35
++ Sunscreen standardizes work
++ Improves QA/QC
++ Enhances safety
++ Accelerates schedules
++ Delivers real‑time transparency to customers
++ Vitals continuously monitors asset health
++ Integrates with 24/7 OCC operations
++ Reduces downtime
++ Supports warranty & compliance
++ Drives data‑based maintenance decisions
++ Historical data informs repowering and upgrade strategies
++ Fleetwide insights support design of next‑generation assets
++ AI and diagnostics help forecast performance and reduce risk
+We Lead in Means & Methods
++ Co‑developed the first terrain‑following tracker, creating a 3.9 GW first‑mover advantage.
++ Developed the first solar‑specific construction management software (Sunscreen).
++ Built one of the first dedicated utility‑scale solar SCADA platforms (Vitals).
+We Invest in What's Next
++ Robotics for module installation, pile driving, panel cleaning and vegetation management
++ AI for forecasting, performance modeling, predictive maintenance and construction sequencing
++ Drone‑based inspections for faster, safer site diagnostics
++ On‑site solar factories that streamline installation and reduce labor constraints
+
+--------------------------------------------------------------------------------
+
+URL: https://www.solvenergy.com/impact
+
+Community Engagement
+Our mission is to support health, social services, cultural, educational, and environmental programs through our community engagement; and serve as a catalyst for our employees to support community activities that benefit people and planet.
+We’re proud to partner with nonprofits within our 3 office locations - San Diego, Bend, Raleigh - and in areas our projects serve:
+Frosted Faces: San Diego, CA
+Oregon Adaptive Sports: Bend, OR
+Inter-Faith Food Shuttle: Raleigh, NC
+Our Initiatives
+SKIP THE GRID
+Through collaboration with colleges and universities, local school districts, customers, and industry partners like Nextpower, SOLV Energy delivers off-grid solar solutions that support education and daily life in underserved communities. This program reflects our ongoing commitment to building a more resilient and equitable energy future through strong partnerships and shared purpose.
+Building Brighter Futures Through Community Partnership
+These transformations go beyond infrastructure. New libraries stocked with hundreds of books open worlds for young readers. Refreshed teachers' lounges give educators spaces to recharge. Updated student resource areas become places where learning feels inviting, accessible, and built to last.
+These investments ripple outward, reminding us why partnering with communities matters.
+Inspiring Young Climate Leaders Through STEM
+The first program in the series, Food Rescue, was developed with Feeding San Diego to highlight the connection between food waste, hunger, and climate change. Girls can earn their Food Rescue patch by taking action, whether that means volunteering at Feeding San Diego or sharing what they’ve learned with their communities.
+Through these lessons, Girl Scouts are empowered to make meaningful and lasting change, one project at a time.
+Government Engagement
+The Impact Group provides holistic efforts to partner with jobsite teams, local community members, local policy representatives, organizations, and client partners to create and provide custom programs for our projects. By getting into communities early and often, we can support the unique local needs to make a lasting impact.
+Environmental, Social, Governance (ESG)
+Our commitment to sustainability doesn’t stop with our renewable energy projects. By pursuing innovative approaches to designs that produce less waste, develops ways to reuse and recycle materials, and setting ethical labor standards, we’re continuing our mission to seek more ethical practices and reduce our carbon footprint.
+Measurable Progress and Purpose-Driven Impact
+We’re proud to share our inaugural Impact & ESG Report, Impact with Purpose. Throughout 2024, our teams worked hard to advance meaningful partnerships, deepen stakeholder engagement, and strengthen the trust that defines SOLV Energy as a premier lifecycle partner.
+From investing in communities to driving forward responsible and transparent practices, this report highlights how our mission shows up in real-world impact. By collaborating with local organizations, empowering our workforce, and supporting sustainable infrastructure across every stage of the energy lifecycle, we’re demonstrating that solar and storage is more than technology, it’s a commitment to people and place.
+We look forward to building on these milestones in the years ahead, with purpose guiding every step.
+Highlights
+2.9 GW
+of new solar + storage installed in 2024
+67+
+community campaigns supported
+$170K+
+donated through The Ripple Effect
+Defining What Matters Most for People and Planet
+To help define and prioritize our most important ESG and impact commitments, SOLV Energy conducted a formal materiality assessment designed to guide our long-term strategy. Through this in-depth process, we engaged a wide range of stakeholders, from employees and community partners to industry leaders and subject matter experts, to better understand their expectations and insights.
+We also aligned with widely accepted ESG reporting frameworks and reviewed best practices across our sector to ensure we captured the most relevant opportunities and risks. The outcome of this collaborative work is a focused set of ESG priorities that will help us address emerging challenges, maximize positive impacts, and build resilience across our operations.
+By identifying what matters most to both our business and the communities we serve, SOLV Energy can continue delivering responsible, transparent, and meaningful progress.
+Measurable Focus
+20+
+ESG topics prioritized around relevance and risk, driving transparent progress
+
+--------------------------------------------------------------------------------

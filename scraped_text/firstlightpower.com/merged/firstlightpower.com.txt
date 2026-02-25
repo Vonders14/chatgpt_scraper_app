@@ -1,0 +1,183 @@
+ROOT: https://firstlightpower.com/
+SCRAPED_AT_UTC: 2026-02-11T20:04:44.562843Z
+PAGES_INCLUDED: 4
+
+================================================================================
+
+URL: https://firstlightpower.com/
+
+FirstLight is the Alliance for Climate Transition’s Clean Energy Company of the Year
+FirstLight was honored as the Alliance for Climate Transition’s Clean Energy Company of the Year at the Green Future Gala.
+Celebrating 10 Years of Partnership with the Dokis First Nation
+The Okikendawt Hydroelectric Project in Dokis, Ontario, celebrates 10 years in operation this summer. Learn more.
+Drive the energy transition with us
+We are engineers, mechanics, electricians, communicators, strategists, developers, and so much more. Join the FirstLight Team.
+“I am motivated knowing the colossal potential of our operating assets, our development portfolio, and our best-in-class team to deliver on the extraordinary opportunity ahead that is the energy transition.”
+Justin Trudell
+President and CEO, FirstLight Power
+Enjoy hiking, biking, skiing, camping, and more at FirstLight recreation areas
+We welcome inquiries from the media, questions and comments about our projects and recreation spaces, and gladly engage curiosity about our mission, vision, and more.
+
+--------------------------------------------------------------------------------
+
+URL: https://firstlightpower.com/energy/
+
+Energizing generations with clean, reliable power.
+FirstLight operates a 1.6+ GW portfolio of clean energy and energy storage assets throughout the Northeast, Ontario and Québec and is actively developing an additional 4+ GW of clean power and energy storage to meet the world’s growing clean energy needs.
+Projects
+FirstLight is a leading clean power producer, developer, and energy storage company with operating and development projects in New England, New Jersey, Pennsylvania, Ontario and Québec.
+Our operating assets comprise a diverse and growing portfolio of over 1.6 GW of pumped-hydro energy storage, hydroelectric generation, solar generation and battery storage. Our development pipeline includes 4+ GW of hydro, solar, battery storage, offshore wind and onshore wind projects. At FirstLight, we specialize in hybrid solutions that pair clean energy with energy storage to deliver flexibility and reliability as we transition to a clean energy future.
+Learn more about our operating and development projects.
+Northfield Mountain Pumped Hydro Storage Station
+Northfield, MA
+Northfield Mountain, FirstLight’s flagship facility, is New England’s largest energy storage facility. This giant water battery is capable of powering more than 1 million homes for up to 7.5 hours each and every day, making it an ideal solution to help other intermittent renewable resources like windpower decrease greenhouse gas emissions in the region. The “Mountain”, as it is known in the community, stores energy in an upper pond that is then released through the station when electricity is needed most. It provides fantastic recreational opportunities for visitors to take advantage of, including hiking, rock climbing, fishing, camping, snow shoeing, and other activities.
+The Falls Village Generating Station is a three-unit hydroelectric station located on the Housatonic River in the beautiful Town of Falls Village.
+Completed in 1914 as a store-and-release operation, this station was converted to an instantaneous, Class I renewable run-of-river station in 2010. It offers an overlook of Great Falls and includes two trail systems with multiple recreational opportunities and direct access to the Appalachian Trail.
+Completed in 1929, Rocky River was the very first pumped hydro storage station in the United States. Located along the Housatonic River in New Milford, Rocky River is Connecticut’s largest energy storage facility. Candlewood Lake, Connecticut’s largest lake, was created specifically to store the water that is used to generate electricity during times when it’s needed most, like hot summer days or during the polar vortex of 2018.
+River System: Housatonic RiverCapacity: 29 MWTurbines: 2 GE (3.5 MW) and 1 GE (23 MW)Originally Built: 1928
+The Turners Falls project is a five-unit conventional hydroelectric station located on the Connecticut River in Montague.
+The first of two plants that make up the 2.7 mile long Turners Falls Project, Station No. 1 has been providing clean, renewable hydropower since 1905. The Project is currently equipped with 3 upstream fish passage facilities, which operate on a schedule established annually by the Connecticut River Atlantic Salmon Commission.
+The Twin Falls Generating Station is a five-unit hydroelectric station located on the Abitibi River. The station was built in 1922, all five generators rewound between 1982 and 1992 to increase capacity, switch gear modernized in 1999, and controls modernized in 2009. The original turbine runners were replaced in 2012 after 90 years of service. The station presently has an installed capacity of 27.5 MW at a gross head of 17 meters.
+River System: Abitibi RiverCapacity: 27.5 MWTurbines: Five Vertical FrancisOriginally Built: 1922
+Shepaug Generating Station
+Southbury, CT
+Shepaug is Connecticut’s largest hydroelectric generation station and is also the second largest source of carbon-free electricity in the state, located on the Housatonic River in both Newtown and Southbury. Lake Lillinonah, the impoundment created by the dam, is one of Connecticut’s largest lakes and serves as a significant economic driver for our host communities in western Connecticut. It provides fantastic recreational opportunities throughout the year and also contributes to the creation of a unique habitat for wildlife, notably dozens of bald eagles during the winter months.
+The Norman Generating Station is a five-unit hydroelectric station located on the Winnipeg River at the outlet of Lake of the Woods in the town of Kenora. The dam was constructed in 1898 and the powerhouse completed in 1926. The station has an installed capacity of 12.8 MW at a gross head of 5.7 meters.
+One of the largest hydro stations in Connecticut, Stevenson has been supplying the region with more than 100,000 MWh of clean hydroelectricity each year since 1919. Located on the Housatonic River, Stevenson Dam creates Lake Zoar, one of the state’s largest and most beautiful lakes. The impoundment serves as an economic driver for its host communities in Oxford, Monroe, Newtown, and Southbury.
+River System: Housatonic RiverCapacity: 28.9 MWTurbines: 3 GE (7.2 MW each) and 1 GE (8 MW)Originally Built: 1919
+The Scotland Dam Generating Station is a single-unit, Class I run-of-river hydroelectric station located on the Shetucket River in Windham.
+Completed in 1937, this station operates as part of a trio of renewable hydroelectric dams in Eastern Connecticut that generates a total capacity of approximately 6.3 MW of carbon-free electricity. In 2018 FirstLight completed work on a state-of-the-art fish elevator (gray steel structure in the foreground) used for both upstream and downstream passage of fish.
+The Fort Frances Generating Station is an eight-unit run-of-river hydroelectric generating station located on the Rainy River in the town of Fort Frances. The station was built in 1909 and equipped with horizontal turbines that were used to grind wood and generate power. In 1954, all original equipment was removed and replaced with eight vertical turbine generators. The station has an installed capacity of 13.1 MW at a gross head of 9.1 meters.
+The Bantam Generating Station is a single-unit hydroelectric station located on the Bantam River in Litchfield.
+Completed in 1905, this renewable run-of-river station operates as part of a pair of hydroelectric dams in Northwestern Connecticut that generates a total capacity of approximately 920 KW.
+The Calm Lake Generating Station is a two-unit run-of-river hydroelectric station located on the Seine River at the outlet of Calm Lake. The station was originally built in 1928, both turbine runners were replaced in the 1960’s, both generators were rewound in the mid 1980’s, and the main transformer and associated electrical equipment were replaced in 2006. One runner replaced in 2016. The station has an installed capacity of 9.5 MW at a gross head of 24.9 meters.
+River System: Seine RiverCapacity: 9.5 MWTurbines: 2 Vertical FrancisOriginally Built: 1928
+Bulls Bridge Generating Station
+New Milford, CT
+Completed in 1903, this instantaneous, Class I renewable run-of-river station was the first large hydroelectric station in Connecticut. Located on the Housatonic River in the towns of Kent and New Milford, the project supports a natural flow regime and also includes a high-difficulty whitewater area, trail systems, a wildlife and trout management area, and direct access to the Appalachian Trail.
+Northfield Mountain Solar is a 2 MW Class I renewable solar generation facility located in Northfield. It was the very first privately owned utility scale solar generation station located in Massachusetts.
+Type: Class I Renewable SolarCapacity: 2.0 MWPanels: 15,000 GE PanelsOriginally Built: 2011
+The Island Falls Generating Station is a four-unit hydroelectric station located on the Abitibi River in Tolmie and Menapia Townships. The station was built in 1925, with two of the four units operating at 25 Hz. In 1996, the station was modernized and all units were converted to 60 Hz operation. In 2018 one turbine was replaced and the unit rewound, with a second to be completed soon. The station has an installed capacity of 44.3 MW at a gross head of 19 meters. Located 30 km north of the confluence of the Abitibi and Frederickhouse Rivers, the station is a run-of-river plant. Local storage capability allows a moderate level of peaking performance during all but freshet conditions.
+The Fort Frances Battery Energy Storage Project is a battery energy storage system (BESS) being developed by FirstLight on Municipal owned lands North-West of Fort Frances. The project will have a capacity of up to 50 MWac with a discharge duration of 8-hours. FirstLight intends to submit the project into the Ontario Independent Electricity System Operator (IESO) Long Term energy procurement process that aims to bring new capacity online to support Ontario's forecasted economic and population growth and help integrate new renewable generation onto the network.
+Technology: Lithium Ion Battery Energy StorageCapacity: 50 MW / 400 MWhDevelopment Status: Pre-DevelopmentCommercial Operation Estimate: 2029
+The Kenora Generating Station is a six unit hydroelectric station located on the Winnipeg River at the outlet of Lake of the Woods in the town of Kenora. The station was built circa 1906 and in 1921-26 was reconfigured from horizontal to ten vertical turbines. The station was rebuilt in 2019 with six vertical units and has an installed capacity of 5.5 MW at a gross head of 5.7 meters.
+The Sturgeon Falls Generating Station is a two-unit run-of-river hydroelectric generating station located on the Seine River approximated 90 km east of the town of Fort Frances. The station was built in 1927, both turbine runners were replaced in the mid 1960’s, both generators were rewound in the mid 1980’s, and the main transformer and associated electrical equipment were replaced in 2004. The generators were rewound and runners replaced again in 2016. The station has an installed capacity of 8.4 MW at a gross head of 19.8 meters.
+River System: Seine RiverCapacity: 8.4 MWTurbines: 2 Vertical FrancisOriginally Built: 1927
+Fort Frances Solar Project
+Fort Frances, ON
+The Fort Frances Solar Project is a solar project being developed by FirstLight with a capacity of up to 80 MWac on a combination of Municipal and private lands North of Fort Frances. FirstLight intends to submit the project into the Ontario Independent Electricity System Operator (IESO) Long Term energy procurement process that aims to bring new low carbon energy generation online to support Ontario's forecasted economic and population growth. The Fort Frances solar project would have the potential to supply clean electricity to approximately 8,000 to 13,000 Ontario households based on current average residential consumption.
+Technology: Solar PhotovoltaicCapacity: 80 MWDevelopment Status: Pre-DevelopmentCommercial Operation Estimate: 2029
+The Iroquois Falls Generating Station is a twelve-unit run-of-river hydroelectric station located on the Abitibi River in Teefy Township. The original powerhouse was completed in 1914 with fourteen turbines, where ten turbines drove pulp grinders and four turbines were configured to drive electric generators. The station was reconfigured in 1946, where all fourteen turbines were reconfigured to drive electric generators for a capacity of 20 MW. In 2002-2004, the station was redeveloped to provide nine new Kaplan turbines and three of the remaining units were refurbished, resulting in a total capacity of 29.7 MW at a head of 13 meters.
+The Tunnel Battery Energy Storage System (BESS) project, being developed in collaboration with New Leaf Energy, will replace the Tunnel Jet Gas Peaker, which was decommissioned in 2023. The 16+ MW BESS project will provide near equivalent energy to the decommissioned fossil-powered Jet, but will bring new benefits to the grid by charging when surplus energy exists on the grid that would otherwise go unused, while reducing GHG emissions. The Tunnel BESS project will be co-located with FirstLight’s existing Tunnel Hydro facility, highlighting the opportunity to pair batteries with hydropower to increase renewable energy supplied to Connecticut communities.
+Storage Type: Lithium Ion Battery StorageCapacity: 16.02 MW / 4-hourDevelopment Partner: New Leaf EnergyCommercial Operation Estimate: 2027
+Leading Light Wind is an American-led offshore wind project that will deliver locally sourced renewable energy to the East Coast. Developed by Invenergy and energyRe with funding from FirstLight Power, Blackstone Infrastructure Partners, CDPQ, and the Ullico Infrastructure Fund, the project, upon completion, will provide 2,000+ MW of clean power to the Northeast – enough clean energy to power 650,000+ homes annually. Leading Light Wind is FirstLight’s first investment in offshore wind and represents a major milestone for our growing company and portfolio.
+The Allegheny 9 project is a 17.9 MW run-of-river hydroelectric station located on the Allegheny River.
+Allegheny 9 is located 9.4 miles upstream of Allegheny 8. Both Allegheny 8 and 9 are run of the river hydroelectric power facilities located with existing federal lock and dam facilities operated by the US Army Corps of Engineers.
+The Allegheny 8 project is a 13.6 MW run-of-river hydroelectric station located on the Allegheny River.
+Allegheny 8 is located 9.4 miles downstream of Allegheny 9. Both Allegheny 8 and 9 are run of the river hydroelectric power facilities located with existing federal lock and dam facilities operated by the US Army Corps of Engineers.
+FirstLight’s Brandeis University Battery, along with a second system at UMass Dartmouth, is the company’s first battery storage system. The project is a behind-the-meter battery that lowers peak electricity costs for the university while simultaneously improving reliability and decreasing the school’s carbon footprint.
+Storage Type: Lithium Ion Battery StorageCapacity: 780 kW / 1.6 MWhStorage Technology: Tesla Powerpack 2.1Originally Built: 2019
+UMASS Dartmouth Battery Storage
+Dartmouth, MA
+Our UMass Dartmouth battery, along with a similar system at Brandeis University, is FirstLight’s first battery storage facility. This behind-the-meter system serves students and faculty at the University of Massachusetts-Dartmouth by lowering peak costs of electricity, improving the overall reliability on campus, and reducing the overall carbon footprint of the school.
+Storage Type: Lithium Ion Battery StorageCapacity: 520 kW / 1.04 MWhTechnology: Tesla Powerpack 2.0Originally Built: 2018
+Taftville Generating Station
+Norwich, CT
+The Taftville Generating Station is a five-unit hydroelectric station located on the Shetucket River in Norwich.
+Completed in 1906, this Class I renewable run-of-river station operates as part of a trio of hydroelectric dams in Eastern Connecticut that generates a total capacity of approximately 6.3 MW of carbon-free electricity.
+The Tunnel Generating Station is a two-unit hydroelectric station located on the Quinebaug River in Preston.
+Completed in 1919, this Class I renewable run-of-river station is operates as part of a trio of hydroelectric dams in Eastern Connecticut that generates a total capacity of approximately 6.3 MW of carbon-free electricity.
+The Robertsville Generating Station is a two-unit hydroelectric station located on the Still River in Colebrook.
+Completed in 1914, this renewable run-of-river station operates as part of a pair of hydroelectric dams in Northwestern Connecticut that generates a total capacity of approximately 920 KW of carbon-free electricity.
+River System: Still RiverCapacity: 0.6 MWTurbines: 2 generating unitsOriginally Built: 1914
+Cabot Generating Station
+Montague, MA
+The Cabot Generating Station is Massachusetts’ largest conventional hydropower facility located on the Connecticut River in Montague.
+The facility, which is the second of a two station system along 2.7 miles of the river called the Turners Falls Project, has been providing clean electricity since 1916. The Project is currently equipped with 3 upstream fish passage facilities, which operate on a schedule established annually by the Connecticut River Atlantic Salmon Commission.
+The Ayers-1 generating station is located on the Rivière-du-Nord in Lachute, Quebec. In combination with the Ayers-2 plant, which is about one kilometer upstream, it benefits from a power purchase agreement with Hydro-Québec Production for several years. The facility was built in the 1920s.
+River System: Rivière-du-NordCapacity: 4.7 MWOriginally Built: 1920Combined Capacity: 5.9 MW
+Ayers-2
+Lachute, QC
+The Ayers-2 generating station is located on the Rivière-du-Nord in Lachute, Quebec. In combination with the Ayers-1 plant, which is about one kilometer downstream, it benefits from a power purchase agreement with Hydro-Québec Production for several years. Originally, the plant, built in the late 1800s, served as a pumping station for the Ayers family’s industrial activities. It was converted into a hydroelectric power station in 1992 following a major refurbishment as part of the APR-91 program.
+River System: Rivière-du-NordCapacity: 1.2 MWConstruction: 1992Combined Capacity: 5.9 MW
+Big Beaver Falls
+Big Beaver Falls is a 5.5 MW hydroelectric facility on the Kapuskasing River in Northeastern Ontario.
+River System: Kapuskasing RiverCapacity: 5.5 MWAnnual Production: 21,641 MWhCommissioning: Spring 2013
+Camp Three Rapids
+Camp Three Rapids is a 5.5 MW hydroelectric facility on the Kapuskasing River in Northeastern Ontario.
+River System: Kapuskasing RiverCapacity: 5.5 MWAnnual Production: 21,641 MWhCommissioning: Spring 2013
+White Otter Falls
+White Otter Falls is a 5.5 MW hydroelectric facility on the Kapuskasing River in Northeastern Ontario.
+Old Woman Falls is a 5.5 MW hydroelectric facility on the Kapuskasing River in Northeastern Ontario.
+River System: Kapuskasing RiverCapacity: 5.5 MWAnnual Production: 21,106 MWhCommissioning: Early 2013
+Okikendawt
+Okikendawt is a 10 MW hydroelectric facility on the French River in Dokis, Ontario.
+River System: French RiverCapacity: 10 MWAnnual Production: 48,000 MWhCommissioning: Summer 2015
+RSP
+Pont-Rouge, QC
+RSP is a hydroelectric project comprised of two hydroelectric facilities on the Jacques Cartier River in Pont‐Rouge, Québec, with a combined capacity of 13.5 MW.
+River System: Jacques Cartier RiverCapacity: 13.5 MWFacilities: 2Long Term Average Generation: 65,810 MWh
+Hybrid Energy Solutions
+At FirstLight, we specialize in hybrid renewable energy solutions that pair different technologies such as hydroelectric, pumped hydro storage, solar, large-scale battery, offshore wind, and onshore wind to deliver reliable clean energy to the communities we serve.
+Learn more about our vision for pairing pumped hydro energy storage with wind power and marrying solar, hydroelectricity, and battery energy storage to dramatically improve the flexibility and reliability of these clean resources.
+FirstLight’s projects in the United States operate under licenses issued and overseen by the Federal Energy Regulatory Commission or state regulators. Our projects in Ontario are licensed by the Ontario Energy Board.
+FirstLight is currently in the midst of the relicensing process for the Turners Falls Hydroelectric Project (FERC No. 1889) and the Northfield Mountain Pumped Storage Project (FERC No. 2485). Learn more about the relicensing of these projects.
+We welcome inquiries from the media, questions and comments about our projects and recreation spaces, and gladly engage curiosity about our mission, vision, and more.
+
+--------------------------------------------------------------------------------
+
+URL: https://firstlightpower.com/purpose/
+
+Driving the energy transition to a prosperous, climate resilient future
+Maximizing legacy assets and investing in new projects to deliver an electric system that is clean, reliable, affordable, and equitable.
+Community
+FirstLight strives every day to create a positive impact in the communities we call home. The land and waterways where our projects are located are already important economic drivers to area communities, but we also believe in doing our part to be a good neighbor and deliver additional benefits to local people, families, businesses, and communities.
+We collaborate with and provide financial assistance to local environmental, educational, and public safety organizations to maintain and improve the local environment.
+FirstLight has a long history of giving back to the community. In addition to our hands on approach to giving back through volunteering and community service, we’ve proudly supported countless public safety initiatives, placemaking efforts, essential services providers, workforce development programs, environmental education programs, local festivals and celebrations, and more. In the Spring of 2023 FirstLight launched FirstLight Sustains, building on our longstanding legacy of giving to organizations and activities that support the communities around our facilities. The grant program provides an equitable process whereby qualified, reputable, and capable organizations can apply for and receive funding for activities and projects that meet the goal of improving the quality of life in those communities.
+Leadership
+We are proud to employ more than 200 employees, many of which are proudly unionized. We have built a strong leadership group, and we are actively seeking additions to our team who are passionate about the clean energy industry and shaping the future.
+Our FirstLight family works together to advance our mission to accelerate the decarbonization of the electric grid by supporting the development, operation, and integration of our renewable energy and storage assets to deliver an electric system that is clean, reliable, affordable, and equitable.
+Purpose, Vision and Mission
+FirstLight is a leading clean power producer, developer, and energy storage company serving North America.
+With a diversified portfolio that includes over 1.6 GW of operating renewable energy and energy storage technologies and a development pipeline with 4+ GW of hydro, solar, battery, onshore and offshore wind projects, FirstLight specializes in hybrid solutions that pair hydroelectric, pumped-hydro storage, utility-scale solar, large-scale battery, and wind power assets.
+Our mission is to accelerate the decarbonization of the electric grid by supporting the development, operation, and integration of renewable energy and storage to meet the world’s growing clean energy needs and deliver an electric system that is clean, reliable, affordable, and equitable.
+Building upon our industry-leading experience in operating large-scale renewable energy and storage assets, FirstLight’s vision and commitment to leading the energy industry transformation makes us uniquely positioned to navigate rapidly evolving market conditions and grow our portfolio in North America in the years ahead.
+Research and Education
+Driven by the need to mitigate climate change, safeguarding the environment is central to our mission.
+To ensure our projects are leaving as little environmental impact as possible, we’ve executed comprehensive study and research over the years to drive upgrade plans, investment decisions and inform our operations.
+History
+For decades, our clean energy projects have been delivering clean, safe, reliable electricity to communities across North America.
+Our projects have a rich history in their home communities. They are engineering marvels, economic drivers providing good paying union jobs, and create public spaces for gathering and recreation.
+Careers
+FirstLight continues to build a diverse, talented team to create the future we envision.
+We are proud of our deep roots in the regions where we work. Many of our operating facilities were installed over 100 years ago, keeping alive the legacy of the local workers who built and operated them for decades.
+But the real magic of FirstLight lies in our people — we would not be where we are today without our thoughtful, committed, and hard-working team.
+
+--------------------------------------------------------------------------------
+
+URL: https://firstlightpower.com/stewardship/
+
+Stewarding shared spaces that excite and inspire
+By carefully managing over 14,000 acres of land around our clean energy projects and providing recreation and educational opportunities to our visitors, FirstLight spotlights why we do what we do—to combat the climate crisis and protect the natural spaces we share.
+Recreation
+As part of FirstLight’s commitment to environmental awareness and sustainability, we maintain and operate nature trails, recreation spaces, and environmental programs at our facilities in Massachusetts, Connecticut, and Pennsylvania. Numerous opportunities are offered year-round for the public.
+Choose a recreational area below to learn more about it.
+MA Recreation
+Connecticut River Cruise
+Northfield, MANorthfield Mountain Recreation and Environmental Center
+Northfield, MATurners Falls Fishway
+Montague, MACT Recreation
+Bulls Bridge Recreation Area
+Kent, CTDike Point Interpretive Trail
+New Milford, CTFalls Village Recreation Area
+Canaan, CTScotland Dam Recreation Area
+Windham, CTShepaug Recreational Area
+Southbury, CTStevenson Recreation Area
+Monroe, CTEducation
+We proudly provide enriching educational opportunities for community members and visitors through programming, partnerships, tours and more.
+Reach out to learn more about how you can engage with, or participate in FirstLight’s educational efforts.
+Environment
+At FirstLight, we’re proud environmental stewards and are always innovating on methods for safeguarding the aquatic habitat and environment around our projects. Protecting our waterways and lands for future generations is central to our mission.
+Learn more about our investments and efforts to protect the environment.
+
+--------------------------------------------------------------------------------

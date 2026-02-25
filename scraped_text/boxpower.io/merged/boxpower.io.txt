@@ -1,0 +1,925 @@
+ROOT: https://boxpower.io/
+SCRAPED_AT_UTC: 2026-02-11T19:52:38.853037Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://boxpower.io/
+
+BoxPower offers turnkey solar microgrid solutions for off-grid and grid-tied applications. We specialize in project development, system design and engineering, installation, monitoring and reporting, and operations and maintenance for integrated solar, battery, and backup generator systems.
+Starting with an energy audit using BoxPower’s EASI software, we configure a microgrid solution tailored to your exact needs.
+BoxPower's microgrid platform delivers pre-engineered systems designed for resiliency and reliability even in the harshest conditions.
+BoxPower offers lifetime operation and maintenance support. We optimize systems with remote monitoring and control capabilities.
+Identify a portfolio of sites with EASI and leverage BoxPower’s program development expertise to deploy standardized microgrids at scale.
+BoxPower brings utility-grade expertise and modular solutions to deliver resilient power in the most challenging energy environments.
+Deploy standardized microgrids with prefabricated, pre-tested systems that eliminate design and construction delays.
+Pre-engineered hardware and automated design software reduce cost overruns, permitting delays, and site-specific surprises.
+Enable VPP participation, avoid capex-heavy grid upgrades, and monetize resilience through targeted microgrid programs.
+Support off-grid, grid-tied, and hybrid deployments with modular kits adaptable to remote, urban, and critical load environments.
+Built for extreme conditions — from wildfire zones to sub-zero climates — BoxPower systems maintain uptime where others can’t.
+Enable centralized fleet monitoring, local maintenance, and remote diagnostics to simplify long-term system performance.
+40+ rural businesses & communities rely on BoxPower microgrids
+Brian Hirsch
+DeerStone Consulting in remote Alaska
+MWh generated
+Pounds of CO2 offset
+Lives impacted
+Reliability on utility operated sites
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/projects
+
+California
+Alaska
+End-to-end microgrid deployment services
+Modular microgrid platform
+3.8 to 60 kW of solar PV
+20 kW of solar PV
+Energy Audit and System Integration Software
+Operations and Maintenance Services
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/team
+
+Co-Founder/CEO
+Co-Founder/CFO
+Chief Administrative Officer
+Chief Delivery Officer
+VP of Technology
+Executive VP of Sales
+Director of Software Products
+Director of Product Services
+Head of C&I
+Director of Engineering
+Director of Business Development
+Director of Finance
+Senior Operations Consultant
+People Operations Manager
+Sales Engineering Manager
+Supply Chain and Procurement Manager
+Sr. Service Operations Manager
+Senior Product Manager
+Senior Project Manager
+Field Services Manager
+Strategic Account Manager
+Senior Project Engineer, Structural
+Solutions and Estimating Manager
+Senior Product Engineer
+Product Engineer
+Project Engineer
+Electrical Apprentice Level 2
+Full Stack Software Engineer
+Field Service Technician
+Associate Sales Operations Project Manager
+Strategic Operations Associate
+Product Manager
+Marketing and Event Manager
+Sales and Marketing Consultant
+Project Engineer
+Senior Sales Engineer
+Systems Coordinator
+Sales Engineer
+Project Developer
+Sr. Communications & Cybersecurity Technician
+Field Service Technician
+Production Manager
+Electrician
+People Operations Specialist
+Operations Assistant
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/about-us
+
+MWh generated
+Pounds of CO2 offset
+Lifes impacted
+BoxPower’s vision is a world in which every rural energy consumer has access to clean, reliable, affordable energy.
+The National Science Foundation initially funded the development of BoxPower’s containerized microgrid technology in 2011.
+BoxPower’s first projects focused on rapidly deploying microgrids for disaster relief in the Caribbean, and has since expanded to providing affordable energy resilience to remote indigenous communities, critical facilities, and rural customers for utilities like Liberty Utilities and PG&E.
+California Contractor’s License: #1068845
+CEO, Co-Founder
+CFO, Co-Founder
+BoxPower is funded by energy entrepreneurs and leading impact funds, including:
+BoxPower develops strategic relationships with energy consultants, solar installers, power authorities, and other businesses to scale the deployment of solar + battery microgrids.
+Get in touch to explore options.
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/services
+
+BoxPower offers turnkey solar microgrid solutions for off-grid and grid-tied applications. We specialize in project development, system design and engineering, installation, monitoring and reporting, and operations and maintenance for integrated solar, battery, and backup generator systems.
+Starting with an energy audit using BoxPower’s EASI software, we configure a microgrid solution tailored to your exact needs.
+We configure your microgrid from our pre-engineered products and rapidly deploy systems on-site in a matter of days.
+BoxPower offers lifetime operation and maintenance support. We optimize systems with remote monitoring and control capabilities.
+Identify a portfolio of sites with EASI and leverage BoxPower’s program development expertise to deploy standardized microgrids at scale.
+Every successful project starts with a strong foundation. BoxPower’s project development services include preliminary engineering, feasibility studies, and financial modeling to ensure your microgrid is optimized for cost, performance, and reliability. Leveraging our EASI platform, we analyze site-specific conditions, streamline decision-making, and accelerate timelines.
+BoxPower’s prefabricated microgrid systems are assembled and tested offsite, ensuring efficient, high-quality deployment. Our team manages every aspect of procurement, microgrid assembly, and on-site installation, minimizing disruption and ensuring compliance with safety and performance standards.
+BoxPower offers comprehensive O&M services to keep your microgrid running smoothly for years to come. Our remote monitoring, proactive maintenance, and automated diagnostics ensure that your system operates at peak performance with minimal downtime.
+At BoxPower, we bring decades of experience and a track record of success to every project. From concept to commissioning, our team of subject matter experts delivers innovative solutions that simplify complexity, maximize efficiency, and ensure reliability.
+Deployed 40+ microgrids in the most challenging environments.
+From planning to operations, we handle every step.
+Supporting local communities with training and job creation.
+99.9% uptime guaranteed, even in extreme conditions.
+DeerStone Consulting, Remote Alaska
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/what-we-do
+
+BoxPower’s technology integrates modular hardware with advanced software tools to create a cohesive microgrid solution. Our systems are designed to deliver energy resilience, cost-efficiency, and sustainability at any scale.
+BoxPower provides end-to-end services to ensure every microgrid project is delivered on time, on budget, and with unmatched reliability. From feasibility studies to long-term support, our team of experts manages every step of the process.
+Systems designed for 99.9% reliability, even in extreme conditions.
+Solutions that adapt to both small and large-scale applications.
+Reduce project costs while improving long-term reliability.
+Minimize emissions with renewable energy integration.
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/technology
+
+At BoxPower, our technology combines modular hardware and intelligent software into a unified system that delivers resilient energy for the most challenging environments. Whether it’s a single microgrid for a remote facility or a portfolio of systems across multiple sites, our solutions are scalable, efficient, and built for rapid deployment.
+From smart site selection and design to seamless installation and operation, BoxPower’s technology ensures every microgrid project is faster, smarter, and more reliable.
+BoxPower’s hardware solutions are designed to adapt to any energy challenge. Each system integrates solar PV, battery storage, and optional backup generation in a modular, pre-engineered platform that is scalable for projects ranging from 5kW to 5MW+.
+Whether deployed as a standalone microgrid or part of a larger portfolio, our containerized systems ensure rapid installation, guaranteed reliability, and the resilience needed for extreme environments. BoxPower produces tailored solutions with system-level warranty and performance guarantees.
+From 5kW to 5MW+ solar PV and 15kWh to 6MWh battery storage.
+Engineered for extreme weather, including wildfires, hurricanes, and remote conditions.
+Pre-engineered and pre-tested systems reduce installation timelines and costs.
+BoxPower’s modular microgrid platform supports a wide range of applications, from large-scale systems to compact, portable solutions. Designed for flexibility and efficiency, our hardware ensures reliable energy across various use cases.
+Large-scale, grid-connected or standalone systems for high-demand applications.
+Mid-sized systems tailored to off-grid or end-of-line infrastructure.
+Portable, rapidly deployable systems for temporary or smaller-scale needs.
+BoxPower’s flagship SolarContainer is a fully integrated microgrid-in-a-box that combines solar PV, battery storage, and intelligent inverters, with optional backup generation. Designed for reliability and ease of deployment, the SolarContainer is ideal for powering critical infrastructure, remote facilities, and commercial operations.
+Solar PV: 3.8kW to 60kW.
+Inverter Capacity: 6.8kW to 27.2kW.
+Battery Storage: 7.4kWh to 182kWh.
+Off-grid and grid-tied functionality.
+Utility-grade performance in any environment.
+Pre-tested in BoxPower’s facility before shipping.
+Applications: end-of-line facilities, community resilience, diesel replacement and more.
+The BoxPower MiniBox is a pre-engineered solar power station, prefabricated inside a 4′ x 8′ palletized enclosure. All energy systems are equipped with a solar array, batteries, inverters, and the option to add an integrated generator. The MiniBox microgrid solution can seamlessly switch between off-grid and grid-tied operation.
+Solar PV: up to 3.5kW.
+Inverter Capacity: 6kW - 18kW.
+Battery Storage: 7.6kW to 50kW.
+Pre-wired outlets for plug-and-play use.
+Compact design for quick installation and small footprints.
+Installs in a few hours, no foundation required.
+Applications: mobile and temporary power, nanogrids, disaster relief, telecom and more.
+BoxPower’s proprietary EASI (Energy Assessment and System Implementation) platform revolutionizes microgrid design and deployment. By automating site selection, feasibility analysis, and permit-ready designs, EASI reduces project timelines from years to months. It also enables real-time monitoring and management, ensuring that every system runs at peak performance.
+Identify the best locations for microgrids using advanced algorithms that analyze environmental factors, wildfire risks, and proximity to infrastructure.
+Generate fast, permit-ready designs tailored to local conditions and regulatory requirements.
+Monitor and control multiple microgrid systems in real-time from a centralized dashboard.
+BoxPower’s integrated technology platform is built to deliver energy where it’s needed most, faster and more effectively than traditional solutions. With rugged modular hardware and intelligent software, our systems offer unmatched resilience, efficiency, and scalability for organizations seeking to solve critical energy challenges.
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/industries
+
+BoxPower works with a diverse range of clients, delivering tailored microgrid solutions that address specific energy challenges. Learn more about how we support:
+Improve grid resilience and reduce costs with modular, distribution-connected, and remote grid microgrids.
+Scalable microgrids for portfolios, including EV charging, agriculture, telecom, and critical facilities.
+Supporting energy sovereignty and resilience through tailored microgrids and workforce development.
+Reliable, mission-critical power for disaster response, public safety facilities, and remote operations.
+No matter your industry, BoxPower provides scalable, reliable energy solutions that reduce costs, improve sustainability, and enhance resilience.
+BoxPower serves as an extension of your team, handling every stage of the microgrid lifecycle — from feasibility to installation to long-term maintenance.
+We evaluate your energy needs and site potential.
+Using our advanced software, we create optimized solutions tailored to your goals.
+Our modular systems are pre-engineered for rapid deployment.
+Lifetime monitoring, maintenance, and support ensure peak performance.
+From utility projects to tribal community resilience hubs, BoxPower microgrids have proven their value in diverse applications. Explore how our solutions have made a difference:
+A 100% renewable microgrid reduced wildfire risks and protected critical research facilities.
+A rapidly deployable system powered emergency housing during wildfire recovery.
+Saved $85,000 annually in utility bills while providing clean energy resilience for critical operations.
+BoxPower’s turnkey microgrid solutions are built to simplify the complexities of energy resilience and sustainability. With over 40+ systems deployed and more than 50 in development, we bring unparalleled expertise to every project.
+Systems deployed
+Gallons of diesel offset
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/utilities
+
+From 5kW to over 5MW+, with battery energy storage from 15kWh to 6MWh.
+Built to meet or exceed utility standards for performance and resilience, ensuring robust, reliable service even in the harshest conditions.
+With our EASI platform, utilities can rapidly evaluate the economic trade-offs between microgrid deployment and traditional infrastructure upgrades, such as undergrounding.
+For areas with frequent outages or high-risk circuits, BoxPower’s distribution-connected microgrids provide local resilience. These systems serve as reliable, cost-effective alternatives to substation or line upgrades, reducing overall capital expenditures while improving service continuity.
+For remote or hard-to-reach areas, our standalone power systems replace overhead lines, providing a cleaner, more reliable energy source with reduced maintenance costs and wildfire risk.
+BoxPower delivers grid-connected microgrid systems that enhance utility resilience while providing critical risk reduction capabilities. These systems are designed to support overall grid stability, ensuring continuous energy delivery even under extreme conditions.
+When traditional grid connections are impractical or too expensive, BoxPower offers off-grid microgrid systems tailored to your unique operational needs—delivering energy where and when it’s needed most.
+With over 40 microgrids deployed and 50+ in development, we act as an extension of your team, handling every aspect of microgrid deployment—from design and engineering to commissioning and operations.
+Our pre-engineered modular microgrids are built for extreme weather conditions and offer seamless integration with your existing infrastructure, minimizing risks and maximizing reliability.
+Whether you’re prioritizing decarbonization, risk reduction, increased reliability, or cost-effective grid hardening alternatives, BoxPower delivers solutions tailored to your goals with a value-oriented focus.
+BoxPower microgrids provide utilities with a scalable and cost-effective approach to addressing grid challenges, enhancing resilience, and meeting customer needs.
+Mitigates risks from natural disasters and aging infrastructure with reliable, localized energy solutions.
+Reduces capital expenditure compared to traditional grid hardening approaches like undergrounding.
+Supports decarbonization goals with renewable energy and storage solutions.
+Minimizes wildfire and outage risks with standalone or distribution-connected systems.
+Standardized systems easily replicated across service territories, streamlining planning and implementation.
+Simplifies remote monitoring, load balancing, and system optimization with advanced software tools.
+BoxPower’s solutions have helped utilities achieve significant cost savings and energy resilience.
+Liberty Utilities
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/government
+
+Scalable solutions designed to meet the demands of facilities from emergency shelters to disaster response centers.
+Pre-engineered systems for fast setup in critical scenarios.
+Seamless energy solutions that ensure uptime for essential services.
+Reliable power for critical services during grid outages or natural disasters.
+Pre-engineered systems designed for fast and efficient deployment.
+Reduces reliance on costly diesel generators and traditional grid hardening.
+Supports sustainability goals with renewable energy integration.
+Modular systems that grow with your operational needs.
+Seamless integration with remote monitoring and automated operations.
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/commercial
+
+Reduce project timelines from years to months with pre-engineered, modular solutions.
+Delivering utility-grade performance across remote, urban, and grid-constrained sites.
+Custom configurations to meet sustainability, resilience, and operational goals.
+As EV adoption accelerates, businesses need reliable and scalable charging infrastructure. BoxPower delivers off-grid EV chargers and grid-connected microgrids to power charging stations, ensuring energy resilience for growing EV networks.
+BoxPower supports agricultural businesses with clean energy microgrids that power irrigation systems, cold storage, and processing facilities. Our solutions reduce operational costs and improve resilience for critical infrastructure in agriculture.
+BoxPower provides reliable microgrid solutions for medical centers, emergency response sites, and other critical facilities. Built for seamless switching between grid-connected and islanded modes, our systems ensure energy reliability under any condition.
+BoxPower delivers reliable energy solutions for telecom towers and infrastructure, even in remote or harsh environments. Our systems ensure consistent uptime with remote monitoring and scalable designs that adapt to your needs.
+BoxPower’s MiniBox microgrid offers a compact, mobile energy solution for temporary power needs, making it an ideal generator replacement for remote or emergency applications. Designed for rapid deployment, the MiniBox combines solar panels, battery storage, and optional backup generation in a durable, portable design.
+BoxPower microgrids deliver exceptional value to commercial entities, enabling them to meet energy challenges while achieving sustainability and operational goals.
+Reliable power to minimize operational disruptions and protect against outages.
+Modular systems designed to streamline energy deployment across multiple sites.
+Reduces energy costs through renewable integration and peak shaving.
+Helps achieve ESG targets with clean energy and reduced emissions.
+Pre-engineered systems installed quickly, minimizing downtime.
+Tailored solutions for critical operations like EV charging, agriculture, and telecom infrastructure.
+Director of Facilities Proyecto de Apoyo Mutuo Mariana
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/tribal-communities
+
+Scalable microgrids designed to reduce reliance on external utilities and diesel generation.
+Modular systems built to withstand extreme weather and environmental challenges.
+Integrates renewable energy sources to support long-term economic and environmental goals.
+BoxPower works alongside tribal communities and utility corporations to design and deploy energy solutions that align with their unique operational and cultural priorities.
+Reduce reliance on external utilities and create locally owned, managed energy solutions.
+Lower energy costs by replacing diesel generation and reducing utility dependencies.
+Ensure uninterrupted power for critical facilities and services during outages or emergencies.
+Solutions designed with respect for tribal values, lands, and environmental priorities.
+Reduce carbon footprints and support renewable energy integration for long-term environmental stewardship.
+Create local job opportunities and training programs in microgrid design, construction, and operations.
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/careers
+
+Year founded
+Team members
+CO2 offset
+Lives impacted
+We’re invested in our team members. We strive to continually improve and expand our benefit offerings to make sure you get the most out of your job.
+Whether it’s an international trip, an epic powder day, or a staycation, we know the value of taking a break.
+Each team member is invested in our collective vision. When BoxPower wins, we all win.
+We’re always innovating, so there’s always an excuse to learn — and budget to help you do it.
+No matter what role you play at BoxPower, you’ll be on the cutting edge of the budding microgrid industry.
+Our rule: all points earned by BoxPower purchases go towards activities like whitewater rafting, dance parties, and concerts.
+That feeling when we bring clean power to a rural medical clinic, a shelter for families experiencing homelessness, or a remote indigenous community.
+Meet with a member on our board of directors before lunch, or hop on a call with one of our advisors.
+Whether you like mountains, rivers, lakes, or live music, you can find it in the Sierra Nevada foothills.
+We offer a full suite of health-related benefits tailored to the needs of our team members.
+On average, rural energy consumers pay 40% more for electricity than their metropolitan peers. We’re here to change that. BoxPower provides clean, reliable, and affordable energy to underserved communities around the world.
+kWh generated
+Gallons of diesel offset
+Solar microgrids installed
+Learn about BoxPower’s history and our world-class team of employees, advisors, and directors.
+Catch up on the latest BoxPower coverage in publications like Forbes, FastCompany, and Microgrid Knowledge.
+At BoxPower, we’re committed to living out the values of equity and inclusion. We’re a diverse and international team with members from six different countries, and we’re not stopping there. BoxPower has signed the Edict Pledge to build a more diverse, inclusive, stronger clean-tech sector. As part of the pledge, we commit to:
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/blog
+
+Home
+What We Do
+Technology
+Services
+Industries
+Utilities
+Government
+Commercial
+Tribal
+Projects
+About
+Our Team
+Careers
+Blog
+News
+Partners
+Privacy Policy
+Terms of Use
+Start Consultation
+Start Consultation
+Welcome to
+BoxPower
+Blog
+Insights
+December 24, 2024
+Powering Progress: BoxPower’s 2024 Year in Review
+Read more
+Insights
+July 25, 2024
+Rising Temperatures and Severe Storms: How Microgrids Help Keep the Lights On
+Read more
+Insights
+December 22, 2023
+End-of-Year Reflections: A Special Note from Angelo Campus, BoxPower’s Co-Founder and CEO
+Read more
+Insights
+July 29, 2023
+BoxPower: Championing the Clean Energy Transition in Alignment with DOE’s Vision
+Read more
+Insights
+June 20, 2023
+How BoxPower is Shaping the Future of Workforce Development through Solar Microgrids
+Read more
+Insights
+June 8, 2023
+Wildfires: The Unseen Climate Catalyst and How Microgrids Address the Challenge
+Read more
+Insights
+May 12, 2023
+BoxPower’s Project Development Mindset
+Read more
+Insights
+February 7, 2023
+BoxPower’s Remote Grids Amidst California Atmospheric Rivers
+Read more
+Insights
+November 4, 2022
+What the IRA Means for Tribal Communities
+Read more
+Insights
+October 18, 2022
+What the IRA Means for Utility Remote Grid Projects
+Read more
+Insights
+September 13, 2022
+Remote Grid Design Studies: How BoxPower Helps Utilities Scale Their Wildfire Mitigation Efforts
+Read more
+Announcement
+March 23, 2022
+Navajo Nation Secures Grant To Power 24 Homes with BoxPower Solar Systems
+Read more
+Insights
+October 26, 2021
+New Regulations for California Generators and Off-Grid Solar Alternatives
+Read more
+Announcement
+Use Cases
+June 7, 2021
+BoxPower and PG&E Commission the Utility’s First Remote Grid, Reducing Risk for Customers in High Fire-Threat Area
+Read more
+BoxPower Products & Services
+June 1, 2021
+How BoxPower Solar Microgrids Work
+Read more
+Insights
+Use Cases
+April 6, 2021
+Standalone Power Systems Help Utilities Meet California’s Clean Energy Goals
+Read more
+Insights
+Use Cases
+March 9, 2021
+California’s Largest Utility Turns to BoxPower for Fire Mitigation Solution
+Read more
+Insights
+Use Cases
+March 5, 2021
+Powering an Emergency Shelter for 25 Unhoused Families in San Jose
+Read more
+Insights
+Use Cases
+February 18, 2021
+California Utilities Look to Standalone Power Systems for Rural Customers
+Read more
+Announcement
+Use Cases
+December 31, 2020
+BoxPower in 2020: Annual Recap
+Read more
+Announcement
+October 7, 2020
+BoxPower Awarded California Energy Commission Grant
+Read more
+Insights
+September 14, 2020
+BoxPower Microgrid Proves to be Ideal Solution for California Utility
+Read more
+Use Cases
+August 21, 2020
+BoxPower Residential Microgrid Increases Rural Hawaii’s Sustainability
+Read more
+Use Cases
+August 7, 2020
+Building Resilience Through Solar Power
+Read more
+Use Cases
+March 16, 2020
+Light Manufacturing Company Replaces Generator with Solar Plus Battery Storage to Reduce Costs and Emissions
+Read more
+Use Cases
+March 4, 2020
+Regenerative Farming Pays with the Power of the Sun
+Read more
+Insights
+Use Cases
+February 5, 2020
+Energy Solutions for Utility Customers in Alaska
+Read more
+Use Cases
+February 5, 2020
+Rapidly Deployable Microgrids for Emergency Response in Puerto Rico
+Read more
+Insights
+February 5, 2020
+California: A Model of Energy Resilience for Critical Facilities
+Read more
+Use Cases
+February 5, 2020
+Community Resilience in Mariana
+Read more
+Announcement
+Use Cases
+January 17, 2020
+California Microgrid Company BoxPower Inc. delivers two rapidly deployable microgrid systems to earthquake stricken region of Puerto Rico
+Read more
+Insights
+October 7, 2019
+Fire Weather and the Need for Emergency Back-Up Power: The Hidden Dangers of Utility Shut-Offs for Rural Communities
+Read more
+Insights
+October 9, 2018
+Energy Storage Rebates for California Residents
+Read more
+Announcement
+July 20, 2018
+Press Release: BoxPower Secures NANA Regional Corporation Contract
+Read more
+Insights
+July 10, 2018
+Global Status Report: Renewables
+Read more
+Announcement
+Insights
+June 20, 2018
+Feature: Yale Climate Connections
+Read more
+Insights
+June 19, 2018
+(Clean) Energy is Essential
+Read more
+Use Cases
+June 15, 2018
+Puerto Rico Deployment
+Read more
+BoxPower Products & Services
+Insights
+June 4, 2018
+BoxPower: Energy, Anywhere
+Read more
+Use Cases
+May 19, 2018
+People, Power, and Politics in Puerto Rico
+Read more
+Announcement
+August 17, 2017
+BoxPower at eLab Demo Day 2017!
+Read more
+Announcement
+Use Cases
+August 15, 2017
+BoxOne: Powering the Resistance
+Read more
+Announcement
+August 14, 2017
+Welcome to boxpower.io
+Read more
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/blog-category/boxpower-products-services
+
+Learn about BoxPower energy container products (solar power and battery storage) and our microgrid design and management services.
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/blog/california-microgrid-company-boxpower-inc-delivers-two-rapidly-deployable-microgrid-systems-to-earthquake-stricken-region-of-puerto-rico
+
+January 17, 2020
+Once again, Puerto Rico has been stricken by a natural disaster, this time a series of of over 1280 earthquakes, that have caused over $110M in damage -toppling over 500 homes – and plunging the entire island into intermittent darkness due to severe damage to one of Puerto Rico’s primary power plants, which could take more than a year to repair.
+BoxPower Inc., a California start-up company providing rapidly deployable renewable microgrids in shipping containers, got their start in Puerto Rico after Hurricane Maria, when they deployed one of their Modular Solar Microgrids at a community center providing food and shelter to those impacted by the hurricane. Now, almost two years later, BoxPower has returned to Puerto Rico in the wake of the earthquake to deploy two more microgrids: at a school resilience center and medical clinic in the south of the island, both of which have been impacted by the recent earthquakes.
+In the southern town of Guayama, BoxPower has partnered with Mercy Corps, to install a 24kW SolarContainer at a school resilience center, which will serve as a gathering place for community members during outages or disasters – providing a place for them to charge phones, computers, and medical devices and to organize disaster response efforts. The system, which consists of a solar array mounted to a shipping container with pre-wired batteries and inverters inside, can power an average-sized medical clinic, school, or other critical facility during extended outages. BoxPower’s technicians arrived on Monday, January 13th, and the system is scheduled for final commissioning on Friday, January 17th. (pictures below)
+Closer to the earthquake epicenter, BoxPower has partnered with Direct Relief to deliver one of their MiniBox trailers, a scaled down, fully mobile version of their SolarContainers capable of being towed behind a standard car or truck. This unit will be used to provide power to a medical clinic impacted by the earthquake, to ensure that medications and vaccines can remain refrigerated and usable in the event of ongoing power outages. (Pictures on page 3).
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/blog/case-example-light-manufacturing-company-replaces-generator-with-solar-plus-battery-storage-to-reduce-costs-and-emissions
+
+March 16, 2020
+In December 2019, BoxPower deployed an off-grid SolarContainer in Concord, California that shows the strong economic, environmental, and logistical advantages for off-grid commercial customers. These benefits include:
+The example below illustrates the advantages of BoxPower systems for off-grid commercial applications, based on a client’s light manufacturing operation in Concord, CA that had been running on a diesel generator for 20 years, as they were not able to receive utility service to their facility.
+Cost savings begins with right-sizing the system, no more and no less than what is required to meet both renewable energy and cost-saving goals. In order to recommend the optimal solar plus battery system and at the least cost, BoxPower offers its Energy Audit and System Integration (EASI) service. This process takes a detailed survey of current and planned energy usage as well as the customer’s current diesel generator usage. It then recommends a BoxPower system and the potential savings and financial analysis of the system. For this customer in Concord, CA, BoxPower’s EASI software recommended a 15kW PV array and 42kWh battery bank to integrate with the existing 30kW generator. This system was designed to reach 90% renewable energy utilization with no generator usage as can be seen in the February 2020 data below.
+In Concord, CA the average diesel price is $3.79 and projected to increase 4.5% per year through 2040 (EIA). Assuming the customer continues to use 2,300 gallons of diesel a year costing $8,700, the lifetime cost of only the diesel fuel totals 272,375 dollars over the 20 year useful life period. Assuming $250 of maintenance per year (GTI), this total cost increases to $275,375. Please note this does not include diesel procurement or storage costs which can increase costs above $5 per gallon.
+The total cost of the BoxPower 15kW/42kWh system was $94,813 including our 1 day installation process due to BoxPower’s patented easy-to-assemble design. Lifetime savings compared to the diesel generator are $178,143 before any investment tax credit. With the 26% investment tax credit, lifetime savings increase to $202,795 and an ROI in year 6. This customer chose to purchase outright, but if mixed with BoxPower’s 15 year financing, the customer experiences day 1 savings. Please see the figure below showing savings for the customer.
+Each gallon of diesel emits 22 pounds of carbon dioxide into the atmosphere (EIA). Since installation at the end of 2019, the Concord system has offset 11,509 pounds of carbon dioxide and will offset 1.1 million pounds of carbon dioxide over its life. For commercial and government entities who must meet air quality standards, the BoxPower solar plus battery systems provide an immediate solution. For those who wish to reduce generator use and emissions over time, all BoxPower systems are modular and easily scalable, enabling clients to add more solar and battery storage as their budgets allow, working toward renewable energy targets in an efficient and feasible way.
+Instead of worrying about diesel procurement, generator maintenance, or complicated custom solar and battery systems, BoxPower removes the headache and trouble by providing a turnkey, plug-and-play system that works on arrival, and that requires zero maintenance. Batteries and inverters are pre-wired inside a cargo container. BoxPower assembles pre-cut racking and the solar panels on site, and then commissions the system, all in a single day. Remote monitoring enables clients and BoxPower to assess system performance.
+As seen by an off-grid commercial customer in California, there are significant value propositions in cost, simplicity, reliability, and sustainability for choosing BoxPower. Please reach out to sales@boxpower.io or visit our website https://boxpower.io to learn more.
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/blog/what-the-ira-means-for-utility-remote-grid-projects
+
+October 18, 2022
+Significant funding through the Inflation Reduction Act (IRA) for rural electrification and clean energy has significantly reduced the cost of Remote Grid Standalone Power Systems, enabling cheaper and scalable Remote Grid deployments for more utilities.
+New grant and funding programs included within the IRA now make it easier for both large and small utilities to develop solar and storage systems in remote areas, as many of them are dedicated to rural and underserved communities.
+One of the largest components of the IRA is the extension of Clean Energy Investment Tax Credits (ITC), which now includes standalone battery storage. Here are some core benefits:
+As a part of the IRA and the Infrastructure Investment and Jobs Act (IIJA), the Grid Deployment Office has put forth several grants related to grid resilience that can be leveraged for Remote Grid projects:
+Grid Resilience Formula Grants
+The IRA and IIJA also include funding programs dedicated to electrifying rural and remote areas with clean energy. Similarly, these programs can subsidize the cost of deploying Remote Grids:
+Rural Renewable Energy Loan Program
+The Energy Improvement in Rural or Remote Areas Program
+Rural Energy for America Program
+Rather than the traditional utility model of building and maintaining costly and sometimes risky distribution lines, utilities can instead leverage these sources of funding to give rural regions clean and resilient solar standalone power systems. These programs, combined with the fact that microgrids already can be more cost effective than replacing or hardening rural distribution lines, makes deploying Remote Grids in high fire-threat zones even more financially attractive to utilities in the Western U.S.
+The IRA and the IIJA are historic in the sense that they are the two of the largest investments in the fight against climate change ever made by the United States. While remote microgrids have a great track record in providing clean and resilient energy already, the many financial incentives towards solar plus storage deployment will allow both small and large utilities to take on many more of these new projects in the future.
+Utilities are innovating with new service models that challenge the status quo of overhead distribution lines. In particular, utilities like Pacific Gas & Electric (PG&E), Liberty Utilities, and Southern California Edison (SCE) have turned to Remote Grid Standalone Power Systems as a safe, reliable, and cost-effective non-wires alternative for rural ratepayers.
+These off-grid solar, battery, and backup systems are being deployed to mitigate the wildfire risk posed by bare powerlines in remote areas. At the same time, Remote Grid technology helps utilities provide more reliable power to their ratepayers who experience the most outages. These systems are also cleaner and more economical than traditional utility services.
+Despite the many benefits, Remote Grid solutions are still a relatively new idea for utility companies, and many have yet to adopt this service model due to knowledge gaps and financial uncertainty.
+Have more questions about the IRA or Remote Grids? We’d love to hear from you!
+Email us at info@boxpower.io
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/in-the-news
+
+“We are proud to have designed and built not only PG&E’s first remote grid, but also their first 100% renewable standalone power system,” said BoxPower Co-Founder and Chief Financial Officer Anderson Barkow. “Reducing wildfire risk in areas like Pepperwood is critical for the surrounding communities and the native wildlife that collectively call this place home. This cost-effective approach to wildfire mitigation provides an excellent blueprint for implementation across potentially hundreds of remote sites”.
+Utilities Turn to Microgrids Powered by Solar, Battery, and Propane for Resilience in Remote Areas
+With the frequency of severe weather events only expected to increase over time, electric utilities are looking for cost-effective mitigation solutions that can help build a more reliable and resilient grid. Microgrids, which are small energy systems that operate independently of the electric grid, are quickly becoming an attractive option because they are clean, reliable, and significantly cheaper than upgrading overhead power lines.
+“Capital expenditures for hardening overhead electrical equipment are expanding at a rapid rate, and we’re finding that there is a greater return on investment for installing standalone microgrids than upgrading power lines,” said Noa Schachtel, sales and marketing coordinator at BoxPower, which manufactures microgrid solutions for remote areas. According to BoxPower, upgrading transmission equipment and poles can cost utilities an estimated $1 million per mile.
+Rural CA Microgrid Provider Offers Solar Energy Installations to Canada
+BoxPower, Inc., a rural California provider of turnkey solar and storage microgrid solutions, specializes in delivering clean, reliable, and affordable energy to remote areas. By combining innovative hardware with proprietary software, BoxPower optimizes the performance of solar microgrids while streamlining and accelerating their deployment. Since 2018, BoxPower has worked closely with the U.S. Commercial Service – Sacramento to expand its reach into Canada and other international markets.
+Why Microgrids Are the Future of Energy Systems and Driving the Energy Transition
+As the global energy landscape shifts in response to the twin challenges of climate change and ageing infrastructure, microgrids are emerging as a critical solution. These self-contained energy systems, often powered by renewable sources like solar and supported by energy storage, are enhancing resilience, reducing emissions, and promoting energy sovereignty, especially for underserved communities.
+This shift was the focus of a recent conversation I had with Angelo Campus, CEO and co-founder of BoxPower, on the Climate Confident podcast. Angelo’s work in deploying microgrids in disaster-stricken regions, remote areas, and underserved communities in the US sheds light on the growing potential of these systems to reshape how energy is generated and consumed.
+Southwire to partner with microgrid provider BoxPower
+“We are excited to partner with BoxPower on providing microgrid solutions for our customers. We believe that BoxPower’s offering will help utilities meet the challenges of sustainability and resiliency that are increasingly important in the 21st century. We look forward to working with BoxPower as part of our core mission of responsible power delivery.” – Charles Hume, managing director of Southwire Technology Ventures
+A microgrid provider gets a new investor, partner in Southwire
+Southwire Company, one of North America’s largest cable manufacturers, announced an investment in BoxPower, a turnkey microgrid platform provider.
+BoxPower, based in Grass Valley, California, designs, installs and manages microgrids for utilities, EV charging and commercial and industrial applications. The company touts its modular hardware, software services, and a team of subject matter experts.
+As a part of this investment, Southwire will be a preferred partner to BoxPower for future utility projects. The partnership is intended to strengthen Southwire’s presence in the microgrid market and provide insights into emerging opportunities.
+Southwire Expands Sustainable Energy Solutions with BoxPower
+Richard Oglesby, senior vice president of Industrial at Southwire, expressed enthusiasm about this collaboration, emphasizing that it aligns with Southwire’s vision of promoting sustainable practices. The partnership not only aims to deepen their understanding of microgrids but also enhances ongoing projects focused on wildfire mitigation and emissions reduction.
+Charles Hume, managing director of Southwire Technology Ventures, added that BoxPower’s technologies are vital in addressing the growing demands for sustainability and resilience within the utility sector. Southwire looks forward to integrating BoxPower’s solutions into its core mission—delivering power responsibly while addressing contemporary energy challenges.
+Southwire Invests in BoxPower
+“Southwire has been a leader in the energy and utility industry for over 70 years, and we are excited to collaborate with them to expand BoxPower’s reach and capabilities. Together, we can more effectively offer utility and commercial customers resilient microgrid solutions in a new world of rapidly growing energy demands, increasing natural disasters and aging infrastructure.” – Anderson Barkow, co-founder and chief financial officer at BoxPower.
+Meet Angelo Campus and Anderson Barkow, Founders of BoxPower
+At BoxPower, we’re building more than just microgrids—we’re creating a platform that simplifies and scales clean energy deployment. Our approach includes an ecosystem of software services and modular hardware that streamlines everything from site identification and engineering design to commissioning and ongoing operations. By standardizing components and prefabricating systems, we make it easy to deploy energy solutions at scale, providing reliable power to even the most rugged environments.
+We’re focused on making the portfolio-level deployment of standalone power systems simple, fast, and scalable. By combining our technology and expertise, we enable utilities and organizations to deploy microgrids efficiently, ensuring that clean energy and resiliency reach the communities and locations that need them most. Ultimately, we’re building a future where energy is not just reliable, but resilient and adaptable to the challenges posed by climate change and aging infrastructure.
+BoxPower up for grant to expand production of microgrid devices
+BoxPower Inc. of Grass Valley is up for a $3 million grant from the California Energy Commission to expand its production of containerized remote power grids that are increasingly used by utilities to connect to customers in isolated areas.
+Hopi Tribe Uses Federal Grant to Power Emergency Services 24/7
+The Hopi Tribe, with a reservation across 1.5 million acres in northeastern Arizona, is one step closer to energy independence.
+An $11.3 million solar project, made possible with a $9 million federal grant from the U.S. Department of Energy, will improve electricity access, reliability, and affordability for the tribe.
+The project, expected to be operational within three years, will equip the Hopi Utilities Corporation with its own 1.25 megawatt solar microgrid. The grid will include battery storage, allowing the tribe to power its Turquoise Trail Municipal Complex, deep in the arid, red-hued desert of the Colorado Plateau, 24 hours a day.
+As it stands now, the tribe only is able to run the buildings — housing critical services for the tribe, such as its Incident Command Center, IT Hub, Department of Health & Human Services, Social Services, and Solid Waste Department — for 8 to 12 hours per day, five days per week, utilizing diesel generators. Not only is the current system unreliable and expensive, but it also releases air pollutants that are harmful to health.
+Hopi Tribe's emergency services will soon run 24/7 with independent solar grid
+To apply for the federal grant and bring the solar project to life, the Hopi Utilities Corporation partnered with Arizona State University and BoxPower, a solar microgrid company.
+BoxPower co-founder Angelo Campus has been captivated and motivated for years by the concept of energy sovereignty — or the ability for a community to independently determine how and where to generate the power its members need — particularly for tribal and rural areas where grid accessibility can be challenging.
+“Years in the making, here we are,” Campus said.
+In total, the federal government has granted nearly $70 million in the past year to support clean energy projects on the Hopi reservation, including solar panels for hundreds of homes. The funding was made possible through the Bipartisan Infrastructure Law and the Inflation Reduction Act passed by Congress and signed by the president.
+PG&E Recognized for Remote Grid Program
+Pacific Gas and Electric Co. (PG&E) and its remote grid program received an honorable mention in the Energy category of Fast Company’s 2024 World Changing Ideas Awards. Winners were announced on May 14, highlighting fresh sustainability initiatives, cutting-edge artificial intelligence (AI) developments, and other creative projects that are helping mold the world.
+PG&E is one of the first energy companies in North America to deploy standalone power systems as an alternative customer service offering to electricity provided through traditional grid infrastructure. Throughout PG&E’s 70,000-square-mile Northern and Central California service area, pockets of remote customers are served via long electric distribution lines that in many cases traverse high-fire-risk areas. Replacing these overhead powerlines with a reliable and low-carbon local energy source is an innovative option that, in many cases, is preferred for serving customers at the edges of the grid. Remote grids operate independently from the larger electric grid that delivers energy throughout the state, and they allow PG&E to remove overhead powerlines, significantly reducing wildfire risk and service interruptions.
+PG&E to expand remote grid program with six new microgrids
+The Briceburg remote grid has maintained power reliability with almost no downtime for the five customers it has served since June 2021, PG&E said. The standalone power system, which replaced 1.3 miles of overhead distribution lines, has generated more than 90% of its power from solar energy. Backup generators support redundancy and power generation during winter months when solar generation is lower due to shorter days and cloudier weather. The Briceburg system has remained operational throughout several severe weather events over the last few years when nearby customers lost power during fires and winter storms.
+In November 2023, PG&E deployed its fifth — and first fully renewable — remote grid at Pepperwood Preserve outside Santa Rosa, California. The Pepperwood system is comprised of solar and battery energy storage and includes energy efficiency upgrades to the property it serves to keep from draining the batteries during periods of no or low solar generation, minimizing the likelihood of a power outage. The new system replaces 0.7 miles of overhead distribution line, eliminating the associated wildfire risk, and complementing Pepperwood’s own initiatives in wildfire resilience.
+PG&E has worked with Potelco, Inc and BoxPower to design and build its growing remote grid fleet. New Sun Road provides the remote monitoring and control platform for managing PG&E’s remote grids.
+BoxPower Awarded CEC Grant to Boost Rural Energy Resilience
+This grant accelerates the deployment of the SolarContainer, a robust microgrid solution that integrates solar PV, energy storage, and backup generation into one unit. Designed to replace traditional power infrastructure in areas at high risk of wildfires and outages, the SolarContainer offers a resilient, cost-effective, and environmentally friendly alternative that supports California’s clean energy goals.
+The enhancement of production capabilities means BoxPower can more quickly meet the needs of rural communities, setting a new standard for rural electrification that can be replicated nationwide, ensuring more communities benefit from reliable and sustainable energy. We believe this story will engage your readers because it highlights significant advancements in unique clean energy solutions and rural infrastructure resilience.
+SolarContainer microgrid moves toward mass production
+BoxPower announced it was awarded close to $3 million in grant funds from the California Energy Commission (CEC) through the Electric Program Investment Charge (EPIC) program’s Realizing Accelerated Manufacturing and Production for Clean Energy Technologies (RAMP).
+The company said it plans to use the grant funding to ramp up production of the SolarContainer, BoxPower’s turnkey microgrid product.
+Selected from a competitive field of 50 proposals, the CEC selected BoxPower’s project for its potential to help advance California’s clean energy goals.
+BoxPower said it plans to use the funds to advance its SolarContainer to the low-rate initial production stage, bringing the clean energy solution closer to widespread implementation. The company reports that the project aims to reduce production time, standardize modular subsystems, and increase manufacturing capacity.
+The Decade of Microgrid Commercialization - Part 2
+The next decade is a pivotal period for microgrid commercialization, with successful deployment and growth hinging on microgrid developers’ ability to introduce new business models and demonstrate the effectiveness of their microgrid solutions integrations.
+As distributed energy costs continue to come down and natural disasters become more frequent and severe – leading to grid outages – businesses across all industries should be considering microgrids as a solution to achieve economic, sustainability, and resilience objectives.
+Ultimately, resilience is not just necessary for grid transformation; it is a societal imperative that protects communities and businesses from the escalating costs and consequences of energy instability. Microgrids offer a solution to both, providing resilience and enabling a transition towards a more sustainable future.
+BoxPower Secures Credit Facility from VerisFi Capital and Energy Capital Partners to Expand Remote Microgrid Portfolio
+BoxPower, a leading provider of microgrids, is pleased to announce the successful closing of a credit facility in collaboration with VerisFi Capital and ECP ForeStar, the sustainable lending platform of Energy Capital Partners (ECP). This strategic financial arrangement will empower BoxPower to accelerate the expansion of its remote microgrid portfolio, furthering the company’s commitment to providing safe, reliable, and affordable clean energy solutions.
+BoxPower’s suite of hardware and software solutions are designed to address the energy needs of utilities in rural and underserved areas. Its software and modular hardware allow utilities to effectively identify, design, build, and operate microgrids as a cost effective and more reliable alternative to traditional distribution infrastructure.
+The credit facility will primarily be used to support the development and construction of BoxPower’s robust and rapidly growing remote microgrid portfolio with utility customers. Remote grids replace distribution lines by providing utility level service using standalone local and clean energy resources. In November 2023, BoxPower announced the successful completion of PG&E’s first fully renewable remote microgrid in California; BoxPower designed, built, and will maintain the remote grid for PG&E and is developing and constructing a portfolio of other microgrids across California for various utilities.
+PG&E Remote Grid Delivers Wildfire Safety, Savings
+For this project, BoxPower developed a dual solar array – one ground-mounted array and one container-mounted array – with a nominal photovoltaic power of 36.5 kW and a 69.12-kWh lithium-iron-phosphate battery bank.
+The system can deliver up to 27.2 kW of continuous power output with a surge capacity of up to 48 kW. Additionally, it incorporates two integrated 35-kVA propane prime power generators as a backup and features a fire-suppression system, a crucial component in this high fire-risk area. Both PG&E and BoxPower can remotely monitor and control the system by satellite, ensuring performance monitoring, reporting and automated propane delivery capabilities.
+The rise of microgrid standardization
+By the third quarter of 2023, there were around 9.2 gigawatts of installed storage capacity in the United States, according to Guidehouse Insight’s Microgrid Tracker. Between now and 2032, Guidehouse says capacity is expected to grow by 16.9% per year.
+To get there, though, microgrid developers will need to attract new capital and integrate a growing range of technologies. And several believe that standardization could be vital in achieving these aims.
+In light of expected growth, BoxPower, Scale Microgrid Solutions, and Schneider Electric have all taken steps to adopt standardized product designs, Power said. BoxPower has a container-based system that includes solar power, batteries, inverters, monitoring and control software, and the option of backup generators.
+Innovation in Wildfire Mitigation: PG&E Deploys its First 100% Renewable Remote Grid
+Continuing from 2022’s conference in Denver, increasing resiliency by reducing wildfire risk was a theme at 2023 Grid Forward. In their session titled “Remote Grids: A Safe and Cost-Effective Replacement for Rural Distribution Lines,” Bennett Chabot from PG&E and Bo/xPower’s Anderson Barkow shared how PG&E is installing Remote Grids from BoxPower in far flung grid outposts. BoxPower’s off-grid system combines a solar array, battery storage system, and propane backup generator to provide reliable power to customers at the end of a distribution line. This is literally a remote grid – not connected by wires to the rest of PG&E’s network but owned and maintained by the utility.
+PG&E Remote Grid Delivers Wildfire Safety and Ratepayer Savings
+The Briceburg system’s operation during extreme weather events exemplifies its unmatched resilience. It remained operational without issues during a historic winter storm in December 2021 and weathered the August 2021 heatwave seamlessly. Moreover, during the 2021 Oak Fire, with a wildfire raging just a few miles away and PG&E proactively shutting down power to the entire area, the Briceburg standalone power system stood as an exception, continuously and safely powering PG&E customers including two residences, a visitor center, and telecommunications and transportation facilities. This resilience was again demonstrated in January 2023, when the Briceburg system remained unyielding during the atmospheric river storms in California, underlining the system’s capacity to ensure power supply under diverse and challenging conditions.
+PG&E unveils first 100% renewable remote power system at Pepperwood Preserve
+Angelo Campus, founder and chief executive officer of Grass Valley-based BoxPower Inc., which designed and installed the system, said his company’s mission is to provide safe, reliable, economical, simple systems that can be built inside standard shipping containers and, thus, transported to remote, rural areas.
+The company is now focused on working with utilities to create systems that provide more resilient power in remote locations and reduce wildfire threat but has often found companies reluctant to sign on.
+“When I’m speaking with new utilities, particularly outside of California, I tell them, ‘Hey, all you have to do is build a remote grid and cut down your power poles and take down your wires.
+“They look at me like I’m crazy,” he said.
+But he said he was proud of PG&E for providing a safer, cleaner, reliable, economic solution.
+“I believe this is a huge milestone for remote grids,” Campus said.
+Innovation in Wildfire Mitigation: PG&E Deploys its First 100% Renewable Remote Grid
+Leaders from Pacific Gas and Electric Company, Pepperwood Foundation, BoxPower Inc., Sonoma Clean Power, Franklin Energy, and the California Public Utilities Commission gathered with regional, state and federal stakeholders at Pepperwood Preserve in Sonoma County to commemorate the first fully renewable remote grid deployed in PG&E’s growing fleet of standalone power systems.
+As described in PG&E’s Wildfire Mitigation Plan, remote grids provide utility service using standalone local energy resources. Throughout PG&E’s 70,000-square-mile service area, there are remote customers served via long electric distribution lines that traverse high fire-risk areas. Replacing these distribution lines with a remote grid is an innovative option that can cost-effectively meet customer needs and reduce fire ignition risk.
+Innovation in Wildfire Mitigation: PG&E Deploys its First 100% Renewable Remote Grid
+Under contract to PG&E, BoxPower designed, built, and will maintain the remote grid at Pepperwood. The system includes a BoxPower SolarContainer featuring a battery energy storage system that was prefabricated at the BoxPower facility in Grass Valley before being transported to the site. The generation source is a canopy solar array. Construction of the system was completed in less than eight weeks and followed by a rigorous testing and commissioning process.
+“We are proud to have designed and built not only PG&E’s first remote grid, but also their first 100% renewable standalone power system,” said BoxPower Co-Founder and Chief Financial Officer Anderson Barkow. “Reducing wildfire risk in areas like Pepperwood is critical for the surrounding communities and the native wildlife that collectively call this place home. This cost-effective approach to wildfire mitigation provides an excellent blueprint for implementation across potentially hundreds of remote sites.”
+California's PG&E just deployed its first renewable remote grid
+PG&E, California’s largest utility, just brought its first renewable remote grid online, in a nature preserve in Sonoma County.
+The fully renewable remote grid at Pepperwood Preserve replaces 0.7 miles of overhead distribution line, eliminating wildfire risk from overhead power lines.
+Throughout PG&E’s 70,000-square-mile service area, remote customers are served via long electric distribution lines that traverse high fire-risk areas. Replacing these distribution lines with a remote grid can cost-effectively meet customer needs and reduce fire ignition risk.
+Pepperwood Preserve is a 3,200-acre biological reserve that hosts the Dwight Center for Conservation Science in the Mayacamas Mountains. It’s a hub for climate monitoring, applied research, science education, and wildfire resilience demonstration projects, such as the now extensive ALERTWildfire camera network.
+The preserve is a crucial place to eliminate wildfire risk because it’s home to more than 900 species of native plants and wildlife. The Tubbs fire directly impacted it in October 2017, and the Kincade fire did as well in October 2019. The new remote grid will power Pepperwood’s Bechtel House, which houses overnight visitors.
+Innovation in Wildfire Mitigation: PG&E Deploys its First 100% Renewable Remote Grid
+Under contract to PG&E, BoxPower designed, built, and will maintain the remote grid at Pepperwood. The system includes a BoxPower SolarContainer featuring a battery energy storage system that was prefabricated at the BoxPower facility in Grass Valley before being transported to the site. The generation source is a canopy solar array. Construction of the system was completed in less than eight weeks and followed by a rigorous testing and commissioning process.
+“We are proud to have designed and built not only PG&E’s first remote grid, but also their first 100% renewable standalone power system,” said BoxPower Co-Founder and Chief Financial Officer Anderson Barkow. “Reducing wildfire risk in areas like Pepperwood is critical for the surrounding communities and the native wildlife that collectively call this place home. This cost-effective approach to wildfire mitigation provides an excellent blueprint for implementation across potentially hundreds of remote sites.”
+Remote Grids Powering Isolated Customers
+Although remote grids are currently a nascent technology, they provide great promise for utilities. As Anderson Barkow, CFO of BoxPower puts it, “remote grids allow utilities to reimagine power provision, with local energy sources providing safer, more reliable and more cost-effective power than distribution lines in many rural areas.” These systems have the potential to provide improved resilience and reliability for customers, help utilities meet their clean energy targets, and improve wildfire safety.
+PG&E is among the first U.S. utilities to build a remote grid. The utility constructed their first remote grid in Briceburg, CA, near Yosemite National Park with BoxPower. The site serves five customer meters and has allowed PG&E to remove 1.3 miles of power lines that were damaged in a 2019 fire while ensuring that the site is online 99.9999% of the time. PG&E began operating the Briceburg Remote Grid in June of 2021. Each year it provides more than 90% renewable energy. Thus far, it has been a success with no sustained outages in over two years. During the 2022 Oak Fire, the customers receiving electricity from the remote grid had reliable electricity despite outages in surrounding areas.
+Exclusive: BoxPower raises $6.5M for solar microgrids
+Solar microgrid developer BoxPower has closed a $6.5 million Series A, the company tells Axios exclusively.
+Why it matters: The Grass Valley, Calif.-based company says its tech offers a clean alternative to the fossil fuel generators typically used for on-site power.
+How it works: BoxPower’s solar microgrids can be used to harden grid infrastructure or supply EV chargers, especially in remote areas.
+What’s happening: Aligned Climate Capital led BoxPower’s Series A with a $5 million investment first announced in February.
+A Greener Tomorrow: The Work of Three Princeton Alumni is Saving the Planet
+Similarly, Angelo Campus ‘16 created BoxPower, an energy startup that is redefining the grid in rural areas. With an aging energy grid and increased severity and frequency of natural disasters, power lines are becoming more dangerous and energy reliability is decreasing in rural and remote areas. BoxPower’s rapidly deployable solar standalone power systems are replacing these risky distribution lines as a cost-effective and reliable alternative. With a suite of software services and modular hardware solutions, BoxPower helps organizations not only reduce energy-related disaster risk and bolster energy reliability, but also helps realize significant savings on line undergrounding and upgrades. BoxPower recently raised $6M in Series A funding led by Aligned Climate Capital. BoxPower has over 70 projects in development with investor-owned utilities and 40 successful deployments spanning diverse partners. Additionally, they have already offset over 40 million pounds of CO2 and energized more than 4,200 individuals and businesses.
+Climate disasters are revealing a blind spot
+Where Angelo Campus grew up in northern California, evacuations and power outages caused by wildfires were routine. At college, he worked in a lab developing small solar-powered electric grids for places hit by natural disasters or high fire-risk areas to reduce the odds of an errant spark from a conventional transmission line. After graduation, he founded a startup called BoxPower to commercialize the technology, setting up his first system in Puerto Rico after Hurricane Maria in 2017.
+As the frequency and severity of wildfires in his home state escalated, interest grew in his microgrids. But raising investment proved challenging: Backers gravitated to companies seeking to ward off climate change, not those readying the world for its impact.
+“The number of ‘no’s we got from climate investors was surprising and pretty disappointing,” Campus said.
+BoxPower eventually found backers and has installed dozens of microgrids. But in a summer where climate disasters have dominated the headlines — most recently devastating wildfires in Hawaii, Greece, and Canada — adaptation startups continue to get a cold shoulder from many venture investors.
+The Ad Hoc Gist: Hot Microgrid Summer
+So if microgrids are so great, then why aren’t there more of them?
+They’ve been held back by a couple of important barriers.
+First, on the technology side, microgrid development has historically been a bespoke process from design all the way through to operation. That’s expensive and doesn’t scale.
+Second, regulation of resilience and microgrids is outdated and murky, which discourages investment. For instance, regulators and utilities often judge reliability performance with numbers that exclude larger power outages, arguing that those are extreme and infrequent. That’s a disservice to the public. It’s like a hospital being judged on its ability to treat strep throat, but not on its ability to treat gunshot wounds.
+There’s also no clear definition of resilience, which makes it hard to quantify risks and evaluate potential solutions, like microgrids. And when it isn’t clear who can own or operate a microgrid, what the conditions are, or how they might be compensated, you’re left with a market that cannot get off the ground.
+BoxPower is Revolutionizing Energy Access through Microgrid Technology
+BoxPower, founded by individuals with firsthand experience of the challenges faced by rural communities without reliable power, focuses on providing renewable energy solutions.
+Initially funded as a research project, BoxPower developed containerized microgrid technology to address issues of power outages, high poverty rates, and limited access to electricity.
+Their projects have encompassed disaster relief, energy resilience for indigenous communities, and collaborations with utilities, critical facilities, and EV chargers in the United States.
+In this episode of Climate Tech 100, find out how BoxPower streamlines the deployment of microgrids, facilitating the widespread adoption of clean energy technology in remote areas.
+Getting EV chargers functioning quickly means turning to off-grid setups
+BoxPower of Grass Valley, California, is another turnkey off-grid EV charger supplier. It got its start as a Princeton University research project exploring alternatives for diesel generators.
+“We thought we’d be working in places where there’s a less-reliable grid internationally, but then quickly saw a huge need domestically, especially in California where we’re based, with the wildfires and the PSPS (public safety power shutoff) events associated with that,” said Anderson Barkow, co-founder and CFO of BoxPower.
+The company produces prefabricated, portable off-grid power plants built within shipping containers, which lend themselves to simpler transit and modular design. These solar + storage shipping containers can also be outfitted with EV chargers.
+The four primary components of BoxPower’s EV chargers are solar panels, batteries, inverters and the charger itself. Modules can be installed in a single pitch or at a dual tilt on racking attached to the shipping container. BoxPower can link multiple containers together to meet increasing energy demand and the system is outfitted with a software that lets operators monitor and control the system remotely.
+NREL Industry Growth Forum featuring cleantech startups from around the world
+The U.S. Department of Energy’s National Renewable Energy Laboratory (NREL) announced the 40 presenters for the 2023 NREL Industry Growth Forum (IGF), who represent a range of clean and sustainable technology startup companies from around the world. This is the 28th year of the event, which is set for May 1 – 3 at the Hyatt Regency in Denver, Colorado.
+“This crop of presenters is truly stellar,” said event manager Sheila Ebbitt of NREL. “They show the continuing broad growth of the clean energy industry. The investors they meet at IGF can help them build the ventures that will impact climate change for the better.”
+Remote Microgrids Become a Reality in Isolated Communities and Fire-prone Areas
+Faced with the challenge of supplying electricity to rural areas that are either isolated or located in high wildfire-risk regions, some utilities are turning to remote microgrids to provide reliable power safely. These microgrids are standalone systems—not connected to the grid—powered by solar energy and battery storage, with fuel-powered generation serving as a backup power supply.
+BoxPower wants to cut emissions, wildfire risk by taking power off the main grid
+After sparking California’s second-largest wildfire ever, and dozens more in recent years, it’s no secret that Pacific Gas and Electric (PG&E) — one of the nation’s largest utilities — is interested in alternatives to aboveground transmission lines.
+One option touted by PG&E is to bury thousands of miles of power lines in “high fire-threat areas.” That effort is underway, and it will cost billions and take a decade or more to complete, per the utility’s projections. Yet, another piece of the puzzle may be microgrids.
+BoxPower, a startup working on such tech, says its mini power stations can do a better job of delivering reliable, low-carbon energy to folks who live “on the edges of distribution lines.”
+Neither route will scrub away PG&E’s horrid environmental track record, but as climate change drives more extreme heat waves, solar-powered microgrids could help remote communities keep the lights on even when the macrogrid goes down, while eliminating some dangerous power lines in the process. That’s the idea, and it’s why Grass Valley, California–based BoxPower raised a $5 million Series A round from Swell Energy backer Aligned Climate Capital.
+Off-gridders take energy needs into their own hands
+When Hurricane Maria slammed into Puerto Rico in 2017, cutting electricity supplies across the island, US firm BoxPower provided a solar panel and microgrid solution that comes packed in a shipping container. The technology was used to restore electricity supplies at two schools and a community centre.
+The same kit is in place to this day and activates automatically whenever there is a problem with the main power grid. “Those schools now never lose power,” says BoxPower chief executive and founder Angelo Campus.
+BoxPower has since worked with utility companies in California to set up standalone grid systems for some remote communities. For example, the community of Briceburg used to receive electricity via long overhead power cables that ferried power from the main grid through forests and up hillsides. But this cabling was prone to damage from wildfires, explains Mr Campus.
+How microgrids performed during the summer heatwave
+In addition to responding to such alerts, microgrids were able to provide power to communities during fires. In July, during the Oak Fire, sparked in the foothills of the Sierra Nevada mountains, a remote, off-grid microgrid from BoxPower in Briceburg, California continued to operate. The microgrid is owned by PG&E.
+“That region has no utility except for the remote grid. The microgrid functioned even with fire at its doorstep,” said Jenna Herzog, director of marketing and communications for BoxPower.
+Are clean, renewable microgrids the future of energy?
+The San Jose shelter’s power solution is a microcosm for the microgrid trend playing out across California and the rest of the United States. Due to the increasing prevalence of wildfires across California, the California Public Utilities Commission has required the utilities to harden their lines against wildfire damage. In some cases, microgrids provide a more affordable and feasible solution, says Jenna Herzog, director of marketing for BoxPower, a company that provides containerized microgrids.
+“The utilities have found out that in a lot of rural and remote setting, the financial equation for upkeeping and maintaining their lines to meet wildfire standards are just outrageous,” Herzog says. “So when they serve small loads with multiple miles of distribution line, they’re realizing that, financially, it makes more sense to decommission those power lines and replace them with the onsite solar, battery, and backup generator.”
+Microgrids with Propane-Fueled Backup Systems Deliver Reliable, Resilient Power
+According to Angelo Campus, CEO and co-founder of BoxPower, a focus on achieving complete power reliability was essential while designing microgrids for PG&E and Liberty Utilities.
+“Pairing propane-fueled generators with solar power and battery storage ensures a constant energy supply for BoxPower customers. Integrating propane for backup power increases the reliability of the overall system. Propane fills the niche as an always-available power source that smooths out the intermittencies of solar and wind resources,” he said.
+Kayenta Chapter secures grant to power 24 homes with solar energy
+Kayenta Chapter partnered with the University of Utah, New Sun Road, BoxPower, and Diné Energy to establish an autonomous solar-based microgrid to electrify the 24 homes located in the Comb Ridge/El Capitan communities in Kayenta, and offer internet connectivity.
+Solar Builder Selects: 30 of our favorite solar products from 2021
+The modularity of BoxPower systems also means when the project reaches the end of its anticipated stay, two to five years at this location, it can be easily packed up and moved to the next location. Components used in the containers included Canadian Solar modules, Schneider Electric inverters, SimpliPhi batteries and IronRidge mounting.
+Shifting focus: Grass Valley-based energy company brings work closer to home
+Other aspects of the company have evolved over time, including the company’s marketplace focus, according to Nesbit. Earlier on, she explained, BoxPower placed a heavier focus on disaster relief — for instance, developing systems to be installed in Puerto Rico following the 2017 impact of Hurricane Maria.
+Given the current “advanced and accelerated wildfire season,” the need for BoxPower’s services has in recent years grown in the company’s home state, said Nesbit.
+Case study: When it makes sense for utilities to island its customers
+BoxPower introduces the ability for groups like PG&E to take a modular approach toward deploying microgrids. This creates a financially viable option for utilities to consider when debating upgrading power lines to increase reliability.
+Now Will Infrastructure Investors Finally View Microgrids As Resiliency?
+First of all, we need as an investor class to recognize that emergency microgrids are no longer just the realm of charity organizations like the Footprint Project or emerging economies like the efforts of startups like BoxPower and others. For years, seeing “microgrids in a box” ideas, I would ask the entrepreneurs where their initial markets would be, and they would mention disaster-relief organizations and distant global markets. Now those markets are right here in the United States and the needs are more stark. Those revenue streams in domestic markets have shifted from “maybe someday” to a sad reality.
+PG&E Commissions Microgrid Near Yosemite National Park
+Pacific Gas & Electric, the utility company that serves much of northern California, has commissioned the first of many standalone microgrids in Mariposa county near Yosemite National Park. Built and installed by BoxPower, the remote grid will permanently replace the overhead distribution power lines that once served a handful of customers in Briceburg, a community located in a High Fire Threat District of the Sierra Nevada foothills. The new microgrid will improve reliability while significantly reducing the risk of wildfires in the area.
+BoxPower says such microgrids may be used to supply other remote locations that are served by conventional transmission lines that traverse other HFTD areas. The microgrids are expected to cost less to build and maintain than building and servicing transmission lines.
+Solar microgrid to offer protection from fire threats
+Pacific Gas and Electric (PG&E) has commissioned its first hybrid renewable microgrid, built and installed by BoxPower.
+The microgrid is planned as a permanent replacement for overhead distribution lines and is the first in a series of planned microgrids, the utility said. PG&E said it has identified hundreds of areas that would benefit from microgrid deployment and has targeted up to 20 operational remote grid sites by the end of 2022.
+PG&E gets rid of power lines in Briceburg Fire area
+Pacific Gas and Electric is the first utility company in the continental United States to deploy a stand-alone power system or remote grid that helps with the cost and aims to prevent wildfires.
+“This area was affected by the Briceburg Fire, it took out power lines that were bringing power to these customers. For the past two years, I believe they were running off of backup generators,” said Michele Nesbit, the COO & Co-founder of BoxPower Inc.
+PG&E hired BoxPower Inc. to design and engineer the new system which will only provide power to customers in the area.
+Microgrid Knowledge Names Finalists for Greater Good Awards
+“The finalists are from throughout the world and demonstrate the range of humanitarian benefits that microgrids offer, from bringing power, water and medical care to remote villages to providing affordable and reliable power to low-income communities,” said Elisa Wood, editor-in-chief of Microgrid Knowledge and creator of the awards program. “This year’s finalists include a tiny home community serving families experiencing homelessness.”
+The role of battery storage in the energy transition
+PG&E partnered with BoxPower, a California-based modular solar energy systems provider, to build an island power grid. The system is expected to run on renewable power nearly 90% of the time.
+“An on-site power system will eliminate much of the maintenance and vegetation management costs needed for power lines and help mitigate the risk of future wildfires sparked by electrical infrastructure,” said the two companies in a statement.
+First PG&E standalone solar grid near Yosemite is attempt to stop sparking California fires
+The Briceburg grid was designed and installed by BoxPower, an energy company based out of Grass Valley. PG&E, which owns the grid, will be able to monitor and control the system with BoxPower.
+The new standalone grid in Briceburg means PG&E won’t have to rebuild 1.3 miles of distribution lines that extended down into the remote river canyon near Yosemite. Those lines were destroyed in the October 2019 Briceburg Fire.
+Will California have another year of record-setting wildfires?
+In the tiny California town of Briceburg, at the edge of Yosemite National Park, workers are installing a new solar microgrid from a startup called BoxPower. The local utility, Pacific Gas & Electric, used to send power to the community through long distribution lines that traveled through remote areas—the same type of equipment that sparked disastrous wildfires such as the one that swept through the town of Paradise in 2018, killing at least 86 people. With the new grid, which generates power for the community locally, that dangerous long-distance infrastructure no longer needs to exist.
+PG&E begins implementation of remote grids for fire mitigation, resiliency and customer service
+Microgrid provider BoxPower announced this week that it is designing and installing a standalone power system in Briceburg, California to help mitigate fire risk in the area.
+The remote grid will support Pacific Gas and Electric Company (PG&E) in its wildfire mitigation and energy resilience efforts in the face of intensifying fire risk across the state. Slated for completion in April, the integrated solar, battery, and generator system will replace traditional power distribution lines once servicing the unincorporated community.
+Replacing Rural Power Lines With Resilient Microgrids
+“We do a fully integrated solar, battery, and generator system, prefabricated in a shipping container that you can buy just like you would buy a car. You pick out which model you want and you order it,” Angelo shared. “We have standardized modular systems, individual units ranging from 5-100 kW output capacity and the ability to link multiple those units together to address just about any size load with almost no engineering or customization involved.”
+Startup of the Month: BoxPower
+“Medical facilities and utilities are playing catch-up, as the grid and distribution lines are not set up to handle wildfire risk or disasters,” says Michele Nesbit, a cofounder and chief operating officer of BoxPower. “We’re going to continue to see outages unless we add microgrids.”
+BoxPower’s modular systems are plug-and-play solar solutions, which start at 3.5 kilowatts (which can run most appliances in small homes with 2-4 occupants). The fireproof and waterproof boxes include solar panels, inverters, battery storage and a backup generator (that uses diesel or propane) with an optional control system for monitoring.
+Santa Clara County Launches Tiny Homes Site For Unhoused Families With Children
+An example is that it will use solar microgrids, manufactured by BoxPower, which will provide 85 percent of the electricity used, County Office of Supportive Housing director Consuelo Hernandez said.
+Santa Clara County Officials To Celebrate The Opening Of Tiny-Homes Shelter On Monday
+Each 100-square-foot sleeping cabin includes four bunks that fold down and can be used as beds or tables, shelving, an HVAC unit, lights and an outlet for charging devices like cell phones and laptop computers. Electricity will be provided by a BoxPower solar microgrid with backup generators.
+BoxPower CEO on the growing microgrid market for small businesses
+Rural communities, small businesses, and manufacturing are now able to find flexible and affordable ready-to-install microgrid products. BoxPower CEO Angelo Campus is witnessing a rapid change in microgrid demand. “As outages increase across the country and world, the value of a microgrid is increasing rapidly,” says Campus. “This combined with the decreasing cost of inputs will cause the microgrid adoption to skyrocket.”
+Case study: MCHC Health Centers’ solar battery microgrid
+A pioneering collaboration between MCHC Health Centers, Direct Relief and BoxPower, is adding crucial backup power plan for MCHC. Recent wildfires spurred this partnership, which has resulted in a $1.2 million solar battery microgrid power solution that will operate MCHC’s Hillside Health Center critical facilities for as long as necessary during a power outage, while significantly reducing carbon dioxide emissions.
+Power outages caused by recent fires or fire threats caused MCHC to shutdown several times in 2018 and 2019. A planned power shut down in 2019 caused the closure of all four MCHC locations, resulting in missed visits by approximately 2,400 patients, a loss of vaccines, income loss for staff, and a loss of $300,000 in revenue. Given the extent of the losses, both to the community and the organization, MCHC quickly began looking for backup power solutions.
+California Energy Commission funding energy storage, microgrid firms
+The California Energy Commission (CEC) selected UK-based Invinity Energy Systems for funding as part of an initiative for long-duration, non-lithium energy storage with the use of its vanadium flow batteries (VFBs) technology. CEC also awarded modular microgrid energy solution company, BoxPower, a $1.2 million dollar grant to further develop its software and hardware solution at 15 microgrid sites in California.
+The three-year microgrid project, under the designation of California Title 24 Advanced Power Utilization Technology, will provide insights into energy cost reduction strategies and increased energy resiliency. BoxPower’s work will seek to drive cost reductions, open new cash flow opportunities for batteries, reduce greenhouse gas emissions, and measure non-energy societal benefits, such as resiliency.
+97% Renewable Microgrid to Replace Fire-Vulnerable Line in California During Wildfire Season
+A 97% renewable microgrid will allow Liberty Utilities to de-energize four miles of transmission line located in a remote Sierra Nevada location during wildfire season in California.
+The microgrid, from BoxPower and owned by Liberty Utilities, a regulated utility with about 50,000 customers on the West side of Lake Tahoe, is made up of 20 kW of solar, 68 kWh of storage and propane backup. It’s expected to use the propane only 3% of the time.
+Angelo Campus electrifies the renewable energy business with BoxPower
+Since his graduation in 2016, Princeton alumnus Angelo Campus has worked to ensure anyone needing quick and dependable access to a power source can find it in a simple configuration: a shipping container equipped with solar panels, a battery for energy storage and a backup generator.
+His company, BoxPower, builds and distributes these units — what are known as containerized microgrids — and has deployed them in places like Puerto Rico, which lost electrical infrastructure in 2017 due to Hurricane Maria, and the Alaskan backcountry, where Alaska Natives live far removed from electrical power sources.
+Liberty Utilities plans solar + storage microgrid for wildfire mitigation in NWA plan
+Last week, BoxPower announced that Liberty Utilities will be using its system to set up a microgrid at a remote mountain research station. The companies said the project will save millions by replacing high fire-risk distribution lines with a containerized solar + storage microgrid.
+The project is the result of a request-for-offers issued by Liberty Utilities for a wildfire-mitigation solution to avoid costly replacement of the transmission lines that serve Berkeley University’s Sagehen Creek Field Station in the Sierra Nevada Mountains, California.
+BoxPower gets utility customers seeking remote power
+BoxPower has found a new niche, selling stand-alone solar power units to utilities to provide their customers remote power, which is far cheaper in some cases than hardening electric grids to withstand wildfires.
+Liberty, a subsidiary of Ontario, Canada-based Algonquin Power & Utilities Corp. (NYSE: AQN), was faced with having to “harden” from fire damage a 4-mile stretch of power lines that serve the research station, and that would have cost $3 million. Instead, Liberty chose to install a BoxPower station on the site, Barkow said. It will save the utility more than $2 million.
+BoxPower vies for $1 million grant to expand self-contained electric power technology
+BoxPower, the company that builds turnkey solar power and battery units, is vying for a $1 million grant from the California Energy Commission to further commercialize its products.
+BoxPower’s technology was developed in 2011 at Princeton University, with research supported by grants from the National Science Foundation. The company was spun out of Princeton in 2016, when it began marketing and selling its portable power unit in a standard shipping container.
+Snowstorms, Remote Locale, and Practical Jokes Can’t Stop Alaskan Microgrid
+A sudden snowstorm in a far Northwest arctic locale, sleeping in a laundromat (for no better place) and practical jokes were only some of the challenges facing Grass Valley, Calif.-based BoxPower in deploying a new solar/storage microgrid in the indigenous village of Deering in remote Northwest Alaska.
+The installation is the second microgrid for the company in Alaska and second involving NANA, a regional corporation made up of 14,500 Iñupiat shareholders, or descendants, who live in or have roots in the region.
+“We learned that logistics and supply chain are the most difficult part of Alaskan microgrids,” Campus said.
+From Gold Rush to Microgrid Push in Nevada County, California
+Pacific Gas & Electric’s controversial public-safety power shutoffs (PSPS) hit the area hard last fall. The distress and economic damage has spurred county leaders and business owners to pursue microgrids and back-up power systems before the 2020 wildfire season begins.
+“A lot of companies shy away from battery projects because it’s outside their wheelhouse, outside their comfort zones,” Campus said. BoxPower’s goal was to make a solar and battery system as simple and easy to install as possible. The modular systems range from 3.5 kW to more than 22 kW per container, with options for additional solar via integrated rooftop or ground mount. Linked systems are capable of generating up to 528 kW. The company, which was a finalist in Microgrid Knowledge’s Greater Good Award competition last year, finances the full cost of a “minibox” for as low as $250 per month.
+Startup with Valley ties helps earthquake-ravaged Puerto Rico
+A California startup with ties to the Central Valley is bringing some light to Puerto Rico after the island has been hit with a large series of earthquakes since the end of December.
+BoxPower Inc., a start-up that provides rapidly deployable solar electric microgrids in shipping containers, has delivered two of the of the systems to the earthquake stricken region of Puerto Rico, which has suffered more than $110 million in damages and seen more than 500 homes topple over.
+The systems serve as solar generators, providing power when conventional power grids are down.
+Grass Valley Microgrid Company BoxPower Inc. delivers two rapidly deployable microgrid systems to earthquake stricken region of Puerto Rico
+BoxPower Inc., a California start-up company providing rapidly deployable renewable microgrids in shipping containers, got their start in Puerto Rico after Hurricane Maria, when they deployed one of their Modular Solar Microgrids at a community center providing food and shelter to those impacted by the hurricane. Now, almost two years later, BoxPower has returned to Puerto Rico in the wake of the earthquake to deploy two more microgrids: at a school resilience center and medical clinic in the south of the island, both of which have been impacted by the recent earthquakes.
+BoxPower getting bids for big orders of its solar energy containers
+California’a multiple widespread power outages in 2019 have given a big boost to BoxPower Inc., developer of portable and turnkey solar power and battery units that are housed in shipping containers.
+The company is currently appraising bids and requests for proposals by California counties and utilities for orders of 10 to 30 units, said Anderson Barkow, co-founder of the company.
+7 companies making their mark with commercial microgrids
+Increasingly, U.S. businesses are concluding that they need the type of business continuity, cost predictability and sustainability goal-aligned energy solutions that microgrid-plus-storage installations offer.
+“After two weeks of outages and utility shutoffs, many businesses have had to shut their doors because of cash flow issues or because they lost their inventory at a critical time of the year,” said Angelo Campus, founder and CEO of BoxPower, a startup that makes pre-engineered microgrid plus storage systems that can be dispatched and stored in shipping containers.
+This single shipping container can start powering a small renewable grid in less than a day
+Inside a shipping container currently en route to a school in Puerto Rico, a solar microgrid is ready for deployment: As soon as the container arrives, the system, from a startup called BoxPower, can be assembled and begin providing power in less than a day.
+The system, designed for use both immediately after disasters and to make communities more resilient to future disasters, is easy to rapidly install. “We jokingly call ourselves the Ikea of microgrids because there is some assembly required, but it is color-coded, pre-cut, and pre-drilled,” says Angelo Campus, CEO and founder of California-based BoxPower. “And anyone who can assemble an Ikea dresser can assemble our solar array on top of the container. It doesn’t require any heavy equipment or machinery.”
+PG&E outages leave patients at rural health clinics dangerously vulnerable, experts say
+The widespread PG&E power shutdowns are depriving California’s rural and indigent residents of critical care from community health clinics that they have come to count on not only for primary care but also for many types of emergency care, leaders in the industry told The Bee.
+Founders of Grass Valley’s BoxPower, a company that offers solar-powered microgrids that can store and supply power directly to structures, said they’ve been hearing from a number of pharmaceutical and healthcare organizations looking for backup power sources.
+PG&E blackouts spur sales of BoxPower solar/battery units
+California’s recent power blackout episode triggered the strongest sales ever for BoxPower Inc., the maker of a turnkey solar power and battery unit in a box.
+Co-founder Anderson Barkow said last week, as Pacific Gas & Electric Co. shut off power to 734,000 homes and businesses in 35 California counties, BoxPower saw its “busiest week in terms of inquiries ever.”
+BoxPower takes first place at annual Princeton-HBS Startup Showcase
+Clean tech startup BoxPower shone brightly at the fourth annual Princeton-Harvard Business School Startup Showcase. As the winner of the audience vote, BoxPower will be fast-tracked to the final selection round of the Princeton Alumni Angels(link is external) fall pitch night, and won the opportunity to pitch at an upcoming HBS Alumni Angels of Greater New York(link is external) pitch night. BoxPower will also receive mentorship from PAA.
+Container Microgrids: Lowering Costs Through Modular Design and Streamlined Engineering
+In the ongoing effort to lower the cost of microgrid deployment, one concept that continues to evolve is that of the modular microgrid, best expressed in a system that can fit inside a single shipping container.
+In an effort to bring clean energy to remote customers at affordable prices, the California-based company BoxPower has been standardizing and continuing to refine designs for small-scale power systems that can fit into a container. BoxPower engineer Michele Nesbit says “we’re social impact-focused, so designing cost-effective systems is a key motivation for us.”
+DOE Co-Funded PV Project Brings Fuel Cost Savings to Three Alaska Native Villages—Starting With Buckland
+When people living in the Alaska Native community of Buckland, population 425, visit the local Native store, they may see price tags of $46 attached to laundry soap and $26 for a quart of oil. One way to reduce or at least stabilize expenses is to cut diesel fuel costs by tapping into renewable resources for energy production.
+The roughly $2-million project, $1 million of which comes from a 2016 DOE grant, involves installing over 400 kilowatts (kW) of PV arrays in these villages, which are expected to produce about 420,000 kilowatt-hours (kWh) of electricity annually, displacing over 30,000 gallons of diesel fuel. The containerized solar system was provided by BoxPower Inc., a California energy company specializing in rapidly deployable solar and battery systems for rural energy projects.
+Forbes 30 Under 30 2019: Social Entrepreneurs
+BoxPower manufactures solar microgrids that can be quickly deployed via shipping containers to communities in need. Each unit can be assembled (without specialized equipment or technicians) in just five hours and powers six homes–or can be linked together to form a localized grid. BoxPower was used in Puerto Rico after Hurricane Maria and has offset 6.2 million pounds of CO2 to date.
+Alaska Is Offering Entrepreneurs a Huge Renewable Energy Opportunity
+Beyond coaching and connections, this year Launch Alaska has invested up to $75,000 in each of their startups. This year’s cohort of four start-ups competed before the Demo Day audience. They presented their concepts, progress, and investment opportunities. The popular winner, BoxPower, is a classic example of what Vanderburg is looking for: an ideal alternative energy solution for Alaska.
+BoxPower: Tiny power hybrid microgrids aids rural Puerto Rico and Alaska
+Ariving in a shipping container, the 18,000 lb. kit has solar panels, battery storage and a backup diesel generator — no electrician needed for assembly.
+Our system is standardized, all the electrical work is done, there’s no need for an electrician. It’s sort of like an IKEA set,” Angelo Campus, CEO of BoxPower, told Microgrid Knowledge. Campus also told Yale Climate Connections that the solar array can be set up in five hours.
+With this kit, you can set up a solar-powered microgrid.
+Eight months after Hurricane Maria, power had still not been fully restored to the town of Mariana, Puerto Rico.
+So a company called BoxPower shipped solar panels, batteries, and a backup generator to power a café, laundromat, and community center there. But unlike most renewable energy systems, this one snapped together almost like Legos – with no engineers or electricians needed.
+Campus: “If you can put together an Ikea bed-frame you can probably put together our microgrid system.”
+Remote Puerto Rico Community Rebuilds with Microgrid “Like an IKEA Set”
+Eight months on from the devastation of Hurricane Maria, the 3,160 inhabitants of Puerto Rico’s mountainous Mariana remain without grid power. Tired of waiting, community members recently took matters into their own hands with the help of a modular microgrid.
+BoxPower’s modular microgrid is a hybrid system with solar power, battery storage, and backup diesel generation to increase resilience and provide critical load at the very least. The system arrives fully packaged in a shipping container.
+What’s in the box? — BoxPower Inc., CEO, Angelo Campus is on a mission to bring renewable & environmentally-sustainable energy to the world
+Across the globe, 1.2 billion people are living in the dark. One in seven — 16 percent of the world’s population — have little or no access to electricity.
+A Grass Valley man is on a mission to help solve the energy poverty crisis.Angelo Campus is the founder and CEO of BoxPower Inc., which is quite literally power in a box.
+The renewable energy startup company provides off-grid communities with affordable, portable microgrid infrastructures in shipping containers.
+Princeton Grads' Energy Startup Provides Power To Native Americans Protesting Oil Pipeline
+In mid-August BoxPower, a renewable energy startup, responded delivering one of their off-grid system units to support the Ramapough Lenape Tribe’s cause by powering their campsite. BoxPower’s renewable energy system is self-contained within a 20ft. shipping container, and designed to be easily transported and quickly deployed to off-grid sites. Each unit has the capacity to distribute renewable energy to up to five households, and consists of a pre-assembled solar array, wind power unit, bio-diesel generator, and batteries for storage.
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/partner-with-us
+
+Please fill out the following form to learn more about channel and referral partnership opportunities with BoxPower. We will contact you shortly.
+Expand your business opportunities with shared leads and co-marketing initiatives.
+Leverage our modular microgrid platform to deliver cutting-edge energy solutions to your clients.
+Benefit from competitive partner incentives and revenue-sharing programs.
+Collaborate with our turnkey solutions to complement your service offerings seamlessly.
+Work with a team that has a proven track record in energy innovation, with 40+ deployments and counting.
+Strengthen your market presence by aligning with BoxPower’s trusted brand and scalable solutions.
+We work with a variety of partners to transform the energy industry through collaboration and innovation.
+BoxPower works across diverse industries, ensuring that our microgrid solutions deliver meaningful impact wherever they’re deployed.
+Enhancing grid resilience and reducing costs with modular, scalable microgrids.
+Empowering businesses with reliable energy solutions for critical facilities and portfolios.
+Supporting public sector resilience with turnkey microgrid systems for essential services.
+Promoting energy sovereignty and sustainability with tailored microgrid solutions.
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/start-consultation
+
+To request more information from BoxPower, please fill out the following form. We will contact you to discuss the best microgrid solution for your needs.
+Please provide the precise address, Google Maps link, coordinates, etc. of your proposed project site.
+By submitting this form, you agree to our Notice of Collection.
+
+--------------------------------------------------------------------------------
+
+URL: https://boxpower.io/legal/notice-at-collection
+
+We collect personal information that you provide, such as your name, work email address, phone number, job title, and company affiliation.
+We use this information to:
+We may share your information with our service providers (such as CRM, email, and analytics providers) solely to support our business purposes. We do not sell your personal information.
+For more details about the categories of personal information we collect, how we use it, and your privacy rights under California law, please review our Privacy Policy.
+
+--------------------------------------------------------------------------------
+
+URL: https://Procurement@Boxpower.io/
+
+BoxPower offers turnkey solar microgrid solutions for off-grid and grid-tied applications. We specialize in project development, system design and engineering, installation, monitoring and reporting, and operations and maintenance for integrated solar, battery, and backup generator systems.
+Starting with an energy audit using BoxPower’s EASI software, we configure a microgrid solution tailored to your exact needs.
+BoxPower's microgrid platform delivers pre-engineered systems designed for resiliency and reliability even in the harshest conditions.
+BoxPower offers lifetime operation and maintenance support. We optimize systems with remote monitoring and control capabilities.
+Identify a portfolio of sites with EASI and leverage BoxPower’s program development expertise to deploy standardized microgrids at scale.
+BoxPower brings utility-grade expertise and modular solutions to deliver resilient power in the most challenging energy environments.
+Deploy standardized microgrids with prefabricated, pre-tested systems that eliminate design and construction delays.
+Pre-engineered hardware and automated design software reduce cost overruns, permitting delays, and site-specific surprises.
+Enable VPP participation, avoid capex-heavy grid upgrades, and monetize resilience through targeted microgrid programs.
+Support off-grid, grid-tied, and hybrid deployments with modular kits adaptable to remote, urban, and critical load environments.
+Built for extreme conditions — from wildfire zones to sub-zero climates — BoxPower systems maintain uptime where others can’t.
+Enable centralized fleet monitoring, local maintenance, and remote diagnostics to simplify long-term system performance.
+40+ rural businesses & communities rely on BoxPower microgrids
+Brian Hirsch
+DeerStone Consulting in remote Alaska
+MWh generated
+Pounds of CO2 offset
+Lives impacted
+Reliability on utility operated sites
+
+--------------------------------------------------------------------------------
+
+URL: https://Procurement@Boxpower.io/projects
+
+California
+Alaska
+End-to-end microgrid deployment services
+Modular microgrid platform
+3.8 to 60 kW of solar PV
+20 kW of solar PV
+Energy Audit and System Integration Software
+Operations and Maintenance Services
+
+--------------------------------------------------------------------------------
+
+URL: https://Procurement@Boxpower.io/services
+
+BoxPower offers turnkey solar microgrid solutions for off-grid and grid-tied applications. We specialize in project development, system design and engineering, installation, monitoring and reporting, and operations and maintenance for integrated solar, battery, and backup generator systems.
+Starting with an energy audit using BoxPower’s EASI software, we configure a microgrid solution tailored to your exact needs.
+We configure your microgrid from our pre-engineered products and rapidly deploy systems on-site in a matter of days.
+BoxPower offers lifetime operation and maintenance support. We optimize systems with remote monitoring and control capabilities.
+Identify a portfolio of sites with EASI and leverage BoxPower’s program development expertise to deploy standardized microgrids at scale.
+Every successful project starts with a strong foundation. BoxPower’s project development services include preliminary engineering, feasibility studies, and financial modeling to ensure your microgrid is optimized for cost, performance, and reliability. Leveraging our EASI platform, we analyze site-specific conditions, streamline decision-making, and accelerate timelines.
+BoxPower’s prefabricated microgrid systems are assembled and tested offsite, ensuring efficient, high-quality deployment. Our team manages every aspect of procurement, microgrid assembly, and on-site installation, minimizing disruption and ensuring compliance with safety and performance standards.
+BoxPower offers comprehensive O&M services to keep your microgrid running smoothly for years to come. Our remote monitoring, proactive maintenance, and automated diagnostics ensure that your system operates at peak performance with minimal downtime.
+At BoxPower, we bring decades of experience and a track record of success to every project. From concept to commissioning, our team of subject matter experts delivers innovative solutions that simplify complexity, maximize efficiency, and ensure reliability.
+Deployed 40+ microgrids in the most challenging environments.
+From planning to operations, we handle every step.
+Supporting local communities with training and job creation.
+99.9% uptime guaranteed, even in extreme conditions.
+DeerStone Consulting, Remote Alaska
+
+--------------------------------------------------------------------------------

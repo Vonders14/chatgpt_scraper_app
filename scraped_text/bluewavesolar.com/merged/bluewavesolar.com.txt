@@ -1,0 +1,47 @@
+ROOT: https://bluewavesolar.com/
+SCRAPED_AT_UTC: 2026-02-11T19:51:52.947777Z
+PAGES_INCLUDED: 2
+
+================================================================================
+
+URL: https://bluewavesolar.com/
+
+Solar Development
+We work at the forefront of responsible solar development. Partner with us to develop innovative utility-scale solar.
+Learn More-
+Dual-Use
+Learn how our team pairs sustainable agriculture with sustainable energy.
+-
+How It Works
+Learn about the process of developing utility scale solar.
+
+--------------------------------------------------------------------------------
+
+URL: https://bluewavesolar.com/bw-resources
+
+-
+Press
+BlueWave Announces Patty DiOrio as Chief Development Officer
+BlueWave welcomes Patty DiOrio to lead the company's expanding solar and storage portfolio and drive its mission to accelerate the clean energy transition.
+-
+Press
+BlueWave Announces Closing of $247 Million Credit Facilities to Support Growing Operations
+New funding made possible by KeyBank, National Bank of Canada and Canadian Imperial Bank of Commerce, the New York branch, will support BlueWave’s rapidly expanding business operations
+-
+Press
+BlueWave Announces Leadership Transition
+Co-Founder and longtime Chief Executive Officer Trevor Hardy to retire; BlueWave welcomes Sean Finnerty, accomplished executive with more than 25 years of renewable energy development and operations experience
+-
+Press
+BlueWave 2024 Impact Report Showcases Project Milestones and Community Commitment
+Rooted in purpose, BlueWave advances its positive influence through responsible development and operation of renewable energy facilities and service-oriented corporate initiatives.
+-
+Press
+BlueWave Secures $118.2 Million Debt and Tax Equity Raise to Support Maine Solar Portfolio
+The financing, sourced from City National Bank and First American Commercial Bancorp, is helping BlueWave advance its Maine project portfolio, bringing community solar to local residents and businesses
+-
+Press
+BlueWave Unveils Portfolio of Projects Expanding Agrivoltaics Work and Providing Greater Access to Clean Energy for the Commonwealth
+The portfolio features five projects across the state which allow for uninterrupted farming operations and animal grazing
+
+--------------------------------------------------------------------------------

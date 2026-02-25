@@ -1,0 +1,31 @@
+ROOT: https://konarka.com/
+SCRAPED_AT_UTC: 2026-02-11T20:16:30.384924Z
+PAGES_INCLUDED: 1
+
+================================================================================
+
+URL: https://konarka.com/
+
+Setting the standard in low glare, secondary and linear optics, lenses and reflectors.
+Optical Intelligence™ for Global Markets
+Secondary Optics
+Linear Optics
+Industry leading range of optical profiles and aluminum extrusions for lighting markets.
+Light Guides
+Comprehensive platform of solutions for edge lighting applications in various markets.
+Optical Films
+Wide range of optical films, sheet and materials solutions for demanding OEM applications.
+Optical Sheet
+High performance surface and volume-based diffusion products with advanced beam control.
+SmartBeam®
+Innovative patented optical systems approach delivering controlled specification-grade lighting distributions and colors. Additional patent-pending innovations for electrical beam shaping for active in-field lighting control, including human-centric, circadian and bio-spectral technologies.
+Our
+Technology
+Patented optics, advanced materials and LED technology offering tightly controlled lighting
+Our SmartOptics® range of optical components covers all the major optical functions (collimation, beam spreading, reflection, diffusion, light guiding etc.) required by LED lighting product designers aiming to deliver specification-grade lighting distributions.
+Based upon unique SmartBeam® technology; a key feature of the SmartBeam™ Family is that it delivers glare-free, comfortable illumination in a wide range of beam distributions while achieving high efficacy, energy-saving performance.
+100% controlled lighting exactly to your specification
+Join Our Team!
+Imagine becoming one of the Bright Minds at Fusion Optix; revolutionizing the way people light their lives. Utilizing a uniquely differentiated and patented technology platform, we enable the world’s leading lighting companies to bring radically new products to market.
+
+--------------------------------------------------------------------------------

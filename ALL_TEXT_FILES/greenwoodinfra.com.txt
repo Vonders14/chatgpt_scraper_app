@@ -1,0 +1,660 @@
+ROOT: https://greenwoodinfra.com/
+SCRAPED_AT_UTC: 2026-02-11T20:11:10.788976Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://greenwoodinfra.com/
+
+| Cookie | Duration | Description |
+|---|---|---|
+| cookielawinfo-checkbox-analytics | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics". |
+| cookielawinfo-checkbox-functional | 11 months | The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional". |
+| cookielawinfo-checkbox-necessary | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary". |
+| cookielawinfo-checkbox-others | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other. |
+| cookielawinfo-checkbox-performance | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance". |
+| viewed_cookie_policy | 11 months | The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. |
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/projects-under-development/
+
+GSI is actively developing sustainable energy projects across the U.S. including New York, Massachusetts, Vermont, Florida, Minnesota, Michigan, Colorado, Illinois, New Mexico, Pennsylvania, and Washington, as well as Alberta, in Canada.
+Over 60 projects in the United States
+GSI has a proven track record of success in developing solar and battery storage projects across North America. Our portfolio of over 60 projects includes a diverse range of technologies and applications.
+Over 2.4 GW of development pipeline
+GSI has an impressive development pipeline with a total capacity of over 2.4 GW of renewable energy projects across the United States and Canada. Our pipeline includes projects at various stages of development, from initial feasibility studies to advanced stages of construction.
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies. Read More
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+Cookie
+Duration
+Description
+cookielawinfo-checkbox-analytics
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
+cookielawinfo-checkbox-functional
+11 months
+The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
+cookielawinfo-checkbox-necessary
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
+cookielawinfo-checkbox-others
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
+cookielawinfo-checkbox-performance
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
+viewed_cookie_policy
+11 months
+The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/team/
+
+Who We Are
+With over two decades experience in the renewable and sustainable investment industry, GSI’s management team is adept at developing efficient, effective, and essential renewable energy projects nationwide. We have the technical, legal, and financial expertise to invest in projects at any phase of the life cycle, and in any layer of the capital stack. Our team has more than 45 employees, including skilled energy developers, engineers, lawyers and senior executives.
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/about/
+
+INDEPENDENT POWER PRODUCER FOCUSED ON SOLAR AND BATTERY STORAGE ASSETS
+Greenwood Sustainable Infrastructure (GSI) is a renewable energy company focused on the development, construction and operation of distributed generation and utility-scale solar energy and battery storage projects in North America. Established in 2010, the company has developed approximately 388 MW DC across 82 renewable energy projects, many of which are still owned or operated by GSI. Combining technical, financial, and operational expertise, GSI successfully executes transactions that create both scale and value.
+GSI’s project footprint consists of 11 U.S. states, which include New York, Massachusetts, Vermont, Florida, Minnesota, Michigan, Colorado, Illinois, New Mexico, Pennsylvania, and Washington, as well as Saskatchewan and Alberta in Canada.
+Our team is highly skilled in the development, acquisition, capitalization, and operation of solar and battery storage across a wide range of complexities and geographies. The enhanced development capabilities of our team will provide a platform for further growth in the years ahead.
+The team is actively developing a 2.4-gigawatt (GW) pipeline of solar and battery storage projects, which includes large utility scale projects as well as community solar. This also represents the next step in our strategic goal to grow our pipeline to the 5 GW mark of clean power by 2029.
+Greenwood Sustainable Infrastructure is the North American renewable energy subsidiary of Libra Group, a privately owned, global business group with assets and operations in nearly 60 countries. Libra encompasses 20 operating businesses predominately focused on aviation, renewable energy, maritime, real estate, hospitality, and diversified investments. The Group applies the strength of its global network and capabilities to deliver cross-sector insights and growth at scale, while mitigating risk.
+Libra Group’s global energy interests include an extensive portfolio of distributed generation and grid-connected solar energy parks and wind farms in Europe and the Americas. Libra companies also have experience in biogas production, biomass power generation, cogeneration plants, and waste-to-energy based fuels. GSI’s sister companies within the Libra ecosystem are Greenwood Energy, in Central and South America, Euro Energy in Central and Southeastern Europe, and Convergen Latvia with operations in Eastern Europe.
+To learn more about Libra Group, visit www.libra.com.
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/About
+
+INDEPENDENT POWER PRODUCER FOCUSED ON SOLAR AND BATTERY STORAGE ASSETS
+Greenwood Sustainable Infrastructure (GSI) is a renewable energy company focused on the development, construction and operation of distributed generation and utility-scale solar energy and battery storage projects in North America. Established in 2010, the company has developed approximately 388 MW DC across 82 renewable energy projects, many of which are still owned or operated by GSI. Combining technical, financial, and operational expertise, GSI successfully executes transactions that create both scale and value.
+GSI’s project footprint consists of 11 U.S. states, which include New York, Massachusetts, Vermont, Florida, Minnesota, Michigan, Colorado, Illinois, New Mexico, Pennsylvania, and Washington, as well as Saskatchewan and Alberta in Canada.
+Our team is highly skilled in the development, acquisition, capitalization, and operation of solar and battery storage across a wide range of complexities and geographies. The enhanced development capabilities of our team will provide a platform for further growth in the years ahead.
+The team is actively developing a 2.4-gigawatt (GW) pipeline of solar and battery storage projects, which includes large utility scale projects as well as community solar. This also represents the next step in our strategic goal to grow our pipeline to the 5 GW mark of clean power by 2029.
+Greenwood Sustainable Infrastructure is the North American renewable energy subsidiary of Libra Group, a privately owned, global business group with assets and operations in nearly 60 countries. Libra encompasses 20 operating businesses predominately focused on aviation, renewable energy, maritime, real estate, hospitality, and diversified investments. The Group applies the strength of its global network and capabilities to deliver cross-sector insights and growth at scale, while mitigating risk.
+Libra Group’s global energy interests include an extensive portfolio of distributed generation and grid-connected solar energy parks and wind farms in Europe and the Americas. Libra companies also have experience in biogas production, biomass power generation, cogeneration plants, and waste-to-energy based fuels. GSI’s sister companies within the Libra ecosystem are Greenwood Energy, in Central and South America, Euro Energy in Central and Southeastern Europe, and Convergen Latvia with operations in Eastern Europe.
+To learn more about Libra Group, visit www.libra.com.
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/Operating Assets
+
+GSI has a wide presence across the United States with a strong focus on renewable energy projects. Our operating footprint covers multiple regions in the United States, allowing us to leverage our expertise and resources to bring sustainable energy solutions to a broad range of communities.
+Over 70 sustainable infrastructure projects in operation
+GSI has successfully completed over 70 sustainable infrastructure projects in the United States, delivering renewable energy solutions that have a positive impact on the environment and the communities in which they operate.
+Over 388 MW DC developed and built
+GSI has delivered 388 MW DC of renewable energy projects across the United States with a focus on cost-effectiveness, reliability, and sustainability. Our expert team handles complex projects from planning and development to construction and commissioning.
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies. Read More
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+Cookie
+Duration
+Description
+cookielawinfo-checkbox-analytics
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
+cookielawinfo-checkbox-functional
+11 months
+The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
+cookielawinfo-checkbox-necessary
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
+cookielawinfo-checkbox-others
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
+cookielawinfo-checkbox-performance
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
+viewed_cookie_policy
+11 months
+The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/News
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies. Read More
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+Cookie
+Duration
+Description
+cookielawinfo-checkbox-analytics
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
+cookielawinfo-checkbox-functional
+11 months
+The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
+cookielawinfo-checkbox-necessary
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
+cookielawinfo-checkbox-others
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
+cookielawinfo-checkbox-performance
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
+viewed_cookie_policy
+11 months
+The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/operating-assets/
+
+GSI has a wide presence across the United States with a strong focus on renewable energy projects. Our operating footprint covers multiple regions in the United States, allowing us to leverage our expertise and resources to bring sustainable energy solutions to a broad range of communities.
+Over 70 sustainable infrastructure projects in operation
+GSI has successfully completed over 70 sustainable infrastructure projects in the United States, delivering renewable energy solutions that have a positive impact on the environment and the communities in which they operate.
+Over 388 MW DC developed and built
+GSI has delivered 388 MW DC of renewable energy projects across the United States with a focus on cost-effectiveness, reliability, and sustainability. Our expert team handles complex projects from planning and development to construction and commissioning.
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies. Read More
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+Cookie
+Duration
+Description
+cookielawinfo-checkbox-analytics
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
+cookielawinfo-checkbox-functional
+11 months
+The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
+cookielawinfo-checkbox-necessary
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
+cookielawinfo-checkbox-others
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
+cookielawinfo-checkbox-performance
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
+viewed_cookie_policy
+11 months
+The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/news/
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies. Read More
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+Cookie
+Duration
+Description
+cookielawinfo-checkbox-analytics
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
+cookielawinfo-checkbox-functional
+11 months
+The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
+cookielawinfo-checkbox-necessary
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
+cookielawinfo-checkbox-others
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
+cookielawinfo-checkbox-performance
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
+viewed_cookie_policy
+11 months
+The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/capabilities/
+
+GREENWOOD SUSTAINABLE INFRASTRUCTURE IS A SOLAR AND STORAGE DEVELOPER AND OWNER/OPERATOR WITH GREENFIELD DEVELOPMENT, CONSTRUCTION MANAGEMENT, FINANCE, AND ASSET MANAGEMENT EXPERTISE.
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies. Read More
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+Cookie
+Duration
+Description
+cookielawinfo-checkbox-analytics
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
+cookielawinfo-checkbox-functional
+11 months
+The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
+cookielawinfo-checkbox-necessary
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
+cookielawinfo-checkbox-others
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
+cookielawinfo-checkbox-performance
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
+viewed_cookie_policy
+11 months
+The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/landowners/
+
+Your Land, Our Expertise
+The choices you make today set the foundation for tomorrow. Partner with GSI to transform your underutilized, vacant or environmentally impacted land into a thriving renewable energy project.
+With a proven track record of over 40 operational projects, GSI brings unmatched expertise to every step of the development and construction process. From concept to completion, we turn possibilities into reality, creating sustainable solutions that benefit you and your land.
+Let’s build a greener future – together.
+Why Host a Project?
+-
+- Enjoy consistent, long-term, annual lease payments.
+- Let’s co-exist! Renewable energy projects are designed to co-exist with your land, allowing you to maintain other agricultural or conservation practices.
+- Support clean energy by contributing to your state’s sustainability goal.
+- Turn unused space into a revenue generating, renewable energy powerhouse by hosting a solar project on your brownfield or landfill site.
+Let your land work harder for you – generate income, protect the environment, and secure a legacy of sustainability.
+Project Roadmap
+Frequently Asked Questions
+Safety
+Q: Does a solar project have a negative impact on my land or livestock?
+A: A well-managed solar project has minimal to no negative impact on land or livestock. Solar panels are passive structures that do not emit harmful chemicals or noises. In addition, solar farms are designed to safely co-exist with livestock. Many farms allow grazing beneath solar panels, which can benefit both land and animals by providing shade and maintaining vegetation.
+Project Schedule
+Q: What is a standard construction timeline for a solar project?
+A: Development and construction timelines vary based on project size, location, site conditions, regulatory requirements and weather conditions during construction. Typically, the development phase, which includes time required to perform due diligence and secure state and municipal permits, will require 18-36 months. Construction will range from approximately 6-months for a 5MW project or closer to 12-months for a 100MW project.
+Maintenance
+Q: Who will be responsible for managing and maintaining this project during operation?
+A: GSI is responsible for managing and maintaining all projects. GSI has a dedicated Operations & Maintenance (O&M) team responsible for the ongoing maintenance of the solar equipment ensuring efficient operation and addressing any technical issues. Our team is also responsible for re-vegetation and weed management.
+Stewardship of the Land
+Q: Will my land be protected during and after the full life cycle of this project?
+A: Stewardship of your land is our #1 priority. To ensure adequate protection of your land, GSI prides itself in being a reputable company that implements best practices to minimize land disturbance and preserve soil health and local ecosystems. A comprehensive decommissioning plan is necessary and at the end of the project lifecycle, it will serve as a guide for our team in the removal process of all solar equipment to ensure the land is returned to its original state.
+Financial
+Q: What is the lease term and monetary consideration?
+A: The operation period is 20+ years with the possibility of extending this period for an additional 10-20 years. Landowners typically receive annual lease payments, structured as a per acre rate, depending on location, market rates and project size. The lease rate will be influenced by your site’s location, the local utility interconnection costs, on-site land features, federal tax incentives, and local state renewable energy policies. With your site details, we can analyse these considerations and provide a financial offer quickly.
+Benefits of Solar Power
+Q: Who benefits from the energy produced once the solar project is up and running?
+A: The benefits from solar energy production extend to many stakeholders. Utility companies purchase the power to distribute to their customers and benefit from power generation supply diversity and less reliance on volatile pricing of fossil fuels. Communities benefit from locally generated clean energy, job creation during construction and operation, property tax revenue, and enhanced grid reliability.
+Interested in leasing your land?
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/careers/
+
+Junior Finance Analyst
+GSI is looking for a Junior Finance Analyst who is passionate about the renewable energy business, hardworking, and thrives in the fast pace of a rapidly growing company.
+To view an in-depth job description, click here.
+To apply on ZipRecruiter, visit the following link: bit.ly/4r5t5tH
+You can also send your application to hr@greenwoodinfra.com
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/contact/
+
+Contact Greenwood Sustainable Infrastructure
+Executive Offices
+New York Office
+134 East 40th Street
+New York, NY 10016
+Executive Offices
+Ontario Office
+14 Erb St. W, Suite 1003
+Waterloo, ON N2L 1S7
+134 East 40th Street
+New York, NY 10016
+14 Erb St. W, Suite 1003
+Waterloo, ON N2L 1S7
+| Cookie | Duration | Description |
+|---|---|---|
+| cookielawinfo-checkbox-analytics | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics". |
+| cookielawinfo-checkbox-functional | 11 months | The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional". |
+| cookielawinfo-checkbox-necessary | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary". |
+| cookielawinfo-checkbox-others | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other. |
+| cookielawinfo-checkbox-performance | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance". |
+| viewed_cookie_policy | 11 months | The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. |
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/legal/
+
+Legal
+1. APPLICATION OF THIS POLICY
+This Privacy and Cookie Policy applies to personal data controlled and/or processed by Greenwood Sustainable Infrastructure LLC: Corporation Services Company, 2711 Centerville Road, Suite 400, Wilmington, Delaware, 19808, USA.
+It includes the following:
+- The terms on which we process personal data contributed via this website (“the Site”); and
+- Information on the cookies used on the Site.
+2. PERSONAL DATA
+In this Policy, the term “personal data” means any information or combination of information that could be used to identify a living individual.
+3. WHAT INFORMATION DO WE COLLECT?
+3.1 We collect and process various items of information that you provide to us. These may include:
+- Personal contact details such as name, address, telephone number and e-mail address;
+- Your preferences regarding information and events;
+- Your personal and/or employment history, specialties and experience;
+- Your social media accounts and related links;
+- Your connections with Greenwood Sustainable Infrastructure LLC and other companies within the Libra Group.
+3.2 We may collect information from other sources in order to ensure that your personal information is accurate and kept up to date. This data may be combined with other information that we collect and use for the purposes described in this Policy.
+3.3 We also collect certain types of information automatically, such as your Internet Protocol (IP) address or device identifier, your device’s operating system, browser type, websites visited before or after you visit the Site, pages viewed and activities at the Site.
+3.4 This information is collected directly from you, as well as through third parties that you have authorized to provide such information.
+4. HOW DO WE USE YOUR PERSONAL DATA?
+4.1 We may use your personal data for a variety of purposes, including:
+- To provide services that you request;
+- To communicate with you;
+- To deliver information about us and the work we do, as well as about other members of the Libra Group;
+- To improve our websites and services; and
+- For other legitimate business purposes explained below.
+4.2 We may send you marketing emails on topics which we think may be of interest to you. We will always offer you an “opt-out” option, which you may use at any time you wish to cease receiving e-mails or other information from us.
+5. TO WHOM DO WE DISCLOSE YOUR PERSONAL DATA?
+5.1 We may disclose your information to:
+- Other companies connected with us; and
+- Companies we have engaged to provide services on our behalf, under conditions of confidentiality.
+5.2 We may also need to disclose your information for the following purposes:
+- To comply with the law or respond to lawful requests from government or regulatory agencies;
+- Where we have reason to believe that disclosure is necessary to protect the safety of our staff, customers or the public.
+5.3 Please note that the Site may include links to third party websites whose privacy practices may differ from our own. If you submit personal information to any of those websites, your information is governed by the privacy policies on those websites. We encourage you to review the privacy policy of any website you visit.
+6. HOW LONG DO WE STORE YOUR INFORMATION?
+We retain and store your personal data only for as long as we have a legitimate business purpose to do so and in accordance with our data retention policies.
+7. YOUR RIGHTS
+7.1 You have the following rights in relation to your personal data:
+- The right of access to your personal data
+- The right of rectification of inaccurate data;
+- The right of erasure of your personal data where there is no longer any legitimate basis for processing it (sometimes known as the “right to be forgotten”); and
+- (in the circumstances provided for in applicable law) the right to restrict processing, object to processing, and the right to data portability.
+7.2 Where the processing of your personal data is based on your consent, you have the right to withdraw consent at any time, without affecting the lawfulness of processing based on your consent before its withdrawal.
+7.3 If you wish to exercise any of the rights set out above, please contact info@greenwoodinfra.com.
+7.4 Under data protection law in certain countries, including the UK and EU Member States, you have the right to lodge complaints about the processing of your personal data with a data protection supervisory authority.
+8. COOKIES
+8.1 The Site uses “cookies” to ensure the best possible experience for the user. Information provided by the user is stored and packaged into a cookie which will then be sent to your web browser for later use.
+What are cookies?
+8.2 Cookies are pieces of information stored in your hard drive by the web server of the visited website. The server provides the browser with a cookie to save. They are used to make browsing the internet an easier experience. Cookies do not contain any information that personally identifies you, but personal information that we store about you may be linked, by us, to the information stored in and obtained from cookies.
+What are the types of cookies?
+8.3 Cookies may be:
+Session cookies: These are used while the user is browsing. The cookies will be deleted once the session is over.
+Third party cookies: These cookies are set by the visited site only.
+Permanent cookies: These cookies do not get deleted even when the browser is closed. They are used to store the user’s preferences for later use.
+For more information about cookies, please see the Interactive Advertising Bureau’s website: http://www.allaboutcookies.org.
+How do we use cookies?
+“Strictly necessary” cookies
+8.4 We use some cookies for purposes which are strictly necessary for your use of the Site. These may include, for example, cookies which remember your preferences and settings; which remember information that you may enter online (so that it does not have to be re-entered every time you move to another page); or which keep you logged in to portals that we may offer where you wish this to happen.
+Performance cookies
+8.5 Where you have permitted the use of performance cookies, we use Google Analytics to analyse the use of the Site. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. These cookies collect information such as your IP address or other identifiers, browser information, and information about the content you view and interact with to record how you use the Site. The information generated helps us to know how many users we have, which parts of the Site are most popular, what browsers are used (so we can maximize compatibility), the country or region where our users are located, and the demographics and interests of our users. This enables us to better understand who is using the Site and to improve how we present content.
+Google will store this information. Google’s privacy policy is available at: http://www.google.com/privacypolicy.html. Google Analytics cookies may retain information for up to two years. For more information about Google Analytics services, please click here.
+Managing Cookies
+8.6 When you first visit the Site you will be presented with a banner which offers you a choice about whether to accept or reject cookies of different types, with the exception of those cookies which are strictly necessary for a particular service.
+If you wish to amend your choice at any time, you can do so using the button below.
+Cookie SettingsManaging Cookies and Local Storage on Your Device
+8.7 If you wish, you can also choose how web browser cookies are handled by your device via your browser settings. Some devices allow you to control this through your device settings. If you choose not to receive cookies at any time, websites may not function properly and certain services will not be provided. Each browser and device is different, so check the settings menu of the browser or device to learn how to change your settings and cookie preferences.
+9. CHANGES TO THIS POLICY
+We may update this Policy from time to time, so please visit this page periodically, and review the Policy for changes.
+10. HOW CAN YOU CONTACT US?
+You may contact us at the address shown above or alternatively by email to info@greenwoodinfra.com.
+DISCLAIMER
+We make information available on this site for information purposes only. No liability of any kind is accepted to users of the site.
+While we endeavor to ensure that information on the site is correct and updated, we do not warrant its accuracy and completeness. We may make changes to the material on this site at any time without notice (including to these terms and conditions). You should take appropriate steps to verify any information before acting on it.
+The services and information on this site should not be deemed to constitute financial advice for investment or trading purposes or an offer or invitation to sell investments in any jurisdiction.
+We sometimes provide links to other websites (including those of our contractual partners). If you use links to third-party websites on this website you will leave this website. We do not control and are not responsible for these websites or their content or availability. Accordingly, we do not make any representations about them, or any material found there, or any results that may be obtained from using them. If you decide to access any of the third-party websites linked to this site, you do so entirely at your own risk.
+Materials on this Site may only be reproduced in their entirety (without modification) for the individual reader’s personal and/or educational use and must include this notice.
+COPYRIGHT
+© Greenwood Sustainable Infrastructure LLC. 2023. All rights reserved.
+LEGAL STATUS
+Greenwood Sustainable Infrastructure LLC is a limited liability company organized in the State of Delaware.
+
+--------------------------------------------------------------------------------
+
+URL: https://info@greenwoodinfra.com/
+
+| Cookie | Duration | Description |
+|---|---|---|
+| cookielawinfo-checkbox-analytics | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics". |
+| cookielawinfo-checkbox-functional | 11 months | The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional". |
+| cookielawinfo-checkbox-necessary | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary". |
+| cookielawinfo-checkbox-others | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other. |
+| cookielawinfo-checkbox-performance | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance". |
+| viewed_cookie_policy | 11 months | The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. |
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/tss-financing/
+
+Waterloo, ON — Greenwood Sustainable Infrastructure (GSI), the North American renewable energy subsidiary of Libra Group, has successfully closed a construction-to-term and Investment Tax Credit (ITC) bridge financing for its 100 MWac Turning Sun Solar Project, marking a significant milestone in the execution of its development portfolio.
+The financing, arranged in partnership with The Ocean Man First Nation and led by Royal Bank of Canada (RBC) and Desjardins Group, underscores GSI’s ability to originate, structure, and close complex project finance solutions, while advancing long-term, partnership-driven infrastructure assets that generate stable, contracted cash flows and support continued portfolio growth.
+This financing brings together more than CAD $200 million in private and public capital to support the project’s development, construction, and long-term operations, highlighting GSI’s ability to execute large-scale, complex renewable energy financings. The project directly supports Canada’s national objectives to accelerate renewable energy deployment, strengthen energy security, and advance economic reconciliation with Indigenous communities.
+The financing was led by RBC, acting as Administrative Agent, Green Loan Structuring Agent, Coordinating Lead Arranger and Lender. Desjardins Group acted as Coordinating Lead Arranger and Lender to support the project’s financing needs.
+The Turning Sun Solar Project is a 100MWac/129MWdc utility-scale solar facility located in the traditional territory of the Ocean Man Nakoda, and Rural Municipality of Estevan, in Saskatchewan, Canada. The project will operate under a 25-year Power Purchase Agreement (PPA) with SaskPower, Saskatchewan’s primary energy provider.
+Road construction on Turning Sun Solar began in Q4 2025, with leading construction firm Barton Malow as the Engineering Procurement and Construction (EPC) contractor for the project, which will follow an 18-month build schedule.
+“Reaching financial close on the Turning Sun Solar Project is a testament to our team’s dedication and the trust placed in us by our partners at RBC Bank and Desjardins Group,” said Mazen Turk, CEO of GSI. “This achievement not only strengthens our commitment to renewable energy but also reinforces our mission to deliver reliable, sustainable power to communities across Canada. We look forward to continuing our work with RBC and Desjardins Group and other partners to bring this transformative project to life.”
+“RBC is proud to support projects like Turning Sun Solar that advance reliable, sustainable power across the country,” said Demetra Streda, Senior Vice President & Group Head, Corporate Client Group, Royal Bank of Canada. “By working alongside GSI, the Ocean Man First Nation, and Desjardins Group, we are helping bring critical renewable energy infrastructure to market while supporting long-term economic and community benefits. This work reflects our commitment to enabling the transition to a low-carbon economy by partnering with communities and clients to bring impactful, sustainable energy projects to life.”
+“As an industry leader in sustainable financing, Desjardins is proud to have acted as the Coordinating Lead Arranger for Turning Sun Solar, our first renewable project in Saskatchewan. This deal demonstrates our ability to structure innovative financial solutions in support of large-scale projects that are driving the energy transition and contributing to local economies. We’re going to continue putting that expertise to work with our partners so we can keep building a prosperous, responsible future together,” said Jean-Yves Bourgeois, Executive Vice-President of Business Services, Desjardins Group
+“The financial close for the Turning Sun Solar Project marks a truly historic day for the Ocean Man First Nation,” said Chief Ernest Standingready. “This milestone is a powerful demonstration of our community’s commitment to self-sufficiency and sustainable economic development. By working hand-in-hand with GSI, RBC, and Desjardins, we are not just building one of Canada’s largest solar facilities; we are building a legacy of clean energy, job creation, and environmental stewardship for our children and future generations.”
+“Reaching financial close on the Turning Sun Solar Project is a significant milestone and a strong example of what can be achieved through long-term, collaborative partnerships,” said Camilo Patrignani, Head of Infrastructure at Libra Group. “By working closely with Ocean Man First Nation, Desjardins, and RBC, GSI is advancing a critical project that delivers clean energy while supporting local economic development and community priorities. This project reflects Libra Group’s commitment to building sustainable infrastructure that creates lasting value.”
+About Greenwood Sustainable Infrastructure
+Greenwood Sustainable Infrastructure (GSI) is one of the clean energy subsidiaries of Libra Group. GSI is a renewable energy company focused on the development, construction, and operation of distributed generation and utility-scale solar energy and battery storage projects in North America. As of 2025, the company has developed approximately 581 MWdc across 82 renewable energy projects, many of which are still owned or operated by GSI and have an additional project pipeline of 3.5 GW under development. GSI’s seasoned team has a proven track record of investing in power assets and partnering with multiple top-tier investors.
+About RBC
+Royal Bank of Canada is a global financial institution with a purpose-driven, principles-led approach to delivering leading performance. Our success comes from the 100,000+ employees who leverage their imaginations and insights to bring our vision, values and strategy to life so we can help our clients thrive and communities prosper. As Canada’s biggest bank and one of the largest in the world, based on market capitalization, we have a diversified business model with a focus on innovation and providing exceptional experiences to our more than 19 million clients in Canada, the U.S. and 27 other countries. Learn more at rbc.com. We are proud to support a broad range of community initiatives through donations, community investments and employee volunteer activities. See how at rbc.com/peopleandplanet.
+About Desjardins Group
+Desjardins Group is the largest cooperative financial group in North America and the sixth largest in the world, with assets of $511.9 billion as at September 30, 2025. It has been named one of the top employers in Canada by both Forbes magazine and Mediacorp. It has also been recognized as one of the World’s Best Banks in 2025 by Forbes. To meet the diverse needs of its members and clients, Desjardins offers a full range of products and services to individuals and businesses through its extensive distribution network, its online platforms, and its subsidiaries across Canada. Ranked among the world’s strongest banks according to The Banker magazine, Desjardins has one of the highest capital ratios and one of the highest credit ratings in the industry.
+About Ocean Man First Nation
+The Ocean Man First Nation is a Nakoda Government in southeast Saskatchewan. OMFN is led by Chief Ernest Standingready & Council and features a population of 580 members. Ocean Man First Nation created a renewable energy company in 2019 called Second Wind Power. The name Second Wind Power reflects Ocean Man First Nation’s history of relocating, re-establishing and starting over as a new community since 1989.
+About Libra Group
+Libra Group is a privately owned, global business group encompassing 20 businesses predominately focused on aerospace, renewable energy, maritime, real estate, hospitality, and diversified investments. With assets and operations in nearly 60 countries, the Group applies the strength of its global network and capabilities to deliver cross-sector insights and growth at scale. For more information, visit www.libra.com.
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/employee-highlight-lauryn-ostermaier/
+
+Lauryn Ostermaier
+Director of Land Acquisition
+Give us a brief overview of your role.
+I’m the Director of Land Acquisition and no two days are ever the same. Over the past year, our work in land has grown far beyond traditional green fielding, expanding into title curative efforts and complex portfolio transactions. In my role, I collaborate closely with teams across Development, Legal and Finance, working to ensure every piece of the process aligns seamlessly. I also support contract management on the administrative side and play an active role in due diligence efforts throughout project sales processes.
+Everyday brings new challenges and opportunities to problem-solve and drive results. It’s exciting to see how these efforts contribute directly to the company’s growth and success – and to work alongside a team that’s just as committed to excellence as I am.
+What is the most memorable moment you have had working for GSI?
+One of my favorite memories this year has to be our team-building event at the new office — the “GSI Olympics”! It was such a fun and engaging afternoon with teams competing in everything from Heads Up! and ping pong to Cornhole and even Nintendo games. The energy was contagious: everyone was smiling, competitive, and genuinely connecting with colleagues they don’t usually work with. It was light-hearted, lively, and easily the most fun team event I’ve experienced so far.
+What led you to a career in land acquisition and what have you found rewarding from working in the renewables sector?
+My career in land started completely by chance. While working in Economic Development for the Town of Ingersoll, I reached out to Ray Roth for a reference after applying to a role with another municipality. Instead of being a reference, he invited me to return to Saturn Power. The development team interviewed me and designed a Project Coordinator role. What was originally intended to be a development position quickly shifted to land on day one. From there, I worked hard, grew with the team, and eventually moved into management—today, I’m proud to serve as Director of Land Acquisition.
+What makes the renewable energy space so exciting is that it’s always evolving. New technologies, storage solutions, data centers, and a constantly shifting landscape keep every day interesting. The work is challenging, engaging, and full of learning opportunities, with no two days ever the same—and that’s what makes it so rewarding.
+Tell us one interesting fact about yourself that your colleagues might not know.
+I was a competitive swimmer for many years, so being in and around the water has always been a big part of my life. Beyond swimming, I absolutely love anything outdoors on the water—especially fishing and boating. Most people wouldn’t expect me to spend hours casting a line and enjoying cottage life, but that’s exactly where you’ll find me every summer. There’s something the simple joy of being on the water that’s incredibly refreshing.
+How do you spend your time outside of work?
+Most of my free time is spent cheering on my kids, Madi and Luke, in their competitive sports! My son plays AAA hockey, and my daughter competes in horseback riding, which has us traveling year-round. I’m always right there behind the camera, capturing every exciting moment. Being part of their journeys is the best part.
+What is one thing you’d like to cross off your bucket list?
+My family and I have always wanted to travel overseas so we’re officially planning a summer 2026 to Ireland with a short stop in London. This is one for the books!
+Rapid Fire Favorites
+- Movie: Back to the Future
+- TV Show: The Big Bang Theory
+- Musician/Band: Foo Fighters
+- Restaurant (City): South Coast Cookhouse (Crystal Beach, ON)
+- Food: Pizza and wings
+- Sports Team: Toronto Maple Leafs
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/gsi-seminole/
+
+New York, New York — Greenwood Sustainable Infrastructure (GSI), the North American renewable energy subsidiary of Libra Group, in partnership with Seminole Financial Services, today announced the successful refinancing of a 26MWdc solar project portfolio. This portfolio includes six unique projects located in New York, Vermont, and Florida.
+The new financing totals approximately $22 million USD and marks one of the first waves of solar project refinances of this kind for GSI. The loan is structured with a 6-year term and a 20-year amortization, maturing in 2031.
+This clean energy portfolio features standout sites including Elizabeth Mine in Vermont and the Stanton A and Stanton Landfill sites located on Orlando’s Utility Commission’s facility in Orlando, Florida, all of which were developed on former remediation sites. Additional sites in the portfolio include the Scotch Settlement Solar and the Lisbon East and West projects, all of which are located in New York State.
+“This $22 million refinancing of our solar portfolio with Seminole Financial Services is an important milestone that demonstrates the strong long-term value and bankability of solar projects.” said Mazen Turk, CEO, Greenwood Sustainable Infrastructure. “This transaction strengthens GSI’s balance sheet, while also deepening our partnership with Seminole as we work together to support the next phase of growth in the U.S. renewable energy market.”
+“By unlocking lower-cost capital on these operating assets, we’re demonstrating that well-structured, and managed solar investments continue to mature into highly attractive, low-risk infrastructure assets.” added Ahmar Zaman, CFO, Greenwood Sustainable Infrastructure.
+Chris Diaz, co-CEO of Seminole Financial Services said, “The solar refinancing market is entering an exciting phase as thousands of projects reach operational maturity. Seminole is uniquely positioned to meet this demand with our deep sector expertise and flexible capital solutions. Our work with Greenwood on this $22 million transaction is a blueprint for how we’ll continue to scale in this market.”
+About Greenwood Sustainable Infrastructure
+Greenwood Sustainable Infrastructure (GSI) is one of the clean energy subsidiaries of Libra Group. GSI is a renewable energy company focused on the development, construction, and operation of distributed generation and utility-scale solar energy and battery storage projects in North America. As of 2025, the company has developed approximately 581 MWdc across 82 renewable energy projects, many of which are still owned or operated by GSI and have an additional project pipeline of 2.4 GW. GSI’s seasoned team has a proven track record of investing in power assets and partnering with multiple top-tier investors.
+About Seminole Financial Services
+Seminole Financial Services, LLC is a specialized renewable energy investment firm providing comprehensive financing solutions for distributed generation and mid-scale solar, wind, and battery storage projects. The company focuses on market segments often underserved by large financial institutions, offering tailored financing solutions designed to support successful project development and long-term deployment. Since 2009, Seminole has provided over $3 billion in financing across more than 2 GW of renewable energy projects, underscoring its commitment to advancing clean energy infrastructure nationwide. Seminole Financial Services, LLC is the operating entity for the six companies that, collectively, comprise The Seminole Companies. For more information, visit www.seminolefs.com or contact Chris Diaz, Co-CEO, at 727-460-0578.
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/employee-highlight-sydney-gibson/
+
+Sydney Gibson
+Corporate Marketing and Communications Coordinator
+Give us a brief overview of your role.
+I am the Corporate Marketing and Communications Coordinator, where I help manage GSI’s social media and internal team communications including our bi-monthly company newsletter. I work closely with the land and development team to create and edit any promotional materials, presentations, and documents for landowners and community members.
+What is the most memorable moment you have had working for GSI?
+Throughout my time at GSI, we’ve had several great team-building events, but the one in Kitchener-Waterloo in October of last year stands out as my favorite. It was such a fun and memorable experience getting to meet so many coworkers I had only spoken to virtually and finally connect in person. The day was filled with great conversations and friendly competition – especially during the go-karting. It was such a positive experience that really strengthened our sense of teamwork and made me feel even more connected to the GSI team.
+What led you to a career in marketing and communications and what have you found rewarding from working in the renewables sector?
+I’ve always loved studying design and human behavior, but psychology didn’t feel like the right fit for me, and I wanted to pursue a career that could adapt with me as my interests and skills change. Marketing seemed like the best opportunity for me to combine what I am passionate about with a practical, ever-evolving field of business.
+Working in the renewables sector has been especially rewarding because it allows me to use those skills to make a positive impact. I’m passionate about the environment and driven by the urgency of addressing climate change, so contributing to an industry that’s creating real, measurable progress toward a cleaner and more sustainable future feels incredibly meaningful.
+Tell us one interesting fact about yourself that your colleagues might not know.
+I used to do synchronized and competitive swimming. My parents started me in swimming lessons when I was 6 months old, and it quickly grew into a lifelong love of the sport and being in the water. I don’t swim as often anymore because I haven’t had consistent access to a pool, but it is still one of my favorite hobbies.
+How do you spend your time outside of work?
+I love to go out in Toronto with my friends on the weekends and discover new restaurants and bars. Most of my other free time is spent with my family; we love TV and movies, so we are always watching something, and we also all love to cook so that makes for many amazing meals in our house.
+What is one thing you’d like to cross off your bucket list?
+I know it’s a classic response, but I would love to travel. At the top of my list is Europe – Greece, Italy, Spain, the UK, and anywhere else I could manage to get to. I was born and raised in the same place, so my dream is to branch out and see as much as I can of the rest of the world.
+Rapid Fire Favorites
+- Movie: The Final Destination Series
+- TV Show: Yellowjackets
+- Musician/Band: Noah Kahan
+- Restaurant (City): Salt Wine Bar (Toronto)
+- Food: Pasta
+- City: Ucluelet (British Columbia)
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/employee-highlight-josh-dufek/
+
+Josh Dufek
+LWEC Reliability Manager
+Give us a brief overview of your role.
+I am the Reliability Manager at L’Anse Warden Electric Company (LWEC). My primary focus is on the maintenance department at the facility, but with LWEC being a small-staffed power plant, my role expands to meet what is needed daily. I try to focus on identifying key problems in the plant and take those problems and plan the repairs to minimize cost, minimize down time, and maximize generation for years to come.
+What is the most memorable moment you have had working for GSI?
+My most memorable moment would be taking a risk and leaving everything I know to come work here. My dad always told me to focus on family, work hard, and to give 100% on everything you do. With starting at an entry level position and applying that advice and motto, I got offered an opportunity to show what I am capable of.
+What led you to a career in production and quality control and what have you found rewarding from working in the renewables sector?
+My journey to this career is a long one. I worked for 16 years for a construction company as a project manager/superintendent for building state funded road projects. I was required to be out of town, away from home, and a lot with punishing long hours. Once my wife and I started a family, it became much harder to leave. I started at LWEC as an entry level assistant operator and, through hard work, dedication, and some luck, this position found me.
+This biomass plant is unique. It has its quirks – a lot of the equipment is from the 1950s. Everyday is different and every issue or repair is unique. The job is challenging and keeps you very involved. I like to avoid the mundane, so figuring out ways to fix or make things better is rewarding.
+Tell us one interesting fact about yourself that your colleagues might not know.
+I am a low-key history buff. I enjoy reading anything about ancient history and lost civilizations. Growing up, I always wanted to be an archeologist.
+How do you spend your time outside of work?
+I love spending time with my family. I have been blessed with an amazing wife and four beautiful kids, and I love the challenges of raising them and watching them learn and grow. I am very passionate about deer hunting and fishing as well. Not only do I hunt here in Michigan, but I also travel to several other states to hunt.
+What is one thing you’d like to cross off your bucket list?
+Traveling to Italy would be amazing. That entire southern Europe region would be awesome to see.
+Rapid Fire Favorites
+- Movie: American Sniper
+- Tv Show: Game of Thrones
+- Book: Storm before the storm by Mike Duncan
+- Musician/Band: Morgan Wallen
+- Restaurant (City): The English Inn (Fish Creek, WI)
+- Food: Venison/Steak
+- Sports Team: Detroit Lions
+- City/Region: Pelkie, MI
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/employee-highlight-dan-crumrine/
+
+Dan Crumrine
+Senior Land Acquisition Specialist
+Give us a brief overview of your role.
+I am a land acquisition agent, so I work in many different US and Canadian markets and travel across the country. I engage with landowners and stakeholders to explain opportunities, build connections, and negotiate agreements such as leases and easements.
+What is the most memorable moment you have had working for GSI?
+Our recent company team-building events have been really memorable to me, especially since I live in Pittsburgh and don’t get to interact with my co-workers in person often. It has been nice to get to know everyone a little better and on a personal level. These events have truly strengthened the company culture and allow us all to feel more comfortable with each other.
+What led you to a career as a land agent and what have you found rewarding from working in the renewables sector?
+I got a geology degree in college and started working for a large service operator in the oil and gas industry. Then, I got the opportunity to do land work for a local land broker, and this is where I realized I had a knack for it. Soon after, the renewables industry started to expand very quickly and I was able to join Saturn Power, which was acquired by GSI in 2023, as a land agent. What I find exciting about the renewables sector is that it’s a very fast paced, growing industry with a lot of opportunities and investment potential.
+Tell us one interesting fact about yourself that your colleagues might not know.
+My wife and I are very excited as we’re expecting our first child – a little boy – any day now.
+How do you spend your time outside of work?
+I spend as much time as I can outdoors. I love hunting, fishing, and camping – these are my passions and what I love to do.
+What is one thing you’d like to cross off your bucket list?
+I really want to go on a moose hunting trip in Alaska.
+Rapid Fire Favorites
+- Movie: American Gangster
+- TV Show: Curb Your Enthusiasm
+- Book: American Buffalo by Steven Rinella
+- Musician: Chris Stapleton
+- Restaurant (City): Monterey Bay Fish Grotto (Pittsburgh)
+- Food: Ribeye
+- Sports Team: Pittsburgh Steelers
+- City/Region: Rocky Mountains
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/homestead-acquisition/
+
+Calgary, Alberta — Greenwood Sustainable Infrastructure (GSI) has expanded its renewable energy pipeline with the strategic acquisition of the 556 MWdc Homestead Solar Project in Alberta, Canada, from Kiwetinohk Energy (KEC).
+Ranked as one of the largest solar projects in Canada, Homestead Solar will boost GSI’s renewable energy pipeline to contain approximately 2.1 GWdc of solar development along with 340 MW of battery energy storage projects across the continent.
+Located in the Municipal District of Willow Creek, southeast of Claresholm in southern Alberta, the Homestead Solar project is one of Canada’s largest solar developments, sharing second place and ranking among North America’s top in-development solar initiatives.
+To enable the long-term success of this project, GSI will continue to collaborate with key stakeholders who have been engaged from the onset with the purpose of ensuring a seamless transition and successful execution of the Homestead project.
+“The acquisition of the Homestead Solar Project represents a significant milestone in expanding GSI’s clean energy presence within the Canadian market,” said Mazen Turk, CEO of Greenwood Sustainable Infrastructure. “With talent and perseverance at the core, the GSI team is driving our bold growth across North America’s clean energy market.
+One of the renewable energy subsidiaries of Libra Group, a global business group whose subsidiaries have assets and operations in nearly 60 countries, GSI leverages global expertise and strategic support to deliver high-impact renewable energy projects.
+Camilo Patrignani, Head of Infrastructure for Libra Group, stated, “GSI’s acquisition of the Homestead Solar Project is a testament to their leadership and our shared commitment to advancing renewable energy around the world. Supported by rigorous due diligence, risk mitigation strategies and an expert deal team, GSI is well positioned to successfully navigate this acquisition and this project’s complexities to prepare for construction.”
+About Greenwood Sustainable Infrastructure
+Greenwood Sustainable Infrastructure (GSI) is one of the clean energy subsidiaries of Libra Group. GSI is a renewable energy company focused on the development, construction, and operation of distributed generation and utility-scale solar energy and battery storage projects in North America. As of 2025, the company developed approximately 581 MWdc across 82 renewable energy projects, many of which are still owned or operated by GSI and have an additional project pipeline of 2.4 GW. GSI’s seasoned team has a proven track record of investing in power assets and partnering with multiple top-tiered investors.
+About Libra Group
+Libra Group is a privately owned, global business group encompassing 20 businesses predominately focused on aerospace, renewable energy, maritime, real estate, hospitality, and diversified investments. With assets and operations in nearly 60 countries, the Group applies the strength of its global network and capabilities to deliver cross-sector insights and growth at scale. For more information, visit www.libra.com.
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/employee-highlight-nicole-duschene/
+
+Nicole Duchesne
+Legal Counsel
+Give us a brief overview of your role.
+As Legal Counsel, I provide full-service legal support across all departments of the company. My responsibilities shift depending on what is required on any given day, whether that involves reviewing contracts, advising on land or project development, or collaborating with other teams to address legal matters. The variety of the work keeps things interesting and is one of the aspects I enjoy most about the role.
+What is the most memorable moment you have had working for GSI?
+One of my most memorable experiences so far has been working on large-scale renewable energy projects. They are among the most impactful developments I have been involved in, both in terms of their scale and their environmental focus. Being part of initiatives with ambitious sustainability goals has made the experience incredibly rewarding. It is exciting to contribute to work that will have a meaningful, long-term impact.
+What led you to a legal career and what have you found rewarding from working in the renewables sector?
+My journey to law was not a traditional one. I began my academic path in commerce, specializing in accounting, and went on to complete my graduate studies in that field. However, during my undergraduate degree I had taken several corporate law courses that sparked my interest and that ultimately led me to law school. I started my legal career working in tax and estates law because of my accounting background, but I found myself looking for ways to expand my horizons beyond these limits. Renewable energy and environmental advocacy has always been an interest of mine and I was excited to break into this field when I joined GSI and switched to renewable energy law. It has been a refreshing transition to pivot to this new career path.
+Tell us one interesting fact about yourself that your colleagues might not know.
+I love a good adventure trip! Soon I will be crossing off a bucket list item with a two-week trek in Botswana where I will be camping in the wild among the animals in their natural habitat, and I could not be more excited. I do not think many people know where I am heading, so this might be an interesting fact.
+How do you spend your time outside of work?
+I enjoy staying active and spending time outdoors. I horseback ride regularly, and my two-year-old dog keeps me busy with daily walks. My husband and I also enjoy playing tennis, and our home backs onto a wooded area where we often go hiking as a trio. Being in nature and staying active are an important part of my routine outside of the office.
+What is one thing you’d like to cross off your bucket list?
+Visiting Antarctica is very high on my bucket list. I have always wanted to experience its wildlife and unique landscapes and am especially excited about the possibility of seeing penguins in the wild. I am passionate about animals and hope to continue checking off travel experiences like gorilla trekking in Rwanda or a horse safari in Mongolia. This upcoming trip to Botswana is hopefully just the beginning!
+Rapid Fire Favorites
+- Movie: Mamma Mia!
+- TV Show: Friends
+- Musician/Band: Ed Sheeran
+- Restaurant (City): L’Oree Du Bois (Chelsea, QC, just outside Ottawa)
+- Food: Chocolate anything
+- City: Cusco, Peru
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/iyuhana-solar-officially-rebranded-to-turning-sun-solar/
+
+Together, GSI and Ocean Man First Nation are excited to announce the rebranding of the Iyuhána Solar project to Turning Sun Solar. This change reflects a renewed commitment to the partnership following the election of Chief Ernest Standingready and the new Council of Ocean Man First Nation in June 2025.
+This 100 MW utility-scale solar project in southeast Saskatchewan, among Canada’s top 10 by size, will power the equivalent of approximately 25,000 homes under a 25-year PPA with SaskPower.
+With this rebranding, GSI has updated the project specific social media platforms on Facebook and Instagram to reflect the Turning Sun Solar name. We have also launched the updated project website at www.turningsunsolar.ca.
+With continued progress towards the commencement of construction in Q4 2025, Turning Sun Solar reflects our shared commitment to sustainable energy, responsible stewardship of the land and driving economic and social prosperity in communities across Canada.
+As the North American renewable energy subsidiary of Libra Group, GSI, alongside Ocean Man First Nation, is proud to advance Saskatchewan’s clean energy goals.
+For more information on GSI, visit: www.greenwoodinfra.com.
+For more information on this groundbreaking project, visit www.turningsunsolar.ca
+
+--------------------------------------------------------------------------------
+
+URL: https://greenwoodinfra.com/gsi-nyceec/
+
+New York, NY – Greenwood Sustainable Infrastructure (GSI), the North American renewable energy subsidiary of Libra Group, announced the closing of a development credit facility with NYCEEC. The facility, with a total capacity of up to $10 million USD, will support development costs for solar projects across the Northeast and Mid-Atlantic regions of the United States.
+The credit facility marks a significant expansion from GSI’s prior financing arrangements and provides flexible financing for a broader range of development expenses, while supporting projects in multiple states.
+Current projects financed under the facility are located in New York, Illinois, and Pennsylvania, with potential expansion into additional US markets pending further diligence. The closing process is structured in two parts, allowing for the inclusion of additional markets and projects in the near future, further strengthening GSI’s regional footprint.
+“Our partnership with NYCEEC on this credit facility provides the financial flexibility needed to scale solar development across priority U.S. markets,” said Mazen Turk, CEO of Greenwood Sustainable Infrastructure. “It reinforces both organizations’ commitment to advancing sustainable energy while ensuring that impactful renewable projects move from concept to reality.”
+“GSI’s ability to attract innovative capital partners, such as NYCEEC, is a testament to the quality of our pipeline as well as our team’s execution capabilities.” said Ahmar Zaman, CFO of Greenwood Sustainable Infrastructure. “We look forward to the success of this new stage of our long-standing relationship with NYCEEC.”
+This transaction represents NYCEEC’s first foray into solar development financing, building on its extensive experience in other clean energy projects. “NYCEEC is excited to support GSI’s innovative solar initiatives, marking a significant step in our mission to deliver financing solutions and advance markets for energy efficiency and clean energy in communities.” said Curtis Probst, CEO, NYCEEC
+The partnership between GSI and NYCEEC highlights a shared commitment to expanding access to clean energy and fostering sustainable development across the United States. As GSI continues to grow its portfolio, this credit facility positions the company to deliver high-impact solar projects that contribute to a cleaner, more sustainable energy future.
+For more information about Greenwood Sustainable Infrastructure and its renewable energy initiatives, visit www.greenwoodinfra.com.
+About Greenwood Sustainable Infrastructure (GSI)
+GSI, a subsidiary of Libra Group, is a renewable energy company focused on developing, constructing, and operating utility-scale solar and battery storage projects across North America. With a portfolio of approximately 388 MW of renewable energy projects and a pipeline of 2.3 GW, GSI is dedicated to advancing sustainable energy solutions.
+About NYCEEC
+NYCEEC is a nonprofit green bank sourcing funds from the public, private, and philanthropic sectors to support community clean energy projects through debt financing. Launched in 2010 by the New York City Mayor’s Office, NYCEEC has since expanded its geographical reach throughout the Northeast and Mid-Atlantic regions. To learn more about NYCEEC’s team and its Board of Directors, visit their website at www.nyceec.com.
+
+--------------------------------------------------------------------------------

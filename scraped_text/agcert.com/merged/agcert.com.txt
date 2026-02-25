@@ -1,0 +1,159 @@
+ROOT: https://agcert.com/
+SCRAPED_AT_UTC: 2026-02-11T19:47:03.125334Z
+PAGES_INCLUDED: 8
+
+================================================================================
+
+URL: https://agcert.com/
+
+AgCert - Liquidated
+The Board of Directors of AgCert International, Limited voted on 8 June 2012 to initiate insolvent liquidation proceedings for the Company in the Republic of Ireland. Thereafter, the company entered liquidation on 20 June 2012 upon the appointment of a liquidator at a creditors meeting.
+What was AgCert?
+AgCert International (AgCert™) was a leader in the production and sale of greenhouse gas (GHG) emission reductions. Headquartered in Dublin, Ireland, AgCert was founded to generate emission reductions from livestock farms to reduce the adverse impacts of greenhouse gas (GHG) emissions related to global warming and climate change. AgCert was the worldwide leader in agriculturally derived emission reductions, and applied expertise to create industrial based emission reductions as well. The GHG emission reductions were pooled and sold to industrial emitters, governments, funds and energy traders.
+
+--------------------------------------------------------------------------------
+
+URL: https://agcert.com/about/
+
+About Us
+AgCert™, was headquartered in Dublin, Ireland, and founded in 2002 for the specific purpose of generating large scale greenhouse gas (GHG) emission reductions.
+AgCert's proprietary systems and processes included a United Nations-approved methodology for the reduction of GHG emissions from modified animal waste management systems.
+The ratification of the Kyoto Protocol has created demand for certified emission reductions (CERs). The purchase of CERs enables GHG emitters, including countries and commercial entities such as power generators, to keep their emissions within limits determined as part of the Kyoto Protocol and the European Union Emissions Trading Scheme (EU ETS). AgCert's ability to aggregate large volumes of CERs gave the company early strategic advantages in the rapidly evolving GHG emission trading markets.
+AgCert™ developed agriculture's unique potential for providing CERs to the market.
+Agriculture is responsible for around 20 per cent of the world's annual greenhouse gas emissions. AgCert™ expected to be a leading supplier of CERs from this sector and commenced CDM greenhouse gas emissions reduction activities in Brazil, Mexico, Argentina and Chile.
+
+--------------------------------------------------------------------------------
+
+URL: https://agcert.com/industry.aspx
+
+The Industry
+Global warming is one of the most serious environmental threats facing the world today. The global greenhouse gas (GHG) emissions trading industry was initiated to reduce greenhouse gas emissions that contribute to global warming in the most efficient and cost effective manner.
+By regulating GHG emissions, the ratification of the Kyoto Protocol has created demand for certified emission reductions (CERs). The purchase of CERs enables greenhouse gas emitters, including countries and commercial entities such as power generators, to keep their emissions within limits determined as part of the Kyoto Protocol and the European Union Emissions Trading Scheme (EU ETS).
+Hundreds of millions of metric tonnes of GHG emissions are expected to be reduced through 2012 as a result of projects that reduce GHGs in order to trade the reductions in the market.
+The United Nations oversees the issuance of CERs.
+For those emitters that do not fall under regulation, there are voluntary and consumer programs that allow nearly all organizations and consumers to do their part in reducing GHG emissions.
+Kyoto Accord
+What is the Kyoto Accord?
+The Kyoto Accord is an international treaty that requires industrialized countries to reduce their collective greenhouse gas (GHG) emissions by at least five percent compared to 1990 levels by the period 2008-2012.
+What is Clean Development Mechanism (CDM) and its origin?
+CDM is a procedure established by the Kyoto Accord for project-based emission reduction activities in emerging countries. CDM provides these countries that accept binding emission reductions in connection with Kyoto, the opportunity to be involved in reducing greenhouse gas emissions. Established funds and credits clear through an entity within the World Bank. AgCert stresses the importance of addressing the sustainable development needs of participating countries and increasing the opportunities available to groups that meet their reduction obligations. Current CDM countries include: Brazil, Mexico and Hungary.
+Greenhouse Gases
+What is the difference between Carbon Dioxide (CO2) and CO2 equivalent (CO2e)?
+CO2 is a gas produced when any form of carbon or carbon compound is burned in excess of oxygen. CO2 is produced by occurrences such as forest fires, industrial procedures or the burning of fossil fuels. Other greenhouse gases are measured against CO2 and are referred to as CO2e's. CO2e is the universal unit of measurement used to evaluate the impacts of releasing or avoiding the release of different greenhouse gases. These include: Methane (CH4), Nitrous Oxide (N20), Hydrofluorocarbons (HFCs), Perfluorocarbons (PFCs) and Sulphur Hexofluoride (SF6). Each of these gases has a global warming potential (GWP) calculated by the IPPCC. CO2e is calculated by taking the GWP times the number of tonnes of each GHG. For example, the GWP for N20 is 310 so each tonne of N20 is equivalent to the global warming potential of 310 tonnes of CO2.
+What are the gases distinct within Greenhouse Gases (GHG)?
+Within greenhouse gases there are six main contributors to the Greenhouse Effect. These gases are regulated under the Kyoto Protocol and include Carbon Dioxide (CO2), Methane (CH4) and Nitrous Oxide (N20). In addition to these gases, there are others that occur less frequently including Hydrofluorocarbons (HFCs), Perfluorocarbons (PFCs) and Sulphur Hexofluoride (SF6).
+
+--------------------------------------------------------------------------------
+
+URL: https://agcert.com/faqs.aspx
+
+Frequently Asked Questions
+AgCert is no longer in operations. These questions are posted for reference and educational purposes.
+What does AgCert™ do?
+AgCert™ produces and sells greenhouse gas (GHG) emissions offsets from agricultural and other sources.
+Where is the company based? Why?
+The company is domiciled in Ireland. The European Union – as a result of the European Union Emission Trading Scheme (EU ETS) - is our core market and we want to be in the Euro zone. The Euro is our functional currency.
+Where does the company have operations? Why?
+AgCert™ has activities in Ireland, Brazil, Mexico, Chile, Argentina, Canada and the United States. Our company headquarters are in Ireland. Project activities have been focused on Brazil and Mexico who are among the countries eligible to participate in projects associated with the Clean Development Mechanism (CDM) under the Kyoto protocol and EU Emission Trading Scheme. Project activities will expand to other geographies through AgriVerde (joint venture with AES) and AgCert™ in 2007 and beyond.
+Who are AgCert™ customers?
+Our primary customers are large industrial emitters and energy traders. However, we are also presently building customer relationships with governments, climate change funds and consumers.
+How big is the company?
+The company currently has over 300 employees and consultants, and has sub-contractors working on hundreds of farms.
+How does AgCert™ make money?
+AgCert™ makes money by selling “certified” or “verified” greenhouse gas emission reduction offsets to emitters of GHG emissions, such as companies in the energy, manufacturing and the chemical sectors.
+Who owns AgCert™?
+AgCert™ is publicly quoted on the London Stock Exchange with the ticker AGC.
+Will AgCert™ make any real difference to global warming?
+Yes. Our methodology reduces emissions. Implementing AgCert™'s methodology on farms results in the mitigation of significant tonnage of carbon dioxide equivalent which would not otherwise have been realised.
+Who are the management of AgCert?
+AgCert™ is managed by a group of experienced professionals that combine a breadth of industry, innovation, relationships and technical expertise. See AgCert™'s management page for more details.
+How much will AgCert™ contribute to Global Warming by its executives having to travel between operations in the Americas and Europe?
+Zero. The company offsets the emissions of its travel by retiring third party verified emission reductions from its own inventory.
+The Market
+Isn’t this just a way for the developed world to buy itself out of trouble?
+Yes, in a way. Kyoto was designed to foster development in and transfer wealth to developing countries as well as to reduce GHG emissions. Global warming is a global problem, and the EU ETS and Kyoto Protocol have been structured to encourage (via financial penalties) reduced emissions, in the most economically viable way.
+Why should projects in the developing world be subsidizing the emissions produced by industry in developed countries?
+It is the reductions that count, not where they come from. Furthermore, it has been designed to encourage sustainable investment by developed countries in the developing world. AgCert™’s operations are expected to deliver financial and non-financial benefits where the projects take place.
+Where are the major centres for carbon trading?
+Today, the major trading centre is in Europe, in large part due to the presence of the EU ETS. However, a nascent market is taking shape in a many other locations in the world including Japan, Canada and even the United States.
+Is there any significant volume being traded?
+Trading in Offsets started in 2003 and has grown rapidly. In 2004 an estimated 94 million tCO2e were traded. According to PointCarbon, the market did €9.4 billion in 2005. The EU ETS did an estimated 362 Mt CO2e, at an estimated financial value of €7.2 billion. 93% of the volumes in the project market came through CDM, at 397 Mt CO2e, €1.9 billion. JI did 28 Mt, €95 million.
+Point Carbon forecasts that the global market for Offsets is likely to reach €34 billion by 2010 including primary demand and secondary trading. Estimates of the primary demand in Europe for Offsets is 60 to 70 million Offsets per annum until 2008, rising to approximately one billion Offsets per annum from 2008 to 2012, when considered globally.
+How are individual targets for emissions reductions arrived at?
+The Kyoto Protocol sets legally binding limits on Greenhouse Gas emissions in Annex 1 countries and these countries have committed to reduce their GHG emissions by, on average, 5.2 per cent as compared with their 1990 levels.
+Each member of state of the EU has ratified the Kyoto Protocol, which requires the EU to reduce its GHG emissions by 8 per cent below 1990 levels in the first commitment period (2008-2012). The EU’s commitment is apportioned between the Member States under a Burden Sharing Agreement (“BSA”). Furthermore, the EU has voluntarily committed to reduce its GHG emissions sooner than required under the Kyoto Protocol. As a result, the EU has implemented the EU-ETS, which came into effect on 1 January 2005 and is the first regulatory enforced commercial market for Offsets in the world.
+The EU-ETS requires each Member State to draw up a National Allocation Plan (“NAP”) which states the total number of allowances that it intends to allocate for the relevant period, consistent with its actual and projected progress towards its obligations under the BSA and other factors, and how it intends to allocate those allowances to individual emitters covered by the EU-ETS.
+Are these targets mandatory or voluntary?
+EU-ETS and Kyoto targets are mandatory and excesses over allowances will result in financial penalties.
+During phase I of the EU-ETS, any emitter exceeding its GHG emissions limit in any given year will be subject to a fine of (€40 per tCO2e in excess of its allowed limit) as well as having to reduce emissions or purchase such number of Offsets to correct the excess over such limit. In addition, the emitter will be publicly named on the European Union’s website. During phase II, the fine will be increased to €100 per tCO2e in excess of the limit. Therefore there is a strong incentive for GHG emitters to purchase GHG Offsets if they are unable to reduce their emissions in order to avoid these penalties. The only emission reduction credits other than EUAs that may be used to offset emissions throughout phase I and phase II of the EU-ETS are CERs arising from CDM Projects.
+
+--------------------------------------------------------------------------------
+
+URL: https://agcert.com/kyoto.aspx
+
+Kyoto Protocol
+The Kyoto Protocol sets legally binding limits on greenhouse gas emissions in industrialised countries who have committed to reduce their GHG emissions during the 2008-2012 first “commitment period”. In addition to promoting the reduction of on-site GHG emissions, the protocol envisages market-based flexible mechanisms aimed at keeping the cost of curbing emissions low:
+- Emissions trading
+- Joint implementation projects; and
+- Clean development mechanism projects
+Emissions Trading
+Under the Kyoto Protocol, GHG emissions are quantified according to tonnes of carbon dioxide equivalent (CO2e). One tonne of CO2e will be known as an Assigned Amount Unit. Each ratifying Annex 1 country will be subject to a maximum number of AAUs equal to the maximum permissible amount of GHG emissions for that country. Countries will be able to trade AAUs in order to comply with their GHG emission reduction targets under the Protocol.
+Joint Implementation (JI)
+Joint Implementation projects allow Annex 1 (developed) countries to invest in GHG emission reduction projects in other Annex 1 countries (ratifying countries subject to GHG emission reduction targets from 2008 onwards), provided those projects result in real, measurable and long-term climate change benefits. The investing party is awarded “Emission Reduction Units” (ERUs), which can be used for its own emission reduction target, or sold to third parties. However, JI ERUs may not be used for compliance until the first commitment period of the Kyoto Protocol, commencing in 2008.
+Clean Development Mechanism (CDM)
+Clean Development Mechanism projects also allow Annex 1 countries to invest in GHG emission reduction projects. These projects take place in developing countries without GHG emission reduction targets. In order to promote sustainable, environmentally friendly development in developing nations, the Certified Emission Reductions (CERs) earned by CDM projects can be used to meet GHG reduction requirements in the European Union Emissions Trading Scheme (EU ETS) starting in 2005, as well as requirements under Kyoto.
+Joint Implementation and CDM programs are driven by the understanding that climate change is a global problem, and therefore it does not matter where the emissions reductions are physically achieved. The key consideration is that they occur and are achieved in the most cost- effective way. In addition, Joint Implementation and CDM will also transfer environmentally sound technology to help countries move onto a sustainable path of development.
+
+--------------------------------------------------------------------------------
+
+URL: https://agcert.com/agriculture.aspx
+
+Agriculture
+According to the Intergovernmental Panel on Climate Change (IPCC) 2001 report on Mitigation and the PEW Center on Global Climate Change, Agriculture contributes to approximately 20% of global anthropogenic greenhouse gas emissions.
+AgCert™ reduces greenhouse gas emissions on livestock farms by implementing practice changes in Animal Waste Management Systems.
+Agricultural producers gain a new revenue stream that result from the sale of the emission reduction. Additional benefits include reduced odour, improved fertiliser, preventing contamination of groundwater or surface water, and reduced flies. Due to AgCert's activities on one farm, regulators that had previously closed the farm due to environmental issues allowed it to reopen.
+Emission Reductions from Agriculture
+Emission reductions (ERs) are created by a difference in the amount of emissions from a defined baseline. Specifically, ERs are created by improved manure handling practices such as covering a lagoon or earthen basin with a biocover or non-permeable cover, or the use of deep pit confinement buildings, or anaerobic digesters. These practices reduce the amount of methane and nitrous oxide that would normally be produced in the baseline environment. The ERs that can be marketed by this ISO standardized process are calculated by complex algorithms, unprecedented transparency of data, and rigorous quality control and verification.
+AgCert™ aggregates ER supply not only from multiple farms, but multiple farm systems, and manages the verification, registration and liability issues. This simplifies the process for livestock producers, who ultimately reduce their risk to zero, provided they verifiably adhere to the practices that result in emission reductions. The multiple farm system aggregation process also simplifies transactions for buyers, as they are able to confidently purchase large quantities of ERs from a single seller (AgCert™).
+Anaerobic Digestion
+One example of an improved animal waste management system would be an anaerobic digester. A cross section of a digester like the one shown in the above picture appears below. Digesters are designed by optimizing the retention time (typically between 22-28 days) to maximize CH4 capture.
+
+--------------------------------------------------------------------------------
+
+URL: https://agcert.com/contact/
+
+Home
+About
+Industry
+FAQs
+Kyoto
+Agriculture
+Contact
+Greenhouse Gas Reductions
+Contact Us
+Social
+Mail
+1600 Sarno Road Suite 118
+Melbourne, FL 32935
+Your Name:
+Your Email:
+Message:
+
+--------------------------------------------------------------------------------
+
+URL: http://www.agcert.com/kyoto.aspx
+
+Kyoto Protocol
+The Kyoto Protocol sets legally binding limits on greenhouse gas emissions in industrialised countries who have committed to reduce their GHG emissions during the 2008-2012 first “commitment period”. In addition to promoting the reduction of on-site GHG emissions, the protocol envisages market-based flexible mechanisms aimed at keeping the cost of curbing emissions low:
+- Emissions trading
+- Joint implementation projects; and
+- Clean development mechanism projects
+Emissions Trading
+Under the Kyoto Protocol, GHG emissions are quantified according to tonnes of carbon dioxide equivalent (CO2e). One tonne of CO2e will be known as an Assigned Amount Unit. Each ratifying Annex 1 country will be subject to a maximum number of AAUs equal to the maximum permissible amount of GHG emissions for that country. Countries will be able to trade AAUs in order to comply with their GHG emission reduction targets under the Protocol.
+Joint Implementation (JI)
+Joint Implementation projects allow Annex 1 (developed) countries to invest in GHG emission reduction projects in other Annex 1 countries (ratifying countries subject to GHG emission reduction targets from 2008 onwards), provided those projects result in real, measurable and long-term climate change benefits. The investing party is awarded “Emission Reduction Units” (ERUs), which can be used for its own emission reduction target, or sold to third parties. However, JI ERUs may not be used for compliance until the first commitment period of the Kyoto Protocol, commencing in 2008.
+Clean Development Mechanism (CDM)
+Clean Development Mechanism projects also allow Annex 1 countries to invest in GHG emission reduction projects. These projects take place in developing countries without GHG emission reduction targets. In order to promote sustainable, environmentally friendly development in developing nations, the Certified Emission Reductions (CERs) earned by CDM projects can be used to meet GHG reduction requirements in the European Union Emissions Trading Scheme (EU ETS) starting in 2005, as well as requirements under Kyoto.
+Joint Implementation and CDM programs are driven by the understanding that climate change is a global problem, and therefore it does not matter where the emissions reductions are physically achieved. The key consideration is that they occur and are achieved in the most cost- effective way. In addition, Joint Implementation and CDM will also transfer environmentally sound technology to help countries move onto a sustainable path of development.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,46 @@
+ROOT: https://sapphireenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:30:11.527038Z
+PAGES_INCLUDED: 1
+
+================================================================================
+
+URL: https://sapphireenergy.com/
+
+Sapphire Energy was a high-profile US biofuel start-up that aimed to produce crude oil from algae but ultimately collapsed after failing to scale its technology or achieve commercially viable production costs.
+Company profile
+- Company name: Sapphire Energy, Inc.
+- Founded: 2007
+- Headquarters: San Diego, California, United States
+- Legal form: Private corporation (Delaware-registered)
+- UK subsidiary: Sapphire Energy Limited (Company No. NI622058) – registered in Northern Ireland in 2013 and now dormant
+- Business status: Defunct – operations effectively ceased by the late 2010s; commonly listed as “out of business” in market directories such as PitchBook and Crunchbase
+Nature of business
+Sapphire Energy was a biotechnology and renewable-energy venture that aimed to produce “green crude” oil from algae. The company claimed that its algae-based biofuel could serve as a direct replacement for petroleum-based crude, suitable for refining into petrol, diesel and jet fuel. Its stated ambition was to deliver a scalable, sustainable alternative to fossil fuels without relying on food crops or arable land.
+Core technology and operations
+- Cultivation of algae in open ponds using non-potable or salt water
+- Extraction of algal oils and conversion into hydrocarbon-based “green crude”
+- Demonstration facility: Green Crude Farm in Luna County, New Mexico (opened 2012, supported by a US Department of Energy grant)
+- Claimed production: around 2,500 gallons of crude oil equivalents between 2012 and 2014 – far below the scale needed for commercial viability
+Financial history
+- Attracted high-profile venture backing exceeding US $300 million, with investors including Bill Gates’s Cascade Investment, Venrock, and the US Department of Energy.
+- Despite early hype, large-scale production costs remained many times higher than conventional crude oil prices.
+- Commercial rollout plans (targeting 2018-2020) were never realised, and funding dried up as oil prices fell and investor confidence waned.
+- By 2017, most staff and operations had been wound down. Subsequent records list the company as inactive or dissolved.
+Causes of failure
+- High production costs: Algal biofuel remained too expensive per barrel to compete with fossil fuels or other renewables.
+- Scale-up challenges: Maintaining stable algae growth and cost-effective harvesting proved technically difficult.
+- Market conditions: Falling oil prices (especially after 2014) undermined the financial case for algal fuels.
+- Investment fatigue: Early venture capital enthusiasm faded as demonstration output failed to match projections.
+Aftermath and asset disposition
+- No formal bankruptcy was publicly declared, but operations ceased and intellectual-property assets were either sold or lapsed.
+- Some of Sapphire’s R&D expertise migrated to other biofuel and biotech ventures in the US Southwest.
+- Its UK subsidiary, Sapphire Energy Limited, remains on the register as dormant with minimal activity and no employees.
+Implications for business
+- Sapphire Energy stands as a case study in the commercial risks of early-stage clean-tech ventures where R&D outpaces viable economics.
+- For investors and energy buyers, it highlights the importance of cost benchmarking, technology readiness assessment, and market-price sensitivity when evaluating renewable-fuel propositions.
+- Any historical contracts, IP licences or collaborations with Sapphire Energy should be treated as void; there is no continuing trading entity.
+Summary status
+Sapphire Energy, Inc. was once billed as the future of oil-free fuel — a well-funded pioneer promising algae-derived crude at industrial scale. Despite strong scientific foundations, the company failed to bridge the gap between laboratory success and commercial production. By the late 2010s it had effectively collapsed, leaving a cautionary legacy within the renewable-energy investment landscape: groundbreaking vision, but unsustainable economics.
+For more, see our guides to best UK business energy suppliers, or compare business electricity prices and business gas prices.
+
+--------------------------------------------------------------------------------

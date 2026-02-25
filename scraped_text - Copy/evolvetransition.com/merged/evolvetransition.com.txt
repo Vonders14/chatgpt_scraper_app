@@ -1,0 +1,569 @@
+ROOT: https://evolvetransition.com/
+SCRAPED_AT_UTC: 2026-02-11T20:05:01.316575Z
+PAGES_INCLUDED: 24
+
+================================================================================
+
+URL: https://evolvetransition.com/
+
+Evolve Transition Infrastructure:
+Quality Assets, Disciplined Management
+Evolve Transition Infrastructure LP was a publicly-traded limited partnership formed in 2005 focused on the acquisition, development and ownership of infrastructure critical to the transition of energy supply to lower carbon sources.
+PRESS RELEASES
+Evolve Transition Infrastructure Reports Exercise of Right to Purchase Common Units
+HOUSTON, Jan. 08, 2024 -- Evolve Transition Infrastructure LP (NYSE American: SNMP) (the "Partnership") announced today that Evolve Transition Infrastructure GP LLC, the general partner of the Partnership (the "General Partner"), has elected to exercise the right to...
+Evolve Transition Announces NYSE American Removal of Trading Suspension
+HOUSTON, July 26, 2023 -- Evolve Transition Infrastructure LP ("Evolve" or the "Partnership") today announced that on July 25, 2023, it received a letter from NYSE American LLC ("NYSE American") informing Evolve that it has resolved the continued listing deficiency...
+Evolve Transition Infrastructure Announces Date of Effectiveness of Reverse Split
+HOUSTON, June 23, 2023 -- Evolve Transition Infrastructure LP (OTC: SNMP) ("Evolve") today announced that it intends to implement its previously announced 1-for-30 reverse split (the "Reverse Split") of its common units representing limited partner interests in Evolve...
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/investor-overview/k-1-and-other-tax-information/
+
+K-1 and Other Tax Information
+Tax Information
+On February 16, 2024 (the “Purchase Date”), Evolve Transition Infrastructure GP LLC exercised the right to purchase all of the issued and outstanding common units representing the limited partnership interests (“Common Units”) in the Partnership that were not already owned by the General Partner or its controlled affiliates (the “Transaction Units”). The General Partner purchased the Transaction Units for a cash purchase price of $1.389285 per Transaction Unit. As of the Purchase Date, all rights of the holders of the Transaction Units ceased, except for the right to receive payment of the purchase price. Upon completion of the purchase, the Common Units ceased to be publicly traded or listed.
+Your 2024 Schedule K-1 and Schedule K-3 are now available at www.taxpackagesupport.com/evolvetransition.
+Unitholders with questions concerning their Schedule K-1 and Schedule K-3 should contact:
+Evolve Transition Infrastructure LP
+Tax Package Support
+P.O. Box 799060
+Dallas, TX 75379-9060
+Tel (800) 577-1033
+Fax (866) 554-3842
+Qualified Notices
+Posting Date of Qualified Notices Pursuant to U.S. Treasury Regulation §1.1446-6
+Frequently Asked Questions
+Disclaimer: The following is provided for your general information and is not intended to be, nor should it be construed as, tax advice. The tax information discussed here is based on existing federal and state laws and regulations as interpreted by us. Before undertaking any tax filing, we suggest that you refer to the appropriate federal and state income tax laws or consult with your personal tax advisor.
+What is a Schedule K-1?
+Evolve Transition Infrastructure LP (“the Partnership”) was a publicly traded limited partnership that has not elected to be treated as a corporation and is therefore treated as a partnership for federal income tax purposes. As a partnership, we are not a federally taxable entity and incur no tax liability. Instead, all income and expenses flow through to the unitholders to be reported on each unitholder’s tax return. The Partnership is required to file a Form 1065, U.S. Return of Partnership Income, with the IRS which includes a Schedule K-1 for each unitholder reporting the unitholder’s respective tax information. You will need a Schedule K-1 to complete your tax return.
+How do I get a Schedule K-1
+A tax package was mailed directly to your address of record in early March. The tax package, which includes a Schedule K-1, summarizes the unitholder’s allocated share of the Partnership’s reportable tax items for the calendar year.
+When do I get a Schedule K-1?
+All Schedule K-1’s should be received during mid-March with the tax package mailed to your address of record provided by your broker or nominee.
+What if I do not receive a Schedule K-1
+If you did not receive your Schedule K-1 by mid-March, please call (800) 577-1033.
+What is a unitholder?
+Unitholders were treated as partners in the Partnership for federal income tax purposes.
+What is the difference between a corporation and a partnership?
+Generally, a corporation is subject to federal and state income taxes, but a partnership is not. All of the income, gains, losses and deductions of a partnership are passed through to the partners who are required to show their allocated share of these amounts on their income tax returns.
+What is the difference between units of a partnership and shares of a stock?
+A partner in a publicly traded partnership owns units of the partnership rather than shares of stock and receives cash distributions rather than dividends. Any cash distributions made by a partnership are not taxable as long as the partner’s tax basis in that partnership exceeds zero.
+Is the Partnership registered as a tax shelter?
+The Partnership is not registered as a tax shelter.
+Can I access my Schedule K-1 electronically?
+Yes, an electronic version of your tax package, including your Schedule K-1, will be available at our website (www.taxpackagesupport.com/evolvetransition) beginning in early March. Additional features available on our website include the ability to transfer information to IRS forms, download a file which can be imported into TurboTax, or compute the potential gain or loss when selling your units.
+Access to our website will require your first and last name, an email address (which will become your username), and a password. Once you gain access to the website, you will be prompted to identify the account(s) you wish to access by entering the SSN or EIN of the unitholder. Unitholders will be allowed to provide access to a third party, such as an accountant or tax advisor. If you encounter any difficulties when logging in to the website, please call (800) 577-1033.
+What is included in the tax package that I will receive?
+In the tax package you receive, the Partnership is providing the following documents to you:
+- Schedule K-1 (Form 1065)
+- State Schedule
+- Ownership Schedule
+- Sales Schedule (if you sold units in the covered period)
+Additionally, the Partner’s Instructions for Schedule K-1 (Form 1065) and a graphic guide to assist you in preparation of your individual income tax return will be available online (www.taxpackagesupport.com/evolvetransition). The tax packages and references to tax forms assume that you are an individual partner. If you, as partner, are a corporation, partnership, or other type of taxpayer, you may need additional information to complete your tax return(s).
+What should I do if the information in my tax package is incorrect?
+Corrections to any schedule you receive should be made directly onto the schedule and returned to the Partnership by May 2, 2025 at the following address:
+Evolve Transition Infrastructure LP
+Tax Package Support
+P.O. Box 799060
+Dallas, TX 75379-9060
+Tel. (800) 577-1033
+Fax (866) 554-3842
+Why am I receiving a Schedule K-1 rather than a Form 1099?
+A Schedule K-1 is similar to Form 1099 that corporate stockholders receive. IRS Form 1099 is used to report dividends and interest, rather than partnership information, which is reported on a Schedule K-1. While a holder of corporate stock receives a Form 1099 each year detailing required tax data, a unitholder of a partnership receives a tax reporting package including substitute Schedule K-1 and other forms to file with his or her income tax return. This tax reporting package shows a partner’s allocable share of the Partnership’s income, gains, losses, and deductions.
+How does the Tax Cuts and Jobs Act signed into law by President Trump at the end of 2017 impact me as a unitholder?
+Impacts of the new law were reflected beginning with the 2018 Schedule K-1. The new law generally allows a non-corporate taxpayer a deduction of 20% of the domestic qualified business income from a partnership, potentially subject to a wage limitation. Publicly traded partnership income is qualified business income and is not subject to a wage limitation for this purpose. Therefore, 20% of any non-tax deferred income of the Partnership reported on your Schedule K-1 would be allowed as a deduction for a non-corporate unitholder. Additionally, 20% of any ordinary income on the sale of your units would qualify for this deduction. Please consult your personal tax advisor for additional details.
+How can I use my Schedule K-1 to determine the amount of taxable income allocated to me as a unitholder?
+In general, the amount of taxable income allocated to a unitholder for the tax year can be derived using:
+- Schedule K-1, Line 1: Ordinary business income (loss)
+- Schedule K-1, Line 5: Interest income
+- Schedule K-1, Line 13(J): Section 59(e)(2) expenditures
+- Schedule K-1, Line 20(T): Depletion: Oil and Gas (See Schedule K-1 Supplemental Information, 20T1 – Sustained – Assumed Allowable Depletion)
+You should contact your personal tax advisor for additional details on determining your taxable income using the Schedule K-1 and other tax information you receive in your tax package.
+What if the income and deductions from the Partnership on my Schedule K-1 result in a net loss?
+A net loss from the Partnership is considered a “passive loss” under the IRS Tax Code. If you have a net loss for the tax year, you cannot deduct it from your taxable income. However, you can carry it forward and use it to reduce any taxable income from the Partnership in future tax years. If any of the loss remains when you sell your units, you can deduct it from your other income in that year.
+Can I use the income allocated to offset some of my passive losses from other investments?
+No. Generally, passive income from a partnership may only be offset by passive losses from the same partnership, and passive losses from the partnership may not be offset against passive income from another investment. However, if the result of netting a partnership’s passive income and loss is net income, it is then considered portfolio income, and other investment expenses may be deducted from it.
+When do cash distributions become taxable?
+You may need to pay tax on any potential cash distributions you receive from the Partnership:
+- If your adjusted basis in the units reaches zero: Your original basis is the price you paid for the Partnership units. It is adjusted downwards with cash distributions from us and with each allocation of deductions, and upwards with each allocation of income. (Don’t worry about keeping track of all this–the Partnership will do it for you making certain assumptions about your treatment of deductions and report this to you on Line L of Schedule K-1.)
+- If you sell your units at a gain: Because cash distributions decrease your basis, they increase the amount of taxable gain (which equals your sales price minus basis in the Partnership) on the sale. Some of your gain will be taxed at the lower capital gains rate, but the portion of the gain that results from deductions (such as depreciation that lowers your basis) will be taxed as ordinary income.
+I purchased units in December. Why does my Schedule K-1 reflect no allocations of income or deductions?
+Our recognition rule for allocating income and deductions is “last day/next month”, which means that if a unitholder holds a unit as of the beginning of the 1st day of the month they will receive income or loss allocations for that month. Therefore, unitholders who purchase in December will not receive allocations until the following January. Likewise, any allocation of income and deductions from a December purchase will be reflected on your following year Schedule K-1.
+Why is the amount of cash I received different than the amount I have to report on my individual income tax return?
+When we make cash distributions, the cash you receive is a tax-deferred return of capital and represents your share of the Partnership’s available cash. The amount you are required to include in your individual income tax is your share of the Partnership’s income and related items, allocated based on the number of units you owned during the year and reported on your Schedule K-1. These amounts differ due to changes in cash flow and depreciation (which is a non-cash expense).
+How can I calculate my tax shield? Why is it different than the amount stated in the prospectus?
+In a year in which we make cash distributions, you may calculate your tax shield by dividing your cash distributions by your taxable income allocation. The actual tax shield will be different than the amount listed in the prospectus because the prospectus amount was an estimate.
+How is my basis affected by cash distributions and partnership net income?
+Any cash distributions you receive from us are a tax-deferred return of capital and decrease your basis in the Partnership. At year end, your basis in the Partnership is increased or decreased by your share of the Partnership’s taxable income or loss allocated to you on your Schedule K-1.
+Do partners receive dividends?
+No, partners do not receive dividends. Any cash payment that a partner receives from the partnership is referred to as a “distribution”. Whereas a dividend represents a return on capital, a distribution is considered a return of capital and is generally not taxable in the year received if the partner’s tax basis remains above zero. However, a distribution will reduce your tax basis in the Partnership and, therefore, impact the amount of your gain or loss in the year in which you sell your units.
+What states do I have to file tax returns in as a result of owning Evolve Transition Infrastructure?
+In addition to the filing requirements of the state in which you live, you may be required to file a non-resident tax return in the states in which the Partnership operates. The Partnership is registered to do business in three states: Oklahoma, Texas and Louisiana. The Partnership has informational filing requirements in Georgia, Indiana, Missouri, New Jersey, New York, Oregon, Pennsylvania, and West Virginia due to resident partner filing requirements in these states. It is the responsibility of each common unitholder to investigate the legal and tax consequences, under the laws of pertinent states and localities, of his/her investment in the Partnership.
+What is UBTI?
+Unrelated Business Taxable Income, or UBTI, is income that is taxable to an otherwise tax-exempt institution or account. UBTI may be a factor for individual investors that hold MLP units in nontaxable accounts such as IRAs, pension or profit sharing plans. If an individual investor holds units in an IRA, pension or profit sharing plan, the unitholders’ share of our income may be considered UBTI. However, it will not be taxed as long as the amount of this income and all other sources of UBTI does not exceed $1,000 in any year. UBTI, as disclosed on the Schedule K-1, does not include intangible drilling costs or depletion deductions. We suggest that you refer to the appropriate federal and state income tax laws or consult with your personal tax advisor as to the computation of your UBTI.
+If my IRA’s (or other exempt entity’s) investment in the Partnership does generate UBTI’s exceeding $1,000, do I have to pay the tax?
+If your IRA’s (or other exempt entity) investment in the Partnership does generate UBTI exceeding $1,000, please note that the IRA (or other exempt entity) is the unitholder and therefore is the taxpayer. Any tax is reported on IRS Form 990-T which is filed by the custodian of the IRA (or other tax exempt entity) and is paid out of the IRA (or other tax exempt entity’s) funds. We suggest that you refer to the appropriate federal and state income tax laws or consult with your personal tax advisor.
+Can I invest in the Partnership through a mutual fund?
+You can, but your choices may be limited, particularly for conventional mutual funds operating as Regulated Investment Companies (RICs) under the tax code. The American Jobs Creation Act of 2004 made it easier for mutual funds to invest in the Partnership by adding them to the list of qualifying sources of income for RICs under the tax code, as long as partnerships do not constitute more than 25% of the RIC’s assets. However, not many mutual funds have availed themselves of this opportunity, primarily because of concerns about timing issues in reporting taxable income.
+How am I taxed on my units if I invest through a mutual fund?
+The mutual fund will own the Partnership units and becomes the limited partner. Like any partner, the mutual fund is allocated a share of the Partnership’s income, is responsible for paying any taxes owed on that income, and receives cash distributions when made by the Partnership. As an investor in the mutual fund, you will receive your share of the Partnership’s income in the form of a dividend paid to you by the mutual fund. Note that for tax-exempt investors, this addresses the UBTI complexity, as dividends are not subject to UBTI.
+Do my units have a basis step-up at death like corporate stock?
+Yes. The basis of the Partnership units received by inheritance will be the market value of the units on the date of death.
+Where can I get additional information on partnerships and the tax treatment for partnerships?
+The Energy Infrastructure Council is a trade association representing companies that develop and operate energy infrastructure, including the publicly traded partnerships commonly known as master limited partnerships (MLPs). Following is their website, which contains basic information about MLPs and the tax treatment associated with them: www.eic.energy.
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/investor-overview/annual-reports-and-proxy-materials/
+
+Annual Reports and Proxy Materials 2022 10-K 2021 10-K 2020 10-K 2019 10-K 2018 10-K 2017 10-K 2016 10-K 2015 10-K 2014 10-K 2013 Proxy Statement
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/investor-overview/sec-filings/
+
+Investor Relations
+Press Releases
+SEC Filings
+Annual Reports and Proxy Materials
+K-1 and Other Tax Information
+Contact
+SEC filings
+Click
+Here
+to see our filings with the SEC.
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/investor-overview/press-releases/
+
+Press Releases
+Evolve Transition Infrastructure Reports Exercise of Right to Purchase Common Units
+HOUSTON, Jan. 08, 2024 -- Evolve Transition Infrastructure LP (NYSE American: SNMP) (the "Partnership") announced today that Evolve Transition Infrastructure GP LLC, the general partner of the Partnership (the "General Partner"), has elected to exercise the right to...
+Evolve Transition Announces NYSE American Removal of Trading Suspension
+HOUSTON, July 26, 2023 -- Evolve Transition Infrastructure LP ("Evolve" or the "Partnership") today announced that on July 25, 2023, it received a letter from NYSE American LLC ("NYSE American") informing Evolve that it has resolved the continued listing deficiency...
+Evolve Transition Infrastructure Announces Date of Effectiveness of Reverse Split
+HOUSTON, June 23, 2023 -- Evolve Transition Infrastructure LP (OTC: SNMP) ("Evolve") today announced that it intends to implement its previously announced 1-for-30 reverse split (the "Reverse Split") of its common units representing limited partner interests in Evolve...
+Evolve Transition Infrastructure Announces Delay in Effectiveness of Reverse Split
+HOUSTON, June 13, 2023 -- Evolve Transition Infrastructure LP (OTC: SNMP) ("Evolve") today announced that it is amending the date for its previously announced reverse split of its common units representing limited partner interests in Evolve ("Common Units"), which...
+Evolve Transition Infrastructure Receives Notice from NYSE American Commencing Delisting Procedures
+HOUSTON, June 09, 2023 -- Evolve Transition Infrastructure LP (NYSE American: SNMP; OTC: SNMP) ("Evolve") today announced that on June 6, 2023, the NYSE American LLC ("NYSE American") publicly announced and notified Evolve that NYSE Regulation has determined to...
+Evolve Announces a 1-for-30 Reverse Split
+HOUSTON, May 22, 2023 -- Evolve Transition Infrastructure LP ("Evolve" or the "Partnership") today announced that it intends to implement a 1-for-30 reverse split (the "Reverse Split") on its common units representing limited partner interests in Evolve ("common...
+Evolve Transition Infrastructure Files Form 10-K
+HOUSTON, March 27, 2023 -- Evolve Transition Infrastructure LP (NYSE American: SNMP) ("Evolve" or the "Partnership") has filed its Annual Report on Form 10-K for the year ended December 31, 2022 with the Securities and Exchange Commission (the "SEC"). LIQUIDITY AND...
+NYSE American Approves Evolve’s Plan to Regain Compliance
+HOUSTON, Feb. 23, 2023 -- Evolve Transition Infrastructure LP (NYSE American: SNMP) ("Evolve" or the "Partnership") today announced that on February 21, 2023, the NYSE American LLC ("NYSE American" or the "Exchange") notified the Partnership that it has accepted the...
+Evolve Transition Infrastructure Receives Notice from NYSE American Regarding Continued Listing Standard
+HOUSTON, Dec. 30, 2022 -- Evolve Transition Infrastructure LP (NYSE American: SNMP) ("Evolve") today announced that on December 27, 2022, Evolve received a deficiency letter from NYSE American LLC ("NYSE American") stating that the NYSE American staff has determined...
+Evolve Transition Infrastructure Receives Notice from NYSE American Regarding Continued Listing Standard
+HOUSTON, Dec. 09, 2022 -- Evolve Transition Infrastructure LP (NYSE American: SNMP) ("Evolve" or the "Partnership") today announced that on December 6, 2022, the Partnership received a deficiency letter from NYSE American LLC ("NYSE American") stating that the...
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/investor-overview/
+
+INVESTOR OVERVIEW
+Corporate Profile
+Evolve Transition Infrastructure LP (NYSE American: SNMP) was a publicly-traded limited partnership formed in 2005 focused on the acquisition, development and ownership of infrastructure critical to the transition of energy supply to lower carbon sources.
+Information Request
+To request additional information, please contact our investor relations team using the contact details below.
+Contact Information: (713) 800-9477 or evolvetransitionir@gmail.com
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/contact/
+
+contact
+Evolve Transition Infrastructure LP Headquarters
+1360 Post Oak Blvd, Suite 2400
+Houston, TX 77056
+Investor Relations
+Please refer to the Investor Relations portion of our site for unitholder and financial information. You may also contact our Investor Relations department by email using evolvetransitionir@gmail.com.
+Tax Package Support
+Please refer to our K-1 and Other Tax Information page for FAQs related to the potential tax consequences of owning our units. To access your K-1 on-line, please visit our Tax Package Support page. For questions concerning the information reported to you on your K-1, please call our tax hotline at (800) 577-1033.
+Whistleblower Hotline
+We have established the Evolve Transition Infrastructure Whistleblower Hotline to allow for the confidential and anonymous reporting of complaints, concerns and other sensitive matters. You may reach the Whistleblower Hotline seven days a week and 24 hours a day by calling (866) 418-2854 or by visiting www.evolvetransition.ethicspoint.com.
+An interested party who wishes to communicate with the board of directors of our general partner may submit such communication in writing to:
+Chairman
+Evolve Transition Infrastructure LP
+1360 Post Oak Blvd, Suite 2400
+Houston, TX 77056
+Other Inquiries
+Please submit all other inquiries using the form below.
+Comments or questions are welcome.
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/evolve-transition-infrastructure-reports-exercise-of-right-to-purchase-common-units/
+
+HOUSTON, Jan. 08, 2024 — Evolve Transition Infrastructure LP (NYSE American: SNMP) (the “Partnership”) announced today that Evolve Transition Infrastructure GP LLC, the general partner of the Partnership (the “General Partner”), has elected to exercise the right to purchase all of the issued and outstanding common units representing limited partner interests (“Common Units”) in the Partnership not already owned by the General Partner or its controlled affiliates (the “Transaction Units”) pursuant to Section 15.1 of the Partnership’s Third Amended and Restated Agreement of Limited Partnership, as amended (the “Partnership Agreement”).
+The General Partner will purchase the Transaction Units on February 16, 2024 (the “Purchase Date”) for a cash purchase price of $1.389285 per Transaction Unit. The purchase price was calculated pursuant to the formula set forth in Section 15.1(b) of the Limited Partnership Agreement based on the average of the daily closing prices per Common Unit on the NYSE American (“NYSE American”) for the 20 consecutive trading days ending on January 4, 2024, the trading day immediately prior to the third day prior to January 8, 2024, the date the notice of election is being mailed.
+As of the Purchase Date, all rights of the holders of the Transaction Units will cease, except for the right to receive payment of the purchase price. Upon completion of the purchase on the Purchase Date, the General Partner and its affiliates will own, directly or indirectly, 100% of the Common Units. In addition, upon completion of the purchase, the Common Units will cease to be publicly traded or listed on the NYSE American, and will not be listed or quoted on any other venue.
+About Evolve Transition Infrastructure LP
+Evolve Transition Infrastructure LP is a publicly-traded limited partnership formed in 2005 focused on the acquisition, development and ownership of infrastructure critical to the transition of energy supply to lower carbon sources. Evolve owns natural gas gathering systems, pipelines and processing facilities in South Texas and continues to pursue energy transition infrastructure opportunities.
+PARTNERSHIP CONTACT
+Charles C. Ward
+Interim Chief Executive Officer, Chief Financial Officer and Secretary
+ir@evolvetransition.com
+(713) 800-9477
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/evolve-transition-announces-nyse-american-removal-of-trading-suspension/
+
+HOUSTON, July 26, 2023 — Evolve Transition Infrastructure LP (“Evolve” or the “Partnership”) today announced that on July 25, 2023, it received a letter from NYSE American LLC (“NYSE American”) informing Evolve that it has resolved the continued listing deficiency with respect to low selling price as described in Section 1003(f)(v) of the NYSE American Company Guide (the “Company Guide”). As a result, the staff of NYSE Regulation has withdrawn its delisting determination and will be lifting the trading suspension on the Partnership’s common units representing limited partner interests in the Partnership (“common units”) on the NYSE American. The common units will commence trading on the NYSE American on Monday, July 31, 2023 under the symbol “SNMP.”
+Notwithstanding the lifting of the trading suspension, Evolve continues to remain subject to its previously disclosed plan to regain compliance with the NYSE American’s continued listing standards, which was accepted by the NYSE American on February 21, 2023. As noted in its February 23, 2023 press release, Evolve has been granted a target completion date of June 6, 2024 to implement its plan and regain compliance with the NYSE American’s continued listing standards set forth in Sections 1003(a)(i) and 1003(a)(ii) of the Company Guide.
+If the Partnership is not in compliance with the continued listing standards by June 6, 2024, or if it does not make progress consistent with the plan during the plan period, the NYSE American may again initiate delisting proceedings as appropriate. The Partnership intends to regain compliance with the NYSE American’s continued listings standards by such date; however, there is no assurance the Partnership will be able to accomplish this.
+FORWARD-LOOKING STATEMENTS
+This press release contains “forward-looking statements,” which involve risks and uncertainties. All statements, other than statements of present or historical fact, included in this press release are forward-looking statements. Any statements that refer to Evolve’s future strategy, future uses of capital, future operations, plans and objectives of management or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as “may,” “expect,” “plan,” “anticipate,” “believe,” “project” or the negative of such terms or other similar expressions. These forward-looking statements are based on management’s current beliefs, expectations and assumptions regarding the future of Evolve’s business, future plans and strategies, projections, anticipated events and trends, the economy and other future conditions.
+These forward-looking statements are subject to known and unknown risks, uncertainties and assumptions about Evolve that may cause Evolve’s actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by such forward looking statements. Therefore, you should not rely on any of these forward-looking statements. Management cautions all readers that the forward-looking statements contained in this press release are not guarantees of future performance, and actual results may differ materially from those anticipated or implied in forward-looking statements. For more information concerning factors that could cause actual results to differ from those expressed or forecasted, please read Evolve’s filings with the SEC, with particular attention to the “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” sections in Evolve’s most recent Annual Report on Form 10-K and Quarterly Report on Form 10-Q, all of which are available on Evolve’s website at www.evolvetransition.com and on the SEC’s website at www.sec.gov. These cautionary statements qualify all forward-looking statements attributable to Evolve or persons acting on Evolve’s behalf. Except as otherwise required by applicable law, Evolve disclaims any duty to update any forward-looking statements, all of which are expressly qualified by the statements in this section, to reflect events or circumstances after the date of this press release.
+ABOUT THE PARTNERSHIP
+Evolve Transition Infrastructure LP is a publicly-traded limited partnership formed in 2005 focused on the acquisition, development and ownership of infrastructure critical to the transition of energy supply to lower carbon sources. Evolve owns natural gas gathering systems, pipelines and processing facilities in South Texas and continues to pursue energy transition infrastructure opportunities.
+ADDITIONAL INFORMATION
+Additional information about Evolve can be found in our documents on file with the SEC which are available on our website at www.evolvetransition.com and on the SEC’s website at www.sec.gov.
+PARTNERSHIP CONTACT
+Charles C. Ward
+Interim Chief Executive Officer, Chief Financial Officer and Secretary
+ir@evolvetransition.com
+(713) 800-9477
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/evolve-transition-infrastructure-announces-date-of-effectiveness-of-reverse-split/
+
+HOUSTON, June 23, 2023 — Evolve Transition Infrastructure LP (OTC: SNMP) (“Evolve”) today announced that it intends to implement its previously announced 1-for-30 reverse split (the “Reverse Split”) of its common units representing limited partner interests in Evolve (“common units”) effective after the over-the-counter market closes on July 17, 2023. The common units will begin trading on a split-adjusted basis when the over-the-counter market opens on July 18, 2023. The announcement today follows confirmation from The Financial Industry Regulatory Authority (“FINRA”) that it has received and reviewed the necessary documentation to process the Reverse Split. FINRA reserves the right to further review the Reverse Split and any additional review could potentially further delay the implementation of the Reverse Split.
+As previously announced, pursuant to the Reverse Split, common unitholders will receive one common unit for every thirty common units they own at the close of trading on July 17, 2023. No fractional units will be issued in connection with the Reverse Split and unitholders who would otherwise be entitled to receive a fractional unit will instead receive a cash payment (without interest and rounded up to the nearest whole cent) based on the closing price of the common units on July 17, 2023.
+The Reverse Split uniformly affects all issued and outstanding common units as well as all units under Evolve’s long term incentive plans, warrants and associated reserves. Evolve anticipates that the Reverse Split will decrease the number of common units outstanding from approximately 254.4 million to 8.5 million.
+Evolve’s transfer agent, Computershare Trust Company, N.A., will adjust its records to reflect each registered unitholder’s post-split position and registered unitholders are not required to take any action in connection with the Reverse Split. Please contact Computershare Trust Company, N.,A. for further information at (800) 564-6253 or by email directed to shareholder@computershare.com.
+Unitholders owning common units via a broker, bank, trust or other nominee will have their positions automatically adjusted to reflect the Reverse Split, subject to such broker’s particular processes, and will not be required to take any action in connection with the Reverse Split.
+The new CUSIP number for the common units after the Reverse Split will be 30053M203.
+ABOUT EVOLVE TRANSITION INFRASTRUCTURE LP
+Evolve Transition Infrastructure LP is a publicly-traded limited partnership formed in 2005 focused on the acquisition, development and ownership of infrastructure critical to the transition of energy supply to lower carbon sources. Evolve owns natural gas gathering systems, pipelines and processing facilities in South Texas and continues to pursue energy transition infrastructure opportunities.
+ADDITIONAL INFORMATION
+Additional information about Evolve can be found in Evolve’s documents on file with the United States Securities and Exchange Commission (“SEC”) which are available on Evolve’s website at www.evolvetransition.com and on the SEC’s website at www.sec.gov.
+FORWARD-LOOKING STATEMENTS
+This press release contains “forward-looking statements,” which involve risks and uncertainties. All statements, other than statements of present or historical fact, included in this press release are forward-looking statements. Any statements that refer to Evolve’s future strategy, future uses of capital, future operations, plans and objectives of management or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as “may,” “expect,” “plan,” “anticipate,” “believe,” “project” or the negative of such terms or other similar expressions. These forward-looking statements are based on management’s current beliefs, expectations and assumptions regarding the future of Evolve’s business, future plans and strategies, projections, anticipated events and trends, the economy and other future conditions.
+These forward-looking statements are subject to known and unknown risks, uncertainties and assumptions about Evolve that may cause Evolve’s actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by such forward looking statements. Therefore, you should not rely on any of these forward-looking statements. Management cautions all readers that the forward-looking statements contained in this press release are not guarantees of future performance, and actual results may differ materially from those anticipated or implied in forward-looking statements. For more information concerning factors that could cause actual results to differ from those expressed or forecasted, please read Evolve’s filings with the SEC, with particular attention to the “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” sections in Evolve’s most recent Annual Report on Form 10-K and Quarterly Report on Form 10-Q, all of which are available on Evolve’s website at www.evolvetransition.com and on the SEC’s website at www.sec.gov. These cautionary statements qualify all forward-looking statements attributable to Evolve or persons acting on Evolve’s behalf. Except as otherwise required by applicable law, Evolve disclaims any duty to update any forward-looking statements, all of which are expressly qualified by the statements in this section, to reflect events or circumstances after the date of this press release.
+CONTACT
+Charles C. Ward
+Interim Chief Executive Officer and Chief Financial Officer
+ir@evolvetransition.com
+(713) 800-9477
+General Inquiries: (713) 800-9477
+www.evolvetransition.com
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/site-map/
+
+Posts
+- Evolve Transition Infrastructure Reports Exercise of Right to Purchase Common Units (January 8, 2024)
+- Evolve Transition Announces NYSE American Removal of Trading Suspension (July 26, 2023)
+- Evolve Transition Infrastructure Announces Date of Effectiveness of Reverse Split (June 23, 2023)
+- Evolve Transition Infrastructure Announces Delay in Effectiveness of Reverse Split (June 13, 2023)
+- Evolve Transition Infrastructure Receives Notice from NYSE American Commencing Delisting Procedures (June 9, 2023)
+- Evolve Announces a 1-for-30 Reverse Split (May 22, 2023)
+- Evolve Transition Infrastructure Files Form 10-K (March 27, 2023)
+- NYSE American Approves Evolve’s Plan to Regain Compliance (February 23, 2023)
+- Evolve Transition Infrastructure Receives Notice from NYSE American Regarding Continued Listing Standard (December 30, 2022)
+- Evolve Transition Infrastructure Receives Notice from NYSE American Regarding Continued Listing Standard (December 9, 2022)
+- Evolve Transition Infrastructure Announces Court Approval of Mesquite Settlement Agreement (June 7, 2022)
+- Evolve Transition Infrastructure Files Form 10-K (March 31, 2022)
+- Evolve Completes Senior Leadership Transition (December 2, 2021)
+- Evolve Reports New Employment Inducement Awards Under NYSE American Listing Rules (November 4, 2021)
+- Evolve Transition Infrastructure and HOBO Renewable Diesel Announce Agreement to Develop Renewable Fuels Projects (November 4, 2021)
+- Evolve Regains Compliance with NYSE America Continued Listing Standards (October 5, 2021)
+- Evolve Announces Completion of Amended Credit Agreement Supporting Business Strategy Shift (August 23, 2021)
+- Nuvve, Stonepeak, and Evolve Finalize “Levo” Joint Venture Providing up to $750 Million in Funding to Electrify Fleets (August 4, 2021)
+- Evolve Announces Agreement with Nuvve and Stonepeak to Pursue a $750 million Joint Venture, “Levo,” to Deploy Turnkey Electric Vehicle Charging and Transportation-as-a-Service for School Buses and other Commercial Fleets (May 17, 2021)
+- Evolve Transition Infrastructure Announces Completion of Upstream Asset Divestitures and Provides Business Update Focused on Energy Transition (May 4, 2021)
+- Evolve Transition Infrastructure Reports Full-Year 2020 Financial Results and Provides Strategy Update (March 26, 2021)
+- Sanchez Midstream Partners LP Will Change Its Name to Evolve Transition Infrastructure LP (February 16, 2021)
+- NYSE American Approves SNMP’s Plan to Regain Compliance (June 29, 2020)
+- Sanchez Midstream Partners Receives Notice from NYSE American Regarding Continued Listing Standard (April 7, 2020)
+- Sanchez Midstream Partners Reports Fourth-Quarter and Full-Year 2019 Financial Results (March 13, 2020)
+- Sanchez Midstream Partners Reports Third-Quarter 2019 Financial Results (November 12, 2019)
+- Sanchez Midstream Partners Reports Second-Quarter 2019 Financial Results; Suspends Cash Distributions (August 8, 2019)
+- Sanchez Midstream Partners Reports First-Quarter 2019 Financial Results (May 9, 2019)
+- Sanchez Midstream Partners Declares Distribution on Common Units; Announces Distribution on Class B Preferred Units (May 6, 2019)
+- Sanchez Midstream Partners Reports Fourth-Quarter and Full-Year 2018 Financial Results (March 7, 2019)
+- Sanchez Midstream Partners Declares Distribution on Common Units; Announces Distribution on Class B Preferred Units (February 7, 2019)
+- Sanchez Midstream Partners Reports Third Quarter 2018 Financial Results; Declares New Cash Distribution (November 9, 2018)
+- Sanchez Midstream Partners Announces Third Quarter 2018 Earnings Conference Call (October 23, 2018)
+- Sanchez Midstream Partners Reports Second Quarter 2018 Financial Results (August 9, 2018)
+- Sanchez Midstream Partners Declares Distribution on Common Units; Announces Distribution on Class B Preferred Units (August 8, 2018)
+- Sanchez Midstream Partners Announces Second Quarter 2018 Earnings Conference Call (July 20, 2018)
+- Sanchez Midstream Partners Announces Expansion of Midstream Joint Venture with Targa Resources in South Texas (May 23, 2018)
+- Sanchez Midstream Partners Announces Participation in the MLP & Energy Infrastructure Conference (May 21, 2018)
+- Sanchez Midstream Partners Reports First Quarter 2018 Financial Results; Provides Full Year 2018 Forecast (May 10, 2018)
+- Sanchez Midstream Partners Declares Distribution on Common Units; Announces Distribution on Class B Preferred Units (May 8, 2018)
+- Sanchez Midstream Partners Announces First Quarter 2018 Earnings Conference Call (April 24, 2018)
+- Sanchez Midstream Partners Reports Fourth Quarter and Full Year 2017 Financial Results (March 9, 2018)
+- Sanchez Midstream Partners Announces Fourth Quarter 2017 Earnings Conference Call (February 16, 2018)
+- Sanchez Midstream Partners Declares Distribution on Common Units; Announces Distribution on Class B Preferred Units (February 8, 2018)
+- Sanchez Midstream Partners Announces Borrowing Base Increase (December 14, 2017)
+- Sanchez Midstream Partners Reports Third Quarter 2017 Operating and Financial Results (November 14, 2017)
+- Sanchez Midstream Partners Increases Distribution on Common Units; Announces Distribution on Class B Preferred Units (November 7, 2017)
+- Sanchez Midstream Partners Announces Third Quarter 2017 Earnings Conference Call (October 17, 2017)
+- Sanchez Midstream Partners Announces Participation in Johnson Rice Energy Conference (September 12, 2017)
+- Sanchez Midstream Partners Provides Operations Update After Hurricane Harvey (August 30, 2017)
+- Sanchez Midstream Partners Reports Second Quarter 2017 Operating and Financial Results (August 15, 2017)
+- Sanchez Midstream Partners Increases Distribution on Common Units; Announces Distribution on Class B Preferred Units (August 9, 2017)
+- Sanchez Midstream Partners Announces Second Quarter 2017 Earnings Conference Call (August 1, 2017)
+- Sanchez Midstream Partners Closes Sale of Its Remaining Operated Oklahoma Production Assets (July 17, 2017)
+- Sanchez Midstream Partners Sells Non-Core Production Assets in Texas; Provides Update on Midstream Activities in South Texas (July 5, 2017)
+Pages
+- Investor Overview with Stock Data (February 20, 2024)
+- Site Map (November 6, 2023)
+- Legal (November 2, 2023)
+- Terms and Conditions (November 2, 2023)
+- Privacy Policy (November 2, 2023)
+- Contact (November 2, 2023)
+- Responsibility (November 2, 2023)
+- Investor Overview (November 1, 2023)
+- Operations (November 1, 2023)
+- Leadership (November 1, 2023)
+- Home (October 23, 2023)
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/leadership/
+
+SENIOR LEADERSHIP
+Board of Directors
+John T. Steen III, Chairman
+John T. Steen III is the Chairman of our general partner’s Board of Directors and fills one of four seats currently held by our Class C Preferred Unit Holder.
+Mr. Steen is currently a Senior Operating Partner with Stonepeak Infrastructure Partners and supports Stonepeak’s efforts in the midstream energy sector. Prior to joining Stonepeak, Mr. Steen was CEO of Paradigm Energy Partners with a focus on oil and gas pipeline and storage assets in the Bakken Shale of North Dakota and the Eagle Ford Shale of South Texas. Prior to Paradigm, Mr. Steen worked as Vice President for Sage Midstream, as well as in various midstream business development capacities for Energy Transfer and LDH Energy. He is the Chairman of the Texas Racing Commission, which oversees all pari-mutuel wagering on horse and greyhound racing in the state. Mr. Steen also serves on the boards of Oryx Midstream Services LLC and King Ranch, Inc. He graduated cum laude from Vanderbilt University and received an MBA from the Wharton School as well as an MA in International Studies from the University of Pennsylvania. Mr. Steen is also a CFA charterholder.
+Michael Bricker, Director
+Michael Bricker is a member of our general partner’s Board of Directors and fills one of four seats currently held by our Class C Preferred Unit Holder.
+Mr. Bricker is a Managing Director and Principal at Stonepeak and has been with Stonepeak since 2017. Mr. Bricker currently serves as a member of the Operating Committee for Whistler Pipeline, a greenfield natural gas pipeline, and Oryx Midstream Services LLC, the owner and operator of a crude oil pipeline system, both located in the Permian Basin. Prior to joining Stonepeak, Mr. Bricker was an investment professional for First Reserve Energy Infrastructure Fund, a private equity firm that focuses on energy infrastructure investments. Mr. Bricker started his career as an Analyst in Citigroup’s oil and gas investment banking group. Mr. Bricker holds a Master in Professional Accounting with a Minor in Finance, graduating with high honors from the University of Texas at Austin.
+Michael Heim, Director
+Michael Heim is a member of our general partner’s Board of Directors and fills one of four seats currently held by our Class C Preferred Unit Holder.
+Mr. Heim is currently an independent consultant in the energy industry, a role he has held since April 2019. Mr. Heim also currently serves on the Board of Directors of Oryx Midstream LLC, a private midstream crude operator, and West Texas Gas, a private company involved in natural gas distribution, natural gas and natural gas liquids transmission services and related gathering and processing operations, roles he has held since July 2019 and October 2021, respectively. Mr. Heim also presently serves on the Management Committee representing the Canada Pension Plan Investment Board (“CPPIB”) in a midstream joint venture between the Williams Company and CPPIB in Appalachia, a role he has held since fall 2019. From March 2016 to April 2019 Mr. Heim served as Vice Chairman of the Board of Directors of Targa Resources Corp. (“Targa”), a company he co-founded. From November 2015 to February 2016, he served as Vice Chairman and a member of the board of directors of the general partner of Targa Resources Partners LP. From January 2012 to November 2015, Mr. Heim served as President and Chief Operating Officer of Targa. From October 2005 to December 2011, Mr. Heim served as Executive Vice President and Chief Operating Officer of Targa. He also served as an officer of an affiliate of Targa during 2004 and 2005 and was a consultant for the affiliate during 2003. Mr. Heim also served as a consultant in the energy industry from 2001 through 2003 providing advice to various energy companies and investors regarding their operations, acquisitions and dispositions. Mr. Heim served as Chief Operating Officer and Executive Vice President of Coastal Field Services, a subsidiary of The Coastal Corp. (“Coastal”), a diversified energy company, from 1997 to 2001 and President of Coastal States Gas Transmission Company from 1997 to 2001. In these positions, he was responsible for Coastal’s midstream gathering, processing, and marketing businesses. Prior to 1997, he served as an officer of several other Coastal exploration and production, marketing and midstream subsidiaries. Mr. Heim brings more than 40 years of experience in building, operating and managing midstream assets in the U.S. to the Board. He also brings substantial experience in joint ventures, project finance and project development having been involved in numerous new construction, operations, commercial decisions, risk planning and governmental and industry advocacy activities over the course of his career.
+David Kinder, Director
+David Kinder is a member of our general partner’s Board of Directors and fills one of our four seats currently held by our Class C Preferred Unit Holder.
+Mr. Kinder is currently an Operating Partner at Stonepeak. Additionally, Mr. Kinder is President of TP Power, LLC which owns and operates power plants in Texas and is a partner at Sabine Property Partners, which focuses on commercial real estate opportunities in Texas. Mr. Kinder currently serves on the Board of Directors of Oryx Midstream LLC, a private midstream crude operator in the Permian Basin and Zenith Energy, a leading global operator of independent liquids terminals, roles that he has held since 2019 and 2014, respectively. Additionally, he was a board member and audit chair from 2013 to 2017 of Western Refining Logistics, L.P (“WNRL”) which owned and operated crude oil and refined products pipelines, terminals and other logistics assets. Mr. Kinder was Vice President of Corporate Development and Treasurer of Kinder Morgan, Inc. (“KMI”) and Kinder Morgan Energy Partners, L.P. (“KMP”) from 2005 until retiring from the companies in 2013 and Vice President, Corporate Development and Treasurer of the general partner of El Paso Pipeline Partners, L.P (“EPB”) from 2012 until retiring from the company in 2013. Mr. Kinder held various management roles for the Kinder Morgan companies from 1999 – 2013. Kinder Morgan is one of the largest diversified energy infrastructure companies in North America. Mr. Kinder brings to the Board over 25 years of experience in the acquisition, divestiture, financing, and development of energy assets in North America. He graduated cum laude with a Bachelor of Business Administration in Finance and minor in History from Texas Christian University.
+Executives
+Charles Ward, Chief Financial Officer and Secretary & Interim Chief Executive Officer
+Charles C. Ward was elected Chief Financial Officer and Secretary of our general partner in March 2015.
+Mr. Ward previously served as Chief Financial Officer and Treasurer of our predecessor entity from March 2008 until its conversion to a limited partnership in March 2015 and Secretary from July 2014 until March 2015. Mr. Ward also served as a Vice President of Constellation Energy Commodities Group, Inc. from November 2005 until December 2008. Prior to that time, he was a Vice President of Enron Creditors Recovery Corp. from March 2002 to November 2005.
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/investor-overview/corporate-governance/
+
+Corporate Governance
+We conduct our business honestly, with respect for our professional obligations and with regard for legal and regulatory requirements.
+- Code of Business Conduct and Ethics
+Provides guidance on a wide range of conduct, conflicts of interest and legal compliance issues for all of the employees, officers and directors of our general partner and any affiliate thereof providing services to us, including the executive officers of our general partner.
+An interested party who wishes to communicate to the board of directors of our general partner may submit such communication in writing to:
+Chairman
+Evolve Transition Infrastructure LP
+1360 Post Oak Blvd, Suite 2400
+Houston, TX 77056
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/investor-overview/press-releases-b2i/
+
+Press Releases This Data Service has expired.To renew service, contact us on our website or email support at b2itech. This message is only for reactivating this data service.
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/investor-overview-with-stock-data/
+
+INVESTOR OVERVIEW
+Corporate Profile
+Evolve Transition Infrastructure LP (NYSE American: SNMP) was a publicly-traded limited partnership formed in 2005 focused on the acquisition, development and ownership of infrastructure critical to the transition of energy supply to lower carbon sources. We own natural gas gathering systems, pipelines, and processing facilities in South Texas and continue to pursue energy transition infrastructure opportunities.
+Information Request
+To request additional information, please contact our investor relations team using the contact details below. In addition, former unitholders may request a hard copy of the Partnership’s Annual Report on Form 10-K, which includes the Partnership’s complete audited financial statements, free of charge at any time by contacting our investor relations team using the contact details below.
+Contact Information: (713) 800-9477 or ir@evolvetransition.com
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/evolve-transition-infrastructure-reports-full-year-2020-financial-results-and-provides-strategy-update/
+
+HOUSTON, March 26, 2021 — Evolve Transition Infrastructure LP (NYSE American: SNMP) (“Evolve” or the “Partnership”) reports full year 2020 results and provides strategy update.
+FINANCIAL RESULTS
+The Partnership’s full-year 2020 revenues totaled $57.0 million, of which $45.5 million came from midstream activities. The balance of the Partnership’s full-year 2020 revenues came from production activities. The activities of Carnero G&P LLC, the Partnership’s midstream joint venture (the “Carnero JV”) contributed a gain of approximately $4.5 million for full-year 2020. The Partnership received total cash distributions of $16.2 million from the Carnero JV for full-year 2020 activities. The Partnership reported a net loss of $118.8 million for full-year 2020.
+STRATEGY UPDATE
+As the Partnership disclosed in its Annual Report on Form 10-K for the year ended December 31, 2020 filed with the Securities and Exchange Commission (the “SEC”) on March 16, 2021 (the “2020 Form 10-K”), on February 26, 2021, in connection with management’s focus on expanding the Partnership’s business strategy to focus on the ongoing energy transition in the industries in which the Partnership operates, the Partnership changed its name to Evolve Transition Infrastructure LP and its general partner changed its name to Evolve Transition Infrastructure GP LLC. The Partnership and SP Holdings, LLC, who owns the general partner of the Partnership, are actively sourcing new opportunities to transition the business of the Partnership from a more traditional upstream and midstream oil and gas business to a business focused on ownership of infrastructure critical to the transition of energy supply to lower carbon sources and related investments and opportunities.
+LIQUIDITY AND CREDIT FACILITY UPDATE
+The Partnership had approximately $1.7 million in cash and cash equivalents as of December 31, 2020. As of December 31, 2020, the Partnership had $111.0 million in debt outstanding under its credit facility and since December 31, 2019, the Partnership has reduced its debt outstanding by $39.0 million, or 26 percent. As previously disclosed, based upon the lenders quarterly review of the borrowing base for the Partnership’s midstream assets, the borrowing base has been set at $113.7 million. Since December 31, 2020, the Partnership has made principal payments totaling $6.5 million resulting in $104.5 million in debt outstanding under the credit facility as of March 26, 2021. As previously disclosed, the Partnership’s credit facility is a current liability that matures on September 30, 2021.
+COMMON UNITS
+The Partnership had 54,533,593 common units issued and outstanding as of March 15, 2021 and has 56,185,378 common units issued and outstanding as of March 26, 2021.
+RECEIPT OF AUDIT OPINION WITH GOING CONCERN QUALIFICATION
+Pursuant to the disclosure requirements of the NYSE American Company Guidelines Sections 401(h) and 610(b), Evolve is reporting that its audited financial statements for the year ended December 31, 2020, included in the 2020 Form 10-K, contains an audit opinion from its independent registered public accounting firm that includes an explanatory paragraph related to Evolve’s ability to continue as a going concern. This announcement does not represent any change or amendment to the Partnership’s financial statements or to its 2020 Form 10-K.
+UNITHOLDER ACCESS TO 2020 FORM 10-K
+The Partnership has filed the 2020 Form 10-K with the SEC. A copy of the 2020 Form 10-K, which includes the Partnership’s complete audited financial statements, may be found on the SEC’s website at www.sec.gov and on the Partnership’s website at www.evolvetransition.com by selecting the “Investors” tab and then selecting “SEC Filings” from the dropdown menu. The Partnership will provide any unitholder with a hard copy of its 2020 Form 10-K, which includes Evolve’s complete audited financial statements, free of charge at any time upon request. Requests can be directed in writing to SNMP Investor Relations, 1360 Post Oak Blvd., Suite 2400, Houston, TX 77056 or by email to ir@evolvetranstion.com.
+FORWARD-LOOKING STATEMENTS
+This press release contains, and the officers and representatives of the Partnership and its general partner may from time to time make, statements that are considered “forward-looking statements” as defined by the SEC. These forward-looking statements are subject to a number of risks and uncertainties, many of which are beyond our control, which may include statements about our business strategy; our ability to successfully implement our new energy transition infrastructure business; the ability of our customers to meet their drilling and development plans on a timely basis, or at all, and perform under gathering, processing and other agreements; our financing strategy; our acquisition strategy; our ability to make distributions; our future operating results; the ability of our partners to perform under our joint ventures; our future capital expenditures; and our plans, objectives, expectations, forecasts, outlook and intentions. All of these types of statements, other than statements of historical fact included in this press release, are forward-looking statements. In some cases, forward-looking statements can be identified by terminology such as “may,” “could,” “should,” “expect,” “plan,” “project,” “intend,” “anticipate,” “believe,” “estimate,” “predict,” “potential,” “pursue,” “target,” “continue,” the negative of such terms or other comparable terminology.
+The forward-looking statements contained in this press release are largely based on our expectations, which reflect estimates and assumptions made by the management of our general partner. These estimates and assumptions reflect our best judgment based on currently known market conditions and other factors. Although we believe such estimates and assumptions to be reasonable, they are inherently uncertain and involve a number of risks and uncertainties that are beyond our control. In addition, management’s assumptions about future events may prove to be inaccurate. Management cautions all readers that the forward-looking statements contained in this press release are not guarantees of future performance, and we cannot assure any reader that such statements will be realized or the forward-looking events and circumstances will occur. Actual results may differ materially from those anticipated or implied in forward-looking statements. The 2020 Form 10-K, recent Current Reports on Form 8-K and other filings with the SEC discuss some of the important risk factors that may affect the Partnership’s business, results of operations, and financial condition and you are encouraged to read such filings. The forward-looking statements speak only as of the date made, and other than as required by law, we do not intend to publicly update or revise any forward-looking statements as a result of new information, future events or otherwise. These cautionary statements qualify all forward-looking statements attributable to us or persons acting on our behalf.
+ABOUT THE PARTNERSHIP
+Evolve Transition Infrastructure LP is a publicly-traded limited partnership focused on the acquisition, development and ownership of infrastructure critical to the transition of energy supply to lower carbon sources. We own natural gas gathering systems, pipelines and processing facilities in South Texas and continue to pursue energy transition infrastructure opportunities.
+ADDITIONAL INFORMATION
+Additional information about Evolve can be found in our documents on file with the SEC which are available on our website at www.evolvetransition.com and on the SEC’s website at www.sec.gov.
+PARTNERSHIP CONTACT
+Charles C. Ward
+Chief Financial Officer
+ir@evolvetransition.com
+(713) 800-9477
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/evolve-announces-completion-of-amended-credit-agreement-supporting-business-strategy-shift/
+
+HOUSTON, Aug. 23, 2021 — Evolve Transition Infrastructure LP (“Evolve”) (NYSE American: SNMP) today announced it has executed the previously announced amendment to its credit agreement with the Royal Bank of Canada (“RBC”). The amended credit agreement provides Evolve with a $65 million term loan facility and a $5 million revolving credit facility, with RBC providing the entire principal amounts of both facilities. The amended credit agreement has a maturity date of September 30, 2023 and provides Evolve with increased flexibility to pursue the expansion of its strategic pivot towards energy transition investments and a more favorable amortization profile.
+Evolve CFO, Chuck Ward, commented, “We are very pleased with the support we received from RBC in amending our current credit agreement to provide, among other things, the extended maturity date and the new term and revolving credit facilities. The execution of this amended credit agreement represents the completion of an important milestone in our business strategy shift to focusing on the acquisition and development of infrastructure critical to the transition of energy supply to lower carbon sources”.
+FORWARD LOOKING STATEMENTS
+This press release contains, and our officers and representatives may from time to time make, “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended and Section 21E of the Securities Exchange Act of 1934, as amended. All statements, other than statements of present or historical fact, included in this press release are forward-looking statements. Any statements that refer to our future financial performance, strategy, expansion plans, future operations, future operating results, estimated revenues, losses, projected costs, prospects, plans and objectives of management, forecasts or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking statements. These forward-looking statements are based on management’s current expectations and assumptions about future events and are based on currently available information as to the outcome and timing of future events. Except as otherwise required by applicable law, Evolve disclaims any duty to update any forward-looking statements, all of which are expressly qualified by the statements in this section, to reflect events or circumstances after the date of this press release. These forward-looking statements are subject to known and unknown risks, uncertainties and assumptions that may cause our actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by such forward looking statements. Actual results may differ materially from those anticipated or implied in forward-looking statements. Our Annual Report on Form 10-K for the year ended December 31, 2020, our Quarterly Report on Form 10-Q for the three months ended June 30, 2021 and other filings with the SEC discuss some of the important risk factors that may affect our business, results of operations, and financial condition and you are encouraged to read such filings. These cautionary statements qualify all forward-looking statements attributable to us or persons acting on our behalf.
+ABOUT EVOLVE TRANSITION INFRASTRUCTURE LP
+Evolve Transition Infrastructure LP (NYSE American: SNMP) is a publicly-traded limited partnership formed in 2005 focused on the acquisition, development and ownership of infrastructure critical to the transition of energy supply to lower carbon sources.
+Additional information about Evolve can be found in our documents on file with the SEC which are available on our website at www.evolvetransition.com and on the SEC’s website at www.sec.gov.
+| EVOLVE CONTACT
+Charles Ward |
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/evolve-transition-infrastructure-and-hobo-renewable-diesel-announce-agreement-to-develop-renewable-fuels-projects/
+
+Key Leaders from HOBO to Join Evolve’s Management Team
+Evolve to Invest $600 Million in Construction of Initial Renewable Fuels Project
+HOUSTON, Nov. 04, 2021 — Evolve Transition Infrastructure LP (“Evolve”) (NYSE American: SNMP), a publicly traded limited partnership focused on the acquisition, development and ownership of infrastructure critical to the transition of energy supply to lower carbon sources, and HOBO Renewable Diesel, LLC (“HOBO”), a renewable fuel project developer, today announced an agreement for Evolve to fund the construction of HOBO’s initial project that is expected to produce more than 120 million gallons of renewable fuels annually (the “Fuels Project”).
+In furtherance of the Fuels Project and to support Evolve’s energy transaction focus, key members of the HOBO leadership team will join Evolve’s management team effective December 1st, 2021. HOBO Co-Founder and Chief Executive Officer Randy Gibbs will join Evolve as the new Chief Executive Officer of, and as a member of the board of directors of Evolve’s general partner, HOBO Co-Founder and President Mike Keuss will join Evolve as the new President and Chief Operating Officer of Evolve’s general partner, and HOBO’s Chief Financial Officer Jonathan Hartigan will join Evolve as the new President and Chief Investment Officer of Evolve’s general partner. Each of Messrs. Gibbs, Keuss and Hartigan will accept employment with Evolve’s general partner effective November 3, 2021, and will transition to their respective director and executive roles effective December 1, 2021. Messrs. Gibbs, Keuss and Hartigan have each had long and successful careers in both the fossil fuel and renewable energy spaces and bring extensive experience in project development, engineering, operations, and financing to Evolve’s management team. Gerald Willinger, the current Chief Executive Officer of Evolve’s general partner, plans to resign on December 1st but will assist in the onboarding of new management in November to ensure a smooth transition. Charles Ward, the current Chief Financial Officer of Evolve’s general partner, will continue in his role along with other existing Evolve employees.
+Subject to the satisfaction of certain conditions, including HOBO securing a long-term strategic offtake agreement for the Fuels Project, Evolve will exclusively fund the development and construction of the Fuels Project and future renewable fuels projects that can produce renewable diesel and sustainable aviation fuel (“SAF”) and contribute to the advancement of the transition to a low-carbon world. Renewable diesel and SAF are unique drop-in fuels that are immediately consumable by existing automotive and airplane engines and reduce carbon emissions relative to petroleum based products. These drop-in fuels are in increasingly high demand by customers, including the US federal government, as more organizations embrace de-carbonization. HOBO and Evolve are also considering incorporation of additional carbon reduction opportunities into the Fuels Project and future projects which the management teams believe could result in the production of some of the lowest carbon intensity fuels in the US.
+“We believe the initial and future HOBO projects are extremely attractive opportunities to execute on our previously announced business strategy shift to focus on the acquisition and development of infrastructure critical to the transition of energy supply to lower carbon sources. Randy, Mike and Jonathan are proven leaders and their skill sets and experience will be tremendous complements to our existing team,” said Chuck Ward, Chief Financial Officer of Evolve.
+“Inclusive of Evolve’s participation in the previously announced Levo JV opportunity focused on fleet electrification, Stonepeak believes pursuing renewable fuels projects with HOBO further solidifies Evolve’s standing as a diversified energy transition vehicle with the full support of a strong sponsor,” said Michael Bricker, a member of the board of directors of Evolve’s general partner and Managing Director at Stonepeak Partners LP, a leading alternative investment firm specializing in infrastructure and real assets and an affiliate of Evolve’s general partner.
+“HOBO management is thrilled to collaborate with Evolve and Stonepeak in this exciting and differentiated renewable fuel production platform.” said Randall Gibbs, Co-Founder and CEO of HOBO and incoming CEO of Evolve. “Our shared vision is to build multiple plants of similar design levering off of what we believe are strategic advantages when compared to our competitors.”
+“We believe HOBO’s strategy of building for purpose renewable facilities positions our liquid renewable fuels at the lowest cost point in the marketplace and gives our customers the shortest time to commercialization, two primary reasons that we are seeing strong interest in long-term strategic offtakes for our initial project and also for additional projects” said Mike Keuss, Co-Founder and President of HOBO and incoming President and Chief Operating Officer of Evolve.
+About Evolve Transition Infrastructure LP
+Evolve Transition Infrastructure LP (NYSE American: SNMP) is a publicly-traded limited partnership formed in 2005 focused on the acquisition, development and ownership of infrastructure critical to the transition of energy supply to lower carbon sources.
+Additional information about Evolve can be found in our documents on file with the SEC which are available on our website at www.evolvetransition.com and on the SEC’s website at www.sec.gov.
+About HOBO Renewable Diesel, LLC
+HOBO Renewable Diesel, LLC, is a developer of renewable fuels projects that convert agriculture feedstocks into renewable fuels such as renewable diesel and sustainable aviation fuel. HOBO is led by an experienced group of energy professionals who have demonstrated expertise across project development, engineering, operations, and financing, and the organization has partnered with a premier team of technology and engineering/construction companies as well as other advisors. For more information please visit http://hobord.com.
+About Stonepeak
+Stonepeak is a leading alternative investment firm specializing in infrastructure and real assets with approximately $39 billion of assets under management. Through its investment in defensive, hard-asset businesses globally, Stonepeak aims to create value for its investors and portfolio companies, and to have a positive impact on the communities in which it operates. Stonepeak is headquartered in New York with offices in Houston, Austin and Hong Kong. For more information, please visit https://stonepeakpartners.com.
+Contacts
+Evolve
+Charles Ward
+Chief Financial Officer
+ir@evolvetransition.com
+(713) 800-9477
+HOBO
+Jonathan Hartigan
+Chief Financial Officer
+jhartigan@hobord.com
+(713) 800-2910
+Stonepeak
+Kate Beers
+beers@stonepeakpartners.com
+(646) 540-5225
+Forward-Looking Statements
+This press release contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. All statements, other than statements of present or historical fact, included in this press release are forward-looking statements. Any statements that refer to Evolve’s future strategy, future investments, future uses of capital, future operations, plans and objectives of management or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking statements. Forward-looking statements in this press release may include, for example, statements about Evolve’s expected deployment of capital in support of the announced renewable fuels project, the anticipated benefits of such project, Evolve’s ability to raise capital for purposes of funding the development of any renewable fuels project, HOBO’s ability to execute on the Fuels Project and future projects, customer and market demand for renewable fuels, including renewable diesel and SAF, the carbon intensity of fuels produced by the Fuels Project and future projects, and other statements about Evolve or HOBO. In some cases, you can identify forward-looking statements by terminology such as “may,” “expect,” “plan,” “anticipate,” “believe,” “project” or the negative of such terms or other similar expressions. These forward-looking statements are based on management’s current beliefs, expectations and assumptions regarding the future of Evolve’s business, future plans and strategies, projections, anticipated events and trends, the economy and other future conditions.
+These forward-looking statements are subject to known and unknown risks, uncertainties and assumptions about Evolve, HOBO, the Levo JV opportunity and Stonepeak that may cause Evolve’s actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by such forward looking statements. Therefore, you should not rely on any of these forward-looking statements. Management cautions all readers that the forward-looking statements contained in this press release are not guarantees of future performance, and actual results may differ materially from those anticipated or implied in forward-looking statements. For more information concerning factors that could cause actual results to differ from those expressed or forecasted, please read Evolve’s filings with the SEC, with particular attention to the “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” sections in Evolve’s most recent Annual Report on Form 10-K and Quarterly Report on Form 10-Q, all of which are available on Evolve’s website at www.evolvetransition.com and on the SEC’s website at www.sec.gov. These cautionary statements qualify all forward-looking statements attributable to Evolve or persons acting on Evolve’s behalf. Except as otherwise required by applicable law, Evolve disclaims any duty to update any forward-looking statements, all of which are expressly qualified by the statements in this section, to reflect events or circumstances after the date of this press release.
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/evolve-completes-senior-leadership-transition/
+
+HOUSTON, Dec. 02, 2021 — Evolve Transition Infrastructure LP (“Evolve”) (NYSE American: SNMP), a publicly traded limited partnership focused on the acquisition, development and ownership of infrastructure critical to the transition of energy supply to lower carbon sources, today announced the completion of previously disclosed senior leadership changes, including the addition of key members of the HOBO Renewable Diesel, LLC (“HOBO”) management team and the departure of Evolve Chief Executive Officer, Gerald Willinger.
+Effective December 1st, HOBO Co-Founder and Chief Executive Officer Randy Gibbs became the new Chief Executive Officer of Evolve’s general partner as well as a member of its board of directors. Mike Keuss, HOBO Co-Founder and President, has assumed the role of President and Chief Operating Officer of Evolve’s general partner, and HOBO’s Chief Financial Officer, Jonathan Hartigan, has joined as the new President and Chief Investment Officer of Evolve’s general partner.
+Evolve’s new management team will continue to pursue diversified energy transition opportunities, including the previously announced Levo Mobility LLC joint venture (“Levo JV”) focused on fleet electrification, as well as funding the construction of HOBO’s initial project that is expected to produce more than 120 million gallons of renewable fuels annually. New management will also evaluate Evolve’s capital structure to identify ways of further enhancing its ability to raise funds for future energy transition projects, and expects to consider, among other initiatives, a potential election to be taxed as a corporation in order to access a broader range of potential investors.
+“Mike, Jonathan and I are honored to officially join in our new roles and lead Evolve at such a dynamic time in its history,” said Randy Gibbs, Chief Executive Officer of Evolve. “We look forward to working closely with the entire Evolve team as we continue to shift the business toward meaningful energy transition opportunities and creating additional value for our unitholders.”
+About Evolve Transition Infrastructure LP
+Evolve Transition Infrastructure LP (NYSE American: SNMP) is a publicly-traded limited partnership formed in 2005 focused on the acquisition, development and ownership of infrastructure critical to the transition of energy supply to lower carbon sources.
+Additional information about Evolve can be found in our documents on file with the Securities and Exchange Commission (“SEC”) which are available on our website at www.evolvetransition.com and on the SEC’s website at www.sec.gov.
+Contacts
+Evolve
+Charles Ward
+Chief Financial Officer
+ir@evolvetransition.com
+(713) 800-9477
+Forward-Looking Statements
+This press release contains “forward-looking statements,” which involve risks and uncertainties. All statements, other than statements of present or historical fact, included in this press release are forward-looking statements. Any statements that refer to Evolve’s future strategy, future uses of capital, future operations, plans and objectives of management or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking statements. Forward-looking statements in this press release may include, for example, statements about the production expectations for HOBO’s initial project and other statements about Evolve, HOBO or the Levo JV. In some cases, you can identify forward-looking statements by terminology such as “may,” “expect,” “plan,” “anticipate,” “believe,” “project” or the negative of such terms or other similar expressions. These forward-looking statements are based on management’s current beliefs, expectations and assumptions regarding the future of Evolve’s business, future plans and strategies, projections, anticipated events and trends, the economy and other future conditions. These forward-looking statements are subject to known and unknown risks, uncertainties and assumptions about Evolve, HOBO, and the Levo JV opportunity that may cause Evolve’s actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by such forward looking statements. Therefore, you should not rely on any of these forward-looking statements. Management cautions all readers that the forward-looking statements contained in this press release are not guarantees of future performance, and actual results may differ materially from those anticipated or implied in forward-looking statements. For more information concerning factors that could cause actual results to differ from those expressed or forecasted, please read Evolve’s filings with the SEC, with particular attention to the “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” sections in Evolve’s most recent Annual Report on Form 10-K and Quarterly Report on Form 10-Q, all of which are available on Evolve’s website at www.evolvetransition.com and on the SEC’s website at www.sec.gov. These cautionary statements qualify all forward-looking statements attributable to Evolve or persons acting on Evolve’s behalf. Except as otherwise required by applicable law, Evolve disclaims any duty to update any forward-looking statements, all of which are expressly qualified by the statements in this section, to reflect events or circumstances after the date of this press release.
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/legal/
+
+Legal
+Information on this website is provided “as is” without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose and the timeliness of the information. You assume all risk in using the information. In no event shall Evolve Transition Infrastructure LP or its representatives be liable for any special, indirect or consequential damages resulting from use of any information on this website.
+Forward Looking Statements
+We make statements in this Web site that are considered forward looking statements. See section entitled “Cautionary Statement Regarding Forward Looking Information” available in our latest Form 10-Q and Form 10-K, on file with the Securities and Exchange Commission and available online at sec.gov.
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/wp-content/uploads/2024/02/Qualified-Notice-ECI-No-Distribution-12-31-23.pdf
+
+Partnership: 
+Unit Class: 
+CUSIP #: 
+Posted Date: 
+RE: 
+Evolve Transition Infrastructure LP 
+Common 
+30053M203 
+12/31/2023
+Qualified Notice Pursuant to U.S. Treasury Regulation §1.1446-4 
+92 Day Qualified Notice 
+This announcement is Qualified Notice under 1.1446(f)-4 and the Partnership states that the 
+10% exception DOES NOT apply, as determined under 1.1446(f)-4(b)(3)(ii).
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/wp-content/uploads/2023/11/Qualified-Notice-ECI-No-Distribution-10-25-23.pdf
+
+Partnership: 
+Unit Class: 
+CUSIP #: 
+Posted Date: 
+RE: 
+Evolve Transition Infrastructure LP 
+Common 
+30053M203 
+10/25/2023
+Qualified Notice Pursuant to U.S. Treasury Regulation §1.1446-4 
+92 Day Qualified Notice 
+This announcement is Qualified Notice under 1.1446(f)-4 and the Partnership states that the 
+10% exception DOES NOT apply, as determined under 1.1446(f)-4(b)(3)(ii).
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/wp-content/uploads/2023/11/Qualified-Notice-ECI-No-Distribution-07-18-23.pdf
+
+Partnership: 
+Unit Class: 
+CUSIP #: 
+Posted Date: 
+RE: 
+Evolve Transition Infrastructure LP 
+Common 
+30053M203 
+7/18/2023
+Qualified Notice Pursuant to U.S. Treasury Regulation §1.1446-4 
+92 Day Qualified Notice 
+This announcement is Qualified Notice under 1.1446(f)-4 and the Partnership states that the 
+10% exception DOES NOT apply, as determined under 1.1446(f)-4(b)(3)(ii).
+
+--------------------------------------------------------------------------------
+
+URL: https://evolvetransition.com/wp-content/uploads/2023/11/Qualified-Notice-ECI-No-Distribution-06-06-23.pdf
+
+Partnership: 
+Unit Class: 
+CUSIP #: 
+Posted Date: 
+RE: 
+Evolve Transition Infrastructure LP 
+Common 
+30053M104 
+6/6/2023 
+Qualified Notice Pursuant to U.S. Treasury Regulation §1.1446-4 
+92 Day Qualified Notice 
+This announcement is Qualified Notice under 1.1446(f)-4 and the Partnership states that the 
+10% exception DOES NOT apply, as determined under 1.1446(f)-4(b)(3)(ii).
+
+--------------------------------------------------------------------------------

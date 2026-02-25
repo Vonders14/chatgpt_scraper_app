@@ -1,0 +1,406 @@
+ROOT: https://ecogyenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:00:11.640562Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://ecogyenergy.com/
+
+Ecogy’s Platform Provides Renewable Energy Solutions That Are Distributed, De-carbonized, Digitized, and Democratized.
+Our Dedicated Team of Industry Experts is Here to Help Your Organization Make the Change.
+Featured Partners
+Develop
+From origination to commercial operation, Ecogy brings projects through the full development lifecycle with attention to detail and our clients' needs as our top priorities.
+FINANCE
+Ecogy brings the full capital stack (development and working capital, complete tax-equity and sponsor equity takeout) to get projects from initial client interaction all the way to operation.
+COnstruct
+We contract with local construction firms with firsthand knowledge of the community landscape allowing for more efficiency in the permitting and planning process.
+operate
+Our dedicated in-house asset management team, proprietary software platform, and local O&M partners allow for us to exceed expected production - increasing rate of returns and energy savings for our clients.
+TOTAL kW IN DEVELOPMENT & DEPLOYED
+STATES & U.S. TERRITORIES
+“We’re happy to help celebrate this innovative project, which will create jobs, build on our efforts to promote sustainability, and reduce emissions. Thank you to the Wilmington Housing Authority and Ecogy Energy for their leadership in partnering on this important work.”
+Governor John Carney, State of Delaware
+Explore our project with the Wilmington Housing Authority here.
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/portfolio-wha
+
+WILMINGTON HOUSING AUTHORITY (WHA)
+Location: Wilmington, DE
+System Size: 1.67 MW DC
+Installation Type: Brownfield Ground-Mount
+Installation Year: 2018
+Ecogy Delaware II consists of a 1.67MWdc brownfield ground-mount for the Wilmington Housing Authority, the largest direct provider of affordable housing in Delaware. This project offsets energy costs at multiple high-rise buildings which couldn't access solar.
+The project consisted of hiring and training WHA residents all while WHA is guaranteed to save over a million dollars over the life of the project. The project was selected as a model to expand low-income access to solar in the urban environment through the Department of Energy Solar In Your Community Challenge.
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/portfolio
+
+Ecogy Energy serves...
+Affordable housing communities, houses of worship, non-profits, municipalities, learning institutions, small businesses, corporations, and more.
+Explore our portfolio below to learn about our wonderful partners.
+affordable housing communities
+HOUSES of worship
+MUNICIPALITIES, LEARNING INSTITUTIONS, AND NON-PROFITS
+small BUSINESSES AND CORPORATIONS
+Please note - Not all of Ecogy’s projects are featured here due to confidentiality reasons.
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/portfolio-st-theresa
+
+ST THERESA PARISH
+Location: Briarcliff Manor, NY
+System Size: 159 kW DC
+Installation Type: Rooftop Community Solar
+Installation Year: 2021
+Utility: Con Edison
+This 159 kW community solar system is located on a brand new rooftop at St Theresa’s School in Briarcliff Manor. St Theresa is a Parish of the ArchDiocese of New York serving local residents of Westchester with a mission to be a welcoming and rewarding spiritual resource for all.
+The PV system will pay annual lease payments to St Theresa for 25 years and will enable over 30 local community members to receive guaranteed savings on their electric utility bill, all while supporting a local clean energy project.
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/portfolio-gainesville
+
+PROVIDENT RESOURCES GROUP INC. / UNIVERSITY OF FLORIDA
+Location: Gainesville, Florida
+System Size: 248 kW DC
+Installation Type: Parking Lot Canopy
+Installation Year: 2012
+Est. Lifetime CO2 Reduced: 3,500 tons
+Ecogy Continuum is a 248 kWdc parking lot canopy system on top of a parking garage serving the Provident Resources Group Inc. and the University of Florida. The energy is sold directly to Gainesville Regional Utilities through a Feed-in tariff program.
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/portfolio-sherwood-lumber
+
+SHERWOOD LUMBER
+Location: Palmer, MA
+System Size: 542 kW DC
+Installation Type: Rooftop Community Solar
+Installation Year: 2019
+Estimated Annual Production: 530,909 kWh
+Providing community members of Western Massachusetts the option to support local, renewable energy, this 542 kWdc community solar system will provide power to over 50 residents.
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/portfolio-strafford
+
+STRAFFORD
+Location: Strafford, VT
+System Size: 110 kW DC
+Installation Type: Ground-Mount Community Solar
+Installation Year: 2015
+Est. Lifetime Savings: $190,000
+Est. Lifetime CO2 Reduced: 1,975 tons
+Ecogy developed its first community solar ground-mounted array in Strafford, VT. Power generated from the array benefits the local community and provides savings to Newton School, Barrett Hall, Morrill Library, and the United Church of Strafford.
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/portfolio-longwood-gardens
+
+LONGWOOD GARDENS
+Location: Kennett Square, PA
+System Size: 1.57 MW DC
+Installation Type: Ground-Mount
+Installation Year: 2011-2012
+Est. Lifetime CO2 Reduced: 19,500 tons
+Ecogy Longwood is a 1.57 MWdc ground-mount system for Longwood Gardens, the largest botanical garden in the U.S. Using a special mounting system, we were able to avoid stripping the land, altering the topography, or affecting Longwood’s storm water plan. Partnering with Longwood allowed for the development of a special meadow seed mix to be planted between rows to minimize storm water runoff, maximize biodiversity and create aesthetic appeal.
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/portfolio-beth-el
+
+TEMPLE BETH-EL
+Location: Stamford, CT
+System Size: 210 kW DC
+Installation Type: Rooftop Solar
+Installation Year: 2013
+Est. Lifetime Savings: $143,000
+Est. Lifetime CO2 Reduced: 2,000 tons
+Ecogy CT is a 210 kW system for Temple Beth El, a local synagogue in Stamford, CT. Quote from Steve Lander, Executive Director “This system will save 70 percent of our energy and relieves pressure on the grid,” The solar project is dedicated to Norma Mann, a woman who spent decades as a leader and congregant at the synagogue.
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/portfolio-lyndhurst
+
+TOWN OF LYNDHURST, NJ
+Location: Lyndhurst, NJ
+System Size: 444 kW DC
+Installation Type: Parking Lot Canopy
+Installation Year: 2018
+Ecogy Lyndhurst is a 444 kWdc project consisting of 8 parking lot canopies serving the Town of Lyndhurst, NJ and sited at their town recreation center.
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/portfolio-maryknoll
+
+mARYKNOLL
+Location: Ossining, NY
+System Size: 873.6 kW DC
+Installation Type: Parking Lot Canopy
+Installation Year: 2021
+Ecogy Maryknoll is a 873.6 kW DC community solar project, likely the largest in Westchester. The system is comprised of 12 parking lot canopies hosted by the Maryknoll Fathers and Brothers of Ossining.
+All electrical wiring will be underground so no utility poles will be needed. The system will employ bifacial glass panels, allowing light filtering through to produce energy on both sides and 100% of the energy generated by this system will be grid injected and available for Community Solar subscribers.
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/products
+
+Ecogy provides a suite of energy solutions to our customers. In all cases, our offerings involve Ecogy deploying, maintaining, owning and operating these assets while sharing the economic and social benefits with our partners and clients.
+Select an offering below to learn more
+Rooftop Solar Development Cycle
+The chart below highlights major milestones in Ecogy’s development process. By identifying key feasibility metrics upfront, we avoid wasted time and money.
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/partner-portal
+
+For Existing Partners:
+Enter Ecosuite web portal below:
+Become a Partner
+see how we value integrity, honesty,& transparency.
+Ecogy continuously pursues co-development and acquisition opportunities and builds lasting partnerships across industries to leverage the capabilities of each institution for successful project deployment.
+We provide one experienced and efficient point of contact so you can focus on your core business. Our internal PM, Development, Surveying, Engineering, and Construction teams can pick up a project at any stage of the development cycle and bring it to completion.
+We regularly share projects, information, and resources with our partners and vice versa to advance not only our individual business but the industry as a whole. We want to grow with you, and the best way to do that is to move forward with transparency by sharing opportunities with our partners first.
+We are dedicated to helping the entire solar community – that is why we regularly participate in working groups including NYSEIA’s Solar Stakeholder Sessions, Rhode Island OER Comment Periods, New Jersey’s Board of Public Utilities Stakeholder Engagement Sessions, and more.
+We have a great internal policy team that submits hundreds of pages of comments every year and are members of all relevant trade associations and are dedicated solar stakeholders in all the markets in which we develop.
+We have a long track record of successful execution across all system types and sizes, 9 states, D.C., and the Caribbean. Our unique, flexible and comprehensive in-house financing capabilities make Ecogy a quality partner for developers, EPCs, energy managers and more.
+Ecogy has the internal capital to deploy from day 1, allowing projects to move from initial engagement to project operation expeditiously. Whether that be for a re-roofing, parking lot re-pavement or other capital improvement projects, we're here to invest and support organizations in improving their properties.
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/ecogy-news
+
+Read All About Us
+Ecogy Energy helps American Red Cross in Tinton Falls reduce carbon emissions
+Ecogy Energy, together with the American Red Cross, unveiled a 120.1 kilowatt DC solar system, developed by Brooklyn-based Ecogy, that will provide the nonprofit’s building in Tinton Falls with all the solar energy it needs to offset annual on-site electricity use, making the building net-zero.
+Catholic campus already running 100% on wind power builds solar arrays for community use
+“The stewardship of our environment is critical to continuance, just as self-preservation is critical to our own survival and that of our community. We are beyond grateful for the opportunity to provide clean resources to the community and contribute to saving our planet.”
+- Superior General, Father Raymond Finch, Maryknoll Society
+Croton-on-Hudson Certified as a Silver Climate Smart Community
+“Our new community solar array, installed on the roof of our DPW building by Ecogy Energy, serves 53 local households and prevents the emission of more than 100 metric tons of greenhouse gas – equivalent to taking 33 gas-driven cars off the road. This is just one example of what we can achieve when we work together to protect our common home and build for a sustainable future,”
+- Lindsay Audin, Chair of the village’s Sustainability Committee.
+Wilmington Housing Authority unveils solar array in Southbridge
+The Wilmington Housing Authority joined state and local officials Monday to show off a new solar array at the former 180-unit WHA Southbridge Extension site in Wilmington’s Southbridge neighborhood. According to city officials, it’s currently the largest privately-financed, public housing solar project in the country.
+Frank Lloyd Wright’s Fallingwater gets clean energy assist from on-site solar array
+“Installing solar carries forward Wright’s ideals and continues the Conservancy’s commitment to protect and preserve this beautiful landscape and the architectural principles that make Fallingwater unique.”
+- Justin Gunther, VP, Western PA Conservancy and Director of Fallingwater.
+Energy Department Congratulates 'Plug-and-Play DER Challenge' Finalists
+In August 2018, the DOE’s Grid Modernization Laboratory Consortium (GMLC) launched the “Plug & Play DER Challenge,” a call for proposed concepts to develop interoperability solutions to lower integration costs, increase system performance, and enhance capabilities.
+Ecogy Energy Working on Rooftop Community Solar Projects for NYPA
+Ecogy Energy, a developer, financier and owner-operator, says it is securing preliminary agreements with the first municipality in a series of upcoming projects that were selected through a competitive request for proposals from the New York Power Authority (NYPA) under the Westchester Community Solar Partnership (WCSP).
+Ocean State Job Lot Unwraps Rooftop Solar Portfolio
+Ocean State Job Lot could host more than Christmas decorations this winter. The North Kingstown, R.I.-based discount retail chain will be hosting 7,500 solar rooftop panels across 10 of its Rhode Island locations, starting with its Johnston store. The energy generated will be fed directly back into the regional power grid.
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/careers
+
+Working For Ecogy
+Outstanding benefits are one of the many advantages of working at Ecogy Energy. Here at Ecogy, we strive to create an environment where our employees feel valued and have the tools they need to thrive both personally and professionally. We are looking for environmentally-conscious, sustainably-driven, sincere, and genuine applicants.
+Ecogy is focused on fostering a welcoming and accepting workplace culture with an active willingness to invest in our people, technology, and equipment to ensure that we are not only successful, but also contributing to the professional development of all our employees.
+Don’t see an open position that fits your skills set our background? Ecogy hires for culture and engagement first, so please submit your resume and cover letter to recruiting@ecogyenergy.com if you think you would be a good fit!
+Be at the Forefront of Equitable Climate Change Solutions
+Our company is firmly committed to serving the underserved and to advancing the global renewable energy transition in an equitable and just manner. Our company was founded on this principle and is the thought-leader in this space.
+Hybrid Work Optionality
+The Ecogy team is spread out in a variety of locations, from Brooklyn to New Orleans to Auckland, New Zealand, allowing for a unique workplace culture that brings in diverse backgrounds - all with the collective mission to save the planet. Ecogy employs a unique opt-in hybrid work model, allowing for Monday and Friday to be optional work from home days.
+Work-Life Balance
+Ecogy prioritizes a healthy work-life balance: allowing for every Friday to be a half day for all our employees!
+We offer comprehensive health care plans that cover medical, vision, dental, and unlimited sick days so you can feel better ASAP. We will always prioritize the health of our employees.
+Ecogy also offers flexible vacation days, comprehensive 401k, equity options, and anniversary rewards.
+Our Employees Have Flexibility
+You may be interested in dipping your toes into multiple specializations. We are open to growing with you and seeking out your most effective and impactful position at Ecogy - whether it be as a creative Marketing Analyst or numbers-based Financial Analyst - we want to see you succeed.
+A Culture of Learning, Professional Advancement, and Growth
+Ecogy is committed and encourages all employees to continuously seek, share, and apply new knowledge and skills to improve individual and organizational performance. Examples include funding unlimited courses from HeatSpring or receiving your NABCEP certification - we want to grow alongside you!
+Company Wide Retreats, Outings, and Happy Hours
+Nothing beats spending time with the team in a beautiful destination. Ecogy plans, at minimum, two offsite trips a year, and additionally local happy hours. Some of our highlights include our annual 64’ catamaran yacht trip in Newport, Rhode Island, a holiday party in a Williamsburg Loft, and a hiking trip in the Catskill Mountains.
+Dynamic Startup Turned Small Business
+Ecogy’s startup environment is the perfect opportunity for entrepreneurial minded professionals. Your work at Ecogy will have a lasting impact on the company’s growth trajectory and you will be vital to its success each and every day.
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/sustainability
+
+The Ecogy Ethos
+Ecogy’s goal is to create renewable energy solutions that are distributed, de-carbonized, digitized and democratized. Ultimately, we are working towards creating a global electric grid that is reliable, resilient, sustainable, affordable, secure, and flexible.
+Ecogy Energy prioritizes equitable development over portfolio size, a mantra that began as an idea and transformed into a company-wide ideology, informing and directing project development, hiring, customer service, and partner choice.
+Environmental Justice
+Ecogy believes that a just renewable energy transition must address systemic inequality while simultaneously creating clean energy jobs and combating climate change. Our projects aim to serve disadvantaged communities, affordable housing communities, and LMI individuals.
+Ecogy has developed over 26 projects that serve low-to-moderate income community members in 5 states, D.C., and the Caribbean. These projects range from affordable housing communities to senior living communities to housing authorities, but all revolve around the central mission of providing renewable energy access to the historically underserved.
+In addition to developing projects that directly benefit LMI community members and disadvantaged communities, Ecogy has dedicated lobbyists. These lobbyists stay up-to-date with prospective legislation or renewable energy programs, participate in working groups including the Low Income VDER Working Group, and generate comments that advocate for LMI adoption of and access to solar.
+Local Contributions
+Ecogy partners with local electricians, arborists, landscapers, roofers, and pavers in order to maximize economic benefits for the local communities we serve.
+Ecogy strives to uplift our clients by hosting ribbon cutting ceremonies with local officials and publishing press releases that shine a spotlight on our clients’ sustainability efforts.
+Generation Dashboard
+All-time generation:
+63,910 MWh
+Greenhouse Gas Equivalent:
+The carbon sequestered by roughly 53,600 acres of U.S. forest in one year
+The CO2 emissions avoided from almost 9,000 homes’ electric usage for one year
+Charging 5.5 billion phones to 100%
+Sustainable Materials and Events
+Ecogy’s business cards are printed on recycled paper. There’s history in those cards.
+Our ribbon cutting ceremonies are run on 100% renewable energy. Batteries are hooked up to solar panels which feed TVs, microphones, speakers, and laptops.
+All uneaten meals from our ribbon cutting ceremonies are donated to local food shelters like the Martin Luther King Food Pantry in Newport, RI.
+Sustainable Office
+Due to COVID-19, Ecogy has not been completely in-person since late 2019. Ecogy follows a hybrid work model, meaning commutes to our workspace are limited which reduces daily transportation emissions.
+However, when we were in office, we had an Econode connected to our electricity meter to find our baseline energy usage and work to decrease consumption, and our office was signed up to a community solar project in ConEdison.
+The EcoNode and the Future of Energy Consumption Reporting
+The EcoNode is Ecogy’s centralized energy monitoring system, created for commercial and industrial buildings to increase their energy visibility and reduce costs.
+Energy monitoring helps drive sustainability and is a key resource in meeting Environmental, Social, and Governance (ESG) goals and reporting requirements.
+The first step to being able to report on your energy consumption is being able to create a baseline through highly accurate and granular monitoring.
+Ecogy’s EcoNode and EcoSuite are helping companies recognize where they can cut down on energy use, not only helping them save on their electric bill, but also work towards ESG goals.
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/development
+
+How it works…
+Ecogy
+Finances the construction of a solar system; you pay zero upfront and ongoing costs.
+Ecogy is solely responsible for the installation, maintenance, and removal of the system at the end of its lifetime.
+Your Organization
+Agrees to host the system for an annual lease payment, reroof subsidy or upfront payment or purchase the energy generated by the system at a significantly lower fixed cost than your current energy bill.
+ECOGY DOES THINGS DIFFERENTLY
+Ecogy’s Development Cycle
+-
+Full Site Evaluation
+Ecogy will coordinate with you to collect all of the electrical, structural and site-specific information required to design and engineer our solar system. As part of this process, one of our licensed drone pilots will survey your property to collect high-resolution imagery and topographical measurements.
+-
+Site Plan and Electrical Design
+Once our surveying team has collected all of the necessary information about your property, they will work with our in-house design and engineering team to develop preliminary site plans including solar system layouts and electrical one-line diagrams. These plans will follow local electrical, building and fire codes and will be reviewed by your local electrical utility.
+-
+Structural Analysis
+Insuring that your building is structurally suitable to host a rooftop solar system is of paramount importance to Ecogy. A detailed structural analysis will be completed to determine the exact weight that your building can hold including loads such as snow, wind and roof material.
+-
+Electrical & Structural Engineering Stamp
+The final step to our structural and electrical design and engineering process is to receive a stamp on our system layout and electrical diagrams from locally licensed Professional Engineers.
+-
+Interconnection Application
+When our design has been completed and stamped, Ecogy will initiate the interconnection application process with your local utility. Every solar project is unique, so your utility will usually take 3-4 months to review and study the impact of our proposed solar generation on the electrical grid. This is required to make sure that our operations maintain the safety and reliability of the grid. After this review is complete, Ecogy receives approval to interconnect by signing an Interconnection Services Agreement.
+-
+Permit Application
+After your utility approves our design, Ecogy begins the process of receiving local building and electrical permits from the city or town that will have jurisdiction over the project. In some cases, your town may require Ecogy to obtain a special use permit in order for the Planning Board to review our installation and its potential impact within the community. Ecogy takes pride in focusing our efforts on roof-mounted, parking lot canopy and brownfield solar projects which tend to be welcomed additions to any neighborhood.
+-
+Utility Interconnection & Permitting Approval
+Yay!
+-
+Construction
+With all of our interconnection and local permits in-hand, Ecogy will procure all required electrical and racking equipment, deliver it to site and begin construction of your solar system. We contract with local construction firms with firsthand knowledge of the community landscape who build to our specification - allowing for exceptional quality and more efficiency in the permitting and planning process. We will coordinate closely with property representatives along the way to make sure that we work on a schedule that fits best with your operations. The construction timeline will vary depending on the size and complexity of the system and can take anywhere from 1-4 months.
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/learning-network
+
+Blog Articles
+Featured
+Software, ESI, Machine Learning, AI, Ecosuite
+Software Solutions for Enhancing the Monetization, Deployment and Origination of DERs
+Software, ESI, Machine Learning, AI, Ecosuite
+Software, ESI, Machine Learning, AI, Ecosuite
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/contact-us
+
+ECOGY HQ - Brooklyn, NY
+55 Washington St., Brooklyn, NY 11201
+For general inquiries or referrals, please give us a call at 718-304-0945 or fill out the form below:
+Ecogy RI HQ
+449 Thames St., Newport, RI
+ECOGY PA HQ
+1516 N 5th St., Philadelphia, PA 19122
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/financing
+
+What We Offer:
+In addition to helping businesses, nonprofits and municipalities build solar PV systems, Ecogy Energy deploys capital for distributed-generation projects across the United States, US Virgin Islands and the Caribbean. This includes…
+-
+Project Finance
+Ecogy has completed transactions for projects both operating and in development through traditional take-out financing at various stages of development. Ecogy is also able to offer working capital or a custom milestone payment schedule to bring projects to fruition.
+-
+Tax Equity
+Ecogy's internal sponsor and tax equity allows for effective monetization and accurate valuation from Day 1.
+-
+SREC Contracts
+Ecogy's internal management system creates efficiencies in managing a portfolio of varying projects with differing incentives such as SREC contracts both contracted and uncontracted. Ecogy trades SRECs daily and is always happy to consider transacting SRECs in U.S. markets.
+-
+Project Documentation
+Ecogy's experience owning and operating systems for a decade has created an extensive database of boilerplate investment grade project documents. Our internal management system creates a streamlined approach to managing these documents.
+Interested in partnering on a renewable energy project? Reach out - Ecogy finances distributed generation projects of all sizes at any stage of development.
+
+--------------------------------------------------------------------------------
+
+URL: https://ecogyenergy.com/construction
+
+Construction:
+Ecogy has been owning and operating systems for over a decade and understands the importance of quality construction and execution.
+Ecogy’s in-house development team consists of project managers, engineers, construction managers, surveyors, and certified FAA drone pilots.
+We contract with local construction firms with firsthand knowledge of the community landscape who build to our specification - allowing for exceptional quality and more efficiency in the permitting and planning process.
+
+--------------------------------------------------------------------------------
+
+URL: https://general@ecogyenergy.com/
+
+Ecogy’s Platform Provides Renewable Energy Solutions That Are Distributed, De-carbonized, Digitized, and Democratized.
+Our Dedicated Team of Industry Experts is Here to Help Your Organization Make the Change.
+Featured Partners
+Develop
+From origination to commercial operation, Ecogy brings projects through the full development lifecycle with attention to detail and our clients' needs as our top priorities.
+FINANCE
+Ecogy brings the full capital stack (development and working capital, complete tax-equity and sponsor equity takeout) to get projects from initial client interaction all the way to operation.
+COnstruct
+We contract with local construction firms with firsthand knowledge of the community landscape allowing for more efficiency in the permitting and planning process.
+operate
+Our dedicated in-house asset management team, proprietary software platform, and local O&M partners allow for us to exceed expected production - increasing rate of returns and energy savings for our clients.
+TOTAL kW IN DEVELOPMENT & DEPLOYED
+STATES & U.S. TERRITORIES
+“We’re happy to help celebrate this innovative project, which will create jobs, build on our efforts to promote sustainability, and reduce emissions. Thank you to the Wilmington Housing Authority and Ecogy Energy for their leadership in partnering on this important work.”
+Governor John Carney, State of Delaware
+Explore our project with the Wilmington Housing Authority here.
+
+--------------------------------------------------------------------------------
+
+URL: https://general@ecogyenergy.com/portfolio-st-theresa
+
+ST THERESA PARISH
+Location: Briarcliff Manor, NY
+System Size: 159 kW DC
+Installation Type: Rooftop Community Solar
+Installation Year: 2021
+Utility: Con Edison
+This 159 kW community solar system is located on a brand new rooftop at St Theresa’s School in Briarcliff Manor. St Theresa is a Parish of the ArchDiocese of New York serving local residents of Westchester with a mission to be a welcoming and rewarding spiritual resource for all.
+The PV system will pay annual lease payments to St Theresa for 25 years and will enable over 30 local community members to receive guaranteed savings on their electric utility bill, all while supporting a local clean energy project.
+
+--------------------------------------------------------------------------------
+
+URL: https://general@ecogyenergy.com/portfolio-gainesville
+
+PROVIDENT RESOURCES GROUP INC. / UNIVERSITY OF FLORIDA
+Location: Gainesville, Florida
+System Size: 248 kW DC
+Installation Type: Parking Lot Canopy
+Installation Year: 2012
+Est. Lifetime CO2 Reduced: 3,500 tons
+Ecogy Continuum is a 248 kWdc parking lot canopy system on top of a parking garage serving the Provident Resources Group Inc. and the University of Florida. The energy is sold directly to Gainesville Regional Utilities through a Feed-in tariff program.
+
+--------------------------------------------------------------------------------
+
+URL: https://general@ecogyenergy.com/portfolio
+
+Ecogy Energy serves...
+Affordable housing communities, houses of worship, non-profits, municipalities, learning institutions, small businesses, corporations, and more.
+Explore our portfolio below to learn about our wonderful partners.
+affordable housing communities
+HOUSES of worship
+MUNICIPALITIES, LEARNING INSTITUTIONS, AND NON-PROFITS
+small BUSINESSES AND CORPORATIONS
+Please note - Not all of Ecogy’s projects are featured here due to confidentiality reasons.
+
+--------------------------------------------------------------------------------

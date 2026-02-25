@@ -1,0 +1,912 @@
+ROOT: https://netpower.com/
+SCRAPED_AT_UTC: 2026-02-11T20:21:38.111463Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://netpower.com/
+
+Clean. Firm. Scalable.
+Net Power’s mission is to transform natural gas into the lowest cost form of clean firm power.
+Clean
+High carbon capture capacity
+Firm
+Providing 24/7 dispatchable
+baseload power with rapid ramp rates and low turn-down capabilities
+Scalable
+Our standard plant design enables rapid deployment through modularization and plant stacking
+Join our team
+At Net Power, you have the opportunity to join a dynamic team working towards a shared vision of a clean and reliable energy future.
+Explore rewarding careers where diverse talents are valued and benefits promote work-life balance. Start your journey today and unlock your full potential at Net Power.
+
+--------------------------------------------------------------------------------
+
+URL: https://netpower.com/aboutus
+
+About us
+Net Power’s momentum is built on more than a decade of research, development, and execution to deploy clean firm power that uses natural gas and carbon capture.
+Net Power’s supporting partners include Oxy, Baker Hughes, and Constellation.
+Executive Team
+Danny Rice
+President and Chief Executive Officer
+Danny Rice
+President and Chief Executive Officer
+Danny Rice has served as Net Power’s Chief Executive Officer since 2023 and brings over 20 years of energy industry experience across various sectors including traditional energy production and transportation, energy technologies and energy transition. Danny also serves as Net Power’s interim Chief Financial Officer. Danny’s career has been profiled by Forbes Magazine, Wall Street Journal, Bloomberg, and other news organizations.
+Early in his career, Danny co-founded Rice Energy and led its growth from startup in 2008 into becoming one of North America’s largest public natural gas production and transportation companies, culminating in its $10 billion merger with EQT Corporation in 2017. Danny served as Rice Energy’s Chief Financial Officer from 2008-2012, Chief Operating Officer from 2012-2013, and Chief Executive Officer from its 2014 IPO until 2017.
+In 2018, Danny co-founded Rice Investment Group to invest in early-stage private companies across traditional energy, energy technology, and energy transition sectors. Notable Rice Investment Group investments include Archaea Energy, XCL Resources, Pinon Resources, Cold Bore Technology, Persefoni AI, and ComboCurve. In 2020, Rice Investment Group sponsored two special purpose acquisition companies, the first of which merged with Archaea Energy in 2021, which was acquired by bp for $4.1 billion in 2022. The second merged with Net Power in 2023.
+Danny’s career began with finance and strategy roles at TPH & Co., Transocean Ltd., and Tyco International plc.
+Danny has served on numerous private and public company boards, including Rice Energy (NYSE: RICE, 2014-2017), Rice Midstream Partners (NYSE: RMP, 2014-2017), EQT Corp (NYSE: EQT, 2017-current), Archaea Energy Inc. (NYSE: LFG, 2021-2022), Whiting Petroleum Corporation (NYSE: WLL, 2020-2022), Rice Acquisition Corp I (NYSE: RICE, 2020-2021) and Rice Acquisition Corp II (NYSE: RONI, 2021-2022).
+Danny was raised in Boston, MA and currently resides in Dallas, TX with his wife and their two daughters.
+Marc Horstman
+Chief Operating Officer
+Marc Horstman
+Chief Operating Officer
+Marc Horstman was appointed as Chief Operating Officer of the Company on April 15, 2025. Mr. Horstman previously served as Net Power’s Head of Product Development beginning in May 2023. Prior to joining Net Power, he held senior leadership roles at Vertiv Holdings Co., a provider of critical digital infrastructure for data centers, communication networks, and commercial and industrial environments, including Vice President of North America Service Operations from October 2021 to November 2022 and Senior Director of Project Execution from June 2019 to September 2021. Prior to that, at Siemens, Mr. Horstman served as Senior Executive Vice President Americas from April 2017 to December 2018, as Vice President of Global Customer Operations from April 2016 to April 2017, and as Vice President of Global Manufacturing & Test from December 2014 to April 2016.
+Earlier in his career, he held various project and product leadership roles at Rolls-Royce from 2011 to 2014 and General Electric from 1999 to 2011. Mr. Horstman began his career as an Engineer Officer in the U.S. Army. He holds a B.S. in Mechanical Engineering from the University of Dayton.
+Amy Keyser
+Chief Human Resources Officer
+Amy Keyser
+Chief Human Resources Officer
+Amy Keyser joined Net Power after serving as the head of human resources for a global financial services company and a U.S.-based fintech organization. She has held a series of senior executive legal and HR roles and has been recognized for her work in DEIA, supporting workforces through change, aligning people strategies with business objectives, and increasing employee engagement.
+She was in private practice as a management-defense employment attorney with several San Francisco law firms. She holds a B.A. in Psychology and a J.D. from the University of Virginia. She is a member of the California State Bar Association and the District of Columbia Bar Association. She also holds a professional certificate from Duke University in human resource management, is SHRM-SCP credentialed, and a certified executive coach.
+Andrew Davisson
+Interim General Counsel
+Andrew Davisson
+Interim General Counsel
+Andrew Davisson has served as Interim General Counsel of Net Power since January 2026. He previously served as Deputy General Counsel from June 2023 to January 2026. Prior to joining Net Power, he held senior legal roles with multiple public companies where he was primarily responsible for public company reporting and compliance, corporate governance, capital markets, and equity and executive compensation matters.
+Davisson was in private practice with the Raleigh office of DLA Piper from 2009 to 2018 prior to moving in-house. He holds a B.A. in Psychology and Criminal Justice from the University of Richmond and a J.D. from Wake Forest University. He is a licensed member of the North Carolina State Bar.
+Bruce Jenkins
+Chief of Staff
+Bruce Jenkins
+Chief of Staff
+Bruce Jenkins has served as Net Power’s Chief of Staff since April 2025 and partners with the Chief Executive Officer and Chief Operating Officer on Net Power’s strategic priorities and responsibilities. He is responsible for identifying and escalating enterprise risk issues, leading cross-functional teams to achieve critical company objectives, and designing efficient processes that enable Net Power to operate in a modern, agile fashion.
+Bruce also leads Net Power’s Supply Chain, Information Technology, and Origination Teams, ensuring their goals are strategically aligned and efficiently integrated into Net Power’s operating model. Bruce joined Net Power in July 2023 as Vice President of Organizational Excellence where he was responsible for designing Net Power’s digital work environment and building structured processes to enhance how Net Power collaborates on work.
+Prior to Net Power, Bruce spent over a decade in leadership roles at exploration and production companies such as EQT, CNX Resources, and Rice Energy. Bruce began his career at Bechtel Bettis, Inc. and has management experience at consulting companies like Deloitte and BDO. He earned a Bachelor of Science from Penn State University in Computer Engineering and an MBA from Quantic School of Technology and Business.
+Scott Martin
+Chief Technology Officer
+Scott Martin
+Chief Technology Officer
+Scott Martin serves as the Chief Technology Officer of Net Power, a clean energy technology company working to provide the Energy Trifecta – clean, low-cost, and reliable energy. As CTO, Scott leads technology development efforts, alignment with key partners, and Net Power’s long-term go-to-market strategy.
+Scott’s work on Net Power began in 2014 as one of the original engineers designing Net Power’s 50MWth La Porte, Texas Demonstration Facility. Scott contributed to Net Power’s technology suite of initial commercial designs and overall IP portfolio and lived in both Tokyo and Houston to complete engineering, construction, and commissioning of the demonstration facility. Scott led efforts of the successful first-of-a-kind oxy-combustion testing completed at site in 2018 and then later served as Director of Demonstration at Net Power from Fall 2018, where he led engineering and validation, laying the groundwork for Net Power’s successful synchronization to the ERCOT grid in Fall 2021.
+In addition to Net Power, Scott contributed to the development and commercialization of 8 Rivers’ other groundbreaking clean technology in carbon capture, direct air capture, and clean hydrogen.
+Scott served as Director of Strategic Sales at Mitsubishi Power from June 2021 to June 2022, working closely with utilities and consortiums to assess techno-economics and drive adoption of emerging hydrogen technologies. Scott returned to Net Power in June 2022.
+Scott graduated from Duke University with a Bachelor of Science in Mechanical Engineering and Materials Science. He was a 2018 Forbes 30 Under 30 honoree in Energy.
+Xijia Lu
+Chief Innovation Officer
+Xijia Lu
+Chief Innovation Officer
+Dr. Xijia Lu has served as Net Power’s Chief Innovation Officer since January 2024. Prior to joining Net Power, Dr. Lu worked for 8 Rivers Capital, LLC for eight years, leading the research and development (R&D) of the solid fuel based Allam Cycle technology, which is a solid fuel-based direct fired supercritical CO2 cycle.
+He has also led R&D efforts for other novel technologies development in clean energy space, including a calcium-based post combustion capture technology and direct air capture technology. Dr. Lu received a PhD degree in Mechanical Engineering from the University of New Orleans, and he has over 30 publications and over 100 patent filings.
+Board of Directors
+Peter J. (Jeff) Bennett
+Chairman
+Peter J. (Jeff) Bennett
+Chairman
+Mr. Bennett has served as President of U.S. Onshore Resources and Carbon Management, Commercial Development of Occidental, the parent of OLCV, since October 2020. In this role, Mr. Bennett is responsible for the strategic direction and capital placement for Occidental’s U.S. Onshore Resources and Carbon Management business.
+He also served as Senior Vice President of Permian Resources of Occidental Oil and Gas, a subsidiary of Occidental, from April 2018 to April 2020 and as President and General Manager of Permian Resources and the Rockies from April 2020 to October 2020. Mr. Bennett previously served as President and General Manager — Permian Resources, New Mexico Delaware Basin, from January 2017 to April 2018, Chief Transformation Officer from June 2016 to January 2017, Vice President, Portfolio and Optimization of Occidental Oil and Gas from February 2016 to June 2016 and, prior to that, pioneered innovative logistical and operational solutions as Vice President, Operations Portfolio and Integrated Planning of Occidental Oil and Gas from October 2015 to February 2016. Mr. Bennett has served as a member of the board of directors of Western Midstream Partners, LP (NYSE: WES) since August 2019 and as chairperson of such board since December 2021. Mr. Bennett received a B.A. in accounting from Louisiana State University and an MBA from Pepperdine University in California. He is also a Certified Public Accountant (inactive).
+Ralph Alexander
+Director
+Ralph Alexander
+Director
+Mr. Alexander served as Chief Executive Officer of Talen Energy Corporation, one of the largest competitive power generation and infrastructure companies in North America, from December 2016 to June 2021 and as its Chairman from June 2021 to April 2023. He was previously affiliated with Riverstone Holdings LLC, an energy and power-focused private equity firm, from 2007 to 2016. Prior to that, for nearly 25 years, he served in various positions with subsidiaries and affiliates of BP plc, one of the world’s largest oil and gas companies (“BP”). From 2004 until 2006, Mr. Alexander served as Chief Executive Officer of Innovene, BP’s $20 billion olefins and derivatives subsidiary. From 2001 until 2004, he served as Chief Executive Officer of BP’s Gas, Power and Renewables and Solar segment and was a member of the BP group executive committee. Prior to that, Mr. Alexander served as a Group Vice President in BP’s Exploration and Production segment and BP’s Refinery and Marketing segment. He held responsibilities for various regions of the world, including North America, Russia, the Caspian, Africa and Latin America. Prior to these positions, Mr. Alexander held various positions in the upstream, downstream, and finance groups of BP.
+Since its inception in 2013, he has served on the Board of Directors of Enviva Inc. (NYSE: EVA), a global energy company specializing in sustainable wood bioenergy and one of the world’s largest producers of sustainable wood pellets, which provide a low-carbon alternative to fossil fuels. He previously served on the boards of EP Energy Corporation, Foster Wheeler, Stein Mart, Inc., Amyris and Anglo-American plc. Mr. Alexander holds an M.S. in Nuclear Engineering from Brooklyn Polytech (now NYU School of Engineering) and an M.S. in Management Science from Stanford University.
+Danny Rice
+President and Chief Executive Officer
+Danny Rice
+President and Chief Executive Officer
+Danny Rice has served as Net Power’s Chief Executive Officer since 2023 and brings over 20 years of energy industry experience across various sectors including traditional energy production and transportation, energy technologies and energy transition. Danny also serves as Net Power’s interim Chief Financial Officer. Danny’s career has been profiled by Forbes Magazine, Wall Street Journal, Bloomberg, and other news organizations.
+Early in his career, Danny co-founded Rice Energy and led its growth from startup in 2008 into becoming one of North America’s largest public natural gas production and transportation companies, culminating in its $10 billion merger with EQT Corporation in 2017. Danny served as Rice Energy’s Chief Financial Officer from 2008-2012, Chief Operating Officer from 2012-2013, and Chief Executive Officer from its 2014 IPO until 2017.
+In 2018, Danny co-founded Rice Investment Group to invest in early-stage private companies across traditional energy, energy technology, and energy transition sectors. Notable Rice Investment Group investments include Archaea Energy, XCL Resources, Pinon Resources, Cold Bore Technology, Persefoni AI, and ComboCurve. In 2020, Rice Investment Group sponsored two special purpose acquisition companies, the first of which merged with Archaea Energy in 2021, which was acquired by bp for $4.1 billion in 2022. The second merged with Net Power in 2023.
+Danny’s career began with finance and strategy roles at TPH & Co., Transocean Ltd., and Tyco International plc.
+Danny has served on numerous private and public company boards, including Rice Energy (NYSE: RICE, 2014-2017), Rice Midstream Partners (NYSE: RMP, 2014-2017), EQT Corp (NYSE: EQT, 2017-current), Archaea Energy Inc. (NYSE: LFG, 2021-2022), Whiting Petroleum Corporation (NYSE: WLL, 2020-2022), Rice Acquisition Corp I (NYSE: RICE, 2020-2021) and Rice Acquisition Corp II (NYSE: RONI, 2021-2022).
+Danny was raised in Boston, MA and currently resides in Dallas, TX with his wife and their two daughters.
+J. Kyle Derham
+Director
+J. Kyle Derham
+Director
+Mr. Derham has served as the Chief Executive Officer of RONI since February 2022; prior to that, he served as RONI’s Chief Financial Officer from February 2021 to February 2022. Mr. Derham is a Partner of Rice Investment Group. Mr. Derham was a director of Archaea Energy Inc. from September 2021 until December 2022 when Archaea Energy Inc. was acquired by BP Products North America Inc. Mr. Derham, as part of certain members of the Rice Investment Group, led the shareholder campaign in 2019 to revamp the strategic direction of EQT and elect a majority slate of director candidates to the board of EQT, the largest operator of natural gas production in the United States. Following the campaign, Mr. Derham served as interim Chief Financial Officer of EQT and subsequently served as a strategic advisor to the company.
+Mr. Derham previously served as Vice President, Corporate Development and Finance of Rice Energy Inc. and Rice Midstream Partners LP from January 2014 through November 2017. Through his various roles working alongside the Rice family, Mr. Derham has focused on evaluating, structuring and negotiating key acquisitions and execution of critical strategic initiatives to generate attractive risk adjusted returns for investors. Mr. Derham also has experience as a private equity investor, working as an associate at First Reserve and as an investment banker at Barclays Investment Bank.
+Frederick A. Forthuber
+Director
+Frederick A. Forthuber
+Director
+Frederick A. Forthuber currently serves as President of Oxy Energy Services, LLC, a subsidiary of Occidental Petroleum Corporation. In this role, Mr. Forthuber has global functional responsibility for midstream and marketing of crude oil, natural gas liquids, and natural gas. In addition, Mr. Forthuber has global functional responsibility for Health and Safety, Process Safety and Risk Engineering. Mr. Forthuber has more than 35 years of industry experience in oil and gas operations. He has held positions of increasing responsibility in engineering and project management since joining Occidental with the acquisition of Altura Energy in 2000.
+Most recently, he served as Vice President Worldwide Operations for Occidental Oil and Gas Corporation. Prior to joining Occidental, Mr. Forthuber served in engineering roles for Altura Energy and Exxon. He has been a Director for the Western Midstream Board of Directors since 2021 and is a member of the Environmental, Social, and Governance Committee. Mr. Forthuber holds a Bachelor of Science degree in Marine Engineering Systems from the United States Merchant Marine Academy and an Executive Scholar Certificate in Finance from the Kellogg School of Management at Northwestern University.
+Joseph T. Kelliher
+Director
+Joseph T. Kelliher
+Director
+Mr. Joseph T. Kelliher is a former Executive Vice President-Federal Regulatory Affairs for NextEra Energy, Inc. (NextEra) and former Chairman of the Federal Energy Regulatory Commission (“FERC”). Mr. Kelliher was responsible for developing and executing FERC regulatory strategy for NextEra and its principal subsidiaries, NextEra Energy Resources and Florida Power & Light Company, from 2009 to 2020. NextEra is the largest electricity company in the U.S., one of the few national electricity companies, operating in every region and every organized market, and the most complex company regulated by FERC, with multiple business lines subject to FERC regulation.
+Previously, Mr. Kelliher served as FERC Chairman and Commissioner from 2005 to 2009. A hallmark of his chairmanship was efficient implementation of the Energy Policy Act of 2005, the largest expansion in FERC regulatory authority since the 1930s. This law gave FERC a new mission to assure reliability of the interstate power grid, granted the agency strong enforcement authority for the first time and expanded FERC powers in other areas. Chairman Kelliher pursued a series of reforms to promote competitive wholesale power and natural gas markets, improve FERC economic regulation and strengthen the U.S. energy infrastructure.
+Mr. Kelliher has spent his entire professional career working on energy policy matters, serving in a variety of roles in both the public and private sectors. These include senior policy advisor to the U.S. Secretary of Energy, majority counsel to the U.S. House Commerce Committee and positions with private corporations, trade associations and law firms. Mr. Kelliher earned a Bachelor of Science degree from Georgetown University, School of Foreign Service, and a Juris Doctor degree, magna cum laude, from The American University Washington College of Law.
+Carol Peterson
+Director
+Carol Peterson
+Director
+From 2004 until her retirement in February 2022, Ms. Peterson held multiple executive positions at Constellation. From January 2015 to February 2022, she served as Senior Vice President of Strategy & Planning, in which position she led major transformations including the separation of Constellation from Exelon and the integration of acquired power plants.
+Previously at Exelon Generation, from March 2014 to January 2015, she served as Vice President of Strategy, from April 2010 to March 2014, she served as Vice President of Project Management and, from October 2004 to April 2010, she served as Vice President of Finance. Prior to Constellation, Ms. Peterson held positions in engineering and operations for Duke Energy Corporation (NYSE: DUK), Wisconsin Energy Corporation and Westinghouse Electric Corporation. Ms. Peterson has served on the Board of the Northern Illinois Food Bank since 2016. Ms. Peterson earned a bachelor’s degree in engineering from the University of Illinois and a master’s of management from Northwestern University.
+Brad Pollack
+Director
+Brad Pollack
+Director
+Mr. Pollack currently serves as Deputy General Counsel, Commercial Development and Operations of Occidental. In this role, which he has held since April 2023, Mr. Pollack is responsible for the legal support for domestic and international mergers, acquisitions and other commercial transactions, and manages the legal teams supporting Occidental’s operations in the Middle East, North Africa, South America and Gulf of Mexico, as well as major projects. He has also served as Vice President, Legal of Oxy Low Carbon Ventures (OLCV) since July 2022, pursuant to which he is responsible for the legal support for Occidental’s low carbon ventures business, which seeks to leverage Occidental’s legacy of carbon management expertise to develop carbon capture, utilization and storage (CCUS) projects.
+Mr. Pollack joined Occidental in 2014 and has held multiple positions of increasing responsibility within Occidental’s legal department, including most recently serving as Associate General Counsel of Occidental Petroleum from January 2022 to April 2023, prior to which he served as Assistant General Counsel, M&A and Strategic Transactions, from April 2019 to June 2022, as Managing Counsel, M&A and Strategic Transactions, from April 2018 to March 2019, and as Senior Counsel, M&A and Projects, from December 2014 to March 2018. Before joining Occidental, Mr. Pollack was a senior corporate and securities lawyer at Dechert LLP where he represented public and private companies in domestic and cross-border mergers and acquisitions, capital market transactions, corporate governance and other legal matters across a wide range of industry sectors, such as energy, technology, advanced manufacturing and financial services. Mr. Pollack received a B.S.E. in systems engineering from the University of Pennsylvania and a J.D. from Syracuse University College of Law.
+Alejandra Veltmann
+Director
+Alejandra Veltmann
+Director
+Ms. Veltmann is an executive with financial leadership of publicly-listed entities, private entrepreneurial companies and global auditing firms. Since 2018, she has served as founder and CEO of ESG Lynk, a leading sustainability reporting company. Ms. Veltmann has also served as a member of California Resources Corporation’s (NYSE: CRC) Board of Directors and Audit Committee Chair since December 2021. From 2021 to its acquisition in 2022, she served as a director and chair of the Audit Committee for Structural Integrity Associates, a private company that provides life cycle engineering solutions. From 2015 to 2018, she was Vice President and Chief Accounting Officer of Paragon Offshore Plc., an offshore drilling company.
+From 2010 to 2015, she worked in various roles including Corporate Controller and Vice President and Chief Accounting Officer at Geokinetics, Inc., formerly one of the world’s largest independent land and seafloor geophysical companies. She also held several positions in the audit practice of KPMG LLP from 1995 to 2002 and before that at Arthur Andersen LLP from 1992 to 1995. Ms. Veltmann is a certified public accountant and holds the FSA Credential from the Sustainability Accounting Standards Board (SASB). She has a BBA degree in Accounting from the University of New Mexico and is an alumna of the Advanced Management Program at Harvard Business School.
+Peter J. (Jeff) Bennett
+Chairman
+Peter J. (Jeff) Bennett
+Chairman
+Mr. Bennett has served as President of U.S. Onshore Resources and Carbon Management, Commercial Development of Occidental, the parent of OLCV, since October 2020. In this role, Mr. Bennett is responsible for the strategic direction and capital placement for Occidental’s U.S. Onshore Resources and Carbon Management business. He also served as Senior Vice President of Permian Resources of Occidental Oil and Gas, a subsidiary of Occidental, from April 2018 to April 2020 and as President and General Manager of Permian Resources and the Rockies from April 2020 to October 2020. Mr. Bennett previously served as President and General Manager — Permian Resources, New Mexico Delaware Basin, from January 2017 to April 2018, Chief Transformation Officer from June 2016 to January 2017, Vice President, Portfolio and Optimization of Occidental Oil and Gas from February 2016 to June 2016 and, prior to that, pioneered innovative logistical and operational solutions as Vice President, Operations Portfolio and Integrated Planning of Occidental Oil and Gas from October 2015 to February 2016. Mr. Bennett has served as a member of the board of directors of Western Midstream Partners, LP (NYSE: WES) since August 2019 and as chairperson of such board since December 2021. Mr. Bennett received a B.A. in accounting from Louisiana State University and an MBA from Pepperdine University in California. He is also a Certified Public Accountant (inactive).
+Ralph Alexander
+Director
+Ralph Alexander
+Director
+Mr. Alexander served as Chief Executive Officer of Talen Energy Corporation, one of the largest competitive power generation and infrastructure companies in North America, from December 2016 to June 2021 and as its Chairman from June 2021 to April 2023. He was previously affiliated with Riverstone Holdings LLC, an energy and power-focused private equity firm, from 2007 to 2016. Prior to that, for nearly 25 years, he served in various positions with subsidiaries and affiliates of BP plc, one of the world’s largest oil and gas companies (“BP”). From 2004 until 2006, Mr. Alexander served as Chief Executive Officer of Innovene, BP’s $20 billion olefins and derivatives subsidiary. From 2001 until 2004, he served as Chief Executive Officer of BP’s Gas, Power and Renewables and Solar segment and was a member of the BP group executive committee. Prior to that, Mr. Alexander served as a Group Vice President in BP’s Exploration and Production segment and BP’s Refinery and Marketing segment. He held responsibilities for various regions of the world, including North America, Russia, the Caspian, Africa and Latin America. Prior to these positions, Mr. Alexander held various positions in the upstream, downstream, and finance groups of BP. Since its inception in 2013, he has served on the Board of Directors of Enviva Inc. (NYSE: EVA), a global energy company specializing in sustainable wood bioenergy and one of the world’s largest producers of sustainable wood pellets, which provide a low-carbon alternative to fossil fuels. He previously served on the boards of EP Energy Corporation, Foster Wheeler, Stein Mart, Inc., Amyris and Anglo-American plc. Mr. Alexander holds an M.S. in Nuclear Engineering from Brooklyn Polytech (now NYU School of Engineering) and an M.S. in Management Science from Stanford University.
+Danny Rice
+President and Chief Executive Officer
+Danny Rice
+President and Chief Executive Officer
+Danny Rice has served as Net Power’s Chief Executive Officer since 2023 and brings over 20 years of energy industry experience across various sectors including traditional energy production and transportation, energy technologies and energy transition. Danny also serves as Net Power’s interim Chief Financial Officer. Danny’s career has been profiled by Forbes Magazine, Wall Street Journal, Bloomberg, and other news organizations.
+Early in his career, Danny co-founded Rice Energy and led its growth from startup in 2008 into becoming one of North America’s largest public natural gas production and transportation companies, culminating in its $10 billion merger with EQT Corporation in 2017. Danny served as Rice Energy’s Chief Financial Officer from 2008-2012, Chief Operating Officer from 2012-2013, and Chief Executive Officer from its 2014 IPO until 2017.
+In 2018, Danny co-founded Rice Investment Group to invest in early-stage private companies across traditional energy, energy technology, and energy transition sectors. Notable Rice Investment Group investments include Archaea Energy, XCL Resources, Pinon Resources, Cold Bore Technology, Persefoni AI, and ComboCurve. In 2020, Rice Investment Group sponsored two special purpose acquisition companies, the first of which merged with Archaea Energy in 2021, which was acquired by bp for $4.1 billion in 2022. The second merged with Net Power in 2023.
+Danny’s career began with finance and strategy roles at TPH & Co., Transocean Ltd., and Tyco International plc.
+Danny has served on numerous private and public company boards, including Rice Energy (NYSE: RICE, 2014-2017), Rice Midstream Partners (NYSE: RMP, 2014-2017), EQT Corp (NYSE: EQT, 2017-current), Archaea Energy Inc. (NYSE: LFG, 2021-2022), Whiting Petroleum Corporation (NYSE: WLL, 2020-2022), Rice Acquisition Corp I (NYSE: RICE, 2020-2021) and Rice Acquisition Corp II (NYSE: RONI, 2021-2022).
+Danny was raised in Boston, MA and currently resides in Dallas, TX with his wife and their two daughters.
+J. Kyle Derham
+Director
+J. Kyle Derham
+Director
+Mr. Derham has served as the Chief Executive Officer of RONI since February 2022; prior to that, he served as RONI’s Chief Financial Officer from February 2021 to February 2022. Mr. Derham is a Partner of Rice Investment Group. Mr. Derham was a director of Archaea Energy Inc. from September 2021 until December 2022 when Archaea Energy Inc. was acquired by BP Products North America Inc. Mr. Derham, as part of certain members of the Rice Investment Group, led the shareholder campaign in 2019 to revamp the strategic direction of EQT and elect a majority slate of director candidates to the board of EQT, the largest operator of natural gas production in the United States. Following the campaign, Mr. Derham served as interim Chief Financial Officer of EQT and subsequently served as a strategic advisor to the company. Mr. Derham previously served as Vice President, Corporate Development and Finance of Rice Energy Inc. and Rice Midstream Partners LP from January 2014 through November 2017. Through his various roles working alongside the Rice family, Mr. Derham has focused on evaluating, structuring and negotiating key acquisitions and execution of critical strategic initiatives to generate attractive risk adjusted returns for investors. Mr. Derham also has experience as a private equity investor, working as an associate at First Reserve and as an investment banker at Barclays Investment Bank.
+Frederick A. Forthuber
+Director
+Frederick A. Forthuber
+Director
+Frederick A. Forthuber currently serves as President of Oxy Energy Services, LLC, a subsidiary of Occidental Petroleum Corporation. In this role, Mr. Forthuber has global functional responsibility for midstream and marketing of crude oil, natural gas liquids, and natural gas. In addition, Mr. Forthuber has global functional responsibility for Health and Safety, Process Safety and Risk Engineering. Mr. Forthuber has more than 35 years of industry experience in oil and gas operations. He has held positions of increasing responsibility in engineering and project management since joining Occidental with the acquisition of Altura Energy in 2000. Most recently, he served as Vice President Worldwide Operations for Occidental Oil and Gas Corporation. Prior to joining Occidental, Mr. Forthuber served in engineering roles for Altura Energy and Exxon. He has been a Director for the Western Midstream Board of Directors since 2021 and is a member of the Environmental, Social, and Governance Committee. Mr. Forthuber holds a Bachelor of Science degree in Marine Engineering Systems from the United States Merchant Marine Academy and an Executive Scholar Certificate in Finance from the Kellogg School of Management at Northwestern University.
+Joseph T. Kelliher
+Director
+Joseph T. Kelliher
+Director
+Mr. Joseph T. Kelliher is a former Executive Vice President-Federal Regulatory Affairs for NextEra Energy, Inc. (NextEra) and former Chairman of the Federal Energy Regulatory Commission (“FERC”). Mr. Kelliher was responsible for developing and executing FERC regulatory strategy for NextEra and its principal subsidiaries, NextEra Energy Resources and Florida Power & Light Company, from 2009 to 2020. NextEra is the largest electricity company in the U.S., one of the few national electricity companies, operating in every region and every organized market, and the most complex company regulated by FERC, with multiple business lines subject to FERC regulation. Previously, Mr. Kelliher served as FERC Chairman and Commissioner from 2005 to 2009. A hallmark of his chairmanship was efficient implementation of the Energy Policy Act of 2005, the largest expansion in FERC regulatory authority since the 1930s. This law gave FERC a new mission to assure reliability of the interstate power grid, granted the agency strong enforcement authority for the first time and expanded FERC powers in other areas. Chairman Kelliher pursued a series of reforms to promote competitive wholesale power and natural gas markets, improve FERC economic regulation and strengthen the U.S. energy infrastructure. Mr. Kelliher has spent his entire professional career working on energy policy matters, serving in a variety of roles in both the public and private sectors. These include senior policy advisor to the U.S. Secretary of Energy, majority counsel to the U.S. House Commerce Committee and positions with private corporations, trade associations and law firms. Mr. Kelliher earned a Bachelor of Science degree from Georgetown University, School of Foreign Service, and a Juris Doctor degree, magna cum laude, from The American University Washington College of Law.
+Carol Peterson
+Director
+Carol Peterson
+Director
+From 2004 until her retirement in February 2022, Ms. Peterson held multiple executive positions at Constellation. From January 2015 to February 2022, she served as Senior Vice President of Strategy & Planning, in which position she led major transformations including the separation of Constellation from Exelon and the integration of acquired power plants. Previously at Exelon Generation, from March 2014 to January 2015, she served as Vice President of Strategy, from April 2010 to March 2014, she served as Vice President of Project Management and, from October 2004 to April 2010, she served as Vice President of Finance. Prior to Constellation, Ms. Peterson held positions in engineering and operations for Duke Energy Corporation (NYSE: DUK), Wisconsin Energy Corporation and Westinghouse Electric Corporation. Ms. Peterson has served on the Board of the Northern Illinois Food Bank since 2016. Ms. Peterson earned a bachelor’s degree in engineering from the University of Illinois and a master’s of management from Northwestern University.
+Brad Pollack
+Director
+Brad Pollack
+Director
+Mr. Pollack currently serves as Deputy General Counsel, Commercial Development and Operations of Occidental. In this role, which he has held since April 2023, Mr. Pollack is responsible for the legal support for domestic and international mergers, acquisitions and other commercial transactions, and manages the legal teams supporting Occidental’s operations in the Middle East, North Africa, South America and Gulf of Mexico, as well as major projects. He has also served as Vice President, Legal of Oxy Low Carbon Ventures (OLCV) since July 2022, pursuant to which he is responsible for the legal support for Occidental’s low carbon ventures business, which seeks to leverage Occidental’s legacy of carbon management expertise to develop carbon capture, utilization and storage (CCUS) projects. Mr. Pollack joined Occidental in 2014 and has held multiple positions of increasing responsibility within Occidental’s legal department, including most recently serving as Associate General Counsel of Occidental Petroleum from January 2022 to April 2023, prior to which he served as Assistant General Counsel, M&A and Strategic Transactions, from April 2019 to June 2022, as Managing Counsel, M&A and Strategic Transactions, from April 2018 to March 2019, and as Senior Counsel, M&A and Projects, from December 2014 to March 2018. Before joining Occidental, Mr. Pollack was a senior corporate and securities lawyer at Dechert LLP where he represented public and private companies in domestic and cross-border mergers and acquisitions, capital market transactions, corporate governance and other legal matters across a wide range of industry sectors, such as energy, technology, advanced manufacturing and financial services. Mr. Pollack received a B.S.E. in systems engineering from the University of Pennsylvania and a J.D. from Syracuse University College of Law.
+Alejandra Veltmann
+Director
+Alejandra Veltmann
+Director
+Ms. Veltmann is an executive with financial leadership of publicly-listed entities, private entrepreneurial companies and global auditing firms. Since 2018, she has served as founder and CEO of ESG Lynk, a leading sustainability reporting company. Ms. Veltmann has also served as a member of California Resources Corporation’s (NYSE: CRC) Board of Directors and Audit Committee Chair since December 2021. From 2021 to its acquisition in 2022, she served as a director and chair of the Audit Committee for Structural Integrity Associates, a private company that provides life cycle engineering solutions. From 2015 to 2018, she was Vice President and Chief Accounting Officer of Paragon Offshore Plc., an offshore drilling company. From 2010 to 2015, she worked in various roles including Corporate Controller and Vice President and Chief Accounting Officer at Geokinetics, Inc., formerly one of the world’s largest independent land and seafloor geophysical companies. She also held several positions in the audit practice of KPMG LLP from 1995 to 2002 and before that at Arthur Andersen LLP from 1992 to 1995. Ms. Veltmann is a certified public accountant and holds the FSA Credential from the Sustainability Accounting Standards Board (SASB). She has a BBA degree in Accounting from the University of New Mexico and is an alumna of the Advanced Management Program at Harvard Business School.
+Connect with Us
+Interested in learning more about Net Power? Reach out to one of our dedicated teams.
+Investor Relations
+Media Relations
+Phone Number
+St 200
+Durham, NC 27701 USA
+11700 Katy Freeway
+St 700
+Houston, TX 77079 USA
+
+--------------------------------------------------------------------------------
+
+URL: https://netpower.com/solutions
+
+Solutions
+Net Power offers a suite of carbon capture solutions to help customers meet and balance their greatest energy needs. We develop and deploy projects utilizing post-combustion capture (PCC) and oxy-combustion-based solutions to provide clean firm power.
+Post-combustion capture (PCC)
+Net Power signed a letter of intent with Entropy to exclusively deploy Entropy’s PCC technology for power generation in the United States and to jointly develop projects. Entropy’s proprietary solvent is energy efficient and proven to reduce CO2 emissions from natural gas power plants.
+Oxy-combustion power cycle
+Overview
+1
+2
+3
+4
+5
+6
+7
+Net Power’s revolutionary technology combines oxy-combustion and a supercritical CO2 (sCO2) power cycle to deliver on-demand natural gas power while capturing nearly all carbon emissions and effectively eliminating traditional pollutants.
+La Porte Demonstration Facility
+To demonstrate the novel oxy-combustion technology, Net Power designed and built a test facility in La Porte, Texas.
+Built in 2018, our 50MWth test facility has performed over 1,600 operational hours and successfully synchronized with the ERCOT grid in 2021.
+The La Porte Demonstration Facility ensures our technology is safe and ready for utility-scale deployment.
+Project Permian
+“Project Permian” is Net Power’s intended first-of-a-kind commerical-scale facility with expected deployment outside of Midland, Texas.
+Development activities
+Net Power is exploring sites in Alberta (Canada), California, Wyoming, Midcontinent (MISO), Midatlantic (PJM), and Texas (ERCOT).
+
+--------------------------------------------------------------------------------
+
+URL: https://netpower.com/careers
+
+What we offer
+We offer a dynamic workplace filled with amazing employees motivated by our mission. We proudly support our employees with great benefits and rewards designed to promote both great careers and work-life balance.
+Financial Rewards
+Our employees benefit from competitive base salaries, incentive compensation opportunities, and a 401(k) plan featuring a 3% employer contribution based on eligible compensation...
+
+--------------------------------------------------------------------------------
+
+URL: https://ir.netpower.com/
+
+Latest News
+Latest Presentation
+Latest Financial Results
+Q3 2025
+Quarter Ended Sep 30, 2025
+IR Contacts
+Corporate Office
+Net Power Inc.
+320 Roney Street
+Suite 200
+Durham, NC 27701
+
+--------------------------------------------------------------------------------
+
+URL: https://ir.netpower.com/resources/press-releases/detail/38/net-power-announces-leadership-changes
+
+Net Power Announces Leadership Changes
+Net Power appoints new Chief Operating Officer; CEO Danny Rice to assume interim Chief Financial Officer duties
+DURHAM, N.C.--(BUSINESS WIRE)-- Net Power Inc. (NYSE: NPWR) (“Net Power” or the “Company”) today announced that Brian Allen, President and Chief Operating Officer, and Akash Patel, Chief Financial Officer, will no longer serve in their roles with the Company. Both Mr. Allen and Mr. Patel have been relieved of their day-to-day responsibilities and will officially depart the Company on May 1, 2025.
+The Company has appointed Marc Horstman as Chief Operating Officer, effective immediately. Mr. Horstman previously served as Net Power’s Head of Product Development, joining the company in May 2023 following more than 20 years of experience in the power sector. Danny Rice, Net Power's Chief Executive Officer, will assume the title of President as well as serve as the Company's Interim Chief Financial Officer and lead the Company’s future project funding endeavors.
+“Delivering breakthrough solutions like Net Power's requires constant assessment and adjustments along the way. Changes like these are tough but essential to ensure we’re best positioned to achieve the ambitious potential of our proprietary technology,” said Danny Rice. “I want to thank Brian and Akash for their valuable contributions to Net Power and wish them the best in their future endeavors. Looking ahead, I firmly believe we have the right leadership in place to meet the world’s ever-growing need for clean, firm power.”
+About Net Power
+Net Power (NYSE: NPWR) is an energy technology company developing its proprietary Net Power Cycle, which transforms natural gas into clean, reliable and affordable power. The Company is on a mission to deploy its utility-scale plants across the world by partnering with electricity generators, energy producers, technology providers, local communities, and other stakeholders. Net Power was founded in 2010 and has offices in Durham, North Carolina (HQ) and Houston, Texas.
+Cautionary Note Regarding Forward-Looking Statements and Projections
+Certain statements in this release may constitute “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, Section 21E of the Securities Exchange Act of 1934 and the Private Securities Litigation Reform Act of 1995, each as amended. Forward-looking statements provide current expectations of future events and include any statement that does not directly relate to any historical or current fact. Words such as “anticipates,” “believes,” “expects,” “intends,” “plans,” “projects,” or other similar expressions may identify such forward-looking statements. Forward-looking statements may relate to the development of Net Power’s technology, the anticipated demand for Net Power’s technology and the markets in which Net Power operates, the timing of the deployment of plant deliveries, and Net Power’s business strategies, capital requirements, potential growth opportunities and expectations for future performance (financial or otherwise). Forward-looking statements are based on current expectations, estimates, projections, targets, opinions and/or beliefs of the Company, and such statements involve known and unknown risks, uncertainties and other factors. Actual results may differ materially from those discussed in forward-looking statements as a result of factors, risks and uncertainties over which Net Power has no control. These factors, risks and uncertainties include, but are not limited to, the risks disclosed under the headings “Risk Factors” and “Cautionary Note Regarding Forward-Looking Statements” in Net Power’s Annual Report on Form 10-K for the year ended December 31, 2024, its subsequent annual reports on Form 10-K and quarterly reports on Form 10-Q, and in its other filings made with the SEC from time to time, which are available via the SEC’s website at www.sec.gov. Forward-looking statements speak only as of the date they are made. Readers are cautioned not to put undue reliance on forward-looking statements, and Net Power assumes no obligation and does not intend to update or revise these forward-looking statements, whether as a result of new information, future events, or otherwise. Net Power does not give any assurance that it will achieve its expectations.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20250415625404/en/
+Investor Relations Contact:
+investors@netpower.com
+Net Power Media Contact:
+netpower.media@netpower.com
+Source: Net Power Inc.
+Released April 15, 2025
+
+--------------------------------------------------------------------------------
+
+URL: https://ir.netpower.com/governance/leadership
+
+Leadership
+Danny Rice
+President & Chief Executive Officer
+Danny Rice has served as Net Power's Chief Executive Officer since 2023 and brings over 20 years of energy industry experience across various sectors including traditional energy production and transportation, energy technologies and energy transition. Danny also serves as Net Power's interim Chief Financial Officer. Danny’s career has been profiled by Forbes Magazine, Wall Street Journal, Bloomberg, and other news organizations.
+Early in his career, Danny co-founded Rice Energy and led its growth from startup in 2008 into becoming one of North America’s largest public natural gas production and transportation companies, culminating in its $10 billion merger with EQT Corporation in 2017. Danny served as Rice Energy’s Chief Financial Officer from 2008-2012, Chief Operating Officer from 2012-2013, and Chief Executive Officer from its 2014 IPO until 2017.
+In 2018, Danny co-founded Rice Investment Group to invest in early-stage private companies across traditional energy, energy technology, and energy transition sectors. Notable Rice Investment Group investments include Archaea Energy, XCL Resources, Pinon Resources, Cold Bore Technology, Persefoni AI, and ComboCurve. In 2020, Rice Investment Group sponsored two special purpose acquisition companies, the first of which merged with Archaea Energy in 2021, which was acquired by bp for $4.1 billion in 2022. The second merged with Net Power in 2023.
+Danny’s career began with finance and strategy roles at TPH & Co., Transocean Ltd., and Tyco International plc.
+Danny has served on numerous private and public company boards, including Rice Energy (NYSE: RICE, 2014-2017), Rice Midstream Partners (NYSE: RMP, 2014-2017), EQT Corp (NYSE: EQT, 2017-current), Archaea Energy Inc. (NYSE: LFG, 2021-2022), Whiting Petroleum Corporation (NYSE: WLL, 2020-2022), Rice Acquisition Corp I (NYSE: RICE, 2020-2021) and Rice Acquisition Corp II (NYSE: RONI, 2021-2022).
+Danny was raised in Boston, MA and currently resides in Dallas, TX with his wife and their two daughters.
+Andrew Davisson
+Interim General Counsel
+Andrew Davisson has served as Interim General Counsel of Net Power since January 2026. He previously served as Deputy General Counsel from June 2023 to January 2026. Prior to joining Net Power, he held senior legal roles with multiple public companies where he was primarily responsible for public company reporting and compliance, corporate governance, capital markets, and equity and executive compensation matters.
+Davisson was in private practice with the Raleigh office of DLA Piper from 2009 to 2018 prior to moving in-house. He holds a B.A. in Psychology and Criminal Justice from the University of Richmond and a J.D. from Wake Forest University. He is a licensed member of the North Carolina State Bar.
+Marc Horstman
+Chief Operating Officer
+Marc Horstman was appointed as Chief Operating Officer of the Company on April 15, 2025. Mr. Horstman previously served as Net Power’s Head of Product Development beginning in May 2023. Prior to joining Net Power, he held senior leadership roles at Vertiv Holdings Co., a provider of critical digital infrastructure for data centers, communication networks, and commercial and industrial environments, including Vice President of North America Service Operations from October 2021 to November 2022 and Senior Director of Project Execution from June 2019 to September 2021. Prior to that, at Siemens, Mr. Horstman served as Senior Executive Vice President Americas from April 2017 to December 2018, as Vice President of Global Customer Operations from April 2016 to April 2017, and as Vice President of Global Manufacturing & Test from December 2014 to April 2016. Earlier in his career, he held various project and product leadership roles at Rolls-Royce from 2011 to 2014 and General Electric from 1999 to 2011. Mr. Horstman began his career as an Engineer Officer in the U.S. Army. He holds a B.S. in Mechanical Engineering from the University of Dayton.
+Bruce Jenkins
+Chief of Staff
+Bruce Jenkins has served as Net Power’s Chief of Staff since April 2025 and partners with the Chief Executive Officer and Chief Operating Officer on Net Power’s strategic priorities and responsibilities. He is responsible for identifying and escalating enterprise risk issues, leading cross-functional teams to achieve critical company objectives, and designing efficient processes that enable Net Power to operate in a modern, agile fashion. Bruce also leads Net Power’s Supply Chain, Information Technology, and Origination Teams, ensuring their goals are strategically aligned and efficiently integrated into Net Power’s operating model.
+Bruce joined Net Power in July 2023 as Vice President of Organizational Excellence where he was responsible for designing Net Power’s digital work environment and building structured processes to enhance how Net Power collaborates on work.
+Prior to Net Power, Bruce spent over a decade in leadership roles at exploration and production companies such as EQT, CNX Resources, and Rice Energy. Bruce began his career at Bechtel Bettis, Inc. and has management experience at consulting companies like Deloitte and BDO. He earned a Bachelor of Science from Penn State University in Computer Engineering and an MBA from Quantic School of Technology and Business
+Amy Keyser
+Chief Human Resources Officer
+Amy Keyser joined Net Power after serving as the head of human resources for a global financial services company and a U.S.-based fintech organization. She has held a series of senior executive legal and HR roles and has been recognized for her work in DEIA, supporting workforces through change, aligning people strategies with business objectives, and increasing employee engagement.
+She was in private practice as a management-defense employment attorney with several San Francisco law firms. She holds a B.A. in Psychology and a J.D. from the University of Virginia. She is a member of the California State Bar Association and the District of Columbia Bar Association. She also holds a professional certificate from Duke University in human resource management, is SHRM-SCP credentialed, and a certified executive coach.
+Xijia Lu
+Chief Innovation Officer
+Dr. Xijia Lu has served as NET Power’s Chief Innovation Officer since January 2024. Prior to joining NET Power, Dr. Lu worked for 8 Rivers Capital, LLC for eight years, leading the research and development (R&D) of the solid fuel based Allam Cycle technology, which is a solid fuel-based direct fired supercritical CO2 cycle. He has also led R&D efforts for other novel technologies development in clean energy space, including a calcium-based post combustion capture technology and direct air capture technology. Dr. Lu received a PhD degree in Mechanical Engineering from the University of New Orleans, and he has over 30 publications and over 100 patent flings
+Scott Martin
+Chief Technology Officer
+Scott Martin serves as the Chief Technology Officer of NET Power, a clean energy technology company working to provide the Energy Trifecta – clean, low-cost, and reliable energy. As CTO, Scott leads technology development efforts, alignment with key partners, and NET Power’s long-term go-to-market strategy.
+Scott’s work on NET Power began in 2014 as one of the original engineers designing NET Power’s 50MWth La Porte, Texas Demonstration Facility. Scott contributed to NET Power’s technology suite of initial commercial designs and overall IP portfolio and lived in both Tokyo and Houston to complete engineering, construction, and commissioning of the demonstration facility. Scott led efforts of the successful first-of-a-kind oxy-combustion testing completed at site in 2018 and then later served as Director of Demonstration at NET Power from Fall 2018, where he led engineering and validation, laying the groundwork for NET Power’s successful synchronization to the ERCOT grid in Fall 2021.
+In addition to NET Power, Scott contributed to the development and commercialization of 8 Rivers’ other groundbreaking clean technology in carbon capture, direct air capture, and clean hydrogen.
+Scott served as Director of Strategic Sales at Mitsubishi Power from June 2021 to June 2022, working closely with utilities and consortiums to assess techno-economics and drive adoption of emerging hydrogen technologies. Scott returned to NET Power in June 2022.
+Scott graduated from Duke University with a Bachelor of Science in Mechanical Engineering and Materials Science. He was a 2018 Forbes 30 Under 30 honoree in Energy.
+Board of Directors
+Peter J. (Jeff) Bennett
+Chairman
+Mr. Bennett has served as President of U.S. Onshore Resources and Carbon Management, Commercial Development of Occidental, the parent of OLCV, since October 2020. In this role, Mr. Bennett is responsible for the strategic direction and capital placement for Occidental’s U.S. Onshore Resources and Carbon Management business. He also served as Senior Vice President of Permian Resources of Occidental Oil and Gas, a subsidiary of Occidental, from April 2018 to April 2020 and as President and General Manager of Permian Resources and the Rockies from April 2020 to October 2020. Mr. Bennett previously served as President and General Manager — Permian Resources, New Mexico Delaware Basin, from January 2017 to April 2018, Chief Transformation Officer from June 2016 to January 2017, Vice President, Portfolio and Optimization of Occidental Oil and Gas from February 2016 to June 2016 and, prior to that, pioneered innovative logistical and operational solutions as Vice President, Operations Portfolio and Integrated Planning of Occidental Oil and Gas from October 2015 to February 2016. Mr. Bennett has served as a member of the board of directors of Western Midstream Partners, LP (NYSE: WES) since August 2019 and as chairperson of such board since December 2021. Mr. Bennett received a B.A. in accounting from Louisiana State University and an MBA from Pepperdine University in California. He is also a Certified Public Accountant (inactive).
+Danny Rice
+President & Chief Executive Officer
+Danny Rice has served as Net Power's Chief Executive Officer since 2023 and brings over 20 years of energy industry experience across various sectors including traditional energy production and transportation, energy technologies and energy transition. Danny also serves as Net Power's interim Chief Financial Officer. Danny’s career has been profiled by Forbes Magazine, Wall Street Journal, Bloomberg, and other news organizations.
+Early in his career, Danny co-founded Rice Energy and led its growth from startup in 2008 into becoming one of North America’s largest public natural gas production and transportation companies, culminating in its $10 billion merger with EQT Corporation in 2017. Danny served as Rice Energy’s Chief Financial Officer from 2008-2012, Chief Operating Officer from 2012-2013, and Chief Executive Officer from its 2014 IPO until 2017.
+In 2018, Danny co-founded Rice Investment Group to invest in early-stage private companies across traditional energy, energy technology, and energy transition sectors. Notable Rice Investment Group investments include Archaea Energy, XCL Resources, Pinon Resources, Cold Bore Technology, Persefoni AI, and ComboCurve. In 2020, Rice Investment Group sponsored two special purpose acquisition companies, the first of which merged with Archaea Energy in 2021, which was acquired by bp for $4.1 billion in 2022. The second merged with Net Power in 2023.
+Danny’s career began with finance and strategy roles at TPH & Co., Transocean Ltd., and Tyco International plc.
+Danny has served on numerous private and public company boards, including Rice Energy (NYSE: RICE, 2014-2017), Rice Midstream Partners (NYSE: RMP, 2014-2017), EQT Corp (NYSE: EQT, 2017-current), Archaea Energy Inc. (NYSE: LFG, 2021-2022), Whiting Petroleum Corporation (NYSE: WLL, 2020-2022), Rice Acquisition Corp I (NYSE: RICE, 2020-2021) and Rice Acquisition Corp II (NYSE: RONI, 2021-2022).
+Danny was raised in Boston, MA and currently resides in Dallas, TX with his wife and their two daughters.
+Ralph Alexander
+Director
+Mr. Alexander served as Chief Executive Officer of Talen Energy Corporation, one of the largest competitive power generation and infrastructure companies in North America, from December 2016 to June 2021 and as its Chairman from June 2021 to April 2023. He was previously affiliated with Riverstone Holdings LLC, an energy and power-focused private equity firm, from 2007 to 2016. Prior to that, for nearly 25 years, he served in various positions with subsidiaries and affiliates of BP plc, one of the world’s largest oil and gas companies (“BP”). From 2004 until 2006, Mr. Alexander served as Chief Executive Officer of Innovene, BP’s $20 billion olefins and derivatives subsidiary. From 2001 until 2004, he served as Chief Executive Officer of BP’s Gas, Power and Renewables and Solar segment and was a member of the BP group executive committee. Prior to that, Mr. Alexander served as a Group Vice President in BP’s Exploration and Production segment and BP’s Refinery and Marketing segment. He held responsibilities for various regions of the world, including North America, Russia, the Caspian, Africa and Latin America. Prior to these positions, Mr. Alexander held various positions in the upstream, downstream, and finance groups of BP. Since its inception in 2013, he has served on the Board of Directors of Enviva Inc. (NYSE: EVA), a global energy company specializing in sustainable wood bioenergy and one of the world’s largest producers of sustainable wood pellets, which provide a low-carbon alternative to fossil fuels. He previously served on the boards of EP Energy Corporation, Foster Wheeler, Stein Mart, Inc., Amyris and Anglo-American plc. Mr. Alexander holds an M.S. in Nuclear Engineering from Brooklyn Polytech (now NYU School of Engineering) and an M.S. in Management Science from Stanford University.
+J. Kyle Derham
+Director
+Mr. Derham has served as the Chief Executive Officer of RONI since February 2022; prior to that, he served as RONI’s Chief Financial Officer from February 2021 to February 2022. Mr. Derham is a Partner of Rice Investment Group. Mr. Derham was a director of Archaea Energy Inc. from September 2021 until December 2022 when Archaea Energy Inc. was acquired by BP Products North America Inc. Mr. Derham, as part of certain members of the Rice Investment Group, led the shareholder campaign in 2019 to revamp the strategic direction of EQT and elect a majority slate of director candidates to the board of EQT, the largest operator of natural gas production in the United States. Following the campaign, Mr. Derham served as interim Chief Financial Officer of EQT and subsequently served as a strategic advisor to the company. Mr. Derham previously served as Vice President, Corporate Development and Finance of Rice Energy Inc. and Rice Midstream Partners LP from January 2014 through November 2017. Through his various roles working alongside the Rice family, Mr. Derham has focused on evaluating, structuring and negotiating key acquisitions and execution of critical strategic initiatives to generate attractive risk adjusted returns for investors. Mr. Derham also has experience as a private equity investor, working as an associate at First Reserve and as an investment banker at Barclays Investment Bank.
+Frederick A. Forthuber
+Director
+Frederick A. Forthuber currently serves as President of Oxy Energy Services, LLC, a subsidiary of Occidental Petroleum Corporation. In this role, Mr. Forthuber has global functional responsibility for midstream and marketing of crude oil, natural gas liquids, and natural gas. In addition, Mr. Forthuber has global functional responsibility for Health and Safety, Process Safety and Risk Engineering. Mr. Forthuber has more than 35 years of industry experience in oil and gas operations. He has held positions of increasing responsibility in engineering and project management since joining Occidental with the acquisition of Altura Energy in 2000. Most recently, he served as Vice President Worldwide Operations for Occidental Oil and Gas Corporation. Prior to joining Occidental, Mr. Forthuber served in engineering roles for Altura Energy and Exxon. He has been a Director for the Western Midstream Board of Directors since 2021 and is a member of the Environmental, Social, and Governance Committee. Mr. Forthuber holds a Bachelor of Science degree in Marine Engineering Systems from the United States Merchant Marine Academy and an Executive Scholar Certificate in Finance from the Kellogg School of Management at Northwestern University.
+Joseph T. Kelliher
+Director
+Mr. Joseph T. Kelliher is a former Executive Vice President-Federal Regulatory Affairs for NextEra Energy, Inc. (NextEra) and former Chairman of the Federal Energy Regulatory Commission (“FERC”). Mr. Kelliher was responsible for developing and executing FERC regulatory strategy for NextEra and its principal subsidiaries, NextEra Energy Resources and Florida Power & Light Company, from 2009 to 2020. NextEra is the largest electricity company in the U.S., one of the few national electricity companies, operating in every region and every organized market, and the most complex company regulated by FERC, with multiple business lines subject to FERC regulation. Previously, Mr. Kelliher served as FERC Chairman and Commissioner from 2005 to 2009. A hallmark of his chairmanship was efficient implementation of the Energy Policy Act of 2005, the largest expansion in FERC regulatory authority since the 1930s. This law gave FERC a new mission to assure reliability of the interstate power grid, granted the agency strong enforcement authority for the first time and expanded FERC powers in other areas. Chairman Kelliher pursued a series of reforms to promote competitive wholesale power and natural gas markets, improve FERC economic regulation and strengthen the U.S. energy infrastructure. Mr. Kelliher has spent his entire professional career working on energy policy matters, serving in a variety of roles in both the public and private sectors. These include senior policy advisor to the U.S. Secretary of Energy, majority counsel to the U.S. House Commerce Committee and positions with private corporations, trade associations and law firms. Mr. Kelliher earned a Bachelor of Science degree from Georgetown University, School of Foreign Service, and a Juris Doctor degree, magna cum laude, from The American University Washington College of Law.
+Carol Peterson
+Director
+From 2004 until her retirement in February 2022, Ms. Peterson held multiple executive positions at Constellation. From January 2015 to February 2022, she served as Senior Vice President of Strategy & Planning, in which position she led major transformations including the separation of Constellation from Exelon and the integration of acquired power plants. Previously at Exelon Generation, from March 2014 to January 2015, she served as Vice President of Strategy, from April 2010 to March 2014, she served as Vice President of Project Management and, from October 2004 to April 2010, she served as Vice President of Finance. Prior to Constellation, Ms. Peterson held positions in engineering and operations for Duke Energy Corporation (NYSE: DUK), Wisconsin Energy Corporation and Westinghouse Electric Corporation. Ms. Peterson has served on the Board of the Northern Illinois Food Bank since 2016. Ms. Peterson earned a bachelor’s degree in engineering from the University of Illinois and a master’s of management from Northwestern University.
+Brad Pollack
+Director
+Mr. Pollack currently serves as Deputy General Counsel, Commercial Development and Operations of Occidental. In this role, which he has held since April 2023, Mr. Pollack is responsible for the legal support for domestic and international mergers, acquisitions and other commercial transactions, and manages the legal teams supporting Occidental’s operations in the Middle East, North Africa, South America and Gulf of Mexico, as well as major projects. He has also served as Vice President, Legal of Oxy Low Carbon Ventures (OLCV) since July 2022, pursuant to which he is responsible for the legal support for Occidental’s low carbon ventures business, which seeks to leverage Occidental’s legacy of carbon management expertise to develop carbon capture, utilization and storage (CCUS) projects. Mr. Pollack joined Occidental in 2014 and has held multiple positions of increasing responsibility within Occidental’s legal department, including most recently serving as Associate General Counsel of Occidental Petroleum from January 2022 to April 2023, prior to which he served as Assistant General Counsel, M&A and Strategic Transactions, from April 2019 to June 2022, as Managing Counsel, M&A and Strategic Transactions, from April 2018 to March 2019, and as Senior Counsel, M&A and Projects, from December 2014 to March 2018. Before joining Occidental, Mr. Pollack was a senior corporate and securities lawyer at Dechert LLP where he represented public and private companies in domestic and cross-border mergers and acquisitions, capital market transactions, corporate governance and other legal matters across a wide range of industry sectors, such as energy, technology, advanced manufacturing and financial services. Mr. Pollack received a B.S.E. in systems engineering from the University of Pennsylvania and a J.D. from Syracuse University College of Law.
+Alejandra Veltmann
+Director
+Ms. Veltmann is an executive with financial leadership of publicly-listed entities, private entrepreneurial companies and global auditing firms. Since 2018, she has served as founder and CEO of ESG Lynk, a leading sustainability reporting company. Ms. Veltmann has also served as a member of California Resources Corporation’s (NYSE: CRC) Board of Directors and Audit Committee Chair since December 2021. From 2021 to its acquisition in 2022, she served as a director and chair of the Audit Committee for Structural Integrity Associates, a private company that provides life cycle engineering solutions. From 2015 to 2018, she was Vice President and Chief Accounting Officer of Paragon Offshore Plc., an offshore drilling company. From 2010 to 2015, she worked in various roles including Corporate Controller and Vice President and Chief Accounting Officer at Geokinetics, Inc., formerly one of the world’s largest independent land and seafloor geophysical companies. She also held several positions in the audit practice of KPMG LLP from 1995 to 2002 and before that at Arthur Andersen LLP from 1992 to 1995. Ms. Veltmann is a certified public accountant and holds the FSA Credential from the Sustainability Accounting Standards Board (SASB). She has a BBA degree in Accounting from the University of New Mexico and is an alumna of the Advanced Management Program at Harvard Business School.
+Governance Documents
+Audit Committee Charter
+Code of Ethics
+Compensation Committee Charter
+Corporate Governance Guidelines
+Nominating and Corporate Governance Committee Charter
+Governance at a Glance
+| Board Members | Audit | Compensation | Nominating and Corporate Governance |
+|---|---|---|---|
+|
+Peter J. (Jeff) Bennett
+|
+|||
+|
+Danny Rice
+|
+|||
+|
+Ralph Alexander
+|
+|
+|
+|
+|
+J. Kyle Derham
+|
+|
+||
+|
+Frederick A. Forthuber
+|
+|||
+|
+Joseph T. Kelliher
+|
+|
+|
+|
+|
+Carol Peterson
+|
+|
+|
+|
+|
+Brad Pollack
+|
+|
+||
+|
+Alejandra Veltmann
+|
+|
+|
+
+--------------------------------------------------------------------------------
+
+URL: https://netpower.com/news
+
+Press releases and media
+Notable publications
+Blogs
+Why Net Power is adding post-combustion capture to its suite of carbon capture solutions
+An interview with Net Power President & CEO, Danny Rice
+November 24, 2025
+An interview with Net Power President & CEO, Danny Rice
+
+--------------------------------------------------------------------------------
+
+URL: https://netpower.com/technology
+
+The Net Power Cycle
+Overview
+1
+2
+3
+4
+5
+6
+7
+Net Power’s revolutionary technology combines oxy-combustion and a supercritical CO2 (sCO2) power cycle to deliver on-demand natural gas power while capturing nearly all carbon emissions and effectively eliminating traditional pollutants.
+La Porte Demonstration Facility
+To demonstrate the Net Power Cycle, the company designed and built a test facility in La Porte, Texas.
+Built in 2018, our 50MWth test facility has performed over 1,600 operational hours and successfully synchronized with the ERCOT grid in 2021.
+The La Porte Demonstration Facility ensures our technology is safe and ready for utility-scale deployment.
+Project Permian
+“Project Permian” is Net Power’s intended first-of-a-kind commerical-scale facility with expected deployment outside of Midland, Texas.
+Potential Development Projects
+Net Power is exploring sites in Alberta (Canada), California, Wyoming, Midcontinent (MISO), Midatlantic (PJM), and Texas (ERCOT).
+
+--------------------------------------------------------------------------------
+
+URL: https://netpower.com/careers/
+
+What we offer
+We offer a dynamic workplace filled with amazing employees motivated by our mission. We proudly support our employees with great benefits and rewards designed to promote both great careers and work-life balance.
+Financial Rewards
+Our employees benefit from competitive base salaries, incentive compensation opportunities, and a 401(k) plan featuring a 3% employer contribution based on eligible compensation...
+
+--------------------------------------------------------------------------------
+
+URL: https://investors@netpower.com/
+
+Clean. Firm. Scalable.
+Net Power’s mission is to transform natural gas into the lowest cost form of clean firm power.
+Clean
+High carbon capture capacity
+Firm
+Providing 24/7 dispatchable
+baseload power with rapid ramp rates and low turn-down capabilities
+Scalable
+Our standard plant design enables rapid deployment through modularization and plant stacking
+Join our team
+At Net Power, you have the opportunity to join a dynamic team working towards a shared vision of a clean and reliable energy future.
+Explore rewarding careers where diverse talents are valued and benefits promote work-life balance. Start your journey today and unlock your full potential at Net Power.
+
+--------------------------------------------------------------------------------
+
+URL: https://media@netpower.com/
+
+Clean. Firm. Scalable.
+Net Power’s mission is to transform natural gas into the lowest cost form of clean firm power.
+Clean
+High carbon capture capacity
+Firm
+Providing 24/7 dispatchable
+baseload power with rapid ramp rates and low turn-down capabilities
+Scalable
+Our standard plant design enables rapid deployment through modularization and plant stacking
+Join our team
+At Net Power, you have the opportunity to join a dynamic team working towards a shared vision of a clean and reliable energy future.
+Explore rewarding careers where diverse talents are valued and benefits promote work-life balance. Start your journey today and unlock your full potential at Net Power.
+
+--------------------------------------------------------------------------------
+
+URL: https://netpower.com/press_releases/net-power-reports-third-quarter-2025-results-and-provides-business-update/
+
+DURHAM, N.C.–(BUSINESS WIRE)—November 13, 2025–Net Power Inc. (NYSE: NPWR) (“Net Power” or the “Company”) today announced its financial and operational results for the third quarter ended September 30, 2025, and outlined an updated strategy that continues to focus on delivering low-carbon intensity power solutions fueled by natural gas.
+In response to unprecedented near-term demand for firm power solutions with viable pathways to decarbonize, the Company has expanded its business strategy to prioritize the development of clean power projects utilizing gas turbines with post-combustion carbon capture (PCC). At the same time, Net Power continues to support the long-term development and deployment of its oxy-combustion technology.
+Danny Rice, Chief Executive Officer of Net Power, stated, “The market is beginning to embrace reality: the only responsible way to meet unprecedented electricity demand growth is with natural gas power, and the only safe and proven way to do so while reducing emissions is with carbon capture. Net Power’s mission is to transform natural gas into the lowest cost form of clean firm power. The work we’ve done to date indicates our oxy-combustion technology is lower cost and quicker to deploy than new nuclear power—however, speed is key in this market. Expanding our offerings to include PCC unlocks a significant market opportunity directly in front of us.”
+Key Business Updates:
+Building Strong PCC Offering and Advancing First Projects
+- Signed letter of intent with Entropy Inc.: Net Power signed a letter of intent with Entropy Inc. (“Entropy”), a global leader in proven carbon capture technology, to exclusively deploy Entropy’s PCC technology for power generation in the United States and to jointly develop projects. Entropy’s proprietary solvent is energy efficient and proven to reduce CO2 emissions from natural gas power plants. This strategic partnership is subject to continued diligence and approval of definitive agreements, which the Company and Entropy endeavor to complete in the coming months.
+- Permian Basin clean firm power hub: Net Power is progressing its first clean firm power hub at its Project Permian site in West Texas. The project is being sized to accommodate up to 1GW of clean firm power generation capacity utilizing Net Power’s suite of power technologies. Phase I of the project will utilize readily available gas turbines paired with Entropy’s proven PCC technology; to that end, Net Power has secured 60MW of gas turbines with 2028 delivery. Net Power is finalizing definitive documents for Occidental to purchase 30MW of the power and 100% of the captured CO2. Final investment decision (FID) for Phase I is expected in the first half of 2026 with targeted commercial operations in 2028, which would make it the first commercial clean gas power project in the United States.
+- Northern MISO clean firm power hub: Net Power also continues to advance its clean firm power hub in northern MISO, where the Company has site control and a 300MW interconnect request through the DPP-2023 interconnection queue process. Net Power’s sequestration partner continues to advance its Class VI permit applications and both the interconnect and sequestration facilities are expected to be completed by 2028/2029. Net Power is designing Phase I of the project to utilize gas turbines paired with Entropy PCC, targeting FID in 2027 with commercial operations as soon as 2029. Net Power is in active discussions with strategic offtakers for the power.
+Realigning Technology Prioritization and Approach
+- Advanced testing at La Porte test facility: Net Power continued to advance oxy-combustion equipment testing with Baker Hughes at its La Porte Demonstration Facility. During the quarter, the facility achieved its highest ever recorded pressures and temperatures, underscoring continued progress in technology maturation. The Company intends to complete Phase I testing, which it expects to occur this year, and will reassess future testing phases by year-end.
+- Non-cash impairment of other intangible assets: During the quarter, the Company completed a market analysis of its oxy-combustion technology, identifying slower than anticipated acceptance and deployment relative to previous expectations. The value engineering efforts on Project Permian identified significant cost reductions and performance improvements, but not to a level that is economically competitive in the current market. These events resulted in an impairment of the carrying value of the technology and associated assets on the Company’s balance sheet.
+Setting Clear Path Ahead
+- Optimizing capital allocation to deliver clean firm power: The Company views its oxy-combustion technology as a viable, long-term solution for low-carbon intensity power generation. The Company will prudently invest capital to maintain its leadership position in oxy-combustion technology, including engineering efforts and testing at its demonstration facility, but may opportunistically invest a greater portion of its available capital in near-term power projects with Entropy.
+- Strong financial position: Ended the quarter with approximately $424 million in cash, cash equivalents, and investments.
+Danny Rice, continued, “Over the last several years, we’ve assembled a world-class power team and established attractive sites for clean firm power hubs, and our new partnership with Entropy enables us to accelerate development of these sites—as well as potentially originate new ones—to meet the market’s demand for clean firm power now.”
+“We are excited to leverage Net Power’s power expertise and strategic assets to accelerate the deployment of our proven PCC technology and, most importantly, accelerate the deployment of clean gas power projects in the U.S.,” said Sanjay Bishnoi, Chief Executive Officer of Entropy. “Together we are ready to run ahead and meet this moment of unprecedented demand.”
+Conference Call
+Net Power will host a conference call to share second quarter 2025 results and related matters beginning at 8:30 AM ET on Friday, November 14. To access the live audio webcast of the conference call, please visit Net Power’s investor relations website at ir.netpower.com. To participate by phone, dial 877-407-8014 (domestic) or +1 201-689-8053 (international).
+An archived webcast will be available following the call.
+About Net Power
+Net Power (NYSE: NPWR) is an energy technology company dedicated to transforming natural gas into the lowest cost form of clean firm power. Net Power was founded in 2010 and has offices in Durham, North Carolina (HQ) and Houston, Texas.
+Cautionary Note Regarding Forward-Looking Statements and Projections
+Certain statements in this release may constitute “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, Section 21E of the Securities Exchange Act of 1934 and the Private Securities Litigation Reform Act of 1995, each as amended. Forward-looking statements provide current expectations of future events and include any statement that does not directly relate to any historical or current fact. Words such as “anticipates,” “believes,” “expects,” “intends,” “plans,” “projects,” or other similar expressions may identify such forward-looking statements. Forward-looking statements may relate to the development of Net Power’s projects, the anticipated demand for Net Power’s projects and the markets in which Net Power operates, the timing of the deployment of plant deliveries, and Net Power’s business strategies, capital requirements, potential growth opportunities and expectations for future performance (financial or otherwise). Forward-looking statements are based on current expectations, estimates, projections, targets, opinions and/or beliefs of the Company, and such statements involve known and unknown risks, uncertainties and other factors. Actual results may differ materially from those discussed in forward-looking statements as a result of factors, risks and uncertainties over which Net Power has no control. These factors, risks and uncertainties include, but are not limited to, the capital-intensive nature of Net Power’s business model, which will likely require Net Power to raise additional capital in the future; Net Power’s ability to adequately control or accurately predict the costs associated with its projects; barriers that Net Power may face in its attempts to deploy projects; risks related to Net Power’s strategic decision to broaden the scope of its business; the complexity of the machinery Net Power relies on for its operations and development; potential changes and/or delays in site selection and construction that result from regulatory, logistical, and financing challenges; the ability of Net Power to integrate other energy technologies in its projects; Net Power’s ability to establish and maintain supply relationships; Net Power’s reliance on the licensing of third party technology for its projects; risks related to strategic investors and partners; Net Power’s ability to successfully commercialize its operations; the availability and cost of technological components and raw materials for its projects; the impact of potential delays in discovering manufacturing and construction issues; the ability of Net Power’s commercial plants to efficiently provide net power output; governmental regulations or actions; legal proceedings; and other risks and uncertainties described under the headings “Risk Factors” and “Cautionary Note Regarding Forward-Looking Statements” in Net Power’s Annual Report on Form 10-K for the year ended December 31, 2024, its subsequent quarterly reports on Form 10-Q, and in its other filings made with the SEC from time to time, which are available via the SEC’s website at www.sec.gov. Forward-looking statements speak only as of the date they are made. Readers are cautioned not to put undue reliance on forward-looking statements, and Net Power assumes no obligation and does not intend to update or revise these forward-looking statements, whether as a result of new information, future events, or otherwise. Net Power does not give any assurance that it will achieve its expectations.
+Investor Relations Contact:
+Media Contact:
+
+--------------------------------------------------------------------------------
+
+URL: https://ir.netpower.com/resources
+
+Jul 22, 2025 4:15 pm EDT Net Power Schedules Second Quarter 2025 Earnings Release and Conference Call
+Feb 18, 2025 4:15 pm EST Net Power Schedules Fourth Quarter and Year End 2024 Earnings Release and Conference Call
+Dec 9, 2024 9:00 am EST Carbon TerraVault and Net Power Sign MOU to Develop Low Carbon, Reliable Power Solutions in California
+
+--------------------------------------------------------------------------------
+
+URL: https://ir.netpower.com/resources/press-releases
+
+Jul 22, 2025 4:15 pm EDT Net Power Schedules Second Quarter 2025 Earnings Release and Conference Call
+Feb 18, 2025 4:15 pm EST Net Power Schedules Fourth Quarter and Year End 2024 Earnings Release and Conference Call
+Dec 9, 2024 9:00 am EST Carbon TerraVault and Net Power Sign MOU to Develop Low Carbon, Reliable Power Solutions in California
+
+--------------------------------------------------------------------------------
+
+URL: https://ir.netpower.com/resources/proxy-statements
+
+Skip to main content
+Skip to section navigation
+Skip to footer
+chevron_left
+Back to netpower.com
+Overview
+Resources
+Press Releases
+Proxy Statements
+IR Calendar
+Presentations
+Stock Quote
+Email Alerts
+Financial Info
+Quarterly Results
+SEC Filings
+Governance
+Leadership
+chevron_left
+Back to netpower.com
+Proxy Statements
+Resources
+Resources
+Press Releases
+Proxy Statements
+IR Calendar
+Presentations
+Stock Quote
+Email Alerts
+2025 Proxy Statement
+Download
+2024 Annual Report
+Download
+rss_feed
+RSS News Feed
+account_tree
+Sitemap
+
+--------------------------------------------------------------------------------
+
+URL: https://ir.netpower.com/resources/ir-calendar
+
+Upcoming Events
+There are no upcoming events scheduled at this time. Sign up here to receive notices about upcoming events and press releases.
+There are no upcoming events scheduled at this time. Sign up here to receive notices about upcoming events and press releases.
+
+--------------------------------------------------------------------------------
+
+URL: https://ir.netpower.com/resources/presentations
+
+Skip to main content
+Skip to section navigation
+Skip to footer
+chevron_left
+Back to netpower.com
+Overview
+Resources
+Press Releases
+Proxy Statements
+IR Calendar
+Presentations
+Stock Quote
+Email Alerts
+Financial Info
+Quarterly Results
+SEC Filings
+Governance
+Leadership
+chevron_left
+Back to netpower.com
+Presentations
+Resources
+Resources
+Press Releases
+Proxy Statements
+IR Calendar
+Presentations
+Stock Quote
+Email Alerts
+Nov 13, 2025
+Third Quarter 2025 Results
+Aug 11, 2025
+Second Quarter 2025 Results
+Mar 10, 2025
+Fourth Quarter 2024 Results
+Nov 11, 2024
+Third Quarter 2024 Results
+Sep 10, 2024
+2024 Investor Presentation
+Aug 12, 2024
+Second Quarter 2024 Results
+May 13, 2024
+First Quarter 2024 Results
+Mar 11, 2024
+Fourth Quarter 2023 Results
+Nov 14, 2023
+Third Quarter 2023 Results
+rss_feed
+RSS
+rss_feed
+RSS News Feed
+account_tree
+Sitemap
+
+--------------------------------------------------------------------------------
+
+URL: https://ir.netpower.com/resources/quote
+
+Skip to main content
+Skip to section navigation
+Skip to footer
+chevron_left
+Back to netpower.com
+Overview
+Resources
+Press Releases
+Proxy Statements
+IR Calendar
+Presentations
+Stock Quote
+Email Alerts
+Financial Info
+Quarterly Results
+SEC Filings
+Governance
+Leadership
+chevron_left
+Back to netpower.com
+Stock Quote
+Resources
+Resources
+Press Releases
+Proxy Statements
+IR Calendar
+Presentations
+Stock Quote
+Email Alerts
+rss_feed
+RSS News Feed
+account_tree
+Sitemap
+
+--------------------------------------------------------------------------------
+
+URL: https://ir.netpower.com/resources/email-alerts
+
+Please fill out the form below to receive company press releases via email when they occur.
+We respect your privacy. We do not sell, rent, or loan any information to any third party. Any information you give us is held with the utmost care and security, and will be used only in ways to which you have consented.
+
+--------------------------------------------------------------------------------
+
+URL: https://ir.netpower.com/financial-information
+
+2025
+Q3 2025
+Quarter Ended Sep 30, 2025
+Q2 2025
+Quarter Ended Jun 30, 2025
+Q1 2025
+Quarter Ended Mar 31, 2025
+2024
+FY 2024
+Fiscal Year Ended Dec 31, 2024
+Q3 2024
+Quarter Ended Sep 30, 2024
+Q2 2024
+Quarter Ended Jun 30, 2024
+Q1 2024
+Quarter Ended Mar 31, 2024
+2023
+FY 2023
+Fiscal Year Ended Dec 31, 2023
+Q3 2023
+Quarter Ended Sep 30, 2023
+Q2 2023
+Quarter Ended Jun 30, 2023
+
+--------------------------------------------------------------------------------
+
+URL: https://ir.netpower.com/financial-information/quarterly-results
+
+2025
+Q3 2025
+Quarter Ended Sep 30, 2025
+Q2 2025
+Quarter Ended Jun 30, 2025
+Q1 2025
+Quarter Ended Mar 31, 2025
+2024
+FY 2024
+Fiscal Year Ended Dec 31, 2024
+Q3 2024
+Quarter Ended Sep 30, 2024
+Q2 2024
+Quarter Ended Jun 30, 2024
+Q1 2024
+Quarter Ended Mar 31, 2024
+2023
+FY 2023
+Fiscal Year Ended Dec 31, 2023
+Q3 2023
+Quarter Ended Sep 30, 2023
+Q2 2023
+Quarter Ended Jun 30, 2023
+
+--------------------------------------------------------------------------------
+
+URL: https://ir.netpower.com/financial-information/sec-filings
+
+| Date | Form | Description | XBRL | Pages |
+|---|---|---|---|---|
+| 02/02/26 | 4 | Form 4: Statement of changes in beneficial ownership of securities | 1 | |
+| 02/02/26 | 4 | Form 4: Statement of changes in beneficial ownership of securities | 2 | |
+| 01/28/26 | SCHEDULE 13D/A | Form SCHEDULE 13D/A: General Statement of Acquisition of Beneficial Ownership | 7 | |
+| 01/28/26 | 4 | Form 4: Statement of changes in beneficial ownership of securities | 2 | |
+| 01/28/26 | 4 | Form 4: Statement of changes in beneficial ownership of securities | 1 | |
+| 01/16/26 | 4 | Form 4: Statement of changes in beneficial ownership of securities | 2 | |
+| 01/16/26 | 4 | Form 4: Statement of changes in beneficial ownership of securities | 1 | |
+| 01/05/26 | 8-K | Form 8-K: Current report | 3 | |
+| 12/29/25 | 4 | Form 4: Statement of changes in beneficial ownership of securities | 1 | |
+| 12/29/25 | 4 | Form 4: Statement of changes in beneficial ownership of securities | 2 |
+
+--------------------------------------------------------------------------------
+
+URL: https://ir.netpower.com/governance
+
+Leadership
+Danny Rice
+President & Chief Executive Officer
+Danny Rice has served as Net Power's Chief Executive Officer since 2023 and brings over 20 years of energy industry experience across various sectors including traditional energy production and transportation, energy technologies and energy transition. Danny also serves as Net Power's interim Chief Financial Officer. Danny’s career has been profiled by Forbes Magazine, Wall Street Journal, Bloomberg, and other news organizations.
+Early in his career, Danny co-founded Rice Energy and led its growth from startup in 2008 into becoming one of North America’s largest public natural gas production and transportation companies, culminating in its $10 billion merger with EQT Corporation in 2017. Danny served as Rice Energy’s Chief Financial Officer from 2008-2012, Chief Operating Officer from 2012-2013, and Chief Executive Officer from its 2014 IPO until 2017.
+In 2018, Danny co-founded Rice Investment Group to invest in early-stage private companies across traditional energy, energy technology, and energy transition sectors. Notable Rice Investment Group investments include Archaea Energy, XCL Resources, Pinon Resources, Cold Bore Technology, Persefoni AI, and ComboCurve. In 2020, Rice Investment Group sponsored two special purpose acquisition companies, the first of which merged with Archaea Energy in 2021, which was acquired by bp for $4.1 billion in 2022. The second merged with Net Power in 2023.
+Danny’s career began with finance and strategy roles at TPH & Co., Transocean Ltd., and Tyco International plc.
+Danny has served on numerous private and public company boards, including Rice Energy (NYSE: RICE, 2014-2017), Rice Midstream Partners (NYSE: RMP, 2014-2017), EQT Corp (NYSE: EQT, 2017-current), Archaea Energy Inc. (NYSE: LFG, 2021-2022), Whiting Petroleum Corporation (NYSE: WLL, 2020-2022), Rice Acquisition Corp I (NYSE: RICE, 2020-2021) and Rice Acquisition Corp II (NYSE: RONI, 2021-2022).
+Danny was raised in Boston, MA and currently resides in Dallas, TX with his wife and their two daughters.
+Andrew Davisson
+Interim General Counsel
+Andrew Davisson has served as Interim General Counsel of Net Power since January 2026. He previously served as Deputy General Counsel from June 2023 to January 2026. Prior to joining Net Power, he held senior legal roles with multiple public companies where he was primarily responsible for public company reporting and compliance, corporate governance, capital markets, and equity and executive compensation matters.
+Davisson was in private practice with the Raleigh office of DLA Piper from 2009 to 2018 prior to moving in-house. He holds a B.A. in Psychology and Criminal Justice from the University of Richmond and a J.D. from Wake Forest University. He is a licensed member of the North Carolina State Bar.
+Marc Horstman
+Chief Operating Officer
+Marc Horstman was appointed as Chief Operating Officer of the Company on April 15, 2025. Mr. Horstman previously served as Net Power’s Head of Product Development beginning in May 2023. Prior to joining Net Power, he held senior leadership roles at Vertiv Holdings Co., a provider of critical digital infrastructure for data centers, communication networks, and commercial and industrial environments, including Vice President of North America Service Operations from October 2021 to November 2022 and Senior Director of Project Execution from June 2019 to September 2021. Prior to that, at Siemens, Mr. Horstman served as Senior Executive Vice President Americas from April 2017 to December 2018, as Vice President of Global Customer Operations from April 2016 to April 2017, and as Vice President of Global Manufacturing & Test from December 2014 to April 2016. Earlier in his career, he held various project and product leadership roles at Rolls-Royce from 2011 to 2014 and General Electric from 1999 to 2011. Mr. Horstman began his career as an Engineer Officer in the U.S. Army. He holds a B.S. in Mechanical Engineering from the University of Dayton.
+Bruce Jenkins
+Chief of Staff
+Bruce Jenkins has served as Net Power’s Chief of Staff since April 2025 and partners with the Chief Executive Officer and Chief Operating Officer on Net Power’s strategic priorities and responsibilities. He is responsible for identifying and escalating enterprise risk issues, leading cross-functional teams to achieve critical company objectives, and designing efficient processes that enable Net Power to operate in a modern, agile fashion. Bruce also leads Net Power’s Supply Chain, Information Technology, and Origination Teams, ensuring their goals are strategically aligned and efficiently integrated into Net Power’s operating model.
+Bruce joined Net Power in July 2023 as Vice President of Organizational Excellence where he was responsible for designing Net Power’s digital work environment and building structured processes to enhance how Net Power collaborates on work.
+Prior to Net Power, Bruce spent over a decade in leadership roles at exploration and production companies such as EQT, CNX Resources, and Rice Energy. Bruce began his career at Bechtel Bettis, Inc. and has management experience at consulting companies like Deloitte and BDO. He earned a Bachelor of Science from Penn State University in Computer Engineering and an MBA from Quantic School of Technology and Business
+Amy Keyser
+Chief Human Resources Officer
+Amy Keyser joined Net Power after serving as the head of human resources for a global financial services company and a U.S.-based fintech organization. She has held a series of senior executive legal and HR roles and has been recognized for her work in DEIA, supporting workforces through change, aligning people strategies with business objectives, and increasing employee engagement.
+She was in private practice as a management-defense employment attorney with several San Francisco law firms. She holds a B.A. in Psychology and a J.D. from the University of Virginia. She is a member of the California State Bar Association and the District of Columbia Bar Association. She also holds a professional certificate from Duke University in human resource management, is SHRM-SCP credentialed, and a certified executive coach.
+Xijia Lu
+Chief Innovation Officer
+Dr. Xijia Lu has served as NET Power’s Chief Innovation Officer since January 2024. Prior to joining NET Power, Dr. Lu worked for 8 Rivers Capital, LLC for eight years, leading the research and development (R&D) of the solid fuel based Allam Cycle technology, which is a solid fuel-based direct fired supercritical CO2 cycle. He has also led R&D efforts for other novel technologies development in clean energy space, including a calcium-based post combustion capture technology and direct air capture technology. Dr. Lu received a PhD degree in Mechanical Engineering from the University of New Orleans, and he has over 30 publications and over 100 patent flings
+Scott Martin
+Chief Technology Officer
+Scott Martin serves as the Chief Technology Officer of NET Power, a clean energy technology company working to provide the Energy Trifecta – clean, low-cost, and reliable energy. As CTO, Scott leads technology development efforts, alignment with key partners, and NET Power’s long-term go-to-market strategy.
+Scott’s work on NET Power began in 2014 as one of the original engineers designing NET Power’s 50MWth La Porte, Texas Demonstration Facility. Scott contributed to NET Power’s technology suite of initial commercial designs and overall IP portfolio and lived in both Tokyo and Houston to complete engineering, construction, and commissioning of the demonstration facility. Scott led efforts of the successful first-of-a-kind oxy-combustion testing completed at site in 2018 and then later served as Director of Demonstration at NET Power from Fall 2018, where he led engineering and validation, laying the groundwork for NET Power’s successful synchronization to the ERCOT grid in Fall 2021.
+In addition to NET Power, Scott contributed to the development and commercialization of 8 Rivers’ other groundbreaking clean technology in carbon capture, direct air capture, and clean hydrogen.
+Scott served as Director of Strategic Sales at Mitsubishi Power from June 2021 to June 2022, working closely with utilities and consortiums to assess techno-economics and drive adoption of emerging hydrogen technologies. Scott returned to NET Power in June 2022.
+Scott graduated from Duke University with a Bachelor of Science in Mechanical Engineering and Materials Science. He was a 2018 Forbes 30 Under 30 honoree in Energy.
+Board of Directors
+Peter J. (Jeff) Bennett
+Chairman
+Mr. Bennett has served as President of U.S. Onshore Resources and Carbon Management, Commercial Development of Occidental, the parent of OLCV, since October 2020. In this role, Mr. Bennett is responsible for the strategic direction and capital placement for Occidental’s U.S. Onshore Resources and Carbon Management business. He also served as Senior Vice President of Permian Resources of Occidental Oil and Gas, a subsidiary of Occidental, from April 2018 to April 2020 and as President and General Manager of Permian Resources and the Rockies from April 2020 to October 2020. Mr. Bennett previously served as President and General Manager — Permian Resources, New Mexico Delaware Basin, from January 2017 to April 2018, Chief Transformation Officer from June 2016 to January 2017, Vice President, Portfolio and Optimization of Occidental Oil and Gas from February 2016 to June 2016 and, prior to that, pioneered innovative logistical and operational solutions as Vice President, Operations Portfolio and Integrated Planning of Occidental Oil and Gas from October 2015 to February 2016. Mr. Bennett has served as a member of the board of directors of Western Midstream Partners, LP (NYSE: WES) since August 2019 and as chairperson of such board since December 2021. Mr. Bennett received a B.A. in accounting from Louisiana State University and an MBA from Pepperdine University in California. He is also a Certified Public Accountant (inactive).
+Danny Rice
+President & Chief Executive Officer
+Danny Rice has served as Net Power's Chief Executive Officer since 2023 and brings over 20 years of energy industry experience across various sectors including traditional energy production and transportation, energy technologies and energy transition. Danny also serves as Net Power's interim Chief Financial Officer. Danny’s career has been profiled by Forbes Magazine, Wall Street Journal, Bloomberg, and other news organizations.
+Early in his career, Danny co-founded Rice Energy and led its growth from startup in 2008 into becoming one of North America’s largest public natural gas production and transportation companies, culminating in its $10 billion merger with EQT Corporation in 2017. Danny served as Rice Energy’s Chief Financial Officer from 2008-2012, Chief Operating Officer from 2012-2013, and Chief Executive Officer from its 2014 IPO until 2017.
+In 2018, Danny co-founded Rice Investment Group to invest in early-stage private companies across traditional energy, energy technology, and energy transition sectors. Notable Rice Investment Group investments include Archaea Energy, XCL Resources, Pinon Resources, Cold Bore Technology, Persefoni AI, and ComboCurve. In 2020, Rice Investment Group sponsored two special purpose acquisition companies, the first of which merged with Archaea Energy in 2021, which was acquired by bp for $4.1 billion in 2022. The second merged with Net Power in 2023.
+Danny’s career began with finance and strategy roles at TPH & Co., Transocean Ltd., and Tyco International plc.
+Danny has served on numerous private and public company boards, including Rice Energy (NYSE: RICE, 2014-2017), Rice Midstream Partners (NYSE: RMP, 2014-2017), EQT Corp (NYSE: EQT, 2017-current), Archaea Energy Inc. (NYSE: LFG, 2021-2022), Whiting Petroleum Corporation (NYSE: WLL, 2020-2022), Rice Acquisition Corp I (NYSE: RICE, 2020-2021) and Rice Acquisition Corp II (NYSE: RONI, 2021-2022).
+Danny was raised in Boston, MA and currently resides in Dallas, TX with his wife and their two daughters.
+Ralph Alexander
+Director
+Mr. Alexander served as Chief Executive Officer of Talen Energy Corporation, one of the largest competitive power generation and infrastructure companies in North America, from December 2016 to June 2021 and as its Chairman from June 2021 to April 2023. He was previously affiliated with Riverstone Holdings LLC, an energy and power-focused private equity firm, from 2007 to 2016. Prior to that, for nearly 25 years, he served in various positions with subsidiaries and affiliates of BP plc, one of the world’s largest oil and gas companies (“BP”). From 2004 until 2006, Mr. Alexander served as Chief Executive Officer of Innovene, BP’s $20 billion olefins and derivatives subsidiary. From 2001 until 2004, he served as Chief Executive Officer of BP’s Gas, Power and Renewables and Solar segment and was a member of the BP group executive committee. Prior to that, Mr. Alexander served as a Group Vice President in BP’s Exploration and Production segment and BP’s Refinery and Marketing segment. He held responsibilities for various regions of the world, including North America, Russia, the Caspian, Africa and Latin America. Prior to these positions, Mr. Alexander held various positions in the upstream, downstream, and finance groups of BP. Since its inception in 2013, he has served on the Board of Directors of Enviva Inc. (NYSE: EVA), a global energy company specializing in sustainable wood bioenergy and one of the world’s largest producers of sustainable wood pellets, which provide a low-carbon alternative to fossil fuels. He previously served on the boards of EP Energy Corporation, Foster Wheeler, Stein Mart, Inc., Amyris and Anglo-American plc. Mr. Alexander holds an M.S. in Nuclear Engineering from Brooklyn Polytech (now NYU School of Engineering) and an M.S. in Management Science from Stanford University.
+J. Kyle Derham
+Director
+Mr. Derham has served as the Chief Executive Officer of RONI since February 2022; prior to that, he served as RONI’s Chief Financial Officer from February 2021 to February 2022. Mr. Derham is a Partner of Rice Investment Group. Mr. Derham was a director of Archaea Energy Inc. from September 2021 until December 2022 when Archaea Energy Inc. was acquired by BP Products North America Inc. Mr. Derham, as part of certain members of the Rice Investment Group, led the shareholder campaign in 2019 to revamp the strategic direction of EQT and elect a majority slate of director candidates to the board of EQT, the largest operator of natural gas production in the United States. Following the campaign, Mr. Derham served as interim Chief Financial Officer of EQT and subsequently served as a strategic advisor to the company. Mr. Derham previously served as Vice President, Corporate Development and Finance of Rice Energy Inc. and Rice Midstream Partners LP from January 2014 through November 2017. Through his various roles working alongside the Rice family, Mr. Derham has focused on evaluating, structuring and negotiating key acquisitions and execution of critical strategic initiatives to generate attractive risk adjusted returns for investors. Mr. Derham also has experience as a private equity investor, working as an associate at First Reserve and as an investment banker at Barclays Investment Bank.
+Frederick A. Forthuber
+Director
+Frederick A. Forthuber currently serves as President of Oxy Energy Services, LLC, a subsidiary of Occidental Petroleum Corporation. In this role, Mr. Forthuber has global functional responsibility for midstream and marketing of crude oil, natural gas liquids, and natural gas. In addition, Mr. Forthuber has global functional responsibility for Health and Safety, Process Safety and Risk Engineering. Mr. Forthuber has more than 35 years of industry experience in oil and gas operations. He has held positions of increasing responsibility in engineering and project management since joining Occidental with the acquisition of Altura Energy in 2000. Most recently, he served as Vice President Worldwide Operations for Occidental Oil and Gas Corporation. Prior to joining Occidental, Mr. Forthuber served in engineering roles for Altura Energy and Exxon. He has been a Director for the Western Midstream Board of Directors since 2021 and is a member of the Environmental, Social, and Governance Committee. Mr. Forthuber holds a Bachelor of Science degree in Marine Engineering Systems from the United States Merchant Marine Academy and an Executive Scholar Certificate in Finance from the Kellogg School of Management at Northwestern University.
+Joseph T. Kelliher
+Director
+Mr. Joseph T. Kelliher is a former Executive Vice President-Federal Regulatory Affairs for NextEra Energy, Inc. (NextEra) and former Chairman of the Federal Energy Regulatory Commission (“FERC”). Mr. Kelliher was responsible for developing and executing FERC regulatory strategy for NextEra and its principal subsidiaries, NextEra Energy Resources and Florida Power & Light Company, from 2009 to 2020. NextEra is the largest electricity company in the U.S., one of the few national electricity companies, operating in every region and every organized market, and the most complex company regulated by FERC, with multiple business lines subject to FERC regulation. Previously, Mr. Kelliher served as FERC Chairman and Commissioner from 2005 to 2009. A hallmark of his chairmanship was efficient implementation of the Energy Policy Act of 2005, the largest expansion in FERC regulatory authority since the 1930s. This law gave FERC a new mission to assure reliability of the interstate power grid, granted the agency strong enforcement authority for the first time and expanded FERC powers in other areas. Chairman Kelliher pursued a series of reforms to promote competitive wholesale power and natural gas markets, improve FERC economic regulation and strengthen the U.S. energy infrastructure. Mr. Kelliher has spent his entire professional career working on energy policy matters, serving in a variety of roles in both the public and private sectors. These include senior policy advisor to the U.S. Secretary of Energy, majority counsel to the U.S. House Commerce Committee and positions with private corporations, trade associations and law firms. Mr. Kelliher earned a Bachelor of Science degree from Georgetown University, School of Foreign Service, and a Juris Doctor degree, magna cum laude, from The American University Washington College of Law.
+Carol Peterson
+Director
+From 2004 until her retirement in February 2022, Ms. Peterson held multiple executive positions at Constellation. From January 2015 to February 2022, she served as Senior Vice President of Strategy & Planning, in which position she led major transformations including the separation of Constellation from Exelon and the integration of acquired power plants. Previously at Exelon Generation, from March 2014 to January 2015, she served as Vice President of Strategy, from April 2010 to March 2014, she served as Vice President of Project Management and, from October 2004 to April 2010, she served as Vice President of Finance. Prior to Constellation, Ms. Peterson held positions in engineering and operations for Duke Energy Corporation (NYSE: DUK), Wisconsin Energy Corporation and Westinghouse Electric Corporation. Ms. Peterson has served on the Board of the Northern Illinois Food Bank since 2016. Ms. Peterson earned a bachelor’s degree in engineering from the University of Illinois and a master’s of management from Northwestern University.
+Brad Pollack
+Director
+Mr. Pollack currently serves as Deputy General Counsel, Commercial Development and Operations of Occidental. In this role, which he has held since April 2023, Mr. Pollack is responsible for the legal support for domestic and international mergers, acquisitions and other commercial transactions, and manages the legal teams supporting Occidental’s operations in the Middle East, North Africa, South America and Gulf of Mexico, as well as major projects. He has also served as Vice President, Legal of Oxy Low Carbon Ventures (OLCV) since July 2022, pursuant to which he is responsible for the legal support for Occidental’s low carbon ventures business, which seeks to leverage Occidental’s legacy of carbon management expertise to develop carbon capture, utilization and storage (CCUS) projects. Mr. Pollack joined Occidental in 2014 and has held multiple positions of increasing responsibility within Occidental’s legal department, including most recently serving as Associate General Counsel of Occidental Petroleum from January 2022 to April 2023, prior to which he served as Assistant General Counsel, M&A and Strategic Transactions, from April 2019 to June 2022, as Managing Counsel, M&A and Strategic Transactions, from April 2018 to March 2019, and as Senior Counsel, M&A and Projects, from December 2014 to March 2018. Before joining Occidental, Mr. Pollack was a senior corporate and securities lawyer at Dechert LLP where he represented public and private companies in domestic and cross-border mergers and acquisitions, capital market transactions, corporate governance and other legal matters across a wide range of industry sectors, such as energy, technology, advanced manufacturing and financial services. Mr. Pollack received a B.S.E. in systems engineering from the University of Pennsylvania and a J.D. from Syracuse University College of Law.
+Alejandra Veltmann
+Director
+Ms. Veltmann is an executive with financial leadership of publicly-listed entities, private entrepreneurial companies and global auditing firms. Since 2018, she has served as founder and CEO of ESG Lynk, a leading sustainability reporting company. Ms. Veltmann has also served as a member of California Resources Corporation’s (NYSE: CRC) Board of Directors and Audit Committee Chair since December 2021. From 2021 to its acquisition in 2022, she served as a director and chair of the Audit Committee for Structural Integrity Associates, a private company that provides life cycle engineering solutions. From 2015 to 2018, she was Vice President and Chief Accounting Officer of Paragon Offshore Plc., an offshore drilling company. From 2010 to 2015, she worked in various roles including Corporate Controller and Vice President and Chief Accounting Officer at Geokinetics, Inc., formerly one of the world’s largest independent land and seafloor geophysical companies. She also held several positions in the audit practice of KPMG LLP from 1995 to 2002 and before that at Arthur Andersen LLP from 1992 to 1995. Ms. Veltmann is a certified public accountant and holds the FSA Credential from the Sustainability Accounting Standards Board (SASB). She has a BBA degree in Accounting from the University of New Mexico and is an alumna of the Advanced Management Program at Harvard Business School.
+Governance Documents
+Audit Committee Charter
+Code of Ethics
+Compensation Committee Charter
+Corporate Governance Guidelines
+Nominating and Corporate Governance Committee Charter
+Governance at a Glance
+| Board Members | Audit | Compensation | Nominating and Corporate Governance |
+|---|---|---|---|
+|
+Peter J. (Jeff) Bennett
+|
+|||
+|
+Danny Rice
+|
+|||
+|
+Ralph Alexander
+|
+|
+|
+|
+|
+J. Kyle Derham
+|
+|
+||
+|
+Frederick A. Forthuber
+|
+|||
+|
+Joseph T. Kelliher
+|
+|
+|
+|
+|
+Carol Peterson
+|
+|
+|
+|
+|
+Brad Pollack
+|
+|
+||
+|
+Alejandra Veltmann
+|
+|
+|
+
+--------------------------------------------------------------------------------
+
+URL: https://ir.netpower.com/resources/press-releases/detail/44/net-power-reports-third-quarter-2025-results-and-provides-business-update
+
+Net Power Reports Third Quarter 2025 Results and Provides Business Update
+DURHAM, N.C.--(BUSINESS WIRE)-- Net Power Inc. (NYSE: NPWR) (“Net Power” or the “Company”) today announced its financial and operational results for the third quarter ended September 30, 2025, and outlined an updated strategy that continues to focus on delivering low-carbon intensity power solutions fueled by natural gas.
+In response to unprecedented near-term demand for firm power solutions with viable pathways to decarbonize, the Company has expanded its business strategy to prioritize the development of clean power projects utilizing gas turbines with post-combustion carbon capture (PCC). At the same time, Net Power continues to support the long-term development and deployment of its oxy-combustion technology.
+Danny Rice, Chief Executive Officer of Net Power, stated, “The market is beginning to embrace reality: the only responsible way to meet unprecedented electricity demand growth is with natural gas power, and the only safe and proven way to do so while reducing emissions is with carbon capture. Net Power’s mission is to transform natural gas into the lowest cost form of clean firm power. The work we’ve done to date indicates our oxy-combustion technology is lower cost and quicker to deploy than new nuclear power—however, speed is key in this market. Expanding our offerings to include PCC unlocks a significant market opportunity directly in front of us.”
+Key Business Updates:
+Building Strong PCC Offering and Advancing First Projects
+- Signed letter of intent with Entropy Inc.: Net Power signed a letter of intent with Entropy Inc. (“Entropy”), a global leader in proven carbon capture technology, to exclusively deploy Entropy’s PCC technology for power generation in the United States and to jointly develop projects. Entropy’s proprietary solvent is energy efficient and proven to reduce CO2 emissions from natural gas power plants. This strategic partnership is subject to continued diligence and approval of definitive agreements, which the Company and Entropy endeavor to complete in the coming months.
+- Permian Basin clean firm power hub: Net Power is progressing its first clean firm power hub at its Project Permian site in West Texas. The project is being sized to accommodate up to 1GW of clean firm power generation capacity utilizing Net Power’s suite of power technologies. Phase I of the project will utilize readily available gas turbines paired with Entropy’s proven PCC technology; to that end, Net Power has secured 60MW of gas turbines with 2028 delivery. Net Power is finalizing definitive documents for Occidental to purchase 30MW of the power and 100% of the captured CO2. Final investment decision (FID) for Phase I is expected in the first half of 2026 with targeted commercial operations in 2028, which would make it the first commercial clean gas power project in the United States.
+- Northern MISO clean firm power hub: Net Power also continues to advance its clean firm power hub in northern MISO, where the Company has site control and a 300MW interconnect request through the DPP-2023 interconnection queue process. Net Power’s sequestration partner continues to advance its Class VI permit applications and both the interconnect and sequestration facilities are expected to be completed by 2028/2029. Net Power is designing Phase I of the project to utilize gas turbines paired with Entropy PCC, targeting FID in 2027 with commercial operations as soon as 2029. Net Power is in active discussions with strategic offtakers for the power.
+Realigning Technology Prioritization and Approach
+- Advanced testing at La Porte test facility: Net Power continued to advance oxy-combustion equipment testing with Baker Hughes at its La Porte Demonstration Facility. During the quarter, the facility achieved its highest ever recorded pressures and temperatures, underscoring continued progress in technology maturation. The Company intends to complete Phase I testing, which it expects to occur this year, and will reassess future testing phases by year-end.
+- Non-cash impairment of other intangible assets: During the quarter, the Company completed a market analysis of its oxy-combustion technology, identifying slower than anticipated acceptance and deployment relative to previous expectations. The value engineering efforts on Project Permian identified significant cost reductions and performance improvements, but not to a level that is economically competitive in the current market. These events resulted in an impairment of the carrying value of the technology and associated assets on the Company’s balance sheet.
+Setting Clear Path Ahead
+- Optimizing capital allocation to deliver clean firm power: The Company views its oxy-combustion technology as a viable, long-term solution for low-carbon intensity power generation. The Company will prudently invest capital to maintain its leadership position in oxy-combustion technology, including engineering efforts and testing at its demonstration facility, but may opportunistically invest a greater portion of its available capital in near-term power projects with Entropy.
+- Strong financial position: Ended the quarter with approximately $424 million in cash, cash equivalents, and investments.
+Danny Rice, continued, “Over the last several years, we’ve assembled a world-class power team and established attractive sites for clean firm power hubs, and our new partnership with Entropy enables us to accelerate development of these sites—as well as potentially originate new ones—to meet the market’s demand for clean firm power now.”
+“We are excited to leverage Net Power’s power expertise and strategic assets to accelerate the deployment of our proven PCC technology and, most importantly, accelerate the deployment of clean gas power projects in the U.S.,” said Sanjay Bishnoi, Chief Executive Officer of Entropy. “Together we are ready to run ahead and meet this moment of unprecedented demand.”
+Conference Call
+Net Power will host a conference call to share second quarter 2025 results and related matters beginning at 8:30 AM ET on Friday, November 14. To access the live audio webcast of the conference call, please visit Net Power’s investor relations website at ir.netpower.com. To participate by phone, dial 877-407-8014 (domestic) or +1 201-689-8053 (international).
+An archived webcast will be available following the call.
+About Net Power
+Net Power (NYSE: NPWR) is an energy technology company dedicated to transforming natural gas into the lowest cost form of clean firm power. Net Power was founded in 2010 and has offices in Durham, North Carolina (HQ) and Houston, Texas.
+Cautionary Note Regarding Forward-Looking Statements and Projections
+Certain statements in this release may constitute “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, Section 21E of the Securities Exchange Act of 1934 and the Private Securities Litigation Reform Act of 1995, each as amended. Forward-looking statements provide current expectations of future events and include any statement that does not directly relate to any historical or current fact. Words such as “anticipates,” “believes,” “expects,” “intends,” “plans,” “projects,” or other similar expressions may identify such forward-looking statements. Forward-looking statements may relate to the development of Net Power’s projects, the anticipated demand for Net Power’s projects and the markets in which Net Power operates, the timing of the deployment of plant deliveries, and Net Power’s business strategies, capital requirements, potential growth opportunities and expectations for future performance (financial or otherwise). Forward-looking statements are based on current expectations, estimates, projections, targets, opinions and/or beliefs of the Company, and such statements involve known and unknown risks, uncertainties and other factors. Actual results may differ materially from those discussed in forward-looking statements as a result of factors, risks and uncertainties over which Net Power has no control. These factors, risks and uncertainties include, but are not limited to, the capital-intensive nature of Net Power’s business model, which will likely require Net Power to raise additional capital in the future; Net Power’s ability to adequately control or accurately predict the costs associated with its projects; barriers that Net Power may face in its attempts to deploy projects; risks related to Net Power’s strategic decision to broaden the scope of its business; the complexity of the machinery Net Power relies on for its operations and development; potential changes and/or delays in site selection and construction that result from regulatory, logistical, and financing challenges; the ability of Net Power to integrate other energy technologies in its projects; Net Power’s ability to establish and maintain supply relationships; Net Power’s reliance on the licensing of third party technology for its projects; risks related to strategic investors and partners; Net Power’s ability to successfully commercialize its operations; the availability and cost of technological components and raw materials for its projects; the impact of potential delays in discovering manufacturing and construction issues; the ability of Net Power’s commercial plants to efficiently provide net power output; governmental regulations or actions; legal proceedings; and other risks and uncertainties described under the headings “Risk Factors” and “Cautionary Note Regarding Forward-Looking Statements” in Net Power’s Annual Report on Form 10-K for the year ended December 31, 2024, its subsequent quarterly reports on Form 10-Q, and in its other filings made with the SEC from time to time, which are available via the SEC’s website at www.sec.gov. Forward-looking statements speak only as of the date they are made. Readers are cautioned not to put undue reliance on forward-looking statements, and Net Power assumes no obligation and does not intend to update or revise these forward-looking statements, whether as a result of new information, future events, or otherwise. Net Power does not give any assurance that it will achieve its expectations.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20251113227753/en/
+Investor Relations Contact:
+Media Contact:
+Source: Net Power Inc.
+Released November 13, 2025
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,890 @@
+ROOT: https://nrel.gov/
+SCRAPED_AT_UTC: 2026-02-11T20:23:20.180674Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://nrel.gov/
+
+With Inverters, Island Adapts to Changing Power Grid Physics
+NLR helps Kauai tap into a new source of strength that can stop electric oscillations.
+National Laboratory of the Rockies (NLR) bridges research with real-world applications to advance energy technologies that lower costs, boost the economy, strengthen security, and ensure abundant energy.
+Data and Tools
+Find NLR-developed data sets, maps, models, and tools used for the analysis of advanced energy technologies.
+Find a Job
+Explore our current job postings, which include research positions and other career opportunities in a variety of fields.
+Partner With Us
+Work with NLR to accelerate the advancement of energy technologies to the marketplace.
+News
+Subscribe
+How To Crack the Wave Energy Code
+Feb. 10, 2026
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/visiting-nlr
+
+Visiting National Laboratory of the Rockies
+To plan your visit, select the location below. Not sure? Contact your NLR host to confirm the location for your meeting.
+See Visitor Safety and Security Protocols for required documentation and procedures when visiting our sites.
+NLR offers in-person, staff-led tours of its South Table Mountain campus, in Golden, Colorado, to U.S. citizens 18 and older. Learn more about NLR's tour offerings and commitment to community.
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/contacts
+
+Contact Information
+Find mailing addresses, phone numbers, and contact information for NLR staff.
+Golden, Colorado Laboratories and Offices
+National Laboratory of the Rockies
+15013 Denver West Parkway
+Golden, CO 80401
+303-275-3000
+Washington, D.C., Office
+National Laboratory of the Rockies
+901 D. Street, S.W. Suite 930
+Washington, D.C. 20024-2157
+202-488-2200
+Phone Numbers
+View a list of important phone numbers.
+Contact a Staff Member at NLR
+Our searchable staff directory has contact information for staff.
+Questions or Comments?
+Please use our contact form.
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about
+
+About the National Laboratory of the Rockies
+NLR is the U.S. Department of Energy's primary national laboratory for energy systems.
+With a focus on security and reliability, NLR leads energy systems innovation and integration—enhancing existing technologies and developing new, cutting-edge solutions that unlock economic opportunity and fuel America's global competitiveness.
+NLR bridges foundational research with practical applications to integrate various energy sources, storage, buildings, transportation, and emerging technologies.
+Quick Facts
+Collaborative Research Facilities
+Energy Systems Integration Facility
+Research Programs
+16 programs
+Business Volume
+$1.1 billion*
+Publications
+2,314 scientific and technical materials published last fiscal year
+Partnerships
+More than 1,100 active partnerships with industry, universities, foundations, and governments
+Technologies for Licensing
+More than 920 patented or patent-pending technologies available for licensing
+Countries Represented by Staff
+More than 70
+*Fiscal Year 2025
+NLR is a national laboratory of the U.S. Department of Energy. Read our security and privacy policy.
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/dc
+
+Washington, D.C., Office
+NLR's Washington, D.C., office provides energy analysis and technical program support to the U.S. Department of Energy.
+National Laboratory of the Rockies Washington, D.C., Office
+901 D Street, SW
+(also 370 L'Enfant Promenade, adjacent to the Forrestal building)
+Suite 930
+Washington, D.C., 20024
+202-488-2200
+D.C. Visitor Information
+See local information to plan your trip.
+Security Protocols
+See security protocols for all NLR sites to ensure proper documentation and processes. Email Niyona Ingram for additional site-specific information.
+Check-In Process
+The Washington, D.C. office grants access to those with a Homeland Security Presidential Directive-12 badge or tenant business identification badge containing a 901 D Street decal. All others—including those with NLR badges—are considered visitors and must follow these steps:
+- Email the visitor's name, date of arrival, and date of departure to Niyona Ingram.
+- The security team will receive notification of each approved visitor and issue a security fob granting access to the building elevators and NLR suite.
+- Visitors who have not received approval must await authorization and/or escort.
+- Upon arrival, provide government-issued photo identification (i.e., driver's license, passport, or military ID).
+- Adhere to a magnetometer scan and X-ray of personal items.
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/alaska
+
+NLR's Alaska Campus in Fairbanks
+NLR's Alaska Campus in Fairbanks is the laboratory's northernmost campus.
+NLR's Alaska Campus in Fairbanks
+955 Draanjik Drive
+Fairbanks, AK 99775
+907-615-6260
+NLR's Far-North Campus
+NLR's Alaska Campus is the only national lab based in Alaska. NLR's Alaska researchers focus on advancing energy in extreme climates and collaborate with communities to tailor energy and building technologies to their needs.
+Housed in the farthest-north LEED Platinum building in the world, NLR Alaska's facilities showcase energy technologies such as solar, geothermal, air source heat pumps, biomass, and thermal storage. Alaska's extreme climate—combined with its remote communities, lack of infrastructure, and abundant energy resources—offers tremendous opportunities to solve energy-efficiency challenges faced by the rest of the world.
+The campus' focus is on the built environment and includes building science research, design, and social and economic research. Central to its mission is engaging with local and Indigenous people to incorporate traditional knowledge into technology solutions.
+Visitor Information and Security Procedures
+See security protocols for all NLR sites to ensure proper documentation and processes.
+Virtual tours of NLR's Alaska Campus in Fairbanks are offered monthly. For in-person tours, you must check in ahead of time and follow all security requirements and safety protocols. Contact Molly Rettig for more information.
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/flatirons-campus
+
+Flatirons Campus Laboratories and Offices
+NLR's Flatirons Campus, home of the National Wind Technology Center, is approximately 25 miles north of the main NLR facility in Golden, Colorado.
+NLR's Flatirons Campus Laboratories and Offices
+National Laboratory of the Rockies
+19001 W. 119th Ave., Arvada, CO 80007
+303-384-6900
+GPS Coordinates 39 degrees 54' 50.2" N
+105 degrees 12' 48.6" W
+NLR's Flatirons Campus Visitor Information
+See local information to plan your trip.
+Security Protocols
+See security protocols for all NLR sites to ensure proper documentation and processes.
+Check-In Process
+All visitors to NLR's Flatirons Campus must check in at the Flatirons Campus Site Entrance Building and present required documentation to receive a security badge (see Visitor Safety and Security Protocols for details).
+Campus Map
+Electric Vehicle Charging Stations
+Learn more about the electric vehicle charging stations for both staff and visitor use.
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/golden
+
+Golden Laboratories and Offices
+NLR's administrative offices, education center, and most research laboratories are located at our campus in Golden, Colorado, north of highway I-70 and west of Denver West Boulevard.
+Golden, Colorado, Laboratories and Offices
+National Laboratory of the Rockies
+15013 Denver West Parkway
+Golden, CO 80401
+303-275-3000
+GPS Coordinates
+39 degrees 44' 40" N
+105 degrees 09' 08" W
+Golden Visitor Information
+See local information to plan your trip.
+Security Protocols
+See security protocols for all NLR sites to ensure proper documentation and processes.
+Check-In Process
+All guests visiting NLR's South Table Mountain campus and satellite locations in Golden, Colorado, must preregister with an NLR host before arriving on campus.
+- If visiting the South Table Mountain campus, drive up to the East or South Site Entrance Building window using the left lane to confirm your visit with security staff. Upon approval, visitors will receive a parking pass and directions.
+- Visitors arriving at Denver West Building 16 outside business hours (6 a.m.–5 p.m. Monday–Friday) must obtain a badge from the South Table Mountain campus' East Site Entrance to obtain a badge for entry. All vendors must check in at the East Site Entrance to obtain a vendor badge.
+- Visitors accessing the public area of Colorado Renewable Energy Economic Development—inside Denver West Building 16—do not need to check in at the South Table Mountain campus.
+Campus Maps
+See a detailed map of NLR's Golden offices and laboratories.
+See the accessibility map and entrances for Americans with disabilities.
+Electric Vehicle Charging Stations
+Learn more about the electric vehicle charging stations for both staff and visitor use.
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/community
+
+NLR in the Community
+NLR's commitment to the community includes public tours, stakeholder outreach, and charitable giving efforts.
+For questions or to schedule a tour, contact the NLR Protocol team.
+Campus Tours
+We offer the public virtual, staff-led tours, which provide a high-level overview of the South Table Mountain campus in Golden, Colorado; the Flatirons Campus in Arvada, Colorado; and our far-north Alaska campus in Fairbanks.
+In addition, we offer virtual tours designed for students. Register for a tour for students in grades 4–8 or grades 9–12.
+For collegiate tour requests, contact Collegiate Visits team.
+Campus Construction
+Learn about NLR construction projects in progress.
+Subscribe to NLR's Community Connection Newsletter
+Subscribe to this quarterly newsletter to see how we're supporting the community and how you can help.
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/golden-security
+
+Visitor Safety and Security Protocols
+NLR visitors must work with a laboratory host to preregister—including providing REAL ID-compliant identification and proof of lawful status in the United States—before being checked in and allowed site entry.
+Required Documents
+In addition to providing the documents below, non-U.S. citizens (aka, foreign nationals) must check with their host prior to their visit to ensure a Foreign National Data Card has been signed and approved.
+Note that NLR can only accept physical documents; photocopies and digital replicas are invalid forms of identification.
+| Visitor Status | Required Identification | Proof of Lawful Status |
+|---|---|---|
+| Foreign national visitor | Passport | One of the following:
+|
+| Permanent resident | Passport | U.S. Permanent Resident Card (Form I-551) |
+| Foreign national from a visa waiver country (see participating countries on the U.S. Department of State website) | Passport | One of the following:
+|
+| Canadian national visitor | One of the following:
+| One of the following:
+|
+| Mexican national visitor | Passport | One of the following
+|
+Badges and Permits
+See site-specific check-in instructions to obtain a badge for site entry:
+Golden, Colorado, laboratories and offices
+Flatirons Campus in Arvada, Colorado
+Notes:
+- Visitors must wear NLR-issued badges above the waist at all times when on-site.
+- Contractors/Subcontractors and vendors may be required to work with staff to obtain necessary work permits.
+Health and Safety
+- Visitors who are sick are discouraged from coming on-site. For details on laboratory health and safety procedures, contact your host.
+- Obey all posted traffic signs and markers.
+- In compliance with U.S. Department of Energy security standards, videography and photography is not allowed within NLR laboratories unless explicitly authorized by permit or contract.
+Prohibited Items
+- Weapons, including firearms, knives, pepper sprays, and other items intended to cause bodily harm
+- Hazardous materials/substances, including explosives and chemical and biological materials
+- Federally defined illegal substances and paraphernalia
+Sign Up for Alerts
+Text the keyword EARTH to 77295 to receive text notifications about NLR campus and site weather delays, closures, evacuations, and lockdowns. While alerts will automatically disable after 2 days of subscribing, registrants can opt out by texting LEAVE EARTH to 77295.
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/ehs
+
+Environment, Safety, Health, and Quality
+NLR conducts research, support, and deployment activities in a manner that protects the safety and health of workers, visitors, the public, the environment, and laboratory assets.
+Reference Documents for NLR Subcontractors
+View NLR Environment, Safety, and Health requirements to help plan, procure, and execute work at the lab.
+NLR's international certifications demonstrate the laboratory's commitment to staff, the local community, and the scientific community as a world-class research institution.
+Demonstrated Commitment to Safety
+NLR's Environment, Safety, Health, and Quality Policies demonstrate the laboratory's commitment to conducting work in a manner that protects the health and safety of workers and the public, laboratory property, and the environment. Staff and management are committed to managing health and safety risk through the implementation of an Integrated Safety Management System. This commitment to protect people, the public, and the environment applies equally to scientists, engineers, operations support, subcontractors, and anyone doing work at NLR.
+NLR has an Environmental Management System to carry out its environmental stewardship commitments. Learn more by accessing NLR's Annual Site Environmental Report.
+Emergency Management ensures lab operations continue during emergencies by outlining actions during crises, closures, and delayed openings, and by providing timely communications through NLR's text alerts system. NLR partners with local and regional first responders to ensure staff and community members are protected in the event of an emergency.
+NLR's Occupational Health Services staff provides medical services and resources for illnesses, injuries, and health hazards associated with lab operations and activities.
+NLR's Quality Management program ensures all work is conducted with the highest standards of quality by defining policies, assigning responsibilities, and assessing performance to meet regulatory requirements and organizational goals.
+International Organization for Standardization Certifications
+NLR maintains the following International Organization for Standardization (ISO) certifications.
+ISO 45001 certification addresses occupational health and safety, emphasizing NLR's commitment to providing a safe and healthy workplace for its employees.
+ISO 14001 certification highlights NLR's environmental management practices, demonstrating its efforts to minimize environmental impact.
+ISO 9001 certification focuses on quality management systems, ensuring that NLR consistently meets customer and regulatory requirements while striving for continuous improvement.
+ISO/International Electrotechnical Commission 17025 accreditation ensures NLR's laboratories meet rigorous criteria for competence in testing and calibration processes. It also ensures NLR's measurements are traceable and align with international standards.
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/history
+
+Laboratory History
+NLR's rich history of advanced energy research and innovation spans decades.
+Want to dig deeper into NLR's history? Download a history of the laboratory from 1977 to 2016.
+Learn more about the people behind the laboratory's research developments.
+Addressing the Energy Crisis Through Innovation
+1973
+As tensions flare over aid to Israel, the Organization of Petroleum Exporting Countries raises the price of oil to more than $5 per barrel. Later, Saudi Arabia cuts off all oil exports to the U.S., sparking an energy crisis.
+1974
+In October, President Gerald Ford establishes the Energy Research and Development Administration (ERDA) and signs the Solar Energy Research, Development, and Demonstration Act, which creates the Solar Energy Research Institute (SERI).
+The establishment of SERI marks the first time the U.S. tackles energy issues through a center of innovation to create and market renewable energy technologies, versus through policy.
+1976
+In March, ERDA issues a request for proposal from organizations interested in establishing and operating SERI. Among the competition is the Midwest Research Institute (MRI) in Kansas City, Missouri.
+MRI partners with Colorado Governor Richard Lamm and the state legislature to issue its ERDA proposal, which includes a 300-acre site on top of South Table Mountain in Golden as the future home of SERI.
+ERDA selects the Rocky Flats Plant test site northwest of Denver as the prime location for the federal wind program's research and development efforts.
+1977
+In February, President Jimmy Carter tells the nation how critical SERI's work will be to his administration's goals: "We will emphasize research on solar energy and other renewable energy sources."
+In March, ERDA selects MRI to operate SERI in Golden, Colorado.
+On July 5, SERI, the first federal facility dedicated to developing solar power, opens with Princeton-based photovoltaic researcher Paul Rappaport as director. A small staff moves into temporary facilities in the Denver West Office Park near South Table Mountain.
+In August, President Carter forms the U.S. Department of Energy, replacing ERDA.
+SERI begins taking on part of the federal wind program's research and development work.
+1978
+On May 3, President Carter visits South Table Mountain to celebrate Sun Day, a new holiday commemorating the dawn of a new solar age. In addition to addressing the gathered crowd, President Carter reviews some of SERI's work, including solar photovoltaic systems, wind turbines, a biomass converter, and a model of a solar power plant.
+In November, President Carter signs the Solar Photovoltaic Energy Research, Development, and Demonstration Act of 1978. The act tasks SERI researchers with reducing the average cost of solar photovoltaic systems, or solar cells, to $1 per watt by 1988. (For context, a 1-watt cell cost almost $300 per watt in 1956 and $77 per watt about 25 years later.)
+1979
+SERI Director Paul Rappaport resigns following a cancer diagnosis. Denis Hayes—the national coordinator for the inaugural Earth Day—takes over to advance SERI's mission of transitioning from oil to renewables.
+Perseverance Despite Funding Cuts and Uncertainty
+1980
+SERI's budget increases from $90 million to $130 million—estimated to be more than all other nations' combined spend on renewable research. The staff grows to nearly 1,000.
+SERI launches the Denver Metro Home Builders Program to bring new building technology into common commercial practice. A "Parade of Homes" draws more than 100,000 visitors touring model houses constructed using energy-efficient practices in the first weekend alone. The 2-week event yields 31 sales contracts and more than 60 preorders for additional passive solar homes.
+1981
+President Ronald Reagan slashes the SERI budget to less than $30 million and reduces its staff to 450 people; Director Denis Hayes resigns.
+SERI relies on spending earmarks from congressional supporters to fund its work.
+MRI Senior Vice President Harold "Hub" Hubbard is named SERI's new director.
+In July, SERI earns its first patent for a concept that boosts the conversion efficiency of solar cells.
+1982
+In January, SERI Director Hubbard outlines plans for SERI's future growth—including a $9.5 million federal grant for a laboratory building and field test site on its South Table Mountain campus.
+SERI wins its first R&D 100 Award for researcher Tom Reed's Oxygen High Pressure Gasifier, which uses heat, oxygen, and pressure to turn wood and waste into a gas for generating electricity and heat. (In 1987, industry partner Syn-Gas Inc. commercializes the prototype and produces 75 tons of syngas per day.)
+1983
+SERI commits to expand its scope to include wind, biomass/alcohol fuels, solar thermal, hydrogen, ocean energy, and buildings conservation, in addition to photovoltaics.
+SERI opens its first building on the South Table Mountain campus—the Field Test Laboratory Building—which features high-bay laboratories for biotech research and assembly areas for outdoor experiments; skylights and a glass front for passive solar heat; and an early iteration of smart building technology that keeps an eye on the structure's energy use and provides warnings if any systems need a tune-up.
+SERI creates a crystalline silicon solar cell with a record conversion efficiency rate of 18%.
+1984
+On Oct. 1, DOE merges the SERI and Rocky Flats programs to create the Wind Energy Program at SERI.
+SERI scientists develop the first practical multijunction cell, which is the basis for record-setting solar efficiency numbers in the coming decades and the foundation of all modern solar cells used to power satellites.
+1986
+In October, President Reagan signs the Federal Technology Transfer Act of 1986, allowing federal labs to enter into a consortium and negotiate licensing agreements for their patented technologies. The act makes it easier for SERI researchers and scientists to bring technologies they develop into the market.
+1989
+SERI Director Hubbard retires, and Gene Mannella—former director of Washington operations for the Electric Power Research Institute—is named its new director.
+SERI's Structural Testing Facility for wind systems opens.
+SERI wins the Federal Laboratory Consortium's Excellence in Technology Transfer Award for its work with amorphous silicon photovoltaics, the same technology first introduced in solar-powered calculators.
+By the end of the decade, 20 startup companies emerge from SERI R&D.
+Achieving National Lab Status
+1990
+Director Gene Mannella leaves SERI, and Duane Sunderman, former head of MRI's Kansas City operations, replaces him.
+1991
+On Sept. 16, President George H.W. Bush elevates SERI to national laboratory status and renames it the National Renewable Energy Laboratory (NREL) to more accurately reflect its range of work.
+NREL wins its first wind-related R&D 100 Award for advanced wind turbine blades. The designs produce up to 30% more electricity than previous iterations and become the industry standard.
+1993
+The Solar Energy Research Facility opens at NREL, providing 53,000 ft2 of lab and office space. It's the first campus building project for which NREL's scientists formally and actively participate in the design process.
+1994
+DOE dedicates the National Wind Technology Center, to be run by NREL at the Rocky Flats site.
+Director Duane Sunderman retires, and NREL names its new director, Charlie Gay, former president of ARCO Solar, a solar photovoltaics company.
+NREL opens its Alternative Fuels User Facility, which provides labs for methanol and ethanol production as well as space for industry partners to evaluate alternative biofuels.
+NREL opens its Education Center, a 6,400-ft2 facility to provide the public training and learning opportunities around the lab's work.
+1995
+Congress cuts NREL's budget for Fiscal Year 1996 by 30% and eliminates more than 225 positions, forcing the lab to abandon or sharply curtail several programs.
+1996
+Director Charlie Gay leaves, and NREL names a new director, Richard Truly, former vice admiral in the U.S. Navy and the eighth administrator of NASA.
+NREL completes the Thermal Test Facility and the Outdoor Test Facility, used by industry to foster uniform standards of testing and measurement, evaluate prototypes, and develop market-ready solar modules.
+1999
+The 2,600-ft2 Solar Radiation Research Laboratory opens, housing five labs that support optical, electronic, and meteorology functions.
+Renewed Executive Support
+2000
+In October, DOE launches a consortium of its laboratories led by NREL called the National Bioenergy Center to make cellulosic ethanol cost-competitive with gasoline by 2012 (a goal NREL later achieved).
+2003
+NREL and partner First Solar win an R&D 100 Award for a technology that enables mass production of thin-film solar modules, likely to produce the lowest-price-per watt photovoltaic modules in the world.
+2005
+Dan Arvizu, a veteran renewable energy scientist and entrepreneur, becomes NREL's director following Director Richard Truly's retirement.
+2006
+Congress cuts $28 million from NREL's budget, forcing NREL to lay off 32 employees.
+President George W. Bush reverses NREL layoffs made weeks earlier and visits campus to discuss the "mixed signals" about funding at the lab and his commitment to its work. He leads a panel discussion on his Advanced Energy Initiative, which includes a 22% increase in clean energy research at DOE.
+NREL completes construction on the Science and Technology Facility, which is designated the first Leadership in Energy and Environmental Design (LEED) platinum-certified federal facility, 40% more efficient than comparable labs.
+The Process Development and Integration Laboratory opens, bringing together researchers, tools, data, and materials across multiple disciplines.
+Campus Expansion Fuels Productivity
+2010
+NREL opens the first two wings of its Research Support Facility (the third opens in 2013). The facility wins 40 awards for its architecture, construction, engineering, sustainability, and technology transfer.
+2012
+NREL achieves the goal set forth by the National Bioenergy Center in 2000 by creating affordable cellulosic ethanol using two separate conversion platforms: biochemical and thermochemical.
+NREL completes construction on several facilities on its South Table Mountain campus, including:
+- The LEED Gold-certified Integrated Biorefinery Research Facility
+- The Vehicle Testing and Integration Facility
+- The NREL Café, a LEED Platinum-rated facility that serves as a model for cafeterias at corporate campuses, hospitals, and restaurants nationwide
+- The NREL Parking Garage, a five-level structure that's 90% more efficient than similar structures merely built to code and featuring a 1.153-MW solar photovoltaic array on its roof to provide energy for employees to charge electric vehicles
+- The Energy Systems Integration Facility, named the 2014 Laboratory of the Year by R&D Magazine.
+2015
+Martin Keller is named NREL's new director.
+2016
+A technique developed at NREL leads to improved perovskite solar cells with much higher performance.
+NREL adds a solar array field to the South Table Mountain campus to measure solar cell degradation rate.
+2017
+NREL's economic impact tops $1 billion nationwide, according to a study by the University of Colorado Boulder's Leeds School of Business.
+Advancing Energy Beyond the Laboratory
+2020
+NREL's six-junction solar cell sets two world records for highest solar conversion efficiency and the record under one-sun illumination.
+The Advanced Research on Integrated Energy Systems program launches to provide real-time testing of equipment connected to the electrical grid.
+2021
+NREL launches the new Cybersecurity Program Office to accelerate the lab's leadership in securing renewable energy technologies and distributed energy systems.
+NREL releases the groundbreaking Los Angeles 100% Renewable Energy Study, which finds the city of Los Angeles can achieve reliable, 100% renewable power 10 years earlier than its goal.
+President Joe Biden visits NREL's Flatirons Campus to stress the need for investment in renewable energy.
+2022
+In May, Secretary of Energy Jennifer Granholm returns to the Flatirons Campus to announce the Net Zero Labs initiative, which tasks NREL and three other national labs with eliminating or offsetting all greenhouse gas emissions to achieve carbon neutrality.
+2025
+On April 3, Secretary of Energy Chris Wright visits the laboratory's South Table Mountain campus.
+On Oct. 1, Jud Virden becomes the laboratory's 10th director. Virden spent more than 30 years at Pacific Northwest National Laboratory before replacing Director Martin Keller, who leaves NREL to take on his new role as president of the Helmholtz Association.
+On Dec. 1, DOE renames NREL the National Laboratory of the Rockies (NLR). Laboratory Director Jud Virden describes the name change as an opportunity for NLR to embrace a broader applied energy mission to deliver a more affordable and secure energy future.
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/business-volume
+
+Business Volume
+Learn about NLR's business volume by funding source for Fiscal Year 2025.
+| Category | Cost |
+|---|---|
+| Technology Partnership Agreement / Technology Partnership Project Non-DOE | 121 |
+| Other DOE | 193.7 |
+| Wind | 48.5 |
+| Sitewide Operations | 42.4 |
+| Hydrogen and Fuel Cells | 38.7 |
+| Solar | 98.3 |
+| Advanced Manufacturing | 31.9 |
+| Vehicles | 54.5 |
+| Industrial Technologies Office | 1 |
+| Water | 33.4 |
+| Other Facilities and Infrastructure | 207.3 |
+| Energy Systems Integration Facility | 40 |
+| Geothermal | 16.4 |
+| Bioenergy | 48.2 |
+| Other U.S. Department of Energy (DOE) Office of Energy Efficiency and Renewable Energy | 31.2 |
+| Buildings | 57.6 |
+Fiscal Year | Business Volume |
+|---|---|
+| 2024 | $1 billion |
+| 2023 | $783.5 million |
+| 2022 | $671.2 million |
+| 2021 | $599.4 million |
+| 2020 | $544.9 million |
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/construction
+
+NLR's Campus Construction Projects
+We're enhancing our campuses with new facilities and collaborations to advance research in energy systems research and development.
+Our construction and renovation projects will enable more cross-disciplinary research and partnership opportunities and new ways to scale up global technologies for the marketplace.
+Get Updates
+Stay updated on our construction efforts by subscribing to our quarterly Reaching Out newsletter.
+For more information, email us or call 303-275-4090.
+Construction Impacts
+NLR's Energy Materials and Processing at Scale facility—to be located on the east end of the laboratory's Golden, Colorado, campus—will be a 127,000-ft2 signature facility that rapidly minimizes barriers to scaling up new energy, materials, devices, and processes. The laboratory design will facilitate a multidisciplinary approach to materials R&D by providing opportunities for engineers, scientists, and industry partners to work together in shared laboratory facilities to greatly accelerate process scale-up and market adoption of the advanced energy materials.
+Construction began in September 2024 and is anticipated to be completed in 2027.
+Here's what our neighbors can expect in the coming months:
+- Construction will take place 7 a.m.–3:30 p.m. Monday–Friday. There may be occasional work on evenings or weekends due to inclement weather or extenuating circumstances.
+- There are no anticipated road closures in the community.
+- There are no anticipated impacts to utilities (water, gas, electricity) in the surrounding neighborhoods.
+- Expect increased worker vehicle traffic via the east entrance along Denver West Parkway, with peak activity 6–7:30 a.m. and 3:30–4 p.m.
+In January 2023, the U.S. Department of Energy took possession of a section of Camp George West—a former military base just south of NLR's Golden, Colorado, campus—making the space a new NLR-managed resource known as the South Table Mountain Energy Park (STEP).
+STEP will be a hub for startups, entrepreneurs, and new innovations to help move the latest research and products closer to commercialization.
+NLR is working closely with the Colorado State Historic Preservation Office on a forthcoming STEP campus master plan that will outline short-, mid-, and long-term developments.
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/science-bowl
+
+Colorado Regional High School Science Bowl
+The Colorado Regional High School Science Bowl provides an opportunity for students to develop science, technology, engineering, and math (STEM) skills in a non-classroom setting.
+2026 Competition
+The U.S. Department of Energy (DOE) Golden Field Office and NLR sponsor the competition every year.
+About the Event
+- Date: Saturday, March 14, 2026
+- Location: Metropolitan State University of Denver (map)
+- Registration: Register on the Colorado Regional High School Science Bowl website
+The winning team receives an all-expense paid trip to the National Science Bowl sponsored by DOE's Office of Science. The National Science Bowl takes place in Washington, D.C.
+Who Can Participate
+Teams consist of up to five students (four members and an alternate) and a teacher or other adult coach. All students must be currently enrolled in 9th, 10th, 11th, or 12th grades at their team's high school. Each school can register up to two teams.
+What To Study
+Science bowl questions cover a variety of topics including biology, chemistry, mathematics, physics, earth and space sciences, and energy. DOE's Office of Science provides all national and regional science bowl questions. Sample questions can be found on the National Science Bowl website.
+What Is the Science Bowl?
+The path to the National Science Bowl starts with over 60 regional competitions throughout the United States, like the one in Colorado.
+This fun, fast-paced academic tournament tests the brainpower of high school student teams on science and math topics. The science bowl allows Colorado's top student teams to face-off in a timed, question and answer format to test students' knowledge in a range of science disciplines.
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/compete
+
+Competitions, Challenges, and Industry Prizes
+Join a competition to expand your knowledge and share your skills in the development and commercialization of advanced energy technologies. Competitions, prizes, and similar contests support the next generation of scientists and entrepreneurs.
+Learn more about events NLR administers on behalf of the U.S. Department of Energy (DOE).
+NLR-Sponsored Competitions
+High School Science Bowl
+NLR sponsors the annual Colorado Regional High School Science Bowl, in which teams are quizzed on math and science topics. The winning team receives an opportunity to compete for the national title in Washington, D.C.
+American-Made Challenges
+View open challenges and competitions.
+Other Student Competitions
+The AlgaePrize challenges competitors to expand novel solutions to algae production, processing, and new product development to lower the costs of producing algal biofuels and bioproducts on the way to large-scale algae commercialization.
+Participants: High school and college students
+Administered by: DOE's Bioenergy Technologies Office with support from NLR and the Algae Foundation
+The BuildingsNEXT Student Design Competition (formerly the Solar Decathlon Design Challenge) is an annual collegiate competition where interdisciplinary teams design high-performance buildings that address real-world issues such as existing building retrofits, affordability, and resilience.
+Participants: College students
+Administered by: DOE and NLR
+The Collegiate Wind Competition helps college students prepare for jobs in the wind and renewable energy workforce through real-world experiences with wind energy technology, project development, finance, communications, and outreach.
+Participants: Undergraduate college students (Graduate students may be involved as mentors or advisers.)
+Administered by: NLR with funding from DOE's Wind Energy Technologies Office
+Using critical-infrastructure-focused, real-world scenarios, the CyberForce Competition challenges students to protect imagined businesses from simulated cyberattacks and helps participants improve their understanding of cyber-physical threats, vulnerabilities, and consequences.
+Participants: College students
+Administered by: DOE's Office of Cybersecurity, Energy Security, and Emergency Response and Argonne National Laboratory, with support from NLR, Idaho National Laboratory, Lawrence Livermore National Laboratory, Pacific Northwest National Laboratory, and Sandia National Laboratories
+The EnergyTech University Prize challenges student teams to compete for cash prizes for successfully identifying a promising energy technology, assessing its market potential, and creating a business plan for commercialization.
+Participants: College students
+Administered by: NLR with funding from DOE's Office of Technology Transitions and several other DOE technology offices
+The Geothermal Collegiate Competition engages students to develop innovative geothermal energy applications while fostering an understanding of geothermal energy, communicating the benefits of geothermal technologies, and helping overcome nontechnical barriers to geothermal development.
+Administered by: DOE and NLR
+The Hydropower Collegiate Competition calls on interdisciplinary teams of undergraduate and graduate students from a variety of academic programs to offer unique solutions to complex hydropower challenges.
+Participants: Undergraduate and graduate students
+Administered by: NLR and Hydropower Foundation with funding from DOE's Water Power Technologies Office
+The Marine Energy Collegiate Competition challenges students to offer unique solutions to the burgeoning marine energy industry and offers real-world experience and industry connections to help students prepare for future careers in the marine energy sector and the blue economy.
+Participants: Undergraduate and graduate students
+Administered by: NLR with funding from DOE's Water Power Technologies Office
+The Solar District Cup challenges multidisciplinary student teams across the engineering, urban planning, and finance disciplines to reimagine how energy is generated, managed, and used in a district and design and model optimized distributed solar energy systems for a campus or urban district.
+Participants: College students
+Administered by: DOE and NLR, with funding from DOE's Solar Energy Technologies Office
+Contact
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/energyexecs
+
+Executive Energy Leadership Academy
+NLR's Executive Energy Leadership Academy (Energy Execs) provides energy industry professionals and community leaders exclusive, in-depth information about NLR's research and programs so they can better design energy technologies at their organizations.
+Participants travel to NLR's main campus in Golden, Colorado, for four multiday sessions held June–September.
+While there is no cost to participate in the program, participants are responsible for their own travel and lodging expenses.
+Learn more about Energy Execs by viewing the sample syllabus or emailing us at [email protected].
+Apply to the 2026 Energy Execs Program
+Submit the application form by 5 p.m. MST Jan. 14, 2026.
+What You'll Learn
+The Energy Execs program offers exclusive, behind-the-scenes experience at one of the nation's premier national laboratories, providing participants an in-depth look at energy technologies. Just as energy technology has advanced over the years, the program has continually evolved to incorporate the latest innovations and breakthroughs. Participants will gain access to:
+- Briefings by world-renowned researchers and engineers
+- Tours of state-of-the-art research laboratories
+- Visits to energy installations.
+Program Outcomes
+Upon completing the program, participants will demonstrate what they've learned through a group project relating to the course content.
+Eligibility and Requirements
+Successful applicants must:
+- Apply to the program using the link provided on this page each fall. NLR typically notifies applicants of their final status in mid-March.
+- Commit to attending all sessions (dates below) in person at NLR's South Table Mountain campus in Golden, Colorado, and their organization must signify this commitment in its recommendation letter. Participants who miss sessions will be excluded from completing the program.
+- Meet NLR's site access requirements, per U.S. Department of Energy regulations.
+Program Dates
+The 2026 Energy Execs program will be held on the following dates:
+- June 24–26
+- July 22–24
+- Aug. 19–21
+- Sept. 16–18.
+Session times are:
+- Wednesdays and Thursdays: 8 a.m.–5 p.m.
+- Friday: 8 a.m.–noon.
+We recommend arriving the Tuesday before the first session and departing on Friday after the last session has concluded.
+Find information about transportation and lodging near NLR's South Table Mountain campus.
+In Their Own Words
+Observations from previous Energy Execs program participants on the impact of this experience:
+Energy Execs provides a deep dive into the work NLR is doing to develop cutting-edge energy technology, scale new technologies from the lab to the real world, and provide superb technical assistance to stakeholders across the energy landscape. Specifically, I learned about NLR resources that can help the local governments that I work with to achieve their energy goals, and more generally, I learned how NLR supports and strengthens American energy innovation and success."
+I thoroughly enjoyed participating in the NLR Energy Executives program. No matter how much you think you know about energy, there's always more to learn."
+NLR Energy Execs is easily one of the best professional development opportunities I've been able to participate in. I came away with a more thorough understanding of not just my area of work in the energy space but of the next big frontiers across all of NLR's research areas. I now have the benefit of integrating that knowledge and systems thinking in my work. Energy Execs is a no-brainer for anyone working in energy."
+It was amazing to witness firsthand the remarkable research and groundbreaking projects at NLR. Engaging with world-renowned researchers and engineers and gaining exclusive access to innovative laboratories provided an unparalleled, eye-opening experience. The strategic partnerships they have forged also left a lasting impression on me."
+This program gave me the push I needed to get more excited about the technology and more motivated to explore what is possible. And that will only serve to improve outcomes, of that I am certain."
+Energy Execs Graduates
+Since its inception in 2007, the Energy Execs program has grown to include more than 400 participants representing 41 U.S. states, one U.S. territory, and three countries. See the list of Energy Execs alumni sorted by program and year.
+| State/Territory | Number of Participants |
+|---|---|
+| Washington | 2 |
+| Oregon | 1 |
+| California | 18 |
+| Idaho | 2 |
+| Nevada | 5 |
+| Arizona | 6 |
+| Utah | 2 |
+| Colorado | 228 |
+| New Mexico | 4 |
+| North Dakota | 1 |
+| Kansas | 1 |
+| Oklahoma | 3 |
+| Texas | 12 |
+| Minnesota | 9 |
+| Iowa | 1 |
+| Missouri | 1 |
+| Arkansas | 1 |
+| Louisiana | 1 |
+| Wisconsin | 8 |
+| Illinois | 5 |
+| Mississippi | 1 |
+| Indiana | 2 |
+| Michigan | 6 |
+| Ohio | 9 |
+| New York | 6 |
+| New Hampshire | 1 |
+| Massachusetts | 4 |
+| Connecticut | 1 |
+| New Jersey | 1 |
+| Pennsylvania | 7 |
+| Delaware | 1 |
+| Maryland | 3 |
+| West Virginia | 1 |
+| Virginia | 9 |
+| Washington, D.C. | 22 |
+| North Carolina | 6 |
+| South Carolina | 1 |
+| Tennessee | 2 |
+| Georgia | 3 |
+| Florida | 6 |
+| Alaska | 9 |
+| Hawaii | 1 |
+| Puerto Rico | 1 |
+| International | 3 |
+Are you an Energy Execs alumnus? Send your updated contact information to us at [email protected].
+Contact
+If you have questions about Energy Execs, contact [email protected].
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/teachers
+
+Programs for Teachers
+The Visiting Faculty Program, Energy Institute for Teachers, and STEM teacher-research programs at NLR promote excellence in teaching and contribute to improving critical elements of the science, mathematics, and technology education system.
+Visiting Faculty Program
+The Visiting Faculty Program seeks to increase the research competitiveness of faculty members and their students to expand the workforce vital to the U.S. Department of Energy's mission. As part of the program, selected university/college faculty members collaborate with laboratory research staff on a project of mutual interest. Faculty member participants may invite up to two students to participate in hands-on research at NLR during the summer.
+For more information about the Visiting Faculty Program at NLR, contact Marcus Giron.
+Faculty-Applied Collaboration in Energy Sciences
+The Faculty-Applied Collaboration in Energy Sciences program connects faculty from non-research institutions with NLR researchers to develop scalable education modules on topics such as energy cost reduction strategies, energy science, grid reliability and security, and artificial intelligence. Participants spend 8 weeks in an immersive environment at the laboratory with an NLR staff researcher/mentor and the final 2 weeks preparing final deliverables off-site.
+STEM Teacher and Researcher Program
+STEM Teacher and Researcher (STAR) is a 9-week paid summer research experience program for future K–12 STEM teachers. The program pairs aspiring STEM teachers with researchers and scientists at research laboratories such as NLR and allows them to gain firsthand experience in applied research settings. STAR also supports the continued development of our teacher-researcher fellows with ongoing professional development and networking opportunities. Learn more and apply through the STAR website.
+Additional Resources
+The Algae Summer Science Institute is a 2-day intensive, hands-on professional development workshop where teachers work through the Algae Foundation's Algae Academy curriculum. The Algae Academy is a 5-day program for K–12 students that uses STEM kits and Next Generation Science Standards-aligned curriculum to teach how algae can be used as a renewable energy resource. The kits are free and available to teachers for both fall and spring semesters.
+Find books, videos, and other energy education resources for students in grades K–8.
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/education-students
+
+Programs for Students
+Inspire the next generation of science, technology, engineering, and math (STEM) innovators by bringing NLR's free educational programs to your classroom, applying for NLR and U.S. Department of Energy (DOE) programs, or registering to visit the laboratory.
+Field Trips, Tours and Classroom Visits
+NLR offers the following programs online and in person—either at its South Table Mountain (STM) campus in Golden, Colorado, or by traveling to locations within a 25-mile distance of STM. Schools may also take advantage of limited busing to STM. Email the NLR Education Center team for details and to check availability. See additional NLR Education Resources for Students.
+Stories and STEM With NLR for Grades K–3
+Reserve a 45-minute Stories and STEM With NLR session for a STEM-themed story and art activity.
+Grade K–6 Classroom Experiments
+Invite NLR to join your class for a 60-minute experiment related to the integration of varying energy technologies.
+See Grade 4–8 programs for more opportunities for students in the upper range of this age group.
+Grade 4–8 In-Person Field Trips
+Register for a 2-hour interactive experience at NLR for students in grades 4–8. NLR staff will lead students through hands-on experiments to better understand the challenges of—and NLR's solutions to—incorporating next-generation energy technologies into our aging electrical grid infrastructure.
+Grade 4–8 Virtual Tours
+Register for a 1-hour virtual "walking" tour to learn more about NLR's campus. Students will visit buildings across the three NLR campuses and learn about the evolution to energy-efficient architecture and cutting-edge research that has helped us build our living laboratory.
+High School In-Person Field Trips
+Register for this high school field trip in which students will dive into chemistry and physics while exploring how these sciences are helping researchers develop cutting-edge energy technologies.
+High School Virtual Tours
+Register for this 1-hour virtual "walking" tour for high school students , who will visit buildings and lab spaces across NLR's three campuses, learn about the evolution to energy-efficient architecture, and dive into the cutting-edge research that drives NLR to be a living laboratory.
+High School In-Person Tours
+High school students can take this 2-hour tour of one or two NLR facilities, along with an activity or presentation by an NLR researcher. Students will learn about energy-efficient building design and how it supports NLR's vision for the future. Note: Tours are booked through 2025 and will resume in March 2026.
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/energy-education
+
+Education Programs
+Learn how NLR's education programs inspire students, teachers, and executives to explore innovative energy solutions to meet our future needs.
+NLR Education Center
+At the Education Center, we offer programs for students in grades 3–12, the Energy Institute for
+Teachers, and other group programs for the community.
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/awards
+
+Awards
+NLR's innovative discoveries and exceptional staff are regularly recognized for national and global leadership in energy research and development.
+R&D 100 Awards
+NLR has won 76 R&D 100 Awards. Widely recognized as the Oscars of Innovation, the R&D 100 Awards are presented by R&D Magazine to identify and celebrate the top technological advances of the year.
+2025
+Collective Consensus Control: Patented Technology Improves Wind Farm Performance and Revenues
+NLR researchers developed an automated, computerized process to apply consensus control to wind energy generation for the first time. The resulting technology, Collective Consensus Control, has been patented and—through extensive field testing with industry partners—shown to dramatically improve the overall performance and revenues for harnessing abundant worldwide energy resources.
+Electric-Driven Absorption Air Conditioner With Long-Duration Energy Storage
+A true innovation in building technologies, the Energy Storing Efficient Air Conditioner reinvents air conditioning by integrating dehumidification, cooling, and energy storage into one ultraefficient system. The system's 9-hour storage cuts peak electricity demand by more than 90% and utility costs by 45% while enhancing comfort and increasing grid reliability.
+Historical R&D Awards
+2023
+reV Model
+Researchers developed this open-source model to calculate energy capacity, generation, and cost.
+Simulation and Emulation for Advanced Systems
+The Simulation and Emulation for Advanced Systems tool mimics and validates energy transmission and distribution solutions.
+Read more about NLR's 2023 R&D 100 Awards.
+2022
+Standard Energy Efficiency Data Platform
+The Standard Energy Efficiency Data Platform is a data management and analysis tool that helps cities improve their building stock.
+Read more about NLR's 2022 R&D 100 Award.
+2021
+Wave Energy Converter Simulator
+The Wave Energy Converter Simulator is the first open-source code allowing wave energy developers to simulate Wave Energy Converter dynamics and performance, which lowers costs and reduces R&D cycle time in this pivotal and growing field.
+dGen
+dGenTM is an open-source software that simulates customer adoption of distributed energy resources through 2050. Used by government and grid-planning organizations to predict future energy systems at high spatial resolution and under diverse scenarios, dGen is an engine for cost-effectively integrating more distributed energy resources.
+Read more about NLR's 2021 R&D 100 Awards.
+2020
+Dimethylammonium-Containing Wide-Bandgap Perovskites
+Dimethylammonium-Containing Wide-Bandgap Perovskites are high-performance tandem solar cells that could allow vehicles to be powered directly by photovoltaics (PV). As the technology matures, the research could also enable the use of portable or wearable PV devices.
+Dynamic Hydride Vapor Phase Epitaxy for Low-Cost III-V PV Devices
+The dynamic hydride vapor phase epitaxy process provides a means to bring high-priced, high-efficiency solar technology now used in the space program down to Earth at a reasonable cost. The process removes key barriers to the mass production of III-V semiconductors.
+Regional Energy Deployment System 2.0
+The Regional Energy Deployment System empowers users to explore least-cost pathways for large-scale power sector transformation. This free, open-access tool allows users to examine the interactions among policy, technology, economics, and the environment when integrating energy solutions into the grid from now through 2050.
+Process for Mitigating Hydrogen Buildup in Parabolic Trough Power Plants
+NLR and Acciona Solar Power Inc. developed a process and technology to reverse the effects of hydrogen buildup in operating concentrating solar-thermal power plants, returning production to original levels.
+Read more about NLR's 2020 R&D 100 Awards.
+2019
+PREconfiguring and Controlling Inverter SEt-points, or PRECISE, is a tool that allows utilities to identify optimal inverter modes and settings and maximizes the cost-effective use of installed solar systems.
+ResStock is a building analysis tool that allows states, municipalities, utilities, and manufacturers to identify which home improvements save the most energy and money.
+Read more about NLR's 2019 R&D 100 Awards.
+2018
+foreseeTM Energy Management System relies on user preferences to control and coordinate a home's connected appliances and electronics. It asks users to rank what's most important to them about living in their home and automatically adjusts the operation and scheduling of the devices accordingly.
+Acrylonitrile through nitrilation is a renewable method to make carbon fiber that provides a cleaner process to produce acrylonitrile, a building block for carbon fiber. Biomass replaces petrochemicals as the starting point, making the process renewable. More than 7 billion kilograms of acrylonitrile are produced globally each year for use in such products as clothes and carpets.
+Read more about NLR's 2018 R&D 100 Awards.
+2016
+EcoSnap-AC Heat Pump System is an alternative to window-mounted air conditioning units that is quieter, more energy efficient, heats and cools, doesn't jeopardize home security, is easy to install, and can be left in place year-round.
+The Battery Internal Short-Circuit Device simulates a true internal short circuit within a battery cell, providing researchers with reliable data to determine how the size, resistance, and location of an internal short circuit will affect safety measures implemented in new battery designs.
+The High-Temperature, Wide Bandgap Underhood Inverter is a traction drive for electric vehicles that could significantly boost their adoption by consumers. Wolfspeed, the company behind the inverter, partnered with NLR and Toyota to ensure that the technology is adoptable for implementation into vehicle applications.
+Read more about NLR's 2016 R&D 100 Awards.
+2015
+Producing Bioethylene via Cyanobacteria: Makes bioethylene from cyanobacteria without the traditional use of petroleum while decreasing the amount of carbon dioxide emitted during production
+2014
+Direct Monocrystalline Silicon Wafer Growth by High-Throughput Epitaxy: Provides a process to grow high-efficiency thin monocrystalline silicon solar cells in large quantities at a cost of about 50 cents/watt
+HP Apollo 8000 System: Uses component-level warm-water cooling to dissipate heat generated by the supercomputer, thus eliminating the need for expensive and inefficient chillers in the data center
+Read more about NLR's 2014 R&D 100 Awards.
+2013
+Image Processing Occupancy Sensor: Combines an inexpensive camera with computer vision algorithms that can recognize the presence of human occupants
+Isothermal Battery Calorimeters: Provides the only calorimeters in the world capable of performing the precise thermal measurements needed to make safer, longer-lasting and more cost-effective lithium-ion batteries
+Mono-Crystalline Solar Cells: Allows for a greater percentage of incoming sunlight to be converted to electricity relative to conventional crystalline solar cells
+2012
+Desiccant-Enhanced Evaporative Air-Conditioning Cycle: Cools commercial buildings using less energy than a traditional cooler, provides superior comfort in any climate, releases far less carbon dioxide, and could cut costly peak electricity demand by 80%
+SJ3 Solar Cells: Uses tunable bandgaps, lattice-matched architecture, and ultra-concentration tunnel junctions to achieve conversion efficiency of up to 50%
+2011
+Innovalight Silicon Ink Process: The first liquid silicon sold in the marketplace for use in solar cells
+Flash Quantum Efficiency System for Solar Cells: A way to assess the quality of solar cells at a speed that is about 1,000 times faster than previous methods
+Optical Cavity Furnace: A system that increases the efficiency of solar cells by 3%-4% by uniformly heating crystalline solar cells and semiconductor materials
+2010
+"Black Silicon" Nanocatalytic Wet-Chemical Etch: An inexpensive, one-step method to reduce light reflection from silicon wafers, which reduces manufacturing production cost and capital expense
+Amonix 7700 Solar Power Generator: A generator that produces 40% more energy than conventional fixed photovoltaic panels
+2009
+Ultra-Accelerated Weathering System: A multifaceted ultraviolet solar concentrator used to speed up the exposure of coatings, paints, and other materials to determine their durability and resistance to weathering
+SkyTrough Parabolic Trough Solar Concentrating Collector: A reflector material developed to create a groundbreaking and low-cost system for utility-sized power generation
+PowerPlane UX Microbattery: A safe, rechargeable, deep-cycle, thin-film lithium microbattery
+2008
+Inverted Metamorphic Multijunction Solar Cell: A system that eliminates complex manufacturing methods for creating thin-film photovoltaics
+Hybrid Copper Indium Gallium Diselenide: A new technology for manufacturing Hybrid Copper Indium Gallium Diselenide, or thin-film PV employing layers of copper indium gallium diselenide
+2007
+High-Efficiency Metamorphic Multi-Junction Concentrator Solar Cell: The first solar cell to break the 40% conversion efficiency barrier
+2005
+TREAT with SUNREL Energy Analysis Software: A tool that makes it much easier for building professionals to perform accurate energy audits and reduce the impact of building energy use on the environment
+Sinton QSSPC Silicon Evaluation System: A system that helps manufacturers detect impurities and defects in silicon material early in the solar cell production process
+2004
+Enzymatic Hydrolysis of Biomass Cellulose to Sugars: An enzymatic hydrolysis technology that inexpensively breaks down the cellulose fraction of lignocellulosic biomass to sugars
+Lightweight, Flexible, Thin-Film Copper Indium Gallium Diselenide PV Modules: The world's first portable, flexible PV systems made from copper indium gallium selenide for use in mobile applications
+2003
+High-Rate Vapor Transport Deposition for CdTe PV Modules: The world's first such mass-production method for making polycrystalline thin-film modules
+2002
+NanoCeram Nanoalumina Fiber: Fibers that are ideal for bioactive filtration, chemisorption of heavy metals, and bone tissue engineering
+PowerView Semi-Transparent Photovoltaic Module: A semi-transparent solar module that can be used in lieu of architectural glass for many applications
+Smart, High-Performance Polyphenylenesulfide Coating System: A smart coating system that repairs itself
+2001
+Current-Interrupt Charging Algorithm for Lead-Acid Batteries: A simple approach for recharging lead-acid batteries that extends the cycle life of the batteries by 300%–400%
+DRWiN Electronically Scanning Antenna: The world's first affordable, commercial scanning antenna
+Triple-Junction Terrestrial Concentrator Solar Cell: A solar cell that generates a lot of energy from just a very little amount of material
+2000
+Electroexploded Metal Nanopowders: A new approach to ultrafine metal powder production that opens up opportunities in materials science and commercial applications
+North Wind 100/20 Wind Turbine: A state-of-the-art wind turbine that is ideal for extreme cold conditions perfect for remote locations that may be off-grid or local-grid
+Real-Time Biomass Analysis: A portable system that employs a laser and a spectrometer to quickly and inexpensively determine the chemical composition and the mechanical properties of wood
+1999
+Advanced Direct-Contact Condenser: A new way of condensing steam that enables geothermal electric plants to generate more electricity more cheaply.
+Siemens Solar St-Family of Solar (CIS) Modules: The first large-area solar electric modules made from the promising thin-film material of copper indium diselenide
+1998
+UNI-SOLAR Triple-Junction Amorphous-Silicon Solar-Electric Modules: Thin, flexible, waterproof roof shingles that efficiently produce electricity from sunlight
+"Vermont" High-Throughput Gasifier: Turns wood chips into a clean gas for use in fuel cells or gas turbines to produce electricity
+1997
+"PV Optics" Software Light-Trapping Model for Solar Cells: Software that enhances and accelerates solar cell designs by modeling how light is absorbed in cell materials
+Chemical Production from Biologically Derived Succinic Acid: Derived from corn syrup (instead of petroleum), this acid is used to make clothes, paints, inks, plastics, and polymers.
+1996
+Variable-Conductance Insulation Catalytic Converter: A great idea for clean air, this catalytic converter can be used on cars, small trucks, and SUVs to enable them to more than meet EPA's stringent new requirements for emissions.
+1995
+Method for Making Silicon Carbide Powder: A novel technique for producing fine, pure, inexpensive powder for use in making industrial and electronic ceramic products
+Single-Fermenter Cellulosic Biocatalyst (Zymomonas): This metabolically engineered micro-organism enables the efficient conversion of wood, grass, waste and other cellulose material into ethanol fuel.
+1994
+Transpired Solar Collector: A simple, elegant idea: a wall siding that uses strategically placed holes to capture solar energy to heat and ventilate buildings
+1993
+Ethanol from Corn Fiber: A process that enables the conversion of the carbohydrate portion of corn to ethanol fuel
+Scanning Defect Mapping System: Uses a scanning laser to produce maps of crystal defects in semiconductor materials
+Aqueous Chelating Etch: An innovative etching process used to develop microelectronic circuits, high-temperature superconductors, and opto-electronic devices
+1992
+Atomic Processing Microscope: This microscope enables the manipulation of single atoms and allows the properties of materials to be altered on a nanoscale.
+Solar Detoxification of Hazardous Organic Materials in Groundwater: Uses sunshine and a simple catalyst to purify contaminated water
+1991
+Compact Vacuum Insulation: Very thin material providing extremely high insulation for use in refrigeration, walls, floors anything that needs to be kept warm or cold
+Gallium Indium Phosphide/Gallium Arsenide Tandem Solar Cell: A light, highly efficient solar cell that has become the world's standard for powering earth-orbiting satellites
+Cadmium Telluride Photovoltaic Modules: The first large-size devices to be made from this new thin-film material, which promises to help drop the cost of solar electricity
+Advanced Wind Turbine Blades: Wind blade designs that have become the industry standard and that produce up to 30% more electricity than previous designs
+1990
+Inexpensive Phenol Replacements from Biomass: A process that converts wood chips, sawdust, and bark into an oil for making plastics, glues, insulation, fuels, and chemicals
+1989
+Spectroscopic Scanning Tunneling Microscope: At forefront of nanotechnology, this instrument characterizes electro-optical materials down to the atomic scale
+1985
+Volume-Indexed Secondary Ion Mass Spectrometry: Provides 3D information about the composition of electronic materials and devices
+1984
+Copper Indium Diselenide Solar Cell: The first solar cell to use very thin films (less than the thickness of a human hair) of a promising semiconductor material
+Flash-Evaporation Method/Apparatus (Spout Evaporator): An inexpensive and efficient way to evaporate water to steam, which drives a turbine to generate electricity
+1982
+Oxygen High-Pressure Gasifier: Uses heat, oxygen, and pressure to turn wood and waste into a gas for generating electricity and heat
+R&D Magazine Awards
+- 2015 Editor's Choice Award – Producing Bioethylene via Cyanobacteria, Jianping Yu
+- 2014 Editor's Choice Award – HP Apollo 8000 System, Steve Hammond and team
+- 2008 Editor's Choice Award – Hybrid CIGS (copper indium gallium diselenide), David Ginley and team
+- 2008 Editor's Choice Award – Inverted Metamorphic Multijunction Solar Cell, Mark Wanlass and team
+Employee Recognition
+NLR is proud to celebrate the accomplishments of its world-class staff. Learn more about our many awards and honors.
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/leadership
+
+Leadership
+Learn about NLR's director, deputy and associate lab directors, and other key members of leadership.
+NLR is managed for the U.S. Department of Energy by the Alliance for Energy Innovation LLC, a partnership between Battelle and MRIGlobal. Read about our research fellows, or find research staff by visiting our various program areas.
+Director's Office
+Adam Bratis
+Acting Deputy Laboratory Director, Science and Technology, and Chief Research Officer
+Science and Technology Associate Lab Directors
+Jaquelin Cochran
+Associate Laboratory Director, Strategic Energy Analysis and Decision Sciences
+John Farrell
+Associate Laboratory Director, Mechanical and Thermal Engineering Sciences
+Maureen McCann
+Acting Associate Laboratory Director, Bioeconomy and Transportation
+Juan Torres
+Associate Laboratory Director, Energy Security, Resilience, and Integration
+Bill Tumas
+Associate Laboratory Director, Materials, Chemical, and Computational Science
+Partnerships
+Bill Farris
+Chief External Development Officer
+Andrea Watson
+Associate Laboratory Director, Innovation, Partnering, and Outreach
+Operations
+Dan Beckley
+Associate Laboratory Director, Facilities and Operations
+Amy Estes
+Director, Communications
+Arron Gregory
+Head of People Experience and Culture
+Tina Herrera
+Chief Human Resources Officer
+Jennifer Logan
+Chief Financial Officer
+Donna Louden
+Ombuds
+James Lyall
+Chief Information Officer
+Brent Olson
+Executive Director, Internal Audit
+Meyer Seligman
+Director, Government Relations
+John Stolpa
+General Counsel
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/about/vision
+
+Mission and Vision
+NLR strives to achieve our vision of an affordable and secure energy future through our mission: leading research, innovation, and strategic partnerships to deliver integrated solutions for an affordable and secure energy future.
+NLR's unique strength lies in developing and integrating a broad array of energy technologies into robust, resilient systems—addressing the entire energy spectrum, from generation to distribution to end use.
+As the energy systems laboratory, we bridge foundational research with practical applications to ensure various energy sources, storage, buildings, transportation, and emerging technologies work together to lower energy costs, drive economic growth, bolster national security, and deliver abundant energy.
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/index
+
+With Inverters, Island Adapts to Changing Power Grid Physics
+NLR helps Kauai tap into a new source of strength that can stop electric oscillations.
+National Laboratory of the Rockies (NLR) bridges research with real-world applications to advance energy technologies that lower costs, boost the economy, strengthen security, and ensure abundant energy.
+Data and Tools
+Find NLR-developed data sets, maps, models, and tools used for the analysis of advanced energy technologies.
+Find a Job
+Explore our current job postings, which include research positions and other career opportunities in a variety of fields.
+Partner With Us
+Work with NLR to accelerate the advancement of energy technologies to the marketplace.
+News
+Subscribe
+How To Crack the Wave Energy Code
+Feb. 10, 2026
+Share
+
+--------------------------------------------------------------------------------
+
+URL: https://nrel.gov/research
+
+Research
+Our research explores energy systems and technologies—and the science behind them—for a future powered by affordable, abundant, and reliable energy.
+This research supports NLR's vision of an affordable and secure energy future.
+Research Facilities
+Learn about NLR's state-of-the-art facilities and the research conducted within our laboratories.
+Share
+
+--------------------------------------------------------------------------------

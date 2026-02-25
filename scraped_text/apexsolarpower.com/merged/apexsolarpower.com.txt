@@ -1,0 +1,383 @@
+ROOT: https://apexsolarpower.com/
+SCRAPED_AT_UTC: 2026-02-11T19:50:10.646648Z
+PAGES_INCLUDED: 24
+
+================================================================================
+
+URL: https://apexsolarpower.com/
+
+Solar, Battery Backup, or EV Charging?
+SOLAR
+There Has Never Been a Better Time to Go Solar.
+Save up to 50% on your solar system with state and federal incentives! Going solar has never been easier. We focus on our customer's needs first and are trusted by the biggest national companies to install and service their customers as well. With an Apex system, you can sit back, relax and let the sun do all the work!
+EV CHARGING
+Charging Into The Future.
+Apex Energy provides the smartest and fastest EV charging solutions for businesses, workplaces, multifamily housing, and municipalities. We're bringing clean infrastructure to the east coast.
+BATTERY
+Dependable When You Need It The Most.
+Storm knock out your grid power? With automatic battery backup power, you can keep your lights on, your fridge running, and phone charged without skipping a beat. As Certified installers for Tesla, Generac, Panasonic, and many others, we've worked with the latest battery technology available to homeowners.
+SERVICE
+In over 15 years, we've seen it all.
+We've serviced nearly every type of solar system out there, and have been installing EV charging stations for 10 years- Our customer's can be confident that if any issues arise, we can get you back up and running again.
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/about-apex-solar
+
+APEX ENERGY TEK
+#1 Rooftop Solar Contractor in New York!
+Over the past 18 years, Apex Energy Tek has established itself as a premier solar energy provider in the solar industry. We have expanded from an Upstate NY-based solar electric/thermal company to a regional company providing clean and green energy in the Northeast and the Carolinas. In fact, Apex was rated by Solar Power World as the 2017 #1 Rooftop Solar Contractor in New York.
+PREMIER
+CLEAN
+ENERGY
+We are a premier solar installation, battery backup, and EV charging station company. Our team has installed over 4,000 solar systems, roofs, batteries, and EV chargers. We have been picked by more than 30 Solarize Campaigns as their preferred solar installers. Taken together, we have helped to provide over 60 megawatts worth of clean energy.
+LOCAL ROOTS.
+HUMBLE
+BEGINNINGS.
+While our skills and experiences match and surpass some of the larger solar energy providers, our local roots, and humble beginnings set us apart. What started as a partnership between New York natives, Stan Dobert and Greg Demarse, has evolved into a team of over 100 solar professionals. Over the years, we have partnered with several leading national solar companies who rely on our expertise to inspect and install their projects. We have installed nearly every type of solar system in the industry, and we put our immense experience to work for you.
+GIVING BACK
+We are committed to supporting the communities that support us. Over the years, we’ve contributed more than $60,000 in sponsorships and funding to various initiatives and non-profit groups across the state. These contributions have supported a wide range of causes, including local school fundraisers, the Salvation Army, and Habitat for Humanity. We also dedicate our time by volunteering at STEM programs within local school districts, helping to educate the next generation.
+NABCEP CERTIFIED PV INSTALLATION PROFESSIONALS
+We have met the PV certification requirements of the North American Board of Certified Energy Practitioners (NABCEP).NABCEP is a highly respected certification organization in the renewable energy industry, known for setting high standards for professional installers. The certification involves PV designs, installations, operations, and maintenance. We believe in delivering the best possible work, combined with extensive knowledge, to ensure customer satisfaction.
+A+ INSTALLATIONS
+We have received the New York State Energy Research and Development Authority's (NYSERDA) Quality Solar Installer designation. In an effort to help homeowners in New York State identify quality solar contractors, NYSERDA holds standards and requirements to give credit to companies like ourselves, who follow their practices.
+Who's NYSERDA? They are a public benefit corporation who have offered objective information and analysis, innovative programs, technical expertise, and support to help New Yorkers increase energy efficiency, save money, use renewable energy, and reduce reliance on fossil fuels since 1975.
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/evse-projects
+
+"Our Solar Panels were installed in 1 day, quick and trouble free. The salesman, sight manager and installers were very professional and great to work with. They answered all our questions promptly and thoroughly. We can monitor our solar production on our computer or I phone. The panels look great on our roof. We are very happy we went with Apex for our solar needs." - Cheryl French // Queensbury, NY
+©Apex Energy Tek 2025 Terms of Use & Privacy Policy | Accessibility | Sitemap
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/about-ev
+
+ABOUT EV CHARGERS
+Whether you have an Electric vehicle, are looking to provide resources for EV Drivers, or are considering a business fleet of renewable transportation, there are many factors to consider to ensure your charging stations are appropriate for your needs, and seamlessly integrate with your utility company.
+Opting for electric vehicle (EV) charging at your business isn't just a smart decision; it's a strategic move towards sustainability and economic savings. The advantages of EV charging extend beyond mere convenience, encompassing significant incentives, cost reductions, and an overall enhancement of your property's value. At Apex Energy Tek, we guide you through selecting the ideal charger to fit your unique needs, ensuring you're equipped with the knowledge to make an informed decision, embracing electric mobility represents a forward-thinking choice, aligning with the future of transportation.
+EV Benefits
+Financial Benefits: Electric vehicles are less costly to fuel. On average, to charge an electric vehicle for the year costs 1/3 of what it costs to fuel a gas or diesel vehicle. Additionally, electric vehicles are cheaper to maintain. They have fewer moving parts than conventional vehicles, which means there is less to replace and maintain.
+Environmental Benefits: Electric vehicles emit zero exhaust emissions, which are big contributors to pollution. Also, electric vehicles are being made with more eco-friendly materials. Many of them use recycled plastics and bio-based materials for the padding and bodywork of the vehicle.
+Fun to Drive: Electric vehicles, on average, have more torque and a faster response time than their gas and diesel counterparts. This means that you can get up to speed faster and leave the conventional cars in the dust. Another reason they are fun to drive is because of how safe they are. Electric vehicles tend to have a lower center of gravity which makes them less likely to roll and they have numerous safety features.
+TYPES OF EV CHARGERS
+LEVEL 1 CHARGING: is generally what comes with an electric vehicle, and simply plugs into a regular household outlet. It only uses 120 volts, and is the lowest level of charging for EVs, adding a few miles of range for every hour the car is plugged in. In a general sense, this type of charging is most useful for longer term EV parking, or maintaining a battery charger in storage.
+LEVEL 2 CHARGING: This has become the common standard for practicality for both residential and commercial charging applications. A Level 2 charger uses 240 volts and can charge 20 times faster than a basic level 1 connection. Ranging in power from 6KW to 19KW, a level 2 charger will add 20 to 50 miles of range to an EV each hour it is plugged in.
+RESIDENTIAL
+- Residential Level 2 Chargers are generally installed on a circuit similar to the one that powered a stove or dryer. These chargers can be monitored from a phone app, and installed in a garage or outside a home in the driveway.
+COMMERCIAL
+- Commercial Level 2 chargers serve a wide variety of uses. For businesses, a level 2 charger can be set up to offer charging to the general public, and collect fees from drivers to account for the energy they draw to charge their vehicle. These smart chargers can also manage electrical loads at a property, and limit access for business fleet use, or private resident use in apartment or condo complexes
+DC Fast Charging Level 3 and level 4
+These represent the pinnacle of electric vehicle (EV) charging technology, offering accelerated charging solutions for mainly commercial applications. While Level 2 chargers serve as a robust solution for daily or overnight charging needs, DCFC chargers delivery more power in a shorter period of time, decreasing charging times significantly. Level 3 Chargers are capable of boosting an EV's battery charge from near depletion to 80% in as fast as 20 minutes. This rapid charging ability makes them an ideal solution for bus garages, highway rest stops, and urban charging stations where quick turnaround times are essential. Level 4 Chargers, are even higher powered than level 3 chargers, but are only applicable in very specific use cases where extremely large batteries require a fast charging turnaround time like for heavy equipment operation or Tesla's (in development) electric semi-trucks.
+DCFCs operate by delivering a high-power direct current (DC) directly to the EV's battery, bypassing the vehicle's onboard charger to achieve faster charging speeds. It's worth noting that the charging efficiency for both types of chargers diminishes as the battery's charge level approaches full capacity. Initially, these chargers replenish battery life rapidly until reaching the 50% threshold. Beyond this point, the charging rate begins to decelerate, with a more noticeable reduction as the charge level approaches 80%. This tapering effect is designed to protect the battery's health and longevity, ensuring optimal performance over time.
+In the right type of deployment, a DCFC can be a significant revenue generator for a business, or an asset to a mobile electric fleet that needs to be able to keep their vehicles on the road and reduce down-time. With these increased levels of power however, also come increased costs for both installation and operation. Apex Energy Tek works with all our customers to ensure that the requirements for these units are understood, and that they make sense for the project scope as the ideal solution.
+INCENTIVES
+Residential Incentives: There are federal and state incentives available to help offset the costs and encourage the purchase of an electric vehicle. Through the Federal Government, you can receive up to $7,500 in the form of a tax credit for purchasing an electric or hybrid vehicle. All hybrid and electric vehicles have their own tax incentive values. Furthermore, each state has their own tax incentives available for purchasing a hybrid or fully electric vehicle. You can save a large portion on the cost of a hybrid or electric vehicle through both state and federal tax incentives.
+Commercial Incentives: There are numerous incentives available to help with the costs of installing EV chargers at your business. They vary by state and many of the state programs will cover at least 50% of the cost of the EV chargers. To find out more about what incentives are available in your state, reach out to us today. We are happy to go over how much you can save!
+Utility Incentives:
+Most utility companies have "Make-Ready" programs that to help facilitate the installation of EV chargers in their service territory for business and commercial customers. These incentive programs usually cover 90%-100% of the costs to install new commercial EV charging stations. This includes electrical service upgrades, wire, conduit, and other electrical infrastructure that may be needed to install anywhere from 2 to 40 charging ports at a location. These programs represent one of the best opportunities to upgrade your electrical service and prepare for the future growth of electric vehicles at a very low cost for the property owner or municipality.
+STATION VISIBILITY
+With more Charging stations being installed every day, its important that EV drivers are able to find chargers in the areas that that are travelling to, and for commercial station owners to ensure that their stations are visible and easy for drivers to find and use.
+Apps to Locate Chargers
+ChargeHub: ChargeHub’s interactive map has EV charging stations in both the United States and Canada. The map is easy to use and it has a trip feature to help you find EV charging stations along any route that you take. You can filter the map based on the type of charger, open 24/7, free stations, hotel stations, network, and type of connector.
+ChargePoint: ChargePoint offers an interactive map that shows all their EV charging stations and other EV charging options as well. With their map you can filter for availability, price, connector type, and network. You can also create a login so you can save and keep track of EV charging stations that you have used or plan on utilizing. Lastly, you can sort charging stations by their distance from you.
+Google Maps: Google Maps has an option for you to search for EV charging stations. You can identify them by the red marker with a white charging station inside of it. It will notate how many chargers there are and some indicate cost. The best part about it is that you can use street view to see where the charging station is located.
+Open Charge Map: Open Charge Map shows EV charging stations in both the United States and globally. You can filter your options by network/operator, usage, status, and connection types. You can also use it to plan a trip and find all the EV charging stations along the route. When you click on a station you can check in, add photos, and save it. It will also show you the address, network/operator, equipment details, and the data provider for it.
+PlugShare: PlugShare is the “leading app for EV drivers” as it has been referred to as a community for EV drivers and is able to guide them to charging stations around the world. Their interactive map is easy to use and allows you to filter by region, plug type, network, payment required, restricted locations, residential locations, and availability. You can also add a station, plan a trip, and view your recent activity.
+Tesla: This app is a must for all Tesla drivers. The map allows you to filter by the type of location that you would like to charge at. The options are stores and galleries, service centers, superchargers, and destination charging. When you are charging, your Tesla app will notify you when your car is ready to go. Lastly, they have the option to plan a trip and map the EV chargers along the way.
+Do you have more questions about EV charging? Are you ready to install and EV charger at your home or business? Reach out to us today and we will be happy to answer your questions and get you started on your EV project!
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/copy-of-evse-projects
+
+"Our Solar Panels were installed in 1 day, quick and trouble free. The salesman, sight manager and installers were very professional and great to work with. They answered all our questions promptly and thoroughly. We can monitor our solar production on our computer or I phone. The panels look great on our roof. We are very happy we went with Apex for our solar needs." - Cheryl French // Queensbury, NY
+©Apex Energy Tek 2025 Terms of Use & Privacy Policy | Accessibility | Sitemap
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/about-solar-power
+
+POWERED BY THE SUN
+Going solar is a great, but big, decision. We want you to be confident in your decision to go solar. We have put together a guide to help answer the most frequent questions that we get asked. Going solar is an exciting decision and an excellent way to reduce your carbon footprint and your energy bills.
+HOW SOLAR WORKS
+- Solar Panels: Capture the sun’s rays throughout the day and convert sunlight into Direct Current (DC) electricity.
+- Inverter: Receives the DC electricity and converts it into AC (alternating current) electricity suitable for household use.
+- Safety Disconnect: The electricity passes through a safety disconnect.
+- Main Service Panel: Distributes the electricity to the individual circuits in your home.
+- Electric Meter (Utility Gird-Tied/Hybrid): Excess electricity is sent back to the utility company, giving you kWH credits in exchange.
+- Battery (optional): Excess electricity is sent to your batteries to charge them to capacity.
+BENEFITS OF SOLAR
+Reduce Energy Bills: Going solar is a great way to reduce your energy bills and even potentially eliminate them. We size the solar system to cover the annual energy needs of your home. Therefore, when your system is producing more power than you need in the sunny months, you have credits in the cooler months when there is less daylight to produce solar power. Many of our customers only pay the grid connection fee on a monthly basis which can be as low as $15/month!
+Reduce Carbon Footprint: Going solar is a great way to reduce your carbon footprint. Solar power has minimal impact on the environment as it does not produce CO2, water pollution, or greenhouse gases. A Northeastern home with a 7.5 kW system can offset almost 10,000 pounds of CO2 per year, which is the equivalent to saving 50 trees or off setting 11,000 car miles driven.
+Protect Against Rising Energy Costs: Relying on the traditional form of energy means that your electric payments are prone to unexpected price spikes since they are tied to the ever-shifting global energy market and domestic policy changes. However, solar systems harness a consistent and reliable source of energy that lessens or can even eliminate your dependence on big utility companies. Therefore, freeing you from the whims of electricity pricing.
+TYPES OF SOLAR SYSTEMS
+Solar systems come in a variety of shapes and sizes. We are able to customize the solar system to the needs of your home or business.
+There are 4 main types of solar systems: Roof Mount, Ground Mount, Solar Outbuilding/Shed, and Solarscapes.
+SOLAR PANEL LIFESPAN
+Lifetime: The technology in solar panels is continuing to improve. Solar panels are continuing to produce energy at around 90% efficiency after 25 years! That means your solar system is going to last for decades to come. Also, the solar panels will continue to produce power for more than 25 years. Additionally, as the technology continues to improve, the longevity will increase as well. However, we are already impressed with the longevity of the current solar panels available.
+Durability: Solar panels are built to last. They are composed of glass, metal, and silicon with no moving parts. Therefore, they have a 25-year warranty and will last well beyond that. Solar panels are also put through vigorous testing to make sure that they can stand up to the demands of Mother Nature and the everyday activities that take place around your home and yard. They are tested against pouring rain, hail, sleet, snow, baseballs, and an enormous amount of weight. The panels come out of these strenuous tests unscathed and still producing power. It’s amazing what solar panels can hold up against!
+Don’t trust our word for it? Check out these videos of solar panels being put to the test!
+PAYING FOR SOLAR
+The cost of your system will depend on several factors including: the size of the system, your current energy usage and costs, your area’s utility net metering policy, tax credits, incentives, and rebates. We can walk you through your system’s needs, available tax credits, and financing options. Most customers have a solar payment that is lower than their previous electric bill, allowing them to start saving money from day one.
+Financing: There are a number of different financing options available depending on the state you live in. Through the financing options that we have available to our customers, that qualify, there are many low interest options and bridge loans available. Our Finance Manager will be able to go over the specifics with each customer and help them get the best financing option for them.
+Solar Tax Credits & Incentives: The current Solar Federal Tax Incentive is 30% of the system's cost. Additionally, many states have their own incentive and rebate programs available that can offset the solar system cost up to 50%! We can help you determine how much you can save on your solar system from day one.
+Cash: There is always the option to pay for your solar system in cash if you have the funds. We can walk you through the amount you will need for your custom solar system.
+Are you ready to go solar now? Do you have additional questions that you still need answered? Reach out to us today and we will be happy to answer your questions and help you get started on your solar journey.
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/solar
+
+HARVEST
+THE SUN
+Getting an estimate for your own system is easy. Answer a few questions, and we will be able to provide a price and show your potential savings!
+GROUND MOUNT
+SOLAR
+Ground Mount Solar Systems are great if you have a slate roof, or your roof is not oriented for optimal sun exposure. They are set to be at the perfect angle to optimize their solar production year-round.
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/ev-charging
+
+CHARGING INTO THE FUTURE
+Apex Energy Tek is an EV charging leader, providing the smartest and fastest EV charging solutions for homes, businesses, and municipalities. We've partnered with companies and organizations of all sizes in pursuit of a cleaner, greener, and renewable future.
+What can we build for you?
+BUSINESS
+EV CHARGING
+It doesn’t matter whether you own a restaurant, hotel, casino, or any other type of business, the benefits of installing EV charging stations are clear. Chargers not only attract customers, but encourage them to stay longer. In some states, utility and state incentives are available that can reduce your cost by 80% or more.
+RESIDENTIAL
+EV CHARGING
+If you own an electric vehicle or are purchasing one soon, installing an EV charger in your home is a great idea! It charges your vehicle faster so you can spend less time charging and more time on the road. We can help you find the right charger for your car, and get everything installed at your home.
+MUNICIPAL
+EV CHARGING
+Make your community the destination and a leader in clean energy. Installing this amenity for your residents will encourage them to switch to electric vehicles and bring in more visitors, generating more revenue for your town. Plus, some states have incentives available to bring down the costs of installing electric vehicle charging stations.
+PUBLIC
+EV CHARGING
+Integrating public EV charging stations transforms them into a key resource, boosting both community revenue and EV adoption. By installing chargers in popular spots, towns attract more visitors and encourage residents to go electric, while a business can demonstrate their commitment to their community, while leveraging state incentives to offset installation costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/battery-backup
+
+SEAMLESS
+SOLAR
+INTEGRATION
+Solar panels require sunlight to generate electricity, therefore at night a grid-tied solar-powered home would still have to draw electricity from the grid.
+When you add a backup battery to your solar PV system, your battery will store the excess electricity produced during the day to be used at night, and provide backup power when there’s a power outage.
+CLEANER
+THAN
+GENERATORS
+Clean, Quiet, Safe, and Smart with Usage Data at Your Fingertips.
+Most generators need to be refueled regularly, for those who experience frequent blackouts, which is inconvenient and can be costly. Backup batteries, however, are clean, quiet, touch safe, and can be easily monitored on your mobile device.
+TESLA
+POWERWALL
+The Powerwall mounts seamlessly on a wall or on the ground, indoors or outdoors, and is connected to the grid to export excess energy, maximizing your opportunity for economic benefit. The Powerwall can provide several benefits including self-powered, time-based control, and back-up power.
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/contact-us
+
+CONTACT US! WE'D LOVE TO HEAR FROM YOU!
+DON'T MISS A THING
+Here for you.
+We provide our services in the following states.
+"Our Solar Panels were installed in 1 day, quick and trouble free. The salesman, sight manager and installers were very professional and great to work with. They answered all our questions promptly and thoroughly. We can monitor our solar production on our computer or I phone. The panels look great on our roof. We are very happy we went with Apex for our solar needs." - Cheryl French // Queensbury, NY
+©Apex Energy Tek 2025 Terms of Use & Privacy Policy | Accessibility | Sitemap
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/customer-service
+
+SERVICE & MAINTENANCE
+We continue to support our customers well after their installation. Our experienced technicians can diagnose your system and have it back performing at a top notch level. Also, we are qualified to work on your EV charging stations and battery backup systems. Book a service call with us today to get your system where it should be.
+| ✓ Meter Swap | ✓ Site Assessment | ✓ Critter Guard Installation |
+| ✓ String Inverter Replacement | ✓ Inverter Troubleshooting | ✓ Roof Leak Evaluation |
+| ✓ Micro Inverter/Optimizer Replacement | ✓ Monitoring Troubleshooting & Support | ✓ Module Replacement |
+| ✓ PV System Removal | ✓ PV System Re-Installation | ✓ Full System Operation Check |
+| ✓ Consulting | ✓ System Upgrades | ✓ And More! |
+Have a question?
+We have an answer!
+For immediate assistance, call us during our regular business hours
+(M-F, 8:30AM-5PM EST).
+For all other questions or concerns, you can reach out to our Customer Service team directly or fill out the form here to get right into our queue for a follow-up call.
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/faq
+
+HAVE QUESTIONS?
+WE HAVE THE ANSWERS!
+There are a lot of questions you may have when deciding to make the switch to solar. To help guide you through, we have put together a list to the most common questions that we are asked.
+Yes! Solar panels are designed to capture and diffuse indirect sunlight.
+The snow will slide off your panels due to the slick glass, angle of the panels, and heat radiated from the dark panels. Just sit back and let the snow slide off of them.
+On average, a solar system will keep producing at a high output for 25-30 years. Even after that they will keep producing power.
+For us to install a solar system on your roof we recommend that there is still 10+ years of life left in it. However, if your roof needs to be replaced, our roofing division Apex Roofing can help! They install asphalt shingle and metal roofs.
+Also, you will be able to apply tax credits to the portion of your roof that has solar panels on it, if you replace your roof and go solar at the same time. That means extra savings in your pocket!
+The current federal incentive is 26% of your total system cost. The state incentives depend on the state that you are living in. However, all of the states that we service have an incentive for going solar that is beneficial for you.
+"Our Solar Panels were installed in 1 day, quick and trouble free. The salesman, sight manager and installers were very professional and great to work with. They answered all our questions promptly and thoroughly. We can monitor our solar production on our computer or I phone. The panels look great on our roof. We are very happy we went with Apex for our solar needs." - Cheryl French // Queensbury, NY
+©Apex Energy Tek 2025 Terms of Use & Privacy Policy | Accessibility | Sitemap
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/blog
+
+By mbaker
+•
+January 23, 2026
+What the 2026 Utility Rate Changes Mean for Homeowners As we move into 2026, homeowners are facing a major shift in how much it costs to power their homes. Utilities across the country are preparing for another round of significant rate increases — driven by aging infrastructure, higher demand, and rising energy costs. At the same time, the federal solar tax credit is set to step down, reducing the incentive homeowners have relied on for years. While this combination may sound discouraging at first, it actually underscores a larger truth: with utility rates climbing faster than ever, going solar still makes long-term financial sense. Rising Utility Rates in 2026 Many utility providers have already announced increases for 2026, and the trend is consistent nationwide. In fact, the New York Public Service Commission (NYPSC) has approved an increase of 30% increase for New York utilities to occur over the next 3 years. Electricity costs are going up, fixed monthly charges are increasing, and more utilities are shifting to time-of-use pricing models that penalize homeowners during late-afternoon and evening peaks. In some regions, residential demand charges — once reserved for commercial customers — are becoming more common. For the average homeowner, this translates to noticeably higher bills even if their usage stays the same. Some areas could see annual increases of 10–25% as these new structures take hold. The Solar Tax Credit Is Decreasing — But the Savings Aren’t 2026 is also the year the federal solar Investment Tax Credit steps down from the full 30% for many homeowners. This means installing solar will carry a slightly higher upfront out-of-pocket cost than in recent years. However, the long-term economics still strongly favor solar. While the tax credit reduces, electricity prices continue to rise every year — and those increases compound over time. The value of producing your own electricity becomes greater with each rate hike, often offsetting the reduced tax incentive within just a few years. In other words, the short-term increase in system cost is still outweighed by decades of escalating utility prices. Why Solar Still Makes Financial Sense Solar’s value has always come from its ability to provide clean, predictable, stable energy for decades — and that hasn’t changed. What has changed is how quickly grid-supplied electricity is becoming more expensive. By installing solar, homeowners reduce or eliminate their reliance on a system where prices are uncontrollable and consistently rising. Pairing solar with battery storage makes the financial case even stronger, allowing homeowners to bypass expensive peak rates and keep their homes powered when the grid is stressed or offline. Even with the incentive stepping down, the lifetime savings from solar in 2026 remain extremely strong. What Homeowners Should Take Away The combination of rising utility rates and a reduced tax credit might seem like a reason to wait, but it’s actually the opposite. The longer homeowners remain 100% dependent on the grid, the more expensive their energy costs become. Solar continues to offer protection from rate volatility, greater control over monthly expenses, and long-term savings that significantly outweigh the loss of part of the tax credit. 2026 is a reminder that the cost of utility power is only moving in one direction — and investing in your own energy system is one of the smartest ways to stay ahead. If you’d like a personalized look at what these changes mean for your home, our team can walk you through the numbers and build a plan tailored to your energy needs.
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/refer-a-friend
+
+Share The Love!
+RECEIVE $500 WHEN YOUR FRIENDS INSTALL SOLAR & $250 WHEN THEY INSTALL EV CHARGING OR BATTERY BACKUP !
+If you’re one of our valued customers, you’re automatically enrolled in our customer referral program. We know that in our business nothing speaks louder than the satisfied customers who understand the value and savings of solar. When you share your love of solar, or our other services, with your family, friends, and neighbors, Apex will reward you with cash to show our appreciation for your business and your referrals!
+Want to get more referrals at once?
+Invite us to your business, institution, or organization to hold a solar seminar. We commonly do informational breakfasts and lunch-and-learns. Reach out to us at info@apexenergytek.com .
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/solar-new-construction
+
+SOLAR INSTALLATION
+FOR NEW CONSTRUCTION HOMES
+INSTALLING SOLAR ON YOUR NEW HOME
+If you're building a new home or considering building a new home, one of the smartest additions you can make is a rooftop solar system. Not only will you start saving money on your utility bills right away, but it can also help reduce the overall cost of your solar system. By designing your roof specifically for solar, you can often use fewer panels to meet your home’s energy needs. Plus, you’ll save on electrical conduit costs since it’s easier to access and install during the building process. Building a home with solar from the start is a great way to cut costs while ensuring your home is set up for maximum energy efficiency.
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/testimonials
+
+BE A PART OF THE APEX FAMILY
+Apex Energy Tek takes pride in
+every interaction with our customers.
+What our customers say about working with us:
+Kevin Kershaw
+Mara & Aaron Davi Gaines
+“My elderly father needed a new roof. I wanted aluminum snow slides added to alleviate a winter ice build-up problem his home was prone to. I reached out to several contractors for estimates. I chose Apex as they seemed a good fit and were competitive. The roofing crew showed up when they said they would, went right to work, completed the job and left the work site as clean as they had found it. They worked well together and wasted little time. I found them to be respectful, courteous, and no offensive language was heard. As a former builder and contractor, this was important to me. Several weeks later I chose Apex to replace the roof on my own home. My experience this second time was much the same. I am very pleased and recommend them to anyone in need of a new roof.”
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/careers
+
+WORK WITH US!
+JOIN AN INDUSTRY LEADING TEAM
+CREATIVE, COLLABORATIVE, HARDWORKING, AND DETERMINED.
+We are always seeking seasoned solar or roofing professionals to join our experienced team. We also welcome applications from motivated industry newcomers who share our passion for all things solar. Apex Energy Tek employees enjoy the benefits of working with a supportive team at a growing company.
+About Us
+At Apex Energy Tek, based out of Queensbury, NY, we have positioned ourselves as the premier solar energy provider in the Northeast through a combination of our diversified national accounts and organic growth. We are a robust, industry-leading team of solar professionals driving solar energy infrastructure across many markets. Our dedicated team of solar professionals works on projects across the Northeast and in the Carolinas, bringing high-quality solar installations to residential and commercial clients.
+Apex Energy Tek is a relationship-driven renewable energy business. Our people are treated the way that we would expect to be treated with no exceptions. Our positive, team-driven culture is unlike any other. We combine our passion for renewables with a supportive atmosphere to produce high quality, industry-leading craftsmanship.
+- Competitive pay
+- Flexible schedules
+- Paid time off & holidays
+- 401k
+- Training opportunities
+- Solar Sales Consultants
+- Experienced Solar Installers & Electricians
+- Entry-Level & Experienced Roofers
+If you have the skills we seek and are interested in making a strong contribution to a dynamic organization focused on making solar energy accessible, please fill out the form indicating your interest in the appropriate position. All applications will be treated as confidential. Apex Energy Tek strives for a multicultural work environment; diversity is a core value. Apex Energy Tek is an equal opportunity employer (EOE) and strongly supports diversity in the workplace (AA/EOE).
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/solar-for-a-cause
+
+SOLAR FOR A CAUSE
+Solar That Helps Your Community
+SIGN UP FOR A NON-PROFIT TODAY.
+Do you work for a non-profit or are involved with one? Then register them today to receive $500 every time an employee or supporter of the non-profit goes solar with us. We love supporting our community and helping people produce their own clean and green energy!
+SOLSR THAT LENDS A HELPING HAND
+When you make the switch to solar you are helping the environment and saving on your energy bills. Therefore, we want to help a non-profit that is important to you reach their own goals. For every member and supporter of your organization that has a solar consultation, we will donate $50 to your organization. For every solar system that gets installed, we will donate $500 to your organization. Getting started is easy. Fill out the form below to signup for your non-profit!
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/accessibility
+
+ACCESSIBILITY
+Apex Energy Tek's Accessibility Statement
+Updated: January 1, 2025
+General
+ApexEnergyTek.com strives to ensure that its services are accessible to people with disabilities. ApexEnergyTek.com has invested a significant amount of resources to help ensure that its website is made easier to use and more accessible for people with disabilities, with the strong belief that every person has the right to live with dignity, equality, comfort and independence.
+Accessibility on ApexEnergyTek.com
+ApexEnergyTek.com makes available the UserWay Website Accessibility Widget that is powered by a dedicated accessibility server. The software allows ApexEnergyTek.com to improve its compliance with the Web Content Accessibility Guidelines (WCAG 2.1).
+Enabling the Accessibility Menu
+The ApexEnergyTek.com accessibility menu can be enabled by clicking the accessibility menu icon that appears on the corner of the page. After triggering the accessibility menu, please wait a moment for the accessibility menu to load in its entirety.
+Disclaimer
+ApexEnergyTek.com continues its efforts to constantly improve the accessibility of its site and services in the belief that it is our collective moral obligation to allow seamless, accessible and unhindered use also for those of us with disabilities.
+Despite our efforts to make all pages and content on ApexEnergyTek.com fully accessible, some content may not have yet been fully adapted to the strictest accessibility standards. This may be a result of not having found or identified the most appropriate technological solution.
+Here For You
+If you are experiencing difficulty with any content on ApexEnergyTek.com or require assistance with any part of our site, please contact us during normal business hours as detailed below and we will be happy to assist.
+Contact Us
+If you wish to report an accessibility issue, have any questions or need assistance, please contact ApexEnergyTek.com Customer Support as follows: Email: info@ApexEnergyTek.com
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/sitemap
+
+"Our Solar Panels were installed in 1 day, quick and trouble free. The salesman, sight manager and installers were very professional and great to work with. They answered all our questions promptly and thoroughly. We can monitor our solar production on our computer or I phone. The panels look great on our roof. We are very happy we went with Apex for our solar needs." - Cheryl French // Queensbury, NY
+©Apex Energy Tek 2025 Terms of Use & Privacy Policy | Accessibility | Sitemap
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/ev-commercial-more-information
+
+Leaders in Business
+Commercial charging stations give your customers both a reason to visit your location, and an awesome benefit for when they want to top up their battery.
+Networked stations have an abundance of flexibility that allows you to control and monitor every aspect of the station- you can monitor their usage, display advertisements, adjust your fees, or even offer charging for free.
+
+--------------------------------------------------------------------------------
+
+URL: https://info@apexsolarpower.com/
+
+Solar, Battery Backup, or EV Charging?
+SOLAR
+There Has Never Been a Better Time to Go Solar.
+Save up to 50% on your solar system with state and federal incentives! Going solar has never been easier. We focus on our customer's needs first and are trusted by the biggest national companies to install and service their customers as well. With an Apex system, you can sit back, relax and let the sun do all the work!
+EV CHARGING
+Charging Into The Future.
+Apex Energy provides the smartest and fastest EV charging solutions for businesses, workplaces, multifamily housing, and municipalities. We're bringing clean infrastructure to the east coast.
+BATTERY
+Dependable When You Need It The Most.
+Storm knock out your grid power? With automatic battery backup power, you can keep your lights on, your fridge running, and phone charged without skipping a beat. As Certified installers for Tesla, Generac, Panasonic, and many others, we've worked with the latest battery technology available to homeowners.
+SERVICE
+In over 15 years, we've seen it all.
+We've serviced nearly every type of solar system out there, and have been installing EV charging stations for 10 years- Our customer's can be confident that if any issues arise, we can get you back up and running again.
+
+--------------------------------------------------------------------------------
+
+URL: https://customerservice@apexsolarpower.com/
+
+Solar, Battery Backup, or EV Charging?
+SOLAR
+There Has Never Been a Better Time to Go Solar.
+Save up to 50% on your solar system with state and federal incentives! Going solar has never been easier. We focus on our customer's needs first and are trusted by the biggest national companies to install and service their customers as well. With an Apex system, you can sit back, relax and let the sun do all the work!
+EV CHARGING
+Charging Into The Future.
+Apex Energy provides the smartest and fastest EV charging solutions for businesses, workplaces, multifamily housing, and municipalities. We're bringing clean infrastructure to the east coast.
+BATTERY
+Dependable When You Need It The Most.
+Storm knock out your grid power? With automatic battery backup power, you can keep your lights on, your fridge running, and phone charged without skipping a beat. As Certified installers for Tesla, Generac, Panasonic, and many others, we've worked with the latest battery technology available to homeowners.
+SERVICE
+In over 15 years, we've seen it all.
+We've serviced nearly every type of solar system out there, and have been installing EV charging stations for 10 years- Our customer's can be confident that if any issues arise, we can get you back up and running again.
+
+--------------------------------------------------------------------------------
+
+URL: https://apexsolarpower.com/what-the-2025-utility-rate-changes-mean-for-homeowners
+
+What the 2026 Utility Rate Changes Mean for Homeowners
+What the 2026 Utility Rate Changes Mean for Homeowners
+As we move into 2026, homeowners are facing a major shift in how much it costs to power their homes. Utilities across the country are preparing for another round of significant rate increases — driven by aging infrastructure, higher demand, and rising energy costs. At the same time, the federal solar tax credit is set to step down, reducing the incentive homeowners have relied on for years. While this combination may sound discouraging at first, it actually underscores a larger truth: with utility rates climbing faster than ever, going solar still makes long-term financial sense.
+Rising Utility Rates in 2026
+Many utility providers have already announced increases for 2026, and the trend is consistent nationwide. In fact, the New York Public Service Commission (NYPSC) has approved an increase of 30% increase for New York utilities to occur over the next 3 years. Electricity costs are going up, fixed monthly charges are increasing, and more utilities are shifting to time-of-use pricing models that penalize homeowners during late-afternoon and evening peaks. In some regions, residential demand charges — once reserved for commercial customers — are becoming more common. For the average homeowner, this translates to noticeably higher bills even if their usage stays the same. Some areas could see annual increases of 10–25% as these new structures take hold.
+The Solar Tax Credit Is Decreasing — But the Savings Aren’t
+2026 is also the year the federal solar Investment Tax Credit steps down from the full 30% for many homeowners. This means installing solar will carry a slightly higher upfront out-of-pocket cost than in recent years. However, the long-term economics still strongly favor solar. While the tax credit reduces, electricity prices continue to rise every year — and those increases compound over time. The value of producing your own electricity becomes greater with each rate hike, often offsetting the reduced tax incentive within just a few years. In other words, the short-term increase in system cost is still outweighed by decades of escalating utility prices.
+Why Solar Still Makes Financial Sense
+Solar’s value has always come from its ability to provide clean, predictable, stable energy for decades — and that hasn’t changed. What has changed is how quickly grid-supplied electricity is becoming more expensive. By installing solar, homeowners reduce or eliminate their reliance on a system where prices are uncontrollable and consistently rising. Pairing solar with battery storage makes the financial case even stronger, allowing homeowners to bypass expensive peak rates and keep their homes powered when the grid is stressed or offline. Even with the incentive stepping down, the lifetime savings from solar in 2026 remain extremely strong.
+What Homeowners Should Take Away
+The combination of rising utility rates and a reduced tax credit might seem like a reason to wait, but it’s actually the opposite. The longer homeowners remain 100% dependent on the grid, the more expensive their energy costs become. Solar continues to offer protection from rate volatility, greater control over monthly expenses, and long-term savings that significantly outweigh the loss of part of the tax credit.
+2026 is a reminder that the cost of utility power is only moving in one direction — and investing in your own energy system is one of the smartest ways to stay ahead. If you’d like a personalized look at what these changes mean for your home, our team can walk you through the numbers and build a plan tailored to your energy needs.
+
+--------------------------------------------------------------------------------

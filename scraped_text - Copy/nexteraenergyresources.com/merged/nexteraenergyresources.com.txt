@@ -1,0 +1,11 @@
+ROOT: https://nexteraenergyresources.com/
+SCRAPED_AT_UTC: 2026-02-11T20:21:52.148797Z
+PAGES_INCLUDED: 1
+
+================================================================================
+
+URL: https://nexteraenergyresources.com/
+
+Request unsuccessful. Incapsula incident ID: 1533000550031157892-113774242117258706
+
+--------------------------------------------------------------------------------

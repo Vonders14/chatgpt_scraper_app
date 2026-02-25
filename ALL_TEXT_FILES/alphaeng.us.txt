@@ -1,0 +1,650 @@
+ROOT: https://alphaeng.us/
+SCRAPED_AT_UTC: 2026-02-11T19:48:21.835100Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://alphaeng.us/
+
+Alpha Engineering, Inc.
+Customized Power and Energy Solutions
+At Alpha Engineering, we believe that forward thinking companies have the most opportunities for long-term success. It’s important to plan for your future power and energy needs, and our team of experts will walk through potential scenarios so that you can make the best decisions for your situation. We offer substation engineering, line design, system planning, analysis, and so much more. Our team follows through on our promises, and we are always looking towards your future vision.
+People are our number one priority, and we value and respect every client’s concerns, questions, timeline, and budget. We’re ready to tackle your challenges and navigate tough terrains to provide you with the most innovative, versatile and practical solutions that meet your needs. Our team will help you move forward with confidence with customized power and energy services for your specific needs and budget.
+SUBSTATION ENGINEERING
+LINE DESIGN
+SYSTEM PLANNING & STUDIES
+ARC FLASH HAZARD ANALYSIS
+POWER QUALITY
+GIS / FIELD INVENTORY
+CONSTRUCTION MANAGEMENT
+AEI provides a wide range of construction and inspection services for substation, distribution, and industrial electrical projects.
+RENEWABLE ENERGY
+AEI provides many services for distributed resource interconnection. Whether you need a small diesel backup system.
+Industries Served
+Alpha Engineering serves clients in a variety of capacities relative to the power distribution industry. If your industry is not listed below, please call us to determine how we can be of service to you.
+Rural Electric Membership Corporations
+Municipal Electric Departments
+Investor-Owned Utilities
+Distributed Generation
+Industrial and Commercial Clients
+Generation & Transmission Providers
+Healthcare Facilities
+Military Institutions
+Independent System Operators
+Universities and Colleges
+Smart Grid
+Data Centers
+INDUSTRIES SERVED
+COMPLETED JOBS
+SATISFACTION
+We use Alpha’s engineering and project management expertise to make informed decisions regarding some of our most business critical assets. Their engineers have been quick to adapt to changing project requirements and schedules. We have built a valuable partnership with Alpha Engineering.
+AJ Hall, P.E.
+Manager, T&D Asset Strategy & Governance
+Request A Quote
+Your power engineering solutions are waiting. We look forward to learning about your specific needs and how our expertise, resources and support can best deliver a customized solution.
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaeng.us/services/
+
+Electrical Safety Training in Indianapolis, IN
+Alpha Engineering, Inc.
+DB+
+Our Services
+Alpha Engineering, Inc. (AEI) provides innovative and professional engineering and design solutions for the power industry. With substation, asset management, distribution, industrial, renewable energy, and Smart Grid capabilities, AEI has gained a reputation for cutting-edge, technical excellence and high customer satisfaction.
+Renewable Energy
+Whether you need a small diesel backup system or large-scale wind turbines or photovoltaic arrays, Alpha Engineering, Inc. has the expertise to develop the generation and design its interconnection to the utility grid that best fits your needs.
+DB+
+Substation Engineering
+We go above and beyond by providing every service required for new substation projects, as well as upgrades or expansions to existing substations.
+DB+
+Line Design
+Recognized as a leader in the market, Alpha Engineering, Inc (AEI) specializes in providing complete Line Design for transmission, distribution and fiber optic projects.
+DB+
+System Planning & Studies
+Alpha is able develop safe, reliable and efficient electrical systems, tailored to fit any company or facility needs based on the unique combination of our knowledgeable, experienced team of professionals; a deep understanding of each client; and the support of different types of System Planning and Analysis options.
+DB+
+Arc Flash Hazard Analysis
+Our top priority is making sure we align with your current needs by providing you with a comprehensive Arc Flash Hazard Analysis that results in a safer workplace in the area of your business that matters the most – your people.
+DB+
+Power Quality
+Alpha can examine specific parameters such as voltage, current, harmonic content and frequency, AEI performs Power Quality investigations to offer you reliable, practical ways to solve any issues or concerns.
+DB+
+GIS / Field Inventory
+Alpha Engineering, Inc. utilizes the latest technology for our client’s mapping needs. We offer GIS maps and updates using ESRI’s ArcGIS software package. ArcGIS allows the user to accurately map service areas at the highest levels of precision and detail.
+DB+
+Construction Management
+Our mission is to work with you through every phase of the project. That’s why we begin by listening – providing cost-effective, impactful solutions that will ensure your project is completed on schedule – all with the goal of building on the foundation of a sustainable business.
+DB+
+Smart Grid
+We are combining our experience in the power industry with cutting edge technology to help our clients deploy programs and devices to improve safety, reliability, capacity, efficiency, and communications.
+DB+
+Mapping & CAD Services
+Our goal at Alpha Engineering, Inc. is to always give our clients as many options as possible, which is why we also use the most current version of AutoCAD. We also offer a wide variety of drafting and plotting services for our clients.
+DB+
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaeng.us/about-us/
+
+About Us
+What We Do
+DB+
+Sustainable Power And Energy Planning
+Start bringing your vision for the future to life. From system planning to line and substation design to the Smart Grid, Alpha Engineering has the capabilities and expertise to meet your every power engineering need. People are the focus of our practice, and our team is prepared to help you plan for future power and energy capabilities. Our team prioritizes customer service and satisfaction, we’re ready to tackle your challenges and navigate tough terrains to provide you with the most innovative, versatile and practical solutions that meet your needs.
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaeng.us/services/mapping-cad-services/
+
+CAD Design Solutions in Indianapolis, IN
+Services
+Unlock the Mapping Possibilities
+We position our clients to create advantage by unlocking new and distinct ways of providing innovative, cutting – edge solutions. One way we accomplish this is by offering a wide variety of drafting and plotting services. From best practices to inspired practices, we can plot in color as well on a variety of different types of paper such as glossy, vellum, Mylar or standard ink jet bond.
+So much more…
+To better serve your electrical needs, AEI designs circuit diagrams. These drawings are used for a variety of purposes and can be specialized to your individual needs. Through the use of color and different line weights, our circuit diagrams are very clear and organized to allow maximum usefulness and clarity.
+Work Plan Maps
+Territory Maps
+Circuit Maps
+Truck Maps
+Load Growth Maps
+Township Maps
+Phasing Maps
+Whatever your needs – whatever your timeline, our professional team has the in-depth knowledge to make it a stress-free, cost-efficient project. They are ready to help you connect the dots in order to create a product tailored to your unique needs and specifications.
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaeng.us/services/smart-grid/
+
+Smart Grid in Indianapolis, IN
+Services
+DB+
+Advances of Smart Grid
+Alpha Engineering, Inc. (AEI) is helping today’s utilities, renewable energy developers, universities, and large commercial and industrial harness the capabilities and advances of the Smart Grid. The Smart Grid broadly refers to the technological, communication, and control functionalities that are rapidly being deployed in the power industry. We are combining our experience in the power industry with cutting edge technology to help our clients deploy programs and devices to improve safety, reliability, capacity, efficiency, and communications. Let us help you not only plan, design, and implement your Smart Grid initiative, but turn the new data into meaningful information using our Data Analytics capabilities.
+Examples of our Smart Grid projects and capabilities include:
+SCADA & Communications Design
+NERC-CIP Compliance
+Volt/Var Management
+Demand Response/Management
+Physical and Cyber Security Best Practices
+Feeder Automation / Self-Healing Schemes
+Data Analytics
+Smart Grid / Communications Roadmap
+View All Services
+Get In Touch
+Our professionals are always eager to serve you and meet your specific design or power engineering needs.
+DB+
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaeng.us/services/construction-management/
+
+Construction Management Solutions for Indianapolis, IN
+Services
+DB+
+Multifaceted Solutions, One Seamless Experience
+Our approach to Construction Management is simple. We’re here to support you by providing a wide range of construction and inspection services for substation, distribution and industrial electrical projects in and around the Indianapolis metropolitan area.
+We understand our mission is to work with you through every phase of the project. That’s why we begin by listening – providing cost-effective, impactful solutions that will ensure your project is completed on schedule – all with the goal of building on the foundation of a sustainable business. Our professional team prides itself on being personally engaged and well-versed in preparation of labor and material contracts. The bottom line is that we succeed when your goals and objectives are met.
+Our Construction Management Services include:
+Owner’s representative
+Budgetary cost estimates
+Bid documents
+Assist with bid opening
+Construction inspection and commissioning
+Closeout and as-built documentation
+Conceptual design and alternative analysis
+Construction and equipment specifications
+Pre-bid meetings
+Award recommendation
+Operations procedures and training
+View All Services
+Get In Touch
+Our professionals are always eager to serve you and meet your specific design or power engineering needs.
+DB+
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaeng.us/services/gis-field-inventory/
+
+GIS / Field Inventory
+Services
+Mapping With Smarter Solutions
+Our clients want smarter solutions that help them save time and money in an ever-increasing complex environment. That’s why Alpha Engineering, Inc (AEI) utilizes the latest technology for our client’s mapping needs. We offer GIS maps and updates using ESRI’s ArcGIS software package. ArcGIS allows the user to accurately map service areas at the highest levels of precision and detail.
+It’s done with unparalleled, customized accuracy
+Our project managers collect your geographic data by using advanced GPS units. This data is then used to develop a high-quality map with robust analysis capabilities. Each class of features on the map can be uniquely displayed and customized.
+This allows you the capacity to track and maintain inventories of poles, devices, units, wire sizes and phasing through the database capabilities of GIS. Custom queries can be developed to provide you with detailed reports on usage, outages and other critical information, tailored to fit your exact needs.
+For continued support, AEI mapping specialists can update client mapping and GIS data as required or through an ongoing basis. This service can be provided both on-location and remotely. The maps we produce have several different display possibilities, providing you with countless customization possibilities.
+At AEI, we take the time to completely understand your specific goals and objectives, giving you unmatched service and delivering proven results.
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaeng.us/services/power-quality/
+
+Power Quality
+Services
+DB+
+Designing and Delivering Solutions To Power Quality Challenges
+At Alpha Engineering, Inc. (AEI), we have a deep understanding of the challenges you face with electrical systems and Power Quality concerns. Issues such as extended outages, momentary surges or under or over voltage conditions can impact production, cause unnecessary delays and prove costly to equipment.
+That’s why we offer comprehensive solutions that are results driven and cost-effective. By examining specific parameters such as voltage, current, harmonic content and frequency, AEI performs Power Quality investigations that offer you reliable, practical ways to solve any issues or concerns. These parameters will often be outside of industry-accepted boundaries if an electrical system is functioning poorly. When it comes to Power Quality, we make it our top priority to ensure that your equipment is working properly and that the electrical system’s parameters are within acceptable limits.
+In order to investigate an electrical system, a site survey is performed. The four basic components to a site survey are:
+Determine soundness of the wiring and grounding system
+Establish sources and impact of disturbances on equipment performance
+Verify quality of the AC supply
+Acquire and analyze survey data to guide system improvements or corrective actions if necessary
+We use a variety of industry-standard tools, including:
+PMI Revolution
+AEMC 8335 PowerPad 3-Phase Power Quality Analyzer
+Fluke 43B Single Phase Power Quality Analyzer
+AEMC 3711 Clamp-On Ground Resistance Tester
+Miscellaneous multimeters, oscilloscopes or temperature probes
+Dranetz Power Xplorer PX5
+Reliable Power Meter 1656 Power Recorder (re-branded to Fluke 1750 after RPM was purchased by Fluke)
+AEMC 1040 Megohmmeter Field Kit
+AEMC 4500 Digital Ground Resistance Tester
+View All Services
+Get In Touch
+Our professionals are always eager to serve you and meet your specific design or power engineering needs.
+DB+
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaeng.us/services/arc-flash-hazard-analysis/
+
+Arc Flash Hazard Analysis
+Services
+DB+
+Professional and Proactive Strategy
+There’s a reason we’re an industry leader when it comes to Arc Flash Hazard Safety solutions. We are fully committed to helping you solve your challenges through our services, years of experience and in-depth knowledge. Our top priority is making sure we align with your current needs by providing you with a comprehensive Arc Flash Hazard Analysis that results in a safer workplace in the area of your business that matters the most – your people.What is an arc flash? Why is it a hazard?
+An arc flash is often an unwelcome and unforeseen serious electrical hazard created when energy is released during an arcing fault. An arc fault occurs when an energized conductor comes in contact with another object that cannot handle the short-circuit capacity of the energy source. Once the short-circuit current begins to flow, conductive materials can be vaporized, or they can be moved by the mechanical force of the current flow. Either way, current can continue to flow through conductive plasma until the system voltage can no longer sustain the arc or a protective device interrupts the flow of electricity. Consequently, an arc flash can not only cause significant damage to equipment, but more importantly, harm nearby personnel by causing hearing or vision damage, severe burns or even fatalities.What is an AEI Arc Flash Hazard Analysis, and why is it so important?
+An Alpha Engineering, Inc. (AEI) Arc Flash Hazard Analysis is an extensive process performed by our experienced engineers who deliver outstanding service along with transparent access to valuable data. In keeping with OSHA regulations, we also make sure you stay compliant, while at the same time provide you with a comprehensive safety plan moving forward for your employees and your company.The benefits of an Arc Flash Study are significant. They include:
+Development of a single-line diagram
+Completion of a fault study that includes the utility contribution, system impedance and X/R ratios to determine calculated three phase and single-phase faults throughout the electrical system
+Completion of an equipment device coordination study to determine optimum settings of over current protective devices to help assure that the nearest device isolates the fault so other equipment is not unnecessarily shutdown
+Contribute to an electrically safe work environment for employees and contractors
+Identification of safe working distances from energized electrical equipment
+Conclusion of a protective device evaluation to determine the adequacy of all protective devices
+Mitigation of arc flash hazards, keeping the flash hazard category to the lowest possible energy levels
+Creation of arc flash warning labels indicating the potential voltage and arc flash hazards and required PPE at equipment locations throughout a facility
+AEI can provide a complete Arc Flash Evaluation using multiple modeling and analytical software products, including:
+SKM System Analysis Inc’s Power*Tools®
+ETAP®
+Easy Power®
+Milsoft Utility Solutions’ WindMil©.
+View All Services
+Get In Touch
+Our professionals are always eager to serve you and meet your specific design or power engineering needs.
+DB+
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaeng.us/services/system-planning-and-studies/
+
+System Planning & Studies
+Services
+Complex Challenges, Straightforward Solutions
+It’s how we do things at Alpha Engineering, Inc (AEI). We take your complex challenges and turn them into workable, comprehensive solutions. Straightforward; cost-efficient; reliable solutions – based on the unique combination of our knowledgeable, experienced team of professionals; a deep understanding of each and every client; and the support of several different types of System Planning and Analysis options. These distinctive studies allow us to develop safe, reliable and efficient electrical systems, tailored to fit any company or facility needs.
+SKM System Analysis, Inc’s Power*Tools®
+Milsoft Utility Solutions’WindMil© and LightTable
+ETAP®
+DO NOT DELETE
+Construction Work Plans
+*RUS Bulletin 17240-101B, System Planning Guide, Construction Work Plans
+Long Range Plans
+**RUS Bulletin 1724D-101A, Electric System Long-Range Planning Guide
+Load Flow Studies
+Load Flow or Power Flow Studies are performed by applying numerical analysis to an electrical power system. The power system being examined is approximated or modeled so the numerical analysis can be performed. The models typically emphasize the real, reactive or apparent power rather than simply the voltage and current. Using computer analysis programs allows AEI to examine power systems in normal, contingency and proposed configurations.
+Load Flow Studies make it possible to plan for future power system expansions and upgrades and can be used to determine the best operating practices for existing systems. The principal information obtained from the Load Flow Study is the magnitude and phase angle of the voltage at each bus and the real and reactive power flowing in each line.
+Voltage Fluctuation Analysis
+Voltage fluctuation studies allow predictions to be made about how new loads will affect the electrical system. If the new loads are expected to cause unacceptable voltage fluctuations to occur, then system improvements can be implemented prior to the new load being energized to avoid the unacceptable voltage fluctuations.
+Fault Studies
+Fault Studies are used to calculate the available fault current at any given point on the electrical system. The available fault current is the maximum current that can flow under the worst possible fault conditions. This data is needed to coordinate protective equipment, to ensure that equipment interruption ratings are not exceeded, and for Arc Flash Hazard Assessments.
+AEI uses analysis software to perform Fault Studies. The analysis software uses symmetrical components for network analysis to determine fault data throughout an electrical system. These techniques permit any system configuration to be analyzed and permit multiple independent systems to be analyzed as a single study.
+DO NOT DELETE
+Protective Device Evaluation Studies
+Coordination/Sectionalizing Studies
+AEI uses analysis software to perform Coordination Studies. The analysis software provides graphical representations of the device coordination, as well as tabulated equipment information such as manufacturer, catalog number, size and settings.
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaeng.us/services/line-design/
+
+Line Design in Indianapolis, IN
+Services
+DB+
+Offering Transmission, Distribution and Fiber Optics for Today’s Demands
+Recognized as a leader in the market, Alpha Engineering, Inc (AEI) specializes in providing complete Line Design for transmission, distribution and fiber optic projects in Indianapolis, IN.
+That’s why we were uniquely positioned to develop our own in-house staking sheet program, known as AlphaStake©. This well-known, innovative program generates printouts of poles that will remain or be installed, transferred or removed. A unit recap is also produced to summarize the total number of units installed, removed or transferred. Furthermore, a material recap is also created with specifics such as quantities, connector sizes and bolt lengths. The material list can be customized to use specific manufacturers and catalog information.
+AEI can also perform distribution line design and staking in a client’s standard staking software. In this way, the line work AEI performs integrates into a utility’s standard workflow practices and process, just like it would for its own staff. Example staking software AEI is experienced in include Futura Systems, Inc., Partner Software, and NISC MapWise.
+AEI also uses PLS-CADDTM for transmission projects. PLS-CADDTM allows for 3D terrain and line modeling, automatic plan and profile sheets, incorporation of aerial photography and compatibility with CAD systems.
+Our professional team is ready to assist you in providing a customized Line Design that not only solves your unique challenges, but exposes opportunities with a comprehensive portfolio of services.
+Our transmission, distribution and fiber optic Line Design services in Indianapolis, IN include:
+Detailed line design
+Bidding and contract documentation
+Unit recap
+PLS-CADDTM for transmission line projects
+Closeout and as-built documentation
+Field layout
+Staking sheets
+Material recap
+Construction inspection and commissioning
+View All Services
+Get In Touch
+Our professionals are always eager to serve you and meet your specific design or power engineering needs.
+DB+
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaeng.us/services/substation-engineering/
+
+Substation Engineering
+Services
+DB+
+Maximize Your Strengths
+At Alpha Engineering, Inc., we help clients build on their strengths. That’s why we go above and beyond by providing every service required for new substation projects, as well as upgrades or expansions to existing substations.
+Our approach encompasses even higher expectations when it comes to our services. Our team of experts not only understands our products and services, but they take the time to listen and understand each and every client’s needs. We make it our top priority that clients benefit from our personalized services and customized solutions.
+Our Substation Design Services include:
+Asset Management and Testing Programs
+Conceptual design and alternative analysis
+Equipment and construction specifications
+Material lists
+Protective relaying settings and coordination
+Grounding and lightning protection design
+Control building
+Cyber and physical security
+Oil containment systems
+Owner’s representative
+Budgetary cost estimates
+Project management and scheduling
+Design, structural, and control drawings
+Site layout
+3D drawings
+SCADA & communications
+NERC-CIP compliance
+Commissioning and training
+View All Services
+Get In Touch
+Our professionals are always eager to serve you and meet your specific design or power engineering needs.
+DB+
+
+--------------------------------------------------------------------------------
+
+URL: https://alphaeng.us/services/renewable-energy/
+
+Renewable Energy Services in Indianapolis, IN
+Services
+At Alpha Engineering, Inc., we provide renewable energy services to private companies and public utilities alike in the greater Indianapolis, IN, area. We want to enable you to be one step ahead of the ever-changing world of sustainability, which is why we make sure to keep ourselves on the cutting edge of sustainable technology and systems.
+Comprehensive Renewable Energy Services
+From diesel-powered backup generators to wind and solar farms, we provide renewable energy solutions for all of your energy needs, no matter the size. In fact, no matter the scale of the project, we always take the time to analyze your needs and constraints so that we can come up with the perfect custom energy solution.
+We are committed to helping you design an effective sustainability solution for your company or utility. When it comes to planning your energy system, we don’t leave anything up to chance — we personally take the time to analyze everything about your situation and work with you to find the perfect answer to your problems.
+The team at Alpha Engineering, Inc., will collaborate with you as we design the entire energy system, from physical interconnections and grounding protection to communication and control over the system. We will also provide as-built construction drawings. All of these things will allow us to draw up proposals for the site layout.
+We will also determine and document the following:
+- Equipment and construction specifications
+- Materials needed
+- Budgetary cost estimates
+As we go through all of these steps, we will work closely with you to make sure that you understand everything we are doing and how it will help your effort to become more sustainable.
+We’ve been in business for over 40 years for a reason — we are committed to exceeding client expectations every step of the way. If you’re ready to find renewable energy solutions to your power problems, contact Alpha Engineering, Inc., at 317.273.9841.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alphaeng.us/services/mapping-cad-services/
+
+CAD Design Solutions in Indianapolis, IN
+Services
+Unlock the Mapping Possibilities
+We position our clients to create advantage by unlocking new and distinct ways of providing innovative, cutting – edge solutions. One way we accomplish this is by offering a wide variety of drafting and plotting services. From best practices to inspired practices, we can plot in color as well on a variety of different types of paper such as glossy, vellum, Mylar or standard ink jet bond.
+So much more…
+To better serve your electrical needs, AEI designs circuit diagrams. These drawings are used for a variety of purposes and can be specialized to your individual needs. Through the use of color and different line weights, our circuit diagrams are very clear and organized to allow maximum usefulness and clarity.
+Work Plan Maps
+Territory Maps
+Circuit Maps
+Truck Maps
+Load Growth Maps
+Township Maps
+Phasing Maps
+Whatever your needs – whatever your timeline, our professional team has the in-depth knowledge to make it a stress-free, cost-efficient project. They are ready to help you connect the dots in order to create a product tailored to your unique needs and specifications.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alphaeng.us/services/smart-grid/
+
+Smart Grid in Indianapolis, IN
+Services
+DB+
+Advances of Smart Grid
+Alpha Engineering, Inc. (AEI) is helping today’s utilities, renewable energy developers, universities, and large commercial and industrial harness the capabilities and advances of the Smart Grid. The Smart Grid broadly refers to the technological, communication, and control functionalities that are rapidly being deployed in the power industry. We are combining our experience in the power industry with cutting edge technology to help our clients deploy programs and devices to improve safety, reliability, capacity, efficiency, and communications. Let us help you not only plan, design, and implement your Smart Grid initiative, but turn the new data into meaningful information using our Data Analytics capabilities.
+Examples of our Smart Grid projects and capabilities include:
+SCADA & Communications Design
+NERC-CIP Compliance
+Volt/Var Management
+Demand Response/Management
+Physical and Cyber Security Best Practices
+Feeder Automation / Self-Healing Schemes
+Data Analytics
+Smart Grid / Communications Roadmap
+View All Services
+Get In Touch
+Our professionals are always eager to serve you and meet your specific design or power engineering needs.
+DB+
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alphaeng.us/services/construction-management/
+
+Construction Management Solutions for Indianapolis, IN
+Services
+DB+
+Multifaceted Solutions, One Seamless Experience
+Our approach to Construction Management is simple. We’re here to support you by providing a wide range of construction and inspection services for substation, distribution and industrial electrical projects in and around the Indianapolis metropolitan area.
+We understand our mission is to work with you through every phase of the project. That’s why we begin by listening – providing cost-effective, impactful solutions that will ensure your project is completed on schedule – all with the goal of building on the foundation of a sustainable business. Our professional team prides itself on being personally engaged and well-versed in preparation of labor and material contracts. The bottom line is that we succeed when your goals and objectives are met.
+Our Construction Management Services include:
+Owner’s representative
+Budgetary cost estimates
+Bid documents
+Assist with bid opening
+Construction inspection and commissioning
+Closeout and as-built documentation
+Conceptual design and alternative analysis
+Construction and equipment specifications
+Pre-bid meetings
+Award recommendation
+Operations procedures and training
+View All Services
+Get In Touch
+Our professionals are always eager to serve you and meet your specific design or power engineering needs.
+DB+
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alphaeng.us/services/gis-field-inventory/
+
+GIS / Field Inventory
+Services
+Mapping With Smarter Solutions
+Our clients want smarter solutions that help them save time and money in an ever-increasing complex environment. That’s why Alpha Engineering, Inc (AEI) utilizes the latest technology for our client’s mapping needs. We offer GIS maps and updates using ESRI’s ArcGIS software package. ArcGIS allows the user to accurately map service areas at the highest levels of precision and detail.
+It’s done with unparalleled, customized accuracy
+Our project managers collect your geographic data by using advanced GPS units. This data is then used to develop a high-quality map with robust analysis capabilities. Each class of features on the map can be uniquely displayed and customized.
+This allows you the capacity to track and maintain inventories of poles, devices, units, wire sizes and phasing through the database capabilities of GIS. Custom queries can be developed to provide you with detailed reports on usage, outages and other critical information, tailored to fit your exact needs.
+For continued support, AEI mapping specialists can update client mapping and GIS data as required or through an ongoing basis. This service can be provided both on-location and remotely. The maps we produce have several different display possibilities, providing you with countless customization possibilities.
+At AEI, we take the time to completely understand your specific goals and objectives, giving you unmatched service and delivering proven results.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alphaeng.us/services/power-quality/
+
+Power Quality
+Services
+DB+
+Designing and Delivering Solutions To Power Quality Challenges
+At Alpha Engineering, Inc. (AEI), we have a deep understanding of the challenges you face with electrical systems and Power Quality concerns. Issues such as extended outages, momentary surges or under or over voltage conditions can impact production, cause unnecessary delays and prove costly to equipment.
+That’s why we offer comprehensive solutions that are results driven and cost-effective. By examining specific parameters such as voltage, current, harmonic content and frequency, AEI performs Power Quality investigations that offer you reliable, practical ways to solve any issues or concerns. These parameters will often be outside of industry-accepted boundaries if an electrical system is functioning poorly. When it comes to Power Quality, we make it our top priority to ensure that your equipment is working properly and that the electrical system’s parameters are within acceptable limits.
+In order to investigate an electrical system, a site survey is performed. The four basic components to a site survey are:
+Determine soundness of the wiring and grounding system
+Establish sources and impact of disturbances on equipment performance
+Verify quality of the AC supply
+Acquire and analyze survey data to guide system improvements or corrective actions if necessary
+We use a variety of industry-standard tools, including:
+PMI Revolution
+AEMC 8335 PowerPad 3-Phase Power Quality Analyzer
+Fluke 43B Single Phase Power Quality Analyzer
+AEMC 3711 Clamp-On Ground Resistance Tester
+Miscellaneous multimeters, oscilloscopes or temperature probes
+Dranetz Power Xplorer PX5
+Reliable Power Meter 1656 Power Recorder (re-branded to Fluke 1750 after RPM was purchased by Fluke)
+AEMC 1040 Megohmmeter Field Kit
+AEMC 4500 Digital Ground Resistance Tester
+View All Services
+Get In Touch
+Our professionals are always eager to serve you and meet your specific design or power engineering needs.
+DB+
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alphaeng.us/services/arc-flash-hazard-analysis/
+
+Arc Flash Hazard Analysis
+Services
+DB+
+Professional and Proactive Strategy
+There’s a reason we’re an industry leader when it comes to Arc Flash Hazard Safety solutions. We are fully committed to helping you solve your challenges through our services, years of experience and in-depth knowledge. Our top priority is making sure we align with your current needs by providing you with a comprehensive Arc Flash Hazard Analysis that results in a safer workplace in the area of your business that matters the most – your people.What is an arc flash? Why is it a hazard?
+An arc flash is often an unwelcome and unforeseen serious electrical hazard created when energy is released during an arcing fault. An arc fault occurs when an energized conductor comes in contact with another object that cannot handle the short-circuit capacity of the energy source. Once the short-circuit current begins to flow, conductive materials can be vaporized, or they can be moved by the mechanical force of the current flow. Either way, current can continue to flow through conductive plasma until the system voltage can no longer sustain the arc or a protective device interrupts the flow of electricity. Consequently, an arc flash can not only cause significant damage to equipment, but more importantly, harm nearby personnel by causing hearing or vision damage, severe burns or even fatalities.What is an AEI Arc Flash Hazard Analysis, and why is it so important?
+An Alpha Engineering, Inc. (AEI) Arc Flash Hazard Analysis is an extensive process performed by our experienced engineers who deliver outstanding service along with transparent access to valuable data. In keeping with OSHA regulations, we also make sure you stay compliant, while at the same time provide you with a comprehensive safety plan moving forward for your employees and your company.The benefits of an Arc Flash Study are significant. They include:
+Development of a single-line diagram
+Completion of a fault study that includes the utility contribution, system impedance and X/R ratios to determine calculated three phase and single-phase faults throughout the electrical system
+Completion of an equipment device coordination study to determine optimum settings of over current protective devices to help assure that the nearest device isolates the fault so other equipment is not unnecessarily shutdown
+Contribute to an electrically safe work environment for employees and contractors
+Identification of safe working distances from energized electrical equipment
+Conclusion of a protective device evaluation to determine the adequacy of all protective devices
+Mitigation of arc flash hazards, keeping the flash hazard category to the lowest possible energy levels
+Creation of arc flash warning labels indicating the potential voltage and arc flash hazards and required PPE at equipment locations throughout a facility
+AEI can provide a complete Arc Flash Evaluation using multiple modeling and analytical software products, including:
+SKM System Analysis Inc’s Power*Tools®
+ETAP®
+Easy Power®
+Milsoft Utility Solutions’ WindMil©.
+View All Services
+Get In Touch
+Our professionals are always eager to serve you and meet your specific design or power engineering needs.
+DB+
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alphaeng.us/services/system-planning-and-studies/
+
+System Planning & Studies
+Services
+Complex Challenges, Straightforward Solutions
+It’s how we do things at Alpha Engineering, Inc (AEI). We take your complex challenges and turn them into workable, comprehensive solutions. Straightforward; cost-efficient; reliable solutions – based on the unique combination of our knowledgeable, experienced team of professionals; a deep understanding of each and every client; and the support of several different types of System Planning and Analysis options. These distinctive studies allow us to develop safe, reliable and efficient electrical systems, tailored to fit any company or facility needs.
+SKM System Analysis, Inc’s Power*Tools®
+Milsoft Utility Solutions’WindMil© and LightTable
+ETAP®
+DO NOT DELETE
+Construction Work Plans
+*RUS Bulletin 17240-101B, System Planning Guide, Construction Work Plans
+Long Range Plans
+**RUS Bulletin 1724D-101A, Electric System Long-Range Planning Guide
+Load Flow Studies
+Load Flow or Power Flow Studies are performed by applying numerical analysis to an electrical power system. The power system being examined is approximated or modeled so the numerical analysis can be performed. The models typically emphasize the real, reactive or apparent power rather than simply the voltage and current. Using computer analysis programs allows AEI to examine power systems in normal, contingency and proposed configurations.
+Load Flow Studies make it possible to plan for future power system expansions and upgrades and can be used to determine the best operating practices for existing systems. The principal information obtained from the Load Flow Study is the magnitude and phase angle of the voltage at each bus and the real and reactive power flowing in each line.
+Voltage Fluctuation Analysis
+Voltage fluctuation studies allow predictions to be made about how new loads will affect the electrical system. If the new loads are expected to cause unacceptable voltage fluctuations to occur, then system improvements can be implemented prior to the new load being energized to avoid the unacceptable voltage fluctuations.
+Fault Studies
+Fault Studies are used to calculate the available fault current at any given point on the electrical system. The available fault current is the maximum current that can flow under the worst possible fault conditions. This data is needed to coordinate protective equipment, to ensure that equipment interruption ratings are not exceeded, and for Arc Flash Hazard Assessments.
+AEI uses analysis software to perform Fault Studies. The analysis software uses symmetrical components for network analysis to determine fault data throughout an electrical system. These techniques permit any system configuration to be analyzed and permit multiple independent systems to be analyzed as a single study.
+DO NOT DELETE
+Protective Device Evaluation Studies
+Coordination/Sectionalizing Studies
+AEI uses analysis software to perform Coordination Studies. The analysis software provides graphical representations of the device coordination, as well as tabulated equipment information such as manufacturer, catalog number, size and settings.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alphaeng.us/services/line-design/
+
+Line Design in Indianapolis, IN
+Services
+DB+
+Offering Transmission, Distribution and Fiber Optics for Today’s Demands
+Recognized as a leader in the market, Alpha Engineering, Inc (AEI) specializes in providing complete Line Design for transmission, distribution and fiber optic projects in Indianapolis, IN.
+That’s why we were uniquely positioned to develop our own in-house staking sheet program, known as AlphaStake©. This well-known, innovative program generates printouts of poles that will remain or be installed, transferred or removed. A unit recap is also produced to summarize the total number of units installed, removed or transferred. Furthermore, a material recap is also created with specifics such as quantities, connector sizes and bolt lengths. The material list can be customized to use specific manufacturers and catalog information.
+AEI can also perform distribution line design and staking in a client’s standard staking software. In this way, the line work AEI performs integrates into a utility’s standard workflow practices and process, just like it would for its own staff. Example staking software AEI is experienced in include Futura Systems, Inc., Partner Software, and NISC MapWise.
+AEI also uses PLS-CADDTM for transmission projects. PLS-CADDTM allows for 3D terrain and line modeling, automatic plan and profile sheets, incorporation of aerial photography and compatibility with CAD systems.
+Our professional team is ready to assist you in providing a customized Line Design that not only solves your unique challenges, but exposes opportunities with a comprehensive portfolio of services.
+Our transmission, distribution and fiber optic Line Design services in Indianapolis, IN include:
+Detailed line design
+Bidding and contract documentation
+Unit recap
+PLS-CADDTM for transmission line projects
+Closeout and as-built documentation
+Field layout
+Staking sheets
+Material recap
+Construction inspection and commissioning
+View All Services
+Get In Touch
+Our professionals are always eager to serve you and meet your specific design or power engineering needs.
+DB+
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alphaeng.us/services/substation-engineering/
+
+Substation Engineering
+Services
+DB+
+Maximize Your Strengths
+At Alpha Engineering, Inc., we help clients build on their strengths. That’s why we go above and beyond by providing every service required for new substation projects, as well as upgrades or expansions to existing substations.
+Our approach encompasses even higher expectations when it comes to our services. Our team of experts not only understands our products and services, but they take the time to listen and understand each and every client’s needs. We make it our top priority that clients benefit from our personalized services and customized solutions.
+Our Substation Design Services include:
+Asset Management and Testing Programs
+Conceptual design and alternative analysis
+Equipment and construction specifications
+Material lists
+Protective relaying settings and coordination
+Grounding and lightning protection design
+Control building
+Cyber and physical security
+Oil containment systems
+Owner’s representative
+Budgetary cost estimates
+Project management and scheduling
+Design, structural, and control drawings
+Site layout
+3D drawings
+SCADA & communications
+NERC-CIP compliance
+Commissioning and training
+View All Services
+Get In Touch
+Our professionals are always eager to serve you and meet your specific design or power engineering needs.
+DB+
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alphaeng.us/services/renewable-energy/
+
+Renewable Energy Services in Indianapolis, IN
+Services
+At Alpha Engineering, Inc., we provide renewable energy services to private companies and public utilities alike in the greater Indianapolis, IN, area. We want to enable you to be one step ahead of the ever-changing world of sustainability, which is why we make sure to keep ourselves on the cutting edge of sustainable technology and systems.
+Comprehensive Renewable Energy Services
+From diesel-powered backup generators to wind and solar farms, we provide renewable energy solutions for all of your energy needs, no matter the size. In fact, no matter the scale of the project, we always take the time to analyze your needs and constraints so that we can come up with the perfect custom energy solution.
+We are committed to helping you design an effective sustainability solution for your company or utility. When it comes to planning your energy system, we don’t leave anything up to chance — we personally take the time to analyze everything about your situation and work with you to find the perfect answer to your problems.
+The team at Alpha Engineering, Inc., will collaborate with you as we design the entire energy system, from physical interconnections and grounding protection to communication and control over the system. We will also provide as-built construction drawings. All of these things will allow us to draw up proposals for the site layout.
+We will also determine and document the following:
+- Equipment and construction specifications
+- Materials needed
+- Budgetary cost estimates
+As we go through all of these steps, we will work closely with you to make sure that you understand everything we are doing and how it will help your effort to become more sustainable.
+We’ve been in business for over 40 years for a reason — we are committed to exceeding client expectations every step of the way. If you’re ready to find renewable energy solutions to your power problems, contact Alpha Engineering, Inc., at 317.273.9841.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alphaeng.us/services/
+
+Electrical Safety Training in Indianapolis, IN
+Alpha Engineering, Inc.
+DB+
+Our Services
+Alpha Engineering, Inc. (AEI) provides innovative and professional engineering and design solutions for the power industry. With substation, asset management, distribution, industrial, renewable energy, and Smart Grid capabilities, AEI has gained a reputation for cutting-edge, technical excellence and high customer satisfaction.
+Renewable Energy
+Whether you need a small diesel backup system or large-scale wind turbines or photovoltaic arrays, Alpha Engineering, Inc. has the expertise to develop the generation and design its interconnection to the utility grid that best fits your needs.
+DB+
+Substation Engineering
+We go above and beyond by providing every service required for new substation projects, as well as upgrades or expansions to existing substations.
+DB+
+Line Design
+Recognized as a leader in the market, Alpha Engineering, Inc (AEI) specializes in providing complete Line Design for transmission, distribution and fiber optic projects.
+DB+
+System Planning & Studies
+Alpha is able develop safe, reliable and efficient electrical systems, tailored to fit any company or facility needs based on the unique combination of our knowledgeable, experienced team of professionals; a deep understanding of each client; and the support of different types of System Planning and Analysis options.
+DB+
+Arc Flash Hazard Analysis
+Our top priority is making sure we align with your current needs by providing you with a comprehensive Arc Flash Hazard Analysis that results in a safer workplace in the area of your business that matters the most – your people.
+DB+
+Power Quality
+Alpha can examine specific parameters such as voltage, current, harmonic content and frequency, AEI performs Power Quality investigations to offer you reliable, practical ways to solve any issues or concerns.
+DB+
+GIS / Field Inventory
+Alpha Engineering, Inc. utilizes the latest technology for our client’s mapping needs. We offer GIS maps and updates using ESRI’s ArcGIS software package. ArcGIS allows the user to accurately map service areas at the highest levels of precision and detail.
+DB+
+Construction Management
+Our mission is to work with you through every phase of the project. That’s why we begin by listening – providing cost-effective, impactful solutions that will ensure your project is completed on schedule – all with the goal of building on the foundation of a sustainable business.
+DB+
+Smart Grid
+We are combining our experience in the power industry with cutting edge technology to help our clients deploy programs and devices to improve safety, reliability, capacity, efficiency, and communications.
+DB+
+Mapping & CAD Services
+Our goal at Alpha Engineering, Inc. is to always give our clients as many options as possible, which is why we also use the most current version of AutoCAD. We also offer a wide variety of drafting and plotting services for our clients.
+DB+
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alphaeng.us/about-us/executive-team/
+
+Executive Team
+Meet Our Team
+Our Team
+Since 1979, we have been passionate about serving others through power and energy solutions.
+The same vision that started this company decades ago remains just as strong today and will continue to guide us into the future. That’s because we never lose sight of our top priority—meeting and exceeding our clients’ expectations—it’s paramount to our success. Our clients proudly include rural electric cooperatives, electric municipalities, investor-owned utilities, commercial and industrial facilities, renewable energy developers, universities, and government agencies.
+Another key to our success is our team of dedicated employees. AEI has steadily expanded its staff due to the demand for its renewable, utility, and industrial services. Our experience and expertise make Alpha Engineering not only the right choice for engineering, design and consulting services for any power or energy project, but also for our exceptional customer support. Every year, we gain a deeper understanding of our industry and an even greater insight into our industry and how we can better serve our clients.
+At Alpha Engineering, we’re passionate about solving problems, providing ethical decision-making, excellence, versatility, effective communication and practical solutions. It’s what we do, reflecting our mission, values and vision all wrapped into one. We look forward to working with you and building your trust by listening to your needs, following through on our commitment, and providing the comprehensive solutions that best align with your company needs.
+
+--------------------------------------------------------------------------------

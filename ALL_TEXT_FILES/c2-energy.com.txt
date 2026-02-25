@@ -1,0 +1,18 @@
+ROOT: https://c2-energy.com/
+SCRAPED_AT_UTC: 2026-02-11T19:52:54.579059Z
+PAGES_INCLUDED: 1
+
+================================================================================
+
+URL: https://c2-energy.com/
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/lvnuo61os28n/public_html/wp-content/plugins/gravityforms/common.php on line 1234
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/lvnuo61os28n/public_html/wp-content/plugins/gravityforms/common.php on line 1271
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/lvnuo61os28n/public_html/wp-content/plugins/gravityforms/common.php on line 1275
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/lvnuo61os28n/public_html/wp-content/plugins/gravityforms/common.php on line 1300
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/lvnuo61os28n/public_html/wp-content/plugins/gravityforms/common.php on line 3076
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/lvnuo61os28n/public_html/wp-content/plugins/gravityforms/common.php on line 3083
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/lvnuo61os28n/public_html/wp-content/plugins/gravityforms/common.php on line 3096
+Fatal error: Redefinition of parameter $subfield_slug in /home/lvnuo61os28n/public_html/wp-content/themes/carboncycle/Cloud/Cloud_Forms/Cloud_Forms.php on line 272
+
+--------------------------------------------------------------------------------

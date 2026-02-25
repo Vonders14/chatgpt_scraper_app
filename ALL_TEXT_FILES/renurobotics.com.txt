@@ -1,0 +1,350 @@
+ROOT: https://renurobotics.com/
+SCRAPED_AT_UTC: 2026-02-11T20:29:17.416571Z
+PAGES_INCLUDED: 24
+
+================================================================================
+
+URL: https://renurobotics.com/
+
+A mowing crew that works like a machine.
+With over 100 units operating in the field, Renu Robotics is revolutionizing the way solar and energy facilities conduct autonomous vegetation management.
+Over 100 Units Operating
+Technology is our bread and butter.
+We are a technology company. Renu’s products know what to do through its continuous learning instruction set.
+Innovative technology designed to trim expenses and grow your bottom line.
+Making the smart choice of Renu Robotics for your vegetation management creates immediate time and budget efficiencies. Plus, you’ll be cutting down your carbon footprint.
+Cut more than landscape.
+Our systems typically save solar and energy facilities 30 – 50 percent versus their current costs. We offer different solutions to meet your business needs.
+Now, time is on your side.
+We can save operators from having to oversee mowing crews, eliminating accidents and utilizing optimum schedules, especially shifting to nighttime mowing.
+Let’s make one thing clear.
+We advance your vision of clean renewable energy by utilizing an all-electric autonomous vehicle. We can help save the environment by drastically cutting carbon emissions.
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/about-us/
+
+Renu Robotics
+The Future Of Autonomous Mowing Is Here
+Over 100 of our units operating in the field
+Renu Robotics manufactures electric autonomous mowers for precision vegetation management on utility-scale solar facilities. Renu has customers in 20 states, ranging from Maine to Hawaii. The Renubot cuts costs, time and carbon emissions. It has a Recharge Pod to autonomously replenish its battery, while Mission Control continuously monitors, oversees and updates the bots’ software in the field.
+The Renubot has multiple innovative features that set the standard for autonomous vehicles in the vegetation management sector.
+Renu’s Recharge Pod
+The Recharge Pod is unique in how it charges and allows for updates and downloads. The Recharge Pod provides protection in all climates and can be equipped with up to nine individual converters for fast charging, allowing for 24/7 mowing schedules when multiple bots are deployed.
+Mission Control
+No other autonomous vehicle has incorporated a Mission Control Center that continuously monitors, controls and sends updates in the field, while allowing access on specific mobile screens to track performance.
+We’re working to show asset owners and O&M providers the valuable contribution Renu Robotics can make in cutting costs, saving time and carbon emissions, while maintaining the grounds for maximum performance of the solar plant.
+We’re excited about the disruptive role we’re playing in shaping the future of vegetation management.
+Leadership Team
+Tim Matus
+Founder
+Combined background in engineering and business leadership to drive innovation in autonomous solutions. Since founding the company in 2018, Tim has led Renu’s growth as a pioneer in vegetation management for the energy industry. A seasoned executive and inventor, he is named on nearly 50 patents spanning welding, robotics and automation.
+Have any questions?
+Contact us today to determine which sales model works best for your facility’s requirements and let Renu Robotics help you save money, time and carbon emissions.
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/technology/
+
+Autonomously Awesome.
+When the Renubot returns to the Recharge Pod it charges and performs updates and downloads.
+Self-Charging
+Self-Charging
+The Recharge Pod provides protection in all climates and can be equipped with additional converters for faster charging, allowing for 24/7 mowing schedules when multiple bots are deployed. The doors automatically open and close for robot access.
+Self-Updating
+Self-Updating
+When the Renubot returns to the Recharge Pod for performance updates, downloads or new instructions, it connects and performs self-diagnostic procedures and reports progress to Mission Control.
+Mission Control.
+We’re continuously enhancing our Mission Control software to monitor, control and update systems in the field.
+Monitoring Capabilities.
+Monitoring Capabilities.
+While the Renubot is a fully autonomous vehicle in the field, asset owners and O&M providers can access specific screens for information about performance, location and maintenance, even with tablets and cell phones. System access can allow for programming, new locations, adjusting schedules and accessing maintenance schedules.
+Have any questions?
+Contact us today to determine which sales model works best for your facility’s requirements and let Renu Robotics help you save money, time and carbon emissions.
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/mission-control/
+
+Mission Control
+Mission Control continuously monitors, controls and updates the bots in the field. Secure system access can allow for security checks, software updates and adjusting maintenance schedules. At any time, asset owners and O&M providers can securely monitor performance, location and schedules with computers, tablets and cell phones.
+Mission Control gives owners and operators peace of mind with a secured and encrypted data flow allowing for a high-level overview of their facilities’ maintenance plan and Renubot management. The center also allows for automatic reporting, triggering of alerts and allowing for text or email messages to be sent to any device with pertinent information.
+Future Mission Control enhancements will include:
+- Enhanced reporting.
+- Enhanced mapping and video/image capture from the Renubot.
+- Real-time communications or chat capabilities between operators and O&M staff.
+In addition, Mission Control is linked to a Service Management System, allowing for a seamless transition for trouble tickets and maintenance repair documentation
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/savings/
+
+Renubot cuts costs, time and carbon emissions.
+Save Money.
+Our systems typically save solar and energy facilities 30 – 50 percent versus their current costs.
+Our autonomous tractors have shown asset owners and O&M providers the valuable contribution they can make in cutting costs, time and carbon emissions, while maintaining the grounds for maximum performance of the facility.
+Save Time.
+We can save operators from having to oversee mowing crews, eliminating accidents and utilizing optimum schedules, especially shifting to nighttime mowing.
+With our experience in the field, Renu Robotics has an end-to-end understanding of vegetation management and how to meet utility-solar plants’ various needs and increase safety.
+Save The Planet.
+We advance your vision of clean renewable energy by utilizing an entirely electric autonomous vehicle. It’s estimated that mowing a 100MW site creates 160,000 pounds of CO2 per year.
+Renubot addresses this issue by helping make solar power cleaner and more affordable, strengthening the future of the solar industry.
+Have any questions?
+Contact us today to determine which sales model works best for your facility’s requirements and let Renu Robotics help you save money, time and carbon emissions.
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/future/
+
+We’ll Be Growing Like Grass in The Future.
+Renu Robotics is revolutionizing the way solar and energy facilities maintain vegetation management, but that doesn’t mean we’re not already planning for the future.
+We’ve been contacted about our future plans and how the Renubot can be adapted or built out to accommodate other day-to-day tasks facilities require.
+Plans include, but are not limited to, solving:
+- Other daily maintenance issues
+- Spraying herbicides
+- Security or 24-hour observation
+- And more, so stay tuned!
+Have any questions?
+Contact us today to determine which sales model works best for your facility’s requirements and let Renu Robotics help you save money, time and carbon emissions.
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/blog/
+
+Media & Press
+-
+Renu Robotics participates in this groundbreaking initiative demonstration of how a state-of-the-art command and control system can seamlessly orchestrate ground-based autonomous vehicles to enhance airport operations, supporting critical tasks such as FOD sweeping, perimeter security, and airfield vegetative maintenance.
+-
+Renu Robotics Appoints Iain Cooper as Chief Executive Officer to Lead Next Phase of Growth
+June 12, 2025
+Renu Robotics, a San Antonio-based leader in autonomous vegetation management for the energy and solar sectors, has named Iain Cooper as its new Chief Executive Officer. Cooper brings over 30 years of global experience in energy technology, with a strong background in innovation, leadership, and scaling advanced technologies.https://www.pr.com/press-release/940676
+-
+With warmer weather comes the need for consistent landscaping, especially over larger areas common to the Great Plains. Ellsworth is no exception, but with varying states of weather and manning issues, consistency can be hard to achieve. To combat this, the base is embracing innovation by using robotic mowers in certain areas across the base.
+-
+It was a whirlwind few days in Las Vegas and here are the highlights:
+-
+San Antonio-based autonomous mobile robot producer Renu Robotics has unveiled a new logo amid rapid growth and a desire to rebrand itself “from startup to full-fledged company.”
+-
+PES caught up with Renu Robotics’ CEO Tim Matus to gauge the up-to-the-minute thinking on autonomy in the solar industry. Is it taking off and what direction could the latest technology be headed next?
+-
+Solar Spotlight: Renu Robotics Is Tackling Utility-Scale Solar Vegetation Management Problems
+March 27, 2023
+In this special edition of Contractor’s Corner, autonomous vegetation maintenance provider Renu Robotics discusses the growing vegetation management needs of an expanding utility-scale solar market and how remote robotic mowing can benefit large-scale solar developers.
+-
+In the days before utility-scale solar facilities stretched to the horizon, vegetation management wasn’t a worry; a small crew could handle it. One longtime industry pro recently told me this was still true as recently as 10 years ago. For the many O&M directors whose number one budget concern is vegetation management, however, that may…
+-
+Airport welcomes latest tech innovations for FLITE funding – Grand Rapids Business Journal
+January 24, 2023
+Gerald R. Ford International Airport is piloting new products and services that will revolutionize local and national travel. Gerald R. The Ford International Airport Authority announced Tuesday, January 24, the third round of companies that will receive grants through the Ford Launchpad for Innovative Technologies and Entrepreneurship, or FLITE, totaling $171,000. One of the first…
+-
+The San Antonio Business Journal covered Renu Robotics’ rapid growth at the end of 2021 and its projected growth in 2022: With a roster of large energy customers that operate solar plants, Renu Robotics has plans to hire more field install technicians, who sell robots at different locations, getting them up and running and training…
+Webcasts
+Have any questions?
+Contact us today to determine which sales model works best for your facility’s requirements and let Renu Robotics help you save money, time and carbon emissions.
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/renu-robotics-unveils-new-logo-representing-companys-upward-trajectory/
+
+Media & Press
+San Antonio-based autonomous mobile robot producer Renu Robotics has unveiled a new logo amid rapid growth and a desire to rebrand itself “from startup to full-fledged company.”
+San Antonio-based autonomous mobile robot producer Renu Robotics has unveiled a new logo amid rapid growth and a desire to rebrand itself “from startup to full-fledged company.”
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/contact/
+
+Let’s Talk How We Can Cut Down On Expenses, Time And Carbon Emissions.
+With over 100 units operating in the field, Renu Robotics is revolutionizing the way solar and energy facilities solve vegetation management problems, so please complete this quick initial report so we can put together the right plan for you:
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/career/
+
+Great People. Great Place To Work. Help Us Save The Planet.
+Renu Robotics is a young company and its influence on solar and other industries is growing exponentially. Do you want to be part of a team that’s literally revolutionary in its impact? Your work can change daily practices in the solar industry as the world’s economies move to renewable energy. The solar industry alone is projected to grow six-fold in less than 10 years. The next technological revolution is robotics, along with AI and autonomous navigation in all its forms. The opportunity to join this team is now – on the proverbial ground floor – and your timing could be life changing.
+Be a part of disruption that will change in the world. Be a part of Renu Robotics.
+Renu Robotics is proud of its employment of military veterans throughout the company.
+Thank you all for your service and the great work you do every day.
+The Renu Crew includes:
+- Aldo O. – U.S. Navy
+- Robert L. – U.S. Navy
+- Brandon S. – U.S. Army
+- Gary F. – U.S. Air Force
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/technology
+
+Autonomously Awesome.
+When the Renubot returns to the Recharge Pod it charges and performs updates and downloads.
+Self-Charging
+Self-Charging
+The Recharge Pod provides protection in all climates and can be equipped with additional converters for faster charging, allowing for 24/7 mowing schedules when multiple bots are deployed. The doors automatically open and close for robot access.
+Self-Updating
+Self-Updating
+When the Renubot returns to the Recharge Pod for performance updates, downloads or new instructions, it connects and performs self-diagnostic procedures and reports progress to Mission Control.
+Mission Control.
+We’re continuously enhancing our Mission Control software to monitor, control and update systems in the field.
+Monitoring Capabilities.
+Monitoring Capabilities.
+While the Renubot is a fully autonomous vehicle in the field, asset owners and O&M providers can access specific screens for information about performance, location and maintenance, even with tablets and cell phones. System access can allow for programming, new locations, adjusting schedules and accessing maintenance schedules.
+Have any questions?
+Contact us today to determine which sales model works best for your facility’s requirements and let Renu Robotics help you save money, time and carbon emissions.
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/savings
+
+Renubot cuts costs, time and carbon emissions.
+Save Money.
+Our systems typically save solar and energy facilities 30 – 50 percent versus their current costs.
+Our autonomous tractors have shown asset owners and O&M providers the valuable contribution they can make in cutting costs, time and carbon emissions, while maintaining the grounds for maximum performance of the facility.
+Save Time.
+We can save operators from having to oversee mowing crews, eliminating accidents and utilizing optimum schedules, especially shifting to nighttime mowing.
+With our experience in the field, Renu Robotics has an end-to-end understanding of vegetation management and how to meet utility-solar plants’ various needs and increase safety.
+Save The Planet.
+We advance your vision of clean renewable energy by utilizing an entirely electric autonomous vehicle. It’s estimated that mowing a 100MW site creates 160,000 pounds of CO2 per year.
+Renubot addresses this issue by helping make solar power cleaner and more affordable, strengthening the future of the solar industry.
+Have any questions?
+Contact us today to determine which sales model works best for your facility’s requirements and let Renu Robotics help you save money, time and carbon emissions.
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/wp-admin
+
+Log In
+Renu Robotics
+Username or Email Address
+Password
+Remember Me
+Lost your password?
+← Go to Renu Robotics
+Privacy Policy
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/wp-content/uploads/2023/05/renu-renu-32524-01-Spec-Sheet-05-15-23.pdf
+
+Recharge Pod
+DIMENSIONS:
+Length = 12 feet
+Width = 7.5 feet
+Height = 5 feet
+Weight = 1,200 pounds
+Renubot
+DIMENSIONS:
+Length = 10 feet
+Width = 6 feet
+Height = 28 inches
+Weight = 1,100 pounds 
+Cut Width = 63 inches
+Zero-Turn Machine
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/wp-content/uploads/2022/08/renu-renu-32524-01-Spec-Sheet-08-22-3.pdf
+
+Recharge Pod
+DIMENSIONS:
+Length = 12 feet
+Width = 7.5 feet
+Height = 5 feet
+Weight = 1,200 pounds
+Renubot
+DIMENSIONS:
+Length = 10 feet
+Width = 6 feet
+Height = 28 inches
+Weight = 1,100 pounds 
+Cut Width = 63 inches
+Zero-Turn Machine
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/coast-autonomous-is-proud-to-be-part-of-a-first-of-its-kind-project-with-the-federal-aviation-administration-and-the-united-states-department-of-defense-at-the-atlantic-city-international-airport/
+
+Media & Press
+COAST Autonomous is proud to be part of a first-of-its-kind project with the Federal Aviation Administration and the United States Department of Defense at the Atlantic City International Airport.
+June 12, 2025
+Renu Robotics participates in this groundbreaking initiative demonstration of how a state-of-the-art command and control system can seamlessly orchestrate ground-based autonomous vehicles to enhance airport operations, supporting critical tasks such as FOD sweeping, perimeter security, and airfield vegetative maintenance.
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/renu-robotics-appoints-iain-cooper-as-chief-executive-officer-to-lead-next-phase-of-growth/
+
+Media & Press
+Renu Robotics Appoints Iain Cooper as Chief Executive Officer to Lead Next Phase of Growth
+June 12, 2025
+Renu Robotics, a San Antonio-based leader in autonomous vegetation management for the energy and solar sectors, has named Iain Cooper as its new Chief Executive Officer. Cooper brings over 30 years of global experience in energy technology, with a strong background in innovation, leadership, and scaling advanced technologies.https://www.pr.com/press-release/940676
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/ellsworth-embraces-innovation-through-use-of-robotic-mowers/
+
+Media & Press
+With warmer weather comes the need for consistent landscaping, especially over larger areas common to the Great Plains. Ellsworth is no exception, but with varying states of weather and manning issues, consistency can be hard to achieve. To combat this, the base is embracing innovation by using robotic mowers in certain areas across the base.
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/re-is-the-largest-renewable-conference-in-the-united-states-and-here-are-thehighlights-from-the-2023-convention-in-las-vegas/
+
+Pippa Stevens, Energy Reporter, CNBC
+September 15, 2023
+It was a whirlwind few days in Las Vegas and here are the highlights:
+A whirlwind few days in Vegas for RE+ – 40K attendees all talking #solar #energystorage #grid #batteries #EVs & more! Here’s some of what I saw ☀️ pic.twitter.com/yDwrRgtbMR — Pippa Stevens (@PippaStevens13) September 15, 2023
+A whirlwind few days in Vegas for RE+ – 40K attendees all talking #solar #energystorage #grid #batteries #EVs & more! Here’s some of what I saw ☀️
+pic.twitter.com/yDwrRgtbMR
+— Pippa Stevens (@PippaStevens13) September 15, 2023
+Contact Rich Dean Email: [email protected]
+Logos, Photos, etc.
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/vegetation-management-now-occurs-anytime-day-or-night/
+
+Media & Press
+PES caught up with Renu Robotics’ CEO Tim Matus to gauge the up-to-the-minute thinking on autonomy in the solar industry. Is it taking off and what direction could the latest technology be headed next?
+PES caught up with Renu Robotics’ CEO Tim Matus to gauge the up-to-the-minute thinking on autonomy in the solar industry. Is it taking off and what direction could the latest technology be headed next?
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/solar-power-world-issue-2/
+
+Media & Press
+Solar Spotlight: Renu Robotics Is Tackling Utility-Scale Solar Vegetation Management Problems
+March 27, 2023
+In this special edition of Contractor’s Corner, autonomous vegetation maintenance provider Renu Robotics discusses the growing vegetation management needs of an expanding utility-scale solar market and how remote robotic mowing can benefit large-scale solar developers.
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/north-american-clean-energy/
+
+Media & Press
+In the days before utility-scale solar facilities stretched to the horizon, vegetation management wasn’t a worry; a small crew could handle it. One longtime industry pro recently told me this was still true as recently as 10 years ago. For the many O&M directors whose number one budget concern is vegetation management, however, that may seem like 100 years ago.
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/airport-welcomes-latest-tech-innovations-for-flite-funding-grand-rapids-business-journal/
+
+Media & Press
+Airport welcomes latest tech innovations for FLITE funding – Grand Rapids Business Journal
+January 24, 2023
+Gerald R. Ford International Airport is piloting new products and services that will revolutionize local and national travel.
+Gerald R. The Ford International Airport Authority announced Tuesday, January 24, the third round of companies that will receive grants through the Ford Launchpad for Innovative Technologies and Entrepreneurship, or FLITE, totaling $171,000.
+One of the first airport-based initiatives in the country, FLITE provides funding to encourage the design, development and pilot testing of new products and services in a live airport environment. FLITE has completed two rounds of funding and will launch a third round this spring.
+The five companies that will receive grant funding through this next round include:
+Business News https://biz.crast.net/airport-welcomes-latest-tech-innovations-for-flite-funding-grand-rapids-business-journal/
+
+--------------------------------------------------------------------------------
+
+URL: https://renurobotics.com/renu-robotics-is-making-plans-to-double-its-workforce-in-2022/
+
+Media & Press
+The San Antonio Business Journal covered Renu Robotics’ rapid growth at the end of 2021 and its projected growth in 2022:
+With a roster of large energy customers that operate solar plants, Renu Robotics has plans to hire more field install technicians, who sell robots at different locations, getting them up and running and training customers in maintenance.
+The company will also be hiring more mission control operators, who operate computers that surveil the robots’ activity and assist them in the field when they need help. Another hiring area will be engineers and software writers. The company is also looking for a network administrator.
+The growth of Renu Robotics will require a bigger building soon, Matus said, adding that the company is scoping out locations.
+San Antonio Business Journal, https://www.bizjournals.com/sanantonio/news/2022/01/18/renu-robotics-is-making-plans-to-double.html
+
+--------------------------------------------------------------------------------

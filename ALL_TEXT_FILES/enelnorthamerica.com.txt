@@ -1,0 +1,829 @@
+ROOT: https://enelnorthamerica.com/
+SCRAPED_AT_UTC: 2026-02-11T20:02:44.709203Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://enelnorthamerica.com/
+
+Clean and flexible solutions for a reliable energy future
+Turn your clean energy ambitions into action and remove the complexity of navigating the energy transition profitably. Enel North America is your partner that meets you where you are – and gets you where you need to go.
+What We Do
+Integrated clean energy solutions
+Create competitive advantage and maximize value with our suite of solutions that enable your organization to be more flexible in how you acquire and use energy, ensure the continuity of your operations, and advance your decarbonization journey.
+Turning ambition into action, responsibly
+Enel has advanced clean energy in the U.S. and Canada with a long-term vision of responsible decarbonization – for customers, local communities, the grid, and our operations. Throughout our 20-year history in North America and our 60+ years operating globally, we’ve maintained an unmatched commitment to sustainability and creating shared value in society. With Enel, you get to net zero with integrity.
+Renewables
+100%
+Our energy generation fleet is fully renewables-based
+Investment
+$2.3B
+Toward scaling up clean energy technology through 2026
+Customers
+4.5K+
+Including corporate, industrial, utilities and cities
+Sustainability
+$1.5M
+Invested in local communities in 2024 to create shared value
+
+--------------------------------------------------------------------------------
+
+URL: https://www.enelnorthamerica.com/contact-us/contact-our-team
+
+Contact Enel
+Thank you for your interest in Enel North America – we can’t wait to connect with you. Please choose one of the options below to contact us.
+How can we help you?
+Other frequent questions
+Are you a landowner interested in leasing your land?
+We partner with hundreds of landowners across rural America who lease their land for renewables projects and receive a monthly steady income.
+Are you a community partner looking for support?
+We associate with environmental, educational, and community-led organizations. To learn more about local funding, sponsorships or power plant tours, write to us
+Are you an innovator looking for an open challenge?
+We collaborate with startups, entrepreneurs, students, and innovators to find innovative solutions that accelerate green technology development.
+Are you an EV charging customer looking for help?
+Enel X Way USA, LLC ceased operations on Oct. 11, 2024. Customer support is no longer available, any Enel X Way USA related questions should be directed to the website address below.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.enelnorthamerica.com/about-us/newsroom/search-photos
+
+Homepage
+{{ item.label }}
+Selected item
+{{ contactUsCta.label }}
+{{ navigationCta.text }}
+{{currentSuggestions.title}}
+{{item}}
+{{item.text}}
+{{ navigationCta.text }}
+{{ item.label }}
+Selected item
+{{ secondLevelCta.label }}
+{{ jsonLinks.section }}
+{{ jsonLinks.section }}
+{{ item.label }}
+{{ jsonLinks.section }}
+{{ jsonLinks.section }}
+{{ item.label }}
+{{ jsonLinks.section }}
+{{ jsonLinks.section }}
+{{ item.label }}
+{{ jsonLinks.section }}
+{{ jsonLinks.section }}
+{{ item.label }}
+{{ jsonLinks.section }}
+{{ jsonLinks.section }}
+{{ item.label }}
+{{ jsonLinks.section }}
+{{ jsonLinks.section }}
+{{ item.label }}
+Enel group
+{{ contactUsCta.label }}
+{{ secondLevelCta.label }}
+{{item}}
+All
+Stories
+Press Releases
+Videos
+Photos
+Selected Item
+Show filters
+Filter
+{{dropdown.label}}
+{{activeFilters[dropdown.slug] ? activeFilters[dropdown.slug].length : "0"}}
+{{areListsActived[index] && !isMobileFilterOpen ? dropdown.selectedFilters[0] : dropdown.label}}
+{{dropdown.value.from || "Any"}} - {{dropdown.value.to || "Today"}}
+{{dropdown.label}}
+Category
+{{dropdownItem.name}}
+{{(dropdown.isCollapseOpen ? "Close all":"Show all") + " " + dropdown.collapseLabel}}
+Period
+{{dropdown[field].name}}
+{{dropdown[field].error}}
+{{(new Date(dropdown[dropdown.currentField].value).getFullYear())}}
+{{name}}
+{{content.cta}}
+{{count}} results
+Clear all
+Renewables
+Renewables
+{{content.items.length}} results
+{{content.mediaInfo}}
+{{content.downloadLink}}
+{{content.category}}
+Load more
+{{title}}
+{{parsedText}}
+Facebook
+Desktop Icon
+Twitter
+Youtube
+Messenger
+Linkedin
+Instagram
+Shared Link Icon
+Checkmark Icon
+Chevron Icon
+Close Icon
+Add Icon
+Increase Icon
+Arrow Oblique Icon
+Arrow Down Icon
+Search Icon
+icons.alternativeSearch.title
+icons.alternativeSearch.desc
+Share Icon
+Filter Icon
+Email icon
+Icon Email Outline
+Icon Phone Outline
+Icon Fax OutlineFax outline icon
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Print icon
+User icon
+An icon representing a user
+icons-info-outline-title
+icons-info-outline-desc
+Icon Thumb Up
+Icon Thumb Down Up
+Icon Thumb Down Outline
+Icon Phone
+Icon Emergency
+Icon Thumb Down
+icons-list-view-title
+Icon Map View
+Icon Pause
+Pause button icon
+An icon representing a Pause button
+Pause button icon
+Pause button icon
+Pause button icon
+Pause button icon
+Shape blue circle icon
+An icon representing a blue circle
+Shape green triangle icon
+An icon representing a green triangle
+Shape red square icon
+An icon representing a red square
+Logout button icon
+An icon representing a Logout button
+Eye Outline icon
+An icon for show password
+Eye icon
+An icon for show password
+Dark site banner icon
+An icon representing a dark site banner
+Lamp icon
+An icon representing a something new inside aria banner
+Time icon
+An icon representing time
+Bulb icon
+An icon representing a bulb
+World icon
+An icon representing world
+Person icon
+An icon representing a person
+
+--------------------------------------------------------------------------------
+
+URL: https://www.enelnorthamerica.com/about-us/newsroom/search-videos
+
+Homepage
+{{ item.label }}
+Selected item
+{{ contactUsCta.label }}
+{{ navigationCta.text }}
+{{currentSuggestions.title}}
+{{item}}
+{{item.text}}
+{{ navigationCta.text }}
+{{ item.label }}
+Selected item
+{{ secondLevelCta.label }}
+{{ jsonLinks.section }}
+{{ jsonLinks.section }}
+{{ item.label }}
+{{ jsonLinks.section }}
+{{ jsonLinks.section }}
+{{ item.label }}
+{{ jsonLinks.section }}
+{{ jsonLinks.section }}
+{{ item.label }}
+{{ jsonLinks.section }}
+{{ jsonLinks.section }}
+{{ item.label }}
+{{ jsonLinks.section }}
+{{ jsonLinks.section }}
+{{ item.label }}
+{{ jsonLinks.section }}
+{{ jsonLinks.section }}
+{{ item.label }}
+Enel group
+{{ contactUsCta.label }}
+{{ secondLevelCta.label }}
+{{item}}
+All
+Stories
+Press Releases
+Videos
+Selected Item
+Photos
+Show filters
+Filter
+{{dropdown.label}}
+{{activeFilters[dropdown.slug] ? activeFilters[dropdown.slug].length : "0"}}
+{{areListsActived[index] && !isMobileFilterOpen ? dropdown.selectedFilters[0] : dropdown.label}}
+{{dropdown.value.from || "Any"}} - {{dropdown.value.to || "Today"}}
+{{dropdown.label}}
+Category
+{{dropdownItem.name}}
+{{(dropdown.isCollapseOpen ? "Close all":"Show all") + " " + dropdown.collapseLabel}}
+Period
+{{dropdown[field].name}}
+{{dropdown[field].error}}
+{{(new Date(dropdown[dropdown.currentField].value).getFullYear())}}
+{{name}}
+{{content.cta}}
+{{count}} results
+Clear all
+Renewables
+Renewables
+{{content.items.length}} results
+{{content.category}}
+Load more
+{{title}}
+{{parsedText}}
+Facebook
+Desktop Icon
+Twitter
+Youtube
+Messenger
+Linkedin
+Instagram
+Shared Link Icon
+Checkmark Icon
+Chevron Icon
+Close Icon
+Add Icon
+Increase Icon
+Arrow Oblique Icon
+Arrow Down Icon
+Search Icon
+icons.alternativeSearch.title
+icons.alternativeSearch.desc
+Share Icon
+Filter Icon
+Email icon
+Icon Email Outline
+Icon Phone Outline
+Icon Fax OutlineFax outline icon
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Print icon
+User icon
+An icon representing a user
+icons-info-outline-title
+icons-info-outline-desc
+Icon Thumb Up
+Icon Thumb Down Up
+Icon Thumb Down Outline
+Icon Phone
+Icon Emergency
+Icon Thumb Down
+icons-list-view-title
+Icon Map View
+Icon Pause
+Pause button icon
+An icon representing a Pause button
+Pause button icon
+Pause button icon
+Pause button icon
+Pause button icon
+Shape blue circle icon
+An icon representing a blue circle
+Shape green triangle icon
+An icon representing a green triangle
+Shape red square icon
+An icon representing a red square
+Logout button icon
+An icon representing a Logout button
+Eye Outline icon
+An icon for show password
+Eye icon
+An icon for show password
+Dark site banner icon
+An icon representing a dark site banner
+Lamp icon
+An icon representing a something new inside aria banner
+Time icon
+An icon representing time
+Bulb icon
+An icon representing a bulb
+World icon
+An icon representing world
+Person icon
+An icon representing a person
+
+--------------------------------------------------------------------------------
+
+URL: https://www.enelnorthamerica.com/about-us/newsroom/media-resources
+
+{{article.category}}
+Media resources
+Explore Enel multimedia resources including logos, photos, videos and more.
+Logos
+Other logos
+Download requires following our brand guidelines.
+Photos
+Videos
+Media assets are free for editorial broadcast, print, and online use. Please include the following credit: “Photo/video courtesy of Enel North America”.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.enelnorthamerica.com/about-us/newsroom/search-press
+
+{{content.descr}}
+{{content.enelCodeLabel}}
+{{content.enelCode}}
+{{item.period}}
+{{content.extraInformationLabel}}
+{{item.amount}}
+
+--------------------------------------------------------------------------------
+
+URL: https://www.enelnorthamerica.com/about-us/newsroom/search-stories
+
+{{content.descr}}
+{{content.enelCodeLabel}}
+{{content.enelCode}}
+{{item.period}}
+{{content.extraInformationLabel}}
+{{item.amount}}
+
+--------------------------------------------------------------------------------
+
+URL: https://www.enelnorthamerica.com/about-us/newsroom
+
+{{article.category}}
+Leap And Enel Partner To Accelerate Nationwide Growth Of Virtual Power Plants
+December 16, 2025
+Keep up to date on the latest news about Enel North America. Discover our stories, press releases, multimedia and more.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.enelnorthamerica.com/about-us/enel-in-north-america/responsible-governance
+
+Responsible governance
+Underpinning its work, the Enel Group has a solid system of ethics. This system is a dynamic collection of rules constantly oriented toward introducing the best international practices, which all the people who work at Enel and for Enel must comply with and apply in their daily work.
+Embedding a system of accountability
+Enel's corporate governance rules constitute a fundamental framework to ensure efficient and successful management. Furthermore, it serves as a reliable control tool for the activities carried out by the company, aiming for value creation for all stakeholders.
+Policy on Human Rights
+Aligned to the United Nations Guiding Principles on Business and Human Rights, Enel Group’s Policy on Human Rights sets out the commitments and responsibilities that apply to our employees globally, and promotes respect for the Policy by our contractors, suppliers and commercial partners.
+Ethical Channel
+In partnership with EthicsPoint, we offer a channel for internal and external stakeholders to report any actual or suspected violations by Enel personnel or those acting on its behalf, including behaviors and practices that could be the cause of financial or reputational damage for Enel.
+Anti-Bribery Policy
+We are fully committed to the prevention of bribery and to conducting business ethically and transparently. We have implemented and maintain an Anti-Bribery Management System, which is underpinned by our Anti-Bribery Policy.
+Our Global Compliance Program
+Underpinning its work, Enel North America is guided by the Enel Group’s Code of Ethics and Global Compliance Program. This system is constantly oriented at introducing the best international practices, which all the people who work with or for Enel must apply in their work. If you want to learn more about our corporate governance system, visit our global website www.enel.com.
+Upholding dignity, respect and human rights
+We believe that respecting human rights is the basis for sustainable progress. We strive to ensure that every individual involved in our supply chain is treated with dignity and respect, through proactive monitoring, engagement with stakeholders and transparent reporting.
+To uphold human rights in our work, we have made clear public commitments that we seek to embed across our entire value chain and areas of operations. To mitigate potential impacts, we carry out robust due diligence and provide access to remedy.
+Our commitment
+We take a strategic approach to upholding human rights, working to embed them across our business operations.
+Demonstrating our commitment publicly through our Human Rights Policy
+Embedding our commitment across operating policies and procedures, training and governance
+Due diligence
+We identify salient issues – the most relevant topics – for our business operations and supply chain to focus our efforts.
+Gap identification and definition of potential improvement plans
+Engagement with stakeholders, including customers, employees, procurement and business partners, and communities
+Access to remedy
+We provide opportunities for people and communities who have been impacted by our work to receive adequate remedy.
+Providing easily accessible information on grievance channels
+Redressing impacts identified in legacy projects
+Creating a robust and sustainable supply chain
+As a leader in the clean energy economy, our value chain is unique. We balance maintaining a reliable supply chain while serving our customers in a sector that is evolving quickly.
+Our suppliers range from more traditional energy and construction vendors to land leases and demand response agreements and virtual power purchase agreements (VPPAs).
+Our Supplier Performance Management (SPM) encourages and monitors supplier collaboration and improvement. Specific indicators like Quality, Punctuality and Environment form the Supplier Performance Index (SPI), influencing tender participation and contract maintenance.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.enelnorthamerica.com/about-us/enel-in-north-america/leadership-team
+
+{{article.category}}
+Michele Di Murro
+CEO of Enel North America
+Read more
+Enel North America's top management brings vast and diverse experience leading the clean energy transition around the world.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.enelnorthamerica.com/about-us/our-story
+
+{{article.category}}
+Our history accelerates our journey toward a clean energy future
+For over 20 years, Enel North America has supported the clean energy transition in the US and Canada, first as an early pioneer in renewables to becoming one of the top clean energy companies accelerating the electrification of the economy today.
+Major Milestones
+Building a brighter future, one year at a time
+From building the first triple hybrid power plant worldwide in Nevada to powering race cars on the streets of Brooklyn, Enel North America’s history has centered around advancing a more sustainable energy future in the US and Canada since the start of the new millennium.
+{{ content.text }}
+
+--------------------------------------------------------------------------------
+
+URL: https://www.enelnorthamerica.com/about-us/our-purpose
+
+Our purpose and vision
+Our vision to tackle some of the world’s biggest challenges aims to create an electric, clean energy future where everyone thrives. Enel North America empowers sustainable progress, with the goal to leave no one behind leading a just energy transition accessible to all.
+Our Purpose
+Build the future through sustainable power
+We are a company driven by our mission to make energy more reliable, flexible and sustainable. Our goal? Enable businesses, communities and individuals to thrive in a clean energy future.
+By building a clean electric grid everyone can rely on, we ensure our solutions reach more and more people in an increasing number of cities and local communities, boosting local economies, creating more jobs and helping power modern life and reliably deliver the clean power our customers need.
+Build the future through sustainable power is our purpose at Enel in North America and around the world. Is the foundation of our daily commitment and the driving force behind the Enel team's motivation. With sustainability top of mind, we'll rise to the challenge of driving climate action with our people, partners, and communities.
+Drive electrification, fulfilling people’s needs and shaping a better world
+We lead energy transition by facilitating access to cleaner and more energy-efficient solutions.
+We stand with people, empowering them to consciously manage their energy consumption, thereby actively contributing to a more sustainable lifestyle.
+We always show respect and commitment to future generations and protect the environment by building a sustainable and better future for all, with long-term vision
+Powering Change
+A just and inclusive energy transition
+As a mission-driven energy company, Enel North America has placed environmental, social and economic sustainability at the center of everything we do. Our sustainable development system creates shared value for the company and all its stakeholders.
+We are committed to leading a transition to a green economy in which vulnerable populations are not only included but become protagonists of this new era. We reskill through green workforce programs, create more stable, local jobs and accelerate electrification, supporting affordable access to clean energy for everyone. Enel is devoted to leading a just and inclusive energy transition that leaves no one behind.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.enelnorthamerica.com/about-us/enel-in-north-america
+
+About Enel North America
+Across the US and Canada, Enel North America is electrifying the economy and advancing a just transition to 100% renewable electricity. As a clean energy leader, we have one central aim: build a zero emissions future where everyone can thrive.
+The clean energy leader and innovator making clean electrification possible
+Enel North America is a clean energy leader and innovator that’s electrifying the economy with a mission to combat the climate crisis and build a zero emissions future in the US and Canada. As part of Enel Group, one of the largest integrated players in the global power and renewables market, Enel North America works with customers, partners and local communities to transition to a 100% clean electrified economy. We have an unmatched commitment to sustainability and a just and inclusive energy transition for all. For over 20 years, Enel has advanced the economic, social and environmental benefits of clean electrification in the US and Canada.
+Renewable Capacity
+11.3 GW
+Operational portfolio: wind and solar
+DR Capacity
+4.8 GW
+Demand response capacity in North America
+Storage Capacity
+1.4 GW
+Utility-scale energy storage capacity
+Employees
+850+
+Working from site, office and hybrid settings
+Customers
+4.5K+
+Businesses, utilities and cities of every size
+What We Do
+We’re building a clean and flexible grid
+Enel North America delivers sustainable energy solutions that shape an electric grid everyone can rely on. By using 100% clean electricity, our solutions create competitive advantages and cut carbon without cutting corners.
+From renewable energy generation to utility-scale battery energy storage to demand response, Enel’s operations in the US and Canada provide our customers, partners and communities with great value from a clean energy economy.
+Renewables & storage
+As the fourth-largest owner of clean power in the US, we develop, build and operate renewable energy projects. We also provide grid reliability and resiliency through our utility-scale energy storage portfolio.
+Demand response
+As the global leader in demand response, we work with organizations to develop demand response participation plans that maximize earnings, minimize operational disruption, and enable a more resilient and flexible grid.
+Energy trading
+Through our Energy & Commodity Management business we interact with wholesale energy markets, managing and maximizing the integrated gross energy margin and dispatching local generation fleets.
+Financial Strength
+Our sustained growth in numbers
+Numbers reflect Enel 2023 performance
+Leadership Team
+Michele Di Murro, CEO of Enel North America
+Michele has been leading a more reliable energy future as Chief Executive Officer (CEO) of Enel North America since February 2025. He brings 15+ years of multinational experience, including top positions within Enel Group.
+Corporate governance
+Enel abides by a Code of Ethics oriented toward introducing the best international practices which all people who work in and for Enel must comply with.
+Goals and progress
+Without transparency, true progress is impossible. Enel North America is accountable for its commitments and sustainable objectives.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.enelnorthamerica.com/content/enel-na/en/about-us
+
+About Enel North America
+Across the US and Canada, Enel North America is electrifying the economy and advancing a just transition to 100% renewable electricity. As a clean energy leader, we have one central aim: build a zero emissions future where everyone can thrive.
+The clean energy leader and innovator making clean electrification possible
+Enel North America is a clean energy leader and innovator that’s electrifying the economy with a mission to combat the climate crisis and build a zero emissions future in the US and Canada. As part of Enel Group, one of the largest integrated players in the global power and renewables market, Enel North America works with customers, partners and local communities to transition to a 100% clean electrified economy. We have an unmatched commitment to sustainability and a just and inclusive energy transition for all. For over 20 years, Enel has advanced the economic, social and environmental benefits of clean electrification in the US and Canada.
+Renewable Capacity
+11.3 GW
+Operational portfolio: wind and solar
+DR Capacity
+4.8 GW
+Demand response capacity in North America
+Storage Capacity
+1.4 GW
+Utility-scale energy storage capacity
+Employees
+850+
+Working from site, office and hybrid settings
+Customers
+4.5K+
+Businesses, utilities and cities of every size
+What We Do
+We’re building a clean and flexible grid
+Enel North America delivers sustainable energy solutions that shape an electric grid everyone can rely on. By using 100% clean electricity, our solutions create competitive advantages and cut carbon without cutting corners.
+From renewable energy generation to utility-scale battery energy storage to demand response, Enel’s operations in the US and Canada provide our customers, partners and communities with great value from a clean energy economy.
+Renewables & storage
+As the fourth-largest owner of clean power in the US, we develop, build and operate renewable energy projects. We also provide grid reliability and resiliency through our utility-scale energy storage portfolio.
+Demand response
+As the global leader in demand response, we work with organizations to develop demand response participation plans that maximize earnings, minimize operational disruption, and enable a more resilient and flexible grid.
+Energy trading
+Through our Energy & Commodity Management business we interact with wholesale energy markets, managing and maximizing the integrated gross energy margin and dispatching local generation fleets.
+Financial Strength
+Our sustained growth in numbers
+Numbers reflect Enel 2023 performance
+Leadership Team
+Michele Di Murro, CEO of Enel North America
+Michele has been leading a more reliable energy future as Chief Executive Officer (CEO) of Enel North America since February 2025. He brings 15+ years of multinational experience, including top positions within Enel Group.
+Corporate governance
+Enel abides by a Code of Ethics oriented toward introducing the best international practices which all people who work in and for Enel must comply with.
+Goals and progress
+Without transparency, true progress is impossible. Enel North America is accountable for its commitments and sustainable objectives.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.enelnorthamerica.com/about-us/newsroom?scrollTo=media-contacts
+
+{{article.category}}
+Leap And Enel Partner To Accelerate Nationwide Growth Of Virtual Power Plants
+December 16, 2025
+Keep up to date on the latest news about Enel North America. Discover our stories, press releases, multimedia and more.
+
+--------------------------------------------------------------------------------
+
+URL: https://enelnorthamerica.com/content/enel-na/en/about-us/newsroom/search-press
+
+{{content.descr}}
+{{content.enelCodeLabel}}
+{{content.enelCode}}
+{{item.period}}
+{{content.extraInformationLabel}}
+{{item.amount}}
+
+--------------------------------------------------------------------------------
+
+URL: https://www.enelnorthamerica.com/en
+
+Clean and flexible solutions for a reliable energy future
+Turn your clean energy ambitions into action and remove the complexity of navigating the energy transition profitably. Enel North America is your partner that meets you where you are – and gets you where you need to go.
+What We Do
+Integrated clean energy solutions
+Create competitive advantage and maximize value with our suite of solutions that enable your organization to be more flexible in how you acquire and use energy, ensure the continuity of your operations, and advance your decarbonization journey.
+Turning ambition into action, responsibly
+Enel has advanced clean energy in the U.S. and Canada with a long-term vision of responsible decarbonization – for customers, local communities, the grid, and our operations. Throughout our 20-year history in North America and our 60+ years operating globally, we’ve maintained an unmatched commitment to sustainability and creating shared value in society. With Enel, you get to net zero with integrity.
+Renewables
+100%
+Our energy generation fleet is fully renewables-based
+Investment
+$2.3B
+Toward scaling up clean energy technology through 2026
+Customers
+4.5K+
+Including corporate, industrial, utilities and cities
+Sustainability
+$1.5M
+Invested in local communities in 2024 to create shared value
+
+--------------------------------------------------------------------------------
+
+URL: https://www.enelnorthamerica.com/content/enel-na/en/about-us/newsroom/search-press
+
+{{content.descr}}
+{{content.enelCodeLabel}}
+{{content.enelCode}}
+{{item.period}}
+{{content.extraInformationLabel}}
+{{item.amount}}
+
+--------------------------------------------------------------------------------
+
+URL: https://enelnorthamerica.com/content/enel-na/en/solutions/energy-solutions/demand-response
+
+Are you a utility looking to manage peak demand more efficiently?
+Partner with Enel to offer your C&I customers the opportunity to participate in demand response programs that support reliability and cut costs.
+Earn payments for reducing energy consumption through demand response programs, while supporting grid flexibility and reliability.
+With most commodities, value is determined by two key factors: price and quantity. But when it comes to energy, a third component – time – plays a big role. When facilities use energy is just as important as the price they pay for it and how much they use. Ultimately, a facility’s ability to be flexible about when they use energy represents both a value and a cost.
+Utility and grid-sponsored demand response programs allow organizations to monetize that flexibility. Demand response provides payments to large energy consumers that agree to reduce their energy demand during times of electricity grid stress to help the grid remain in balance and avoid blackouts – a win-win for both organizations looking to boost their bottom line, and the communities they serve.
+Demand response plays a large role in enabling a more resilient and flexible grid. Supply and demand for electricity must remain in balance – when demand goes up, utilities and grid operators have a few options – risk a blackout, buy electricity in open markets, fire up a fossil fuel powered peaker plant, or dispatch a demand response network. When the grid anticipates the need for support, it dispatches a signal to demand response companies, like Enel North America. Enel makes it easy to participate – watch our video to learn more.
+Demand response programs pay you to reduce consumption, helping the grid balance supply and demand.
+Less money spent on overhead costs – like energy – boosts your bottom line and unlocks additional opportunities.
+A cost-effective alternative to building new power plants, demand response contributes to a cleaner, more reliable grid.
+Through demand response, design an energy reduction strategy based on operations, safety, and comfort.
+Save on-bill through avoidance of peak demand charges and real-time energy rates.
+Real-time data access for your facility helps you understand how you use energy and maximizes efficiency.
+
+--------------------------------------------------------------------------------
+
+URL: https://enelnorthamerica.com/content/enel-na/en/solutions/energy-solutions/building-automation-with-demand-response
+
+Zero-CapEx building automation with demand response
+Leverage Enel’s innovative financing option, FlexUp, to deploy a building management system (BMS) with no out-of-pocket expense – and boost your demand response earnings while streamlining your facility operations through automation.
+What Is FlexUp?
+Unlock new revenue and efficiencies with building automation – no CapEx required
+For certain companies, participating in demand response can be highly labor-intensive without automation. Manual curtailment is inefficient, hampers revenue potential, and can even prevent participation. In addition, companies are leaving money on the table by losing access to lucrative fast-response and high-frequency programs. What if you could participate in demand response and not even have to lift a finger?
+A building management system (BMS) can transform a company’s operations. They can streamline and simplify their demand response curtailment strategies with automation, increasing their ability to participate and earn revenue – all while leveraging automation to simplify their facility’s operational processes and manage their energy more efficiently and effectively. And through Enel, companies can deploy a BMS with no upfront cost.
+How It Works
+How does Enel’s FlexUp financing solution work?
+Enel North America’s innovative financing solution, FlexUp, leverages the value of demand response to enable building automation. Here’s how FlexUp works:
+- Enel pays the upfront costs of a BMS, so you have zero out-of-pocket costs.
+- Enel works directly with Honeywell to install the BMS at your facility – if you already have a provider, Enel will work directly with them.
+- You pay back the BMS costs through your demand response earnings until the entire system is paid off, which typically takes two years or less.
+This near-zero risk financing option offers significant benefits – you can own a building management system and reap the benefits of building automation immediately at your facility, before earning additional revenue with demand response.
+Benefits
+Building automation offers value to both demand response and your facility’s efficiency
+Improve energy efficiency
+Centralize energy management and proactively manage building infrastructure and processes to use energy more efficiently.
+Drive energy cost savings
+Automate monitoring and control of energy assets to optimize energy usage, minimize waste, and reduce costs.
+Speed up operations and response time
+Remove the manual effort involved in managing energy assets across a facility’s energy infrastructure.
+Access new lucrative demand response programs
+Increase your demand response earnings by automating your curtailment to participate in fast-response programs.
+Improve demand response dispatch performance
+Respond promptly and with minimal effort to improve performance and enable more consistent revenue generation.
+Reduce the need for manual intervention
+With automation, employees can remain focused on their day-to-day tasks, even during demand response events.
+Recommended For
+What types of companies should consider building automation?
+Many companies today are adding building automation or already leveraging it to optimize their energy usage while minimizing the effort required to operate. Here are a few examples of industries that are finding value in automation and the types of assets and processes they are automating:
+Cold storage operations: automation monitors and controls fridge temperatures
+Commercial offices and retail stores: a BMS helps manage items like lighting and HVAC, all with easy-to-use controls
+Water management: automation helps to control municipal water pumps, including WTP and WWTP systems, in addition to well pumps
+Farming and agriculture: automation is essential to easily control pumps and lights that may need to be turned off quickly, and other water-related activities
+Industrial organizations: automation controls production or processing lines at industrial sites
+Food manufacturing: building automation controls production or processing lines
+
+--------------------------------------------------------------------------------
+
+URL: https://www.enelnorthamerica.com/insights/ebooks/building-automation-into-your-energy-strategy
+
+Building automation into your energy strategy
+02 26, 2024
+{{ content.title }}
+{{ content.description }}
+Automation has become an integral part of modern life, simplifying various tasks and adding convenience to everyday life. As they seek to improve operational efficiency and minimize manual labor in managing and optimizing energy infrastructure, increasing numbers of companies are contemplating or actively investing in automation to streamline processes and enable employees to concentrate on their core responsibilities.
+The rewards of being flexible with your energy use – and automating that energy flexibility – are numerous. Automation opens up new opportunities for getting the most out of your energy flexibility – lower energy costs, higher demand response earnings, enhanced performance, greater energy efficiency, and more informed decision-making, to name a few.
+In this eBook, you’ll discover:
+- Why automation of flexible assets is essential to any successful energy strategy – and insight into what assets at your facility can be flexible
+- Strategies that commercial and industrial companies are leveraging to automate their energy flexibility and overarching energy infrastructure – including building automation and predictive, real-time energy cost analytics
+- Specific examples from various commercial and industrial industries around how they are being flexible with their energy use and automating that flexibility
+- And more!
+
+--------------------------------------------------------------------------------
+
+URL: https://enelnorthamerica.com/content/enel-na/en/solutions/energy-solutions/dynamic-dr
+
+DynamicDR
+forecast | automate | optimize
+Maximize the economics of your energy in a holistic, efficient manner. Optimize your demand response (DR) participation and manage energy costs more effectively with real-time forecasting of price, load, and coincident peaks – all within a single platform.
+What Is DynamicDR?
+Drive exceptional performance through insightful energy data, analytics, and forecasting
+Energy market volatility can significantly impact the bottom line for large energy users, as electricity consumption is often one of the most significant operating expenses. These companies need to optimize their energy consumption to ensure they operate when it’s most economical. They care about the full scope of their energy bill, not just demand response (DR) revenue streams. Real-time analytics and efficient energy management tools are essential to achieving a holistic, optimized strategy.
+Plan better and perform better with real-time insights. DynamicDR, our leading-edge event-based cost management tool, provides the insights large energy users need to identify the optimum energy management strategies. DynamicDR allows operations and P&L owners to make informed, proactive decisions around operating conditions and drive meaningful curtailment strategies and cost reductions.
+How It Works
+How does DynamicDR work?
+DynamicDR unlocks real-time, actionable insights, enabling companies to gain visibility into their energy costs, optimize their energy assets, and make informed decisions that drive revenue growth. By leveraging the platform’s demand response optimization capabilities, companies can reduce their energy consumption during peak demand periods and avoid high energy costs while still accessing the benefits of demand response payments offsetting energy costs.
+Benefits
+Price avoidance + coincident peak mitigation + demand response = DynamicDR
+Make informed economic decisions
+Reduce energy costs through coincident peak shaving, high price avoidance, and demand response strategies based on individual use cases and thresholds.
+Foresee price volatility
+Mitigate exposure to energy market volatility with industry-leading accuracy. Drive positive cash flow and minimize curtailable load downtime.
+Minimize operational risk
+Take operational action more confidently by foreseeing price volatility, using DynamicDR’s AI/ML tools that minimize risk.
+Optimize demand response
+Promote demand response participation and customize economic strategy by balancing price volatility, demand response, and peak avoidance.
+Maximize net revenue benefit
+Optimize high price and coincident peak avoidance along with demand response objectives with DynamicDR’s algorithm.
+Reduce tariff charges
+Minimize and even avoid coincident peak charges, which would otherwise significantly increase energy bills.
+Automate data capture
+Eliminate the need for in-house data streams and ensure consistent data quality – saving time and effort while improving the accuracy of trading decisions.
+Capitalize on daily analyst reports
+Capitalize on our team’s expert insights into key drivers of electricity prices, including timely market developments, current-day expectations, and forward-looking predictions.
+Customize decision-making
+Leverage customizable dashboards to combine valuable insights with supporting evidence into a single view. Orchestrate business processes with easy API integrations.
+Recommended For
+Is DynamicDR right for you?
+Large energy users must understand how energy market volatility affects their operations and profitability. This insight is essential to informing their demand response curtailment plan and overarching energy strategy so they can identify the best times to consume energy and shift operations to avoid peak prices. DynamicDR may be a good fit for your company if you:
+Examples of such industries include:
+Mining: Crypto, metal ore, and coal
+Manufacturing: Heavy machinery, chemicals, electronics
+Agriculture: Large-scale farming using substantial processing equipment
+Forestry: Lumber production, paper mills
+Transportation: Railways, shipping companies with large logistical operations and associated HVAC for product storage
+
+--------------------------------------------------------------------------------
+
+URL: https://enelnorthamerica.com/content/enel-na/en/solutions/energy-solutions/utility-scale-renewables
+
+Utility-scale renewables (VPPAs)
+Meet your renewable energy procurement needs and decarbonization goals with a single virtual power purchase agreement, or VPPA
+What Is a Virtual Power Purchase Agreement (VPPA)?
+Virtual power purchase agreements are an efficient way to decarbonize
+Faced with energy price volatility, market uncertainty, and stakeholder demands for sustainability, organizations are increasingly looking for ways to minimize risk and align with decarbonization targets. VPPAs enable organizations with geographically dispersed facilities to meet their renewable electricity needs while unlocking economic and sustainability benefits in line with their strategy.
+A power purchase agreement is a contract between a buyer and seller of renewable electricity. With a physical PPA, a buyer contracts with a developer for purchase of physical power and associated renewable energy credits. A VPPA is a variation on a physical PPA – it is a financial transaction that delivers the environmental benefits of a renewable energy project to your organization, while electricity generated by the project flows to the grid. VPPAs do not change how organizations power their facilities. Decoupling your facility load from the renewable project provides possibilities that are difficult to achieve in other ways, making VPPAs popular method of renewable energy procurement.
+How It Works
+How does a virtual power purchase agreement work?
+Faced with energy price volatility, market uncertainty, and stakeholder demands for sustainability, organizations are increasingly looking for ways to minimize risk and align with decarbonization targets. VPPAs enable organizations with geographically dispersed facilities to meet their renewable electricity needs while unlocking economic and sustainability benefits in line with their strategy.
+A power purchase agreement is a contract between a buyer and seller of renewable electricity. With a physical PPA, a buyer contracts with a developer for purchase of physical power and associated renewable energy credits. A VPPA is a variation on a physical PPA – it is a financial transaction that delivers the environmental benefits of a renewable energy project to your organization, while electricity generated by the project flows to the grid. VPPAs do not change how organizations power their facilities. Decoupling your facility load from the renewable project provides possibilities that are difficult to achieve in other ways, making VPPAs popular method of renewable energy procurement.
+Benefits
+The value of virtual power purchase agreements
+Meet your sustainability goals
+Advance Scope 2 emissions reduction targets by choosing renewable electricity to power your operations.
+Simplify renewable energy procurement
+Use one VPPA contract to meet your renewable energy procurement needs by aggregating load across multiple geographically dispersed facilities.
+Support your local economy
+Partner with Enel North America to create local jobs and benefit local communities via our Creating Shared Value approach to business.
+Make renewable energy procurement efficient
+Use VPPAs to meet your renewable energy procurement goals quickly and efficiently.
+Mitigate financial risk during volatility
+Benefit from stable energy costs. Work with Enel’s trading desk to customize the contract structure in line with your appetite for risk.
+Enhance your organization’s reputation
+Receive environmental attributes (RECs) equal to the amount of energy purchased via a VPPA.
+Receive proof of impact, locationality
+As an offtaker for new renewable energy projects, benefit from additionality and project-specific marketing rights. For more impact, add renewables to your regional electric grid.
+Benefit from economies of scale
+Partner with other organizations on VPPA aggregations to take advantage of benefits created by large renewable energy projects.
+Ensure greater control and flexibility
+Partner with one company to holistically address all your energy and decarbonization goals.
+Why Enel North America
+We are your partner for virtual power purchase agreements
+A growing renewables supermajor
+The world’s largest retail electricity provider, Enel is rapidly growing with a pipeline of new diverse projects across North America.
+Sustainability is in our DNA – creating shared value
+From project development to second-life applications of our assets, sustainability is at the center of everything we do. Our community partnerships create positive environmental and social impacts and contribute to a just energy transition.
+Financially stable, low-risk supplier
+Enel has a strong balance sheet and can weather short-term economic disruptions, ensuring continuity of energy supply.
+Renewables markets and trading expert
+Our markets and regulatory intelligence and in-house trading desk manage risk and help you take advantage of opportunities. We provide decarbonization solutions and long-term sustainability partnerships, tailored to your specific needs and appetite for risk.
+A full-service decarbonization provider
+Through our integrated approach, we offer a portfolio of solutions to lead you on your decarbonization journey.
+Promotion of clean energy wins
+Our communications and marketing teams will work with you to promote your sustainability achievements.
+Why Enel North America
+We are your partner for virtual power purchase agreements
+The world’s largest retail electricity provider, Enel is rapidly growing with a pipeline of new diverse projects across North America.
+From project development to second-life applications of our assets, sustainability is at the center of everything we do. Our community partnerships create positive environmental and social impacts and contribute to a just energy transition.
+Enel has a strong balance sheet and can weather short-term economic disruptions, ensuring continuity of energy supply.
+Our markets and regulatory intelligence and in-house trading desk manage risk and help you take advantage of opportunities. We provide decarbonization solutions and long-term sustainability partnerships, tailored to your specific needs and appetite for risk.
+Through our integrated approach, we offer a portfolio of solutions to lead you on your decarbonization journey.
+Our communications and marketing teams will work with you to promote your sustainability achievements.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.enelnorthamerica.com/solutions/energy-solutions
+
+Energy solutions
+Simplify your journey to net zero with Enel North America’s innovative clean energy solutions that maximize value and give your organization the competitive advantage. We’ll meet you where you are in your energy transition and get you where you need to go, even as your journey evolves over time.
+Energy solutions
+Simplify your journey to net zero with Enel North America’s innovative clean energy solutions that maximize value and give your organization the competitive advantage. We’ll meet you where you are in your energy transition and get you where you need to go, even as your journey evolves over time.
+Clean energy solutions for flexibility, resilience, and sustainability
+Enel North America has the expertise, resources, and scale to deliver the full range of on-site and off-site solutions across the energy transition roadmap. An energy solutions provider with deep expertise across the energy value chain, we help you create competitive advantage by enabling your organization to have more flexibility in how you acquire and use energy, become more resilient, and advance your decarbonization journey.
+Driving the most value from your energy solutions
+Enel North America leverages the services of our sister brands to complement our integrated offering and provide a seamless experience to holistically address your specific energy transition requirements.
+Supply and risk management
+Optimize your renewable energy contracts with solutions that mitigate the impacts of an increasingly complex and volatile energy market.
+We help you navigate the energy transition
+No matter the size of your organization, which industry you belong to, or where you are in your energy transition journey, Enel North America is the clean energy solutions provider with the strongest integrated offering to tailor a solution that meets your unique needs.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.enelnorthamerica.com/content/enel-na/en/solutions/energy-solutions/advisory-services
+
+Advisory services
+Design and execute a customized decarbonization and energy supply strategy, leveraging renewable energy solutions, risk management best practices and direct/indirect emissions reduction techniques.
+What Are Our Advisory Services?
+Achieve your decarbonization goals with a tailored strategy
+Organizations need to move fast to meet carbon-reduction goals, while still focusing on their core business. However, designing and executing a global decarbonization roadmap takes more than a vision. In an increasingly complex energy world, developing and implementing an optimal plan requires deep expertise and solutions customized to each organization.
+Start taking ambitious climate action with Enel North America, leading the way to a net-zero economy. We offer a broad range of advisory services, from energy supply and risk management to GHG emissions reporting and workshops on carbon roadmaps. The implementation of renewable energy solutions is enhanced by our own digital applications.
+Benefits
+The value of our advisory services
+Stay up to date with market trends globally
+Receive updates on the market and regulatory changes that could affect your energy spend and get advice on how to react.
+Account your emissions
+Track and calculate Scope 1, 2 and 3 portfolio-wide emissions and make your reporting ready to meet regulatory standards.
+Create a tailored decarbonization strategy
+Use our proven renewable energy workshop to develop decarbonization targets for your business and supply chain, while aligning stakeholders.
+Improve your supply risk management strategy
+We’ll develop a customized plan and identify the best time to go to market, to help you hedge against volatile energy markets.
+Get the best available renewable energy agreement
+Our team will leverage our proven bid process to encourage competition, evaluate offers and secure the best price for your purchase.
+Source renewable energy certifications
+Our knowledgeable team can competitively source and perform ongoing RECs management on residual "hard-to-abate" emissions for any market where you have a presence.
+Report your emissions and improve your CDP score
+As Gold Accredited Solutions Provider, we can support you in the CDP disclosing process.
+Why Enel North America
+We are your partner for your decarbonization journey
+Stay up to date with energy market trends
+With Enel North America, you can get direct access to energy industry experts to evaluate market and regulatory developments that could affect your energy spend. We can provide you with detailed analysis, including metrics, indicating how your business can be affected and how your organization should react. With decades of experience in the energy sector and presence in more than 100 countries, our advisors have the expertise and technology to make energy work for you today, while building for tomorrow.
+Plan and implement a customized sustainable strategy
+Education, discussion and planning are important aspects to ensure renewable energy has a positive impact on your business. With Enel North America, you can establish and achieve your renewable energy goals through analysis of your organization-wide priorities and cost-benefit analyses to determine the right approach for your business.
+We are a "One-stop-shop” – our consultancy offerings can be supplemented with further transactional services such as energy procurement, VPPAs, energy certificates, offsets, and distributed energy resources to allow your organization to get the most out of the energy transition.
+Access digital tools to reach your sustainability goals
+Take advantage of our in-house cloud-based digital applications. Our enabling technology – including auction-based energy procurement platforms, utility bill management and emissions reporting application – will let you leverage digital innovation and data to meet your sustainability goals.
+Achieve your decarbonization goals
+We can assist you in reducing your organization’s emissions through services ranging from strategic advisory to solution implementation, leveraging renewable energy and digitalization processes. With Enel North America, every kWh of energy use, from any source, is “on the record.” We capture and analyze your usage to report your ESG progress and reach your targets.
+Why Enel North America
+We are your partner for your decarbonization journey
+With Enel North America, you can get direct access to energy industry experts to evaluate market and regulatory developments that could affect your energy spend. We can provide you with detailed analysis, including metrics, indicating how your business can be affected and how your organization should react. With decades of experience in the energy sector and presence in more than 100 countries, our advisors have the expertise and technology to make energy work for you today, while building for tomorrow.
+Education, discussion and planning are important aspects to ensure renewable energy has a positive impact on your business. With Enel North America, you can establish and achieve your renewable energy goals through analysis of your organization-wide priorities and cost-benefit analyses to determine the right approach for your business.
+We are a "One-stop-shop” – our consultancy offerings can be supplemented with further transactional services such as energy procurement, VPPAs, energy certificates, offsets, and distributed energy resources to allow your organization to get the most out of the energy transition.
+Take advantage of our in-house cloud-based digital applications. Our enabling technology – including auction-based energy procurement platforms, utility bill management and emissions reporting application – will let you leverage digital innovation and data to meet your sustainability goals.
+We can assist you in reducing your organization’s emissions through services ranging from strategic advisory to solution implementation, leveraging renewable energy and digitalization processes. With Enel North America, every kWh of energy use, from any source, is “on the record.” We capture and analyze your usage to report your ESG progress and reach your targets.
+
+--------------------------------------------------------------------------------

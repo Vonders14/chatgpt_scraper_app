@@ -1,0 +1,2570 @@
+ROOT: https://gilkes.com/
+SCRAPED_AT_UTC: 2026-02-11T20:08:25.280234Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://gilkes.com/
+
+Gilkes est. 1853
+Global leaders in single-source solutions to the small hydropower and high horsepower engine markets.
+Maximise performance, extend plant life and maintain confidence
+From structured maintenance programmes to system upgrades and intelligent monitoring, our services are built around protecting your investment and keeping your plant running at its best.
+Pioneering for a sustainable future
+The energy landscape is evolving. Global demand continues to rise, nearly a billion people still lack reliable access to electricity, and the urgency of addressing climate change has never been greater.
+Endurance meets performance
+At Gilkes, we support engine builders with precision-engineered engine cooling pumps designed for demanding power generation and industrial applications.
+Built on precision and performance
+Gilkes has been supplying lubricating oil pumps for steam and gas turbines since the 1960s playing a vital role in ensuring the continuous and reliable operation of large rotating machinery.
+We’ve been generating for generations
+Wisdom
+With over 170 years of engineering experience, Gilkes brings a deep understanding of hydropower and pump solutions. This legacy provides confidence that every decision is backed by over a century of practical insight, technical discipline, and a continuous commitment to doing things the right way.
+Endurance
+Our equipment is designed and built for long service life. With a focus on performance and reliability, our hydropower projects and pump applications are supported by a dedicated team of engineers committed to reducing risk of downtime and lost generation to offer a strong return on investment.
+Expertise
+From developing new engine cooling pump solutions and designing new hydropower turbines to supporting legacy installations with original Gilkes turbines and pumps, our in-house teams bring decades of experience across engineering, manufacturing, and site support.
+Royal Warrant
+Gilkes is proud to hold a Royal Warrant for Water Turbines, a mark of recognition for companies that have supplied goods or services to the Royal Household, demonstrating consistent quality and service. Our connection with the Royal Family dates back to 1897, when our original ledgers record an order from Queen Victoria for a water turbine at Balmoral. This longstanding relationship reflects the reliability of our products, the strength of our customer support and our reputation as a trusted British manufacturer.
+A legacy built on engineering progress
+Our history spans more than 170 years of continuous innovation, manufacturing and technical development. From our beginnings as suppliers of agricultural equipment to local farmers, to delivering equipment to over 85 countries, Gilkes has grown through generations of engineering knowledge.
+Our global projects
+With over 6800 hydro turbines exported to over 85 countries and Engine Cooling pumps exporting globally, Gilkes has an extensive international presence.
+Learn more about our success around the world through our portfolio of case studies.
+Our global brand
+Keep up to date with the latest developments from Gilkes: company news, project milestones, product updates, and insights across our UK and international operations.
+Our global impact
+We’re with you for every step of the way
+Talk to an expert today to protect your assets for future generations.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gilkes.com/new-hydropower-projects/turbines-control-systems/
+
+Gilkes offers single source, water to wire solutions for a range of hydropower applications. From large utilities to small mini grids, our solutions are tailored to meet the needs of each individual project, uniquely designed to meet site conditions and operational needs and ensure efficiency and long-term performance.
+A bespoke approach to every project
+No two hydropower schemes are the same. Site conditions, water flow, and operational requirements influence every design. Our experienced team works closely with customers to develop tailored hydropower solutions that maximise efficiency and reliability.
+A dedicated project team provides a single point of contact, ensuring clear communication and seamless project execution. Our engineers oversee hydraulic design, system integration, and commissioning, ensuring smooth development with minimal management required from the customer.
+Seamless project delivery
+Our multi-disciplinary team of engineers and designers brings extensive experience across the hydropower sector. Using tools such as SolidWorks and ANSYS to produce 3D designs, 2D layouts, CFD and FEA, we develop systems built for long-term performance and reliability.
+Project execution includes:
+- Turbine selection based on site conditions
+- Energy calculations and surge analysis
+- Precision design and specification
+- Advanced hydropower manufacturing and assembly
+- Sub-contracted equipment sourced from approved suppliers
+- Rigorous quality control and factory testing
+- Expert installation and commissioning
+- Ongoing support and maintenance across the system lifecycle
+This integrated approach supports efficient project delivery, with every system designed to perform reliably from day one.
+A proven partner in hydropower
+With over 170 years of experience, Gilkes is a trusted leader in small hydropower solutions worldwide. Our bespoke hydropower packages deliver dependable performance, providing customers with confidence in every investment.
+By choosing a Gilkes hydropower package, customers gain a fully integrated, expertly managed solution built for efficiency, reliability, and long-term success.
+Our in-house CFD team uses ANSYS Fluent and high-performance computing to support turbine design and development. With over 40 years of combined experience, we carry out detailed fluid flow analysis to optimise turbine performance.
+CFD is applied across customer projects and internal R&D to improve efficiency, reliability and system integration.
+Applications for customer projects include:
+- Performance mapping at site-specific conditions
+- Assessment losses of upstream and downstream pipework
+- Structural analysis using hydrodynamic load data
+Applications in research and development include:
+- Runner blade design for Francis, Pelton and Turgo turbines
+- Spiral case and manifold optimisation
+- Nozzle and spear profile design for impulse turbines
+- Pelton and Turgo case development
+- Draft tube design for Francis turbines
+This capability supports precision engineering and continuous improvement across our full turbine range.
+Our latest investment in 5-axis machining enhances our in-house capability and increases productivity. The Mazak INTEGREX E-120V/8S allows us to fully machine turbine runners from a solid billet, improving accuracy and lead times.
+We also use 3D scanning to support reverse engineering of hydropower components. With a handheld Creaform laser scanner, our engineers capture complex turbine geometry at resolutions up to 25 microns. The data is processed using surfacing software to generate precise CAD models, which form the basis for manufacturing replacement components that match the original design.
+The original Turgo design
+The Turgo impulse turbine was first developed by Gilkes in 1919 and remains a widely used hydropower solution. Designed as a side-entry impulse turbine, it typically operates at twice the speed of a Pelton turbine when working under the same head. This design was patented by Eric Crewdson, Grandfather of the current Gilkes chairman, and over a century later the Turgo continues to deliver reliable performance in a range of hydropower applications.
+Design and performance
+The Turgo turbine is designed for efficiency and reliability on medium head applications, making it well suited to a wide range of hydropower schemes. Its design allows for higher rotational speeds than a Pelton turbine, helping to reduce the size and cost of generators and potentially removing the need for a gearbox. The Turgo also maintains high efficiency across a wide flow range, making it a practical alternative to the Francis turbine in run-of-river installations where flow can vary.
+Key features
+- Covers the boundary between Francis and Pelton applications
+- Limits over-pressure effect over the penstock
+- Higher speed equals weight and cost reduction
+- Maintains efficiency over a wide flow range
+- Superior abrasion resistance
+- Ease of operation and maintenance
+Application areas
+- Rural electrification
+- Run-of-river hydropower
+- Suitable for monsoon climates where there is high sediment load
+- Good alternative to the Francis where over-pressure of the penstock is a concern, or on medium heads if the flow rates are variable
+- Industrial and municipal power generation projects
+Development and engineering enhancements
+Gilkes continues to refine the Turgo turbine, incorporating advances in design and materials to improve performance and longevity. Current developments include:
+- Optimised Turgo runner and injector designs
+- Turgo runners fully machined from single forged block, or alternatively investment cast for superior dimensional accuracy
+- Integration with modern control systems
+The Turgo turbine remains a key component in small to medium-scale hydropower projects, offering a balance of efficiency, durability, and cost-effectiveness.
+- Power output: up to 10MW
+- Head range: 50–250m
+- Configuration: horizontal - single and twin jets
+- Over 1000 installations worldwide
+- Installations in 65 countries
+Downloads
+View a full Turgo hydro assembly
+Pelton impulse turbine
+High-efficiency turbine for high-head applications
+The Pelton impulse turbine is suited to sites with high head and low flow. It operates by directing high-velocity water jets onto the runner, converting water energy into rotational force. Available in single or multi-jet configurations, with horizontal or vertical arrangements, the Pelton is designed to deliver high energy transfer and efficient performance.
+Design and performance
+The Pelton turbine maintains high efficiency across a wide range of flows. When multiple jets are used, this range is further extended, optimising annual energy production. Each Gilkes Pelton turbine is selected and configured based on site-specific conditions to maximise power generation and system performance.
+Key features
+- High efficiency at varying flow conditions ensures stable power generation
+- Low wear and maintenance reducing long-term operational costs
+- Runners fully machined from single forged block for durability
+- Being an impulse turbine, easy to govern for islanded operation
+- Limits over-pressure effect over the penstock
+Application areas
+- Rural electrification
+- Run-of-river hydropower
+- Energy recovery in water systems
+- Industrial and municipal power generation projects
+Streamline range – Pelton turbines
+For smaller hydropower applications, Gilkes has developed the Streamline range, designed specifically for sub-1MW projects. These turbines are built for simplicity, durability, and ease of installation. The design simplifies the civil engineering requirements typically associated with hydro schemes, making deployment more cost-effective and improving serviceability.
+Development and engineering enhancements
+Gilkes continues to refine Pelton turbine technology, incorporating modern materials and control systems to enhance performance and longevity. Advances in Computational Fluid Dynamics (CFD) modelling and precision manufacturing ensure each turbine is optimised for its specific site conditions.
+The Pelton impulse turbine remains a key solution for high-head hydropower projects, delivering consistent performance, efficiency, and reliability.
+- Power output: up to 20MW
+- Head range: 100-1000m
+- Configuration: horizontal – single and twin jets
+vertical – up to 6 Jets - Over 1000 installations worldwide
+- Installations in 57 countries
+View a full Pelton hydro assembly
+Francis reaction turbine
+Versatile and efficient turbine for medium head applications
+The Francis turbine is suited to sites with low to medium head and high flow. Water enters through a pressurised spiral casing and is directed by adjustable guide vanes onto the runner blades. The resulting water pressure drives rotation, delivering efficient power generation across a broad operating range.
+Design and performance
+Gilkes offers Francis turbines in both horizontal and vertical configurations, ensuring adaptability to site conditions. Flow control is managed by electric or hydraulic actuators, which adjust the guide vanes for optimal efficiency. The turbines can operate in standalone mode with a speed governor or be controlled via PLC systems for integration with distribution grids.
+Key features
+- High efficiency at full flow condition
+- Relatively small footprint
+- Has a draft tube outlet to utilise the maximum available head
+- Runners fully machined from single forged block for durability
+- Option to have a pressurized outlet if required
+Application areas
+- Run-of-river hydropower
+- Generation from reservoirs & dams
+- Energy recovery in water systems
+- Industrial and municipal power generation projects
+- Grid-connected and off-grid systems
+Francis turbine in the water industry
+The Francis turbine is widely utilised in water treatment facilities and municipal water systems to recover energy from pressurised pipelines. Instead of dissipating excess pressure through a pressure-reducing valve (PRV), a Francis turbine can be integrated to generate renewable electricity while maintaining system stability.
+Development and engineering enhancements
+Gilkes continues to refine Francis turbine technology, incorporating advanced materials and computational fluid dynamics (CFD) modelling to enhance efficiency and longevity. These innovations ensure that the Francis turbine remains a key solution for hydropower projects.
+- Power output: up to 20MW
+- Head range: 30-400m
+- Configuration: horizontal and vertical
+- Over 1400 installations worldwide
+- Installations in 66 countries
+View a full Francis hydro assembly
+Compact turbine range
+Reliable and efficient turbines for sub-150kw applications
+The Gilkes compact turbine range consists of Pelton and Turgo turbines, engineered specifically for sub-150kW hydropower applications. These turbines feature a compact case design, electric actuation, and precision-engineered runners and spear valves, ensuring a cost-effective, durable, and efficient solution for a broad range of hydraulic conditions. Designed for easy integration, the compact range offers flexibility while maintaining high performance.
+Technical specifications
+- Power output: Up to 150kW
+- Design: Compact case with precision runners
+- Actuation: Electric (instead of hydraulic)
+- Optimised footprint: Reduced installation costs and space requirements
+Design and performance
+The compact turbine range is built for reliable performance across varied operating conditions. Electric actuation replaces hydraulic systems, resulting in cleaner operation and reduced maintenance. With a simplified design, these turbines offer a cost-effective and adaptable solution for small-scale hydropower schemes.
+Key features
+- Electric actuation avoids the complexity of hydraulics and reduces maintenance
+- Compact and lightweight design minimises installation complexity
+- Cost-effective solution designed to optimise efficiency at lower operational costs
+- Adaptability across hydraulic duties suitable for a variety of flow conditions
+Gilkes compact turbine control system
+The Gilkes compact turbine control system is a fully automated solution, capable of managing both grid-connected and islanded installations. Designed to work with both induction and synchronous generators, it ensures smooth and efficient operation.
+Standard control system features
+- Cost effective Micro PLC control panel providing intelligent automation and real-time monitoring
+- Touch screen HMI enhances user interface and system interaction
+- Secure remote connection – for remote monitoring and control
+- Head level control to maintain steady power generation
+- Optional vibration monitoring to detect early signs of mechanical wear
+- Bearing temperature monitoring ensures longevity of turbine and generator components
+- G99 protection relay to maintain grid compliance
+- Power factor correction when using induction generators
+Additional options
+- Larger touch screen HMI with customisable interfacefor advanced control
+- Remote monitoring provides real-time data access
+- Email alerts for automated system performancenotifications
+Integration and maintenance
+The compact turbine is a core component of hydropower projects, requiring seamless integration with electrical, mechanical, hydraulic, and civil systems. With experience gained from thousands of projects, Gilkes delivers a fully integrated equipment package, ensuring that each turbine is optimised for its specific hydraulic duty and site conditions.
+Hydropower control systems and electrical integration
+Gilkes provides integrated hydro control systems that connect turbines safely to the grid, matching voltage and frequency requirements. Each system typically includes a PLC control panel with synchronising relays and metering, alongside a main breaker panel. Protection relays are included to meet G99 and G100 grid codes, voltage control standards and international safety regulations. We offer system design, installation, testing, inspection and modernisation, with flexible packages suited to both new installations and existing sites.
+Our control systems are designed to manage and protect hydropower schemes while maintaining dependable generation. They manage turbine operations, track performance, and support safe grid connection. Key functions include water to wire integration, black start capability, grid or island mode transition, multi-turbine management, and remote access. Systems can link with SCADA and be upgraded with new panels, generator updates, and AVR changes.
+Each package is tailored to the site’s technical needs and the operating team’s experience. From basic manual setups to automated systems for multi-site control, all solutions are assembled and tested in-house, replicating site conditions to reduce commissioning time and support a reliable handover.
+HydroView
+Smart, secure hydropower monitoring
+- Smart, secure hydropower monitoring
+- Secure remote access – monitor multiple sites from one portal
+- Advanced diagnostics – identify faults before they escalate
+- 24/7 alerts – stay informed and act fast
+We’re with you for every step of the way
+Talk to a hydropower expert today to protect your assets for future generations.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gilkes.com/new-hydropower-projects/
+
+The energy landscape is evolving. Global demand continues to rise, nearly a billion people still lack reliable access to electricity, and the urgency of addressing climate change has never been greater.
+Designed to harness the power of water, our hydropower projects connect rural communities by bringing energy stability to remote locations, recover energy from high-pressure sources to reduce waste, optimise efficiency to extend the lifespan of hydropower plants, and provide clean, affordable, and low-carbon hydroelectric power, essential for a sustainable future.
+Gilkes hydropower solutions are built for lasting performance and long-term reliability. Whether developing a new hydropower project or extending the life of an existing plant, we take a holistic approach to understanding your objectives and determining how we can best support your needs.
+With more than 170 years of experience in water-to-wire solutions, Gilkes’ Francis turbines, Turgo turbines, and Pelton turbines generate power worldwide. From Alaska to Zimbabwe, from medium to high head, from 50kW to 20MW, and from mini-grids to large utilities, our solutions deliver efficiency and dependability.
+We are committed to maintaining the optimal performance and longevity of your hydropower plant. Through our comprehensive expertise in hydropower engineering, including design, consultation, modernisation, and servicing, we ensure long-term, reliable hydroelectric generation.
+Benefits of small hydro
+- Clean, affordable, reliable and long-term sustainable energy resource
+- Low Carbon Technology
+- Environmentally and socially responsible
+- Short return on investment with long asset life
+- Scalable installations for any landscape or location
+- Easy to operate and service
+With no need for large dams or reservoirs, small run of river hydropower systems offer a low-impact, efficient solution for small-scale renewable energy.
+Systems are easy to operate and maintain, with a short return on investment and long asset life. Installations can be scaled to suit different landscapes and locations, making small hydro a flexible and sustainable option for local power generation.
+Advantages of a small run of river hydropower plant
+- Minimal environmental impact
+- No disruption to natural flow – water is returned to the river
+- Predictable seasonal output
+- High efficiency and reliability
+Harnessing the natural flow of rivers
+Run-of-river hydropower takes advantage of natural water movement. Water is typically diverted from a river at a high point and channelled through a pressurised pipeline (penstock) to drive hydropower turbines. This technology is most effective where rivers provide a consistently strong and steady flow.
+Gilkes hydropower solutions
+Gilkes Hydro are world-leaders in designing, manufacturing and commissioning hydro schemes with over 6800 hydro turbines operating worldwide.
+Our tailored hydropower solutions are optimised for site-specific parameters utilising in-house designs to ensure maximum hydropower generation from the available resource.
+We offer a full ‘concept to commissioning’ service with professional advice right from the start of the design process from turbine selection to energy calculation.
+If you have a greenfield project you would like the Gilkes Hydro team to review, visit our contact page.
+Energy recovery hydropower involves capturing potential energy from pressurised water systems already in use for other applications.
+Typical applications include
+- Energy generation from an existing process
+- Water transfer between reservoirs, tanks, or holding sources
+- Conveyance for municipal drinking water systems
+- Transfer of raw water to treatment facilities
+- Wastewater treatment applications
+These processes often rely on gravity-fed hydropower systems with large-diameter pipes. As water moves from higher elevations to lower distribution points, pressure must be reduced before entering treatment plants or municipal networks.
+Typically, pressure is reduced using pressure reducing valves (PRVs), which dissipate energy as heat and require electrical power to operate.
+Advantages of energy recovery using hydropower
+- Reduced environmental impact
+- Turbine integration as a flow control device
+- High efficiency and reliability
+Downloads
+Gilkes energy recovery solutions
+We offer energy recovery solutions that transform previously wasted energy into hydropower generation. Our range of hydropower turbines is designed to harness available energy and convert it into electricity using reaction or impulse turbines.
+For pressurised hydropower systems that require downstream pressure control, a Francis turbine offers the best fit. Where atmospheric discharge is possible, Gilkes Turgo or Pelton turbines provide an effective alternative. The Turgo turbine is especially well suited to water treatment facilities, where it can deliver both flow control and energy recovery.
+Gilkes can assess and compare the suitability of impulse and reaction turbines for each application, taking into account whether the discharge is pressurised or atmospheric.
+Power generated can be used for:
+- Offsetting energy consumption in water treatment and wastewater facilities
+- Exporting electricity to the grid through power purchase agreements
+- A combination of behind-the-meter consumption and grid export
+In all cases, maintaining water supply is the primary function, with hydropower energy recovery as a secondary benefit. To ensure reliability, hydropower turbines are often installed in parallel with PRVs to maintain continuous water supply if a turbine is offline.
+We work with several UK utility companies to offer additional areas of engineering work to support their energy recovery systems.
+These services include:
+- Assessment of flow data to identify the most suitable turbine type for energy output, taking into account specific site parameters and operating conditions
+- Turbine behaviour modelling to support schemes requiring controlled and accurate flow delivery upstream of water treatment facilities
+- Bypass system designs including pressure control through pressure reducing valve arrangements
+- Hydraulic schematic modelling to map and understand the wider water network
+- Simulation of both steady state and transient flow scenarios to predict system behaviour
+- Integration of control systems developed to meet utility sector requirements and operating standards
+- Specification of coatings and materials proven for use with potable water across the full range of site environments
+Mini-grid solutions for rural communities
+Mini-grid power systems provide localised electricity generation independent of national grids. They are often developed to deliver off-grid hydropower to rural communities or to stabilise unreliable energy networks.
+Mini-grid hydropower systems enable communities to harness their renewable energy resources, reducing reliance on fossil fuels.
+In remote areas, small-scale mini-grid projects can bring off-grid electricity to entire communities. This provides lighting, television, and communication for homes, schools, clinics, and public buildings. The generated power can also support small businesses by running machinery and refrigeration systems.
+Advantages of hydropower in mini-grid systems
+- A renewable, free energy source
+- Low environmental impact
+- Proven, mature technology
+- Long equipment lifespan
+- Reliable, high-quality electricity
+- Low maintenance requirements
+- Robust control systems with minimal operator input
+- Ability to integrate with other power sources
+Hydropower as part of a mini-grid
+Mini-grid energy systems increasingly integrate multiple renewable energy sources. Small hydropower schemes play a crucial role due to their reliability and consistency.
+With decades of experience in rural electrification, Gilkes has developed hydropower solutions for:
+- Integration into new or existing mini-grids
+- Operation in both islanded and grid-connected modes
+- Provision for future connection to national grids
+- Black start capability
+- Rapid response to load demand changes
+- Parallel generation with other renewable energy sources
+- Dispatchable power on demand when energy storage is available
+Gilkes brings extensive global experience in mini-grid hydropower development, ensuring reliable, sustainable electricity for remote communities.
+Turbine & control systems
+Hydropower packages: a complete, tailored solution
+Gilkes provides fully integrated hydropower solutions, delivering a complete service from concept to commissioning. Each project is uniquely designed to meet site conditions and operational needs, ensuring efficiency and long-term performance.
+HydroView
+Smart, secure hydropower monitoring
+- Smart, secure hydropower monitoring
+- Secure remote access – monitor multiple sites from one portal
+- Advanced diagnostics – identify faults before they escalate
+- 24/7 alerts – stay informed and act fast
+We’re with you for every step of the way
+Talk to an expert today about your hydropower needs.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gilkes.com/hydropower-asset-services/hydroview/
+
+Keep your hydropower assets performing at their best with HydroView, the next-generation remote monitoring solution.
+Designed to provide secure turbine monitoring solutions, HydroView offers powerful features that improve efficiency, reduce downtime, and give you greater control over your operations.
+Why choose HydroView?
+- Secure remote access to view and manage your hydropower system from anywhere with an industrial VPN gateway, eliminating the need for a static IP address.
+- Access multiple sites from a single login allowing oversight of operations across all your hydropower assets.
+- Manage on the go via our app for mobile and tablet devices.
+- Advanced user management to invite and manage users, create custom access groups, and assign specific roles for better control.
+- Audit logging allows user access tracking to the system for improved security.
+- Enhanced remote support allowing Gilkes engineers to diagnose, update, and optimise your system remotely, reducing costly site visits.
+- Future-proofed system with ongoing developments to introduce more features, keeping you ahead with advanced hydropower asset management and reporting capabilities.
+Improve efficiency, reduce downtime, and give you greater control over your operations
+Benefits of HydroView
+_01
+Reduce downtime
+Real-time alerts and remote diagnostics help prevent costly disruptions.
+_02
+Improve efficiency
+Get detailed insights into system performance, allowing proactive maintenance and hydropower plant optimisation.
+_03
+Increase security
+Protect access to your system with secure logins and controlled permissions.
+_04
+Save time and costs
+Eliminate unnecessary travel with remote monitoring and support.
+_05
+Optimised performance
+Enhance long-term turbine efficiency with predictive maintenance capabilities.
+HydroView is simple to use and can be accessed anywhere
+Get started today
+HydroView is the smart way to manage your hydropower assets whether you oversee a single site or multiple installations, our technology ensures you stay connected and in control.
+Enquire today to gain secure, real-time access to your system and experience the future of hydropower remote monitoring.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gilkes.com/hydropower-asset-services/optimisation-modernisation/
+
+Modernising a hydro power plant’s assets is crucial for maximising the plants lifespan and ensuring reliable and sustainable energy generation. Gilkes can restore, optimise and modernise your hydropower system to maximise productivity and longevity.
+How Gilkes can maximise your hydropower potential
+Step 1
+Hydropower assessments
+With a long standing history in hydropower spanning design, manufacture, repair and refurbishment, Gilkes is well placed to support the development and long-term performance of your hydro power plant.
+While we frequently upgrade original Gilkes equipment using site records, our expertise extends to systems from other manufacturers. We’ve modernised equipment from as early as the 1900s, including projects in Kenya, New Lanark and the Balmoral estate, as well as more recent installations worldwide.
+Whatever the age or condition of your facility, the first step to extending it’s lifespan is a consultation, site survey or condition assessment. This allows us to identify opportunities for improvement and recommend the most appropriate solution.
+Step 2
+Hydropower parts & refurbishment
+Decades of operation can wear down components. Gilkes offers comprehensive refurbishment solutions designed to rejuvenate installations and significantly extend operational lifespan.
+- Reconditioning of existing component to restore performance
+- Supply of replacement components such as runners, guide vanes, spears and nozzles
+- Gilkes investment in 3D scanning technology allows our engineers to reverse engineer hydropower components when the original information is not available
+- Minimised downtime by supplying components in parallel with machine running or choosing dry season to take machines offline
+- Updated equipment to reflect today’s expectations for safety, durability, and compliance
+Modernisation for improved performance
+Ageing components, evolving regulations, and advancing technology make upgrades essential. Gilkes offers cost-effective modernisation services to optimise performance for future demands.
+- Upgrade old mechanical governors to advanced digital ones for improved precision and to allow remote monitoring
+- Automation through use of digital control systems helping to reduce operational costs
+- Enhance turbine and generator components to maximise output
+- Key updates and upgrades to enhance current operations and reduce maintenance costs
+- Engineered for reliable performance under today’s safety and compliance standards
+Turbine replanting: the ultimate upgrade
+Replanting a turbine can be the chosen option if the original no longer meets requirements or if the site characteristics have changed. A full replanting solution ensures long-term reliability, efficiency, resilience, and compliance.
+- Increase capacity and efficiency utilising new enhanced designs
+- Meet modern standards with an adherence to higher standards of safety, resilience, and compliance
+- Option to replant turbine alongside new M&E equipment
+- Future-proof operations by adapting to changing energy needs such as increased demand for power or a change in grid constraints
+Gilkes’s expertise can revitalise your hydro
+Glen Finglas, Scotland Hydro modernisation project
+This project reflects our approach to improving long-term performance and reliability. By upgrading key systems we helped extend the life of the scheme and support efficient ongoing operation.
+We also specialise in
+Regular maintenance minimises downtime and costly repairs. Gilkes provides tailored service packages to keep your system running.
+- Scheduled inspections to detect issues early
+- Fast breakdown response times
+- Condition assessments for informed maintenance and investment decisions
+Protect your investment with a Gilkes maintenance package.
+Even with the best maintenance, unexpected failures can happen. Having the right spare parts on hand minimises downtime and keeps your plant generating revenue.
+- Genuine parts approved by original manufacturer
+- Spare part packages specified to suit your site requirements
+- Risk assessments for critical components
+- Readily available spares to support urgent repairs
+- Guidance on storage and stock management
+HydroView
+Smart, secure hydropower monitoring
+- Smart, secure hydropower monitoring
+- Secure remote access – monitor multiple sites from one portal
+- Advanced diagnostics – identify faults before they escalate
+- 24/7 alerts – stay informed and act fast
+Maximise your hydropower potential
+With over 170 years of expertise, Gilkes delivers reliable upgrades tailored to your site’s needs. Whether you need maintenance, efficiency improvements, or a full system upgrade, our team is here to help.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gilkes.com/hydropower-asset-services/maintenance-contracts/
+
+Once your hydropower scheme is operational, regular maintenance is key to maximising performance and avoiding costly downtime. Our maintenance contracts and lifetime support services help you manage assets effectively and protect revenue.
+We know unplanned downtime can be expensive. From electrical faults to major failures, our field engineers identify and resolve issues early through regular inspections and preventative maintenance, reducing the risk of lost revenue.
+With three service centres in Scotland, our headquarters in Kendal, and engineers on the ground, we provide expert support throughout the lifetime of your equipment in the UK and internationally.
+Choosing the correct maintenance plan
+We offer flexible service packages to suit your needs. From routine inspections to emergency response, we keep your hydropower plant running smoothly.
+- Preventative maintenance to reduce the risk of unplanned failures
+- Expert on-site inspections to identify potential issues early
+- Remote support for fast and efficient responses to maintenance requests
+We provide expert support throughout the lifetime of your equipment in the UK and internationally
+Tailored plans designed for peace of mind
+Full maintenance plans
+| Bronze | Silver | Gold | |
+|---|---|---|---|
+| Annual inspection & major service | ✓ | ✓ | ✓ |
+| Interim (6-monthly) inspection and minor service | ✓ | ✓ | |
+| Monthly inspections | ✓ | ||
+| Breakdown response (remote & site attendance) | ✓ | ✓ | ✓ |
+| Fixed price remote support (optional on all levels) | ✓ | ✓ | ✓ |
+| Preferential rates for call-outs & additional works | ✓ | ✓ | ✓ |
+| Out of hours telephone response | ✓ | ✓ | |
+| 7 day a week callout attendance | ✓ | ||
+| Priority callout attendance | ✓ | ||
+| Monthly review of HMI trends to identify operational anomalies & improvements | ✓ | ||
+| Assigned commercial account manager | ✓ |
+Remote monitoring & technical support
+One of our greatest strengths is our in-house hydropower expertise, developed over decades of design, manufacturing, and maintenance. We provide remote troubleshooting to minimise downtime and ensure rapid resolution of issues.
+- Diagnose electrical and mechanical faults – from minor issues to major failures
+- Work alongside on-site operators – complementing their local knowledge
+- Remote support for maintenance teams – reducing unnecessary site visits
+If a solution cannot be found remotely, our experienced engineers can attend your site to investigate, identify, and resolve faults.
+- Contract customers receive prioritised response based on service level
+- Non-contract customers will be provided with availability and a call-out quote
+On-site call-outs will cover:
+- Fault identification and troubleshooting
+- Operator support and guidance
+- Quick response in an emergency, for example, flooding after a storm
+Benefits of our remote & call-out support
+_01
+Reduce downtime with expert diagnostics
+_02
+Identify necessary replacement parts in advance
+_03
+Avoid costly and unnecessary site visits
+_04
+Minimise risk by reducing the need for on-site attendance in poor weather conditions
+_05
+Ideal for international customers who can benefit from prompt remote assistance
+Hydropower inspection & maintenance
+- Periodic inspection & maintenance
+- Planned maintenance
+- Condition based risk assessment
+- Strategic spare parts – be prepared
+Regular inspections keep hydropower equipment operating efficiently and reduce the risk of unexpected failures.
+- Identify wear and tear early, avoiding call outs
+- Specialist support to improve performance
+- Inspection report provided with clear recommendations for preventative and corrective actions
+- Included in maintenance contracts for long-term reliability
+If maintenance issues are identified during a routine inspection, these will be detailed in the inspection report. Our head office team can then provide a tailored quotation for this planned work to address the findings and support ongoing equipment reliability.
+- Turbine reconditioning and component replacements
+- Control system automation upgrades
+- Performance improvements for efficiency and reliability
+- Generator overhaul
+- AVR conversions and upgrades
+- Switchgear repairs and upgrades
+Keep your hydropower system running at peak performance.
+Minimise the risk of lost generation.
+Our standalone service provides a more comprehensive assessment of equipment condition than a periodic inspection. The resulting report outlines clear recommendations across safety, maintenance, and long-term asset planning, supporting owners to make informed decisions about future investment.
+- Recommended for hydropower owners looking to reduce risk of lost generation
+- Comprehensive reporting tailored to site requirements
+- In depth assessment of asset condition including part availability
+- Supports financial planning for long-term asset reliability
+- Existing contract customers can benefit from previous inspection data
+- Ensure the efficiency and longevity of your hydropower system.
+Even with the best maintenance, unexpected component failures can happen. Having the recommended spare parts on hand, purchased from the original manufacturer minimises downtime and keeps your plant generating revenue.
+- Original manufacturer approved parts
+- Custom spare packages tailored to your site
+- Plan for potentially obsolete parts
+- On hand spares to correct a short-term breakdown
+- Storage & inventory guidance
+HydroView
+Smart, secure hydropower monitoring
+- Secure remote access – monitor multiple sites from one portal
+- Advanced diagnostics – identify faults before they escalate
+- 24/7 alerts – stay informed and act fast
+UK & international support
+Rapid response across the UK
+Our main UK service operations hub is based at our headquarters in Kendal, supported by three dedicated hydro service centres in Scotland: Fort William, Invergordon, and Stirling. Staffed by highly experienced mechanical and electrical engineers, we offer a fast and efficient response to breakdowns and maintenance requests.
+Global support, wherever you are
+Supporting our international customers requires a dedicated approach. We aim to assist remotely whenever possible before assessing the need for an on-site visit. Contact us directly to discuss your support requirements.
+International customers
+With more than 6800 hydro turbines supplied to customers in over 85 countries, our international support is built on experience and flexibility. If you require assistance with your equipment or have a site issue to discuss, please get in touch with us directly. Our team will always aim to provide remote support first, helping to resolve the issue quickly and minimise disruption, before arranging a site visit if necessary.
+Why choose Gilkes?
+For over 170 years, Gilkes has been a trusted leader in hydropower, providing expert support and proactive maintenance solutions that protect and grow your revenue by ensuring consistent, optimal output.
+- Original manufacturer expertise – we know your equipment inside out
+- Minimise downtime and maximise output – proactive maintenance that protects revenue
+- Extend asset lifespan – keep equipment running longer with expert care
+- Regulatory compliance – stay up to date with industry standards
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gilkes.com/hydropower-asset-services/
+
+From structured maintenance programmes to system upgrades and intelligent monitoring, our services are built around protecting your investment and keeping your plant running at its best.
+Gilkes provides a complete range of asset services that support the long-term performance and availability of your hydropower installation
+Maintain today, save tomorrow
+Regular maintenance minimises downtime and costly repairs. Gilkes provides tailored service packages to keep your system running.
+Extending the lifespan of hydropower assets
+With a proven track record in modernisation, Gilkes helps owners restore, adapt, and improve their systems to meet current and future demands, increasing both reliability and energy output.
+Smarter monitoring for remote hydropower turbines
+HydroView gives you a smarter way to monitor and manage your hydropower assets. Designed for secure remote access, it provides real-time visibility and control across your operations, helping to improve efficiency, reduce downtime, and support informed decision making.
+We’re with you for every step of the way
+Talk to a hydropower expert today to protect your assets for future generations.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gilkes.com/about-us/career-apprenticeships/
+
+Our people are at the core of everything we do. They are the driving force behind our success. Their passion, creativity and commitment allow Gilkes to grow, adapt and deliver trusted engineering solutions across the world.
+We are proud to invest in our employees and foster a positive, inclusive workplace culture. Whether you are starting out or building on existing experience, we offer opportunities to work on meaningful projects, gain practical knowledge and contribute to a long-established British manufacturing business with a global reach.
+With over 170 years of engineering heritage, we continue to support the next generation through apprenticeships, training and career development. We value long-term thinking, shared knowledge and a team approach.
+Our engineering excellence is driven by our people
+Our work is guided by our four core values:
+- Teamwork
+- Integrity
+- Excellence
+- Commitment
+Gilkes is evolving to meet the demands of a changing global economy, maintaining our position in key markets and supporting long-term growth. If you are looking for a career with purpose and opportunity, Gilkes offers a supportive environment where your contribution will be recognised and your development encouraged.
+Our current opportunities
+Please note that we are currently reviewing our apprenticeship intake for 2026. If you are interested in an apprenticeship at Gilbert Gilkes and Gordon Ltd, please email [email protected] and share your area of interest.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gilkes.com/about-us/our-heritage/
+
+Our history spans more than 170 years of continuous innovation, manufacturing and technical development. From our beginnings as suppliers of agricultural equipment to local farmers, to delivering equipment to over 85 countries, Gilkes has grown through generations of engineering knowledge.
+The business has operated from the same site in Kendal, on the edge of the Lake District, since 1856 and has remained under the same basic ownership since 1881. With just nine Chairmen and a small number of Managing Directors over that time, the company reflects a culture of stability, long-term thinking and strong values.
+This timeline charts the milestones that have shaped Gilkes, from its origins to its position today as a recognised global supplier of hydropower and engine cooling solutions.
+Williamson Brothers
+1819
+KENDAL TO LANCASTER CANAL OPENS
+Creating an ideal foundry location.
+1853
+AGRICULTURAL ERA WILLIAMSON BROTHERS
+Williamson Brothers founded 1853.
+1856
+WILLIAMSON BROTHERS MOVE TO CANAL HEAD
+1856
+VORTEX TURBINE DESIGNED BY PROF. THOMSON
+Williamson Brothers acquire the rights to Professor Thomson’s Patent Vortex turbine. The first Vortex turbine is installed at James Cropper’s paper mill, at Cowan Head near Kendal.
+1860s
+WILLIAMSON BROTHERS START MAKING PUMPS
+Some are used in building the Suez Canal.
+1878
+FIRST HOUSE IN THE WORLD LIT BY HYDROPOWER
+Cragside, Northumberland. Now a National Trust Property. Lord Armstrong ordered a Williamson Brothers Vortex Turbine.
+Gilbert Gilkes
+1881
+GILBERT GILKES ACQUIRES WILLIAMSON BROTHERS
+Gilbert Gilkes & Co is formed.
+1897
+FIRST TURBINE INSTALLED AT BALMORAL
+The entry in Gilkes original ledger for Queen Victoria’s order for Balmoral highlighted in red.
+1919
+THE TURGO IMPULSE TURBINE IS INVENTED BY ERIC CREWDSON
+A patent for the Turgo Turbine was granted in the same year.
+Gilbert Gilkes & Gordon
+1928
+GILKES ACQUIRES JAMES GORDON & CO
+1932
+SELF PRIMING PUMP, INVENTED BY ERIC CREWDSON
+A patent for the pump was granted in the same year.
+1935
+Gilkes install new water turbine test facility
+Allowing turbines to be tested at the factory for the first time.
+1940
+GILKES PUMPS SUPPLIED TO GARDNER DIESELS
+Gardner were the first diesel engine builders to use Gilkes self priming cooling pumps for marine applications.
+1948
+NEW FACTORY
+A major investment including purchase of the disused canal basin enabled the building of the new factory.
+1952
+PELTON TURBINES FOR ENGLISH ELECTRIC
+In 1952 Gilkes stretched their manufacturing technology to build two 18.5MW Pelton Turbines for English Electric to be exported to Australia.
+1969
+THE QUEEN’S AWARD TO INDUSTRY (EXPORT)
+1972
+PUMPS SUPPLIED TO CATERPILLAR
+The “M” (metric) Series marine cooling pump was introduced in 1972 and adopted by Caterpillar thereafter.
+1978
+GILKES INC BEGINS OPERATION IN TEXAS, USA
+Gilkes begin supporting the refinery industry in Texas, from a small space in the unair-conditioned building!
+1981
+HRH PRINCESS ALEXANDRA OF KENT VISITS – CELEBRATING 125 YEARS OF THE COMPANY
+1983
+TWIN JET TURGO INTRODUCED
+The first twin jet Turgo turbine was designed and delivered to Peru in 1983. The 20” machine was built and delivered to Compania Minera Atacocha with a power output of 1260kW.
+1985
+FIRST VERTICAL 4 JET PELTON
+The first 4-jet Pelton turbine was manufactured for the Hatchet Creek project in the USA, with a power output of 7.3MW.
+1988
+ISO 9001 QUALITY MANAGEMENT STANDARD ACHIEVED
+1995-1999
+THREE NEW TURBINES INSTALLED AT KINLOCHLEVEN (10.2MW), THE FORMER ALUMINIUM SMELTER IN SCOTLAND
+Three 10.2MW Francis turbines are installed at Kinlochleven, the former aluminium smelter site where Gilkes had previously supplied a 1.2MW Turgo turbine [1968].
+1998
+HRH THE DUKE OF EDINBURGH VISITS TO OPEN NEW RECEPTION
+2003
+ISO / TS16949 QUALITY MANAGEMENT STANDARD ACHIEVED
+2005
+GILKES PUMPS USED ON LOCOMOTIVES
+2009
+GILKES INC NEW FACTORY OPENED IN TEXAS
+Within a few miles of the 1978 premises.
+2010
+THE QUEEN’S AWARD FOR EXPORT (INTERNATIONAL TRADE CATEGORY)
+2010
+GILKES ENERGY FOUNDED
+Gilkes Energy Subsidiary founded to develop, design, build and operate hydroelectric schemes.
+2014
+INSTALLATION STARTS ON GILKES’ LARGEST OVERSEAS HYDRO PROJECT
+21MW Expansion of Blue Lake Hydropower Plant at City Of Sitka, Alaska.
+2015
+GILKES DELIVERS ITS 150,000TH ENGINE COOLING PUMP
+2016
+COMPANY MOVES INTO NEW OFFICES AND OPENS TECHNICAL CENTRE
+Expansion and Refurbishment of Offices, Factory and Test Facility at the Canal Head Site.
+2018
+OVER 6800 TURBINES EXPORTED WORLDWIDE
+2018
+OLIVER WIGHT CLASS A AWARD
+Gilkes successfully achieve Class A performance in Planning and Control and continues to establish itself as a leader in its field.
+2019
+100 YEARS OF THE TURGO
+Gilkes Original Design Turgo Turbine makes its Centenary Year! 100 years later and the Turgo maintains its place as one of the most popular hydropower turbine designs, testament to the longevity of the original design and technology.
+2022
+CUMMINS DELIVERY AND DIRECT SOURCING AWARD
+Gilkes are recognised with a “Best Delivery Performance – Direct Sourcing Award” from Cummins. The award, for performance in 2022, is in recognition of the partnership and dedication the Gilkes team have shown towards Cummins.
+2023
+CATERPILLAR SUPPLIER EXCELLENCE AWARD
+Gilkes Inc, Texas receive recognition for 100% on time delivery of remanufactured pumps.
+2023
+BHA HISTORIC RENOVATION AWARD
+Gilkes win the British Hydropower Associations Historic Renovation Award for work on the New Lanark Mills hydropower refurbishment project in Glasgow.
+This award showcases the exceptional efforts in restoring and revitalizing historical hydropower sites.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gilkes.com/about-us/
+
+Whether supporting hydropower schemes or supplying pumps for high horsepower diesel and gas engines, the need for reliable, efficient solutions remains constant. Across industries and geographies, engineering managers and consultants face the same challenge: finding a manufacturer with the capability to deliver consistent quality and dependable performance.
+We bring over 170 years of design and manufacturing experience, with equipment operating in more than 85 countries worldwide. Our reputation is built on deep technical expertise, a commitment to product quality, and the ability to meet demanding specifications in complex environments.
+Holding a Royal Warrant and trusted by clients across the globe, we combine the flexibility of a responsive team with the scale and knowledge expected of an established international brand.
+From hydropower turbines to engine cooling pumps, we offer a complete service, working closely with customers to deliver the right solution, backed by full lifecycle support and a clear focus on long-term value.
+Leading this business is a privilege.
+Every day, I’m inspired by the dedication and resilience of our team and by the trust our customers place in us.
+Gilkes, through the generations, has been shaped by a clear purpose: to do things properly, to treat people well, and to keep improving.
+Whether it’s through innovation, craftsmanship, or simply stepping up when it counts, we aim to make a difference.
+We are defined by a relentless focus on quality, sustainability, and a deep understanding of the industries we serve.
+We believe in empowering people – both within our organisation and beyond – to achieve more, think differently, and drive meaningful change.
+I’m proud of what we’ve achieved so far, but even more excited about what’s ahead.
+Andy Poole, Chief Executive Officer
+Our vision & mission
+Vision
+To be recognised globally for enduring performance
+Mission
+To leverage opportunities through our expertise, dedication and agility in order to drive growth
+Our values
+_01
+Integrity
+We always do what is right
+_02
+Excellence
+We are unwavering in our passion for quality
+_03
+Teamwork
+We are better together
+_04
+Commitment
+We are dedicated to our people and our customers
+Our strategy
+Sustainability
+Our values-based approach
+Shaped by over 170 years as a family-owned business, our approach is grounded in strong values and long-term thinking. We build ethical, responsible business relationships with a focus on environmental awareness and sustainable success. Our people are committed to developing products that make a practical contribution to global energy needs and support the transition to a low carbon economy.
+A legacy built on engineering progress
+Our history spans more than 170 years of continuous innovation, manufacturing and technical development. From our beginnings as suppliers of agricultural equipment to local farmers, to delivering equipment to over 85 countries, Gilkes has grown through generations of engineering knowledge.
+Build your future with Gilkes
+Our people are at the core of everything we do. They are the driving force behind our success. Their passion, creativity and commitment allow Gilkes to grow, adapt and deliver trusted engineering solutions across the world.
+Our global brand
+Keep up to date with the latest developments from Gilkes: company news, project milestones, product updates, and insights across our UK and international operations.
+
+--------------------------------------------------------------------------------
+
+URL: https://gilkes.com/about-us/our-heritage/
+
+Our history spans more than 170 years of continuous innovation, manufacturing and technical development. From our beginnings as suppliers of agricultural equipment to local farmers, to delivering equipment to over 85 countries, Gilkes has grown through generations of engineering knowledge.
+The business has operated from the same site in Kendal, on the edge of the Lake District, since 1856 and has remained under the same basic ownership since 1881. With just nine Chairmen and a small number of Managing Directors over that time, the company reflects a culture of stability, long-term thinking and strong values.
+This timeline charts the milestones that have shaped Gilkes, from its origins to its position today as a recognised global supplier of hydropower and engine cooling solutions.
+Williamson Brothers
+1819
+KENDAL TO LANCASTER CANAL OPENS
+Creating an ideal foundry location.
+1853
+AGRICULTURAL ERA WILLIAMSON BROTHERS
+Williamson Brothers founded 1853.
+1856
+WILLIAMSON BROTHERS MOVE TO CANAL HEAD
+1856
+VORTEX TURBINE DESIGNED BY PROF. THOMSON
+Williamson Brothers acquire the rights to Professor Thomson’s Patent Vortex turbine. The first Vortex turbine is installed at James Cropper’s paper mill, at Cowan Head near Kendal.
+1860s
+WILLIAMSON BROTHERS START MAKING PUMPS
+Some are used in building the Suez Canal.
+1878
+FIRST HOUSE IN THE WORLD LIT BY HYDROPOWER
+Cragside, Northumberland. Now a National Trust Property. Lord Armstrong ordered a Williamson Brothers Vortex Turbine.
+Gilbert Gilkes
+1881
+GILBERT GILKES ACQUIRES WILLIAMSON BROTHERS
+Gilbert Gilkes & Co is formed.
+1897
+FIRST TURBINE INSTALLED AT BALMORAL
+The entry in Gilkes original ledger for Queen Victoria’s order for Balmoral highlighted in red.
+1919
+THE TURGO IMPULSE TURBINE IS INVENTED BY ERIC CREWDSON
+A patent for the Turgo Turbine was granted in the same year.
+Gilbert Gilkes & Gordon
+1928
+GILKES ACQUIRES JAMES GORDON & CO
+1932
+SELF PRIMING PUMP, INVENTED BY ERIC CREWDSON
+A patent for the pump was granted in the same year.
+1935
+Gilkes install new water turbine test facility
+Allowing turbines to be tested at the factory for the first time.
+1940
+GILKES PUMPS SUPPLIED TO GARDNER DIESELS
+Gardner were the first diesel engine builders to use Gilkes self priming cooling pumps for marine applications.
+1948
+NEW FACTORY
+A major investment including purchase of the disused canal basin enabled the building of the new factory.
+1952
+PELTON TURBINES FOR ENGLISH ELECTRIC
+In 1952 Gilkes stretched their manufacturing technology to build two 18.5MW Pelton Turbines for English Electric to be exported to Australia.
+1969
+THE QUEEN’S AWARD TO INDUSTRY (EXPORT)
+1972
+PUMPS SUPPLIED TO CATERPILLAR
+The “M” (metric) Series marine cooling pump was introduced in 1972 and adopted by Caterpillar thereafter.
+1978
+GILKES INC BEGINS OPERATION IN TEXAS, USA
+Gilkes begin supporting the refinery industry in Texas, from a small space in the unair-conditioned building!
+1981
+HRH PRINCESS ALEXANDRA OF KENT VISITS – CELEBRATING 125 YEARS OF THE COMPANY
+1983
+TWIN JET TURGO INTRODUCED
+The first twin jet Turgo turbine was designed and delivered to Peru in 1983. The 20” machine was built and delivered to Compania Minera Atacocha with a power output of 1260kW.
+1985
+FIRST VERTICAL 4 JET PELTON
+The first 4-jet Pelton turbine was manufactured for the Hatchet Creek project in the USA, with a power output of 7.3MW.
+1988
+ISO 9001 QUALITY MANAGEMENT STANDARD ACHIEVED
+1995-1999
+THREE NEW TURBINES INSTALLED AT KINLOCHLEVEN (10.2MW), THE FORMER ALUMINIUM SMELTER IN SCOTLAND
+Three 10.2MW Francis turbines are installed at Kinlochleven, the former aluminium smelter site where Gilkes had previously supplied a 1.2MW Turgo turbine [1968].
+1998
+HRH THE DUKE OF EDINBURGH VISITS TO OPEN NEW RECEPTION
+2003
+ISO / TS16949 QUALITY MANAGEMENT STANDARD ACHIEVED
+2005
+GILKES PUMPS USED ON LOCOMOTIVES
+2009
+GILKES INC NEW FACTORY OPENED IN TEXAS
+Within a few miles of the 1978 premises.
+2010
+THE QUEEN’S AWARD FOR EXPORT (INTERNATIONAL TRADE CATEGORY)
+2010
+GILKES ENERGY FOUNDED
+Gilkes Energy Subsidiary founded to develop, design, build and operate hydroelectric schemes.
+2014
+INSTALLATION STARTS ON GILKES’ LARGEST OVERSEAS HYDRO PROJECT
+21MW Expansion of Blue Lake Hydropower Plant at City Of Sitka, Alaska.
+2015
+GILKES DELIVERS ITS 150,000TH ENGINE COOLING PUMP
+2016
+COMPANY MOVES INTO NEW OFFICES AND OPENS TECHNICAL CENTRE
+Expansion and Refurbishment of Offices, Factory and Test Facility at the Canal Head Site.
+2018
+OVER 6800 TURBINES EXPORTED WORLDWIDE
+2018
+OLIVER WIGHT CLASS A AWARD
+Gilkes successfully achieve Class A performance in Planning and Control and continues to establish itself as a leader in its field.
+2019
+100 YEARS OF THE TURGO
+Gilkes Original Design Turgo Turbine makes its Centenary Year! 100 years later and the Turgo maintains its place as one of the most popular hydropower turbine designs, testament to the longevity of the original design and technology.
+2022
+CUMMINS DELIVERY AND DIRECT SOURCING AWARD
+Gilkes are recognised with a “Best Delivery Performance – Direct Sourcing Award” from Cummins. The award, for performance in 2022, is in recognition of the partnership and dedication the Gilkes team have shown towards Cummins.
+2023
+CATERPILLAR SUPPLIER EXCELLENCE AWARD
+Gilkes Inc, Texas receive recognition for 100% on time delivery of remanufactured pumps.
+2023
+BHA HISTORIC RENOVATION AWARD
+Gilkes win the British Hydropower Associations Historic Renovation Award for work on the New Lanark Mills hydropower refurbishment project in Glasgow.
+This award showcases the exceptional efforts in restoring and revitalizing historical hydropower sites.
+
+--------------------------------------------------------------------------------
+
+URL: https://gilkes.com/new-hydropower-projects/
+
+The energy landscape is evolving. Global demand continues to rise, nearly a billion people still lack reliable access to electricity, and the urgency of addressing climate change has never been greater.
+Designed to harness the power of water, our hydropower projects connect rural communities by bringing energy stability to remote locations, recover energy from high-pressure sources to reduce waste, optimise efficiency to extend the lifespan of hydropower plants, and provide clean, affordable, and low-carbon hydroelectric power, essential for a sustainable future.
+Gilkes hydropower solutions are built for lasting performance and long-term reliability. Whether developing a new hydropower project or extending the life of an existing plant, we take a holistic approach to understanding your objectives and determining how we can best support your needs.
+With more than 170 years of experience in water-to-wire solutions, Gilkes’ Francis turbines, Turgo turbines, and Pelton turbines generate power worldwide. From Alaska to Zimbabwe, from medium to high head, from 50kW to 20MW, and from mini-grids to large utilities, our solutions deliver efficiency and dependability.
+We are committed to maintaining the optimal performance and longevity of your hydropower plant. Through our comprehensive expertise in hydropower engineering, including design, consultation, modernisation, and servicing, we ensure long-term, reliable hydroelectric generation.
+Benefits of small hydro
+- Clean, affordable, reliable and long-term sustainable energy resource
+- Low Carbon Technology
+- Environmentally and socially responsible
+- Short return on investment with long asset life
+- Scalable installations for any landscape or location
+- Easy to operate and service
+With no need for large dams or reservoirs, small run of river hydropower systems offer a low-impact, efficient solution for small-scale renewable energy.
+Systems are easy to operate and maintain, with a short return on investment and long asset life. Installations can be scaled to suit different landscapes and locations, making small hydro a flexible and sustainable option for local power generation.
+Advantages of a small run of river hydropower plant
+- Minimal environmental impact
+- No disruption to natural flow – water is returned to the river
+- Predictable seasonal output
+- High efficiency and reliability
+Harnessing the natural flow of rivers
+Run-of-river hydropower takes advantage of natural water movement. Water is typically diverted from a river at a high point and channelled through a pressurised pipeline (penstock) to drive hydropower turbines. This technology is most effective where rivers provide a consistently strong and steady flow.
+Gilkes hydropower solutions
+Gilkes Hydro are world-leaders in designing, manufacturing and commissioning hydro schemes with over 6800 hydro turbines operating worldwide.
+Our tailored hydropower solutions are optimised for site-specific parameters utilising in-house designs to ensure maximum hydropower generation from the available resource.
+We offer a full ‘concept to commissioning’ service with professional advice right from the start of the design process from turbine selection to energy calculation.
+If you have a greenfield project you would like the Gilkes Hydro team to review, visit our contact page.
+Energy recovery hydropower involves capturing potential energy from pressurised water systems already in use for other applications.
+Typical applications include
+- Energy generation from an existing process
+- Water transfer between reservoirs, tanks, or holding sources
+- Conveyance for municipal drinking water systems
+- Transfer of raw water to treatment facilities
+- Wastewater treatment applications
+These processes often rely on gravity-fed hydropower systems with large-diameter pipes. As water moves from higher elevations to lower distribution points, pressure must be reduced before entering treatment plants or municipal networks.
+Typically, pressure is reduced using pressure reducing valves (PRVs), which dissipate energy as heat and require electrical power to operate.
+Advantages of energy recovery using hydropower
+- Reduced environmental impact
+- Turbine integration as a flow control device
+- High efficiency and reliability
+Downloads
+Gilkes energy recovery solutions
+We offer energy recovery solutions that transform previously wasted energy into hydropower generation. Our range of hydropower turbines is designed to harness available energy and convert it into electricity using reaction or impulse turbines.
+For pressurised hydropower systems that require downstream pressure control, a Francis turbine offers the best fit. Where atmospheric discharge is possible, Gilkes Turgo or Pelton turbines provide an effective alternative. The Turgo turbine is especially well suited to water treatment facilities, where it can deliver both flow control and energy recovery.
+Gilkes can assess and compare the suitability of impulse and reaction turbines for each application, taking into account whether the discharge is pressurised or atmospheric.
+Power generated can be used for:
+- Offsetting energy consumption in water treatment and wastewater facilities
+- Exporting electricity to the grid through power purchase agreements
+- A combination of behind-the-meter consumption and grid export
+In all cases, maintaining water supply is the primary function, with hydropower energy recovery as a secondary benefit. To ensure reliability, hydropower turbines are often installed in parallel with PRVs to maintain continuous water supply if a turbine is offline.
+We work with several UK utility companies to offer additional areas of engineering work to support their energy recovery systems.
+These services include:
+- Assessment of flow data to identify the most suitable turbine type for energy output, taking into account specific site parameters and operating conditions
+- Turbine behaviour modelling to support schemes requiring controlled and accurate flow delivery upstream of water treatment facilities
+- Bypass system designs including pressure control through pressure reducing valve arrangements
+- Hydraulic schematic modelling to map and understand the wider water network
+- Simulation of both steady state and transient flow scenarios to predict system behaviour
+- Integration of control systems developed to meet utility sector requirements and operating standards
+- Specification of coatings and materials proven for use with potable water across the full range of site environments
+Mini-grid solutions for rural communities
+Mini-grid power systems provide localised electricity generation independent of national grids. They are often developed to deliver off-grid hydropower to rural communities or to stabilise unreliable energy networks.
+Mini-grid hydropower systems enable communities to harness their renewable energy resources, reducing reliance on fossil fuels.
+In remote areas, small-scale mini-grid projects can bring off-grid electricity to entire communities. This provides lighting, television, and communication for homes, schools, clinics, and public buildings. The generated power can also support small businesses by running machinery and refrigeration systems.
+Advantages of hydropower in mini-grid systems
+- A renewable, free energy source
+- Low environmental impact
+- Proven, mature technology
+- Long equipment lifespan
+- Reliable, high-quality electricity
+- Low maintenance requirements
+- Robust control systems with minimal operator input
+- Ability to integrate with other power sources
+Hydropower as part of a mini-grid
+Mini-grid energy systems increasingly integrate multiple renewable energy sources. Small hydropower schemes play a crucial role due to their reliability and consistency.
+With decades of experience in rural electrification, Gilkes has developed hydropower solutions for:
+- Integration into new or existing mini-grids
+- Operation in both islanded and grid-connected modes
+- Provision for future connection to national grids
+- Black start capability
+- Rapid response to load demand changes
+- Parallel generation with other renewable energy sources
+- Dispatchable power on demand when energy storage is available
+Gilkes brings extensive global experience in mini-grid hydropower development, ensuring reliable, sustainable electricity for remote communities.
+Turbine & control systems
+Hydropower packages: a complete, tailored solution
+Gilkes provides fully integrated hydropower solutions, delivering a complete service from concept to commissioning. Each project is uniquely designed to meet site conditions and operational needs, ensuring efficiency and long-term performance.
+HydroView
+Smart, secure hydropower monitoring
+- Smart, secure hydropower monitoring
+- Secure remote access – monitor multiple sites from one portal
+- Advanced diagnostics – identify faults before they escalate
+- 24/7 alerts – stay informed and act fast
+We’re with you for every step of the way
+Talk to an expert today about your hydropower needs.
+
+--------------------------------------------------------------------------------
+
+URL: https://gilkes.com/hydropower-asset-services/hydroview/
+
+Keep your hydropower assets performing at their best with HydroView, the next-generation remote monitoring solution.
+Designed to provide secure turbine monitoring solutions, HydroView offers powerful features that improve efficiency, reduce downtime, and give you greater control over your operations.
+Why choose HydroView?
+- Secure remote access to view and manage your hydropower system from anywhere with an industrial VPN gateway, eliminating the need for a static IP address.
+- Access multiple sites from a single login allowing oversight of operations across all your hydropower assets.
+- Manage on the go via our app for mobile and tablet devices.
+- Advanced user management to invite and manage users, create custom access groups, and assign specific roles for better control.
+- Audit logging allows user access tracking to the system for improved security.
+- Enhanced remote support allowing Gilkes engineers to diagnose, update, and optimise your system remotely, reducing costly site visits.
+- Future-proofed system with ongoing developments to introduce more features, keeping you ahead with advanced hydropower asset management and reporting capabilities.
+Improve efficiency, reduce downtime, and give you greater control over your operations
+Benefits of HydroView
+_01
+Reduce downtime
+Real-time alerts and remote diagnostics help prevent costly disruptions.
+_02
+Improve efficiency
+Get detailed insights into system performance, allowing proactive maintenance and hydropower plant optimisation.
+_03
+Increase security
+Protect access to your system with secure logins and controlled permissions.
+_04
+Save time and costs
+Eliminate unnecessary travel with remote monitoring and support.
+_05
+Optimised performance
+Enhance long-term turbine efficiency with predictive maintenance capabilities.
+HydroView is simple to use and can be accessed anywhere
+Get started today
+HydroView is the smart way to manage your hydropower assets whether you oversee a single site or multiple installations, our technology ensures you stay connected and in control.
+Enquire today to gain secure, real-time access to your system and experience the future of hydropower remote monitoring.
+
+--------------------------------------------------------------------------------
+
+URL: https://gilkes.com/new-hydropower-projects/turbines-control-systems/
+
+Gilkes offers single source, water to wire solutions for a range of hydropower applications. From large utilities to small mini grids, our solutions are tailored to meet the needs of each individual project, uniquely designed to meet site conditions and operational needs and ensure efficiency and long-term performance.
+A bespoke approach to every project
+No two hydropower schemes are the same. Site conditions, water flow, and operational requirements influence every design. Our experienced team works closely with customers to develop tailored hydropower solutions that maximise efficiency and reliability.
+A dedicated project team provides a single point of contact, ensuring clear communication and seamless project execution. Our engineers oversee hydraulic design, system integration, and commissioning, ensuring smooth development with minimal management required from the customer.
+Seamless project delivery
+Our multi-disciplinary team of engineers and designers brings extensive experience across the hydropower sector. Using tools such as SolidWorks and ANSYS to produce 3D designs, 2D layouts, CFD and FEA, we develop systems built for long-term performance and reliability.
+Project execution includes:
+- Turbine selection based on site conditions
+- Energy calculations and surge analysis
+- Precision design and specification
+- Advanced hydropower manufacturing and assembly
+- Sub-contracted equipment sourced from approved suppliers
+- Rigorous quality control and factory testing
+- Expert installation and commissioning
+- Ongoing support and maintenance across the system lifecycle
+This integrated approach supports efficient project delivery, with every system designed to perform reliably from day one.
+A proven partner in hydropower
+With over 170 years of experience, Gilkes is a trusted leader in small hydropower solutions worldwide. Our bespoke hydropower packages deliver dependable performance, providing customers with confidence in every investment.
+By choosing a Gilkes hydropower package, customers gain a fully integrated, expertly managed solution built for efficiency, reliability, and long-term success.
+Our in-house CFD team uses ANSYS Fluent and high-performance computing to support turbine design and development. With over 40 years of combined experience, we carry out detailed fluid flow analysis to optimise turbine performance.
+CFD is applied across customer projects and internal R&D to improve efficiency, reliability and system integration.
+Applications for customer projects include:
+- Performance mapping at site-specific conditions
+- Assessment losses of upstream and downstream pipework
+- Structural analysis using hydrodynamic load data
+Applications in research and development include:
+- Runner blade design for Francis, Pelton and Turgo turbines
+- Spiral case and manifold optimisation
+- Nozzle and spear profile design for impulse turbines
+- Pelton and Turgo case development
+- Draft tube design for Francis turbines
+This capability supports precision engineering and continuous improvement across our full turbine range.
+Our latest investment in 5-axis machining enhances our in-house capability and increases productivity. The Mazak INTEGREX E-120V/8S allows us to fully machine turbine runners from a solid billet, improving accuracy and lead times.
+We also use 3D scanning to support reverse engineering of hydropower components. With a handheld Creaform laser scanner, our engineers capture complex turbine geometry at resolutions up to 25 microns. The data is processed using surfacing software to generate precise CAD models, which form the basis for manufacturing replacement components that match the original design.
+The original Turgo design
+The Turgo impulse turbine was first developed by Gilkes in 1919 and remains a widely used hydropower solution. Designed as a side-entry impulse turbine, it typically operates at twice the speed of a Pelton turbine when working under the same head. This design was patented by Eric Crewdson, Grandfather of the current Gilkes chairman, and over a century later the Turgo continues to deliver reliable performance in a range of hydropower applications.
+Design and performance
+The Turgo turbine is designed for efficiency and reliability on medium head applications, making it well suited to a wide range of hydropower schemes. Its design allows for higher rotational speeds than a Pelton turbine, helping to reduce the size and cost of generators and potentially removing the need for a gearbox. The Turgo also maintains high efficiency across a wide flow range, making it a practical alternative to the Francis turbine in run-of-river installations where flow can vary.
+Key features
+- Covers the boundary between Francis and Pelton applications
+- Limits over-pressure effect over the penstock
+- Higher speed equals weight and cost reduction
+- Maintains efficiency over a wide flow range
+- Superior abrasion resistance
+- Ease of operation and maintenance
+Application areas
+- Rural electrification
+- Run-of-river hydropower
+- Suitable for monsoon climates where there is high sediment load
+- Good alternative to the Francis where over-pressure of the penstock is a concern, or on medium heads if the flow rates are variable
+- Industrial and municipal power generation projects
+Development and engineering enhancements
+Gilkes continues to refine the Turgo turbine, incorporating advances in design and materials to improve performance and longevity. Current developments include:
+- Optimised Turgo runner and injector designs
+- Turgo runners fully machined from single forged block, or alternatively investment cast for superior dimensional accuracy
+- Integration with modern control systems
+The Turgo turbine remains a key component in small to medium-scale hydropower projects, offering a balance of efficiency, durability, and cost-effectiveness.
+- Power output: up to 10MW
+- Head range: 50–250m
+- Configuration: horizontal - single and twin jets
+- Over 1000 installations worldwide
+- Installations in 65 countries
+Downloads
+View a full Turgo hydro assembly
+Pelton impulse turbine
+High-efficiency turbine for high-head applications
+The Pelton impulse turbine is suited to sites with high head and low flow. It operates by directing high-velocity water jets onto the runner, converting water energy into rotational force. Available in single or multi-jet configurations, with horizontal or vertical arrangements, the Pelton is designed to deliver high energy transfer and efficient performance.
+Design and performance
+The Pelton turbine maintains high efficiency across a wide range of flows. When multiple jets are used, this range is further extended, optimising annual energy production. Each Gilkes Pelton turbine is selected and configured based on site-specific conditions to maximise power generation and system performance.
+Key features
+- High efficiency at varying flow conditions ensures stable power generation
+- Low wear and maintenance reducing long-term operational costs
+- Runners fully machined from single forged block for durability
+- Being an impulse turbine, easy to govern for islanded operation
+- Limits over-pressure effect over the penstock
+Application areas
+- Rural electrification
+- Run-of-river hydropower
+- Energy recovery in water systems
+- Industrial and municipal power generation projects
+Streamline range – Pelton turbines
+For smaller hydropower applications, Gilkes has developed the Streamline range, designed specifically for sub-1MW projects. These turbines are built for simplicity, durability, and ease of installation. The design simplifies the civil engineering requirements typically associated with hydro schemes, making deployment more cost-effective and improving serviceability.
+Development and engineering enhancements
+Gilkes continues to refine Pelton turbine technology, incorporating modern materials and control systems to enhance performance and longevity. Advances in Computational Fluid Dynamics (CFD) modelling and precision manufacturing ensure each turbine is optimised for its specific site conditions.
+The Pelton impulse turbine remains a key solution for high-head hydropower projects, delivering consistent performance, efficiency, and reliability.
+- Power output: up to 20MW
+- Head range: 100-1000m
+- Configuration: horizontal – single and twin jets
+vertical – up to 6 Jets - Over 1000 installations worldwide
+- Installations in 57 countries
+View a full Pelton hydro assembly
+Francis reaction turbine
+Versatile and efficient turbine for medium head applications
+The Francis turbine is suited to sites with low to medium head and high flow. Water enters through a pressurised spiral casing and is directed by adjustable guide vanes onto the runner blades. The resulting water pressure drives rotation, delivering efficient power generation across a broad operating range.
+Design and performance
+Gilkes offers Francis turbines in both horizontal and vertical configurations, ensuring adaptability to site conditions. Flow control is managed by electric or hydraulic actuators, which adjust the guide vanes for optimal efficiency. The turbines can operate in standalone mode with a speed governor or be controlled via PLC systems for integration with distribution grids.
+Key features
+- High efficiency at full flow condition
+- Relatively small footprint
+- Has a draft tube outlet to utilise the maximum available head
+- Runners fully machined from single forged block for durability
+- Option to have a pressurized outlet if required
+Application areas
+- Run-of-river hydropower
+- Generation from reservoirs & dams
+- Energy recovery in water systems
+- Industrial and municipal power generation projects
+- Grid-connected and off-grid systems
+Francis turbine in the water industry
+The Francis turbine is widely utilised in water treatment facilities and municipal water systems to recover energy from pressurised pipelines. Instead of dissipating excess pressure through a pressure-reducing valve (PRV), a Francis turbine can be integrated to generate renewable electricity while maintaining system stability.
+Development and engineering enhancements
+Gilkes continues to refine Francis turbine technology, incorporating advanced materials and computational fluid dynamics (CFD) modelling to enhance efficiency and longevity. These innovations ensure that the Francis turbine remains a key solution for hydropower projects.
+- Power output: up to 20MW
+- Head range: 30-400m
+- Configuration: horizontal and vertical
+- Over 1400 installations worldwide
+- Installations in 66 countries
+View a full Francis hydro assembly
+Compact turbine range
+Reliable and efficient turbines for sub-150kw applications
+The Gilkes compact turbine range consists of Pelton and Turgo turbines, engineered specifically for sub-150kW hydropower applications. These turbines feature a compact case design, electric actuation, and precision-engineered runners and spear valves, ensuring a cost-effective, durable, and efficient solution for a broad range of hydraulic conditions. Designed for easy integration, the compact range offers flexibility while maintaining high performance.
+Technical specifications
+- Power output: Up to 150kW
+- Design: Compact case with precision runners
+- Actuation: Electric (instead of hydraulic)
+- Optimised footprint: Reduced installation costs and space requirements
+Design and performance
+The compact turbine range is built for reliable performance across varied operating conditions. Electric actuation replaces hydraulic systems, resulting in cleaner operation and reduced maintenance. With a simplified design, these turbines offer a cost-effective and adaptable solution for small-scale hydropower schemes.
+Key features
+- Electric actuation avoids the complexity of hydraulics and reduces maintenance
+- Compact and lightweight design minimises installation complexity
+- Cost-effective solution designed to optimise efficiency at lower operational costs
+- Adaptability across hydraulic duties suitable for a variety of flow conditions
+Gilkes compact turbine control system
+The Gilkes compact turbine control system is a fully automated solution, capable of managing both grid-connected and islanded installations. Designed to work with both induction and synchronous generators, it ensures smooth and efficient operation.
+Standard control system features
+- Cost effective Micro PLC control panel providing intelligent automation and real-time monitoring
+- Touch screen HMI enhances user interface and system interaction
+- Secure remote connection – for remote monitoring and control
+- Head level control to maintain steady power generation
+- Optional vibration monitoring to detect early signs of mechanical wear
+- Bearing temperature monitoring ensures longevity of turbine and generator components
+- G99 protection relay to maintain grid compliance
+- Power factor correction when using induction generators
+Additional options
+- Larger touch screen HMI with customisable interfacefor advanced control
+- Remote monitoring provides real-time data access
+- Email alerts for automated system performancenotifications
+Integration and maintenance
+The compact turbine is a core component of hydropower projects, requiring seamless integration with electrical, mechanical, hydraulic, and civil systems. With experience gained from thousands of projects, Gilkes delivers a fully integrated equipment package, ensuring that each turbine is optimised for its specific hydraulic duty and site conditions.
+Hydropower control systems and electrical integration
+Gilkes provides integrated hydro control systems that connect turbines safely to the grid, matching voltage and frequency requirements. Each system typically includes a PLC control panel with synchronising relays and metering, alongside a main breaker panel. Protection relays are included to meet G99 and G100 grid codes, voltage control standards and international safety regulations. We offer system design, installation, testing, inspection and modernisation, with flexible packages suited to both new installations and existing sites.
+Our control systems are designed to manage and protect hydropower schemes while maintaining dependable generation. They manage turbine operations, track performance, and support safe grid connection. Key functions include water to wire integration, black start capability, grid or island mode transition, multi-turbine management, and remote access. Systems can link with SCADA and be upgraded with new panels, generator updates, and AVR changes.
+Each package is tailored to the site’s technical needs and the operating team’s experience. From basic manual setups to automated systems for multi-site control, all solutions are assembled and tested in-house, replicating site conditions to reduce commissioning time and support a reliable handover.
+HydroView
+Smart, secure hydropower monitoring
+- Smart, secure hydropower monitoring
+- Secure remote access – monitor multiple sites from one portal
+- Advanced diagnostics – identify faults before they escalate
+- 24/7 alerts – stay informed and act fast
+We’re with you for every step of the way
+Talk to a hydropower expert today to protect your assets for future generations.
+
+--------------------------------------------------------------------------------
+
+URL: https://gilkes.com/wp-content/uploads/2025/07/energy-recovery-uk-water-projects.pdf
+
+T
+he topography of Scotland means a large amount of Scottish Water’s energy use is in pumping water around 
+the country. Additionally, a lot of energy is required to treat water to meet regulatory standards, despite the 
+generally high raw water quality in Scotland. In order to reduce power costs for water supply and treatment by 
+10%, and in doing so help keep down Scottish Water’s operating expenditure, the company is progressing with a 
+£20 million+ hydropower generating scheme that will use the existing water supply pipes to generate electricity for 
+the utility’s own assets.
+Project background
+The project involves installation of hydro turbines at raw water 
+and treated potable water locations. More than 30 sites have been 
+identified that could, using techniques most commonly seen in 
+hydroelectric schemes, power the water treatment process in areas 
+such as rural Lanarkshire, the Borders, Stirlingshire, Angus and Fife. 
+The schemes will make good use of existing Scottish Water buildings 
+and also see the construction of some small buildings and electricity 
+infrastructure to transfer the power from the point of generation 
+back to the water treatment works where it is required. Some of 
+the electricity infrastructure will be ‘off the grid’, so any major power 
+loss caused by the power companies would not affect the supply 
+of water to customers. This is a key part of Scottish Water’s Climate 
+Change Strategy and will substantially reduce its carbon footprint. 
+The technology offers the dual benefits of improved service and 
+reduced operating costs. 
+This is nothing new; Scottish Water’s asset base is already generating 
+5% of the company’s power requirements across Scotland and 
+this investment will double that output. The project team have 
+identified a number of potential sites and these will be whittled 
+down to the best 20 or so small hydro schemes.
+The project team is working closely with the national park 
+authorities, community councils, power companies and planning 
+officials to make sure these small hydro turbines have minimal 
+effect on the landscape. Some of them will be situated in areas 
+that are very remote so constructing them will require very diligent 
+planning work.
+Investment
+£20m is a large investment, but it will soon pay itself back by 
+allowing Scottish Water to generate its own power. The power 
+derived from the project can be used  by Scottish Water to offset 
+Renewable Energy w ww.WaterProjectsOnline.com
+ Page 12 UK Water Projects 2012
+Wide shot of the turbine at Turret WTW in Crieff, Scotland - Courtesy of Scottish Water, Gilkes and Black & Veatch
+Hydropower Generating Scheme
+hydro project will provide Scottish Water with 
+self-generated power for their assets
+by William Ancell BA (Hons)
+
+www.WaterProjectsOnline.com R enewable Energy
+UK Water Projects 2012 P age 13
+required energy at water treatment facilities across Scotland, or 
+to directly feed into the power grid system via a power purchase 
+agreement with NPower; and in some instances, both.
+During the project feasibility phase, a number of various scheme 
+types/location have been identified, for example: run of river; dam 
+compensation flows/spills; inlet to water treatment works; and inlet 
+to break pressure tanks and network pipelines.  
+The turbines
+Scottish Water has set up new supplier frameworks for the 
+hydroelectric equipment, and the required turbines will be sourced 
+where possible from Gilkes, Ross-shire Engineering and SSE.  
+The proposed turbines for installation range from TJ  Turgos to 
+Francis and Peltons; however detailed design will clearly identify 
+the “best fit” for each location to match head and available flow.
+Civil engineering works
+Additional civil structures will be required for the chosen sites/
+locations.  The main civil work will be undertaken at the run of river 
+locations. These are essentially installed on greenfield sites, so in 
+order to install the hydropower solutions new intakes, penstocks, 
+pipelines, access roads etc will be required.  
+Civil works will also be required at other locations. However these 
+are within existing Scottish Water operational assets and most have 
+existing pipelines and some structures already in place.  
+Power generation using compensation flows from (raw water) 
+dams/reservoirs
+This is the traditional form of power recovery at reservoirs and 
+to some extent at treatment plants, where water requires to be 
+returned to a river/water course to maintain agreed minimum flow 
+regulation.
+For these schemes, there is generally a constant flow of water 
+available. Installing a hydro turbine at these locations allows 
+Scottish Water to tap into this existing resource and generate 
+power via installation of a suitable hydro turbine unit. The 
+generated power can be utilised to offset required energy for the 
+water treatment works or be exported to the power grid system via 
+a power purchase agreement, or both.
+Inlet to water treatment works
+Water entering a plant for treatment will pass through a suitable 
+turbine. This also provides power for use (off-set) on-site or again 
+export to the grid again via a power purchase agreement.  
+In general a Turgo impulse turbine is used at these locations 
+because it allows inlet flow control to be independent of power 
+generation.
+Feasibility studies key to identifying sites
+The project team carried out feasibility studies on 48 sites, this 
+was reduced to 34 sites on completion of the feasibility phase.  
+Identified sites range across all of Scotland, from Loch Katrine in the 
+Trossachs, to Glendevon in Fife and to areas in the south, east and 
+west of Scotland.  
+Under this programme of works, Scottish Water have in the region 
+of 20+ sites that will progress forward to the construction phase.  
+Within  these sites the estimated annual energy output ranges 
+between 318MWh-4,632MWh. 
+Sites being utilised fall into the following categories:
+• Raw water: run of river schemes (greenfield site); dam 
+flows to water treatment works; dam compensation flows 
+& spills to rivers.
+A Gilkes turbine installed at a WTW by Black & Veatch
+Courtesy of Scottish Water, Gilkes and Black & Veatch
+Detail of the external casing of the turbine at Turret WTW
+Courtesy of Scottish Water, Gilkes and Black & Veatch
+hydro@gilkes.com
+Gilbert Gilkes & Gordon Ltd, Canal Head North, Kendal, Cumbria LA9 7BZ, UK 
+01539 790028 hydro@gilkes.com www.gilkes.com
+4Specialists in providing hydroelectric opportunities for power 
+ recovery in the water industry 
+4Proven designs for specific applications including energy 
+ dissipation, flow control and power recovery
+4Gilkes package includes design, manufacture, installation, 
+ commisioning, testing, routine service, plant upgrade and the 
+ handling of full turnkey contracts
+4Established since 1853 - produced over 6500 turbines 
+HYDROPOWER SYSTEMS
+
+
+Renewable Energy w ww.WaterProjectsOnline.com
+ Page 14 UK Water Projects 2012
+• Potable water locations: Inlet to break pressure tanks, inlet 
+to service reservoirs or by running water through pressure 
+reducing valves (PRVs).
+Scottish Water completed the project feasibility phase at the end of 
+August 2011 and has now moved into the development phase with 
+all 34 identified sites.  
+Regulatory outputs
+The regulatory outputs were set by the Water Industry Commission 
+for Scotland (WICS) and are as follows: 
+1.
+ I
+ncrease generation of renewable energy on Scottish Water 
+assets by 25GWh per annum by 31st March 2015.  
+2.
+ D
+uring 2014/15, deliver (net) operational expenditure 
+savings of £2m as a direct result of investment in hydro-
+renewable energy schemes on Scottish Water assets. 
+Undertakings
+Scottish Water has undertaken a partnering approach with their 
+framework Design and Build contractors. The 34 sites have been 
+split into three groupings then allocated to each of three partners:
+• Black & Veatch.
+• Amalgamated Construction.
+• Ross-shire Engineering.  
+The development phase is presently programmed for completion 
+across all three groupings by August 2012. The project team are 
+currently liaising with local planning departments, SEPA, National 
+Parks Authority and DNOs (Distribution Network Operators: SSE 
+and Scottish Power).
+The design and build partners are developing each of the 
+identified schemes.    On completion of the development phase, 
+Detail of a Gilkes turbine - Courtesy of Scottish Water, Gilkes and Black & Veatch
+the project team will identify and take forward 20+ sites into the 
+implementation phase (construction) to allow achievement of 
+regulatory outputs for this programme of works. The identification 
+of the best sites will be based on selection criteria ranging from 
+simple payback to whole life cost analysis. 
+Progress
+Scottish Water procurement has set up new frameworks to cover 
+the requirements of the hydro programme of works:
+• Design and Build contractors (now in place).
+• Kit suppliers (turbines, now in place).
+• Operation and maintenance (presently ongoing).
+This work is all part of Scottish Water’s wider renewable energy 
+portfolio which also includes wind and biogas production from 
+food waste. 
+The overall portfolio of green energy projects places Scottish Water 
+at the forefront of innovation in the UK water industry and is in line 
+with the aspirations of the Scottish Government’s ‘Building a Hydro 
+Nation’ Water Bill, which aims to harness Scotland’s renewable 
+energy potential from water and the wider Scottish Water estate 
+and to capitalise on the industry expertise that has been built up 
+over the ten years that Scottish Water has been in existence.
+In addition to this project, Scottish Water Horizons, the commercial 
+arm of Scottish Water, has recently installed a micro-turbine at the 
+redundant Touch WTW in Stirling. This is creating power which is 
+then sold back to the current power purchase agreement partner 
+NPower. Horizons is driving forward the green agenda as part of 
+Scottish Water’s drive to be a low-carbon business.
+The editor & publishers thank William Ancell, Senior Press Officer 
+with Scottish Water, for providing the above article for publication.
+
+Turret WTW
+£24m upgrade & refurbishment project
+by
+David Crawford
+A
+t 359 metres above sea level, Turret Water Treatment Works (WTW) is the highest in Scotland and sits deep in
+the picturesque Glen Turret, located approximately 3.5km to the North West of Crieff, a location popular with
+tourists and hill walkers. Commissioned in 1967, the original WTW serving central Scotland (pe 70,000)
+comprised of microstrainers and ozone treatment (the first of its kind in Scotland) followed by chlorination. The design
+included the construction of two hydroelectric generating stations, one at the WTW itself and one further down the
+valley. With a combined capacity of 1,725 megawatts this was enough to run the entire Plant and allow Scottish Water
+to sell surplus through the National Grid.
+Multiflo Sludge Plant Courtesy of Scottish Water Solutions & GMJV
+Throughout its life however the Plant was to suffer from periods of
+very poor raw water quality, primarily due to rain flushes from the
+peat bogs contained within the catchment. These in turn affected the
+quality of the final water to supply and, as a result, the Ozonation
+plant was eventually replaced in 1971 by six Rapid Gravity Filters
+(RGFs). 
+In 2005 and after further upgrades including a second clear water
+tank and sludge handling facilities, it was recognised that the WTW
+was due for an extensive upgrade in order to comply with future
+Water Quality Directives.
+Scope
+The remedial works proposed were designed to deal with various
+Drivers as laid out by the Water Industry Commission for Scotland
+and Scottish Parliament. In particular they should allow the Plant to
+achieve an output of 85MLD during colour/turbidity raw water peaks
+while continuing to comply with water regulations. The primary
+Water Treatment & Supply
+251
+
+elements of the upgrading were: a two stream Actiflo Clarification
+stage; a new 10 million litre Chlorine Contact Tank & Chlorination
+system; Chemical building; Sludge Treatment Plant and the
+refurbishment of the existing six RGFs. In addition, the Turbine Hall
+at the WTW was replaced with the installation of a new more efficient
+550KW turbine & new break pressure tank.
+Scottish Water Solutions Project Managed the work, the Design was
+carried out by Faber Maunsell AECOM and the Construction work
+was delivered through a partnership of Galliford Try and Morgan EST
+(GMJV). Work commenced on site in February 2008 and was
+successfully completed at the end of March 2010.
+Design
+At the project’s inception, it was recognised that successful delivery
+would be dependent upon effective pre-planning, cooperation and
+coordination of effort between members of the team and other
+stakeholders and a prompt start to the physical work in order to meet
+the tight time schedule. The strategic approach taken was to involve
+Scottish Water, Stakeholders and the Contractor in all stages of the
+project to deliver an asset that met the client’s requirements in terms
+of quality; and build a highly effective Project Team that shared
+experience and expertise in order to achieve the project objectives.
+Key to the success of the project was the early appointments of a full
+time dedicated Senior Treatment Operator and Contractor to the
+Project Team to provide operator input and buildability at the design
+stage.
+Faber Maunsell AECOM developed a two stage design programme
+that would allow the Scottish Water milestones to be met, whilst also
+progressing the detailed design to meet construction needs. The main
+challenge faced was the timescale to meet the legislative deadline for
+the upgrade work by the end of March 2010. It was therefore essential
+to start construction on site by early 2008 to achieve the deadline date,
+so the main elements on the project had to be designed in advance of
+this to allow the procurement process to progress while the civil work
+started. At an early stage, packages of work were identified that would
+need to be developed in advance of the main design deliverables.
+The project included the installation of an Actiflo clarification plant,
+the first major installation of such a plant in Scotland. It was clear that
+learning about the design, construction and operation of this
+technology was essential to the team. A series of learning visits to
+United Utilities existing Actiflo facility in Hodder, Lancashire was
+therefore arranged so that over the course of several months the
+designers, contractors and operators were all able to see the plant in
+operation and learn about the implication for design, building and
+operation of the facility.
+Construction / Delivery Issues
+The sole access to the Turret site is via a single 2km track road through
+the Glenturret estate. The access road was unsuitable for some large
+vehicles travelling to and from site during construction. After
+consultation with haulage contractors and Managers of the Estate
+some sections of road were extended in order to accommodate
+vehicles with a larger wheel base.
+The roads are in constant use by workers on the Estate and members
+of the public who visit the area for a range of outdoor activities. As a
+result a detailed traffic management plan was instigated to minimise
+disturbance and delays. When a major concrete pour was due all the
+relevant parties were contacted in advance, including the Glenturret
+Estate and Scottish Water to alert them to increased heavy plant using
+the access roads. In addition to the public and construction traffic,
+Scottish Water required regular essential chemical deliveries to the
+WTW which required additional traffic management measures to limit
+impact upon any traffic.
+To ensure the smooth running of these measures three traffic marshals
+were employed one on site and two at staging posts on the access
+roads, the marshals keeping in constant communication to ensure
+effective management of traffic.
+Chlorine Contact Tank Courtesy of Scottish Water Solutions & GMJV
+Water Treatment & Supply
+252
+
+Chemical building Courtesy of Scottish Water Solutions & GMJV
+ Sludge Holding Tanks Courtesy of Scottish Water Solutions & GMJV
+Water Treatment & Supply
+253
+Adverse weather conditions were identified as a risk factor due to the
+Turret site’s elevation and exposed position. Many precautions were
+instigated on site including special wet weather gear; thermal gloves
+and tinted eye protection for operatives; a gritter and a tractor with
+snow plough to ensure the WTW and site were kept operational. The
+frequent high winds presented risk when operating the two large
+crawler cranes on site. Some days temperatures dropped to minus
+thirteen degrees Celsius on site and some work activities had to be
+suspended due to the high winds.
+Limited space was available for the construction of the chlorine
+contact tank and 7,000m
+3 of rock was removed to create an area for
+construction of the building. Because of environmental sensitivities
+it was not possible to remove the rock by blasting. The most effective
+means of rock removal proved to be the use of a rock planer which
+broke the rock down into particle sizes. The material was taken out,
+tested and reused within the project for hard standing with minimal
+non-conformance winning both cost and environmental benefits.
+A number of key pipework tie-ins had to be completed which were
+considered high risk activities due to the age, unknown condition
+and restricted time period to complete the installation to maintain
+the public supply to the mains network. The project team had
+recognised that the option of an under pressure tie-in would allow
+the client to continue uninterrupted service with no shut down. It
+was important to win the confidence of the Scottish Water’s
+operational team, who had not previously experienced a live tie in of
+this nature, by demonstrating adequate planning had been
+undertaken and the risks involved in the operation had been
+identified and managed. The operations were undertaken smoothly
+and the team were able to achieve the tie-ins in a shorter timescale
+than the planned conventional method.
+Plant Commissioning
+The testing, commissioning and handover of the works was an
+arduous operation and was carried out over a 6 month period,
+requiring meticulous planning and input from all parties. The main
+concern was some items of new plant could not be commissioned off
+line and therefore had potential to put the public water supply at risk.
+Accordingly, the commissioning plan had to be developed and the
+risks managed. When the new actiflo plant was brought into service
+this was completed in phased stages by introducing new elements
+(e.g. new chemical) and thoroughly testing, monitoring and proving
+the plant performance before moving on to the next stage of
+commissioning. To mitigate the risk, facilities were provided to by-
+pass the actiflo plant and revert back to the original treatment process.
+Like many complex major process plants, the commissioning of the
+new plant did have challenges and several design amendments and
+site modifications were implemented. As such, the new plant
+successfully completed the process performance testing and was
+handed over to Scottish Water in time for compliance with the
+Legislative date of 31st March 2010.
+Note: The Editor & Publishers thank David Crawford, Project
+Manager with Scottish Water Solutions, for preparing the above
+article for publication.■
+Turbine Courtesy of Scottish Water Solutions & GMJV
+
+T
+he Isle of Man Water & Sewerage Authority has recognised that due to increasing energy costs and local and 
+global initiatives to reduce carbon emissions they have an obligation to investigate the viability of and pursue 
+sources of green energy. As such they have undertaken an ambitious project to convert the potential energy 
+stored in the Sulby Impounding Reservoir into electricity to power Sulby Water Treatment Works (WTW) by passing 
+the raw water through a turbine prior to the treatment process.
+Background
+The Isle of Man is a self governing Crown dependency which, 
+through its ancient parliament Tynwald, enjoys a high degree of 
+domestic legislative and political autonomy. The Isle of Man Water 
+& Sewerage Authority is a statutory board, charged with ensuring 
+the economic, efficient and effective provision of the services 
+and infrastructure necessary to meet the Island’s needs in terms 
+of a wholesome supply of drinking water and the treatment and 
+disposal of sewage.
+Sulby WTW, sited on the bank of the Sulby River and completed 
+in September 2005, is one of two modern treatment works on the 
+Isle of Man. Sulby WTW supplies drinking water to approximately 
+30% of the Island’s population mainly in the North and West. The 
+treatment works is fed from Sulby Impounding Reservoir which has 
+a capacity of 4.8 million cubic meters of water when full and a direct 
+catchment area of 16 square kilometres. 
+Renewable Energy w ww.WaterProjectsOnline.com
+Page 18 UK Water Projects 2013
+Sulby WTW Energy Recovery Scheme
+hydroelectric scheme generates power
+from incoming raw water on the Isle of Man
+by Tim Woakes MEng CEng MICE
+The top water level when full is 185m AOD, and the top 4m of water 
+is available for use by the Manx Electricity Authority (MEA) who 
+have a connection to the scour pipe leading to a 1MW hydroelectric 
+power station in Sulby Valley, which discharges directly into the 
+Sulby River. Once the water level is drawn down to 181m AOD 
+the MEA no longer generate electricity, as the storage within the 
+reservoir below this level is solely required for drinking water. 
+A 300mm ductile iron (DI) pipe connects to three draw offs within 
+the reservoir, the use of which depends on the water level and the 
+seasonal variation of water quality. Approximately 2km down Sulby 
+Valley the main splits into two. 
+The 300mm DI pipe continues 3km down to the WTW, and is 
+duplicated by a newer 400mm DI pipe. Both mains enter the 
+basement of the works downstream of a swab receiving facility on 
+the opposite side of the Sulby River.
+Turbine installation - Courtesy of Auldyn Construction Ltd
+
+www.WaterProjectsOnline.com R enewable Energy
+UK Water Projects 2013 P age 19
+The WTW site is at approximately 35m AOD, with the water level 
+within the inlet blending chamber some 7m above ground level. 
+The excess pressure is destroyed by the flow control valves on the 
+two inlets to the works to prevent over topping of the inlet blending 
+chamber. The works currently processes an average of 10-12MLD, 
+with a capacity of 21MLD for future demand increase. 
+The Isle of Man Water & Sewerage Authority recognised that 
+due to increasing energy costs, combined with local and global 
+initiatives to reduce carbon emissions that they have an obligation 
+to give due consideration to ‘sources’ of green energy. Given the 
+consistent flows and a static head of up to 150m at the inlet, Sulby 
+WTW was identified as an ideal location to recover energy using a 
+hydroelectric turbine.
+The scheme
+The objective of the scheme was to construct a hydroelectric turbine 
+at Sulby WTW to give the shortest payback period with least impact 
+on the existing treatment process. Various studies were undertaken 
+to determine the options available. The conclusions were that 
+the following permutations of the concept should be considered 
+further:
+• A machine on top of the WTW inlet blending chamber.
+• A machine in its own new turbine house outside, but close 
+to the WTW. This option then required water to be pumped 
+to the WTW’s inlet blending chamber.
+• A machine in its own new turbine house attached to the 
+WTW building. The turbine would be at a level such that 
+water flowed under gravity into the WTW’s inlet blending 
+chamber.
+A review of the technical feasibility of each scheme was then 
+undertaken. It was determined that a machine placed on top of 
+the blending chamber would only be feasible if the roof height was 
+increased in its immediate vicinity. Discussions with the Planning 
+Department ascertained that planning permission was unlikely to 
+be granted for this and therefore this option was discounted. 
+The Planning Department confirmed that the construction of an 
+annex adjacent to the existing WTW would be acceptable on the 
+proviso that it matched the existing works aesthetically and its roof 
+level was not greater than that of the existing WTW.
+A whole life costing exercise was undertaken to ascertain which of 
+the two remaining solutions gave the highest return over a 20 year 
+design life. It was determined that a machine at a level such that 
+no interstage pumping was required was the preferred option, to 
+be installed in a new annex immediately adjacent to the existing 
+works.
+Investigations were subsequently undertaken into the type of 
+turbine which would be most suitable for this flow/head scenario. 
+This activity resulted in a recommendation that the following types 
+of turbine could be utilised at Sulby WTW:
+• Pelton Turbine.
+• Turgo Turbine.
+• Crossflow turbine.
+A design and build team, comprising Isle of Man contractor Auldyn 
+Construction Ltd and Northern Ireland based designer Atkins, was 
+appointed to progress the scheme. The team approached turbine 
+suppliers Gilbert Gilkes & Gordon Ltd of Kendal, Cumbria to assist 
+with the design and ultimately supply the turbine. 
+A single Turgo Impulse turbine was chosen as the most efficient 
+turbine for this combination of flow and head. The turbine and 
+associated pipework was designed to operate up to 16MLD, flows 
+above which would utilise the second stream into the works.
+Annex steel frame - Courtesy of Isle of Man Water & Sewerage Authority Internal pipework and supports - Courtesy of Auldyn Construction Ltd
+
+Renewable Energy w ww.WaterProjectsOnline.com
+Page 20 UK Water Projects 2013
+The design and build team supported by the Authority’s cost 
+consultants EC Harris completed a design, gained planning approval 
+and built up a target cost for the scheme. The target cost was 
+subsequently audited by EC Harris and accepted by the Authority. 
+An NEC3 Option C Contract was awarded for the construction 
+phase of the scheme in February 2012, and work commenced on 
+site that month.
+Maximising return
+The pipes connecting the water treatment works and the 
+impounding reservoir were known to suffer from high headloss. 
+Pressures exhibited at the works suggested that the pipes had a C 
+value of around 90 to 100 and were in urgent need of cleaning. 
+The high level of manganese deposition within the first stage 
+filter nozzles suggested that the pipes were likely to be coated 
+with a significant build up of manganese and silts. It was therefore 
+decided that a swabbing exercise should be undertaken prior to 
+the completion of the turbine scheme.
+A purpose built swab launcher existed on the newer 400mm pipe 
+but only a removable hatch was present on the older 300mm 
+main. A swab receiver adjacent to the treatment works, but on the 
+opposite side of the river catered for both mains but no realistic 
+environmentally acceptable method of disposing of the dirty 
+water was in place, and hence the mains had not been swabbed 
+effectively for many years.
+The first phase of the swabbing exercise was to undertake enabling 
+works. A new swab launcher was installed at the head of the 300mm 
+main at the base of the dam. In order to manage the dirty water 
+which would accompany the swab down the main an old settling 
+tank with a capacity of 300m
+3 was connected with 225mm HPPE 
+pipe to the swab receiver, utilising old redundant pipework to cross 
+the river.
+Control System Integrators
+PLC / HMI / SCADA Systems
+Proud to be providing island wide process control and plant supervisory systems
+to the Isle of Man Water and Sewerage Authority 
+System Integrators 
+for the Sulby Water Treatment Works: Hydroturbine Project
+For further Information please contact: Scott Davis - Director
+Tycon Automation Ltd
+Unit I Schappe Building
+Llay Industrial Estate
+Wrexham LL12 0PB
+T: +44 (0) 1978 855662
+F: +44 (0) 1978 852772
+E: sales@tyconautomation.co.uk
+W: www.tyconautomation.co.uk
+Swab launcher at Sulby Dam
+Courtesy of Isle of Man Water & Sewerage Authority
+Completed annex 
+Courtesy of Isle of Man Water & Sewerage Authority
+
+www.WaterProjectsOnline.com R enewable Energy
+UK Water Projects 2013 P age 21
+These enabling works allowed the swabbing exercise to take place. 
+The dirty water was allowed to settle in the old tank before being 
+decanted into the adjacent river. 
+Following the swabbing exercise the pressures at the water 
+treatment works increased substantially, with the C values 
+increasing to over 120, corresponding to an increase in 10m head 
+at 10MLD and over 25m head at 16MLD. This has almost doubled 
+the power predicted to be produced by the turbine over the next 
+20 years.
+An additional function to maximise return was included by way 
+of a dump to river facility. This allows flow over and above that 
+to be treated by the works to be passed through the turbine and 
+dumped to the river. This will only be utilised when the impounding 
+reservoir is spilling.
+Construction
+Construction commenced on the 11 June 2012 with the breaking 
+out of concrete hardstanding in readiness for the piling work which 
+would form the foundation for the steel frame of the annex. A total 
+of 13 (No.) 220mm diameter steel piles were installed and a ground 
+beam constructed above. The steel frame was then installed and 
+the concrete floor of the turbine level cast. This was designed to 
+reduce vibration within the annex.
+The annex was subsequently clad with a combination of green oak 
+and Manx stone to match the existing treatment works building 
+and adhere to planning requirements.
+The internal ductile iron pipework and galvanised steel supports 
+were installed following the commissioning of the roof level crane. 
+This was also utilised to lift the turbine into place. One of the two 
+inlet pipes was intercepted and diverted out into the turbine annex 
+before re entering the existing building and back into the inlet 
+blending chamber.
+Within the existing treatment works building various modifications 
+were undertaken to connect the turbine pipework into the 
+existing. A number of planned works shut downs were utilised 
+to undertake these connections in a safe and controlled manner. 
+‘Spectacle’ blanking plates were used to keep the existing pipework 
+and the new pipework separate, until the turbine was suitably 
+commissioned utilising the dump to river facility ‘off-line’ .
+Tycon Automation Ltd and Saftronics Ltd provided significant 
+software support during the scheme. New software was written 
+and installed to seamlessly incorporate the turbine into the control 
+philosophy of the existing works. A vast array of new cabling was 
+installed to connect the new turbine panel in the annex with an 
+existing panel in the main MCC room.
+Once all parties were content with the operation of the turbine the 
+spectacle plates were removed and the turbine fully commissioned 
+running water into the treatment works. The turbine began 
+generating electricity on the 1 February 2013.
+The turbine currently generates around 90-100kW, approximately 
+40% of the electricity required to treat water at Sulby WTW. 
+The £950,000 scheme is expected to have a payback period of 
+approximately 9 years.
+Future schemes
+The Authority is now undertaking feasibility studies to ascertain the 
+viability of installing energy recovery turbines at other sites across 
+the Isle of Man.
+The Editor & Publishers would like to thank Tim Woakes, Project 
+Delivery Manager with Isle of Man Water and Sewerage Authority, 
+for providing the above article for publication.
+Sulby WTW inlet SCADA showing turbine - Courtesy of IOMWASA
+New turbine panel within annex - Courtesy of Auldyn Construction Ltd
+Connection to existing blending chamber - IOMWASA
+
+F
+rom the sweeping Tweedsmuir Hills in the Scottish Borders, to the rolling Pentlands on the capital’s doorstep, 
+gravity carries up to 175Ml/d of clear, fresh drinking water to 450,000 customers in Edinburgh and parts of 
+Midlothian. Glencorse Water Treatment Works (WTW), Scottish Water’s £130m flagship investment, is a 
+21
+st century replacement for the existing works at Fairmilehead and Alnwickhill (constructed in 1909 and 1885 
+respectively), which despite serving the city well for over a century, have now reached the end of their operational 
+life. Carried along the Victorian engineered Talla Aqueduct to the new WTW, like Scotland’s famous tartans that it is 
+so well known for, the city’s water supply blends a mix of ancient and modern. 
+Consultation & planning
+In April 2006, a decision was taken to replace the ageing facilities at 
+Fairmilehead and Alnwickhill rather than undertake further capital 
+maintenance work and upgrades. Following Scottish Water’s largest 
+ever consultation, in collaboration with the latest civil engineering 
+studies, the site at Glencorse was selected as the most suitable and 
+helps meet Scottish Water’s drive to deliver renewable energy from 
+its assets. Gravity will carry raw water supplies some 50km into the 
+inlet building, as well as delivering the treated water directly into 
+the capital, reducing the need for energy sapping pumps.
+Working closely with Midlothian Council planning department and 
+local residents, in September 2007 the project received planning 
+permission after just 10 weeks, unheard of for a construction 
+project of this size. 
+Archaeology
+Following initial archaeological studies, a Roman Marching Camp 
+was discovered on the proposed site of the treatment building. 
+Neighbouring residents agreed the repositioned works location 
+to protect this important local antiquity. Throughout construction 
+close links have remained between the project team and the 
+community surrounding the new facility. Other finds included 
+Cromwellian military artefacts at the site of an old World War Two 
+army camp situated along the pipeline route.
+Raw water supplies
+Raw water travels over 50km by gravity through the existing 
+aqueducts and pipes to the new Glencorse WTW, and comes from a 
+variety of sources; primarily the Talla, Fruid and Megget Reservoirs, 
+located in the Scottish Borders. Glencorse Reservoir, located 
+approximately 1km from the works, will also be utilised.
+Hydro turbine
+The raw water entering the site operates a Gilkes twin‐jet Turgo 
+Impulse Hydro Turbine housed within the raw water inlet building. 
+With a designed operating regime of between 30 and 50Ml/d at 
+pressures varying between 53m and 73m of head, the turbine has a 
+nominal rating of 230KW, and will generate roughly one third of the 
+entire energy requirements for the WTW.
+www.WaterProjectsOnline.com W ater Treatment & Supply
+UK Water Projects 2012 P age 245
+Glencorse WTW - Courtesy of Scottish Water
+Glencorse WTW
+Edinburgh’s new £130m WTW is a feat of modern
+construction methods and sustainable engineering
+
+Treatment process
+Raw water contains impurities which affects the colour, taste and 
+clarity of the water. To ensure that the drinking water meets the 
+Water Supply (Water Quality) (Scotland) Regulations 2001, water 
+treatment processes vary across the country depending on the 
+water supply and the technologies available when each treatment 
+works was built. As Scottish Water’s flagship project, Glencorse 
+Water Treatment Works utilises some of the most up-to-date and 
+efficient processes:
+• Coagulation: Colloids and other impurities in the raw water 
+need to be removed. Coagulants like alum (aluminium 
+sulphate) will be used to help bind the impurities together 
+to form particles. This solid-liquid separation process 
+requires precise dosing and pH control along with good 
+mixing to be effective.
+• Flocculation: The coagulated water is mixed for around 20 
+minutes to allow the particles to grow in size for effective 
+removal in the next stage. The water passes over and under 
+baffle weir walls forming a ‘floc’ on the surface. This form 
+of hydraulic flocculation requires no moving machinery, 
+unlike other systems which use mechanical mixers, 
+meaning there is a reduction in power and maintenance 
+costs. In colder temperatures, a chemical polymer can be 
+added to aid the process. The choice of the polymers used 
+may differ, depending on the quality of the raw water.
+• CoCoDAFF: Glencorse utilises the innovative CoCoDAFF 
+(counter current dissolved air flotation & filtration) system 
+which combines two forms of impurity removal in one; 
+dissolved air flotation (DAF) and rapid gravity filtration 
+(RGF). 
+DAF Process: During the DAF process, impurities are 
+floated to the surface, instead of being allowed to settle at 
+the bottom. A mass of fine bubbles is created by saturating 
+the water with air under high pressure, and mixed with the 
+flocculated raw water to help float the impurities to the 
+surface. This sludge blanket is periodically removed by a 
+flushing of water over a weir into an outlet channel. 
+Filtration: After the DAF Process, the water is passed 
+onto the rapid gravity filters in the lower section of the 
+CoCoDAFF cell. Here any remaining impurities too big to 
+pass through the filter are trapped in a media of sand and 
+anthracite. The filter beds are periodically backwashed 
+to remove the build up of impurities. Phosphate is then 
+added to help prevent lead being absorbed from lead 
+pipes at customers’ properties.
+Footprint: The CoCoDAFF process reduces the size of the 
+overall footprint of the WTW and has significantly helped 
+in achieving the “low impact” building and aids in visual 
+mitigation of the structure(s).
+• Disinfection: Disinfection is vital to ensure that water-borne 
+diseases are eliminated, and that the drinking water meets 
+the Water Supply (Water Quality) (Scotland) Regulations 
+2001. Sodium hypochloride is added as a liquid form and 
+the water passed through a contact tank for around 25 
+minutes before entering an underground storage tank.
+• Sludge: The waste water produced from backwashing the 
+filters and sludge from the DAF process passes through 
+lamella settlement tanks and is recycled back to the head 
+of the of the works. Using this process, approximately 99% 
+of the backwash water can be reused. The remaining waste 
+is a sludge form which is transferred away from Glencorse 
+to be treated at a wastewater treatment works.
+The clear water tank
+With an impressive 490 internal columns, and 90Ml capacity, the 
+new 208m by 90m clear water tank is one of the largest in Europe, 
+storing the treated water before it commences the journey to Ed-
+inburgh. This storage tank is covered with a grass roof, providing 
+hill-walkers with an unspoiled view from the top of the Pentlands.
+www.WaterProjectsOnline.com W ater Treatment & Supply
+UK Water Projects 2012 P age 247
+Pipe gallery - Courtesy of Scottish Water
+Glencorse hydro turbine - Courtesy of Scottish Water
+Construction is underway - Courtesy of Scottish Water
+Inside the clear water tank - Courtesy of Scottish Water
+
+Pipelines
+Over 7km of twin 1,200mm dia pipes were required to deliver 
+the treated water from the new works into Edinburgh’s existing 
+distribution network. The route of these pipelines required 
+careful consideration from engineering, environmental and social 
+perspectives such as:
+• Avoiding the need for expensive pumping by choosing a 
+route that allows the water to flow by gravity.
+• Minimising disruption to road users and pedestrians by 
+using agricultural land where possible.
+• Avoiding sites of archaeological interest.
+• Minimise damage to trees and hedgerows in areas that are 
+important for nature conservation by crossing at existing 
+gaps or areas of sparse vegetation where possible.
+The twin pipeline runs from Glencorse WTW through agricultural 
+land to Damhead, where it splits. One leg of the pipeline connects 
+into existing pipework and takes water to the Fairmilehead area. 
+The other connects into the network at Alnwickhill. Directional 
+tunnelling under the Edinburgh City Bypass was required to 
+the cross one of Scotland’s busiest roads without disrupting the 
+thousands of commuters who use this vital artery every day.
+Two smaller pipes were also necessary to connect with the 
+sewerage network and take this minimal amount of sludge away 
+from the Glencorse site for treatment.
+Mobile pipeline production plant - this aspect was featured in detail 
+in UK Water Projects 2009 and on www.WaterProjectsOnline.com
+In a world’s first, Scottish water and Black & Veatch ‘dropped’ a 
+mobile pipeline production plant onto the route of the trunk main 
+connecting the new treatment works with the existing network 
+serving the capital.
+Rather than being restricted to using long trailers for the 
+transportation of pipes, it was possible to go beyond the 15m 
+restriction and mould extra long pipes of 22m. This ensured the 
+overall dual trunk main was more robust, requiring fewer welds, and 
+helping to reduce the duration of the pipeline project. Additionally 
+the mobile pipeline project saved around a million lorry miles – 
+enough to reach the moon and back twice.
+Minimising the visual impact
+The site of the new WTW neighbours the Pentland Hills Regional 
+Park, and so as not to detract from the natural beauty of the area, 
+measures were taken to minimise the visual impact of the project.
+Instead of using corrugated metal, a living grass roof covers the 
+treatment building and the clear water storage tank, an area 
+totalling around 43,000m², making the works almost invisible from 
+the Pentland Hills, the A702, and surrounding properties. 
+The wildflower meadow seed mixture provides excellent 
+biodiversity, and the variety of native grasses and flowers fits in well 
+with the surrounding landscape. The grass roof will also harvest 
+rainwater, which will be stored in bio-diverse wetlands, providing 
+rich habitats for a number of insect, animal and plant species. The 
+turf was grown on the banks of Loch Leven near Kinross, at a farm 
+of turf experts Stewartsturf. 
+To further minimise the visual impact, the treatment building is 
+sunken into the ground and shielded from view by landscaped 
+bunds of earth.
+Locally sourced materials
+Where possible, the project has used locally sourced materials 
+to ensure a natural fit, reduce the transportation footprint and 
+reduce maintenance. Perimeter walls have been constructed 
+from wire baskets filled with locally quarried stone, which allows 
+Water Treatment & Supply w ww.WaterProjectsOnline.com
+ Page 248 UK Water Projects 2012
+Mobile pipeline production plant - Courtesy of Scottish Water
+Pipeline route - Courtesy of Scottish Water
+
+the construction spoil to be reused in landscaping the facility. 
+This practice has helped to reduce construction traffic by 75%, 
+significantly improving the projects overall carbon footprint.
+Legacy
+As well as providing an engineering legacy, the Glencorse project 
+will also provide a living legacy for up to 500 young people 
+who passed through its doors during the 3½ year construction 
+programme, inspiring future generations of young engineers. The 
+project ‘adopted’ three local primary schools from Year 4, through 
+the evolution of the project, holding classes on an annual basis.
+Young people grew up with the project, learning lessons in 
+environmental engineering, health & safety, and civil engineering 
+practice. Lessons were practical, with numerous site visits and tours 
+of the neighbouring Pentlands Park to learn about the plants and 
+animals that call this area home.
+Working with the project’s education programme 60 oak trees were 
+donated by Green MSP Robin Harper, who also helped the children 
+to plant this living legacy for the young people who took part in this 
+community education programme. The oaks will provide additional 
+landscaping to screen the works from motorists on the A702. 
+Project delivery team
+The delivery team consisted of a partnership of specialists. Scottish 
+Water engaged Black & Veatch (B&V) as Design & Build Contractor 
+for the project, coordinating and managing all phases of delivery. 
+B&V in turn engaged ERM as Environmental Consultants and BDP 
+as Building and Landscape Architects. Scottish Water also engaged 
+EC Harris as Cost Consultants.
+The project was delivered on time and under budget. It has won 
+a number of prestigious awards including the CIWEM World of 
+Difference Award; the International Green Apple Environment 
+Award and a trio of Considerate Constructor Gold Awards.
+Glencorse is an exemplar project, not only delivering a state-of-
+the-art water treatment works and providing a 21
+st century water 
+supply for Scotland’s capital, but it is a cutting edge example of how 
+sustainable engineering is possible in a project of such a mammoth 
+scale. Glencorse will now serve Scotland’s modern capital for a 
+further century, with additional capacity and room to modernise 
+yet further built into the existing project.
+The editor & publishers would like to thank Scottish Water for 
+providing the above article for publication.
+Glencorse WTW - July 2011 - Courtesy of Scottish Water
+ Directional tunnelling - Courtesy of Scottish Water
+First of the pipes being laid - Courtesy of Scottish Water The green roof - Wildflower grass mix - Courtesy of Scottish Water
+www.WaterProjectsOnline.com W ater Treatment & Supply
+UK Water Projects 2012 P age 249
+
+E
+ccup No. 1 Water Treatment Works (WTW) is situated within the Eccup Complex approximately 6 miles to the 
+north of Leeds adjacent to Eccup impounding reservoir. The WTW was originally commissioned in 1965 to treat 
+water from the Washburn Valley Reservoirs and provide potable water for many distribution areas within Leeds 
+and Harrogate. The current operating range of the WTW is around 32,000m
+3 - 64,000m3 per day. The inlet works at 
+Eccup No.1 WTW is connected to the lowest of the Washburn Valley Reservoirs, Swinsty Reservoir, some 18.5km to 
+the north west of the WTW, via the Washburn Valley Mains; one 42” and four 30” cast iron mains.
+Background
+Yorkshire Water’s vision is ‘taking responsibility for the water 
+environment for good’, with one of their strategic objectives to 
+achieve this vision being the use of sustainable resources - to get 
+the most out of them and reduce emissions and waste in line with 
+their Corporate Challenge. 
+This was a key driver for the Eccup Hydroelectric scheme, supporting 
+YWS’s drive towards ascertaining new and sustainable means of 
+utilising natural resources, with the aim of achieving their target of 
+generating 14% of their own electricity needs through renewable 
+means by 2015.
+In 2008 YWS commissioned a feasibility study and a report was 
+produced into the potential commercial viability for renewable 
+energy installations within the YWS clean water network. The report 
+identified the inlet mains at Eccup No.1 WTW as a potentially viable 
+location for a hydroelectric generation facility. At this point energy 
+was being lost as the inlet water stilled within the inlet channel of 
+the works which could be recovered by such an installation. 
+www.WaterProjectsOnline.com R enewable Energy
+UK Water Projects 2013 P age 45
+Eccup No.1 WTW - Hydroelectric Scheme
+hydroelectric installation fully integrated with the previously existing 
+operation to generate up to 700MWh of electricity per annum 
+by Zoe Kevanhu BEng (Hons)
+Turbine installation - Courtesy of JN Bentley
+Reinforced by the introduction of more generous ‘Feed-in Tariffs’ for 
+the installation of renewable energy sources by the UK government 
+in 2010, in September 2010 YWS contracted MMB (a joint venture 
+between Mott MacDonald and JN Bentley) to carry out Early 
+Contractor Involvement (ECI) in the form of an Investigation 
+Contract under the AMP5 Framework model for ‘Other Installations’. 
+An ECI report was produced evaluating the commercial viability of 
+a hydroelectric generation installation at Eccup No 1 WTW.
+Through interrogation of flow and pressure data from historic 
+records and site trials by MMB, turbine selection with Gilkes & 
+Gordon Limited (Gilkes) and development of a detailed hydraulic 
+model and surge analysis trials with sub-consultants Hydraulic 
+Analysis Limited (HAL), value engineering evaluations were 
+undertaken. Such evaluations facilitated the specification of several 
+key plant items. These included:
+• The type and size of hydroturbine to offer the greatest 
+potential for generation over the widest range of works 
+operating flows and mains pressures.
+
+Renewable Energy w ww.WaterProjectsOnline.com
+Page 46 UK Water Projects 2013
+• The type and stroke times of isolation valves to reduce 
+surge effects on operation.
+• Inlet water screening requirements with a view to limiting 
+head loss. 
+Evaluations of all options were developed on the basis of balancing 
+the greatest potential for energy generation while limiting the 
+potential surge effects on the inlet works and upstream system.
+ 
+The MMB commercial team were able to prepare outline cost 
+estimates based on the specifications developed in the production 
+of the ECI report and conclude that, based on several options 
+presented for further consideration and detailed development, the 
+installation would have an estimated payback period of around 
+6-8 years. The information contained within the report facilitated 
+the client in securing the required expenditure from within the 
+business for the scheme to proceed to delivery. 
+MMB were contracted in July 2011 under the AMP5 Framework 
+model for ‘Other Installations’ for delivery of the hydroelectric 
+generation scheme. Working in partnership with surge analysis 
+experts Hydraulic Analysis Limited, hydropower sub-contractor 
+Gilbert Gilkes & Gordon Limited, control specialist CEMA Limited 
+along with other valued supply chain members, MMB developed, 
+installed and commissioned a horizontally mounted Francis turbine 
+with asynchronous generator in a new hydroturbine building 
+immediately upstream of Eccup No.1 WTW inlet works.
+Key design challenges 
+Dynamics and Surge: A constraint within the contract was to not 
+adversely affect the current operation of the Washburn Mains, as 
+a result of surge pressures from operation of the hydroturbine. 
+Through the development of a detailed hydraulic model and 
+carrying out surge analysis trials, in association with HAL, it was 
+possible to select items of equipment and develop an operating 
+philosophy which minimised the generation and magnitude of any 
+surge. 
+The dynamic effects of the hydroturbine necessitated the 
+installation being founded on a monolithically cast slab. The 
+shuttering details for such a slab, incorporating several pits and 
+raised plinth areas was challenging, as well as the co-ordination for 
+concrete deliveries to ensure they were on time as waiting between 
+batches would not have been acceptable. 
+Pipework arrangements: Existing pipework arrangements at the 
+inlet works were such that the installation of our pipework was 
+directly adjacent to the concrete structure of the inlet works. In 
+addition, the bypass main, which was to maintain the flows to the 
+works until the turbine was commissioned, shared a thrust block 
+with the main into which we were connecting. Stitch drilling was 
+undertaken to free the pipe for connection. It was imperative that 
+the works remain operational throughout the construction and as 
+such co-ordination, planning and accuracy were key to ensure the 
+inlet flow was not compromised.
+Due to programme constraints to meet the clients key date 
+requirements, coupled with extended lead times on plant items as 
+a result of market conditions at the time, it was necessary to install 
+large diameter pipework prior to the installation of the hydroturbine 
+plant items themselves. As the pipework needed to be cast into 
+thrust blocks at several locations as it was installed, removing any 
+flexibility in the pipework, a bespoke rig was constructed to the 
+dimensions of the final equipment connection points to ensure 
+accuracy. 
+Through design development with our sub-consultant Gilkes; 
+it was possible to develop a horizontal draft tube section as an 
+alternative to the usual vertical, which would free discharge into a 
+chamber. This enabled us to optimise the pipework arrangement to 
+suit the spatial constraints as described above. The alternative draft 
+tube also removed the need for an additional reinforced concrete 
+structure, providing capital efficiency for the client.
+Hydroturbine House: Capital efficiencies were also found in the 
+development of a removable section to the roof of the hydroturbine 
+building. Should the need arise, this will allow removal of the 
+hydroturbine and generator, through the roof as part of a planned 
+removal activity. Due to the relative infrequency of this activity, 
+this option was developed with the client as a suitable and cost 
+efficient alternative to the inclusion of a large permanent lifting 
+arrangement and a larger building to suit this.
+The size of the building which houses the installation was a key 
+issue as the Eccup Complex is within the green belt and was subject 
+to planning permission requirements. Close liaison with Leeds 
+City Council Planning Department, including site visit, telephone 
+conversations and responses to requests for additional information 
+resulted in full planning permission being granted for the scheme.
+ 
+The housing is a brick building with a flat roof. This is fitting with the 
+existing surrounding buildings on the Eccup complex and as a result 
+was satisfactory to the Planning Department. From a cost point of 
+view, MMB carried out a cost comparison of a traditional building 
+versus a secure GRP/steel kiosk type structure which demonstrated 
+that, for the size of structure, a traditional build could be completed 
+for less cost as a result of the utilisation of MMB employed labour, 
+thus providing best value for the client. 
+Installation of hydrogenation plant items - Courtesy of JN Bentley
+
+www.WaterProjectsOnline.com R enewable Energy
+UK Water Projects 2013 P age 47
+Supply chain interaction 
+JN Bentley have an extensive skills base within their employed staff 
+and at times the ability to resource tasks at short notice from within 
+this pool, and the flexibility this offers, has proved invaluable to 
+the success of the project in both cost and programme. However, 
+JN Bentley also maintain strong relationships with many sub-
+contractors offering better value for the client when this is an option. 
+For this project in particular, reinforced concrete sub-contractors, 
+pipework suppliers and roofing detailers and fitters were of 
+particular benefit due to the complexity of some of these items.
+Through development of positive working relationships with the 
+sub-consultants involved at the Investigation stage it was possible 
+for MMB to work with these parties during the delivery of the project 
+to develop innovative design details leading to cost efficiencies and 
+programme savings for the client as previously identified.
+Programme
+The hydroturbine was installed to achieve the client’s key date of 
+31 March 2012. Due to unforeseen restrictions within the Yorkshire 
+Water raw and clean water networks the facility was required to 
+operate on reduced capacity initially. Alterations within the network 
+have subsequently taken place enabling commissioning checks 
+at full capacity to take place during December 2012, allowing the 
+facility to now generate to the design capacity.
+Conclusion
+Through thorough data gathering, innovative design development 
+and successful planning and co-ordination, it has been possible to 
+deliver a 700MWhpa facility to supply electricity to help power the 
+treatment processes of Eccup No.1 WTW. 
+By value engineering and searching for the most efficient solutions 
+throughout the scheme we have been able to provide capital 
+efficiencies and best value overall for the client.
+MMB have worked collaboratively with all parties involved, client, 
+sub-consultant, sub-contractors and third parties, at all stages 
+of the scheme, and this has been key to achieving the desired 
+outcomes of the scheme successfully.
+The Editor & Publishers would like to thank Zoe Kevanhu, Project 
+Leader & Civil Engineer with Mott MacDonald, for providing the 
+above article for publication.
+The author acknowledges the following for their input and 
+assistance: Chris Wilcock, Stream Manager; Tim Sharp, Site Agent; 
+and Alex Jeffery, Communications; all with JN Bentley, and Ian 
+Dunwell, Batch Manager; and Claire Lodge, Communications 
+Advisor; both with Yorkshire Water Services.
+Completed hydroturbine building - Courtesy of JN Bentley
+Construction of the hydrogenation facility in close proximity to existing structures - Courtesy of JN Bentley
+
+--------------------------------------------------------------------------------
+
+URL: https://gilkes.com/hydropower-asset-services/
+
+From structured maintenance programmes to system upgrades and intelligent monitoring, our services are built around protecting your investment and keeping your plant running at its best.
+Gilkes provides a complete range of asset services that support the long-term performance and availability of your hydropower installation
+Maintain today, save tomorrow
+Regular maintenance minimises downtime and costly repairs. Gilkes provides tailored service packages to keep your system running.
+Extending the lifespan of hydropower assets
+With a proven track record in modernisation, Gilkes helps owners restore, adapt, and improve their systems to meet current and future demands, increasing both reliability and energy output.
+Smarter monitoring for remote hydropower turbines
+HydroView gives you a smarter way to monitor and manage your hydropower assets. Designed for secure remote access, it provides real-time visibility and control across your operations, helping to improve efficiency, reduce downtime, and support informed decision making.
+We’re with you for every step of the way
+Talk to a hydropower expert today to protect your assets for future generations.
+
+--------------------------------------------------------------------------------
+
+URL: https://gilkes.com/hydropower-asset-services/maintenance-contracts/
+
+Once your hydropower scheme is operational, regular maintenance is key to maximising performance and avoiding costly downtime. Our maintenance contracts and lifetime support services help you manage assets effectively and protect revenue.
+We know unplanned downtime can be expensive. From electrical faults to major failures, our field engineers identify and resolve issues early through regular inspections and preventative maintenance, reducing the risk of lost revenue.
+With three service centres in Scotland, our headquarters in Kendal, and engineers on the ground, we provide expert support throughout the lifetime of your equipment in the UK and internationally.
+Choosing the correct maintenance plan
+We offer flexible service packages to suit your needs. From routine inspections to emergency response, we keep your hydropower plant running smoothly.
+- Preventative maintenance to reduce the risk of unplanned failures
+- Expert on-site inspections to identify potential issues early
+- Remote support for fast and efficient responses to maintenance requests
+We provide expert support throughout the lifetime of your equipment in the UK and internationally
+Tailored plans designed for peace of mind
+Full maintenance plans
+| Bronze | Silver | Gold | |
+|---|---|---|---|
+| Annual inspection & major service | ✓ | ✓ | ✓ |
+| Interim (6-monthly) inspection and minor service | ✓ | ✓ | |
+| Monthly inspections | ✓ | ||
+| Breakdown response (remote & site attendance) | ✓ | ✓ | ✓ |
+| Fixed price remote support (optional on all levels) | ✓ | ✓ | ✓ |
+| Preferential rates for call-outs & additional works | ✓ | ✓ | ✓ |
+| Out of hours telephone response | ✓ | ✓ | |
+| 7 day a week callout attendance | ✓ | ||
+| Priority callout attendance | ✓ | ||
+| Monthly review of HMI trends to identify operational anomalies & improvements | ✓ | ||
+| Assigned commercial account manager | ✓ |
+Remote monitoring & technical support
+One of our greatest strengths is our in-house hydropower expertise, developed over decades of design, manufacturing, and maintenance. We provide remote troubleshooting to minimise downtime and ensure rapid resolution of issues.
+- Diagnose electrical and mechanical faults – from minor issues to major failures
+- Work alongside on-site operators – complementing their local knowledge
+- Remote support for maintenance teams – reducing unnecessary site visits
+If a solution cannot be found remotely, our experienced engineers can attend your site to investigate, identify, and resolve faults.
+- Contract customers receive prioritised response based on service level
+- Non-contract customers will be provided with availability and a call-out quote
+On-site call-outs will cover:
+- Fault identification and troubleshooting
+- Operator support and guidance
+- Quick response in an emergency, for example, flooding after a storm
+Benefits of our remote & call-out support
+_01
+Reduce downtime with expert diagnostics
+_02
+Identify necessary replacement parts in advance
+_03
+Avoid costly and unnecessary site visits
+_04
+Minimise risk by reducing the need for on-site attendance in poor weather conditions
+_05
+Ideal for international customers who can benefit from prompt remote assistance
+Hydropower inspection & maintenance
+- Periodic inspection & maintenance
+- Planned maintenance
+- Condition based risk assessment
+- Strategic spare parts – be prepared
+Regular inspections keep hydropower equipment operating efficiently and reduce the risk of unexpected failures.
+- Identify wear and tear early, avoiding call outs
+- Specialist support to improve performance
+- Inspection report provided with clear recommendations for preventative and corrective actions
+- Included in maintenance contracts for long-term reliability
+If maintenance issues are identified during a routine inspection, these will be detailed in the inspection report. Our head office team can then provide a tailored quotation for this planned work to address the findings and support ongoing equipment reliability.
+- Turbine reconditioning and component replacements
+- Control system automation upgrades
+- Performance improvements for efficiency and reliability
+- Generator overhaul
+- AVR conversions and upgrades
+- Switchgear repairs and upgrades
+Keep your hydropower system running at peak performance.
+Minimise the risk of lost generation.
+Our standalone service provides a more comprehensive assessment of equipment condition than a periodic inspection. The resulting report outlines clear recommendations across safety, maintenance, and long-term asset planning, supporting owners to make informed decisions about future investment.
+- Recommended for hydropower owners looking to reduce risk of lost generation
+- Comprehensive reporting tailored to site requirements
+- In depth assessment of asset condition including part availability
+- Supports financial planning for long-term asset reliability
+- Existing contract customers can benefit from previous inspection data
+- Ensure the efficiency and longevity of your hydropower system.
+Even with the best maintenance, unexpected component failures can happen. Having the recommended spare parts on hand, purchased from the original manufacturer minimises downtime and keeps your plant generating revenue.
+- Original manufacturer approved parts
+- Custom spare packages tailored to your site
+- Plan for potentially obsolete parts
+- On hand spares to correct a short-term breakdown
+- Storage & inventory guidance
+HydroView
+Smart, secure hydropower monitoring
+- Secure remote access – monitor multiple sites from one portal
+- Advanced diagnostics – identify faults before they escalate
+- 24/7 alerts – stay informed and act fast
+UK & international support
+Rapid response across the UK
+Our main UK service operations hub is based at our headquarters in Kendal, supported by three dedicated hydro service centres in Scotland: Fort William, Invergordon, and Stirling. Staffed by highly experienced mechanical and electrical engineers, we offer a fast and efficient response to breakdowns and maintenance requests.
+Global support, wherever you are
+Supporting our international customers requires a dedicated approach. We aim to assist remotely whenever possible before assessing the need for an on-site visit. Contact us directly to discuss your support requirements.
+International customers
+With more than 6800 hydro turbines supplied to customers in over 85 countries, our international support is built on experience and flexibility. If you require assistance with your equipment or have a site issue to discuss, please get in touch with us directly. Our team will always aim to provide remote support first, helping to resolve the issue quickly and minimise disruption, before arranging a site visit if necessary.
+Why choose Gilkes?
+For over 170 years, Gilkes has been a trusted leader in hydropower, providing expert support and proactive maintenance solutions that protect and grow your revenue by ensuring consistent, optimal output.
+- Original manufacturer expertise – we know your equipment inside out
+- Minimise downtime and maximise output – proactive maintenance that protects revenue
+- Extend asset lifespan – keep equipment running longer with expert care
+- Regulatory compliance – stay up to date with industry standards
+
+--------------------------------------------------------------------------------
+
+URL: https://gilkes.com/hydropower-asset-services/optimisation-modernisation/
+
+Modernising a hydro power plant’s assets is crucial for maximising the plants lifespan and ensuring reliable and sustainable energy generation. Gilkes can restore, optimise and modernise your hydropower system to maximise productivity and longevity.
+How Gilkes can maximise your hydropower potential
+Step 1
+Hydropower assessments
+With a long standing history in hydropower spanning design, manufacture, repair and refurbishment, Gilkes is well placed to support the development and long-term performance of your hydro power plant.
+While we frequently upgrade original Gilkes equipment using site records, our expertise extends to systems from other manufacturers. We’ve modernised equipment from as early as the 1900s, including projects in Kenya, New Lanark and the Balmoral estate, as well as more recent installations worldwide.
+Whatever the age or condition of your facility, the first step to extending it’s lifespan is a consultation, site survey or condition assessment. This allows us to identify opportunities for improvement and recommend the most appropriate solution.
+Step 2
+Hydropower parts & refurbishment
+Decades of operation can wear down components. Gilkes offers comprehensive refurbishment solutions designed to rejuvenate installations and significantly extend operational lifespan.
+- Reconditioning of existing component to restore performance
+- Supply of replacement components such as runners, guide vanes, spears and nozzles
+- Gilkes investment in 3D scanning technology allows our engineers to reverse engineer hydropower components when the original information is not available
+- Minimised downtime by supplying components in parallel with machine running or choosing dry season to take machines offline
+- Updated equipment to reflect today’s expectations for safety, durability, and compliance
+Modernisation for improved performance
+Ageing components, evolving regulations, and advancing technology make upgrades essential. Gilkes offers cost-effective modernisation services to optimise performance for future demands.
+- Upgrade old mechanical governors to advanced digital ones for improved precision and to allow remote monitoring
+- Automation through use of digital control systems helping to reduce operational costs
+- Enhance turbine and generator components to maximise output
+- Key updates and upgrades to enhance current operations and reduce maintenance costs
+- Engineered for reliable performance under today’s safety and compliance standards
+Turbine replanting: the ultimate upgrade
+Replanting a turbine can be the chosen option if the original no longer meets requirements or if the site characteristics have changed. A full replanting solution ensures long-term reliability, efficiency, resilience, and compliance.
+- Increase capacity and efficiency utilising new enhanced designs
+- Meet modern standards with an adherence to higher standards of safety, resilience, and compliance
+- Option to replant turbine alongside new M&E equipment
+- Future-proof operations by adapting to changing energy needs such as increased demand for power or a change in grid constraints
+Gilkes’s expertise can revitalise your hydro
+Glen Finglas, Scotland Hydro modernisation project
+This project reflects our approach to improving long-term performance and reliability. By upgrading key systems we helped extend the life of the scheme and support efficient ongoing operation.
+We also specialise in
+Regular maintenance minimises downtime and costly repairs. Gilkes provides tailored service packages to keep your system running.
+- Scheduled inspections to detect issues early
+- Fast breakdown response times
+- Condition assessments for informed maintenance and investment decisions
+Protect your investment with a Gilkes maintenance package.
+Even with the best maintenance, unexpected failures can happen. Having the right spare parts on hand minimises downtime and keeps your plant generating revenue.
+- Genuine parts approved by original manufacturer
+- Spare part packages specified to suit your site requirements
+- Risk assessments for critical components
+- Readily available spares to support urgent repairs
+- Guidance on storage and stock management
+HydroView
+Smart, secure hydropower monitoring
+- Smart, secure hydropower monitoring
+- Secure remote access – monitor multiple sites from one portal
+- Advanced diagnostics – identify faults before they escalate
+- 24/7 alerts – stay informed and act fast
+Maximise your hydropower potential
+With over 170 years of expertise, Gilkes delivers reliable upgrades tailored to your site’s needs. Whether you need maintenance, efficiency improvements, or a full system upgrade, our team is here to help.
+
+--------------------------------------------------------------------------------
+
+URL: https://gilkes.com/about-us
+
+Whether supporting hydropower schemes or supplying pumps for high horsepower diesel and gas engines, the need for reliable, efficient solutions remains constant. Across industries and geographies, engineering managers and consultants face the same challenge: finding a manufacturer with the capability to deliver consistent quality and dependable performance.
+We bring over 170 years of design and manufacturing experience, with equipment operating in more than 85 countries worldwide. Our reputation is built on deep technical expertise, a commitment to product quality, and the ability to meet demanding specifications in complex environments.
+Holding a Royal Warrant and trusted by clients across the globe, we combine the flexibility of a responsive team with the scale and knowledge expected of an established international brand.
+From hydropower turbines to engine cooling pumps, we offer a complete service, working closely with customers to deliver the right solution, backed by full lifecycle support and a clear focus on long-term value.
+Leading this business is a privilege.
+Every day, I’m inspired by the dedication and resilience of our team and by the trust our customers place in us.
+Gilkes, through the generations, has been shaped by a clear purpose: to do things properly, to treat people well, and to keep improving.
+Whether it’s through innovation, craftsmanship, or simply stepping up when it counts, we aim to make a difference.
+We are defined by a relentless focus on quality, sustainability, and a deep understanding of the industries we serve.
+We believe in empowering people – both within our organisation and beyond – to achieve more, think differently, and drive meaningful change.
+I’m proud of what we’ve achieved so far, but even more excited about what’s ahead.
+Andy Poole, Chief Executive Officer
+Our vision & mission
+Vision
+To be recognised globally for enduring performance
+Mission
+To leverage opportunities through our expertise, dedication and agility in order to drive growth
+Our values
+_01
+Integrity
+We always do what is right
+_02
+Excellence
+We are unwavering in our passion for quality
+_03
+Teamwork
+We are better together
+_04
+Commitment
+We are dedicated to our people and our customers
+Our strategy
+Sustainability
+Our values-based approach
+Shaped by over 170 years as a family-owned business, our approach is grounded in strong values and long-term thinking. We build ethical, responsible business relationships with a focus on environmental awareness and sustainable success. Our people are committed to developing products that make a practical contribution to global energy needs and support the transition to a low carbon economy.
+A legacy built on engineering progress
+Our history spans more than 170 years of continuous innovation, manufacturing and technical development. From our beginnings as suppliers of agricultural equipment to local farmers, to delivering equipment to over 85 countries, Gilkes has grown through generations of engineering knowledge.
+Build your future with Gilkes
+Our people are at the core of everything we do. They are the driving force behind our success. Their passion, creativity and commitment allow Gilkes to grow, adapt and deliver trusted engineering solutions across the world.
+Our global brand
+Keep up to date with the latest developments from Gilkes: company news, project milestones, product updates, and insights across our UK and international operations.
+
+--------------------------------------------------------------------------------
+
+URL: https://gilkes.com/about-us/career-apprenticeships/
+
+Our people are at the core of everything we do. They are the driving force behind our success. Their passion, creativity and commitment allow Gilkes to grow, adapt and deliver trusted engineering solutions across the world.
+We are proud to invest in our employees and foster a positive, inclusive workplace culture. Whether you are starting out or building on existing experience, we offer opportunities to work on meaningful projects, gain practical knowledge and contribute to a long-established British manufacturing business with a global reach.
+With over 170 years of engineering heritage, we continue to support the next generation through apprenticeships, training and career development. We value long-term thinking, shared knowledge and a team approach.
+Our engineering excellence is driven by our people
+Our work is guided by our four core values:
+- Teamwork
+- Integrity
+- Excellence
+- Commitment
+Gilkes is evolving to meet the demands of a changing global economy, maintaining our position in key markets and supporting long-term growth. If you are looking for a career with purpose and opportunity, Gilkes offers a supportive environment where your contribution will be recognised and your development encouraged.
+Our current opportunities
+Please note that we are currently reviewing our apprenticeship intake for 2026. If you are interested in an apprenticeship at Gilbert Gilkes and Gordon Ltd, please email [email protected] and share your area of interest.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gilkes.com/
+
+Gilkes est. 1853
+Global leaders in single-source solutions to the small hydropower and high horsepower engine markets.
+Maximise performance, extend plant life and maintain confidence
+From structured maintenance programmes to system upgrades and intelligent monitoring, our services are built around protecting your investment and keeping your plant running at its best.
+Pioneering for a sustainable future
+The energy landscape is evolving. Global demand continues to rise, nearly a billion people still lack reliable access to electricity, and the urgency of addressing climate change has never been greater.
+Endurance meets performance
+At Gilkes, we support engine builders with precision-engineered engine cooling pumps designed for demanding power generation and industrial applications.
+Built on precision and performance
+Gilkes has been supplying lubricating oil pumps for steam and gas turbines since the 1960s playing a vital role in ensuring the continuous and reliable operation of large rotating machinery.
+We’ve been generating for generations
+Wisdom
+With over 170 years of engineering experience, Gilkes brings a deep understanding of hydropower and pump solutions. This legacy provides confidence that every decision is backed by over a century of practical insight, technical discipline, and a continuous commitment to doing things the right way.
+Endurance
+Our equipment is designed and built for long service life. With a focus on performance and reliability, our hydropower projects and pump applications are supported by a dedicated team of engineers committed to reducing risk of downtime and lost generation to offer a strong return on investment.
+Expertise
+From developing new engine cooling pump solutions and designing new hydropower turbines to supporting legacy installations with original Gilkes turbines and pumps, our in-house teams bring decades of experience across engineering, manufacturing, and site support.
+Royal Warrant
+Gilkes is proud to hold a Royal Warrant for Water Turbines, a mark of recognition for companies that have supplied goods or services to the Royal Household, demonstrating consistent quality and service. Our connection with the Royal Family dates back to 1897, when our original ledgers record an order from Queen Victoria for a water turbine at Balmoral. This longstanding relationship reflects the reliability of our products, the strength of our customer support and our reputation as a trusted British manufacturer.
+A legacy built on engineering progress
+Our history spans more than 170 years of continuous innovation, manufacturing and technical development. From our beginnings as suppliers of agricultural equipment to local farmers, to delivering equipment to over 85 countries, Gilkes has grown through generations of engineering knowledge.
+Our global projects
+With over 6800 hydro turbines exported to over 85 countries and Engine Cooling pumps exporting globally, Gilkes has an extensive international presence.
+Learn more about our success around the world through our portfolio of case studies.
+Our global brand
+Keep up to date with the latest developments from Gilkes: company news, project milestones, product updates, and insights across our UK and international operations.
+Our global impact
+We’re with you for every step of the way
+Talk to an expert today to protect your assets for future generations.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gilkes.com/about-us
+
+Whether supporting hydropower schemes or supplying pumps for high horsepower diesel and gas engines, the need for reliable, efficient solutions remains constant. Across industries and geographies, engineering managers and consultants face the same challenge: finding a manufacturer with the capability to deliver consistent quality and dependable performance.
+We bring over 170 years of design and manufacturing experience, with equipment operating in more than 85 countries worldwide. Our reputation is built on deep technical expertise, a commitment to product quality, and the ability to meet demanding specifications in complex environments.
+Holding a Royal Warrant and trusted by clients across the globe, we combine the flexibility of a responsive team with the scale and knowledge expected of an established international brand.
+From hydropower turbines to engine cooling pumps, we offer a complete service, working closely with customers to deliver the right solution, backed by full lifecycle support and a clear focus on long-term value.
+Leading this business is a privilege.
+Every day, I’m inspired by the dedication and resilience of our team and by the trust our customers place in us.
+Gilkes, through the generations, has been shaped by a clear purpose: to do things properly, to treat people well, and to keep improving.
+Whether it’s through innovation, craftsmanship, or simply stepping up when it counts, we aim to make a difference.
+We are defined by a relentless focus on quality, sustainability, and a deep understanding of the industries we serve.
+We believe in empowering people – both within our organisation and beyond – to achieve more, think differently, and drive meaningful change.
+I’m proud of what we’ve achieved so far, but even more excited about what’s ahead.
+Andy Poole, Chief Executive Officer
+Our vision & mission
+Vision
+To be recognised globally for enduring performance
+Mission
+To leverage opportunities through our expertise, dedication and agility in order to drive growth
+Our values
+_01
+Integrity
+We always do what is right
+_02
+Excellence
+We are unwavering in our passion for quality
+_03
+Teamwork
+We are better together
+_04
+Commitment
+We are dedicated to our people and our customers
+Our strategy
+Sustainability
+Our values-based approach
+Shaped by over 170 years as a family-owned business, our approach is grounded in strong values and long-term thinking. We build ethical, responsible business relationships with a focus on environmental awareness and sustainable success. Our people are committed to developing products that make a practical contribution to global energy needs and support the transition to a low carbon economy.
+A legacy built on engineering progress
+Our history spans more than 170 years of continuous innovation, manufacturing and technical development. From our beginnings as suppliers of agricultural equipment to local farmers, to delivering equipment to over 85 countries, Gilkes has grown through generations of engineering knowledge.
+Build your future with Gilkes
+Our people are at the core of everything we do. They are the driving force behind our success. Their passion, creativity and commitment allow Gilkes to grow, adapt and deliver trusted engineering solutions across the world.
+Our global brand
+Keep up to date with the latest developments from Gilkes: company news, project milestones, product updates, and insights across our UK and international operations.
+
+--------------------------------------------------------------------------------
+
+URL: https://gilkes.com/engine-cooling-pumps/
+
+At Gilkes, we support engine builders with precision-engineered engine cooling pumps designed for demanding power generation and industrial applications.
+We understand the technical and regulatory challenges across global engine markets and respond with tailored solutions developed through close collaboration.
+Our in-house design and project management teams oversee every stage, from concept to final delivery, ensuring reliability, integration and long-term performance.
+Backed by years of field experience and a strong track record in engine cooling technology, Gilkes provides dependable pumps built for durability, compliance, and consistent performance in modern engine systems.
+Industries
+Our products have continued to evolve over many years, maintaining the performance and durability expected by our customers and engine manufacturers. As expectations and legislation have shifted, bringing greater focus on efficiency and environmental responsibility, Gilkes has adapted. Our products continue to support engine applications across a wide range of operating conditions, from remote marine environments to high-altitude locations.
+The largest part of our work involves supplying single and dual circuit pumps for diesel and gas power generation engines. Traditionally, separate jacket water and LTA or SCAC circuits were standard on many engines. Gilkes redefined this approach by combining both circuits into a single pump. This change simplified pipework, reduced weight and cost, and freed up engine drive connections, making our equipment a practical choice for new engine designs.
+Our work in the marine engine cooling sector began in the early 1960s, where we developed a clear understanding of the reliability required for performance and safety at sea. Starting with high-horsepower commercial applications, we applied that knowledge to expand into midrange commercial and recreational engines, down to 4L. This was made possible by supplying auxiliary propulsion and power generation engines with dry-running and high-performance self-priming pumps – features long valued by our SOLAS and military customers. Our pumps deliver up to six times the service life of other products on the market, improving total cost of ownership for operators and end users.
+Our experience across demanding engine environments led to success in the rail sector. Entry into this market in 2004 was enabled by advances in seal technology and the ability to align with the rail industry’s processes and standards. Operating conditions involving extreme temperatures and constant vibration challenged our design approach and sharpened our focus on selecting the right materials for long-term performance.
+The mining and oil and gas engine markets demand longevity, reliability and minimal maintenance. Gilkes adapted simple centrifugal pumps through rigorous testing to meet these expectations in the field. Key focus areas included bearing design, seal performance and pump construction. Additional features were introduced to distinguish between critical and non-critical seal operating modes, supporting safer and more efficient operation.
+Why choose Gilkes for engine cooling pumps?
+Gilkes brings over 85 years of experience to the design and manufacture of engine cooling pumps, with a focus on performance, reliability and long-term value. Our solutions are trusted by engine builders across a wide range of sectors.
+Flexibility in design and manufacture
+We tailor pump configurations to suit each application, optimising flow, pressure and efficiency while supporting emissions control and weight reduction targets even in space-limited engine layouts. Single and dual-circuit cooling systems are available to match specific engine requirements.
+Reliability by design
+Our pumps are engineered with a focus on long bearing life and effective seal performance. Careful selection of oil and water seals, combined with robust materials, reduces wear, minimises failures and optimises operating hours.
+Strong return on investment
+Gilkes pumps are built to perform over the full product lifecycle. From initial operation to remanufacture, our designs aim to lower total cost of ownership by reducing maintenance, downtime and the need for early replacement.
+Practical understanding of engine demands
+We consider operational factors such as dry running, altitude, vibration, and coolant properties. This insight allows us to specify and build pumps that perform reliably in demanding conditions across diverse industries.
+Close partnerships with engine builders
+We work alongside our customers from the earliest design stages, providing tailored pump solutions that are integrated into wider engine systems. Our collaborative approach ensures each product meets the specific needs of the application.
+Complete in-house capability
+All stages of product development, from design and machining to assembly and testing, are managed in-house. This allows us to maintain strict quality standards and deliver consistent results across all pump models.
+Material expertise
+A detailed understanding of material behaviour allows us to specify combinations that withstand mechanical stress and environmental exposure. This ensures consistent pump performance across the full service life.
+Advanced engineering tools
+We use the latest analysis and simulation software to evaluate pump performance, allowing our team to optimise each design for efficiency and durability.
+Lifecycle support
+Beyond supply, we remain involved with ongoing technical support, spare parts, and refurbishment options. Our customers benefit from continuity of service and practical advice throughout the equipment’s lifetime.
+We provide a complete range of services that support the demands of long-term pump performance
+Engineered for reliability
+Our engine cooling pumps are designed for diesel and gas engines, with single and dual-circuit solutions tailored to meet the specific demands of each application.
+Precision built for dependable engine performance
+Gilkes has been supplying engine cooling pumps since the 1940s. Over this time, we have built a reputation for manufacturing high-performance pumps for diesel and gas engine cooling applications across a range of industrial sectors.
+Full lifecycle support for Gilkes pumps
+Gilkes supports every stage of a pump’s lifecycle, from new build to spare parts and complete refurbishment. With decades of experience, our approach prioritises reliability, operational value and sustainability.
+We’re with you for every step of the way
+Speak to a pump specialist about maintaining performance for the long term.
+
+--------------------------------------------------------------------------------
+
+URL: https://gilkes.com/lubricating-oil-pumps/
+
+Gilkes has been supplying lubricating oil pumps for steam and gas turbines since the 1960s playing a vital role in ensuring the continuous and reliable operation of large rotating machinery.
+Today, we provide dedicated aftermarket pump support for these systems, supplying genuine spare parts, like-for-like OEM pump replacements, and full pump refurbishment services to customers around the world.
+Our focus is on maintaining the original performance of existing installations, using factory-original parts built to the same specifications as when they first left our facility.
+Whether replacing a worn impeller, sourcing a complete spare pump, or returning a unit for full overhaul, Gilkes provides the expertise, equipment and support needed to keep your systems running efficiently.
+Steam turbine lubricating oil pumps
+Our involvement in steam turbine lubrication systems began in the early 1960s, when Gilkes was asked to develop a solution to support the suction of main oil pumps (MOPs) on turbines rated above 120MW. This led to the development of the Booster Pump Turbine (BPT), designed to improve oil flow during start-up and low rotational speeds.
+From 1963, we expanded our scope to include the MOPs themselves, as well as AC and DC motor-driven flushing pumps.
+Gas turbine lubricating oil pumps
+Gilkes has a long-standing history in gas turbine support, beginning in 1970 with the supply of fuel forwarding pumps. This was followed by the development of complete AC and DC vertical shaft lubricating oil pumps for gas turbine platforms and the supply of purifying lubricating oil, demineralised water, and compressor washing modules, as well as GE Frame 7 Gas Turbines.
+Today, Gilkes supports hundreds of gas power installations across multiple countries. While some gas turbine systems use more standardised components, we offer a clear advantage in specification accuracy, product continuity, and long-term support.
+Engineering support
+Gilkes provides dependable pump solutions supported by technical insight and global delivery. Our offering is designed to meet the specific requirements of each installation while maintaining long-term system reliability.
+Our support includes:
+- Main lubricating oil pumps for direct engine integration
+- Auxiliary and standby pump options
+- Configurations that match the original system footprint, flow, and pressure
+- Global delivery and responsive technical advice
+Steam and gas turbine pump systems are often designed to suit specific site requirements. Gilkes holds the original engineering records for these installations, enabling us to provide parts and replacements that match the exact design and build standard.
+Unlike suppliers who rely on reverse engineering, Gilkes works from original manufacturing drawings. This ensures:
+- Correct tolerances and material specifications
+- Consistent performance without deviation from the original design
+- Compliance with system certification and operational requirements
+Many customers find us through valve supply partners or wider plant maintenance contractors. Increasingly, end users approach us directly, knowing they will receive components that match the factory original specification and are built for reliability.
+As the original manufacturer, we continue to support legacy systems with:
+- Complete pump replacements to original specification from Gilkes’ original drawings
+- Genuine spare parts for wear components and sub-assemblies
+- Full pump refurbishment at our UK headquarters
+- Strategic spare kits to support scheduled maintenance and reduce downtime
+Pump refurbishment and strategic spares
+Refurbishment services are carried out at our Kendal headquarters. Pumps are dismantled and undergo dimensional inspection and detailed reports. Components, including impellers, wear rings, and seals, are evaluated and replaced where required, returning the pump to its original performance.
+We also supply tailored strategic spare kits containing high-use components most likely to require replacement. These kits support planned maintenance, reduce the risk of downtime and improve site readiness in the event of a fault.
+Why choose Gilkes?
+We’re with you for every step of the way
+Speak to a pump specialist about maintaining performance for the long term
+
+--------------------------------------------------------------------------------
+
+URL: https://gilkes.com/case-studies
+
+Skip to main content
+Hit enter to search or ESC to close
+Close Search
+search
+Menu
+search
+Menu
+Case studies
+All
+Sort Portfolio:
+All
+Hydro Power
+Forrest Estate
+Glen Finglas
+Blind Slough
+Sherard
+Knoydart
+King Cove
+New Lanark Mills
+Shoshone Falls
+Dimbolil
+Ruo-Ndiza
+Kaptega
+Tulliemet
+Close Menu
+About us
+Our heritage
+Careers & apprenticeships
+News
+Case studies
+Hydropower asset services
+Maintenance contracts
+Optimisation & modernisation
+HydroView
+New hydropower projects
+Turbines & control systems
+Engine cooling pumps
+Pump applications
+Design & manufacture
+Refurbishment & spare parts
+Lubricating oil pumps
+Contact
+facebook
+linkedin
+youtube
+instagram
+phone
+email
++44 (0)1539 720028 |
+[email protected]
+
+--------------------------------------------------------------------------------

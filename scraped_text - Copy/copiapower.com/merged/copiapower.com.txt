@@ -1,0 +1,385 @@
+ROOT: https://copiapower.com/
+SCRAPED_AT_UTC: 2026-02-11T19:57:10.033767Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://copiapower.com/
+
+Campus-scale energy, where generation meets demand.
+Copia Power is a U.S. developer of power and digital assets, focusing on gigawatt-scale campuses that include solar, energy storage, thermal and digital grid-connected projects.
+Since our founding in 2021, we have focused on enhancing grid reliability and unlocking infrastructure investment opportunities through the convergence of generation, capacity and compute demand resources. For each campus, we partner with utilities, municipalities, cooperatives, and corporations to deliver tailored solutions. Through close collaboration, we unlock best-in-class transmission, interconnection, and load solutions, which are optimized for performance and reliability.
+What We Build
+At Copia, we build more than projects — we build campuses. Each campus integrates renewable generation, storage, and dispatchable resources with the ability to host digital infrastructure. We also design and construct the critical transmission and substation infrastructure that ties it all together — ensuring reliable delivery and grid connectivity. The result is a platform that delivers power where it’s needed most, with the speed, certainty, and scale today’s grid and customers’ demand.
+-
+Solar
+-
+Storage
+-
+Thermal
+-
+Digital
+Anchored in Power, Built to Scale
+From the Western U.S. to emerging digital hubs in the East, Copia is building gigawatt-scale campuses designed to meet the energy and infrastructure needs of today and tomorrow.
+Copia Positions
+6
+Campuses in Development
+750MW
+Generation Operating Assets
+15GW+
+Load Pipeline
+30GW+
+Generation Pipeline
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/team
+
+Our Team
+Copia’s leadership team has built and operated some of the largest renewable and digital infrastructure platforms in the U.S. Together, they bring a shared history of developing gigawatt-scale assets, raising billions in debt, tax equity, and sponsor capital, and delivering reliable projects with institutional discipline.
+Backed by Carlyle, our team combines expertise across development, engineering, finance, and operations with decades of execution experience. This unique foundation enables us to turn ambitious projects into resilient, capital-ready solutions that meet the reliability and sustainability needs of our customers.
+Leadership
+The Copia Power leadership team consists of a proven team of industry veterans with a strong record of success, including over 4 GW of projects executed together and a combined 150+ years of renewable energy experience.
+Carlyle
+Copia is owned by Carlyle, one of the world’s leading investment firms with a long track record in energy, digital infrastructure, and large-scale asset development. Carlyle brings deep sector expertise, global relationships, and institutional resources that strengthen Copia’s platform and position us to deliver campus-scale projects with speed and certainty.
+Carlyle reflects this partnership, bringing together seasoned investors and operators with decades of experience guiding growth across energy, digital and infrastructure.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/carlyle-team/ed-vilandrie
+
+Ed Vilandrie
+Operating Executive, Management Ops
+Ed Vilandrie is an Operating Executive for Carlyle’s Infrastructure Group. He is based in New York.
+Vilandrie most recently served as Co-Founder and Managing Partner of Altman Vilandrie & Company (now Altman Solon following a July 2020 merger with European partner Solon Management Consulting), which has been widely known as one of the leading telecommunications, media, and technology-focused strategy consulting firms globally. Vilandrie has advised many c-suite and senior TMT executives and investors within the digital infrastructure industry from a strategic, go-to-market, M&A, and business model perspective. Prior to Altman Vilandrie, he served as vice president at Cambridge Strategic Management Group.
+Vilandrie holds a Bachelor of Science degree in Applied Mathematics-Economics from Brown University and currently serves on several external boards including Wyyerd, Fusion Connect and Involta Data Centers.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/carlyle-team/gerrard-bushell
+
+Gerrard Bushell
+Chair, CAG Holdings – Carlyle Airport Group
+Gerrard P. Bushell, Ph.D. is Chair of the Carlyle Airport Group, where he has overseen major infrastructure projects since 2019, including leading the New Terminal One development at JFK Airport—the largest airport terminal investment in U.S. history. Before joining Carlyle, he served as President & CEO of the Dormitory Authority of the State of New York (DASNY), managing a $6 billion construction portfolio and $38 billion in municipal bond issuance for public projects across New York State.
+Bushell’s extensive career includes senior investment roles at BNY Mellon, KKR, Arden Asset Management, and Legg Mason’s ClearBridge Advisors.
+Academically, Dr. Bushell is an adjunct professor at Columbia University. He also serves as a trustee for several major civic and cultural institutions.
+He holds a B.A., M.A., and Ph.D. in Urban Political Economy from Columbia University.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/carlyle-team/ron-kiecana
+
+Ron Kiecana
+Operating Partner, Development
+Prior to Carlyle, Ron J. Kiecana was the Chief Development Officer at BrightNight, responsible for overseeing the origination, development, and delivery of utility-scale renewable energy and storage projects across the United States. They lead a team of development, transmission, real estate, permitting, and project management professionals focused on the development and delivery of clean power projects.
+Within BrightNight's renewable integrated power environment, Ron previously held the position of Senior VP, Development. Their background reflects a strong focus on energy solutions and project oversight.
+Prior to BrightNight, Ron served as Chief Business Development Officer & Board Advisor at IMG Midstream, an energy solutions company delivering locally-produced, clean energy. Earlier in their tenure with IMG Midstream, they were the Chief Executive Officer & Board Member.
+Ron's work history includes Vice President, Development at Terra-Gen Power, and Director, Fuel & Project Development at Cogentrix Energy, an independent power producer with electric generating facilities. They also held the role of Group Manager, Fuel Services at Indeck Energy Services, a developer of power generation projects.
+Earlier in their career, Ron was the Global Manager, Energy Commodities at IBM, a technology company providing hardware, software, and services.
+Ron holds a Bachelor of Science from Bradley University.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/carlyle-team/troy-patton
+
+Troy Patton
+Operating Partner, Technical Ops
+Troy Patton is an Operating Partner at Carlyle Group, specializing in technical operations with over 25 years of leadership experience in the energy and industrial sectors. He is based in Washington, D.C., where he advises portfolio companies on performance optimization, risk mitigation, asset valuation, and operational value creation.
+Prior to joining Carlyle, Patton held several executive roles at prominent organizations in renewable energy and power infrastructure. He served as Head of Program Execution and Chief Operations Officer for Ørsted Offshore North America, where he led QHSE, engineering, procurement, and project execution across a portfolio of offshore wind developments. Before Ørsted, Patton was Chief Operations Officer of Northland Power, overseeing risk management and asset optimization for their operating portfolio and working closely with development and M&A teams. He also led Northern Power Systems as both President & CEO and board member, and held senior engineering roles with Vestas, General Electric, and United Technologies. Patton began his career as an Engineering Watch Supervisor in the U.S. Navy, serving aboard both aircraft carriers and submarines.
+Academically, Patton earned his BS from Virginia Tech and holds a master’s degree from Clemson University.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/carlyle-team/randy-hickock
+
+Randy Hickock
+Operating Executive, Renewables
+Randall Hickok is an Operating Executive focused on Carlyle’s investments in renewable and sustainable energy, with a specific focus on the U.S. market. He is based in California.
+Mr. Hickok is an energy industry veteran of 33 years, whose career began with regulated interstate gas pipelines, ran through non-regulated gas-fired independent power plant ownership and operations and culminating in renewable energy as the COO of Clearway Energy.
+In Mr. Hickok’s 11 years at Clearway, he presided over the founding and growth of a renewable energy fleet comprised of utility-scale solar power plants, wind farms and battery storage, as well as portfolios of smaller distributed generation and community solar facilities, reaching 9.4 GW of combined operating and activity under construction facilities across the U.S. at the time of his retirement. During Mr. Hickok’s time at Clearway, he was responsible for Asset Management, Performance Analytics, Operations and Maintenance, O&M Procurement, O&M Engineering and Construction Management.
+Prior to Clearway, Mr. Hickok worked in senior management positions at NRG, Dynegy, LS Power and Duke Energy, where he gained skills in business development, M&A due diligence and valuations, government affairs and corporate planning.
+Mr. Hickok earned a BBA degree in Finance and Business Analysis from Texas A&M University.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/carlyle-team/david-gluck
+
+David Gluck
+Managing Director, Renewables
+David Gluck is a Managing Director focused on Global Infrastructure opportunities in Renewables and the Energy Transition.
+Prior to joining Carlyle, David was a Senior Director at Clearway Energy Group and a founding member of its predecessor- NRG Energy’s renewable development platform. He has been investing in the renewables sector since 2007 when he joined Sempra Energy with roles in utility strategy and corporate development. In 2010 he joined NRG Energy to help build their renewable business, he was a key contributor in growing that platform from 20MW to nearly 5,000MW of operating wind and solar assets and what is now Clearway Energy, one of the largest pure play renewable energy developers in the U.S. David has led over $7 billion of renewable energy transactions across development, power marketing, project financing, acquisitions and partnerships. He is passionate about developing innovative approaches to invest in and progress the energy transition.
+David holds a B.S. in Finance from San Diego State University, and is a CFA (Chartered Financial Analyst) charter holder.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/carlyle-team/peter-taylor
+
+Peter Taylor
+Partner, Infrastructure
+Peter Taylor is a Managing Director and Partner in the Carlyle Global Infrastructure Opportunity Fund, and was most recently responsible for Carlyle’s leadership of the JFK Airport Terminal One redevelopment. Prior to joining Carlyle in 2016, Mr. Taylor spent 15 years at Hastings Infrastructure and ultimately served as the Global Head of Global Investments and Asset Management. Prior to that role, Mr. Taylor was based in the U.S. to establish Hastings’ North American business. Before joining Hastings, Mr. Taylor served as a Manager of Structured Asset Finance at Deutsche Bank.
+Mr. Taylor has a Bachelor of Business in Accounting from the Queensland University of Technology.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/carlyle-team/pooja-goyal
+
+Pooja Goyal
+CIO, Infrastructure Platform
+Pooja Goyal is a Partner and Chief Investment Officer of the Infrastructure Group. She is Co-Head of the Carlyle Global Infrastructure Opportunity Fund (CGI), and Head of Renewable and Sustainable Energy Fund. She is based in New York. In her capacity, Ms. Goyal overseas all investment activities across Renewables and Energy Transition, Digital, Transport and Utilities globally.
+Prior to joining Carlyle in 2019, Ms. Goyal was the Head of the Alternative Energy Investing Group at Goldman Sachs, where she led Goldman Sachs’ investments in the renewables sector. Ms. Goyal has been investing in the renewables / energy transition sector since 2005 when she joined the Alternative Energy Investing Group as an associate. She was promoted to Managing Director in 2012 and took over as Head of the group in 2013. Prior to 2005, Ms. Goyal was part of the Investment Banking Division at Goldman Sachs.
+Ms. Goyal is a graduate of University of Pennsylvania, where she received a BS in finance from the Wharton School and a BAS in computer and cognitive science from the School of Engineering and Applied Sciences.
+Ms. Goyal is on the Board of Advisors of the School of Engineering and Applied Sciences at the University of Pennsylvania and on the Board of Trustees for the Chapin School in New York City.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/leadershipteam/arthur-sonnenfeld
+
+Arthur Sonnenfeld
+Chief Investment Officer
+Arthur Sonnenfeld is the Chief Investment Officer at Copia Power, where he focuses on growing and optimizing the company’s portfolio of power generation and digital infrastructure assets. His team’s responsibilities include project and portfolio acquisitions, dispositions, and partnerships; pricing and structuring of major contracts; and underwriting key investment decisions for the company.
+With more than a decade of experience in the energy transition sector, Arthur has acquired over 7 GW of utility-scale solar and 3.2 GWh of battery energy storage capacity and executed over $7 billion in long-term power purchase agreements with investment-grade offtakers.
+Prior to joining Copia, Arthur was a founding member of SB Energy’s U.S. platform, where he helped scale the business into one of the country’s largest developers of utility-scale solar in under two years through an acquisition-led growth strategy. Earlier in his career, he held a variety of roles at Clearway Energy Group (formerly the renewable energy division of NRG Energy) and Schlumberger.
+Arthur holds a Bachelor of Science in Chemical Engineering from Yale University.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/leadershipteam/jim-howell
+
+Jim Howell
+President, Strategy
+Jim Howell is President of Strategy at Copia Power, where he drives long-term strategy, the launch of new assets and solutions, and the positioning of the company’s portfolio in the changing energy and digital infrastructure markets. He works across the full project lifecycle, advancing large-scale infrastructure projects and supporting Copia’s partners in meeting growth objectives over the next decade.
+With more than 15 years of executive leadership experience, Jim has been at the forefront of the Energy Transition as a serial founder of multiple infrastructure companies. He co-founded and served as CEO of Birch Infrastructure, created on the conviction that the digital economy would outgrow the grid and require a new model of development and site selection. Under Birch, he assembled gigawatt-scale portfolios of energy assets capable of meeting hyperscaler needs of new sources of generation and co-founded Rowan Digital Infrastructure, advancing campus-scale projects that delivered hyperscale data centers with new approaches to site selection and bespoke power solutions.
+Earlier in his career, Jim co-founded Silverado Power in 2010, where he secured more than 400 MW of utility-scale solar contracts and helped establish one of the earliest large portfolios of solar PPAs. Silverado later evolved into sPower, where Jim served as Chief Development Officer and contributed to the company’s growth into one of the largest independent renewable energy platforms in the U.S. The company was acquired in 2016 by AIMCo and AES and today forms the foundation of AES Renewables.
+Jim holds a Bachelor of Arts in Finance from Santa Clara University.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/leadershipteam/ray-henger
+
+Ray Henger
+Chief Executive Officer
+Ray Henger is the Chief Executive Officer at Copia Power and a thought leader in the industry. Ray works closely with Carlyle to manage its large investment and the Copia leadership team to ensure Copia is building safe and profitable projects as well as a pipeline best designed to deliver the needs of the future.
+Ray has spent his 30-year career in the energy industry. Prior to Copia, he served as the Chief Development Officer at sPower, where he oversaw a number of teams including development, permitting, real estate, origination and long-term strategy. sPower was formed in 2014, at his exit in March 2021, sPower had constructed more than 2 GW of solar, storage and wind assets and developed an 18 GW pipeline.
+Prior to sPower, Ray led venture capital backed wind developer OwnEnergy, where he spent six years as the CFO during a time of rapid growth culminating in the successful sale of OwnEnergy to EDF in 2015. From inception to sale, OwnEnergy raised three rounds of venture capital building a pipeline that would result in more than 1GW of completed wind projects by EDF.
+Prior to OwnEnergy, Ray was a Managing Director at Credit Suisse in investment banking with clients in the IPP, utility and renewable generation sectors. Ray's 14-year banking career included positions with Wasserstein Perella, Donaldson Lufkin & Jenrette (DLJ) and Credit Suisse. During his time as an investment banker Ray led the execution on more than $30 billion in capital deployed to finance and acquire energy projects.
+Ray holds a Bachelor of Arts in Finance from Southern Methodist University.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/leadershipteam/katie-heath
+
+Katie Heath
+General Counsel and Chief Risk Officer
+Katie Heath is the General Counsel and Chief Risk Officer at Copia Power where she leads legal strategy and operations, corporate governance, regulatory compliance, title curative, and enterprise risk management, ensuring Copia's resilience in a rapidly evolving energy and technology landscape. Katie has extensive experience in advising on multi-billion-dollar financing transactions, energy asset strategy and development, as well as aligning risk frameworks with long-term growth objectives.
+Prior to joining Copia, Katie was the Vice President of Strategic Development at AES Clean Energy (formerly sPower) where she was responsible for formation of development strategy, market intelligence, pipeline creation, strategic partnerships, and land acquisition. Under Katie's leadership, over 15 GW of new power generation projects were added to the development pipeline.
+Katie also served as Vice President of Business Development at Heelstone Energy where she originated project acquisitions and formulated and executed a greenfield development strategy for the creation of utility scale generation projects across the United States. Katie began her career in energy as counsel for project developers where she represented clients in tax equity and debt financing, energy market transactions, and regulatory matters.
+Katie holds a J.D from the Wake Forest University School of Law, where she serves as an adjunct professor of Energy Law, and a Bachelor of Arts in Political Science from the University of South Carolina. She is licensed to practice in North Carolina, South Carolina, and before the Supreme Court of the United States.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/leadershipteam/ryan-galeria
+
+Ryan Galeria
+Chief Development Officer, Power
+Ryan Galeria is the Chief Development Officer of Power at Copia Power, where he oversees the development of a diverse portfolio of energy campuses throughout the US. Drawing on over 20 years of experience in energy, Ryan leads Copia's Development Team, which includes professionals in the fields of Interconnection, Permitting, and Land Development, as well as a team of project Developers.
+Prior to joining Copia, Ryan was the Vice President of Development for AES Clean Energy (formerly sPower), where he managed a nationwide 17+ GW pipeline of primarily greenfield solar and energy storage assets.
+Previously, he managed permitting and entitlement efforts across multiple local, state and federal jurisdictions, and subsequently led development and project management teams in completing over 2 GW of projects from inception through financing, construction, and commissioning. Prior to joining AES, Ryan was a project manager and geologist for an environmental consulting firm where he specialized in oil field and gas plant abandonment, soil and groundwater remediation, and land redevelopment activities.
+Ryan holds a Bachelor of Science in Geological Sciences from the University of California, Santa Barbara, and is a licensed Professional Geologist in the state of California.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/leadershipteam/brian-callaway
+
+Brian Callaway
+Chief Financial Officer
+Brian Callaway is the Chief Financial Officer of Copia Power where he is responsible for capital markets (project and corporate; strategy and formation), treasury, investor relations, reporting, as well as business operations (HR, People and Culture, Data, IT, and Business Services).
+Brian has been a thought leader in the broader energy transition and power infrastructure space for over 12 years; driving innovation, building teams, and raising over 15BN of capital (debt, equity and tax equity) at the most significant companies across the broader clean power industry both at project and corporate levels.
+Prior to joining Copia, Brian was the CFO at Arevon, a leading, national renewables IPP and development platform with over $12 billion in assets under management and a 4GW operating portfolio as of 2023. Before that, Brian was the VP of Growth and led the Structured Finance and M&A teams at sPower (now AES Clean Energy). Growing sPower from just under $1 billion on balance sheet to more than $5 billion and more than 3 GW of operating assets by raising $7+ billion of innovatively structured third-party capital across all parts of the capital stack. He also drove the acquisition of more than 1 GW of renewable assets for sPower, including storage, wind and solar.
+Brian began his career at NRG Renew (now Clearway Energy Group), where he was a key contributor on the startup Commercial Execution team and worked broadly across M&A, project finance, and development efforts to help create one of the premier IPPs in the space.
+Brian holds a Bachelor of Science in Business from San Diego State University.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/leadershipteam/garret-bean
+
+Garret Bean
+Chief Development Officer, Digital
+Garret Bean is the Chief Development Officer of Digital at Copia Power, where he leads the vision and execution of large-scale data center and energy infrastructure initiatives.
+Prior to Copia, Garret was Managing Director of Development at Birch Infrastructure, where he built a portfolio of hyperscale data centers totaling more than 500 MW that are now in operation. He also served as Vice President at sPower, where his teams advanced a 45+ GW portfolio through site selection, development, and construction of solar, wind, and battery storage projects. Throughout his career, Garret’s leadership has contributed to the successful implementation of more than $10 billion in operational assets.
+With over 20 years of experience, Garret has sited, developed, and delivered mission-critical data center campuses and major energy projects across the United States, consistently bringing projects online at accelerated timelines to meet customer demand. He oversees strategy for integrated energy campus development, ensuring Copia’s projects are positioned to meet the growing demand for reliable, sustainable digital infrastructure.
+Garret holds a Master of Science in Geological Sciences and Fluvial Geomorphology and a Bachelor of Science in Geological Sciences with an emphasis in Engineering Geology, both from the University of California, Santa Barbara.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/leadershipteam/mike-ashley
+
+Mike Ashley
+Chief Commercial Officer
+Mike Ashley is the Chief Commercial Officer at Copia Power, where he leads power marketing and offtake transactions for the generation portfolio and energy supply for the digital infrastructure portfolio.
+Prior to joining Copia, Mike was the Vice President of Origination at Aypa Power, where he led origination across all customer segments in WECC, ERCOT, MISO, and PJM and executed over 1 GW of battery storage transactions; and Senior Director of Origination at AES Clean Energy (formerly sPower) where he led origination for corporate and non-utility buyers nationwide and executed 2.2 GW of renewable energy and battery storage transactions. He has also previously held origination roles at EDP Renewables and Invenergy.
+Mike has over 15 years of experience in energy development, having led and closed over 4 GW of physical and financial PPAs, Tolling Agreements, and commodity hedge transactions across wind generation, solar generation, hybrid solar + battery storage, and stand-alone battery storage. Mike has extensive transactional experience in CAISO, WECC, ERCOT, MISO, and PJM; working with investor-owned utilities, public power buyers, competitive retail providers, commodity trading desks, and corporate buyers across the country.
+Mike holds a Bachelor of Arts in History from Colorado College and a Master of Science in Economics and Sustainability from the University of Edinburgh.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/leadershipteam/tony-archibald
+
+Tony Archibald
+Chief Operating Officer
+Tony Archibald is the Chief Operating Officer at Copia Power, where he leads EPC, Asset Management, and O&M for the generation portfolio and digital infrastructure portfolio.
+Tony has led teams in industrial engineering and construction for over 20 years. He cut his teeth as an apprentice electrician later moving into engineering and project management and ultimately leading engineering and construction teams. His primary focus has been heavy industrial engineering and construction with emphasis in renewable energy generation where he led an EPC contractor in utility scale and commercial solar projects and later joined AES Clean Energy (formerly sPower) as Vice President of Engineering and Construction. Tony has successfully negotiated and executed engineering-procurement-construction contracts from both the owner and EPC side of the table for over 3 GW of renewable energy.
+Tony's teams have been instrumental in improving the operation and maintenance of projects through performance engineering, warranty management, and preventative maintenance planning. His experience includes leading teams in design and project engineering, project cost estimating and schedule development, procurement of major equipment, maintaining vendor/supplier relations, contract negotiation, Project and Construction Management, policy and international trade related to procurement of project material and equipment, and operations and maintenance of facilities.
+He earned a Bachelor of Science in Electrical Engineering from the University of Utah and holds a Master of Business Administration from Louisiana State University, Shreveport. Tony is licensed as a Professional Engineer in the state of Utah and holds multiple state master electrician licenses.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/about-copia
+
+About Copia
+Copia Power is a Carlyle-backed energy and digital infrastructure platform committed to developing, constructing, and owning large-scale assets across the U.S. to accelerate the electrification and growth of the digital economy. Copia Power has over 2,600 MW of energy generation and storage assets in operation or under construction and is actively developing over 15 GW of grid-connected data centers supported by Copia’s portfolio of gigawatt-scale energy campuses comprising more than 25 GW of solar and storage and 7 GW of natural gas generation assets.
+Core Strengths
+What sets Copia apart is not just what we build, but how we build it. Our model is designed to overcome the barriers that slow traditional developers, combining strategic siting, disciplined execution, and proven leadership. Equally important, we build for the long term – with our engineering teams delivering durable assets, and operating them with discipline that ensures performance for generations. Backed by Carlyle, Copia delivers the reliability, resilience, and enduring value that utilities, digital customers, and communities demand.
+Copia Model
+Regional Campus Model
+Instead of scattered 100 MW projects, Copia develops phased 1–3 GW campuses that compound in value over time.
+Multi-Asset Layering
+We integrate solar, storage, thermal, and digital infrastructure on a single site — creating “infrastructure inertia” that attracts utilities, hyperscalers, and industrial customers. These critical infrastructure points give our partners the runway and time to invest long-term knowing they’ll have the power, water, and networking infrastructure to support their growth ambitions regardless of scale.
+Execution Certainty
+A lean, high-conviction team with proven playbooks, financial discipline, and institutional capital ensures speed to market and durable returns.
+What We Build
+At Copia, we build more than projects — we build campuses. Each campus brings together renewable generation, storage, and dispatchable resources, along with the transmission and substation infrastructure needed to deliver that power reliably, with the ability to host digital infrastructure on-site. By integrating multiple technologies and grid assets in one location, Copia creates flexible, resilient platforms that adapt to customer needs, strengthen the grid, and support long-term growth.
+Copia is a leading developer of utility-scale solar projects. Our in-house team delivers reliable, cost-competitive power solutions that meet the low-carbon needs of our customers.
+Solar
+Copia currently leverages our deep expertise in battery storage to develop utility-scale projects that enhance grid reliability and provide customers with the flexibility to access power when it’s needed most.
+Storage
+Copia’s strategically sited thermal generation provides dispatchable capacity that complements renewables and supports grid stability. Offering around-the-clock power, these projects deliver reliable energy during peak demand and system stress, ensuring customers have access to the power they need with certainty and scale.
+Thermal
+Copia’s digital infrastructure sites pair power with load, creating purpose-built sites designed for energy data-intensive industries. By integrating energy, fiber, and land within a single development, we deliver scalable solutions that provide customers with the speed, certainty, and reliability needed to grow their digital footprint.
+Digital
+Our Team
+Copia’s leadership team brings decades of experience across renewable power, thermal generation, and digital infrastructure. Together, they have a proven track record of developing and operating large-scale assets, raising billions in financing, and executing with institutional discipline. Guided by a clear vision and shared history, our leaders not only drive Copia’s growth but also empower our people to build meaningful careers as we deliver the next generation of campus-scale infrastructure.
+News + Press Releases
+Owned by Carlyle, one of the world’s leading investment firms, bringing proven sector expertise, global relationships, and the resources to support Copia’s growth.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/overview
+
+About Copia
+Copia Power is a Carlyle-backed energy and digital infrastructure platform committed to developing, constructing, and owning large-scale assets across the U.S. to accelerate the electrification and growth of the digital economy. Copia Power has over 2,600 MW of energy generation and storage assets in operation or under construction and is actively developing over 15 GW of grid-connected data centers supported by Copia’s portfolio of gigawatt-scale energy campuses comprising more than 25 GW of solar and storage and 7 GW of natural gas generation assets.
+Core Strengths
+What sets Copia apart is not just what we build, but how we build it. Our model is designed to overcome the barriers that slow traditional developers, combining strategic siting, disciplined execution, and proven leadership. Equally important, we build for the long term – with our engineering teams delivering durable assets, and operating them with discipline that ensures performance for generations. Backed by Carlyle, Copia delivers the reliability, resilience, and enduring value that utilities, digital customers, and communities demand.
+Copia Model
+Regional Campus Model
+Instead of scattered 100 MW projects, Copia develops phased 1–3 GW campuses that compound in value over time.
+Multi-Asset Layering
+We integrate solar, storage, thermal, and digital infrastructure on a single site — creating “infrastructure inertia” that attracts utilities, hyperscalers, and industrial customers. These critical infrastructure points give our partners the runway and time to invest long-term knowing they’ll have the power, water, and networking infrastructure to support their growth ambitions regardless of scale.
+Execution Certainty
+A lean, high-conviction team with proven playbooks, financial discipline, and institutional capital ensures speed to market and durable returns.
+What We Build
+At Copia, we build more than projects — we build campuses. Each campus brings together renewable generation, storage, and dispatchable resources, along with the transmission and substation infrastructure needed to deliver that power reliably, with the ability to host digital infrastructure on-site. By integrating multiple technologies and grid assets in one location, Copia creates flexible, resilient platforms that adapt to customer needs, strengthen the grid, and support long-term growth.
+Copia is a leading developer of utility-scale solar projects. Our in-house team delivers reliable, cost-competitive power solutions that meet the low-carbon needs of our customers.
+Solar
+Copia currently leverages our deep expertise in battery storage to develop utility-scale projects that enhance grid reliability and provide customers with the flexibility to access power when it’s needed most.
+Storage
+Copia’s strategically sited thermal generation provides dispatchable capacity that complements renewables and supports grid stability. Offering around-the-clock power, these projects deliver reliable energy during peak demand and system stress, ensuring customers have access to the power they need with certainty and scale.
+Thermal
+Copia’s digital infrastructure sites pair power with load, creating purpose-built sites designed for energy data-intensive industries. By integrating energy, fiber, and land within a single development, we deliver scalable solutions that provide customers with the speed, certainty, and reliability needed to grow their digital footprint.
+Digital
+Our Team
+Copia’s leadership team brings decades of experience across renewable power, thermal generation, and digital infrastructure. Together, they have a proven track record of developing and operating large-scale assets, raising billions in financing, and executing with institutional discipline. Guided by a clear vision and shared history, our leaders not only drive Copia’s growth but also empower our people to build meaningful careers as we deliver the next generation of campus-scale infrastructure.
+News + Press Releases
+Owned by Carlyle, one of the world’s leading investment firms, bringing proven sector expertise, global relationships, and the resources to support Copia’s growth.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/news/copia-power-a-carlyle-portfolio-company-upsizes-corporate-debt-facility-to-575mm-to-fuel-increased-growth-opportunities-across-its-scaled-digital-and-power-infrastructure-business
+
+Copia Power, a Carlyle Portfolio Company, Upsizes Corporate Debt Facility to $575mm to Fuel Increased Growth Opportunities Across Its Scaled Digital and Power Infrastructure Business
+Dana Point, CA and Washington, DC, December 4, 2025 – Copia Power (Copia) is pleased to announce it has upsized its existing corporate credit facility, originally closed in March 2024, to $575 million to support the continued growth and execution of its fully scaled digital and power infrastructure businesses.
+Alongside the upsize, Copia has also expanded the availability of the facility to be used to fund the procurement and development for its near-term 8+ GW of thermal generation and to accelerate data center commercialization at several of its giga-scale campuses. This facility is designed to grow organically alongside the business, providing an increasing but right-sized borrowing base as Copia continues to deliver market-moving solutions and growth.
+According to Brian Callaway, Copia’s CFO, “We are grateful to our lenders for their support as we continue to execute on our $30b+ giga-scale, integrated power-plus-digital strategy that has been a half-decade in the making.”
+Stoel Rives LLP served as Borrower’s counsel on the deal. Milbank served as CLA’s counsel.
+About Copia Power
+Copia Power is a Carlyle-backed energy and digital infrastructure platform committed to developing, constructing, and owning large-scale assets in the U.S. to accelerate the energy transition and the growth of the digital economy. Copia Power has 1,500 MW / 4,469 MWh of operational or in-construction solar / BESS assets and is actively developing more than 46 GW of large solar and storage projects, 8+ GW of thermal projects and 9+ GW of digital assets across the U.S. Further information is available at www.copiapower.com.
+About Carlyle
+Carlyle (NASDAQ: CG) is a global investment firm with deep industry expertise that deploys private capital across its business and conducts its operations through three business segments: Global Private Equity, Global Credit, and Carlyle AlpInvest. With $474 billion of assets under management as of September 30, 2025, Carlyle’s purpose is to invest wisely and create value on behalf of its investors, portfolio companies, and the communities in which we live and invest. Carlyle employs more than 2,400 people in 27 offices across four continents. Further information is available at www.carlyle.com. Follow Carlyle on X @OneCarlyle and LinkedIn at The Carlyle Group.
+Contacts:
+Copia Power
+Katie Heath
+katie.heath@copiapower.com
+Carlyle
+Brittany Berliner
++1 (212) 813-4839
+brittany.berliner@carlyle.com
+©2025 Copia Power | All rights reserved.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/news/copia-power-a-carlyle-portfolio-company-closes-595-million-tax-equity-commitment-for-centennial-flats
+
+Copia Power, a Carlyle Portfolio Company, Closes $595 Million Tax Equity Commitment for Centennial Flats
+Dana Point, CA and Washington, DC, December 17, 2025 – Copia Power (Copia) today announced it has closed a $595 million tax equity commitment with J.P. Morgan, as the sole tax equity investor, for its Centennial Flats Project.
+The Centennial Flats project is located in La Paz County, AZ, about 75 miles west of Phoenix, and consists of 500 MW of solar generating capacity and 1,069 MWh of battery energy storage capacity. The project is being constructed in three phases with expected completion dates throughout 2026.
+“I'm deeply grateful for the dedication and commitment shown by all parties to advance Centennial Flats through the project’s first mechanical completion milestone and tax equity closing,” said Tony Archibald, EVP and Chief Operating Officer. “These achievements reflect the daily work happening across the site as the teams work through the final stages of construction toward operations. Building a project of this scale takes a remarkable team, and their effort is evident in their serial delivery of power and infrastructure solutions at scale both on time and on budget.”
+“This tax equity commitment demonstrates our continued ability to finance our pipeline efficiently, backed by recurring commitments from key financial partners,” said Dan Murphy, Copia’s Managing Director and Head of Capital Markets. “We appreciate the opportunity to close another tax equity transaction with J.P. Morgan and value our ongoing partnership.”
+McDermott, Will and Schulte LLP served as Sponsor’s counsel on the deal, with Holland & Hart LLP and Snell & Wilmer LLP serving as local counsel. Milbank LLP served as Tax Equity’s transaction counsel, with Ballard Spahr LLP as local counsel.
+CRC-IB and Carlyle served as Copia’s advisors.
+About Copia Power
+Copia Power is a Carlyle-backed energy and digital infrastructure platform committed to developing, constructing, and owning large-scale assets in the U.S. to accelerate the energy transition and the growth of the digital economy. Copia Power has 450 MW solar generation and 1,200 MWh of storage operational assets, is currently constructing two projects in AZ totaling 1,050 MW solar generation and 3,269 MWh storage and actively developing more than 27 GW of large solar and storage projects, 7+ GW of thermal projects and 15+ GW of digital assets across the U.S. Further information is available at www.copiapower.com.
+About Carlyle
+Carlyle (NASDAQ: CG) is a global investment firm with deep industry expertise that deploys private capital across its business and operates through three segments: Global Private Equity, Global Credit, and Carlyle AlpInvest. With $474 billion of assets under management as of September 30, 2025, Carlyle’s purpose is to invest wisely and create value on behalf of its investors, portfolio companies, and the communities in which we live and invest. Carlyle employs more than 2,400 people in 27 offices across four continents. Further information is available at www.carlyle.com. Further information is available at carlyle.com. Follow Carlyle on LinkedIn at The Carlyle Group and on X at @OneCarlyle.
+Contacts:
+Copia Power
+Katie Heath
+katie.heath@copiapower.com
+Carlyle
+Brittany Berliner
++1 (212) 813-4839
+brittany.berliner@carlyle.com
+©2025 Copia Power | All rights reserved.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/news/copia-power-a-carlyle-portfolio-company-closes-an-890-million-tax-equity-commitment-for-maricopa-energy-centernbsp
+
+Copia Power, a Carlyle Portfolio Company, Closes an $890 million Tax Equity Commitment for Maricopa Energy Center
+Dana Point, CA and Washington, DC, December 18, 2025 – Copia Power (Copia) today announced it has executed an $890 million tax equity commitment with Wells Fargo for its Maricopa Energy Center projects. Wells Fargo provided separate commitments across each phase of the Maricopa facility, which combined represents one of the largest commitments for a solar and/or storage facility in the US.
+Maricopa Energy Center is located in Maricopa County, Arizona and consists of 550 MW of solar generating capacity and 2,200 MWh of battery energy storage capacity. This is the third portion of our 30,000-acre Harquahala digital and power infrastructure campus to be commercialized. The project is being constructed in two phases which have each executed a Power Purchase Agreement with APS and are scheduled to reach commercial operation in 2026-2027. Once operational, Maricopa will be the single largest solar-plus-storage project in Arizona.
+“Copia continues to demonstrate exceptional execution as it builds large scale, high-impact power infrastructure projects across the U.S. and this tax equity commitment underscores the strength of our platform,” said Dan Murphy, Copia’s Managing Director and Head of Capital Markets. “Maricopa Energy Center is a defining project for Arizona as one of the largest power-infrastructure projects in the state and we are proud to close this transformative transaction with Wells Fargo.”
+“Closing tax equity for Maricopa underscores the strength of our teams across planning, procurement, and construction as well as our commitment to deliver complex, infrastructure solutions at unprecedented scale to our partners,” said Nate Lapierre, Managing Director and Head of Project Management and Procurement.
+Stoel Rives LLP served as Sponsor’s counsel on the deal, with Holland & Hart LLP and Snell & Wilmer LLP serving as local counsel. Milbank LLP served as tax equity counsel, with Ballard Spahr LLP serving as local counsel.
+CRC-IB and Carlyle served as Copia’s advisors.
+About Copia Power
+Copia Power is a Carlyle-backed energy and digital infrastructure platform committed to developing, constructing, and owning large-scale assets in the U.S. to accelerate the energy transition and the growth of the digital economy. Copia Power has 450 MW solar generation and 1,200 MWh of storage operational assets, is currently constructing two projects in AZ totaling 1,050 MW solar generation and 3,269 MWh storage and actively developing more than 27 GW of large solar and storage projects, 7+ GW of thermal projects and 15+ GW of digital assets across the U.S. Further information is available at www.copiapower.com.
+About Carlyle
+Carlyle (NASDAQ: CG) is a global investment firm with deep industry expertise that deploys private capital across its business and operates through three segments: Global Private Equity, Global Credit, and Carlyle AlpInvest. With $474 billion of assets under management as of September 30, 2025, Carlyle’s purpose is to invest wisely and create value on behalf of its investors, portfolio companies, and the communities in which we live and invest. Carlyle employs more than 2,400 people in 27 offices across four continents. Further information is available at carlyle.com. Follow Carlyle on LinkedIn at The Carlyle Group and on X @OneCarlyle.
+Contacts:
+Copia Power
+Katie Heath
+katie.heath@copiapower.com
+Carlyle
+Brittany Berliner
++1 (212) 813-4839
+brittany.berliner@carlyle.com
+©2025 Copia Power | All rights reserved.
+
+--------------------------------------------------------------------------------
+
+URL: https://copiapower.com/history
+
+Our History
+Our history is built on proven platforms, strategic partnerships, and disciplined execution — united by our mission to deliver reliable, scalable infrastructure where it’s needed most. Together, these foundations have shaped Copia into a leading builder of integrated power and digital infrastructure.
+Foundations of Copia
+-
+Birch Infrastructure
+Founded in 2019, Birch Infrastructure was established to meet the rising power needs of data centers and other large industrial consumers. Built on the premise that the internet’s growth would eventually outpace available energy supply, Birch focused on developing renewable solutions to serve this demand. In 2022 Copia Power and Birch complete a strategic merger, combining platforms to accelerate growth.
+-
+Carlyle
+In 2021, Carlyle invested in Birch Infrastructure and launched Copia Power. Together, the two created a platform capable of delivering multi-gigawatt energy and digital infrastructure projects across the U.S.
+-
+Copia Power
+Copia Power was founded by Carlyle in 2021. Built on a leadership team with decades of experience in energy, the company develops, finances, and operates gigawatt-scale campuses that integrate generation and load. Today, Copia is assembling one of the largest energy and digital portfolios in the U.S., anchored in discipline, reliability, and long-term value creation.
+Our Timeline
+
+--------------------------------------------------------------------------------

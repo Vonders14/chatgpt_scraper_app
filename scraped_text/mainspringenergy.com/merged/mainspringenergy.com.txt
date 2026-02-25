@@ -1,0 +1,815 @@
+ROOT: https://mainspringenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:18:29.710790Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://mainspringenergy.com/
+
+9 February 2026
+Mainspring Energy
+Mainspring delivers local power to capacity constrained companies and communities.
+No other primary power solution can match the flexibility, affordability, and low emissions of a Mainspring Linear Generator.
+Deploy reliable, scalable onsite power in months, not years, with modular units that permit and install quickly.
+Deliver prime power, solar firming, diesel reduction or elimination, grid services, and multi-fuel operation with a single, fully dispatchable asset.
+Lower capex, lower maintenance costs, and higher efficiency combine to deliver a lower levelized cost of electricity (LCOE) than alternative technologies.
+Deploy fuel redundant power that can operate independently or in coordination with the grid.
+Generate low-emissions power today and transition seamlessly to zero-carbon fuels over time.
+Mainspring’s flexible platform has potential use in a variety of applications from customer resiliency projects to grid-scale power plants.
+Carlos Casablanca
+Managing Director, Distribution Planning and Analysis, AEP
+NOx
+Low emissions that meet the most stringent air quality standards.
+DISPATCHABILITY
+Capable of operating grid independent or grid parallel.
+EFFICIENCY
+Across all deployment sizes: from hundreds of kilowatts to hundreds of megawatts.
+FIELD OPERATIONS AND LATE-STAGE DEVELOPMENT
+Leading Fortune 500 companies, data center developers, and utilities trust Mainspring.
+Bring reliable, low-emissions primary power onsite to control costs and ensure uptime.
+Generate dependable, low-emissions power using available fuels like biogas, field gas, or natural gas.
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/company
+
+Shannon Miller
+Chief Executive Officer & Founder
+Building a new category of world-class power generation requires the optimism of ambition and creativity, balanced with practicality to solve problems efficiently. The challenges that arise are opportunities for growth.
+We bring expertise and commitment to creating the best customer experience, from sales to deployment and service, just as we apply deep technical rigor to building and delivering world-class products. We strive for excellence and behave as leaders with the humility to acknowledge our challenges, both collectively and as individual contributors.
+The integration and cross-disciplinary nature of Mainspring’s business requires intentionally seeking out others who bring different skills, perspectives, and priorities. Our culture of inclusion and respect extends beyond our team to interactions with our partners and customers.
+Chief Executive Officer & Founder
+Chief Financial Officer
+Chief Operating Officer
+Chief Commercial Officer & Founder
+Chief Technology Officer & Founder
+Chief Communications Officer
+SVP Engineering
+General Counsel
+Data Center Industry Leader, Former Microsoft
+Utility Industry Leader, Former Pasadena/LADWP
+Utility Industry Leader, Former NextEra
+Data Center Industry Leader, Former Google
+Utility Industry Leader, Former NOVEC
+Utility Industry Leader, Former NAEMA
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/
+
+9 February 2026
+Mainspring Energy
+Mainspring delivers local power to capacity constrained companies and communities.
+No other primary power solution can match the flexibility, affordability, and low emissions of a Mainspring Linear Generator.
+Deploy reliable, scalable onsite power in months, not years, with modular units that permit and install quickly.
+Deliver prime power, solar firming, diesel reduction or elimination, grid services, and multi-fuel operation with a single, fully dispatchable asset.
+Lower capex, lower maintenance costs, and higher efficiency combine to deliver a lower levelized cost of electricity (LCOE) than alternative technologies.
+Deploy fuel redundant power that can operate independently or in coordination with the grid.
+Generate low-emissions power today and transition seamlessly to zero-carbon fuels over time.
+Mainspring’s flexible platform has potential use in a variety of applications from customer resiliency projects to grid-scale power plants.
+Carlos Casablanca
+Managing Director, Distribution Planning and Analysis, AEP
+NOx
+Low emissions that meet the most stringent air quality standards.
+DISPATCHABILITY
+Capable of operating grid independent or grid parallel.
+EFFICIENCY
+Across all deployment sizes: from hundreds of kilowatts to hundreds of megawatts.
+FIELD OPERATIONS AND LATE-STAGE DEVELOPMENT
+Leading Fortune 500 companies, data center developers, and utilities trust Mainspring.
+Bring reliable, low-emissions primary power onsite to control costs and ensure uptime.
+Generate dependable, low-emissions power using available fuels like biogas, field gas, or natural gas.
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/contact
+
+Let’s get you power.
+We’re here to help you move fast, reduce risk, and take control of your energy future. Whether you’re evaluating sites, scaling your capacity, or rethinking resilience—we’re ready when you are.
+Mainspring simplifies every step
+to get local power.
+Site Plan
+We assess your site and energy goals to design your optimal system.
+Financing
+Select flexible ownership and service options to align with your budget.
+Permitting
+Streamlined approvals with low noise and emission design.
+Installation
+Factory-built, pre-assembled, and tested units that deploy fast.
+Maintenance
+Get turnkey maintenance from Mainspring or explore our flexible service offerings.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/product
+
+Local power, redefined.
+A power generator that runs on any fuel, is fully dispatchable, uses no water, and emits near-zero NOx.
+Radically simple. Factory built.
+Fuel flexible
+Seamlessly switch between natural gas, RNG, biogas, propane, and hydrogen.
+Dispatachable
+Quickly ramp output to meet variable workloads and enable grid independent operations.
+Low emissions
+Produce electricity with near-zero NOx and meet even the most stringent air quality standards.
+Modular
+Enable faster deployment timelines with factory-built units that are quick to install.
+Low maintenance
+Minimize downtime with modular design, only two moving parts and no oil.
+<1.5 ppm
+NOx
+Low NOx emissions without the need for aftertreatment.
+0–100%
+DISPATCHABILITY
+Capable of operating grid independent or grid parallel.
+46%
+EFFICIENCY
+Across all deployment sizes: from hundreds of kilowatts to hundreds of megawatts.
+>450 MW
+FIELD OPERATIONS AND LATE-STAGE DEVELOPMENT
+Leading Fortune 500 companies, data center developers, and utilities trust Mainspring.
+Performance comparison across technologies.
+Built to scale.
+Factory-built modules that deploy fast, deliver efficient power, and scale to meet any demand.
+Outputs¹
+| Power (net AC) | 250 kW |
+|---|---|
+| Electrical | 400/480 V, 3 Phase, 50/60 Hz |
+Inputs
+| Fuels | Any blend of Biogas², Natural Gas, Hydrogen, and Propane |
+|---|---|
+| Input Pressure | 5–20 psig (15 psig nominal) |
+| Water Consumption | None |
+Efficiency³
+| Electrical (LHV, net AC) | 46% |
+|---|---|
+| Heat Rate (HHV, net AC) | 8,233 BTU/kWh |
+Emissions⁴
+| NOx | <1.5 ppm (<0.05 lb/MWh) |
+|---|---|
+| Noise | <70 dBA @ 3m, <65 dBA @10m |
+Physical
+| Weight | 20 tonnes |
+|---|---|
+| Dimensions (L x W x H) | 20.5' × 8.5' × 9.5' |
+Environment
+| Temperature Range | -30° to 50° C |
+|---|---|
+| Humidity | 0 to 100% |
+1. Rated capacity may vary by fuel type.
+2. Refer to Mainspring Fuel Specifications for details.
+3. Measured according to ASME PTC 5O at 15 C and 1 atm on natural gas and biogas. Rated efficiency may vary by fuel type.
+4. Products comply with emissions limits in South Coast AQMD.
+All data is subject to technical development and modification.
+A linear generator converts fuel directly into electricity through a low-temperature, flameless reaction. Without combustion or complex mechanical parts, it provides high efficiency, low emissions, and quiet operation in a compact, modular system built for local generation.
+A linear generator delivers fast, flexible, low-emission power with full dispatchability and seamless fuel switching. Other technologies require tradeoffs across one or more of these attributes. Fuel cells share the low-emissions profile but can’t seamlessly switch fuels or load follow, limiting their flexibility. Engines and turbines offer dispatchability but rely on combustion, which drives higher local air pollution and increases complexity.
+A linear generator is fully fuel flexible, operating on natural gas, biogas, propane, field gas, associated gas, or hydrogen. It can seamlessly switch between gaseous fuels, allowing customers to maintain power during a fuel interruption and return to their primary fuel once service is restored. Unlike technologies that require major retrofits or permanent conversions, a linear generator provides true fuel redundancy without locking customers into a single fuel source.
+Mainspring’s linear generators provide fast-ramping, dispatchable power that can operate independently or in parallel with the grid. Each system can serve as firm, flexible, local capacity for utilities or as onsite generation for commercial and industrial users. Linear generators can follow load, form microgrids, and balance renewable resources, all within a modular design that scales from small sites to hundreds of MWs.
+Linear generators solve capacity constraints today while providing flexibility for the future. Their non-combustion design produces near-zero NOx and no particulate matter, and their high efficiency and fuel flexibility enable customers and utilities to cut emissions now and transition smoothly to zero- and low-carbon fuels like hydrogen and biogas. The result is clean, firm power that supports growth while accelerating grid decarbonization.
+
+--------------------------------------------------------------------------------
+
+URL: https://mainspringenergy.com/product
+
+Local power, redefined.
+A power generator that runs on any fuel, is fully dispatchable, uses no water, and emits near-zero NOx.
+Radically simple. Factory built.
+Fuel flexible
+Seamlessly switch between natural gas, RNG, biogas, propane, and hydrogen.
+Dispatachable
+Quickly ramp output to meet variable workloads and enable grid independent operations.
+Low emissions
+Produce electricity with near-zero NOx and meet even the most stringent air quality standards.
+Modular
+Enable faster deployment timelines with factory-built units that are quick to install.
+Low maintenance
+Minimize downtime with modular design, only two moving parts and no oil.
+<1.5 ppm
+NOx
+Low NOx emissions without the need for aftertreatment.
+0–100%
+DISPATCHABILITY
+Capable of operating grid independent or grid parallel.
+46%
+EFFICIENCY
+Across all deployment sizes: from hundreds of kilowatts to hundreds of megawatts.
+>450 MW
+FIELD OPERATIONS AND LATE-STAGE DEVELOPMENT
+Leading Fortune 500 companies, data center developers, and utilities trust Mainspring.
+Performance comparison across technologies.
+Built to scale.
+Factory-built modules that deploy fast, deliver efficient power, and scale to meet any demand.
+Outputs¹
+| Power (net AC) | 250 kW |
+|---|---|
+| Electrical | 400/480 V, 3 Phase, 50/60 Hz |
+Inputs
+| Fuels | Any blend of Biogas², Natural Gas, Hydrogen, and Propane |
+|---|---|
+| Input Pressure | 5–20 psig (15 psig nominal) |
+| Water Consumption | None |
+Efficiency³
+| Electrical (LHV, net AC) | 46% |
+|---|---|
+| Heat Rate (HHV, net AC) | 8,233 BTU/kWh |
+Emissions⁴
+| NOx | <1.5 ppm (<0.05 lb/MWh) |
+|---|---|
+| Noise | <70 dBA @ 3m, <65 dBA @10m |
+Physical
+| Weight | 20 tonnes |
+|---|---|
+| Dimensions (L x W x H) | 20.5' × 8.5' × 9.5' |
+Environment
+| Temperature Range | -30° to 50° C |
+|---|---|
+| Humidity | 0 to 100% |
+1. Rated capacity may vary by fuel type.
+2. Refer to Mainspring Fuel Specifications for details.
+3. Measured according to ASME PTC 5O at 15 C and 1 atm on natural gas and biogas. Rated efficiency may vary by fuel type.
+4. Products comply with emissions limits in South Coast AQMD.
+All data is subject to technical development and modification.
+A linear generator converts fuel directly into electricity through a low-temperature, flameless reaction. Without combustion or complex mechanical parts, it provides high efficiency, low emissions, and quiet operation in a compact, modular system built for local generation.
+A linear generator delivers fast, flexible, low-emission power with full dispatchability and seamless fuel switching. Other technologies require tradeoffs across one or more of these attributes. Fuel cells share the low-emissions profile but can’t seamlessly switch fuels or load follow, limiting their flexibility. Engines and turbines offer dispatchability but rely on combustion, which drives higher local air pollution and increases complexity.
+A linear generator is fully fuel flexible, operating on natural gas, biogas, propane, field gas, associated gas, or hydrogen. It can seamlessly switch between gaseous fuels, allowing customers to maintain power during a fuel interruption and return to their primary fuel once service is restored. Unlike technologies that require major retrofits or permanent conversions, a linear generator provides true fuel redundancy without locking customers into a single fuel source.
+Mainspring’s linear generators provide fast-ramping, dispatchable power that can operate independently or in parallel with the grid. Each system can serve as firm, flexible, local capacity for utilities or as onsite generation for commercial and industrial users. Linear generators can follow load, form microgrids, and balance renewable resources, all within a modular design that scales from small sites to hundreds of MWs.
+Linear generators solve capacity constraints today while providing flexibility for the future. Their non-combustion design produces near-zero NOx and no particulate matter, and their high efficiency and fuel flexibility enable customers and utilities to cut emissions now and transition smoothly to zero- and low-carbon fuels like hydrogen and biogas. The result is clean, firm power that supports growth while accelerating grid decarbonization.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/solutions
+
+9 February 2026
+Mainspring Energy
+Deploy reliable, scalable onsite power in months, not years, with modular units that permit and install quickly.
+Deliver prime power, solar firming, diesel reduction or elimination, grid services, and multi-fuel operation with a single, fully dispatchable asset.
+Lower capex, lower maintenance costs, and higher efficiency combine to deliver a lower levelized cost of electricity (LCOE) than alternative technologies.
+Deploy fuel redundant power that can operate independently or in coordination with the grid.
+Generate low-emissions power today and transition seamlessly to zero-carbon fuels over time.
+The flexibility of Mainspring’s linear generators to tackle the constraints of fuel availability, air permitting, scalability, and reliable power supply are critical for this moment to power the economy of the future.
+Joe Kava
+Data Center Industry Leader, Former Google
+Deploy modular, fast-to-permit, operationally flexible power to meet rising compute demand.
+Bring reliable, low-emissions primary power onsite to control costs and ensure uptime.
+Generate dependable, low-emissions power using available fuels like biogas, field gas, or natural gas.
+We assess your site and constraints to tailor a system that fits your goals.
+Select flexible ownership and service options to align with your needs.
+Streamlined approvals with low-noise and low-emissions design.
+Factory-built, pre-assembled and tested power units for fast, low-risk deployment.
+Get turnkey maintenance from Mainspring or explore our flexible service offerings.
+Buy outright to take advantage of available incentives, long-term economic value, and maintain ownership of your asset.
+Finance with flexible structures that reduce upfront capital expenditure and deliver predictable, manageable expenses.
+Mainspring Linear Generators qualify for a Federal Investment Tax Credit (ITC) of 30% for projects through 2032.
+Get turnkey maintenance from Mainspring or explore our flexible service offerings.
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+A linear generator converts fuel directly into electricity through a low-temperature, flameless reaction. Without combustion or complex mechanical parts, it provides high efficiency, low emissions, and quiet operation in a compact, modular system built for local generation.
+A linear generator delivers fast, flexible, low-emission power with full dispatchability and seamless fuel switching. Other technologies require tradeoffs across one or more of these attributes. Fuel cells share the low-emissions profile but can’t seamlessly switch fuels or load follow, limiting their flexibility. Engines and turbines offer dispatchability but rely on combustion, which drives higher local air pollution and increases complexity.
+A linear generator is fully fuel flexible, operating on natural gas, biogas, propane, field gas, associated gas, or hydrogen. It can seamlessly switch between gaseous fuels, allowing customers to maintain power during a fuel interruption and return to their primary fuel once service is restored. Unlike technologies that require major retrofits or permanent conversions, a linear generator provides true fuel redundancy without locking customers into a single fuel source.
+Mainspring’s linear generators provide fast-ramping, dispatchable power that can operate independently or in parallel with the grid. Each system can serve as firm, flexible, local capacity for utilities or as onsite generation for commercial and industrial users. Linear generators can follow load, form microgrids, and balance renewable resources, all within a modular design that scales from single sites to multi-megawatt deployments.
+Linear generators solve capacity constraints today while providing flexibility for the future. Their non-combustion design produces near-zero NOx and no particulate matter, and their high efficiency and fuel flexibility enable customers and utilities to cut emissions now and transition smoothly to zero-carbon fuels like hydrogen and biogas. The result is clean, firm power that supports growth while accelerating grid decarbonization.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/solutions/data-center
+
+Christian Belady
+Data Center Industry Leader, Former Microsoft
+Seamlessly switch between natural gas, propane, and low-carbon fuels without downtime.
+Accelerate your deployment with factory-built units for fast, modular construction with minimal onsite work, accelerated permitting and easy re-deployment.
+Get fast ramping power output from 0-100% for variable workloads, resilient islanding operations, and fast response to changing capacity needs.
+Expedite air permitting with native low emissions — without SCR — and enable larger builds under regulatory caps.
+Deliver prime power, solar firming, diesel reduction or elimination, grid services, and multi-fuel operation with a single, fully dispatchable asset.
+EdgeConneX
+EdgeConneX secured grid-independent power to accelerate its data center’s time to market.
+Full dispatchability allows for efficient operation and reliable load following to meet demand.
+We assess your site and energy goals to design your optimal system.
+Select flexible ownership and service options to align with your budget.
+Streamlined approvals with low noise and emission design.
+Factory-built, pre-assembled, and tested units that deploy fast.
+Get turnkey maintenance from Mainspring or explore our flexible service offerings.
+Buy outright to take advantage of available incentives, long-term economic value, and maintain ownership of your asset.
+Finance with flexible structures that reduce upfront capital expenditure and deliver predictable, manageable expenses.
+Mainspring Linear Generators qualify for a Federal Investment Tax Credit (ITC) of 30% for projects through 2032.
+Get turnkey maintenance from Mainspring or explore our flexible service offerings.
+The flexibility of Mainspring’s Linear Generators to tackle the constraints of fuel availability, air permitting, scalability, and reliable power supply are critical for this moment to power the economy of the future.
+Joe Kava
+Data Center Industry Leader, Former Google
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+Mainspring’s factory-built, modular systems can be installed and commissioned in months, not years. This allows new facilities and expansions to add capacity without waiting for delayed grid interconnections or substation upgrades. The result is faster time-to-power for both hyperscale and colocation operators.
+Each unit operates independently and can start and ramp in seconds. Modularity enables low-cost redundancy, ensuring that maintenance on one generator does not interrupt operations. Systems can operate in parallel with the grid, in islanded mode during outages, or fully islanded without a grid connection.
+Mainspring’s non-combustion reaction produces near-zero NOx and no particulate matter, meeting the strictest air-quality standards without after-treatment. This simplifies permitting and enables deployment in regions where traditional engines or turbines are restricted. Because there is no after-treatment, there is no risk of falling out of compliance over time.
+The linear generator operates on natural gas, biogas, propane, or hydrogen, seamlessly switching between them without downtime. This provides true fuel redundancy, allowing data centers to maintain operation using stored fuels during gas interruptions and return to pipeline gas when available without retrofit or permanent conversion.
+Mainspring delivers firm, dispatchable, low-emission power at high efficiency. With the ability to seamlessly switch to lower-carbon fuels, data center operators can firm intermittent renewables while meeting baseload power requirements and advancing toward net-zero commitments.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/solutions/utilities
+
+Phyllis Currie
+Utility Industry Leader, Former Pasadena/LADWP
+Bring flexible, dispatchable capacity with no duration limit or startup emissions penalty, with a solution consistently selected in least-cost planning models.
+Low-temperature, non-combustion reaction produces near-zero NOx, without the need for aftertreatment, accelerating air permits, enabling more capacity and avoiding non-compliance risk.
+Integrate near-instant response seamlessly with renewables while balancing variable load, minimizing curtailment, and eliminating the need for BESS.
+Deliver right-sized capacity with less overbuild and exceptional reliability with our modular design.
+Leverage abundant, low-cost gas while retaining fuel surety with propane backup and readiness for future hydrogen requirements.
+Lathrop Irrigation District (LID)
+LID is now able to meet 95% of its peak load with local, dispatchable power that cuts electricity costs.
+Achieved air permits in three months; generator delivery in seven months.
+We assess your site and energy goals to design your optimal system.
+Select flexible ownership and service options to align with your budget.
+Streamlined approvals with low noise and emission design.
+Factory-built, pre-assembled, and tested units that deploy fast.
+Get turnkey maintenance from Mainspring or explore our flexible service offerings.
+Buy outright to take advantage of available incentives, long-term economic value, and maintain ownership of your asset.
+Finance with flexible structures that reduce upfront capital expenditure and deliver predictable, manageable expenses.
+Mainspring Linear Generators qualify for a Federal Investment Tax Credit (ITC) of 30% for projects through 2032.
+Get turnkey maintenance from Mainspring or explore our flexible service offerings.
+Mainspring’s flexible platform has potential use in a variety of applications from customer resiliency projects to grid-scale power plants.
+Carlos Casablanca
+Managing Director, Distribution Planning and Analysis, AEP
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+Mainspring’s linear generators deliver fast-ramping, dispatchable capacity that qualifies as firm power under utility planning models. Systems can start, ramp, and reach full output quickly, providing clean, firm generation for peak, intermediate, or continuous operation. This flexibility allows utilities to meet capacity obligations, maintain reliability, and support renewable integration without duration limits.
+The linear generator instantly adjusts output to match fluctuations in renewable generation. When solar or wind output drops, it ramps up to maintain grid balance; when renewables surge, it ramps down with no efficiency penalty. This responsiveness helps utilities reduce curtailment, optimize renewable portfolios, and avoid costly overbuilds of battery or transmission capacity.
+Their low-temperature, non-combustion process produces near-zero NOx, no particulate matter, and low noise, allowing projects to move forward under existing air-district limits. These characteristics streamline environmental review and enable rapid deployment of clean capacity in regions where turbines and engines face strict permitting barriers.
+Fuel flexibility allows utilities to operate on natural gas today and transition to renewable fuels, including hydrogen, as availability increases without replacing equipment. This protects long-term capital investments and ensures continued compliance as decarbonization policies, fuel markets, and emissions standards evolve.
+Factory-built, modular units can be installed at substations or near load centers to provide firming and resilience where it is needed most. This distributed approach strengthens grid reliability, defers major transmission and distribution upgrades, and allows utilities to add clean capacity quickly and cost-effectively.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/solutions/enterprise
+
+9 February 2026
+Mainspring Energy
+Lower capex, lower maintenance costs, and higher efficiency combine to deliver a lower levelized cost of electricity (LCOE) than alternative technologies.
+Replace monthly utility bills with monthly payments through Mainspring financing partners and enjoy immediate savings — without upfront capital.
+Deliver continuous power with prime, onsite generation that operates in parallel or independent of the grid.
+Accelerate your business growth with factory-built units for fast, modular construction with minimal onsite work and accelerated permitting.
+Add power that can cut your emissions today — and transition to 100% renewable power generation as your requirements change.
+Lineage Logistics
+Lineage benefits from lower and predictable levelized cost of energy.
+Fully dispatchable generation to supplement intermittent solar and optimize onsite resources.
+We assess your site and energy goals to design your optimal system.
+Select flexible ownership and service options to align with your budget.
+Streamlined approvals with low noise and emission design.
+Factory-built, pre-assembled, and tested units that deploy fast.
+Get turnkey maintenance from Mainspring or explore our flexible service offerings.
+Buy outright to take advantage of available incentives, long-term economic value, and maintain ownership of your asset.
+Finance with flexible structures that reduce upfront capital expenditure and deliver predictable, manageable expenses.
+Mainspring Linear Generators qualify for a Federal Investment Tax Credit (ITC) of 30% for projects through 2032.
+Get turnkey maintenance from Mainspring or explore our flexible service offerings.
+Mainspring has allowed us to manage electricity expenses better and lower our carbon footprint. We’ve already begun adopting this technology at other locations.
+Jeff Guth
+Regional Director, Construction, The Kroger Co.
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+Mainspring’s linear generators allow enterprises to produce power onsite, avoiding transmission and demand charges while reducing exposure to utility rate increases. High efficiency, low maintenance costs, and predictable performance deliver long-term savings and budget stability.
+Mainspring offers flexible financing options that replace traditional utility bills with predictable monthly payments. Customers can achieve immediate savings without upfront capital, supported by long-term agreements that lock in energy rates for planning certainty.
+Each modular generator operates independently and can provide continuous operation in prime or parallel modes. This ensures that critical operations remain powered through grid failures, utility interruptions, or peak demand events.
+Factory-built, pre-tested units ship ready to install. Mainspring’s modular approach minimizes onsite work, accelerates permitting, and enables enterprises to bring new power online in months instead of years.
+Mainspring’s linear generators provide both fuel and operational flexibility. The same system can operate on natural gas, biogas, propane, or hydrogen and can transition between use cases as needs evolve. With fast-ramping, dispatchable operation and low emissions, enterprises can firm renewables, manage peak loads, or deliver continuous onsite power, all from a single adaptable platform.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/solutions/industrial
+
+9 February 2026
+Mainspring Energy
+Operate on multiple fuels — from biogas to field gas and associated gas to pipeline natural gas and future low-carbon fuels — with a single asset.
+Accelerate your deployment with factory-built units for fast, modular construction with minimal onsite work and accelerated permitting.
+Deploy quickly and relocate easily as sites are decommissioned or operational needs change.
+Get turnkey maintenance from Mainspring or explore our flexible service offerings.
+Extend the life of your infrastructure with an asset designed to remain valuable as markets and regulations evolve.
+California Bioenergy
+CalBio generates reliable, biogas-fueled power for its renewable natural gas operations.
+Avoids emissions caused by flaring and generates power with near-zero NOx emissions.
+We assess your site and energy goals to design your optimal system.
+Select flexible ownership and service options to align with your budget.
+Streamlined approvals with low noise and emission design.
+Factory-built, pre-assembled, and tested units that deploy fast.
+Get turnkey maintenance from Mainspring or explore our flexible service offerings.
+Buy outright to take advantage of available incentives, long-term economic value, and maintain ownership of your asset.
+Finance with flexible structures that reduce upfront capital expenditure and deliver predictable, manageable expenses.
+Mainspring Linear Generators qualify for a Federal Investment Tax Credit (ITC) of 30% for projects through 2032.
+Get turnkey maintenance from Mainspring or explore our flexible service offerings.
+Mainspring is helping us meet our clean energy goals, reduce greenhouse gas emissions, and create operational efficiencies.
+Andrew Damron
+General Manager, Napa Sanitation District
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+Mainspring systems can operate directly on field gas, biogas, or other non-standard fuels with minimal conditioning. This converts waste or flare gas into productive power while maintaining low emissions and high efficiency.
+Yes. The linear generator’s modular, standalone design supports microgrids or fully islanded operation for oil and gas, wastewater, agriculture, landfill, or other industrial sites, delivering reliable power without dependence on grid infrastructure.
+With no combustion, lubricating oil, or complex moving parts, Mainspring systems require minimal maintenance. Routine service is predictable and modular, allowing most of the plant to remain powered during maintenance.
+Yes. The low-temperature process produces near-zero NOx and no detectable particulate matter, allowing deployment in the strictest air districts without after-treatment.
+Factory-built, pre-tested units ship ready to install and integrate easily with existing electrical and fuel infrastructure. This minimizes onsite construction and shortens time-to-power for critical industrial applications.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/solutions/deploy-quickly
+
+9 February 2026
+Mainspring Energy
+Low-temperature reaction produces near-zero NOx, without the need for aftertreatment, accelerating air permits and avoiding non-compliance risk.
+Factory-built units arrive pre-tested and ready to install—minimizing site work, shortening construction schedules, and ensuring predictable delivery.
+Modular architecture supports rolling commissioning so you can deploy in stages—reducing risk and maintaining flexibility as demand grows.
+Sorting Facility
+This robotic sorting facility needed power faster than the utility could provide.
+>50% lower operating cost equating to ~$8M annual savings.
+Prologis
+Prologis has a grid independent microgrid to support its transition to net-zero emission transportation.
+Reduced time for new power from nearly 36 months to 9 months.
+Deploy modular, fast-to-permit, operationally flexible power to meet rising compute demand.
+Bring reliable, low-emissions primary power onsite to control costs and ensure uptime.
+Generate dependable, low-emissions power using available fuels like biogas, field gas, or natural gas.
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+Each linear generator ships factory-built and tested, minimizing onsite construction and interconnection work. Their modular design supports rolling commissioning, allowing portions of a site to come online faster. Near-zero emissions simplify air permitting and avoid many of the delays associated with traditional engines or turbines. Together, these attributes accelerate delivery from contract to operation.
+The linear generator's low emissions allow customers to deploy more generation capacity on site in less time than comparable combustion-based systems. With near-zero NOx and no particulate matter, many air districts and jurisdictions do not subject linear generators to more onerous permit compliance and identify linear generators as a lower environmental impact technology. As such, this reduces the complexity of air permitting and allows customers to gain more capacity over shorter timelines.
+Customers can add linear generators in phases, sizing deployments to actual capacity demands as they grow. This modularity supports both smaller sites and larger multi-megawatt projects. It also enables rolling commissioning, allowing portions of a project to begin operating before the full buildout is complete.
+Mainspring uses one linear generator model across all applications, regardless of site size, fuel, or operating mode. This consistency simplifies manufacturing, shortens lead times, and streamlines maintenance across the fleet. It also avoids the variation common with legacy technologies that rely on multiple models and custom configurations.
+For both behind-the-meter and front-of-the-meter projects stalled by interconnection or capacity constraints, Mainspring provides local power that allows projects to progress faster. As needs evolve, the linear generator’s flexibility supports applications such as firming renewables, managing peak loads, and operating on zero carbon fuels. This ensures the asset continues to deliver value well beyond the initial delay.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/solutions/add-flexibility
+
+9 February 2026
+Mainspring Energy
+Make on-the-fly fuel switches and provide fuel redundancy with our linear design that allows for real-time compression ratio adjustments.
+Operate with full dispatchability from 0–100%, easily shifting between prime, backup, peak shaving, and demand response as your needs change.
+Meet today’s power demands with the flexibility to intermittently or permanently shift to renewable fuels like hydrogen.
+Agricultural facility
+This facility needed a reliable, dispatchable, solution that delivered cost savings immediately.
+Aligns with company commitments to lower emissions and be ready for biogas or hydrogen in the future.
+Lineage Logistics
+Lineage benefits from lower and predictable levelized cost of energy.
+Fully dispatchable generation to supplement intermittent solar and optimize onsite resources.
+Deploy modular, fast-to-permit, operationally flexible power to meet rising compute demand.
+Bring reliable, low-emissions primary power onsite to control costs and ensure uptime.
+Generate dependable, low-emissions power using available fuels like biogas, field gas, or natural gas.
+Mainspring Linear Generators improve our energy independence.
+Chris Thurston
+Head of Renewable Energy Projects, Lineage Logistics
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+Linear generators adjust automatically to different fuels by controlling the pressure at which the fuel and air mixture reacts, allowing the system to match optimal conditions without mechanical changes. Because the reaction is pressure-driven rather than flame-based, the generator maintains stable and efficient performance across a wide range of gaseous fuels. Fuel switching happens quickly and requires no modification to the core machine, enabling smooth transitions between gaseous fuels as operating needs evolve.
+Each generator operates from 0–100% output, responding in real time to load or renewable variability. This provides dispatchable, fast-ramping power for businesses and utilities.
+Multiple units operate in coordination, allowing maintenance without system downtime. Sites can achieve high 9s availability, with minimal overbuild, due to the modular design.
+Mainspring offers both operational and fuel flexibility, enabling customers to shift how they use the system as their needs change, from prime power to firming renewables, peak shaving, or clean resilience. As energy strategies evolve, the same installed asset can be repurposed without hardware changes, giving organizations long-term flexibility and sustained value.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/solutions/control-costs
+
+9 February 2026
+Mainspring Energy
+Lower capex, lower maintenance costs, and higher efficiency combine to deliver a lower levelized cost of electricity (LCOE) than alternative technologies.
+Secure predictable power costs with efficient generation that uses less fuel and is less exposed to market fluctuations.
+Maintain operations with modular units that are serviced individually, avoiding costly full-system shutdowns.
+Kroger
+Kroger's onsite power generation provides predictable and lower energy costs.
+Meets stringent clean air quality and low noise standards, enabling ease of permitting.
+Lathrop Irrigation District (LID)
+LID is now able to meet 95% of its peak load with local, dispatchable power that cuts electricity costs.
+Achieved air permits in three months; generator delivery in seven months.
+Deploy modular, fast-to-permit, operationally flexible power to meet rising compute demand.
+Bring reliable, low-emissions primary power onsite to control costs and ensure uptime.
+Generate dependable, low-emissions power using available fuels like biogas, field gas, or natural gas.
+Buy outright to take advantage of available incentives, long-term economic value, and maintain ownership of your asset.
+Finance with flexible structures that reduce upfront capital expenditure and deliver predictable, manageable expenses.
+Mainspring Linear Generators qualify for a Federal Investment Tax Credit (ITC) of 30% for projects through 2032.
+Get turnkey maintenance from Mainspring or explore our flexible service offerings.
+Mainspring has allowed us to manage electricity expenses better and lower our carbon footprint. We’ve already begun adopting this technology at other locations.
+Regional Director, Construction, The Kroger Co.
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+Mainspring lowers energy costs by generating power at the customer site. Its full dispatchability reduces demand charges by supplying power exactly when the facility needs it. Where applicable, the system complements solar by load following and filling production gaps, lowering the total cost of energy at the site. Compared to other onsite technologies, Mainspring delivers higher efficiency and lower maintenance costs, reducing operating expenses even further.
+Mainspring reduces exposure to volatile grid prices by producing power onsite. Grid electricity is largely tied to natural gas prices, but linear generators operate at higher efficiency than legacy grid technologies and avoid transmission losses. This means customers need less fuel to produce the same amount of power, making them far less sensitive to swings in fuel prices and creating a more stable, predictable cost of energy.
+Mainspring’s linear generator has only two moving parts that glide on air bearings, which reduces friction. The low-temperature design further reduces stress on components. Its modular architecture limits downtime because individual units can be serviced while the rest of the system continues operating, keeping power available.
+Grid power costs continue to rise as utilities invest in wildfire mitigation, extreme-weather hardening, transmission upgrades, and storm recovery. These pressures drive long-term rate escalations that customers can’t control. Mainspring avoids these external costs by generating power onsite with high efficiency and predictable long-term pricing. This provides greater budget certainty and the potential for meaningful savings over the life of the project.
+Mainspring and its partners offer financing solutions that align costs with performance. These structures allow customers to deploy onsite power with little or no upfront investment while capturing savings from day one.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/solutions/increase-resilience
+
+9 February 2026
+Mainspring Energy
+Deploy fuel redundant power that can operate independently or in coordination with the grid.
+Select from multiple fuel options to keep power available under changing supply conditions.
+Maintain operations with modular units that are serviced individually, avoiding costly full-system shutdowns.
+Prologis
+Prologis has a grid independent microgrid to support its transition to net-zero emission transportation.
+Reduced time for new power from nearly 36 months to 9 months.
+EdgeConneX
+EdgeConneX secured grid-independent power to accelerate its data center's time to market.
+Full dispatchability allows for efficient operation and reliable load following to meet demand.
+Deploy modular, fast-to-permit, operationally flexible power to meet rising compute demand.
+Bring reliable, low-emissions primary power onsite to control costs and ensure uptime.
+Generate dependable, low-emissions power using available fuels like biogas, field gas, or natural gas.
+Mainspring customers are provided with a pioneering microgrid solution that can generate onsite power and adapt to an evolving grid landscape.
+Jana Gerber
+President, Schneider Electric North America, Microgrid
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+Each linear generator operates independently and continues running during grid outages. Deploying redundant units enables high availability, ensuring reliable power even if one unit is offline.
+Mainspring has customers operating microgrids today, including fully islanded sites where grid interconnection has not yet occurred, as well as sites that integrate with solar, batteries, and other distributed resources.
+The linear generator operates on natural gas, biogas, propane, or hydrogen and can switch between them without downtime. This provides true fuel redundancy, allowing facilities to maintain operation during fuel interruptions and return to their primary fuel when service is restored, without retrofit or permanent conversion.
+Factory-built, modular units can be installed at substations or near load centers to provide firming and resilience where it is needed most. This distributed approach strengthens grid reliability, defers major transmission and distribution upgrades, and allows utilities to add clean capacity quickly and cost-effectively.
+Modularity enables redundancy, allowing individual units to be serviced while others remain online. This keeps power available during maintenance and supports continuous operation for critical facilities.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/solutions/reduce-emissions
+
+9 February 2026
+Mainspring Energy
+low-temperature, non-combustion reaction produces near-zero NOx, without the need for aftertreatment, accelerating air permits and avoiding non-compliance risk.
+Build larger sites within regulatory limits thanks to low criteria pollutant output that allows more capacity under strict air caps.
+Meet today’s power demands with the flexibility to intermittently or permanently shift to renewable fuels like hydrogen.
+California Dairies, Inc.
+CDI elected to use Linear Generators with near-zero NOx emissions to decrease their microgrid's emissions.
+CDI needs power generation that can efficiently follow their site's operational load.
+Kroger
+Kroger's onsite power generation provides predictable and lower energy costs.
+Meets stringent clean air quality and low noise standards, enabling ease of permitting.
+Deploy modular, fast-to-permit, operationally flexible power to meet rising compute demand.
+Bring reliable, low-emissions primary power onsite to control costs and ensure uptime.
+Generate dependable, low-emissions power using available fuels like biogas, field gas, or natural gas.
+Mainspring Linear Generators improve our energy independence.
+Chris Thurston
+Head of Renewable Energy Projects, Lineage Logistics
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+Mainspring’s linear generator operates through a controlled, low-temperature reaction rather than the high temperatures of alternative technologies. The lower reaction temperature prevents the formation of NOx and particulate matter that occur in engines and turbines, eliminating the need for exhaust after-treatment systems.
+The linear generator's low emissions allow customers to deploy more generation capacity on site in less time than comparable combustion-based systems. With near-zero NOx and no particulate matter, many air districts and jurisdictions do not subject linear generators to more onerous permit compliance and identify linear generators as a lower environmental impact technology. As such, this reduces the complexity of air permitting and allows customers to gain more capacity over shorter timelines.
+A linear generator delivers fast, flexible, low-emission power with full dispatchability and seamless fuel switching. Other technologies require tradeoffs across one or more of these attributes. Fuel cells share the low-emissions profile but can’t seamlessly switch fuels or load follow, limiting their flexibility. Engines and turbines offer dispatchability but rely on combustion, which drives higher local air pollution and increases complexity.
+The linear generator enables customers to reduce CO₂ emissions today while preparing for tomorrow’s renewable fuels. Its efficient, low-temperature operation supports natural gas and biogas now and can transition to hydrogen as it becomes available. This helps organizations meet near-term air-quality requirements and align with long-term decarbonization targets.
+Because Mainspring systems emit a fraction of the pollutants produced by engines or turbines, operators can add generation capacity without exceeding existing emissions caps. This allows customers to expand operations or develop new projects while maintaining compliance with air-district limits.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/careers
+
+Join a team building what the future needs now.
+We’re changing the way companies and communities get power, and we’re looking for ambitious, creative people to make it happen.
+We’re growing fast and hiring across disciplines.
+We’re hiring across engineering, operations, field service, supply chain, and more. Explore roles in our Menlo Park HQ, manufacturing facilities, or remote field operations.
+Mainspring employees bring a broad range of backgrounds, experiences, and talents to contribute to our capabilities. We depend on this diversity to bring fresh perspectives to our engineering challenges and business opportunities.
+Shannon Miller
+CEO and Founder
+We’re engineers, problem-solvers, builders, and energy professionals united by a shared mission.
+Work that matters.
+Every role contributes to the big picture: advancing reliable, clean, and fuel-flexible power solutions.
+Always improving.
+We invest in your growth because progress requires people who keep getting better.
+Solving problems together.
+Whether in engineering or operations, we solve problems side-by-side and move forward as a team.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/news-perspectives
+
+Press Release
+9 February 2026
+Mainspring Energy
+For media inquiries, contact media@mainspringenergy.com
+Mainspring Energy
+9 February 2026
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+13 August 2025
+Garrett Hering
+12 August 2025
+31 July 2025
+Maeve Allsup, Latitude Media
+30 May 2025
+Craig Gordon, Mainspring Energy
+22 May 2025
+Dennis Wyatt, Manteca/Ribon Bulletin
+19 May 2025
+Maeve Allsup, Latitude Media
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/news/mainspring-energy-establishes-strategic-advisory-board-bolstering-leadership-in-data-center-and-utility-power-sectors
+
+9 February 2026
+Mainspring Energy
+Six Distinguished Utility & Data Center Leaders Join Mainspring as Strategic Advisors
+MENLO PARK, Calif., AUGUST 12, 2025 — Mainspring Energy, the leading provider of fuel-flexible, local power generation, today announced the formation of its Strategic Advisory Board, welcoming six distinguished utility and data center industry leaders: Christian Belady, Phyllis Currie, John DiDonato, Joe Kava, Dave Schleicher, and Steve Sheppard. This move reflects Mainspring’s accelerating partnerships and growing role in the critical data center and utility power sectors, further solidifying its commitment to delivering reliable, low-emissions, local power generation through its innovative linear generator design.
+Mainspring's linear generator offers a unique solution to the evolving demands of modern power infrastructure. Its innovative design allows for seamless operation on a variety of gaseous fuels, providing unparalleled flexibility, high efficiency, and near-zero NOx emissions. This adaptability, along with its ability to handle both baseload and fully variable power, positions Mainspring as a key enabler for data centers and utilities seeking to rapidly add new power capacity, enhance energy reliability, reduce costs, and meet ambitious sustainability goals in an increasingly dynamic energy landscape.
+"The establishment of our Strategic Advisory Board marks a pivotal moment for Mainspring," said Adam Simpson, Mainspring’s Chief Commercial Officer. "This highly accomplished group brings an extraordinary depth of experience and strategic vision from the utility, data center, and financial sectors. Their insights and leadership give us a big advantage as we advance Mainspring's growing business in these markets, driving innovation and expanding our reach."
+Mainspring Energy is actively engaged in a variety of large-scale projects within the data center and utility sectors. For data centers, the company’s linear generators provide reliable, flexible, onsite power that can circumvent grid constraints, reduce reliance on traditional backup diesel generators, and support the rapid deployment of compute capacity, especially crucial for the demands of AI workloads.
+In the utility space, Mainspring’s solutions offer flexible, dispatchable generation that can support grid modernization, enhance resilience, and integrate with renewable energy sources, enabling utilities to meet growing load demands and achieve decarbonization goals. Examples include partnering with municipal and cooperative utilities to provide local, dispatchable capacity for rapidly growing communities and managing exceptional load growth from data centers.
+Meet the Inaugural Mainspring Strategic Advisory Board Members:
+Christian Belady is a widely recognized pioneer in the data center industry, with over four decades of experience in global data center and infrastructure development and management. He retired from Microsoft in 2023 as Vice President of Data Center Research and Development for Microsoft’s Cloud Infrastructure Organization, where he led efforts developing transformative technologies for scaling cloud and AI infrastructure. Prior to that role, he led Microsoft’s Datacenter Development globally, including energy, site selection, engineering, construction and operations. Since then, he serves as an advisor and/or a board member for many infrastructure companies including DigitalBridge, Vantage and others. Mr. Belady is credited with creating the Power Usage Effectiveness (PUE) metric used by the industry and has contributed significantly to industry standards and organizations like ASHRAE and The Green Grid. His industry recognition includes the 2017 DataCloud “Data Center Thought Leadership” Award, the iMasons “2020 Industry Luminary” Award, the 2023 Interglobix Titans List and the 2024 Northern Virginia Technology Council Data Center Icon Award. Recently he also was elected to the prestigious National Academy of Engineering (NAE). In 2025, Christian received the Data Center World Lifetime Achievement Award.
+Phyllis Currie is a prominent figure in the public power industry. She served for 14 years as the General Manager of Pasadena Water and Power, following a distinguished 30-year career with the City of Los Angeles, where she held roles including Chief Financial Officer for the Los Angeles Department of Water and Power. Ms. Currie has also held significant leadership positions on national and regional utility boards, including as Board Chair of the American Public Power Association (APPA), Board Chair of the Midcontinent Independent System Operator (MISO) and President of the California Municipal Utilities Association (CMUA). She brings deep understanding of and expertise in utility operations, financial planning, and regulatory environments in the utility sector.
+John Di Donato has over 25 years of experience in renewable energy development and origination. He retired as the National Vice President of Renewable Origination and Development for NextEra Energy Resources, LLC, having previously led the exponential growth of their wind development business from 2012 through 2017. He and his teams are responsible for over $30 Billion of renewable projects in the United States and Canada. John has served on the boards of the American Wind Energy Association (AWEA) and Rocky Mountain Electric League (RMEL), and is a current member of the board of directors of LandGate Corporation. He has also served as an advisory board member for Texas Christian University’s Ralph Lowe Energy Institute and is currently a member of multiple not-for-profit boards focused on youth development and education.
+Joe Kava is a seasoned engineering and operations executive known for dramatically scaling Google’s data centers to create a global infrastructure at the cutting edge of sustainability and innovation. He is currently an active advisor and board member. Most recently, Joe served as Vice President, Data Centers at Google for seventeen years. Under his leadership, Google’s data centers surpassed, and continue to surpass, industry averages for sustainability while driving record-setting business results. Previously Joe was an engineering and business operations executive in the semiconductor industry, including serving as a member of the leadership team at Applied Materials for more than a decade. He has been named an Industry Titan by Interglobix, as well as an Industry Luminary by Infrastructure Masons; the Infrastructure Masons also included him on their list of the 100 most influential industry leaders.and the recipient of the “Outstanding Commitment to the Data Centre Industry” Award at DataCloud Global Congress 2025.
+Dave Schleicher is a seasoned electric utility executive with more than 40 years of experience in both investor- and member-owned electric utilities. In April 2025 he retired as President and CEO of Northern Virginia Electric Cooperative (NOVEC), where he served for eight years. During his tenure, NOVEC became the largest electric cooperative in the nation based on retail energy sales, helping the organization navigate exceptional load growth driven by nearly every data center operator in the nation entering NOVEC’s service territory. He provided both strategic and tactical leadership in serving large data centers, managing power supply issues within Virginia and PJM markets, and ensuring financial strength for NOVEC members. Upon retiring, he left the company as the lowest-cost and most reliable electric delivery company in Virginia. Prior to NOVEC, he held technical and executive roles at EnergyUnited EMC in North Carolina and PPL Electric Utilities in Pennsylvania.
+Steve Sheppard is an accomplished senior-level energy industry professional with more than 40 years of experience in the power sector. Throughout his career, he has held pivotal roles at leading investor-owned utilities and their affiliated trading and origination organizations and other significant industry organizations. He has developed deep relationships across the industry, collaborating with trading companies, public power utilities, merchant generation developers, and industrial end-users. His extensive expertise encompasses wholesale power origination, energy procurement, regulatory strategy, sales team leadership, market planning, and strategic account management. Steve's in-depth industry knowledge is rooted in his tenure at renowned organizations such as DTE Energy Trading, Constellation, Exelon Energy – Constellation, DTE Edison America, Detroit Edison, AXPO U.S. LLC., and the North American Energy Markets Association (NAEMA). Recognized for his strategic vision and results-driven approach, Steve has consistently delivered value in complex market environments, earning the respect of peers and stakeholders through his leadership and commitment to excellence.
+About Mainspring Energy
+Mainspring Energy manufactures and delivers innovative, flexible, low-emissions, modular and scalable power that rapidly adds new capacity and delivers reliable, affordable electricity. The Mainspring Linear Generator is fully dispatchable and scalable from 250 kW to 100+MW. It is uniquely fuel-flexible, operating on any gaseous fuel including hydrogen, biogas, natural gas, propane, and others. The company began commercial shipments of linear generators in 2020 and to date has hundreds of megawatts in field operations and advanced development for leading Fortune 500 companies, data center developers, and utilities.
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/partners
+
+9 February 2026
+Mainspring Energy
+We collaborate with companies that share our vision of flexible, reliable, and resilient power.
+Mainspring is more than a vendor, we’re a hands-on partner focused on speed, flexibility, and long-term value. From strategic partners to channel accelerators, we partner to enable faster deployment, lower emissions, and smarter fuel use across a range of energy projects.
+Deep collaboration on utility-scale, microgrid, and commercial projects.
+Bring flexible, low-emissions power to your network of customers.
+Integrate Mainspring into turnkey solutions with ease.
+Pair our product with your battery, fuel, or controls stack for a stronger value proposition.
+We work with a select network of experienced partners to bring flexible, low-emissions power to more customers, faster.
+Mainspring customers are provided with a pioneering microgrid solution that can generate onsite power and adapt to an evolving grid landscape.
+Jana Gerber
+President, Schneider Electric North America Microgrid
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/news/utah-municipal-power-agency-selects-mainspring-for-48-mw-local-power-generation-project
+
+9 February 2026
+Mainspring Energy
+Mainspring Energy
+SPANISH FORK, Utah, and MENLO PARK, Calif., Feb. 9, 2026 — Utah Municipal Power Agency (UMPA), a joint agency municipal utility, and Mainspring Energy today announced UMPA’s selection of Mainspring Linear Generators to supply 48 MW of new dispatchable local generation capacity. The greenfield project, scheduled to begin operation in central Utah in 2027, will cost-effectively deliver significant new capacity to UMPA’s member cities.
+Facing a sharp rise in electricity demand over the next decade, UMPA moved to avert a potential power capacity deficit by building and operating additional local power, supplementing its existing baseload and peak power resources. Mainspring’s modular linear generator facility will deliver firm capacity and reliability in a low-cost and low-emissions asset.
+Mainspring’s local power solution gives UMPA the dispatchable power we need to control our energy future while staying aligned with our sustainability and cost objectives.
+“Mainspring’s local power solution gives UMPA the dispatchable power we need to control our energy future while staying aligned with our sustainability and cost objectives,” said Travis Ball, Vice President of Generation, UMPA. “We are proud to work with Mainspring to provide a reliable and economical power supply portfolio serving the needs of our members and community.”
+U.S. Senator John R. Curtis stated, “This project exemplifies Utah’s leadership on energy and the adoption of innovative solutions. UMPA is taking important steps to deploy new generation technologies that strengthen the grid and help deliver affordable, reliable, and clean electricity for thousands of Utahns.”
+“With this project, UMPA and Mainspring are creating an ideal model for municipal utilities and other public power companies with rising demand and goals for independence,” said Adam Simpson, Mainspring Chief Commercial Officer. “UMPA is leading the way in effective and rapid deployment of utility-scale local power.”
+UMPA selected the proven Mainspring Linear Generator solution over other local power generation options, citing its significant advantages:
+Like many municipal and cooperative utilities, UMPA is advancing a diversified resource strategy to meet rising demand while maintaining affordability and reliability for its members. The linear generator’s flexibility ensures future-proof investment with the ability to deploy much-needed power systems today that scale modularly, run multiple fuels, and dispatch power on demand for decades to come.
+About Utah Municipal Power Agency
+The Utah Municipal Power Agency (UMPA) is a consumer-owned (public power) interlocal entity and political subdivision of the State of Utah formed in 1980 to provide reliable and affordable wholesale electricity to its six member Utah cities by managing power supply, generation, transmission, and distribution through joint action. Learn more at umpa.energy.
+About Mainspring
+Mainspring Energy manufactures and delivers fuel-flexible, low-emissions local power solutions that rapidly add new capacity and deliver reliable, affordable, and sustainable electric power. The company began commercial shipments of its Mainspring Linear Generators in 2020 and today has hundreds of megawatts in advanced development and field operations for leading Fortune 500 companies, data centers, and utilities. Mainspring also partners with global energy leaders including AEP, NextEra Energy Resources, Schneider Electric, and more.
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/news/five-essential-questions-every-public-power-leader-should-be-asking
+
+9 February 2026
+Mainspring Energy
+Mainspring Energy
+Devising a robust power supply strategy for municipal utilities and electric cooperatives has always been challenging. A power supply strategy is a utility's long-term plan to affordably and reliably secure enough electricity to meet the needs of customers. This is typically accomplished through a mix of contracts, wholesale market purchases, and owning and operating generation.
+Confidently developing power supply strategies requires public power leaders to assess and mitigate complex risks—from fuel price fluctuations to regulatory changes. Today, that challenge is intensifying.
+The reasons for the complexity will be familiar: rapid and unprecedented load growth due to the proliferation of data centers, widespread electrification, and domestic manufacturing at a time when many power plants are retiring, taking desperately needed capacity with them. Here's how the trade group American Public Power Association (APPA) summed up the challenge:
+Many factors, including federal policies, overly burdensome permitting processes, increased reliance on natural gas for electricity generation, and supply chain constraints, are resulting in the premature retirement of existing generation resources at a faster rate than they can be replaced by new generation with equivalent reliability attributes.
+APPA declared. "This has created challenges for public power utilities as they work to maintain current reliability and meet growing demand."
+There is a growing gap between the capacity needed to meet electricity demand and the available supply of reliable and dispatchable new resources. The North American Electric Reliability Corporation (NERC) has been sounding the alarm about shrinking reserve margins in multiple regions across the U.S., including PJM, where the nation's largest wholesale market operator expects 20 gigawatts of thermal generation to retire by 2030 and where capacity auction prices have skyrocketed in recent years.
+It's true that investor-owned utilities (IOUs) must also contend with rapid load growth and the cost, permitting, policy, and supply chain obstacles slowing and challenging the quick addition of needed capacity. But it's also important to understand the significant differences between IOUs and public power utilities:
+Grasping these fundamental differences matters because they should inform how public power utilities evaluate risk in their power supply strategies. For instance, electric cooperatives and municipal utilities may be tempted to extend the life of existing assets, wait for technology costs to come down, and avoid being the first to deploy new technologies. But in a world where capacity is retiring quickly, demand is spiking, and supply chain lead times stretch for years, that risk calculus may be dangerously backwards.
+Here are the five questions you should be asking to understand whether your power supply strategy meets the unique challenges of today, and tomorrow.
+The capacity crisis in PJM includes the impending retirement of 20 gigawatts of thermal generation by 2030 and the explosion of capacity auction prices from as low as about $39 per megawatt-day in recent years to nearly $330 per megawatt-day in this past summer’s auction. It's hard to imagine a stronger sign of the desperate need for dispatchable resources.
+The power sector has a capacity problem, not an energy problem. The two terms are related, but distinct. Energy is the total amount of electricity consumed or produced and is measured in megawatt-hours, or MWh. Capacity, on the other hand, describes the ability to generate electricity when it's needed and is measured in megawatts (MW). The value of capacity is in the certainty that those megawatts will be available precisely when needed.
+The grid has plenty of energy. For example, between 2014 and 2024, the U.S. added over 100 gigawatts of utility-scale solar, according to the U.S. Energy Information Administration. These additions are welcome, but they don't solve the capacity problem—solar can't deliver power on a cold winter's night when it's needed most. Traditional pillars of a public power utility's power supply strategy—like building a new combined-cycle natural gas plant—face major obstacles: according to S&P Global, it can take until 2032 to obtain a turbine.
+Waiting for these traditional supply chains introduces the risk that load growth and generation retirements will cause grid reliability problems. The bottom line: Adding capacity is obligatory. The question is whether it's more responsible to wait for supply chains to ramp up or to investigate solutions that can be deployed faster.
+Basis risk refers to the potential cost difference between where electricity is generated or purchased and where it's ultimately delivered. For example, wind generated in western Kansas produces abundant energy where few people live. But that electricity commands a lower price at the point of generation than what customers who need the electrons transported long distances must pay—a spread driven by transmission congestion. For public power utilities, this risk matters because congestion and long transmission distances can sharply increase costs. When power must move across overloaded lines or through volatile regional markets, what once looked like a stable, contracted price can quickly escalate. Locally sited generation—especially projects that can be permitted and built quickly—can help hedge against these costs.
+Public power utilities have always had to consider regulatory risk in their power supply strategies. For example, utilities scrambled to comply with NOx and mercury emissions standards by retrofitting their coal plants. Public power utilities in some states, like Colorado, must now consider the more fundamental question of whether fossil fuel plants will be permitted to operate in 15 or 20 years.
+Natural gas combined-cycle power plants typically have 30-year lifespans. Public power utilities focused on affordability need to decide whether contracting with or building an asset that may not be in operation—or will require expensive retrofits to continue operating—in the future is the right use of customer dollars. One way to mitigate regulatory risk is to prioritize assets that can run on multiple fuels—natural gas today, then hydrogen or renewable natural gas when those fuels become more available and affordable.
+Hurricanes, wildfires, winter storms, and other events are especially threatening to public power utilities because they lack the balance sheet and ability to socialize losses that IOUs have. In the aftermath of Winter Storm Uri in 2021, Brazos Electric Power Cooperative in Texas filed for bankruptcy after ERCOT billed Brazos nearly $2 billion for electricity purchased during the storm. A power supply strategy must acknowledge the reality of extreme weather events and take steps to enhance resiliency. Distributed and fuel-flexible generation located near load both reduces the risk of outages during a storm and the possibility that breakdowns of the transmission system or disrupted fuel supplies will become financially catastrophic.
+Perhaps the biggest risk public power utilities face is the risk of doing nothing. Supply chain challenges make traditional playbooks for adding capacity anytime soon unrealistic. But does that mean load growth will cease? Will the threat of extreme weather decrease? Is regulatory certainty coming soon?
+Risk management is central to public power utilities' mission to deliver affordable, reliable electricity. But the strategies that worked when capacity was abundant and load was flat—like extending asset life, waiting for costs to decline, and avoiding early adoption of emerging technologies—may now carry more risk than they mitigate. Understanding this changed risk landscape, and the tools available to navigate it, is essential for constructing a resilient power supply strategy.
+An honest assessment of these five questions may not provide clear-cut answers that apply to all public power utilities in all cases. But what is clear is that the power supply strategies that have delivered affordable and reliable electricity for decades need to evolve. Leaders who proactively answer these questions today will position themselves to serve members and citizens well long into the future.
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/suppliers
+
+Welcome to the Mainspring supplier portal.
+Mainspring is working to build a supply chain that is agile, resilient, sustainable, and efficient.
+Please download our Global Supplier Manual to learn more.
+Quality
+Mainspring is committed to maintaining stringent quality standards in every aspect of our operations and to delivering safe, reliable and high quality products and services on schedule. Quality is a shared value at Mainspring among all stakeholders, including our suppliers. We hold ourselves to the highest quality standards and expect our suppliers to do the same, in order to uphold this level of excellence for our customers and products.
+Sustainability
+Mainspring’s vision is to accelerate the transition to the zero carbon electric grid. In pursuing this vision, we have a responsibility to continually reduce our impact on the environment and increase sustainability within all operations of our company. We expect our suppliers to be accountable for implementing sustainable practices and following all applicable guidelines and regulations.
+Human Rights
+At Mainspring, we recognize that all people are born free and equal in dignity and rights. We are committed to upholding the established United Nations human rights standards. We stand against any behavior that contributes to, participates in, or enables the use of forced or exploited labor, forced or exploitative conditions, or human trafficking. Our work environment supports and respects the essential rights of all people.
+Ethics
+Mainspring conducts business ethically, honestly, and in compliance with the law. Upholding our code of ethics is core to maintaining the trust of our stakeholders and to the success of our business. We work with suppliers who uphold this same ethical code of conduct entirely and with full transparency.
+Supplier resources
+Commercial, quality, environmental, and logistics requirements for suppliers
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/people/shannon-miller
+
+Press Release
+9 February 2026
+Mainspring Energy
+Shannon Miller co-founded Mainspring in 2010 and has led the company as CEO since its inception. Today Mainspring is the leading manufacturer of linear generators, with hundreds of megawatts in field operations and advanced development for leading Fortune 500 companies and utilities. Shannon was awarded the U.S. Department of Energy C3E Award 2022 for Entrepreneurship and named Energy Central “Champion in Innovation” in 2023 in recognition for her energy industry leadership. A former National Science Foundation Fellow, she holds B.S., M.S., and Ph.D. degrees in mechanical engineering from Stanford University.
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+
+--------------------------------------------------------------------------------
+
+URL: https://www.mainspringenergy.com/people/ryan-fletcher
+
+9 February 2026
+Mainspring Energy
+Ryan Fletcher, CFO, joined Mainspring in 2019 to lead the buildout of the finance function, helping Mainspring grow from pre-revenue to its current commercial scale and raise >$500M of capital to fund the development and deployment of its linear generators. Before Mainspring, Ryan spent nearly a decade at SunPower Corp., where he served in senior management roles in manufacturing finance, strategic finance, and corporate controllership, and helped bring 8point3 Energy Partners to the public markets in 2015. Prior to SunPower, Ryan was an auditor at KPMG LLP, serving clients in the tech industry. He holds a B.S. in accounting from Santa Clara University and a California CPA (inactive).
+9 February 2026
+Mainspring Energy
+5 January 2026
+Mainspring Energy
+21 August 2025
+National Grid Ventures
+
+--------------------------------------------------------------------------------

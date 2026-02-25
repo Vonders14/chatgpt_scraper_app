@@ -1,0 +1,321 @@
+ROOT: https://solopower.com/
+SCRAPED_AT_UTC: 2026-02-11T20:34:29.392847Z
+PAGES_INCLUDED: 24
+
+================================================================================
+
+URL: https://solopower.com/
+
+INTEGRATED LIGHT, FLEXIBLE, POWERFUL SOLAR TECHNOLOGY:
+Our lightweight, flexible and powerful solar technology provides the design versatility that makes integration with a variety of applications simple — thus offering a powerful and aesthetic solution to meet the challenges of growing markets.
+See our factory at work Click here to watch video
+Technology
+Solopower is advancing the possibilities of solar power. We’re maximizing the performance of our proprietary CIGS thin film lightweight photovoltaic (LPV) modules to deliver optimized large-scale roof top solutions.
+Learn MoreProducts
+Our powerful line of SoloPower™ thin film solar modules combines our proprietary photovoltaic technology with stringent testing protocols, ease of installation and proven real-world performance.
+Learn MoreSolutions
+Project cost control is essential. By completely eliminating typical rack mount systems, the overall BoS costs and installation time frame are reduced dramatically. Our "No Penetrations" installation ensures roof integrity is preserved. Solopower Systems' applications experts analyze your needs and requirements, in order to develop an efficient, cost-effective solution designed expressly for your project.
+Learn More
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/company/careers/
+
+Careers
+We are looking for talented and creative individuals interested in advancing the solar revolution. We value thinkers, innovators and those willing to work hard to make a difference in the world. If you appreciate new challenges and thrive in a dynamic and growing organization, we want to hear from you.
+In addition to providing a rewarding climate for professional growth, we offer competitive salaries and a comprehensive benefits program.
+To learn more about career opportunities at Solopower Systems, please contact: [email protected]
+OPEN POSITIONS
+Portland, Oregon
+PVD Engineer
+Equipment Engineer
+Metrology Engineer
+Thermal Process Engineer
+Back End Operator
+Front End Operator
+Materials Engineer
+Quality Technician
+Wet Process Engineer
+Please apply through the respective link above.
+NOTE TO Agencies and Recruiting Staff: While Solopower Systems is happy to be made aware of companies that wish to assist us in sourcing labor, should we receive any candidate resumes from sourcing companies that do not have a signed contract with Solopower Systems Inc., we reserve our right to contact, and potentially make an offer of employment to, any candidate that presents or is presented to us. We source our own candidates as well, and do not want to have our access to the market limited by companies sending Solopower Systems Inc. unsolicited resumes. We will review Terms & Conditions with any agency or recruiting firm that we believe can support our business needs. To learn how your company can become a Qualified Vendor, we invite you to contact Human Resources at: [email protected]
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/company/
+
+COMPANY
+Solopower Systems Inc. is a pioneer in high-performance thin film solar materials science and a large-scale manufacturer of flexible ultra-lightweight CIGS photovoltaic products headquartered in Portland, Oregon, USA.
+SoloPower Systems high-volume CIGS solar cell manufacturing line has an installed annual production capacity of 70 MW, scalable to 220 MW.
+The Company has shipped LPV modules with UL and IEC certifications since 2010 and commissioned its Portland factory in 2014. Solopower Systems proven and proprietary manufacturing process uses electroplating technology to deposit high-efficiency CIGS PV material directly onto a stainless steel substrate.
+Solopower Systems flexible cells and panels serve a large addressable rooftop market (>14 GW). Primary applications for the company’s line of lightweight photovoltaics are large scale commercial, government and municipal roof tops where systems weight and wind loads are critical attributes to be considered when installing solar PV systems.
+Manufactured to exacting international standards, all of Solopower System’s LPV modules are tested to meet IEC / UL specifications.
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/company/partners/
+
+Partners
+Solopower Systems success stems from its unique innovation and approach to our customers requirements .
+In order to achieve world-class technology and LPV product leadership, Solopower Systems collaborates with leading industry experts in product development, IEC/UL validation and materials sourcing. These partnerships enable Solopower Systems to deliver the utmost in performance and quality ensuring exceptional customer satisfaction.
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/company/board-of-directors/
+
+Board of Directors
+The Solopower Systems Inc. Board of Directors includes outstanding leaders from industry and finance who recognize the vision and hope of emerging renewable energy technologies.
+This distinguished panel of professionals has provided steady guidance and oversight to ensure the Company achieves its corporate goals with integrity, while representing the interests of our shareholders and fostering the long-term prosperity of the Company.
+OUR BOARD
+- Neil Z Auerbach, Director — Hudson Clean Energy Partners
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/company/leadership/
+
+Leadership
+Solopower Systems’ Inc has assembled a first rate executive team from the semiconductor and solar industries to drive the Company’s innovation, excellence and growth.
+BRYAN WANG
+Chief Financial Officer
+Bryan is a result-oriented Chief Financial Officer with in-depth knowledge in all aspects of business including accounting, finance, investor relations, IT, human resources, and legal. He is experienced in a variety of financial transactions including debt offerings, raising capital, M&A, and public offerings. Prior to joining Solopower Systems, Bryan held executive positions at SVTC Solar, VentureTech Alliance (venture capital affiliate of TSMC), GetThere, Inc. and Price Waterhouse. Brian brings international, VC and public company experience combined with in-depth knowledge regarding solar and semiconductor manufacturing. Bryan qualified as a Chartered Accountant with the Institute of Chartered Accountants in England and Wales and also holds an MBA with distinction from INSEAD.
+JULIAN BIGGS, Esq.
+Secretary and Chief Legal Officer
+Julian Biggs has been chief legal officer & corporate secretary for the Solopower™ project since 2012, having previously held legal and/or executive positions in industries ranging from cloud-computing, financial services and entertainment, at companies such as Visa USA and Mistsubishi Trust. Julian is also an accomplished trial lawyer and appellate advocate, having received his law degree from UC Berkeley’s Boalt Hall School of Law, and his litigation experience at one of the nation’s pre-eminent law firms.
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/company/vision-mission-values/
+
+Vision, Mission, Values
+Solopower Systems envisions weaving solar energy ubiquitously and inconspicuously into the fabric of global society.
+The company delivers innovative, high-quality products for integration into a myriad of applications.
+Our core values include openness and inclusivity, respect and collaboration, and the pursuit of excellence as we strive to provide the best solutions and greatest customer experience.
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/solutions-technology/thin-film-photovoltaics/
+
+Technology: Thin-Film Photovoltaics
+Ultra-thin. Remarkably lightweight. Flexible form factor. Innovations once only imagined in the solar industry now set the standard for generating highly efficient, low-cost energy. SoloPower Systems leads the way with a line of thin-film photovoltaic solar cells that adapt to virtually limitless site-specific applications.
+Photovoltaic, or PV, refers to the conversion of light energy into electricity using electronic devices called solar cells. The term originates from the Greek word for light, photos, combined with voltaic — in recognition to Alessandro Volta, an eighteenth-century Italian scientist who carried out pioneering studies in electricity.
+Historically, the costs of manufacturing PV cells and modules have been high, causing the cost of solar energy to be three to five times more expensive than traditional methods. SoloPower has developed a new solution and is introducing products that address the all-important cost factor and will allow for a wider use of solar energy. We are strategically committing considerable resources and brainpower, and are poised to eliminate the gap and reach grid parity.
+THINNER IS BETTER
+In developing next-generation solar alternatives, a thinner profile is paramount. Here’s why: the majority of solar cells in existence today are made from rigid multi- or single-crystalline silicon (Si) wafers. Typically 150 µm thick, the wafers demand multiple processing steps before they can be integrated into a module. On the contrary, thin-film solar cells utilize only a 1-4 µm-thick layer of semiconducting material to produce electricity, thus requiring less processing and fewer materials. These cost-saving alternatives also offer another important advantage as compared to wafer-based modules in that they can be used in a wide range of applications. Thin-film solar cells employ lightweight, flexible substrates, making them ideal for advanced applications such as building-integrated photovoltaics. What’s more, because of the lightweight form factor, the costs of balance-of-system (BOS) components (such as mounting hardware, wiring, inverters and other electronic hardware) are comparatively lower than other PV devices.
+Dedicated to delivering the most competitive solar cell solutions, SoloPower targets the critical challenges of producing CIGS-based devices, which have the highest conversion efficiency among the family of thin-film PVs. Our proprietary approach embodies critical technology, manufacturing and cost advantages to enable large-scale, “fab-style” production.
+THE INSIDE STORY
+PV cells are fabricated using semiconductors as light-absorbing layers that convert the energy of photons into electricity — without noise or air pollution. When photons enter the cell through a transparent contact, they are absorbed by the semiconductor, thus creating electron-hole pairs. A junction in the body of the device provides the electric field that separates and gathers the generated charge carriers, which are then collected by wires attached to the cell. Multiple cells are strung together in a protective package to form a PV module; interconnected modules form an array. BOS components are the final step in constructing a working PV system.
+Commercial production is currently based on three types of thin-film solar cells: amorphous silicon (a-Si), cadmium telluride (CdTe), and copper indium gallium selenide (CIGS).
+The table below compares the traditional advantages and disadvantages of these technologies:
+| Technology | Maximum Demonstrated Efficiency for small cells* | Advantages | Disadvantages |
+|---|---|---|---|
+| a-Si | 12.2% | Mature manufacturing technology | Low efficiency High equipment costs |
+| CdTe | 16.5% | Low-cost manufacturing | Medium efficiency Rigid glass substrate |
+| CIGS | 19.9% | High efficiency Glass or flexible substrates |
+Film uniformity challenge on large substrates Costly traditional processes |
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/corporate/leadership/
+
+Not Found
+The requested URL /index.html was not found on this server.
+Apache/2.2.22 Server at www.www.www.www.www.www.www.www.www.solopower.com Port 80
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/projects/
+
+PROJECTS
+Since certifying the world’s first flexible CIGS photovoltaic module, SoloPower Systems has focused on seeding the market with our products for testing and customer validation. To date, we have proudly completed SoloPower installations in 20 countries on five continents.
+Our principal objective is to ensure customer satisfaction the moment you contact us through the life of our PV system. SoloPower has already initiated multiple installations worldwide across a wide range of applications and conditions, which is illustrated below.
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/services/faqs/
+
+FAQs
+At SoloPower Systems, we take pride in our proprietary manufacturing process and industry-leading products. We are knowledgeable and confident that our breakthrough solar solutions can meet your specific needs. If you have additional questions that are not covered here, we welcome the opportunity to tell you more about us.
+Q: WHAT IS SOLOPOWER TECHNOLOGY?
+SoloPower technology is a laboratory-proven, field-tested solar solution produced utilizing a proprietary process for producing Copper Indium Gallium di Selenide (CIGS) flexible, thin-film photovoltaic solar cells and panels that are specifically designed for applications requiring ultra-lightweight.
+Q: WHAT IS THE GOAL OF SOLOPOWER’S TECHNOLOGY?
+SoloPower technology produces advanced, highly efficient solar modules aimed at enabling grid parity between solar energy and traditional energy sources. Solopower™ thin-film photovoltaic devices are built on flexible substrates that seamlessly and aesthetically integrate into a growing range of non-traditional commercial applications such as low load-bearing residential and commercial rooftops. Ultimately, SoloPower™ technology will scale solar integration for vehicles, lighting, off-grid, personal and industrial applications – to seamlessly provide low-cost power while reducing reliance on carbon fuels.
+Q: WHO ARE OUR CUSTOMERS?
+We are working with numerous partners to integrate our CIGS thin-film solar products in roof-top, automotive, transportation, off-grid and military applications to name a few. Our customers typically include leading Developers, Independent Power Producers, Integrators, Real Estate Investment Trusts, Engineering, Procurement and Construction companies, Original Equipment Manufacturers, and Product Distributors. In addition to installations in the United States, SoloPower™ technology serves customers around the world, including Germany, Spain, Italy, France, India, Japan, MENA and Australia.
+Q: WHO ARE SOLOPOWER SYSTEMS’ STAKEHOLDERS?
+Investors in SoloPower™ technology are top-tier, global private equity and investment firms, including Hudson Clean Energy Partners. Furthermore, SoloPower technology benefits from a variety of tax-based incentives from the State of Oregon.
+Q: WHAT IS CIGS?
+Among many uses, CIGS is best known as an alternate solar cell material in thin -film solar cells. In this role, CIGS has the advantages of being able to be deposited on flexible substrate materials, producing highly flexible, lightweight solar panels. Improvements in efficiency have made CIGS a leader among alternative cell materials.
+Importantly, because it’s proving to be a cost-effective solar solution, CIGS is increasingly utilized for a wide variety of applications. SoloPower CIGS technology is electrochemically deposited on a flexible stainless steel substrate — our easily configured, thin-film solar cells can then be integrated into building construction materials, vehicles, off-grid applications and consumer electronics.
+Q: WHAT IS THE EFFICIENCY OF SOLOPOWER TECHNOLOGY?
+CIGS cells have achieved the highest efficiency (~20%) among thin film materials and the company is engaged in translating high efficiencies achieved in the lab into its commercial scale manufacturing process. Today, SoloPower products have median conversion efficiencies in the range of 11% to 13%.
+Q: WHAT CERTIFICATIONS DOES SOLOPOWER TECHNOLOGY HOLD?
+SoloPower modules are built to meet or exceed UL 1703 and IEC 61646 and 61730 standards.
+Q: WHAT SETS SOLOPOWER SYSTEMS APART FROM OTHER CIGS DEVELOPERS?
+SoloPower Systems is the only CIGS manufacturing company that uses electrochemical deposition for each of the CIGS layers. Based on over 100 years of reliable industrial electroplating technology, our proven and proprietary process provides high throughput, consistent control, high yield, high material utilization and low capital equipment costs.
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/services/financing/
+
+Financing
+SoloPower Systems is proud to provide solar solutions for international clientele. Your project may qualify for substantial financing support from the Export-Import Bank of the United States. Ex-Im Bank’s customers include foreign governments and corporations, as well as American enterprises overseas. Let us help you access long-term, low-interest credit for your solar project.
+The official export credit agency for US companies, Ex-Im Bank helps exporters sell and finance their products worldwide. Additionally, Ex-Im Bank’s Environmental Exports Program can facilitate low-interest loans made to creditworthy international customers to purchase US-made renewable energy goods and services, as well as to finance a portion of the “in-country” costs. Ex-Im Bank can also support capitalization of interest during construction.
+For more information, please visit:
+www.exim.gov/products/policies/environment/index.cfm
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/services/customer-support/
+
+Support
+SoloPower System’s experienced team of sales and technical service representatives is available to answer any questions you have related to our product technology, design and installation, or to your specific project needs.
+Connect with us at: [email protected]
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/services/design-installation/
+
+Design & Installation
+SoloPower System’s sales and technical services representatives have the depth of knowledge needed to help you better understand our products and our technology.
+We are available to support your project with manufacturer’s guidelines for electrical engineering and installation for various applications. In addition, let us provide you guidance and support in modeling the revenue potential of your project. SoloPower’s team is available to help you understand your PV system, with statistical performance analysis and estimated income projections.
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/services/
+
+SERVICES
+The same commitment to excellence that makes SoloPower Systems products the industry leader creates an exceptional customer experience. Our drive to deliver successful solar solutions extends to every level of our organization. We invite you to connect with our experienced and knowledgeable sales and technical services personnel to discuss your needs for lightweight solar technology.
+At SoloPower Systems, we believe the customer’s voice is critical to our success and evolution. Our technology experts take time to analyze your project needs and requirements, with an aim to develop an efficient and cost-effective solution. We support leading partners worldwide — Independent Power Producers; Engineering, Procurement and Construction services; Original Equipment Manufacturers; and Integrators — to ensure construction best practices and integration techniques designed expressly for your project.
+The affordability, reliability and superior performance you need are within reach: Let SoloPower Systems connect you to the future of solar today.
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/solutions-technology/
+
+SOLUTIONS & TECHNOLOGY
+Solopower Systems is advancing the possibilities of integrated solar power solutions. Our extensive Research & Development program is designed to maximize the ways in which solar energy can be applied. This is not just theory: Our proprietary, electrochemistry-based technology has been lab-proven, field-tested, and is hard at work in commercial installations.
+We’re advancing the work of “thin-film” photovoltaic pioneers, thereby enabling increased affordability and widespread product integration. Our proven technology overcomes the product weaknesses of other thin-film solar modules — offering true flexibility and light weight for an impressive range of applications. Today, we are integrating our lightweight thin-film photovoltaic devices into buildings that have not been able to utilize solar energy due to the considerable weight of traditional glass panels. But times are changing and opportunities to integrate our solar cells and modules in new applications are becoming increasingly possible.
+APPLICATIONS
+Solopower provides solar roofing solutions for residential and commercial buildings, solar covers for landfills and reservoirs, solar integrated systems for off-grid, military, transportation and consumer applications. We are driven to continuing the advance of solar technology while also meeting the challenge of powering the world at a realistic cost. In our minds, integration is limitless; given that automobiles, trucks, recreational vehicles and other personal and industrial electronic devices may all be “plugged in” to draw from the sun’s abundant energy. That’s product design integration at work with SoloPower™ technology delivering needed solutions.
+TECHNOLOGY
+SoloPower™ technology has the potential to take what began decades ago with a simple calculator to full-scale integrated systems. We are at the forefront of this advancement, and with the advent of our new, high-volume manufacturing center in Portland, Oregon, have reaffirmed our drive to scaling capacity and efficiencies to record highs.
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/contact-solopower/
+
+CONTACT INFO
+Please direct all general inquiries to [email protected] or use the form provided.
+We respect your privacy. For more information: Privacy Policy
+Please direct all general inquiries to [email protected] or use the form provided.
+We respect your privacy. For more information: Privacy Policy
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/technology/
+
+TECHNOLOGY
+Ultra-thin. Remarkably lightweight. Flexible form factor. SoloPower Systems leads the way with a line of thin-film CIGS lightweight photovoltaic (LPV) solar cells that adapt to virtually limitless site-specific applications.
+THINNER IS BETTER
+Thin-film solar cells utilize only a 1-4 µm-thick layer of semiconducting material to produce electricity, thus requiring less processing and fewer materials. These cost-saving alternatives also offer another important advantage as compared to wafer-based modules in that they can be used in a wide range of applications. Thin-film solar cells employ lightweight, flexible substrates, making them ideal for advanced applications such as building-integrated photovoltaics. What’s more, because of the lightweight form factor, the costs of balance-of-system (BOS) components (such as mounting hardware, wiring, combiners and other electronic hardware) are comparatively lower than other PV devices.
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/products/
+
+PRODUCTS
+Designed specifically for large scale commercial, government and municipal roofs.
+The SP1 & SP3 LPV modules are easily suited for multiple adhesive applications and/or mounting solutions, enabling rapid installation as well as low-cost system integration with a wide variety of membrane and metal substrates.
+Our commitment to product quality, reliability and performance promises SoloPower’s customers and partners a robust return on investment plus stable and predictable operations and maintenance. All SoloPower products are built to meet or exceed UL and IEC standards.
+Our modules are designed for superior performance under all light conditions, including low sun angle — providing a consistent and excellent energy yield throughout the year. With an internal mandate to align our products with strict building materials industry standards, we push the limits for rigorous failure analysis. To that end, we continually subject our solar cells and modules to harsh environmental and accelerated life-cycle testing.
+SoloPower® SP1 — Learn More
+SoloPower® SP3 — Learn More
+SoloPower® SoloBucket — Learn More
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/solutions/
+
+SOLUTIONS
+SoloPower Systems SP1 and SP3 Series modules are highly suited for installation where roof integrity, weight and wind load factors are of paramount importance.
+Ultra lightweight, SoloPower LPV modules are easily handled by installers and are mounted utilizing commercially available adhesives. BoS complexity, costs and installation times are reduced therefore simplifying the project.
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/commercial-and-government/
+
+COMMERCIAL AND GOVERNMENT
+Advantages of Solar Energy
+SOLAR POWER SYSTEMS FOR BUSINESS
+By taking advantage of open roof space or land, you can:
+- Reduce operation costs and save on electricity
+- Lock-in energy costs for years to come
+- Decrease your carbon footprint
+SOLAR POWER SYSTEMS FOR MILITARY, GOVERNMENT & MUNICIPAL
+As an American company that sources and manufactures on U.S. soil, Solopower is deeply committed to helping the military, government & municipal entities lower operating costs while meeting renewable energy needs.
+Solopower is fully compliant with the Buy America Act and the American Recovery and Reinvestment Act. We have been perfecting solar for more than 10 years to ensure that we deliver only the highest-performing, most cost-effective solar technologies.
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/news-events/
+
+Home > NEWS & EVENTS
+News & Events
+Deployment of New Product Introduction Program with Commercial Release of SoloPower Systems’ Integrated Module Packaging
+SoloPower Systems Launches World’s Lightest Off-Grid Energy Solution to Bring Electricity to Emerging Economies
+PRESS CONTACT
+For all media and press inquiries, please contact SoloPower Systems:
+[email protected]
+www.solopower.com
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/2016/02/solopower-systems-and-bharat-light-and-power-team-up-for-indian-rooftop-pv-market/
+
+Companies working together to develop lightweight and BIPV rooftop PV applications for India
+Key Highlights:
+- SoloPower and Bharat Light and Power sign long-term collaboration agreement
+- First commercial project secured for New Delhi area
+- Agreement represents entry into significant target market in India
+SoloPower Systems (“SoloPower”), the photovoltaic technology company specializing in the design, manufacture and deployment of CIGS flexible thin-film solar technology, announces today that Bharat Light and Power (“BLP”), a leader in the Indian renewable energy industry, has signed a collaboration agreement with SoloPower for utilizing its advanced technology panels in the Indian rooftop PV market.
+SoloPower will supply products for both existing and new roof applications, including the deployment of building-integrated photovoltaics (BIPV), while BLP will provide total energy solutions for customers through its group companies.
+BLP and SoloPower have secured their first project with a leading Indian conglomerate. The fifty kilowatt solar PV system is expected to be operational by late spring.
+Commenting on the agreement, Tejpreet S. Chopra, CEO of BLP, said: “We are partnering with SoloPower as they have a unique technology that will open up the Indian market for multiple segments including light weight PV and BIPV. We already have an established business developing utility scale renewable projects and have expanded into the distributed generation market as the next big wave of innovation within the Indian PV market. Our government has targeted 40 GW of rooftop PV by 2020 and our newly established partnership with SoloPower will be part of the solution in helping India achieve this goal through disruptive technologies.”
+Rob Campbell, CEO of SoloPower, added: “India represents a huge opportunity for our technology and has all the key criteria that we are looking for in a target market in terms of scale, need for LPV solutions and strong macro drivers. BLP is an excellent partner for SoloPower in India, they have a strong market position, understand the business and are focused on developing the distributed generation market. We see tremendous long-term potential within India to help drive our overall growth and are very pleased to be working with the BLP team”.
+About SoloPower Systems:
+SoloPower Systems is a photovoltaic technology company specializing in the design, manufacture and deployment of CIGS flexible thin-film solar technology. Further information about the company can be found at www.SoloPower.com.
+About Bharat Light and Power:
+Bharat Light and Power (“Bharat Light & Power Pvt Ltd (BLP Group)”) is one of the leading renewable energy generation and technology companies in India. BLP Energy (BLP), part of the BLP Group has a partnership with Enel Green Power. The company builds, owns and operates utility scale renewable energy power plants to generate clean energy through wind and solar technologies. The BLP Group also provides distributed solar solutions to large corporates, industries and institutions in India through its JV – Statkraft BLP Solar Solutions. In addition, the BLP Group through its Orion platform provides monitoring, reporting and predictive intelligence solutions to global utilities through its control centre in Bangalore by leveraging big data, the cloud, mobility and advanced analytics. This enables Orion’s customers to build smarter operations, better real time visualization and improve operational efficiency of the renewable power plants
+Enquiries:
+Buchanan (UK PR)
+Ben Romney +44 (0)20 7466 5000| [email protected]
+Antenna (US PR)
+Kimberly Setliff +1 415 977 1942| [email protected]
+BLP
+Tarun Kumar +91 99 10 777 986| [email protected]
+Forward-looking Statements
+This press release contains forward-looking statements, which are identified by, among other words, “expects,” “anticipates,” “will” and similar words. Forward-looking statements include SoloPower’s expectations as to if or when the initial commercial pilot project will be completed. Results may differ from those expected due to a number of factors.
+
+--------------------------------------------------------------------------------
+
+URL: https://solopower.com/2017/02/deployment-of-new-product-introduction-program-with-commercial-release-of-solopower-systems-integrated-module-packaging/
+
+U.S. Photovoltaic Manufacturing Consortium (PVMC) Announces Successful Deployment of New Product Introduction Program with Commercial Release of Partner SoloPower Systems’ Integrated Module Packaging
+New SoloPower Systems application demonstrates PVMC’s ability to quickly test and deploy new technologies; Successful effort announced at PVMC Annual Workshop at SUNY Polytechnic Institute where PVMC partners, the Department of Energy, and other stakeholders discussed solar energy’s potential
+Albany, NY – As part of the U.S. Department Of Energy’s (DOE) Sunshot Initiative and led by SUNY Polytechnic Institute (SUNY Poly), the U.S. Photovoltaic Manufacturing Consortium announced a new SoloPower Systems (SoloPower) photovoltaic-based (PV) technology application that was enabled through the consortium’s New Product Introduction (NPI) Project. The NPI program offers in-depth cost analysis, development, and demonstration of components for consumer and industrial PV installations, and it provides the foundation for PVMC’s Best Known Methods (BKM) package that is being developed for deployed Integrated Module Packaging (IMP) applications that PVMC industry partners can use as a multiplier effect to replicate, market, and assist with financing future projects.
+“In support of the Department of Energy’s Sunshot Initiative, the U.S. PVMC continues to strongly support and provide an advantage to its member companies and stakeholders through access to advanced facilities and know-how, and we are excited to support the new SoloPower Integrated Module Packaging application at PVMC,” said Dr. Pradeep Haldar, Chief Operating and Technology Officer of PVMC. “The Best Known Methods package for the IMP provides unmatched design for low-cost installation by focusing not only on a systems’ components, but on how to optimize installation as well, which is particularly important in rooftop designs where the higher cost of labor can quickly offset other cost efficiencies. Currently, there is a lack of end-to-end business BKM, and as a result, no single company is responsible for ensuring effectiveness across all stages of solar site development, so the existence of multiple interests with distinct, sometimes conflicting goals can cause a lack of coordination and result in system-wide inefficiency. PVMC offers a great example of how a PV project’s lifecycle can be optimized.”
+The PVMC New Product Introduction program supports greater efficiency of commercial PV systems and installations, which is critical because the PV system design and installation process is one of the major overall cost-drivers of consumer and industrial PV projects. Inefficiencies, as well as the technical decisions made during this process, can impact every phase of a project’s lifecycle and affect its cost effectiveness. Also, despite the large potential market for solar on commercial buildings and ground-mounted systems, many are not easily accessible to the solar industry because of structural or site limitations. While such barriers effectively reduce the size of “available” PV customers, PVMC’s growing BKM knowledge base offers solutions that can lead to far greater PV reach.
+The SoloPower installation, based in Fairfield, CT, at the Jennings Firehouse system, is a great example of PV component and installation synergy resulting from collaboration with PVMC. Significantly, SoloPower was able to install the cutting-edge PV system on a roof with a 6-degree slope, which ruled out typical ballasted racking. SoloPower was also able to install the system without roof penetrations as the customer had requested and provided a low visual impact solution designed to be compatible with the building’s current roof to meet community requirements.
+The SoloPower Integrated Module Packaging application is an attractive and durable PV module designed to withstand the harshest climates for years, providing a reliable solar energy supply that can work with otherwise prohibitive building design elements. Designed in partnership with PVMC, the IMP application addresses a number of challenges, including the complexity of system design and installation as they relate to cost reduction goals, a primary focus area for SoloPower. In addition, many newer commercial buildings tend to be even less PV-friendly; they are designed and built closer to minimum specification requirements to limit costs and build time. To address these complex issues, historically, hardware innovation has focused on the component level, but optimizing systems for specific applications (e.g., low-slope commercial roof), allowed SoloPower’s IMP application to preassemble choice components, while standardizing components and/or interfaces enabled low-cost replication. Other challenges that the SoloPower IMP application tackled, in addition to roof slope, included building orientation, load limits, and restrictions affecting the location of mechanical systems.
+The new SoloPower Systems Integrated Module Packaging application is designed to solve some of the challenges that the NPI program evaluated for the consumer and industrial markets and uses novel approaches to maximize effectiveness. Using engineered thermoplastic encapsulants and adhesives, the IMP application addresses many of the issues that have plagued other building-integrated photovoltaic (BIPV) products. PVMC and SoloPower Systems researchers jointly engineered a lightweight integrated packaging design that incorporated a roofing membrane layer with the SoloPower Systems modules, increasing package quality and reducing installation time to a minimum, in addition to meeting UL and/or IEC specifications for their use, as well as all applicable code requirements. After the integrated module package was brought onto the roof, the membrane was attached using an established industry standard for roofing membranes. This resulted in a non-penetrating, high-speed installation using procedures, equipment, and workforce from the roofing industry, turning what could have been a complex photovoltaic installation into a more “routine,” efficient roofing process.
+“We delivered 175 of our panels to PVMC’s headquarters in Albany, New York, where they were expertly attached five at a time to the roofing membrane. Upon delivery to the job site, the team lifted them onto the roof in less than three hours, meeting the customer’s needs with no racking, ballasts, or roof penetrations,” said Peter Chaitkin, SoloPower Systems Sales Director, U.S. East. “SoloPower is thrilled to partner with the U.S. PVMC, which enables us to optimize our manufacturing. PVMC also supports us in the field with development of applications to best deploy our product. As a U.S. manufacturer, we find their help to be critical to our continued success.”
+This unique Best Known Methods package for IMP is available to companies that partner with PVMC, and is already being utilized by leading PV developers and component manufacturers. The BKM package is offered in tandem with the U.S. Photovoltaic Manufacturing Consortium’s new set of evaluation capabilities for photovoltaic systems, called the PVMC’s Solar Energy Optimization Testkit, which was recently announced by the consortium. The Testkit is able to obtain and provide actionable solar energy cost and PV performance information from PVMC test and consortium member sites to improve solar cells, components, modules, systems, and operations and maintenance protocols. These combined services can be provided to members of the solar industry and individuals or companies with existing systems, allowing users to better comprehend the impact of PV system variables. The results are then made available through the PVMC’s proprietary milestone reports.
+“PVMC is excited to continue its support of the U.S. supply chain for photovoltaics, including SoloPower Systems and our wide array of partners ranging from system developers and installers, to components and materials suppliers, along with key support from the Department of Energy and NYSERDA,” said David Metacarpa, Director of Technology Development, PVMC. “Ultimately, the goal for projects such as these, which are supported and co-developed by PVMC, is to create a multiplier effect dramatically increasing the deployment of low-cost, renewable energy technologies.”
+PVMC also provides critical data to maximize the continuing efficiency of installed PV arrays. For example, the SoloPower-installed PV system’s information is now monitored in real-time and sent to the PVMC’s central location at SUNY Polytechnic Institute’s Albany NanoTech Complex, where the data is time-stamped to the site weather stations, PV reference arrays, various sensors that monitor solar radiation, the DC side of the inverters, and the module temperature. This allows careful study of the performance of these systems in real-world conditions, allowing SoloPower to validate and further improve their designs as the data is being monitored and analyzed by a team of leading PVMC and SUNY Poly research scientists who are able to provide partners with a detailed report that can offer a roadmap toward a more effective PV system.
+PVMC is an industry-led consortium for cooperative R&D among industry, university, and government partners to accelerate development, commercialization, manufacturing, field-testing, and deployment of next-generation solar PV and BIPV systems. PVMC is part of the U.S. Department of Energy’s SunShot Initiative and includes more than 50 participating members and partners.
+The new SoloPower IMP application and BKM package was announced at the PVMC Annual Program Workshop, which focused on the best ways to spark industry-wide collaboration to advance PV technologies and deployment. It was held in December at SUNY Poly’s Albany NanoTech Complex. Details were originally made available to PVMC’s partner organizations that were in attendance.
+A video showcasing the installation can be viewed at: https://vimeo.com/194610255/52ef8b608d
+*********************************
+About PVMC. The U.S. Photovoltaic Manufacturing Consortium (PVMC), headquartered in New York State, is an industry-led consortium for cooperative R&D among industry, university, and government partners to accelerate the development, commercialization, manufacturing, field testing, and deployment of next-generation solar photovoltaic (PV) and building-integrated photovoltaics (BIPV) systems. Through our technology programs, advanced manufacturing development facilities, system demonstration, and reliability and testing capabilities, PVMC is a proving ground for innovative solar technologies and manufacturing processes, as well as PV product development and deployment. Further information about PVMC can be found at http://www.uspvmc.org.
+About SoloPower Systems. SoloPower Systems is a photovoltaic technology company specializing in the design, manufacture, and deployment of CIGS flexible thin-film solar technology. Further information about SoloPower Systems can be found at www.SoloPower.com.
+
+--------------------------------------------------------------------------------

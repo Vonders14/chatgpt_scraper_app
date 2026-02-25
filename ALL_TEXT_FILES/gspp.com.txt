@@ -1,0 +1,49 @@
+ROOT: https://gspp.com/
+SCRAPED_AT_UTC: 2026-02-11T20:11:03.778768Z
+PAGES_INCLUDED: 2
+
+================================================================================
+
+URL: https://gspp.com/
+
+Sign up to receive our insights, news and industry analysis about the DG solar and energy storage sectors.
+Responsible Investments,
+World-Class Partnerships
+Responsible Investments,
+World-Class Partnerships
+GS Power Partners is powered by a dynamic group of professionals who are passionate about renewable energy. We are proud of our reach, growth and impact.
+0
++MW
+solar assets
+0
++GW
+in the pipeline
+0
+K
+metric tons of CO2 displaced in 2023
+0
+K
+
+--------------------------------------------------------------------------------
+
+URL: https://communitysolar@gspp.com/
+
+Sign up to receive our insights, news and industry analysis about the DG solar and energy storage sectors.
+Responsible Investments,
+World-Class Partnerships
+Responsible Investments,
+World-Class Partnerships
+GS Power Partners is powered by a dynamic group of professionals who are passionate about renewable energy. We are proud of our reach, growth and impact.
+0
++MW
+solar assets
+0
++GW
+in the pipeline
+0
+K
+metric tons of CO2 displaced in 2023
+0
+K
+
+--------------------------------------------------------------------------------

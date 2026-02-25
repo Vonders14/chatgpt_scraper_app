@@ -1,0 +1,229 @@
+ROOT: https://enchantenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T20:02:16.802924Z
+PAGES_INCLUDED: 10
+
+================================================================================
+
+URL: https://enchantenergy.com/
+
+Enchant Energy Corporation is helping to secure America’s economic prosperity and national security by supporting domestic energy-intensive industries. Energy demand by current and emerging technologies — including artificial intelligence, re-industrialization, defense, and transportation — is rapidly accelerating. Expanding energy production capacity will be a differentiator for the U.S. to outpace global competitors, drive innovation, and create millions of new jobs.
+“At Enchant, our mission is to support the “clean” use of fossil fuels to meet this demand and lead the way for U.S. energy independence.” Jim Wolff, CEO
+America’s energy security relies on fossil fuels to maintain ample and reliable baseload power generation to satisfy growing demand for electricity. Decarbonizing U.S. power generation and industrial manufacturing preserves billions of dollars of installed infrastructure and numerous jobs. It also safeguards U.S. energy supply by providing a critical input to increase domestic oil production all while working to mitigate climate change and catalyze sustainable development in the communities we serve. Through crucial R&D and world-class partnerships, we provide a roadmap for the safe decarbonization of our environment.
+Enchant provides carbon capture, utilization, and sequestration as a service to emitters, oil and gas companies, sequestration and transportation companies, and other utilizers of carbon dioxide.
+We develop carbon capture facilities for fossil fuel power plants and industrial emitters by retrofitting them with proven, modular, and cost-effective post-combustion carbon capture technologies that can be implemented quickly. We partner with carbon management companies to provide the captured carbon dioxide for enhanced oil recovery, sequester the it by permanent geological storage, or convert it into marketable products. Our projects are designed to qualify for IRS §45Q tax credits.
+We are a one-stop-shop for all your decarbonization needs. We offer a comprehensive solutions to fill the gap in the marketplace between the emitters and the users of CO2 and to safeguard American energy.
+Check out our solutions, projects underway at Four Corners Power Plant and a Kansas Power Plant and our emerging technologies.
+Frequently Asked Questions
+What is Carbon Capture, Utilization, and Storage?
+Carbon Capture, Utilization, and Storage (CCUS) is a term used to describe various methods and technologies that capture carbon dioxide (CO2) from energy, industrial sources, and the atmosphere and then either sequestor it underground by enhanced oil recovery (EOR) or permanent storage in geological formations, or utilize the captured CO2 as a raw material to make otehr products. Carbon capture technologies have been used for years to separate CO2 from gas streams as part of oil and gas operations. In addition, carbon capture technologies have been used on coal and gas fired power plants, cement plants and other industrial processes to capture CO2 that would otherwise have been vented into the atmosphere.
+What happens to the carbon dioxide once it has been captured?
+Captured CO2 is compressed and then transported typically by pipeline. Captured CO2 can then be injected underground into for enhanced oil recovery (EOR) or permanent storage in geologic formations that have sufficient porosity and permeability in the injection zone, along with non-permeable geological formations above and below the injection zone to allow for reliable permanent storage. Additionally, captured CO2 can also be utilized for the creation of a wide range of products.
+What are the main ways that carbon dioxide is captured in energy and industrial processes?
+There are four primary methods of capturing carbon dioxide from energy and industrial processes plus an additional method that is independent of industrial processes.
+The first is post-combustion carbon capture where CO2 is extracted from flue gas after the combustion of fossil fuels or biomass. The most prominent technology used in post-combustion carbon capture uses amine-based solvents to capture large percentages of CO2 from flue gas.
+The second is pre-combustion carbon capture where hydrogen is produced using thermochemical processes (using heat and chemical reactions to release hydrogen) from organic materials, typically natural gas.
+A third method is oxy-fuel combustion capture, where the fuel is combusted in the presence of nearly pure (approximately 98%) oxygen to ensure that the products of combustion (flue gas) contain CO2 and water with only trace amounts of other gases.
+Finally, Direct Air Capture (DAC) systems use chemical reactions to pull CO2 directly from the atmosphere. Large volumes of air are brought into contact with either liquid solvents or solid sorbents. Once the CO2 is captured, the DAC systems typically apply heat to release the CO2 from the solvent or sorbent.
+What are Section 45 Tax Credits?
+The 45Q tax credit is an increasingly robust and comprehensive carbon capture and utilization deployment incentive valued at up to $85/metric ton for carbon captured and sequestered.
+The credit was first enacted in 2008 as part of the Internal Revenue Code (Title 26 of the U.S. Code) and substantially modified in the 2018 FUTURE Act to support investment in productive carbon capture and sequestration investments. Most recently, the Inflation Reduction Act (IRA) of 2022 increased the 45Q tax credit value to $85/metric ton for captured QCO stored in geologic formations, $60/metric ton for the use of captured carbon emissions, and $60/metric ton for QCO stored in oil and gas fields if certain wage and apprenticeship requirements are met. This increase further incentivizes CCUS project development by boosting and making more flexible the investment incentives.
+The reformed 45Q tax credit is arguably the most robust and comprehensive carbon capture and utilization deployment incentive in the world today and provides a foundational policy on which to build. The FUTURE Act significantly increases the value of the tax credit, making the investment incentives more attractive for financing of CCUS projects. Applicable to all man-made or anthropogenic sources of CO2, the credit also accommodates the capture and use of both CO2 and CO, extends eligibility to include direct air capture and other forms of carbon utilization beyond enhanced oil recovery, and expands the opportunity for carbon capture deployment to a wider array of industrial facilities.
+The expanded 45Q tax credit program is similar to proven wind and solar power production tax credits. Both of those tax credits continue to play a crucial support role in the rapid deployment of wind and solar power generating facilities.
+We hear that carbon capture is prohibitively expensive. What has changed that makes it work now?
+While the costs to construct and operate carbon capture equipment and facilities on power plants and industrial emitters are significant, improvements in carbon capture technologies, the favorable cost structures for the power plants where CCUS will be added, and Internal Revenue Code Section 45Q tax credits are the three main factors that make CCS projects economically beneficial for power plants, electricity customers, and investors in CCUS.
+What are the costs, benefits, and other factors of the various approaches to carbon capture?
+Each carbon capture approach has technological, economic, legal, and regulatory factors that will impact and drive their use. Capital costs of the carbon capture system components, energy cost, whether electricity or primary fuels like coal or natural gas, the cost of water, the cost of chemical solvent or sorbents, plus the cost of labor are all important factors to be considered. While there is no one-size-fits-all analysis for the technologies or projects that will utilize carbon capture, all must address the wide range of factors listed above.
+What technical, operational and financial expertise does Enchant Energy Corporation bring to the project?
+Enchant’s executive team has decades of operational excellence in energy project development and operation. Enchant is partnering with world-class energy investors and innovators, including: Derivee Power, Navajo Transitional Energy Company (NTEC), and other organizations that have experience and expertise in CCUS including; Mitsubishi Heavy Industries America, Sargent & Lundy, Kiewit Power, Los Alamos National Lab, Sandia National Laboratories, New Mexico Institute of Mining and Technology, the New Mexico Bureau of Geology, University of New Mexico, University of Utah, and University of Wyoming.
+
+--------------------------------------------------------------------------------
+
+URL: https://enchantenergy.com/auto-draft/
+
+Leadership
+Board of Directors
+Cindy Crane, Chair
+PacifiCorp (Berkshire Hathaway)
+Chairwoman PacifiCorp, a subsidiary of Berkshire Hathaway and Founding CEO of Enchant Energy Company. Cindy has over 30 years of experience in utilities & mining encompassing 11,500 megawatts of generation capacity from a diverse mix of coal, natural gas, geothermal, hydro, wind and solar in seven Western States. She serves as the Chair of the School of Energy Resources at the University of Wyoming.
+Matthew Babcock
+Navajo Transitional Energy Company
+Chief Commercial Officer at Navajo Transitional Energy Company (“NTEC”), the third largest coal producer in the U.S., which is wholly owned by the Navajo Nation. He has over 20 years of professional experience in sales and marketing, international trade, and logistics.
+Lisa Coyne
+Gallagher Clean Energy
+Chief Financial Officer of Gallagher Clean Energy, a subsidiary of Gallagher, a world leader in insurance brokerage, risk management, and HR and benefits consulting. She has oversight over various clean energy projects, including leading significant Income tax credit-generating initiatives and evaluates new and emerging clean energy technologies.
+Robert A. Davies
+APS BioGroup
+Founded and built APS BioGroup, a manufacturer of specialty dairy proteins, which he sold to a private equity fund. Previously, served as CFO of Favorite Brands International, a private equity-sponsored consolidator of candy companies that grew to become the fourth largest candy company in the U.S. Previously, he was Executive VP of Marketing and Administration and CFO for the Golden Cheese Company, which builds, owns, and manages the largest cheese plant in the world. He began his career as a consultant at Deloitte.
+Howard Matz
+Derivee Power & Energy
+Managing Director of Derivee Power & Energy, a power and energy investment platform focused on mid-stage renewable generation development opportunities. He has over 35 years of experience in the energy infrastructure industry as a principal investor, lender, and financial advisor. Howard has executed over $8 billion of complex, acquisitions and asset-based capital market transactions for energy and infrastructure assets worldwide. He has expertise in renewable energy generation technologies and fuels, including anaerobic digesters, solar, waste-to-energy, hydro, geothermal, wind, and landfill gas.
+Janet S. Zagorin
+Opal Strategies
+Retired Director of Practice Development at Sidley Austin LLP after 30 years in the legal services industry. In 2018 Janet founded Opal Strategies, LLC, a private consulting firm that provides strategic business and, and ESG advice to clients in professional services, technology, life sciences, venture capital, and family wealth investment. Janet earned a certificate in Corporate Sustainability from New York University Stern School of Business. She received the 2015 World of Difference Award from The International Alliance of Women, which “honored 100 women in the world who make a difference.”
+Executives
+James J. Wolff
+Chief Executive Officer
+Jim has over 40 years of experience in the energy, mining and transportation industries, with a diverse background in finance, operations and business development. He possesses substantial IPO, M&A and divestitures experience with companies generating revenues between $300 million and $8 billion.
+Robert A. Van Engelenhoven
+Vice President of Operations and Development
+Bob has over 35 years of experience, planning and executing large scale power, clean energy, and battery storage projects. Previously he served as Project Development Director for PacifiCorp’s Renewable Energy Development Group.
+Spencer B. Young
+Vice President, General Counsel & Business Development
+Spencer has over 25 years of experience practicing corporate and transactional law with top law firms and in-house legal departments. He has extensive experience in the areas of energy, oil and gas, capital construction and finance, NERC CIPS compliance, general corporate, contracts, and mergers and acquisitions.
+Renée S. Grossman
+Finance
+Renée has over 30 years of finance, management, and business development experience, primarily in private equity and M&A for growth companies across a range of industries including mining, retail, consumer products, telecom, and business services.
+Shawn Reddington
+Project Development
+Shawn is a civil engineer with over 40 years of experience in multi-disciplined engineering, construction, and project management across various industrial sectors, including power generation and transmission, petroleum refinery, industrial process, materials handling, k-12/municipal facilities, and defense. He was integral in the development of renewable energy projects for PacifiCorp.
+
+--------------------------------------------------------------------------------
+
+URL: https://enchantenergy.com/solutions/
+
+Carbon Capture & Sequestration Solutions
+We Customize the Solutions for Each ProjectFocus Areas
+Decarbonization of Fossil Fuel Power Plants
+Retrofitting fossil fuel power plants with post-combustion carbon capture solutions to extend the life of the plants and secure baseload power generation
+Enchant completed the Front-End Engineering and Design (“FEED”) Study for carbon capture on the San Juan Generating Station. The San Juan FEED Study was partially funded by the U.S. Department of Energy and advanced the business case for retrofitting a large coal-fired power plant with post-combustion carbon capture
+Our first two projects are underway at the Four Corners Power Plant and a Kansas Power Plant
+Regional Carbon Management Hubs
+Collaborating with regional carbon management companies to develop carbon capture projects to feed their rapidly expanding infrastructure of:
+– CO2 enhanced oil recovery
+– CO2 pipelines
+– CO2 geological storage reserves
+Carbon Dioxide Conversion Projects
+Developing carbon capture projects to convert CO2 to sustainable marketable fuels and carbon products
+Primarily for emitters that are not located near sequestration resources
+Enchant is actively working on R&D of carbon conversion and carbon capture technologies
+Project Configurations
+Projects
+
+--------------------------------------------------------------------------------
+
+URL: https://enchantenergy.com/solutions/carbon-capture-business-case/
+
+Advancing the Business Case for Carbon Capture
+In 2022, Enchant completed the San Juan Generating Station Carbon Capture FEED Study. The study was partially funded through an agreement with the U.S. Department of Energy.
+The San Juan FEED Study established the technical requirements and costs of retrofitting the San Juan Generating Station with a carbon capture solution. It proved that the business case for adding post-combustion carbon capture technology to an existing coal fired power plants is compelling.
+Enchant is utilizing the San Juan FEED Study and capitalizing on the advances that have been made in carbon capture technology and plant optimization to accelerate the development of its projects.
+For more information on the case for carbon reduction and removal technologies, see Enchant’s presentation on the FEED study, the submission to the U.S. Department of Energy, and click here for the press release
+
+--------------------------------------------------------------------------------
+
+URL: https://enchantenergy.com/solutions/fcpp/
+
+Four Corners Power Plant Carbon Capture Project
+In a joint venture with the Navajo Transitional Energy Company (“NTEC”), we are developing a carbon capture and sequestration project for the Four Corners Power Plant in New Mexico. NTEC is the third largest coal producer in the U.S. and is wholly-owned by the Navajo Nation.
+The project will retrofit the coal-fired power generation units with a modular, amine capture technology to capture 5 million metric tons of CO2 per year in phase I and double that in phase II. The CO2 captured from the project will be sold to an oil and gas company for enhanced oil recovery. The project is expected to qualify for 12 years of direct pay of IRS §45Q tax credits and be operational by the first quarter of 2029.
+In 2023, NTEC and Enchant were awarded a grant from the U.S. Department of Energy for a Carbon Capture FEED Study for the Four Corners Power Plant. The grant was subsequently canceled in 2025.
+
+--------------------------------------------------------------------------------
+
+URL: https://enchantenergy.com/solutions/kansas/
+
+Kansas Power Plant Carbon Capture Project
+Enchant is developing a carbon capture and sequestration project for a power plant in Kansas.
+The project will retrofit the coal-fired power generation unit with a modular, potassium carbonate carbon capture technology to capture 2 million metric tons of CO2 per year. The CO2 captured from the project will either be sold to an oil and gas company for enhanced oil recovery or permanently stored in a nearby world-class geological storage formation.
+The project is expected to qualify for 12 years of transferrable IRS §45Q tax credits (5 years of which could be direct pay) and be operational by the third quarter of 2029.
+
+--------------------------------------------------------------------------------
+
+URL: https://enchantenergy.com/solutions/rd/
+
+Research & Development
+Carbon Conversion R&D:
+Enchant is working with technology companies on the development of carbon use technologies as alternatives ways to manage CO2 when enhanced oil recovery or permanent geological storage solutions are not economic. These technologies convert CO2 to marketable products, including syngas, methanol, sustainable aviation fuel, pure black carbon, and graphite.
+Carbon Capture R&D:
+In conjunction with a University researcher, Enchant is also developing a solid sorbent metal organic framework-polymer composite for more efficient capturing of CO2.
+
+--------------------------------------------------------------------------------
+
+URL: https://enchantenergy.com/contact-us/
+
+About Us
+Leadership
+Solutions
+Carbon Capture Business Case
+Four Corners Power Plant
+Kansas Power Plant
+R&D
+Contact Us
+Select Page
+Contact Us
+Name
+Email Address
+Message
+Submit
+Email
+info@enchantenergy.com
+Phone
+505-436-1828
+
+--------------------------------------------------------------------------------
+
+URL: https://enchantenergy.com/tax-credits/
+
+IRS §45Q Tax Credits
+The 45Q tax credit is an increasingly critical carbon capture incentive. Combined with the declining cost of carbon capture technology — made possible by extraordinary collaborations — the IRS §45Q tax credits are creating attractive investment opportunities and driving the expansion of CCUS.
+“The 45Q tax credit enhancements from the Inflation Reduction Act of 2022 will enable Enchant Energy to economically deploy carbon capture technology to mitigate climate change while providing attractive after tax returns to investors.” – Cindy Crane, Board Chair
+
+--------------------------------------------------------------------------------
+
+URL: https://enchantenergy.com/wp-content/uploads/2025/12/Press-Release-Enchant-Energy-FEED-Study-Nov-14-2022-final.pdf
+
+FOR IMMEDIATE RELEASE 
+FOR MORE INFORMATION CONTACT: 
+Wally Drangmeister 
+Media Representative 
+Enchant Energy 
+mediacontact@enchantenergy.com 
+(505) 379-8274
+San Juan Generation Station Carbon Capture 
+FEED Study Completed and Publicly Released 
+Design and Costing Confirm Technical and Financial Aspects 
+of Adding Carbon Capture to San Juan Generating Station 
+Farmington, New Mexico, November 14, 2022 – Today Enchant Energy announced that the San Juan 
+Generating Station Carbon Capture Front-End Engineering Design (FEED) Study is now publicly 
+available. The study was partially funded through an agreement with the United States Department of 
+Energy. 
+The FEED Study was successful in establishing and defining the technical requirements, scope, schedule, 
+and costing for the project to add carbon capture technology to the San Juan Generating Station located in 
+Northwest New Mexico. Once the carbon capture facilities are constructed and fully operational, the plant 
+will be able to operate while capturing 95% of the carbon dioxide emissions that are produced. 
+“The FEED Study was extremely successful from an engineering and project management perspective,” 
+said Cindy Crane, Enchant Energy CEO. “The study completed enough engineering to update the cost 
+estimate and confirm the schedule for installing carbon capture and storage at the San Juan Generating 
+Station.” 
+The carbon dioxide captured at San Juan Generating Station will be permanently sequestered in 
+underground formations near the plant as well as sold and transported via pipeline to the Permian Basin 
+for enhanced oil recovery. San Juan Generating Station with carbon capture is positioned to provide 
+reliable low carbon power much sooner than potential nuclear power plant construction and with much 
+lower atmospheric carbon dioxide emissions than natural gas generation without carbon capture. 
+Additional reliable power sources are needed to mitigate the grid reliability issues that are forecast in the 
+Western United States due to rapidly closing of legacy power plants and to enable the addition of more 
+wind, solar and battery power to the grid. Internal Revenue Code Section 45Q tax credits for carbon 
+dioxide sequestration and/or use in enhanced oil recovery were recently enhanced by bipartisan federal 
+
+
+legislation to further encourage the development of projects like San Juan Generating Station carbon 
+capture that per the FEED Study has a $1.55 billion dollar capital budget. 
+The City of Farmington is a 5% owner of the San Juan Generating Station and is working to acquire the 
+remaining 95% of the plant from the existing owners. The 95% ownership will then be transferred to 
+Enchant Energy who will operate the plant. 
+“The results of the FEED Study are very positive,” said Farmington Mayor, Nate Duckett. “Successfully 
+completing the FEED Study is an important step for the carbon capture project at San Juan Generating 
+Station that will enable the plant to resume operation and provide reliable cost-effective electric power to 
+the customers of the Farmington Electric Utility System.” 
+The core technology for the carbon capture system to be installed at San Juan Generating Station uses a 
+proprietary amine‐based solvent carbon dioxide capture system developed by Mitsubishi Heavy Industries 
+America, Inc., (MHIA). An earlier iteration of the technology was successfully implemented in 2016 by 
+MHIA on a slipstream from a coal-fired boiler at the Petra Nova Plant in Texas. 
+“We are extremely pleased that our technology has been able to be successfully integrated into the FEED 
+Study for adding carbon capture to the San Juan Generating Station,” said Timothy Thomas, Senior Vice 
+President – Engineered Systems Division, MHIA. “There is building momentum for carbon capture 
+technology as a way for countries across the world to address the need for reliable electricity generation 
+in an environmentally friendly manner.” 
+###
+
+--------------------------------------------------------------------------------

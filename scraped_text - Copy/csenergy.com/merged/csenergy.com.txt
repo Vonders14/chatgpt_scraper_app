@@ -1,0 +1,26 @@
+ROOT: https://csenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T19:57:05.097701Z
+PAGES_INCLUDED: 1
+
+================================================================================
+
+URL: https://csenergy.com/
+
+Powering Progress with Proven Execution
+We build, operate and optimize solar, storage and critical energy infrastructure.
+Demand for electricity is accelerating as data centers grow and U.S. manufacturing rebounds. SOLV Energy delivers the large-scale solar and battery storage projects that keep these industries powered — on time and at massive scale. With proven expertise, deep resources and full lifecycle capabilities, we build power plants that deliver long-term performance and value for customers and communities.
+Our Focus
+From engineering through long-term operations, SOLV Energy delivers end-to-end solutions for utility-scale energy assets.
+Solar
+Full-scope EPC for large-scale solar, from civil to structural to electrical
+High Voltage
+Design and build substations and interconnection facilities up to 500 kV
+Energy Storage (BESS)
+Co-located PV+BESS or standalone storage at scale
+Services & O&M
+Operations, maintenance, performance engineering, testing, controls, dispatch and monitoring
+SCADA/OTS
+End-to-end SCADA and network infrastructure for plant operations
+SOLV Energy's commissioning planning and teams are top tier. They provided exceptional service in challenging conditions and played a vital role in bringing two large PV solar and BESS projects online within an impressive timeline. Chris Fox Clearway Energy
+
+--------------------------------------------------------------------------------

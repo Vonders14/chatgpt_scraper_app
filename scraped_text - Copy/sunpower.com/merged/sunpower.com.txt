@@ -1,0 +1,379 @@
+ROOT: https://us.sunpower.com/
+SCRAPED_AT_UTC: 2026-02-11T20:44:27.449946Z
+PAGES_INCLUDED: 18
+
+================================================================================
+
+URL: https://us.sunpower.com/
+
+Our Vision
+Imagine a home or business where solar panels capture energy, intelligent batteries store and manage electricity, and your entire property becomes a smart, responsive energy environment. We're making that vision a reality.
+Unmatched Experience
+The SunPower name represents decades of solar innovation.
+Premium Quality
+High-efficiency solar panels tested for durability.
+Custom Solutions
+Solar + storage systems tailored to your home or business’s unique needs.
+Seamless Process
+Expert support from consultation to installation.
+25-Year Manufacturer Warranty
+Industry-leading warranties and guarantees for peace of mind.
+Smart Energy Ecosystem
+Enabling an intelligent, sustainable energy future for your home.
+Save by Going Solar
+SunPower Q4 2025 Earnings Call Presentation
+Event on Jan 20, 2026 1:00 PM EST
+
+--------------------------------------------------------------------------------
+
+URL: https://us.sunpower.com/company/leadership
+
+T.J. Rodgers
+Chief Executive Officer
+Chief Executive Officer
+Interim Chief Financial Officer
+Chief Legal Officer and General Counsel
+Chief Compliance Officer
+Executive Vice President Sales and Marketing
+Executive Vice President New “Dealer Division”
+Executive Vice President Sales Operations
+Executive Vice President of Battery Storage Systems
+Executive Vice President of New Homes
+Executive Vice President of Quality, Engineering and Customer Success
+Senior Vice President of IT
+Executive Vice President of Sales and Investor Relations
+Senior Vice President of Marketing
+Vice President Financial Planning & Analysis & Chief Revenue Officer
+Vice President Human Resources
+Vice President of Investor Relations
+Sioban Hickie has over 30 years of capital markets experience and serves as the primary liaison with investors and analysts while supporting the Board and executive leadership with market insights, competitive benchmarking, and financial communications. Prior to SunPower, Ms. Hickie held senior investor relations and equity research roles at ICR Inc., ISI Group, Citi, and Hess Corporation. She holds an MBA in Finance from Columbia Business School and a bachelor’s degree in Economics from Ramapo College of New Jersey.
+
+--------------------------------------------------------------------------------
+
+URL: https://us.sunpower.com/company/history
+
+Complete Solar is Now SunPower
+A new chapter in our shared commitment to delivering reliable and accessible clean energy solutions.
+A New Era
+A Fresh Start, Backed by a Decade of Expertise
+In 2024, Complete Solar acquired certain SunPower assets — including the brand, intellectual property, and divisions such as Blue Raven Solar, New Homes, and the Non-Installing Dealer network. This integration combined the strengths of both organizations to create a larger, more comprehensive residential solar and energy services provider.
+As we transition, our focus is on delivering high-quality customer service, expanded technical expertise, and durable long-term value for homeowners.
+Our Commitment
+Powering a Sustainable Future for Al
+We believe clean energy and storage should be accessible to everyone. SunPower provides all-in-one residential solar solutions with personal customer service, a focus on ethical sourcing, and an ongoing effort to minimize environmental impact.
+We are actively pursuing two major technology paths:
+Solar Panels: Collaborating with a leading panel supplier to design and deliver world-class solar technology.
+Energy Storage: Partnering with Enphase Energy to develop advanced, reliable storage systems.
+Our Roots
+From a Small Town in Montana to a National Solar Provider
+Complete Solar’s story began in Colstrip, Montana, a town built around coal mining. Co-founders Will and Dave Anderson grew up with first-hand awareness of the environmental challenges tied to traditional energy production.
+Motivated by education, innovation, and a drive to address the energy crisis, they built a series of successful ventures before launching Complete Solar in 2010. Over the years, the company’s platform has helped solar providers across the country scale faster through partnerships, streamlined processes, and advanced software.
+SunPower’s Legacy
+A History of Solar Innovation
+For nearly four decades, SunPower has been associated with breakthroughs in solar technology, from record-setting efficiency achievements to pioneering integrated solar and storage systems. While we do not claim the entirety of this history, our stewardship of the SunPower brand reflects a commitment to the same spirit of innovation and excellence that has defined it.
+Moving Forward
+Innovation and Integrity = A Brighter Tomorrow
+Our goal is simple: to make clean energy more reliable, accessible, and future-ready for every homeowner we serve. By building on strong foundations and pushing toward new advancements, we’re creating solar and storage solutions that empower customers and communities alike.
+
+--------------------------------------------------------------------------------
+
+URL: https://us.sunpower.com/company
+
+Powering a Brighter Future
+With decades of experience, we are a U.S.-based solar company committed to providing reliable and sustainable energy and storage solutions.
+Clean energy and storage should be accessible to everyone. SunPower delivers all-in-one residential solar solutions with personal customer service, leading in sustainability through ethically sourced materials and low environmental impact.
+With Decades of Experience and Expertise, We Know Solar
+Meet Our Visionary
+T.J. Rodgers
+Chairman and CEO, SunPower
+CYPRESS SEMICONDUCTOR
+Thurman John “T.J.” Rodgers founded Cypress Semiconductor Corporation on December 1, 1982, and immediately began writing a business plan in his kitchen. He served a record 34 years as the Company’s President and Chief Executive Officer. (“I did not have one job for 34 years. I had dozens of jobs over the years, doing whatever Cypress needed at the time.”)
+Cypress’s first‑round funding came in April 1983 from blue‑chip Sand Hill Road Venture firms, including Kleiner‑Perkins and Sequoia Capital. Cypress built a wafer fabrication plant in San Jose, California in a little more than one year after funding, and brought its first “Moore’s Law” CMOS memory chips to market in 1984, ahead of Intel, which was underutilizing Moore’s Law on the lesser NMOS technology at the time. Cypress became profitable and went public in May 1986, just 37 months after its first‑round funding. In 1999, Rodgers was appointed for a term as Chairman of the Semiconductor Industry Association (SIA).
+Rodgers entrepreneurship awards at Cypress included the Encore Award from the Stanford University Business School as the 1988 Entrepreneurial Company of the Year and the 1991 Entrepreneur of the Year award from Ernst & Young. However, his most prized award is an unexpected one paragraph 1999 letter from Milton Friedman, congratulating Rodgers on his Wall Street Journal editorial in which he castigated government for corporate welfare – even for chip companies.
+BUILDING SUNPOWER
+Rodgers became involved in SunPower in 2001 in a chance coffee‑shop encounter with fellow Stanford classmate, Dick Swanson, who told Rodgers that he was having financial problems with his company SunPower, the 1985 startup that essentially created the solar industry as we know it today. In 2001, Rodgers wrote a personal investment check for $750,000 and joined the board of SunPower. After five quarters of vigorous debate, Rodgers finally convinced a balky Cypress board to invest in a 40% interest in SunPower. That investment was distributed in 2008 to Cypress shareholders as a stock dividend worth $2.6 billion. Cypress did more than invest to help SunPower – it modified its Austin, Texas wafer fabrication plant to train SunPower engineers on silicon manufacturing so that SunPower’s revolutionary A‑300 SunPower solar cell could come to market in high volume at low cost. In 2003, it helped design and build a 300’‑long “autoline” solar cell manufacturing line for SunPower’s new plant in the Philippines, which was built by Cypress facilities personnel. Each line produced 1,200 solar cells per hour in a low‑cost country, and when the autolines ramped revenue to $79 million in 2005, Rodgers guided SunPower through its initial public offering as the company’s first Chairman. In 2008, at the demand of Cypress shareholders, SunPower was spun out as an independent company after it had achieved $1.43 billion in revenue under CEO Tom Werner, a former Cypress employee. Rodgers left SunPower in 2010 after it was acquired by the French Oil Company, Total.
+SUNPOWER BANKRUPTCY
+Fourteen years later, Rodgers received a call from Werner, informing him that SunPower was filing for Chapter 11 bankruptcy. Rodgers then created a plan to run the company after bankruptcy that was court‑approved on September 30, 2024. He then raised the funds for his new solar company, Complete Solar, to buy the assets of the SunPower Corporation. Execution was difficult: the tiny 65‑person Complete Solar startup had to buy and integrate 2,901 employees from SunPower Corporation under intense cashflow and time pressure.
+Rodgers, now age 77, is the Chairman of SunPower again, and its CEO as well. In two quarters after the September 2024 asset acquisition was approved, the integrated company has leaned down from 2,901 to 900 employees, twice achieved over $300 million in annualized revenue, and turned profitable and cash flow positive. Complete Solar also adopted the SunPower brand name and SPWR stock ticker symbol.
+VENTURE CAPITALIST
+As the head of Rodgers Capital LLC, Rodgers also invested in and sits on the board of Enphase (a $1.5 billion solar electronics company), Enovix (an advanced lithium-ion battery company), and BeSpoken (a bourbon whiskey startup that has patented a new proprietary fine spirits aging technology that uses 30 times less wood (trees) than the conventional process).
+Rodgers also has invested in nine medium-size businesses in his Oshkosh, Wisconsin hometown ranging from a 1948‑vintage A&W rootbeer stand (that still uses high school girls on roller skates as waitresses) to the 128‑acre Oshkosh Country Club founded in 1898. Next year he will open the 32‑room “Northwestern Hotel” in a classic 1930 downtown building built for the local newspaper. The hotel will house a high‑end Italian restaurant with an Italian‑born chef. The Wisconsin businesses are run full time by his wife, Valeta Massey, who also runs their California wine business, which produces 3,000 cases of Pinot Noir annually in a custom winery housed in three 100‑yard deep caves bored 65’ under the vineyard planted on the 1,700’ peak of the Santa Cruz Mountains. Valeta, a former chip‑design manager from Cypress, is also a partner in and the CFO of their two‑employee venture capital firm.
+MIDWESTERN ROOTS AND VALUES
+Rodgers was born in Oshkosh, Wisconsin (pop. 66,184) on March 15, 1948, and played on two Oshkosh High School back‑to‑back state-championship football teams. He remembers playing a game against Green Bay West High School in Brown County Stadium, later renamed Lambeau Field after Green Bay Packer founder Curly Lambeau’s death in 1967.
+Those championship teams led to his recruitment to play football at Dartmouth College, in an era when Ivy League rules did not allow athletic scholarships. At that time Dartmouth held classes on Saturday and when Rodgers missed both physics and chemistry classes due to away games, he stopped playing football, but later received a full academic scholarship from the Alfred P. Sloan Foundation. He graduated as Class of 1970 Salutatorian with double majors in chemistry and physics, and is currently a Trustee Emeritus of Dartmouth College, having served on the Dartmouth Board from 2004 to 2012, where he was a vocal opponent of administrative bloat and what was then called “political correctness” in academia. He endowed two Dartmouth professorships, one named the Lois L. Rodgers professor after his mother, a fifth‑grade teacher.
+Rodgers chose Stanford over Princeton and several other schools for graduate work to be able to move to California. He received his Master’s and PhD degrees in electrical engineering at Stanford, which resides in Palo Alto, California, the literal birthplace of Silicon Valley, where the Hewlett‑Packard company moved off of the Stanford campus by renting a garage on Addison Street in 1939, widely considered to be the beginning of “Silicon Valley.” Rodgers paid for his education by running chip‑making equipment in the Stanford Integrated Circuits Laboratory. One of four sections in his PhD thesis dealt with his patent on “VMOS” semiconductor technology, a chip‑making process that used vertical stacking transistors to increase packing density. He led the effort to commercialize VMOS at Silicon Valley’s American Microsystems and was overwhelmed by Intel’s “Moore’s Law” technology juggernaut. Finally, he ran the static RAM memory product line at Intel’s archrival, Advanced Micro Devices (AMD) until 1982, when he started Cypress.
+After Rodgers retired from Cypress Semiconductor in 2017 at age 69, he was asked for help by John Doerr, a 10‑year Cypress director and current Chairman of VC firm Kleiner‑Perkins. After a reflexive “yes,” Rodgers dove into turning around Enphase, a promising solar electronics startup company. Eight years later, Rodgers is still on the Enphase board (“I don’t have to work much anymore; I sit in the front seat, watch the board presentation, which is always a ‘good movie,’ and leave feeling good.”). Enphase is now a very profitable $1.5 billion solar microinverter and battery powerhouse run by Badri Kothandaraman, a former Cypress EVP who worked directly for Rodgers. Rodgers invested in Enphase at $0.92 per share. Today, the ENPH share price has risen to $60.
+CHARITY
+Rodgers is now putting his money into mini‑endowments – using knowledge gained on the Dartmouth board – to support chosen charities in perpetuity after his death. He judges his charities as critically as his portfolio companies (“The only break they get is not to have to make 20% profit on the bottom line.”).
+In 2016, Rodgers received the “Champion of Diversity” award from the California Association of African American Educators “for 20 years of financial and personal support.” He was also the first Silicon Valley CEO to volunteer to lead the annual food drive of Silicon Valley’s Second Harvest Food Bank (SHFB). Cypress won the SHFB’s hotly contested corporate food donation competition by donating an average of over 1,000 pounds of food per employee in his last year – and for 19 consecutive years before that. In 2004, Rodgers dedicated the Cypress Semiconductor Spinal Cord Rehabilitation Gymnasium at the Santa Clara Valley Medical Center, and one year later, the Cypress Maternal Outreach Mobile, a clinic-on-wheels used to help prevent avoidable pregnancy problems in urban areas with limited pre-natal medical resources. In 2022, T.J. & Valeta Rodgers were honored for leading a funding drive to build a new headquarters for Coastal Kids, a 132‑nurse organization that cares for chronically ill children at their homes to avoid the hospitalization that would otherwise be necessary. In 2023, Rodgers designed and built a 32‑unit housing development to help homeless families in his hometown of Oshkosh, Wisconsin. (“It’s great to write a check, but I like helping charities personally.”)
+SUNPOWER VISION
+Powering America since 1985
+A message from TJ Rodgers, SunPower CEO
+Given that more than 70 solar companies went out of business last year, any vision for SunPower's future must begin with a solid financial foundation. Consequently, the vision for 2025-2026 is to get from our current $300 million revenue run rate to over $1 billion as quickly as possible and grow expenses much more slowly than that to achieve solid profitability and build cash reserves. The reader should understand that this is the personal vision of T.J. Rodgers, not a forecast. And even when aggressive vision statements are achieved, as happened at Cypress Semiconductor and Enphase Energy, they are rarely achieved on the exact path described in an early vision statement, which nonetheless is necessary to let employees know where we have to get, so when our vision is inevitably disrupted (think about tariff uncertainty), the employees continue to head in the right direction, but invent a new path.
+Accordingly, one feasible path to the financial vision is shown below. It assumes rapid revenue growth via acquisition, which is common in the depressed solar industry today, and a conservatively calculated P&L statement consistent with that growth:
+If we can grow rapidly from the current $82 million per quarter to $150 million per quarter in 2025 and to $250 million per quarter in 2026, that would drive the bottom line in a compelling way, even with conservative assumptions. Cypress made 26 acquisitions during my 34 years there, so we have excellent acquisition business processes, but acquiring a solar company is much trickier than acquiring a semiconductor company, so we are moving cautiously.
+Finally, we want to regain the high technical standards of the SunPower brand, which was synonymous with innovation and excellence at fair retail prices. For this we are pursuing two major technology paths: to design and bring to market world‑class solar panels in partnership with a leading panel supplier, and to create state-of-the-art energy storage systems with our partner Enphase Energy.
+*See 8-K filed by the company on April 21, 2025 regarding forward-looking statements.
+
+--------------------------------------------------------------------------------
+
+URL: https://us.sunpower.com/company/why-sunpower
+
+Powering a Brighter Future
+Our Vision
+SunPower is the mature leader shaping the new energy economy. We transform how families, businesses, and communities understand, control, and benefit from energy. More than solar solutions, we deliver an entire energy ecosystem, educating, empowering, and enabling energy independence, safety, and premium quality nationwide.
+Our Perspective
+We see beyond technology to human transformation. Energy management isn’t just panels and batteries; it’s about knowledge, freedom, and resilience. As trusted educators of energy evolution, we help stakeholders understand the energy changes happening around them and make informed decisions about their energy future.
+What We Stand For
+SunPower delivers more than solar solutions — we provide a complete energy ecosystem backed by education, expertise, and reliability.
+Our Commitments
+Educational Energy Leadership:
+Knowledge before sales, helping you understand the evolving energy landscape.
+Complete Energy Ecosystem Solutions:
+Solar, storage, and intelligent energy management for your home or business.
+Premium Reliability & Safety:
+State-of-the-art technology installed with unwavering safety and national-scale reliability.
+Long-Term Partnership:
+Ongoing support and guidance built on trust, expertise, and personalized care.
+Mature Innovation Authority:
+Years of proven leadership shaping the new energy economy.
+Why SunPower is Different
+SunPower focuses on educating first and empowering informed decisions. Unlike traditional solar or high-pressure sales companies, we prioritize knowledge, trust, and long-term partnerships. Our mature innovation, reliable technology, and complete energy solutions ensure stakeholders make confident choices for their homes, businesses, or developments.
+
+--------------------------------------------------------------------------------
+
+URL: https://us.sunpower.com/company/helios
+
+Powering a Future with Solar Innovation
+SunPower’s heritage includes high-efficiency silicon cells used on NASA/AeroVironment solar aircraft such as Pathfinder and Helios. Those projects demonstrated what solar can do at the edge of the atmosphere and continue to influence how we design for performance on the ground.
+Discover Our Vision for Tomorrow’s Energy
+At SunPower, we believe the future of energy lies in harnessing the sun’s unlimited potential. Inspired by the groundbreaking NASA Helios solar-powered airplane, our mission is to deliver cutting-edge solar solutions that redefine what clean energy can achieve.
+The Legacy of Helios: A Symbol of Solar Power and Innovation
+Helios was a remotely piloted, solar-electric flying wing with a 247-foot wingspan—longer than a Boeing 747’s. On August 13, 2001, it reached 96,863 feet, a world record for sustained horizontal flight by a winged aircraft. Helios carried roughly 65,000 high-efficiency SunPower solar cells capable of producing over 35 kW under peak sun.
+From Helios to High-Altitude Platforms
+Today’s high-altitude platform systems (HAPS) apply similar principles: solar by day, batteries by night, enabling long-duration stratospheric flight for connectivity and sensing. Airbus’s AALTO Zephyr program reported a continuous flight of 67 days in 2025, surpassing its prior endurance record. These are aircraft, not satellites, but they can deliver satellite-like services.
+A Vision for SunPower’s Future
+SunPower adopted the Helios logo as a nod to the NASA aircraft and the engineering mindset it represents efficiency, lightweight design, and pushing limits responsibly.
+In 2025, SunPower’s CEO and Chairman, T.J. Rodgers, outlined goals to support the company’s continued growth, technical leadership, and profitability, drawing on his extensive experience and long-standing commitment. Having led the original SunPower through its public offering in 2005 and observed its growth to $1.52 billion in revenue by 2009, Rodgers brings historical perspective and a renewed focus on engineering excellence. He also recognizes the dedication and contributions of SunPower’s employees and looks forward to the journey ahead.
+I was the chairman of the original SunPower when it came public in 2005 and stayed with that company until May 2010, when the company was taken over by the French oil company, Total, and I resigned. In 2009, SunPower’s revenue was $1.52 billion. My vision is to return the new SunPower to $1 billion-plus revenue, solid profitability and technical leadership. I am very proud of the sacrifices our employees have made to achieve this rapid progress, and I also recognize the long road in front of us."
+-T.J. Rodgers, CEO and Chairman
+
+--------------------------------------------------------------------------------
+
+URL: https://us.sunpower.com/home-solar
+
+Customized Solar Solutions
+We offer tailored solar solutions designed to match your unique energy goals, lifestyle, and budget. Whether you’re focused on maximizing power output or finding the best long-term value, we have a solar solution for you.
+SunPower simplifies your transition to clean energy. Every home is unique, and we design personalized solar solutions that match your lifestyle, budget, and sustainability goals.
+Custom-designed solar solutions
+High-quality, performance-driven products
+Personalized energy independence
+Simplified installation process
+Seamlessly integrated home solar systems designed for peak performance. We carefully select high-quality panels, racking, and components to deliver reliable, clean energy that powers your home with precision and style.
+Maximize your solar investment by storing excess clean electricity. Our smart battery solutions help you power your home during peak hours, reduce energy costs, and maintain critical systems during outages, giving you energy independence and peace of mind.
+The right solar setup depends on several factors—from your reasons for going solar to the size of your roof. Get started with a free estimate from our solar experts today!
+Wondering if your home is a good candidate for solar power? From energy prices to local weather, we’ll help you find out if your house is solar-ready—contact us!
+Find out how going solar can affect the resale value of your home.
+Find out how much you can save with SunPower solar solutions for your home.
+We offer tailored solar solutions designed to match your unique energy goals, lifestyle, and budget. Whether you’re focused on maximizing power output or finding the best long-term value, we have a solar solution for you.
+
+--------------------------------------------------------------------------------
+
+URL: https://us.sunpower.com/solar-resources/how-does-solar-energy-system-work
+
+Harnessing the Sun’s Power
+A solar energy system captures the sun's energy and converts it into electricity that can power a home, car, or business.
+The sun constantly releases tiny packets of energy called photons. So many photons reach earth every hour that – if there were some way to harness them all – they could meet the world’s energy needs.
+Photovoltaic (PV) Solar Panels & Arrays
+A home or business solar array grabs just a few of those photons using photovoltaic (PV) solar panels.
+An array can be installed on a roof, in a yard, or anywhere there's unobstructed sunlight. More panels mean more energy can be generated.
+Every array is made up of several solar panels, and every solar panel is made up of several solar cells. Those cells do the daily work of converting the sun's photons into electricity.
+Solar cells are made of silicon. Every time photons hit the silicon, they transfer energy to loosen silicon electrons. Those loosened, or “free” electrons, are then channeled into an electric current.
+Making Solar Power Usable at Home
+How do you make a solar panel's DC electricity usable for the AC plugs and appliances in your house?
+The answer is an inverter.
+Most solar powered homes have what's called a "central inverter."
+That means the wires from all the solar panels on a roof run into a big box installed in the garage or on the side of a house. The device in
+that box makes the conversion from DC to AC.
+However, the customized solar panel systems we install rely on "microinverters." A microinverter converts the power from DC to AC
+at the panel level, a process that is much more efficient.
+Whether it's a central inverter or microinverter, the electricity changes to AC electricity to power the home.
+Save More with Net Metering
+For solar powered buildings that can use net metering, the inverter also allows the energy to be fed into the electrical grid.
+That can save a homeowner thousands of dollars over the life of their PV solar system.
+Ready to Explore Solar for Your Home?
+We’re here to walk you through every step—from how solar works to designing a system that meets your energy needs, budget, and goals.
+
+--------------------------------------------------------------------------------
+
+URL: https://us.sunpower.com/solar-panel-installation-process
+
+What to Expect During Your Solar Panel Installation
+Our Streamlined Process
+From your first conversation with a SunPower solar expert to the moment your system is energized, we’ll be with you every step of the way—providing guidance, updates, and making your transition to solar simple.
+- 1Customized Solar Proposal
+- 2Home Improvement Contract
+- 3Site Survey
+- 4Permitting and Utility Approvals
+- 5Professional Installation
+- 6Inspections and Verifications
+- 7Interconnection and Energization
+Customized Solar Proposal
+During your consultation, you’ll review a custom solar design and proposal tailored to your home and energy needs. Our team will walk you through the details, confirm whether solar is a good fit for you, and answer any questions.
+To build the most accurate solar plan, your solar expert will also:
+Review qualification details, such as credit score and annual income (if you plan on financing)
+Collect household energy usage and history
+Schedule a professional site survey to confirm condition of your roof and electrical setup
+Switching Your Home to Solar Energy is Exciting, but It’s Also a Process.
+The SunPower team is available 24/7 to support you through all aspects of solar installation and activation. We guide you through the entire journey and take care of all the paperwork. All we ask is that you’re available at a few key points to help us access your home.
+Have questions? We’re here to help. If you’re curious about what the solar installation process looks like in your area, reach out to our solar experts for more information.
+
+--------------------------------------------------------------------------------
+
+URL: https://us.sunpower.com/home-solar/SunPower-solutions-new-homebuyers
+
+Adding solar to your new home has never been easier, especially when your builder already partners with SunPower. As the preferred solar provider, we work directly with your builder to install a solar panel system that seamlessly integrates with battery storage options. That could mean lowering your electricity bills, dependable solar energy and a cleaner, more sustainable lifestyle all built into your new home.
+From high-performance solar panels to smart energy storage, we use premium technology to help you manage your electricity usage, lower carbon emissions, and enjoy energy savings.
+Once you sign your home purchase contract, your builder will send us your information. Then, a SunPower representative will reach out to walk you through your solar finance options and next steps.
+
+--------------------------------------------------------------------------------
+
+URL: https://us.sunpower.com/solar-financing-and-payment-options
+
+Solar Provider or TPO Obligations:
+Service all system components according to warranties.
+Maintain insurance on the system.
+Monitor systems via the provider’s monitoring platform.
+Provide a Performance Guarantee for eligible systems**.
+Comply with all terms of the lease or TPO agreement.
+
+--------------------------------------------------------------------------------
+
+URL: https://us.sunpower.com/home-solar/better-solar-panels
+
+How many solar panels will I need for my home?
+The number of solar panels you'll need for your home will depend on several factors. One simple way of answering "How many solar panels do I need" is to let a local solar installer look at your home and give you a quote for system size (including number of wattage of panels), cost, and estimated annual and lifetime savings.
+Another way, is to look at your electricity bill to get your home’s hourly energy usage, multiply that by the peak sunlight hours for your home (3 to 4 hours on average), and divide by 400, which is an average wattage for solar panels (although they can range from 350 to 460).
+Hourly energy usage x peak sunlight hours / 400 = number of panels. This typically ranges from 17-42 panels.
+
+--------------------------------------------------------------------------------
+
+URL: https://us.sunpower.com/home-solar/solar-battery-storage
+
+What Is NEM 3.0 and How Does Solar Battery Storage Factor In?
+NEM 3.0 is California’s updated solar net metering policy, effective April 2023, for PG&E, SCE, and SDG&E customers. Under NEM 3.0, the compensation solar customers receive for exporting excess electricity back to the grid varies based on the time of day, day of the week, and month. On average, these rates are about 75% lower than those under the previous NEM 2.0 policy.
+Solar batteries help homeowners adapt to NEM 3.0 by allowing them to store excess solar energy instead of sending it to the grid at reduced rates. This stored energy can then be used during peak pricing hours or when solar production is low, maximizing the value of your system and reducing dependence on the utility grid.
+
+--------------------------------------------------------------------------------
+
+URL: https://us.sunpower.com/home-solar/solar-battery-storage-enphase-iq-battery-10c
+
+Efficient Energy Storage Designed for Your Home
+The Enphase IQ Battery 10C works with your solar system to store excess solar energy for use later. It can power essential loads during an outage and may help reduce reliance on the grid and lower electricity costs, depending on your usage and utility rates. The system is compact and modular, so you can expand capacity over time.
+This fully integrated home energy storage system efficiently stores the excess energy your solar panels produce, so you can power your essential loads during an outage, reducing reliance on the grid and may help reduce your utility bills.
+Key Highlights:
+Modular design that scales from 10 kWh to 80 kWh
+LFP chemistry with passive cooling (no fans)
+Quiet operation
+Remote monitoring with the Enphase App
+Compact wall-mount or pedestal options
+Features:
+Model: Enphase IQ Battery 10C
+Limited Warranty: 15 years or 6,000 cycles; 60% capacity at warranty end
+Usable Energy Capacity: 10 kWh
+Continuous Output Power: 7.08 kVA (240 V)
+DC Round-Trip Efficiency: 96%
+AC Round-Trip Efficiency: 90%*
+Chemistry: Lithium Iron Phosphate (LFP)
+Weight: 317 lbs (144 kg)
+Dimensions: 24.5" H x 28" W x 14.4" D
+* AC to the battery to AC at 50% power rating.
+For some configurations, such as whole-home backup, compatible components like the IQ Combiner 6C or the IQ Meter Collar may be required.
+Benefits of Choosing the Enphase IQ Battery 10C
+Safety-Focused Design:
+The Enphase IQ Battery 10C features passive cooling and a safety-oriented design to help provide reliable performance and long battery life.
+Scalable Capacity:
+Its modular design allows for storage expansion over time and offers approximately 90% AC round-trip efficiency at 50% power (96% DC), based on manufacturer specifications.*
+High Efficiency:
+Designed for high efficiency, the system can store and use more solar energy compared to standard solar panel systems or lower-efficiency panels and batteries.
+Ecosystem Fit:
+The battery is compatible with Enphase components and includes integrated microinverters as part of the system design.
+Smart Monitoring:
+Users can monitor system performance remotely through the Enphase App.
+Long Coverage:
+The battery is covered by a 15-year limited warranty (up to 6,000 cycles), as provided by the manufacturer, supporting long-term energy use.
+*See specifications and limited warranty for details.
+Review the Enphase IQ Battery 10C Data Sheet
+Assumptions Note: Results vary based on load profile, utility rate design (for example, time-of-use), solar production, battery sizing, and site conditions. Use this note wherever you reference “savings” or “bill reduction.”
+
+--------------------------------------------------------------------------------
+
+URL: https://us.sunpower.com/home-solar/solar-battery-storage-enphase-iq-battery-5p
+
+Key Highlights:
+5.0 kWh usable energy capacity per unit
+Six embedded IQ8D-BAT microinverters
+3.84 kW continuous power
+Quiet, passive cooling with no moving parts
+Remote monitoring and control via the Enphase App
+15-year limited warranty (up to 6,000 cycles)
+Features:
+Model: Enphase IQ Battery 5P
+Limited Warranty: 15 years (up to 6,000 cycles)
+Energy Capacity: 5.0 kWh
+Continuous Power Rating: 3.84 kW
+Peak Output Power: 7.68 kW (3 sec) / 6.14 kW (10 sec)
+DC Round-Trip Efficiency: 96%
+AC Round-Trip Efficiency: 90%*
+Chemistry: Lithium Iron Phosphate (LFP)
+Weight: 174 lbs (79 kg)
+Dimensions: 38.6" H x 21.7" W x 7.4" D
+* AC to the battery to AC at 50% power rating.
+For backup capability, the IQ Battery 5P works with the Enphase Energy System when paired with the IQ System Controller 3/3G.
+Benefits of Choosing the Enphase 5P
+Reliable Power Options:
+Supports essential home loads with continuous and peak output ratings.
+Scalable Design:
+Easily add units as energy needs grow.
+Safety and Durability:
+LFP chemistry and passive cooling enhance safety and long-term performance.
+Smart Energy Control:
+Monitor and manage usage with the Enphase App.
+Peace of Mind Warranty:
+Backed by a 15-year limited warranty covering up to 6,000 cycles.
+Review the Enphase 5P Battery Data Sheet
+Energy savings, bill reductions, and performance outcomes vary based on load profile, solar production, utility rate structure (e.g., time-of-use rates), battery sizing, and site-specific conditions. The information presented is for educational purposes and is not a guarantee of specific performance or savings
+
+--------------------------------------------------------------------------------
+
+URL: https://us.sunpower.com/home-builders
+
+Solar Contractor for Single-Family Homes and Communities
+With the world increasingly moving towards all-electric homes and vehicles, maximizing power generation and roof space is critical for any solar investment. Our premium rooftop solar systems feature highly efficient monocrystalline solar panels. A battery storage system can be added to create an efficient home solar + storage solution.
+
+--------------------------------------------------------------------------------
+
+URL: https://us.sunpower.com/home-builders/multi-family-builders
+
+How much of a community’s electrical consumption can be offset by solar?
+Given enough space for solar panels, it’s possible to size a system large enough to offset more than 100% of a multifamily building’s estimated energy consumption. While some multifamily developers choose to size a system just large enough to meet minimum requirements, many opt for a more comprehensive sizing strategy to achieve greater returns on the initial investment and lock in low-priced energy for the future.
+
+--------------------------------------------------------------------------------
+
+URL: https://us.sunpower.com/careers
+
+Golden Rule
+Treat every customer the way you would want your family to be treated.
+SunPower is filled with individuals who want to change the world, and we talk about it every single day. From our CEO to our expert solar installers, our team of over 900-strong across the U.S. and the Philippines is passionate, positive and all-in on our mission to powering a brighter future.
+These commandments govern everything we do and guide us in how we show up for work each and every day.
+Treat every customer the way you would want your family to be treated.
+We believe a great workplace starts with a culture that supports, values, and uplifts its people. Our commitment is to create a workplace that supports your success—because when you thrive, so does SunPower!
+Most full-time employees are eligible for Health, Dental, Vision, & Life and Accident insurance, an HSA Savings Account, PTO, and the opportunity to receive incentive options.
+Free Lunch Friday
+Stocked Breakroom
+On-site Fitness Center
+Activities: Ping-Pong, Pool, Shuffleboard, Cornhole, and more
+Company parties
+In return for their hard work and dedication to SunPower’s core values and goals, we empower our employees with competitive pay, ample paid time off and a collection of world-class benefits so they can live, learn and grow in their lives and careers.
+
+--------------------------------------------------------------------------------

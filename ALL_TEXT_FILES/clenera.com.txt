@@ -1,0 +1,1422 @@
+ROOT: https://clenera.com/
+SCRAPED_AT_UTC: 2026-02-11T19:55:53.581342Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://clenera.com/
+
+The numbers tell a powerful story—and each is only the beginning of the possibility in a connected future of clean energy.
+1.9
+gigawatTs in operation & construction
+Build Better. Give More.
+Since 2013, Clēnera has delivered reliable, safe, clean energy to communities across America. By building better projects, we are improving local economies and empowering more and better investments where our projects operate. We are dedicated to build better so we can give more. With best-in-class projects, we are able to multiply our positive results beyond producing renewable energy to make generational improvements for our world.
+Our approach—combining an innovative and collaborative project process with long-term ownership—has created a truly end-to-end utility-scale development solution with an industry-leading project development record. Our partnership with Enlight accelerates our growth, providing additional scale and financial strength.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects
+
+projects
+News
+ABOUT
+APPROACH
+FOUNDATIONS
+ABOUT ENLIGHT
+CAREERS
+projects
+News
+About
+APPROACH
+Foundations
+ABOUT ENLIGHT
+CAREERS
+Filter by status:
+In Development
+Operational
+Under Construction
+Previously Developed/Managed
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+Coachella
+California
+MW-DC Total
+9
+Battery (MWh)
+-117.20053
+33.58220
+Previously Developed/Managed
+Coachella
+California
+9
+MW-DC Total
+9
+Battery (MWh)
+4
+Crimson Orchard
+Idaho
+MW-DC Total
+120
+Battery (MWh)
+400
+-115.751056
+43.178806
+In Development
+Crimson Orchard
+Idaho
+120
+MW-DC Total
+120
+Battery (MWh)
+400
+1
+Arroyo
+New Mexico
+MW-DC Total
+250
+Battery (MWh)
+300
+-107.5631
+35.9703
+Previously Developed/Managed
+Arroyo
+New Mexico
+250
+MW-DC Total
+250
+Battery (MWh)
+300
+4
+Buckley
+Oregon
+MW-DC Total
+960
+Battery (MWh)
+1600
+-120.8984
+45.2337
+In Development
+Buckley
+Oregon
+960
+MW-DC Total
+960
+Battery (MWh)
+1600
+1
+Atrisco
+New Mexico
+MW-DC Total
+364
+Battery (MWh)
+1200
+-106.912536
+35.197003
+Operational
+Atrisco
+New Mexico
+364
+MW-DC Total
+364
+Battery (MWh)
+1200
+2
+Rustic Hills I & II
+Indiana
+MW-DC Total
+256
+Battery (MWh)
+-87.3059
+37.971753
+In Development
+Rustic Hills I & II
+Indiana
+256
+MW-DC Total
+256
+Battery (MWh)
+1
+Roadrunner
+Arizona
+MW-DC Total
+290
+Battery (MWh)
+940
+-109.922922
+32.10092
+Under Construction
+Roadrunner
+Arizona
+290
+MW-DC Total
+290
+Battery (MWh)
+940
+3
+Quail Ranch
+New Mexico
+MW-DC Total
+128
+Battery (MWh)
+400
+-106.856656
+35.19845
+Under Construction
+Quail Ranch
+New Mexico
+128
+MW-DC Total
+128
+Battery (MWh)
+400
+3
+Gemstone
+Michigan
+MW-DC Total
+184
+Battery (MWh)
+-86.048796
+41.896754
+In Development
+Gemstone
+Michigan
+184
+MW-DC Total
+184
+Battery (MWh)
+1
+Country Acres Clean Power
+California
+MW-DC Total
+403
+Battery (MWh)
+688
+-121.421267
+38.779089
+Under Construction
+Country Acres Clean Power
+California
+403
+MW-DC Total
+403
+Battery (MWh)
+688
+3
+Coggon
+Iowa
+MW-DC Total
+128
+Battery (MWh)
+-91.572661
+42.290594
+In Development
+Coggon
+Iowa
+128
+MW-DC Total
+128
+Battery (MWh)
+1
+CO Bar Solar Complex
+Arizona
+MW-DC Total
+1211
+Battery (MWh)
+4000
+-111.865461
+35.626228
+In Development
+CO Bar Solar Complex
+Arizona
+1211
+MW-DC Total
+1211
+Battery (MWh)
+4000
+1
+Snowflake Solar Complex
+Arizona
+MW-DC Total
+1250
+Battery (MWh)
+4000
+-110.08817
+35.06202
+Under Construction
+Snowflake Solar Complex
+Arizona
+1250
+MW-DC Total
+1250
+Battery (MWh)
+4000
+3
+Blackwater
+Virginia
+MW-DC Total
+600
+Battery (MWh)
+0
+-77.07429963
+36.91756181
+In Development
+Blackwater
+Virginia
+600
+MW-DC Total
+600
+Battery (MWh)
+0
+1
+Apex
+Montana
+MW-DC Total
+105
+Battery (MWh)
+-112.63962204771497
+45.21646332536237
+Operational
+Apex
+Montana
+105
+MW-DC Total
+105
+Battery (MWh)
+2
+Wapello
+Iowa
+MW-DC Total
+128
+Battery (MWh)
+-91.18627859744512
+41.1797677928961
+Previously Developed/Managed
+Wapello
+Iowa
+128
+MW-DC Total
+128
+Battery (MWh)
+4
+Wright
+California
+MW-DC Total
+239
+Battery (MWh)
+-120.9540
+37.0136
+Previously Developed/Managed
+Wright
+California
+239
+MW-DC Total
+239
+Battery (MWh)
+4
+Sweetwater
+Wyoming
+MW-DC Total
+98
+Battery (MWh)
+-109.67919
+41.62839
+Previously Developed/Managed
+Sweetwater
+Wyoming
+98
+MW-DC Total
+98
+Battery (MWh)
+4
+Three Peaks
+Utah
+MW-DC Total
+108
+Battery (MWh)
+-113.13708
+37.82709
+Previously Developed/Managed
+Three Peaks
+Utah
+108
+MW-DC Total
+108
+Battery (MWh)
+4
+Techren Solar Complex
+Nevada
+MW-DC Total
+514
+Battery (MWh)
+-114.971923
+35.852054
+Previously Developed/Managed
+Techren Solar Complex
+Nevada
+514
+MW-DC Total
+514
+Battery (MWh)
+4
+IMS
+Indiana
+MW-DC Total
+11
+Battery (MWh)
+-86.2229757
+39.79947
+Previously Developed/Managed
+IMS
+Indiana
+11
+MW-DC Total
+11
+Battery (MWh)
+4
+Grand View
+Idaho
+MW-DC Total
+108
+Battery (MWh)
+-116.0222
+43.01988
+Previously Developed/Managed
+Grand View
+Idaho
+108
+MW-DC Total
+108
+Battery (MWh)
+4
+Lancaster
+California
+MW-DC Total
+4
+Battery (MWh)
+-118.0886
+34.6652
+Previously Developed/Managed
+Lancaster
+California
+4
+MW-DC Total
+4
+Battery (MWh)
+4
+Five Points
+California
+MW-DC Total
+84
+Battery (MWh)
+-120.2407
+36.39103
+Previously Developed/Managed
+Five Points
+California
+84
+MW-DC Total
+84
+Battery (MWh)
+4
+Frontier
+California
+MW-DC Total
+28
+Battery (MWh)
+-121.1479
+37.36779
+Previously Developed/Managed
+Frontier
+California
+28
+MW-DC Total
+28
+Battery (MWh)
+4
+Westlands
+California
+MW-DC Total
+23
+Battery (MWh)
+-120.142
+36.12772
+Previously Developed/Managed
+Westlands
+California
+23
+MW-DC Total
+23
+Battery (MWh)
+4
+Giffen
+California
+MW-DC Total
+28
+Battery (MWh)
+-120.33878
+36.55134
+Previously Developed/Managed
+Giffen
+California
+28
+MW-DC Total
+28
+Battery (MWh)
+4
+Sunray 2&3
+California
+MW-DC Total
+44
+Battery (MWh)
+-116.82762
+34.86335
+Previously Developed/Managed
+Sunray 2&3
+California
+44
+MW-DC Total
+44
+Battery (MWh)
+4
+Kettleman
+California
+MW-DC Total
+27
+Battery (MWh)
+-119.9454
+36.0593
+Previously Developed/Managed
+Kettleman
+California
+27
+MW-DC Total
+27
+Battery (MWh)
+4
+Avalon II
+Arizona
+MW-DC Total
+21
+Battery (MWh)
+-110.95914
+32.04369
+Previously Developed/Managed
+Avalon II
+Arizona
+21
+MW-DC Total
+21
+Battery (MWh)
+4
+Coachella
+California
+MW-DC Total
+9
+Battery Size
+-117.20053
+33.58220
+Previously Developed/Managed
+Coachella
+California
+9
+MW-DC Total
+9
+Battery (MWh)
+Crimson Orchard
+Idaho
+MW-DC Total
+120
+Battery Size
+400
+-115.751056
+43.178806
+In Development
+Crimson Orchard
+Idaho
+120
+MW-DC Total
+120
+Battery (MWh)
+400
+Arroyo
+New Mexico
+MW-DC Total
+250
+Battery Size
+300
+-107.5631
+35.9703
+Previously Developed/Managed
+Arroyo
+New Mexico
+250
+MW-DC Total
+250
+Battery (MWh)
+300
+Buckley
+Oregon
+MW-DC Total
+960
+Battery Size
+1600
+-120.8984
+45.2337
+In Development
+Buckley
+Oregon
+960
+MW-DC Total
+960
+Battery (MWh)
+1600
+Atrisco
+New Mexico
+MW-DC Total
+364
+Battery Size
+1200
+-106.912536
+35.197003
+Operational
+Atrisco
+New Mexico
+364
+MW-DC Total
+364
+Battery (MWh)
+1200
+Rustic Hills I & II
+Indiana
+MW-DC Total
+256
+Battery Size
+-87.3059
+37.971753
+In Development
+Rustic Hills I & II
+Indiana
+256
+MW-DC Total
+256
+Battery (MWh)
+1
+Next
+Coachella
+California
+MW-DC Total
+9
+Battery Size
+-117.20053
+33.58220
+Previously Developed/Managed
+Coachella
+California
+9
+MW-DC Total
+9
+Battery (MWh)
+Crimson Orchard
+Idaho
+MW-DC Total
+120
+Battery Size
+400
+-115.751056
+43.178806
+In Development
+Crimson Orchard
+Idaho
+120
+MW-DC Total
+120
+Battery (MWh)
+400
+Arroyo
+New Mexico
+MW-DC Total
+250
+Battery Size
+300
+-107.5631
+35.9703
+Previously Developed/Managed
+Arroyo
+New Mexico
+250
+MW-DC Total
+250
+Battery (MWh)
+300
+Buckley
+Oregon
+MW-DC Total
+960
+Battery Size
+1600
+-120.8984
+45.2337
+In Development
+Buckley
+Oregon
+960
+MW-DC Total
+960
+Battery (MWh)
+1600
+1
+Next
+Coachella
+California
+9
+MW-DC Total
+9
+Battery Size
+-117.20053
+33.58220
+Coachella
+California
+9
+MW-DC Total
+9
+Battery (MWh)
+Crimson Orchard
+Idaho
+120
+MW-DC Total
+120
+Battery Size
+400
+-115.751056
+43.178806
+Crimson Orchard
+Idaho
+120
+MW-DC Total
+120
+Battery (MWh)
+400
+Arroyo
+New Mexico
+250
+MW-DC Total
+250
+Battery Size
+300
+-107.5631
+35.9703
+Arroyo
+New Mexico
+250
+MW-DC Total
+250
+Battery (MWh)
+300
+Buckley
+Oregon
+960
+MW-DC Total
+960
+Battery Size
+1600
+-120.8984
+45.2337
+Buckley
+Oregon
+960
+MW-DC Total
+960
+Battery (MWh)
+1600
+Atrisco
+New Mexico
+364
+MW-DC Total
+364
+Battery Size
+1200
+-106.912536
+35.197003
+Atrisco
+New Mexico
+364
+MW-DC Total
+364
+Battery (MWh)
+1200
+Rustic Hills I & II
+Indiana
+256
+MW-DC Total
+256
+Battery Size
+-87.3059
+37.971753
+Rustic Hills I & II
+Indiana
+256
+MW-DC Total
+256
+Battery (MWh)
+Roadrunner
+Arizona
+290
+MW-DC Total
+290
+Battery Size
+940
+-109.922922
+32.10092
+Roadrunner
+Arizona
+290
+MW-DC Total
+290
+Battery (MWh)
+940
+Quail Ranch
+New Mexico
+128
+MW-DC Total
+128
+Battery Size
+400
+-106.856656
+35.19845
+Quail Ranch
+New Mexico
+128
+MW-DC Total
+128
+Battery (MWh)
+400
+Gemstone
+Michigan
+184
+MW-DC Total
+184
+Battery Size
+-86.048796
+41.896754
+Gemstone
+Michigan
+184
+MW-DC Total
+184
+Battery (MWh)
+Country Acres Clean Power
+California
+403
+MW-DC Total
+403
+Battery Size
+688
+-121.421267
+38.779089
+Country Acres Clean Power
+California
+403
+MW-DC Total
+403
+Battery (MWh)
+688
+Coggon
+Iowa
+128
+MW-DC Total
+128
+Battery Size
+-91.572661
+42.290594
+Coggon
+Iowa
+128
+MW-DC Total
+128
+Battery (MWh)
+CO Bar Solar Complex
+Arizona
+1211
+MW-DC Total
+1211
+Battery Size
+4000
+-111.865461
+35.626228
+CO Bar Solar Complex
+Arizona
+1211
+MW-DC Total
+1211
+Battery (MWh)
+4000
+Snowflake Solar Complex
+Arizona
+1250
+MW-DC Total
+1250
+Battery Size
+4000
+-110.08817
+35.06202
+Snowflake Solar Complex
+Arizona
+1250
+MW-DC Total
+1250
+Battery (MWh)
+4000
+Blackwater
+Virginia
+600
+MW-DC Total
+600
+Battery Size
+0
+-77.07429963
+36.91756181
+Blackwater
+Virginia
+600
+MW-DC Total
+600
+Battery (MWh)
+0
+Apex
+Montana
+105
+MW-DC Total
+105
+Battery Size
+-112.63962204771497
+45.21646332536237
+Apex
+Montana
+105
+MW-DC Total
+105
+Battery (MWh)
+Wapello
+Iowa
+128
+MW-DC Total
+128
+Battery Size
+-91.18627859744512
+41.1797677928961
+Wapello
+Iowa
+128
+MW-DC Total
+128
+Battery (MWh)
+Wright
+California
+239
+MW-DC Total
+239
+Battery Size
+-120.9540
+37.0136
+Wright
+California
+239
+MW-DC Total
+239
+Battery (MWh)
+Sweetwater
+Wyoming
+98
+MW-DC Total
+98
+Battery Size
+-109.67919
+41.62839
+Sweetwater
+Wyoming
+98
+MW-DC Total
+98
+Battery (MWh)
+Three Peaks
+Utah
+108
+MW-DC Total
+108
+Battery Size
+-113.13708
+37.82709
+Three Peaks
+Utah
+108
+MW-DC Total
+108
+Battery (MWh)
+Techren Solar Complex
+Nevada
+514
+MW-DC Total
+514
+Battery Size
+-114.971923
+35.852054
+Techren Solar Complex
+Nevada
+514
+MW-DC Total
+514
+Battery (MWh)
+IMS
+Indiana
+11
+MW-DC Total
+11
+Battery Size
+-86.2229757
+39.79947
+IMS
+Indiana
+11
+MW-DC Total
+11
+Battery (MWh)
+Grand View
+Idaho
+108
+MW-DC Total
+108
+Battery Size
+-116.0222
+43.01988
+Grand View
+Idaho
+108
+MW-DC Total
+108
+Battery (MWh)
+Lancaster
+California
+4
+MW-DC Total
+4
+Battery Size
+-118.0886
+34.6652
+Lancaster
+California
+4
+MW-DC Total
+4
+Battery (MWh)
+Five Points
+California
+84
+MW-DC Total
+84
+Battery Size
+-120.2407
+36.39103
+Five Points
+California
+84
+MW-DC Total
+84
+Battery (MWh)
+Frontier
+California
+28
+MW-DC Total
+28
+Battery Size
+-121.1479
+37.36779
+Frontier
+California
+28
+MW-DC Total
+28
+Battery (MWh)
+Westlands
+California
+23
+MW-DC Total
+23
+Battery Size
+-120.142
+36.12772
+Westlands
+California
+23
+MW-DC Total
+23
+Battery (MWh)
+Giffen
+California
+28
+MW-DC Total
+28
+Battery Size
+-120.33878
+36.55134
+Giffen
+California
+28
+MW-DC Total
+28
+Battery (MWh)
+Sunray 2&3
+California
+44
+MW-DC Total
+44
+Battery Size
+-116.82762
+34.86335
+Sunray 2&3
+California
+44
+MW-DC Total
+44
+Battery (MWh)
+Kettleman
+California
+27
+MW-DC Total
+27
+Battery Size
+-119.9454
+36.0593
+Kettleman
+California
+27
+MW-DC Total
+27
+Battery (MWh)
+Avalon II
+Arizona
+21
+MW-DC Total
+21
+Battery Size
+-110.95914
+32.04369
+Avalon II
+Arizona
+21
+MW-DC Total
+21
+Battery (MWh)
+projects
+News
+ABOUT
+APPROACH
+FOUNDATIONS
+ABOUT ENLIGHT
+CAREERS
+projects
+News
+About
+APPROACH
+Foundations
+ABOUT ENLIGHT
+CAREERS
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/avalon-ii
+
+This project was developed and previously managed by Clēnera. The purchaser of the clean energy produced by this solar farm is Tuscon Electric Power.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/kettleman
+
+This project was developed and previously managed by Clēnera. The purchaser of the clean energy this solar farm produced is the City of Palo Alto.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/sunray2-3
+
+This project was developed and was previously under management by Clēnera. The purchasers of the clean energy produced by this solar farm are Pacific Gas & Electric and Southern California Edison.
+FAQ
+No items found.
+CONTACT
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/giffen
+
+This projects was developed and was previously managed by Clēnera. The purchaser of the clean energy this solar farm produces is the Regents of the University of California.
+FAQ
+No items found.
+CONTACT
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/westlands
+
+This projects was developed and previously managed by Clēnera. The purchaser of the clean energy this solar farm produces is Pacific Gas & Electric.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/frontier
+
+This project was previously developed by Clēnera. The purchaser of the clean energy this farm produces is the City of Palo Alto.
+This project enhances its land use by incorporating sheep grazing for vegetative management. Not only does this provide companioned work (raising sheep and maintaining the solar farm) the sheep grazing enhances the soil health.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/fivepoints
+
+This solar farm was developed and previously managed by Clēnera. The purchaser of the clean energy it produces is the Regents of the University of California.
+FAQ
+No items found.
+CONTACT
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/lancaster
+
+This project was developed and previously managed by Clēnera. The purchaser of the clean energy this solar farm produces is Southern California Edison.
+FAQ
+No items found.
+CONTACT
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/grandview
+
+This project was developed and managed by Clēnera until May 1, 2024. The clean energy produced by this solar farm is being purchased by Idaho Power.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/ims
+
+This project was developed and previously managed by Clēnera. The purchaser of the clean power this solar farm produces is Indianapolis Power & Light.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/techren
+
+projects
+News
+ABOUT
+APPROACH
+FOUNDATIONS
+ABOUT ENLIGHT
+CAREERS
+projects
+News
+About
+APPROACH
+Foundations
+ABOUT ENLIGHT
+CAREERS
+overview
+ECONOMICS
+DESIGN
+FAQ
+CONTACT
+EXPLORE MORE PROJECTS >
+Techren Solar Complex
+Nevada
+MW-DC Total
+514
+Battery (MWh)
+Commercial Operation
+3/11/2019
+Contact Us
+Overview
+The Techren Solar Complex includes five separate projects developed and managed by Clēnera:
+Techren I - 132 MWdc
+Techren II - 251 MWdc
+Techren III - 33 MWdc
+Techren IV - 33 MWdc
+Techren V - 65 MWdc
+FAQ
+No items found.
+CONTACT
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/threepeaks
+
+This project was developed by Clēnera and operations were managed until May 1, 2024. The clean power it produces is sold to PacifiCorp.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/sweetwater
+
+The Sweetwater Solar Farm began commercial operations in the fourth quarter of 2018. The clean energy it produces is purchased by Rocky Mountain Power.
+FAQ
+No items found.
+CONTACT
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/wright
+
+This project was developed and is under Clēnera management in operations. The purchaser of the clean energy this farm produces is Penninsula Clean Energy.
+FAQ
+No items found.
+CONTACT
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/wapello
+
+The Wapello Solar Farm began its commercial operation in the first quarter of 2021. The clean energy it produces is sold to the Central Iowa Power Cooperative.
+FAQ
+No items found.
+CONTACT
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/apex
+
+This project is Clēnera's first operational project in Montana. The clean power produced from this site is sold to Northwestern Energy. The ribbon cutting celebration was joined by Governor Greg Gianforte, local elected officials, and the project team.
+This solar farm uses sheep and llamas to help with vegetation management. Clēnera has an agreement with a local rancher to bring in some sheep during the spring lambing season and they are guarded by llamas. The sheep get to raise the lambs within the farm's fences while improving the overall soil conditions.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/blackwater
+
+This project is currently in early stage design. We have created a dedicated website with more information at blackwater-solar.com.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/snowflakesolarcomplex
+
+This project is currently in development. There is no major activity on site currently. We anticipate building out this solar complex several phases. The first phase is planned to include 600 MWdc solar power and 1900 MWh battery storage with commercial operations beginning in 2027. The second phase is planned to include 650 MWdc solar power and 2100 MWh battery storage to be completed at a later date.
+You can view the information about the gen-tie CEC and provide comments by clicking this link.
+A copy of the CEC Application for the Snowflake Solar Interconnection Project can be found at this link, and the following locations:
+A public hearing regarding the CEC Application has been scheduled before the ACC Line Siting Committee on Monday December 9 beginning at 1:00 p.m. and will continue, as necessary, on Tuesday December 10, 2024, beginning at 9:00 a.m. and again each subsequent day through the completion of the hearing. A public comment session will be held starting at 5:30 p.m. on December 9. Members of the public or other stakeholders are invited to attend the hearing in person or virtually.
+The hearing will be held at the DoubleTree by Hilton Flagstaff, in the Coconino/Canyon Room, located at 1175 West Route 66, Flagstaff, Arizona. Members of the public can also participate virtually using the resources below:
+A tour of the proposed interconnection line is scheduled for December 10, 2024 at 9:00 a.m. The tour itinerary and route map are available by clicking this link.
+As part of the Certificate of Environmental Clearance process for the gen-tie transmission line that will connect the power generated from Snowflake to the electrical grid, Clēnera held a public open house on August 15 and a public webinar on September 18, 2024.
+You can view the information about the gen-tie CEC and provide comments by clicking this link.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/co-bar-solar-complex
+
+This project is currently in development. There is no major activity on site currently.
+The CO Bar Solar Complex has 3 smaller projects. These include:
+The CO Bar Solar Complex consists of photovoltaic (PV) generation and battery energy storage solution (BESS) elements. With both generation and storage on-site, the project will provide clean, low-cost energy on-demand and store excess power for use when the solar panels are not generating as much energy.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/coggon
+
+projects
+News
+ABOUT
+APPROACH
+FOUNDATIONS
+ABOUT ENLIGHT
+CAREERS
+projects
+News
+About
+APPROACH
+Foundations
+ABOUT ENLIGHT
+CAREERS
+overview
+ECONOMICS
+DESIGN
+FAQ
+CONTACT
+EXPLORE MORE PROJECTS >
+Coggon
+Iowa
+MW-DC Total
+128
+Battery (MWh)
+Commercial Operation
+2026
+Contact Us
+Overview
+This project is currently in development. There is no major activity on site currently.
+FAQ
+No items found.
+CONTACT
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/countryacres
+
+This project is a partnership with the Sacramento Municipal Utility District (SMUD). Construction is slated to begin in Fall 2024. The project will feature both photovoltaic (PV) power generation and battery energy storage solutions (BESS). This ensures low-cost, emission-free energy is generated and stored for use when it is needed, regardless of weather conditions.
+This timeline is an estimate and subject to change. For specific questions, contact the project team.
+Will there be other activities on this project besides generating solar power?
+Yes. Herd animals, likely sheep, will also be used for vegetation management. The vegetative mix will include native herbaceous hedgerows, grasses, clover, and California poppy to promote pollinator-friendly habitat.
+Who is receiving the energy produced at this project?
+Clēnera has entered into a power purchase agreement with the Sacramento Municipal Utility District (SMUD) to buy the clean energy produced at this solar farm.
+Who owns the land for this project?
+Clēnera is leasing the land for this project from private property owners and SMUD.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/gemstone
+
+projects
+News
+ABOUT
+APPROACH
+FOUNDATIONS
+ABOUT ENLIGHT
+CAREERS
+projects
+News
+About
+APPROACH
+Foundations
+ABOUT ENLIGHT
+CAREERS
+overview
+ECONOMICS
+DESIGN
+FAQ
+CONTACT
+EXPLORE MORE PROJECTS >
+Gemstone
+Michigan
+MW-DC Total
+184
+Battery (MWh)
+Commercial Operation
+2027
+Contact Us
+Overview
+This project is in early construction. There is no major activity on site currently.
+FAQ
+No items found.
+CONTACT
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+
+--------------------------------------------------------------------------------
+
+URL: https://clenera.com/projects/quailranch
+
+This project is a companion project to Clēnera's Atrisco project near Rio Rancho, NM. Expanding the footprint of the existing solar farm reduces the time for development. It also removes tensions that can come from new solar farms on locations that previously did not have one.
+
+--------------------------------------------------------------------------------

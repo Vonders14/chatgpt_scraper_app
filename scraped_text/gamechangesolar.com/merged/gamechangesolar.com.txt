@@ -1,0 +1,1477 @@
+ROOT: https://gamechangesolar.com/
+SCRAPED_AT_UTC: 2026-02-11T20:06:37.235620Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://gamechangesolar.com/
+
+top of page
+About us
+At GameChange Solar, we're passionate about driving the global transition to clean, renewable energy. We do our part by providing systems that combine fast installation, bankable quality, and unbeatable value through innovative design, superior engineering, and high-volume manufacturing.
+Repowering
+The
+Planet
+Faster
+Installation
+Superior Bifacial Performance
+Higher Power Production
+TRACKER SYSTEMS
+billion+ oil gallons will be avoided over 25yrs by modules on GameChange systems
+GENIUS TRACKER
+Streamlined Construction
+Stronger
+Steel
+Superior Terrain Navigation
+FIXED TILT SYSTEMS
+billion+ oil gallons will be avoided over 25yrs by modules on GameChange systems
+MAXSPAN
+Products & Services
+At GameChange Solar, we work closely with our customers as a true end-to-end partner, offering tailored solutions that adapt to diverse project requirements across hardware, software, and terrain. With a focus on regional localization, we ensure each project is optimized for success in any region.
+Latest News
+BLOG POST
+9 Things Impacting Utility-Scale Solar in 2026 — and How EPCs and Developers Can Prepare for Them
+January 8, 2026
+PRESS RELEASE
+GameChange Solar Leads Research Upending the Current Understanding of Hail Storm Mitigation Strategies for Trackers
+January 8, 2026
+Explore our latest news & company updates
+Innovative Solar Racking Solutions
+Leading the Repowering of the Planet with Innovative Solar Trackers and Fixed Tilt Mounting Solutions
+53
+GW+ of GameChange
+Solar systems
+92.5
+million+ solar modules on GameChange Solar systems
+1.3
+billion+ co2 tons will be avoided over 25yrs by modules on GameChange systems
+116.7
+billion+ gallons of gasoline will be avoided over 25yrs by modules on GameChange systems
+7.3
+million+ homes can be powered by the energy produced on GameChange systems
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/technical-services
+
+top of page
+Technical Services
+GameChange Solar's Technical Services provide comprehensive support, including clear and detailed project documentation, optimized foundation designs, and advanced topographical analysis to reduce costs and enhance durability. Our Production Delivery System (PDS) streamlines material coordination and delivery, keeping everything on track and transparent. With advanced insights into power production, bifacial gains, and hail risk, we help you maximize energy output and protect your investment. Our services provide the expertise and tools you need for a successful, cost-effective solar project.
+In-house Geotechnical Services
+Geotechnical services offer critical support by providing optimized foundation design and comprehensive pull-testing capabilities. These services enhance project quality by ensuring that the foundation design is both efficient and resilient, while the pull testing ensures that the foundations meet required standards and perform as expected under operational conditions.
+Optimized Foundation Design:
+We provide expert consultation and analysis, from detailed geotechnical corrosion reports to complete pile design, ensuring robust and durable foundation solutions.
+-
+Geotechnical Corrosion Report
+-
+Foundation Design
+Topographical Analysis with Toposmart
+Geotechnical services significantly enhance project efficiency and cost-effectiveness through advanced topographical analysis. TopoSmart Analysis from GameChange Solar (GCS) uses proprietary algorithms to optimize tracker elevations and slopes, minimizing grading and steel costs, and lowering pile costs for flood-prone areas.
+Topographic Analysis:
+Unlock the power of GameChange Solar's in-house TopoSmart Analysis to achieve optimal pile lengths and grading quantities.
+Our proprietary algorithm meticulously models tracker elevations and slopes, analyzing each post individually to determine the need for additional length or grading. By precisely adjusting piles in challenging terrains, we reduce overall steel and grading costs, delivering a more efficient and cost-effective solution for your project.
+Flood Mitigation:
+Safeguard against flood risks with reliable and cost-efficient flood mitigation
+TopoSmart can integrate flood data for your site into the tracker modeling, analyzing the module edge clearance during flood events, also known as the freeboard. to maintain module edge clearance during flood events. Additionally, our flood sensors offer an extra layer of protection, further reducing pile costs on flood-prone sites.
+Pull Testing:
+Our team manages pull testing procedures, including coordination and mobilization, to verify foundation performance and stability
+-
+Pull test procedures
+-
+Coordination and mobilization
+Project & Material Logistics
+Experience seamless project and material coordination with GameChange Solar's integrated tools.
+PDS: Project Delivery
+Our Production Delivery System (PDS) is a true game-changer, offering the industry's most comprehensive delivery tracking solution. With complete transparency and a single point of truth for all production and material coordination, PDS ensures everyone stays informed and connected.
+BOM by Area:
+Simplified Installation and Material Handling
+Our Bill of Materials (BOM) by Area streamlines installation and material handling by breaking down components per array. Upon receiving array boundaries and completing the Bill of Materials, component quantities are easily segmented per array for efficient management.
+Material and Worker Management
+BOM by Array within our Production Delivery System (PDS) enhances on-site efficiency by clearly displaying material distribution and delivery timing. It simplifies logistics for large projects with multiple laydown yards, ensuring materials are delivered to the right locations. Additionally, it facilitates worker mobilization by showing precisely what materials are needed and their arrival status.
+Scheduled Deliveries
+Align your production and delivery schedule with your material installation timeline. By providing the build sequence per array at the time of production initiation, we can synchronize production and deliveries to match your installation needs.
+Project Technical Deliverables
+Project technical deliverables provide substantial value by offering comprehensive documentation that ensures clarity and precision throughout the project lifecycle. These deliverables collectively contribute to the project's success by enabling thorough planning, execution, and management.
+Detailed Project Layouts:
+Detailed project layouts specify component locations, sizing, and installation steps, facilitating efficient project planning and execution.
+-
+Table and Component Locations
+-
+Isolated Site Views
+-
+Refusal Instructions
+-
+Project-Specific Installation Steps
+Calculation Packages:
+A comprehensive document showing project-specific calculations for all structural components that help ensure the project's structural integrity and reliability.
+-
+Summary of Structural Design
+-
+Detailed Sample Calculations
+-
+Foundation Analysis
+Bill of Materials and Part Drawings:
+The Bill of Materials and part drawings enhance material management and component identification, promoting streamlined operations and reducing errors.
+-
+Part Drawings
+-
+Bill of materials
+Cut/Fill Plans:
+The Bill of Materials and part drawings enhance material management and component identification, promoting streamlined operations and reducing errors.
+Our system can export preliminary plans as well as detailed grading plans with precise cut-and-fill quantities, providing essential recommendations for optimized grading. This invaluable information assists in preliminary design phases to estimate project grading costs.
+Advanced Deliverables
+Unlock the full potential of your Genius Tracker system. Our advanced modeling and analyses offer valuable insights into your solar project's energy production and safety.
+Quantified Power Production:
+Project-specific studies to estimate expected decreased power losses due to advanced algorithms PowerBoost, WeatherSmart and SmartStow
+Bifacial Gains:
+Project-specific study to estimate bifacial shading factor that integrates location, albedo, and system dimensions to simulate the project-specific rear-side radiance using ray trace modeling.
+GameChange Solar successfully completed a third-party validation of its bifacial photovoltaic (PV) modeling performance with Enertis Applus+.
+Financial Hail Risk Analysis from VDE Americas:
+Solar project stakeholders can limit catastrophic loss events with better technical literacy, due diligence, and risk mitigation practices. Hail Risk Analysis from VDE Americas offers project-specific evaluations to quantify the reduction in Probable Maximum Loss (PML) and Average Annual Loss (AML) during hail events. These insights empower stakeholders to make informed decisions on hail risk and insurance costs.
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/products-and-services
+
+top of page
+Global Innovation Leader for Trackers, Fixed-tilt and Balance of Systems (BOS)
+GameChange Solar is a global innovation leader specializing in high performance trackers, racking, and BOS systems for the renewable energy sector. Taking a customer-first approach, we deliver strategic impact that creates confidence and ensures perfect alignment with your production goals. Committed to exceeding industry standards, we prioritize reliability, quality, and performance to ensure installations last decades.
+Tracker Systems
+Genius Tracker TF™
+This terrain-following tracker uses the torque tube’s natural flexibility to reduce grading and steel costs on challenging sites. With industry-leading 1.7° slope tolerance, it allows fast, accurate installation on uneven ground without compromising performance.
+Single-Axis Terrain Following Tracker
+Fixed Tilt Systems
+Fueling Domestic Supply & Jobs - Powering Prosperity, Igniting Opportunities
+We stand at the forefront of driving a robust domestic content strategy that significantly influences the U.S. metal sector, fortifies renewable energy generation, and bolsters American job markets.
+GameChange Solar leverages its 35GW of manufacturing capacity to deliver cutting-edge solar tracker systems comprising 70% domestic content, with the flexibility to increase to over 85% upon request. We go beyond mere promises, offering multi-year capacity commitments, ensuring stability and reliability for our partners.
+Our Services
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/about
+
+top of page
+Global Innovation Leader for Trackers, Fixed-tilt and Balance of Systems (BOS)
+GameChange Solar is a global innovation leader specializing in high-performance trackers, racking, and BOS systems for the renewable energy sector. Taking a customer-first approach, we deliver strategic impact that creates confidence and ensures perfect alignment with your production goals. Committed to exceeding industry standards, we prioritize reliability, quality, and performance to ensure installations last decades.
+Our expert team is consistently delivering on cost efficiency paired with streamlined maintenance, ensuring the best levelized cost of energy for every project. As a full-service partner across hardware, software, and engineering design services, we collaborate with you to solve challenges and build solutions that go beyond industry quality and reliability standards. We are driving the transition to sustainable energy on a global scale.
+Our Impact by the Numbers:
+Repowering the planet.
+53
+GW+ of GameChange
+Solar systems delivered
+92.5
+million+ solar modules on GameChange Solar systems
+1.3
+billion CO2 tons offset over 25 years
+116.7
+billion+ gallons of gasoline will be avoided over 25yrs by modules on GameChange systems
+7.3
+million+ homes can be powered by the energy produced on GameChange systems
+Our Mission
+Delivering forward-leaning solutions that accelerate the renewable energy transition, our customer commitment exceeds expectations.
+Andrew Worden
+Executive Chairman, Founder, Visionary
+Phillip Vyhanek
+Chief Executive Officer
+Olga Filippova
+Chief Revenue Officer
+Mark Gibbens
+Chief Financial Officer
+Derick Botha
+Senior Advisor
+Angeli Churaman
+Chief Supply Chain Officer
+Scott Van Pelt
+Chief Engineer
+Vikas Bansal
+President & CEO, International
+Pam Ramirez
+Chief Contracts Officer
+Our experienced
+executive leadership team
+People Who are Passionate About Our Future.
+Our Vision
+Empowering a global energy transition through pioneering innovation.
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/career
+
+top of page
+Careers
+Join the GameChange Solar Team
+Join the GameChange Solar Team
+At GameChange Solar, we're passionate about driving the global transition to clean, renewable energy. Our innovative solar trackers and fixed-tilt solutions are helping to power a brighter future, and we’re looking for talented, driven individuals to join us on this exciting journey.
+Our Culture
+We believe that a strong team is the foundation of our success. At GameChange Solar, we foster a culture of innovation, collaboration, and continuous improvement. Our employees are encouraged to think big, challenge the status quo, and bring their unique perspectives to the table. We are committed to creating a work environment where everyone feels valued, respected, and empowered to achieve their full potential.
+Diversity and Inclusion
+Diversity is one of our greatest strengths. We are dedicated to building a diverse and inclusive workforce that reflects the global communities we serve. At GameChange Solar, we celebrate differences and believe that diverse backgrounds, experiences, and perspectives lead to greater innovation and better solutions for our customers. We are proud to be an equal-opportunity employer, and we are committed to creating an environment where everyone, regardless of race, gender, age, religion, or background, can thrive.
+Benefits and Perks
+We understand that our employees are our most valuable asset, and we are committed to providing a comprehensive benefits package that supports their well-being, both inside and outside of work. Our benefits include:
+Competitive Compensation: We offer market-competitive salaries and performance-based bonuses.
+Health and Wellness: Comprehensive health, dental, and vision insurance plans, plus wellness programs to keep you feeling your best.
+Retirement Plans: Secure your future with our 401(k) plan with company matching.
+Work-Life Balance: Generous paid time off, flexible work arrangements, and parental leave to help you maintain a healthy work-life balance.
+Professional Development: Opportunities for continuous learning, including training programs, workshops, and tuition reimbursement.
+Community Engagement: We encourage and support our employees in giving back to the community through volunteer opportunities and company-sponsored events.
+Current Job Openings
+Are you ready to make an impact? Explore our current job openings below and find the perfect opportunity to join the GameChange Solar family.
+Don't see a role that fits your skill set? We’re always looking for great talent. Send your resume and cover letter to careers, and we'll keep you in mind for future opportunities.
+Department
+Position
+Financial Analyst
+Corporate
+Human Resources Coordinator
+Corporate
+Solar Tracker Design Engineer
+Engineering
+Structural Engineer
+Engineering
+Supply Chain Coordinator
+Operations
+Project Manager
+Operations
+Business Development Manager
+Sales and Marketing
+Digital Marketing Specialist
+Sales and Marketing
+Technical Support Specialist
+Technical Services
+Field Service Technician
+Technical Services
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/contact
+
+top of page
+Contact Us
+For questions or additional information about GameChange Solar, please contact us using the form.
+Headquarters Office:
+230 East Avenue
+Suite 100
+Norwalk, CT 06855
+Phone: +1 (203) 769-3900
+Fax: +1 (646) 607-2223
+Email: info@gamechangesolar.com
+Research & Development Center:
+Brimfield, MA
+Training & Service Supercenters:
+Newcastle, Australia
+Bahia, Brazil
+Lakeland, FL
+Mesa, AZ
+Santiago, Chile
+Madrid, Spain
+Bogotá, Colombia
+Ahmedabad, India
+Cape Town, South Africa
+Global Locations:
+El Paso, TX
+Dublin, Ireland
+Madrid, Spain
+Suzhou, China
+Bangalore, India
+Dubai, UAE
+Buenos Aires, Argentina
+Johannesburg, South Africa
+Sydney, Australia
+São Paulo, Brazil
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/technical-support
+
+top of page
+Technical Support
+Our team is here to help!
+The more we know about your issue, the faster we can address it. Please fill out the form below. Once we receive your details, one of our experts will be in touch.
+Current Job Openings
+Are you ready to make an impact? Explore our current job openings below and find the perfect opportunity to join the GameChange Solar family.
+Department
+Position
+Financial Analyst
+Corporate
+Human Resources Coordinator
+Corporate
+Solar Tracker Design Engineer
+Engineering
+Structural Engineer
+Engineering
+Supply Chain Coordinator
+Operations
+Project Manager
+Operations
+Business Development Manager
+Sales and Marketing
+Digital Marketing Specialist
+Sales and Marketing
+Technical Support Specialist
+Technical Services
+Field Service Technician
+Technical Services
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/quote
+
+top of page
+Request a Quote
+Headquarters Office:
+230 East Avenue
+Suite 100
+Norwalk, CT 06855
+Phone: +1 (203) 769-3900
+Fax: +1 (646) 607-2223
+Email: info@gamechangesolar.com
+Research & Development Center:
+Brimfield, MA
+Training & Service Supercenters:
+Newcastle, Australia
+Bahia, Brazil
+Lakeland, FL
+Mesa, AZ
+Santiago, Chile
+Madrid, Spain
+Bogotá, Colombia
+Ahmedabad, India
+Cape Town, South Africa
+Global Locations:
+El Paso, TX
+Florence, SC
+Dublin, Ireland
+Madrid, Spain
+Suzhou, China
+São Paulo, Brazil
+Bangalore, India
+Dubai, UAE
+Buenos Aires, Argentina
+Johannesburg, South Africa
+Sydney, Australia
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/
+
+top of page
+About us
+At GameChange Solar, we're passionate about driving the global transition to clean, renewable energy. We do our part by providing systems that combine fast installation, bankable quality, and unbeatable value through innovative design, superior engineering, and high-volume manufacturing.
+Repowering
+The
+Planet
+Faster
+Installation
+Superior Bifacial Performance
+Higher Power Production
+TRACKER SYSTEMS
+billion+ oil gallons will be avoided over 25yrs by modules on GameChange systems
+GENIUS TRACKER
+Streamlined Construction
+Stronger
+Steel
+Superior Terrain Navigation
+FIXED TILT SYSTEMS
+billion+ oil gallons will be avoided over 25yrs by modules on GameChange systems
+MAXSPAN
+Products & Services
+At GameChange Solar, we work closely with our customers as a true end-to-end partner, offering tailored solutions that adapt to diverse project requirements across hardware, software, and terrain. With a focus on regional localization, we ensure each project is optimized for success in any region.
+Latest News
+BLOG POST
+9 Things Impacting Utility-Scale Solar in 2026 — and How EPCs and Developers Can Prepare for Them
+January 8, 2026
+PRESS RELEASE
+GameChange Solar Leads Research Upending the Current Understanding of Hail Storm Mitigation Strategies for Trackers
+January 8, 2026
+Explore our latest news & company updates
+Innovative Solar Racking Solutions
+Leading the Repowering of the Planet with Innovative Solar Trackers and Fixed Tilt Mounting Solutions
+53
+GW+ of GameChange
+Solar systems
+92.5
+million+ solar modules on GameChange Solar systems
+1.3
+billion+ co2 tons will be avoided over 25yrs by modules on GameChange systems
+116.7
+billion+ gallons of gasoline will be avoided over 25yrs by modules on GameChange systems
+7.3
+million+ homes can be powered by the energy produced on GameChange systems
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/tracker
+
+Genius Tracker™
+Single-Axis Tracker
+The Genius Tracker is a favorite among utility-scale EPCs and solar project owners for its fast and easy installation and exceptional resilience in high winds and challenging weather. It can adapt to uneven terrain and employs advanced algorithms for maximum solar energy capture throughout the day. Our intelligent monitoring system ensures easy maintenance, making it ideal for large-scale solar projects. The Genius Tracker system exemplifies GameChange Solar's customer-centric approach to advancing the solar industry.
+Genius Tracker 1P
+Genius Tracker 1P
+GameChange's flagship product. Super-fast installation with preassembled components and patented SpeedClamp technology that reduce installation labor by 28%. Our trackers are among the highest wind-rated in the industry, and our innovative software, including WeatherSmart and PowerBoost, significantly enhances energy production.
+Genius Tracker 2P
+Genius Tracker 2P
+The “2 up in portrait” Genius Tracker design uses a robust structure to support 2 modules across the torque tube. This results in fewer piles per module.
+Genius Tracker 1P-2R
+Genius Tracker 1P-2R
+Our dual row Genius Tracker solution with a driving and driven table connected via a linkage arm. These connected tables can reduce system loading and lower upfront tracker costs.
+Genius Tracker TF
+Genius Tracker TF
+This terrain-following tracker uses the torque tube’s natural flexibility to reduce grading and steel costs on challenging sites. With industry-leading 1.7° slope tolerance, it allows fast, accurate installation on uneven ground without compromising performance.
+System Architecture
+Genius Tracker systems feature a distributed architecture and a fully powered system with individual row control and table lengths up to 430 ft (132 m). GameChange Solar continues to lead the way in designing resilient solar power systems, ensuring reliable energy production even in the most challenging conditions.
+Pre-Assembled Drive System
+40-Year Maintenance-Free Linear Actuator
+The Genius Tracker drive system has an expected 40-year design life. Its self-contained linear actuator requires no grease over the project lifetime, resulting in a lower O&M cost for Genius Tracker sites compared to actuators with grease points. GameChange Solar has performed third-party validated accelerated life cycle testing to ensure the lasting performance of our actuators for over 40 years.
+Extreme weather resistance aided by “SuperShock” dampers
+The Genius Tracker system has undergone rigorous wind tunnel testing to ensure its stability at extreme wind speeds up to a record 160 mph. The SuperShock Dampers allow our system to operate safely through hurricane-force wind speeds.
+Each project’s damper design protects against aeroelastic instability and optimizes tracking accuracy, even on longer tables with large format modules.
+Genius Tracker TF™
+The Terrain-Following Solar Tracker That Cuts Grading and Boosts Profitability
+Genius Tracker TF™ is GameChange Solar’s advanced terrain-following solar tracker solution designed to conquer complex topographies without the need for costly grading. With exceptional post-to-post slope tolerance of up to
+1.7 degrees, TF enables rapid, precise installation on rolling or uneven ground while maintaining structural integrity and tracking performance.
+Unlike systems that require extensive grading or incorporate costly articulating joints, Genius Tracker TF features a robust, streamlined design that conforms to natural land contours, helping to reduce costs, risk, and construction timelines. Whether on rolling hills or marginal terrain, TF is a smart, high-performance solution for cost-effective, high-yield utility-scale solar.
+By minimizing the impact on worker productivity caused by elevated work heights and complex grading, our solution ensures smoother project execution. Our tracker torque tubes seamlessly follow the terrain, and customers receive precise x, y, and z coordinates for every post location, ensuring accurate and efficient installations.
+Cost Efficiency
+Reduces grading and stabilization expenses, boosting profitability.
+Enhanced Productivity
+Minimizes disruptions from difficult working conditions.
+Proven Performance
+Installer-approved slope adaptability without sacrificing safety.
+Precision Installation
+Detailed post-location data for accurate implementation.
+Fast Installing | 28% Less Labor to Install (than other industry-leading trackers)
+The Genius Tracker™ 1P system demonstrated significant productivity advantages over competitors, requiring 28% less labor to construct than the average of three market-relevant 1P trackers in a comprehensive third-party time study.
+Our emphasis on factory pre-assembly and relatively lower part count significantly streamlines installation processes, reducing labor requirements and simplifying logistics and materials handling operations.
+The SpeedClamp™ system allows for module installation with only two bolts per module, including the attachment of the module clamp itself.
+GameChange Solar provides customers with an advanced online shipment status portal, which displays real-time logistics information down to the container-content level and facilitates efficient shipment scheduling to align with construction timelines.
+Higher Power Production
+Genius Tracker combines sensors, weather forecasting, and smart algorithms to increase energy generation
+PowerBoost adds up to 5.49% yearly energy gains depending on topography. This smart algorithm optimizes solar plant production during backtracking by eliminating row-to-row shading and dynamically adjusting tracking angles to optimize energy production based on site topography.
+5.49%
+PowerBoost
+SmartStow provides energy gains of up to 3.15% over a 45-degree stow and 0.73% over a 0-degree stow. It intelligently positions tracker tables to withstand high winds, adjusting angles to balance efficiency and safety as wind speeds rise.
+3.15%
+SmartStow
+WeatherSmart boosts energy gains by 6.02% during overcast days by turning tables flat to capture more diffuse light.
+6.02%
+WeatherSmart
+One of the keys to the success of Genius Tracker is its power-enhancing software algorithms, validated by third-party analysts:
+Our Trackers Are Built to Last
+Designed and tested for wind speeds up to 160 MPH (70 m/s), our trackers feature innovative stow strategies and high tilt angles to minimize damage from extreme weather. This robust design protects your solar array even in high-wind environments, providing peace of mind and protecting your investment.
+The best way to mitigate damage to a solar array in a high-wind climate is to ensure that solar technology is designed and tested for extreme wind speeds. This can be achieved using advanced wind tunnel testing and stow strategies that lower the probability of damage.
+Advanced Wind Load Testing
+We have partnered with CPP, a leading boundary-layer wind tunnel consulting firm, to thoroughly evaluate the wind loading on our tracker structures. Through numerous tests, we have accurately determined static loads, dynamic amplification, and aeroelastic stability of the Genius Tracker system under wind speeds up to 160 mph. This rigorous testing ensures our trackers can withstand the harshest conditions.
+Comprehensive Mechanical Load Testing
+Using our wind load analysis insights, we conduct extensive mechanical load testing to ensure compatibility between our racking systems and PV modules. For load conditions exceeding preapproved values, we employ third-party test facilities to perform mechanical load testing in accordance with the IEC 61215 standard. By incorporating unbalanced loading in our tests, we simulate real-world wind effects on the modules, providing a more accurate and reliable load profile.
+Porous Panel Technology
+Our porous panel technology enables the industry’s largest modules to be used on extreme windspeed projects. The porous panels move wind vertices away from PV modules and break up airflow, reducing the maximum wind pressure on the modules. Wind tunnel testing shows that porous panels substantially reduce module loads. The porous panels seamlessly attach to trackers and are available for all module sizes.
+Mitigate Risk from High Winds
+Invest in our trackers for unparalleled durability and protection against high winds and hail, ensuring long-term performance and safety for your solar array.
+Hurricane Ian approaching Florida in 2022. Multiple GCS project sites were passed directly over by Hurricane Ian withstanding sustained, hurricane-level wind speeds.
+Steep Stow Angle
+Upon receiving the hail stow signal, the Master Controller Units reposition the solar tables to the maximum range of motion. This critical adjustment minimizes the projected area of the solar modules, effectively reducing the risk of hail damage. Maximum rotation angle of 75 degrees is available for added cost.
+Validation
+Our HailStow™ strategy has been meticulously reviewed and validated in partnership with VDE Americas. Their thorough report includes sample analyses that quantify the reduction in Average Annual Loss due to hail events when using the Genius Tracker system.
+Protect your solar investment with the proven reliability of GameChange Solar’s HailStow™. Experience enhanced security and peace of mind, knowing your assets are safeguarded against even the most severe weather conditions. Request the full VDE Hail report here
+Hail Protection with GameChange Solar’s HailStow™
+HailStow™ is our advanced hail protection feature designed to keep your solar assets safe. Leveraging real-time weather API data, HailStow™ generates alerts when a forecasted hail event is approaching your site. This innovative system complies with NERC and owner requirements by automatically sending hail stow signals to Master Controller Units or integrating through customer SCADA, complete with manual, on-site verification and approval.
+Post Options
+Wide flange posts
+Wide flange posts provide strong, stable foundations for solar trackers, offering excellent load distribution and resistance to bending. Ideal for tough soils and high winds, they are durable, easy to install, and reduce construction time and costs, ensuring long-term reliability.
+Z-Shaped Posts
+Z-shaped posts provide strong, reliable foundations for solar trackers, especially in tough soil conditions. Their design enhances load distribution and resists bending, ensuring stability under heavy loads and high winds. Easy to install, they reduce costs, minimize soil impact, and deliver long-term durability.
+Earth Screws
+Earth screw posts provide a fast, versatile foundation for solar trackers, with quick, concrete-free installation that cuts time and costs. Suitable for diverse soils, they offer strong stability and load capacity. Removable and reusable, they are a sustainable, eco-friendly choice.
+Helical posts
+Helical posts offer a fast, efficient foundation for solar trackers, with quick installation and minimal ground disturbance. Ideal for various soils, they provide strong stability and load capacity, ensuring alignment in tough conditions. Reusable and concrete-free, they are also a sustainable, low-impact solution.
+Rivet Module Mounting Option for Genius Tracker™
+The Genius Tracker™ system now offers a rivet-based module mounting option, giving EPCs and project owners a faster, low-maintenance alternative to traditional bolted connections. Designed to integrate seamlessly with Genius Tracker, rivets attach directly through pre-punched module mounting holes, eliminating the need for torqued fasteners.
+This non-torqued connection can reduce installation time while also removing the need for ongoing torque checks over the life of the project—helping streamline construction and simplify long-term operations and maintenance.
+The rivet solution has undergone extensive testing and validation. Performance and reliability testing conducted at Intertek and GameChange Solar’s Research and Design Facility confirmed compliance with applicable sections of UL 2703. Additional in-house evaluations at the GameChange Solar installation training center assessed installation and removal tools to ensure practical, field-ready deployment.
+Key Benefits:
+-
+Faster installation
+-
+No torque requirements
+-
+Reduced long-term maintenance
+-
+UL 2703 compliant
+Real-time Monitoring Portal and Web App
+The Genius Vision web app is a comprehensive monitoring solution designed to oversee Genius Tracker systems. It integrates real-time analytics, trend graphs, and diagnostics to inform you about every tracker components’ operational status. This software application package displays error messages and flags, helping you address issues promptly. With the Web App, you have the power to send control commands directly to Genius Tracker controllers, ensuring seamless operations.
+Genius Hub
+Equip your NERC-compliant site with Genius Hub and the Genius Vision app for leading-edge monitoring capabilities that enhance operational efficiency. This onsite software application and server are used to collect and display data from Genius Tracker's controller ensuring NERC compliance and operational excellence.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/maxspan
+
+MaxSpan™
+Fixed-tilt Racking System
+The MaxSpan fixed tilt solar mounting system is designed for quick and efficient installation, featuring Integrated Hardware™ that reduces parts and speeds up the process. Its continuous table design maximizes post spans and reduces table gaps, giving superior energy density. With fewer foundations needed than competing systems, it cuts down on installation costs, requiring as few as 130 posts per megawatt. Made from high-strength steel, MaxSpan is durable and lightweight, reducing equipment and shipping costs. Its innovative design also handles complex terrain, making it versatile for various site conditions.
+High-strength, bifacial compatible, fixed-tilt racking system
+Single Post System
+Dual Post System
+Single Post East-West System
+Dual Post East-West System
+2-4 Up-in-portrait
+Wide flange, screw, or helical post
+(4-8 Up-in-portrait in landscape available)
+Fast Installing
+-
+Integrated Hardware™ reduces part count and speeds up installation
+-
+Fewer foundations, fewer posts, and lower post-installation costs
+-
+As few posts as 180 per MW for 2 up portrait and 120 per MW for 3 up portrait
+High Strength Steel
+-
+High-strength steel and truss engineering combine to make the industry’s longest spans and lowest post counts
+-
+Stronger steel allows for less thickness and weight for lower equipment and shipping cost
+Terrain Navigation
+-
+Long slots enable three axes of adjustability demanded by installers for navigating real-world site conditions
+-
+Patent-pending articulating purlins between tables enable installation on sites with complex slope issues, which when combined with post and post bracket adjustment handle up to 15% east-west terrain slopes and undulations
+-
+Purlins for all MaxSpan™ systems have multiple mounting holes allowing 6"[15.24 cm] east west adjustability
+Screw, Helical and Driven-Post Options
+Wide Flange Post
+Roll Formed Post
+Screw Post
+Helical Post
+Preassembled “Swiss Army Knife” Beam
+-
+Easily carried by one worker
+-
+Super simple staging: one unit replaces the previous staging of nuts, bolts, brackets, braces, and beam
+-
+Simply bolt it onto the post extender, cut the zip tie, swing braces and brackets into position, and bolt down
+-
+All hardware and brackets are pre-attached and in an assembly kit
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/ultrafix
+
+top of page
+UltraFix™
+Fixed-tilt Racking System
+The UltraFix fixed tilt solar mounting system is designed for quick and efficient installation, featuring Integrated Hardware™ that reduces parts and speeds up the process. Its continuous table design maximizes post spans and reduces table gaps, giving superior energy density. Optimized for sites under 110mph [50m/s] windspeeds, it offers fewer foundations needed than competing systems and cuts down on installation costs, requiring as few as 120 posts per megawatt. Made from high-strength steel, UltraFix is durable and lightweight, reducing equipment and shipping costs. Its innovative design also handles complex terrain, making it versatile for various site conditions.
+High-strength, bifacial optimized, fixed-tilt racking system
+Standard Framed Module Configuration
+Fast Installing
+-
+Integrated Hardware reduces part count and speeds up installation
+-
+Fewer foundations, fewer posts, and lower post-installation costs
+-
+As few posts as 180 per MW for 2 up portrait and 120 per MW for 3 up portrait
+High Strength Steel
+-
+High-strength steel and truss engineering combine to make the industry’s longest spans and lowest post counts
+-
+Stronger steel allows for less thickness and weight for lower equipment and shipping cost
+First Solar Series 7 Configuration
+Bifacial Performance
+-
+East/West running beams each replace two purlins, reducing rear side shading
+-
+Structure behind modules aligned with junction box for minimized bifacial impact
+First Solar Series 7 Compatibility
+-
+North/South running purlins perfectly align with First Solar Series 7 back rails
+-
+Rapid installation wedge connection promotes faster module mounting
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/pourinplace
+
+top of page
+Pour-in-Place™
+A leader for landfill reclamation and a great solution for rocky sites
+The Pour-in-Place solar mounting system is an industry leader for landfill reclamation and an excellent solution for rocky sites. It offers significant cost savings, minimal impact on site drainage, and versatile adjustability for varied terrains.
+PLACE
+leave-behind tubs
+BUILD
+self-leveling racking
+POUR
+standard concrete
+Cost and Efficiency
+-
+Up to 20% lower installation cost than traditional post or screw systems
+-
+No risk of pile refusal or complex remediation
+Versatility and Adaptability
+-
+High-strength steel and truss engineering combine to make the industry’s longest spans and lowest post counts
+-
+Stronger steel allows for less thickness and weight for lower equipment and shipping cost
+Comprehensive Project Support
+-
+Minimal impact on site drainage
+-
+Full layout and engineering analysis for every project
+-
+Integrated grounding and wire management
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/precast
+
+top of page
+Precast
+A leader for landfill reclamation with clean solar energy
+The Precast Mounting System is a fast-installing solution ideal for solar projects on landfill and brownfield sites, turning otherwise unusable land into valuable assets. It offers the industry's longest spans and fewest foundations, accommodating a variety of solar modules from different vendors. Foundations can be precast on-site or nearby, and each project benefits from a comprehensive layout and engineering analysis. The system is designed to handle terrain slopes up to 15% and allows for quick installation with significant vertical adjustment options.
+Efficient Installation
+-
+Fast-installing solution for solar projects
+-
+Requires the fewest foundations in the industry grounding and wire management
+-
+Accommodates a variety of solar modules from different vendors
+-
+Significant vertical adjustment options for quick setup
+Versatility and Adaptability
+-
+Ideal for landfill and brownfield sites, repurposing unusable land
+-
+Can handle terrain slopes up to 15%
+-
+Foundations can be precast on-site or at a nearby location
+Comprehensive Project Support
+-
+The industry’s longest spans for solar mounting systems
+-
+Comprehensive layout and engineering analysis for each project
+-
+Articulating purlin connections for flexibility on varied terrains
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/landfill-solar-racking-leader
+
+top of page
+Landfill Solar Racking Leader
+Building solar projects on landfill sites offers significant environmental, economic, and social benefits. It transforms otherwise unusable land into productive, renewable energy-generating sites, reducing the need for new land development and preserving natural habitats. These projects are cost-efficient, often benefiting from incentives and grants, and generate local employment opportunities.
+GameChange Solar is a leader in landfill solar racking with installations at numerous landfill and brownfield sites in multiple states nationwide.
+The 12.9 MW GameChange Pour-In-Place™ System is one of the largest landfill projects in the United States. The system was installed quickly onto a challenging landfill with several difficult sloping areas. Stringent requirements were followed during the installation to ensure compliance with all local, state, and other regulations.
+12.9 MW
+Largest Superfund Landfill Solar System in USA
+This 12.9 MW Solar Project was built in record time on a landfill in New Jersey and powers 40,000 homes nearby.
+These western Massachusetts landfills require very stringent design guidelines to be followed. The landfill cap was not allowed to be disturbed, and all vegetation had to be left in place for stormwater management reasons. The sites were completed in only two months through difficult fall and winter conditions.
+6.5 MW
+Three Closed Solid Waste Landfills in Western MA
+All three sites were built on top of closed solid waste landfills, creating valuable reuse of otherwise useless land.
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/software-and-controls
+
+top of page
+Software and Controls
+GameChange Solar Software and Controls provide advanced solutions for optimizing Genius Tracker performance and boosting power production. Our controller communications seamlessly integrate with sensors and connections for precise monitoring and real-time adjustments. With GameChange Solar software and controls, you achieve superior performance, security, and ease of use.
+Higher Power Production
+Genius Tracker combines sensors, weather forecasting, and smart algorithms to increase energy generation
+One key to Genius Tracker's success is its high power performance, which is driven by our power-enhancing software algorithms and validated by third-party analysts.
+GameChange Solar's control logic strategies PowerBoost™, SmartStow™, and WeatherSmart™ combine sensors, weather forecasting, and smart algorithms to increase energy generation for both new and existing solar power plants. What sets us apart is our iterative, project-specific approach to software optimization, ensuring improved output and adaptation to the site-specific conditions, making it a future-proof solution for your solar power needs, and ensuring maximum efficiency.
+GameChange Solar's proprietary algorithm is a game-changer in enhancing solar plant production during backtracking. It prevents row-to-row shading and automatically adjusts the target tracking angle to optimize energy production based on site topography data. This algorithm, designed for our distributed row tracker, ensures that you are getting the best solar plant technology.
+5.19%
+PowerBoost
+PowerBoost™ demonstrates gains of 5.49% yearly (dependent on the site topography)
+With its wind-stow method, the Genius Tracker™ control logic prioritizes both safety and energy optimization. SmartStow rotates the tracker tables to a stow position where they are most robust and can withstand design wind events. The control logic employs an innovative strategy for stow, adjusting rotation angles as wind speeds increase to maximize efficiency and track the sun longer than other stow strategies without compromising safety, ensuring your peace of mind and the reliability of your solar power plant.
+3.15%
+SmartStow
+SmartStow™ estimates gains of up to 3.15% over a 45-degree stow and 0.73% over a 0-degree stow.
+On days with thick, long-lasting cloud cover, our WeatherSmart algorithm maximizes energy production by turning modules flat, allowing them to absorb more light when it is scattered through the cloud layer.
+6.02%
+WeatherSmart
+WeatherSmart™ shows gains of 6.02% during overcast days
+Key features are:
+-
+Advanced, user-friendly monitoring software designed to oversee the Genius Tracker system.
+-
+Accessible from all standard smartphones, tablets, and PCs.
+-
+Provides real-time analysis, trend graphs, and diagnostics.
+-
+Allows manual control of the Genius Tracker controllers for faster and safer O&M of the site.
+-
+Integrated diagnostics systems and troubleshooting suggestions through the Troubleshooting Wizard.
+Real-time Monitoring Portal and Web App | Advanced tracker health monitoring and weather risk mitigation software
+The Genius Vision web app is a comprehensive monitoring solution designed to oversee the Genius Tracker systems. It integrates real-time analytics, trend graphs, and diagnostics to inform you about every tracker component's operational status. This software application package displays error messages and flags, helping you address issues promptly. With the Web App, you have the power to send control commands directly to Genius Tracker controllers, ensuring seamless operations. You will benefit from the historical tracker data records and easy export options, making record-keeping and reporting a breeze.
+Key features are:
+-
+Monitoring the operational status of components.
+-
+Displaying error messages and flags.
+-
+Real-time analysis, trend graphs, and diagnostics.
+-
+Sending control commands to Genius Tracker controllers.
+-
+Database to store up to 60 days' worth of Genius Tracker data.
+-
+OPC-UA server to make Genius Tracker data available to plant SCADA.
+-
+Includes an admin panel for IT administrators to:
+-
+Create and maintain user and admin accounts
+-
+Manage passwords
+-
+Carry out other administrative tasks
+-
+User-friendly map-based interface for site monitoring and historical tracking performance of the Genius Tracker system.
+-
+Manual control of the system to stow tables for repair or maintenance.
+-
+Data bridge between the Genius Tracker System and the site SCADA system via Open Platform Communications.
+GeniusHub | Comprehensive NERC-compliant operator console monitor & control for Genius Tracker systems
+Equip your NERC-compliant site with GeniusHub and the Genius Vision app for leading-edge monitoring capabilities that enhance operational efficiency. This on-site software server collects and displays data from Genius Tracker controllers, ensuring NERC compliance and operational excellence.
+Key Benefits:
+Total Transparency:
+PDS provides complete visibility on delivery status, ensuring all project stakeholders have the most current information.
+Seamless Coordination:
+Our cloud-based system allows customers, GameChange Solar, carriers, and suppliers to update delivery times, enter production schedules, and access logistics information from anywhere.
+Installation Sequence:
+Production and delivery can be adapted to match site installation sequence.
+Enhanced On-Site Efficiency:
+On-site teams can use PDS for daily delivery reports, packing lists, and schedule updates, ensuring smooth operations and timely adjustments.
+Flexible Deliveries:
+Greater visibility and information sharing allow for flexible material deliveries, optimizing installation sequencing and resource management.
+PDS | Production Delivery System
+Our Production Delivery System (PDS) is a true game-changer, offering the industry's most comprehensive delivery tracking solution. With complete transparency and a single point of truth for all production and material coordination, PDS ensures everyone stays informed and connected.
+SCADA Integration & Diagnostics
+GameChange Solar provides a system interface through its Modbus Master Interface to collect live data from on-site Master Control Units. Users simply plug directly into the network switch to receive real-time data from Genius Tracker tables and controllers.
+Modbus GUI is particularly helpful as a diagnostics tool for sites with SCADA systems. The GUI can help users find the Modbus locations of data they need and confirm the proper flow of data into and out of the Master Controller Unit.
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/training
+
+top of page
+GameChange Solar Training
+GameChange Solar Training
+GameChange Solar provides comprehensive training services to ensure seamless installation and optimal performance of our solar solutions. Our support includes virtual meetings, on-site guidance, continuous site support, and hands-on training at our global centers. These services equip clients with the knowledge and best practices needed for efficient and effective project execution, enhancing the value and success of every installation.
+Hands-on Installation Training at GCS Training Centers
+GameChange has opened a global network of training centers to provide next-level service through hands-on training, time studies, and testing. Each center offers a controlled environment where customers can familiarize themselves with GameChange systems and receive comprehensive training before on-site installation. Our training sessions, led by experts, focus on practical, detailed instruction to ensure faster and safer project installation. Training includes:
+-
+Understanding system construction drawings
+-
+Learning about system components
+-
+Recognizing system components upon arrival on-site and identifying their packaging
+-
+Best practices for material storage and staging
+-
+Hands-on installation of the system
+-
+Key functions and capabilities of the Genius Tracker system.
+Our experts will be available throughout the session to answer all your questions.
+Our Global Training Centers:
+Ahmedabad, India
+Bahia, Brazil
+Bogotá, Colombia
+Cape Town, South Africa
+Lakeland, FL, USA
+Madrid, Spain
+Mesa, AZ, USA
+Newcastle, Australia
+Santiago, Chile
+What to expect leading up to Product Installation
+Page Turn Meeting
+Weeks before a project starts, you will meet with our support team, which includes your project manager, engineering team, field technicians, and business development. We will go through the project design step by step to ensure team alignment, walk through project-specific installation instructions with the installation crew leaders, and discuss any questions about the racking assembly before construction begins.
+Golden Row Installation:
+This is on-site training, typically with a team of foremen and crew selected by the installer to assemble the first table or racking section. This section will serve as the “Golden Row” to be used as a reference and training point throughout the duration of the racking build. GameChange will send an experienced field technician to assist in the assembly and provide suggested tips, tricks, and best practices that may benefit the installation teams during project construction.
+On-Site Support
+It is common for GameChange to have a field representative on site and make frequent visits during project delivery. This can significantly benefit the client, as the site team and installation team managers will have access to similar information (suggested tips and tricks, best practices) as provided in the Golden Row training whenever such a field technician is present.
+Any observations noted by the GameChange representative (relevant to installing the GameChange racking system) are generally noted and provided to the client in a “Site Visit Report.”
+Field Technicians
+GameChange Solar personnel will comply with all GameChange Solar, Site, and OSHA safety regulations. Site support field technicians hold a minimum of OSHA 30 training.
+We want to do everything we can to facilitate the successful installation of our systems at the site level. That's why we have technicians deployed worldwide on solar projects to establish excellent working relationships and support our customers.
+Safety
+Preassembled Components
+Many of our components arrive preassembled at the site. As soon as you stage a component, it already has the nuts and bolts attached, so you do not have to carry around extra buckets of hardware. Our preassembled components dramatically speed up the installation process and reduce labor costs.
+Color-Coded Layouts
+No specialized tools are required to install GameChange Solar systems; only simple tools that can be picked up at any local hardware store are needed.
+GameChange provides color-coded engineering layouts so that when parts arrive, you can look at the layout based on the color code coordinated with the color piles, which will help you coordinate your installation.
+No Specialized Tools
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/how-we-help
+
+top of page
+We pride ourselves on being a full-service partner, providing versatile solar racking solutions, software, and services for projects of all sizes.
+We take satisfaction in being a full-service partner, offering innovative and tailored solutions across mounting systems, software, and services to meet diverse project requirements large and small.
+Project Developers
+GameChange Solar provides top tracker and racking solutions for optimal project performance and returns. Known for quality and reliability, we de-risk every installation. Utility-scale developers trust us as a strategic partner in building successful solar projects.
+Asset Owners
+GameChange Solar delivers reliable, long-lasting solutions for renewable energy owners and operators, engineered for proven performance in extreme weather — including high winds, heavy snow, and hail. Our flexible systems and comprehensive services help lower the levelized cost of energy, reduce operational risk, and maximize uptime. We work in close alignment with your performance goals to ensure confidence and long-term success.
+Solar Module Suppliers
+GameChange works in partnership with module suppliers to ensure that all leading modules are supported by GameChange on our systems. This includes new larger format modules which are currently prevalent. Advanced functionality on GameChange's Genius Tracker™ systems such as SmartStow™ and PowerBoost™ enable superior yields with bifacial modules.
+Independent Engineers
+We maintain relationships with independent engineers to make sure our systems are thoroughly vetted and meet the most stringent third-party validation. This third-party validation enables all stakesholders to have confidence in our systems as their best equipment choice.
+EPC Partners
+GameChange Solar leads in quality, reliability, and performance, offering innovative, flexible, and scalable solutions that meet the highest industry standards. We deliver unparalleled value to EPCs, streamlining projects from design to installation with a focus on ease of use and supply availability. Our comprehensive services can scale to meet your needs, ensuring engagement throughout the entire process.
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/gallery
+
+top of page
+Project Portfolio
+Empowering a global energy transition through pioneering innovation
+GameChange Solar delivers the most effective tracker and racking solutions for ultimate project performance and peak returns.
+1.3
+billion+ co2 tons will be avoided over 25yrs by modules on GameChange systems
+116.7
+billion+ oil gallons will be avoided over 25yrs by modules on GameChange systems
+7.3
+million+ homes can be powered by the energy produced on GameChange systems
+53
+GW+ of GameChange
+Solar systems
+92.5
+million+ solar modules on GameChange Solar systems
+10 GW
+Genius Tracker - India
+46 Projects
+5.6 GW
+Genius Tracker - Texas, USA
+15 Projects
+5.2 GW
+Genius Tracker - Florida, USA
+53 Projects
+1.8 GW
+Genius Tracker - Egypt
+2 Projects
+908 MW
+MaxSpan - Florida, USA
+10 Projects
+850 MW
+Genius Tracker - California, USA
+800 MW
+Genius Tracker - Florida, USA
+8 Projects
+631 MW
+Genius Tracker - Texas, USA
+490 MW
+MaxSpan - Florida, USA
+5 Projects
+300 MW
+Genius Tracker - Florida, USA
+3 Projects
+240 MW
+Genius Tracker - Canada
+3 Projects
+217 MW
+MaxSpan - Portugal
+2 Projects
+140 MW
+MaxSpan - Australia
+138 MW
+MaxSpan - Minnesota, USA
+19 Projects
+131.7 MW
+Genius Tracker - Texas, USA
+128 MW
+Genius Tracker - Mexico
+110 MW
+Genius Tracker - Canada
+2 Projects
+102 MW
+Genius Tracker - South Carolina, USA
+98 MW
+Genius Tracker - California, USA
+98 MW
+MaxSpan - Maryland, USA
+85 MW
+MaxSpan - North Carolina, USA
+8 Projects
+85 MW
+Genius Tracker - Florida, USA
+74 MW
+MaxSpan - North Carolina, USA
+70 MW
+Genius Tracker - Spain
+70 MW
+MaxSpan - Georgia, USA
+61 MW
+Genius Tracker - Florida, USA
+50 MW
+Genius Tracker - West Africa
+50 MW
+Genius Tracker - Spain
+43 MW
+MaxSpan - North Carolina, USA
+7 Projects
+41 MW
+MaxSpan - North Carolina, USA
+6 Projects
+39 MW
+MaxSpan - North Carolina, USA
+27 MW
+MaxSpan - North Carolina, USA
+22 MW
+MaxSpan - North Carolina, USA
+20 MW
+MaxSpan - New York, USA
+17 MW
+Pour-in-Place - Massachusetts, USA
+13 MW
+Pour-in-Place - Florida, USA
+12.9 MW
+Pour-in-Place - New Jersey, USA
+6.5 MW
+Pour-in-Place - Massachusetts, USA
+3 Projects
+6.5 MW
+Pour-in-Place - Cayman Islands
+6.2 MW
+Pour-in-Place - Massachusetts, USA
+5.2 MW
+Pour-in-Place - New York, USA
+4.1 MW
+Pour-in-Place - Rhode Island, USA
+4 MW
+Pour-in-Place - Massachusetts, USA
+4 MW
+Pour-in-Place - New York, USA
+3.5 MW
+Pour-in-Place - Connecticut, USA
+3.4 MW
+Pour-in-Place - New Jersey, USA
+3 MW
+Pour-in-Place - Massachusetts, USA
+Leading the renewable energy industry
+Get in contact with the team at GameChange Solar.
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/esg
+
+top of page
+Overview
+In 2022, at GameChange Solar we developed our three year plan to manage and scale environmental, social and governance (ESG) issues.
+We organise this work across four strategic pillars: REPOWER, RETHINK, EMPOWER and GOVERNANCE. Each pillar of our strategy has a clear line of responsibility to a management team representative along with specific markers of progress. At the same time, we will ensure our efforts are not siloed and instead reflect the cross-functional challenges inherent to creating a sustainable business.
+REPOWER
+RETHINK
+EMPOWER
+GOVERNANCE
+Energy management and climate change mitigation
+Environmental supply chain management
+Climate adaptation
+Product design and lifecycle management
+Materials sourcing and efficiency
+Product quality
+Waste management
+Talent attraction and development
+Diversity, equity and inclusion
+Human rights
+Health and safety
+Transparency and accountability
+Business ethics
+Cybersecurity
+Our ESG Headlines in 2024
+55 Million metric tonnes of carbon emissions avoided by generating electricity on GCS systems
+40.7% Recycled Steel content in products
+Obtained ISO 14001 & 45001 Certifications in 2024
+390 Tons of waste diverted from landfills
+Message from leadership
+“This year’s ESG report reflects the incredible progress we’ve made toward building a cleaner, more responsible future. From achieving ISO certifications for environmental and occupational health, to expanding our use of recycled steel and investing in employee development through GameChange Solar University, we’re proud to show how sustainability and growth can go hand in hand. As we continue to scale globally, we remain firmly committed to our net zero goals and to driving positive impact across our operations, products, and people.”
+— Phil Vyhanek, President and COO, GameChange Solar
+Phillip Vyhanek, President and COO introduces GameChange Solar's approach to ESG
+Future steps on GameChange Solar ESG journey
+In the year ahead, we will continue to create a strong foundation as we prepare to gather momentum. The bedrock of all our sustainability plans is detailed, relevant and accurate information on all the issues essential to responsible business.
+Some of the key priority areas during this period will be:
+Key Corporate Policies
+Our ESG work is underpinned by our charter and is implemented by a suite of regularly updated policies.
+Achieve Net Zero Scope 1 and 2 Emissions by 2050
+Work with our commodity vendors to gather emissions data which will be ultimately be used to calculate our scope 3 emissions
+100% employee training on annual policies
+Advance our DE&I roadmap
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/blog
+
+top of page
+News & Insights
+News & Insights
+Stay up to date with the latest news from GameChange Solar
+Leading the renewable energy industry
+Get in contact with the team at GameChange Solar.
+Smarter Site Management: 6 Ways GeniusHub Simplifies Utility-Scale Solar
+Like sunflowers, modules on tracking systems turn towards the sun to maximize energy production. Unlike sunflowers, we can’t rely on their instincts. For utility-scale projects, optimizing power production entails managing the constant movement of thousands of tracker rows, sensors, and controllers spread across a vast site throughout each day. Keeping them aligned, responsive, and efficient takes coordination. That coordination is what we built GeniusHub to deliver. We desi
+16 minutes ago
+GameChange Solar selected to supply trackers for 1,290 MWp Bisha Solar PV Plant in Saudi Arabia
+DUBAI, UAE, February 4, 2026 – GameChange Solar, a leading global supplier of solar tracker and fixed-tilt racking technology, announced that it has won an order to supply its Genius Tracker™ 1P system for the 1,290 MWp Bisha Solar PV Independent Power Plant in Saudi Arabia. The project is being developed by ACWA Power, with L&T appointed as the EPC partner. The Bisha project is part of Saudi Arabia’s expanding renewable energy pipeline under the PIF program, where meeting
+Feb 3
+Repowering to the Rescue: How to Restore Productivity to Aging Utility-Scale Solar
+Utility-scale solar projects are hitting mature lifecycle stages in large numbers. The industry has boomed in the past few decades, but this means those pioneering early projects are facing aging structures, component degradation, and productivity loss. Aging systems underperform by 5-10% below their initial P50 value, reducing ROI while increasing O&M costs. And due to massive technological advancements in solar since the turn of the century, 15+ year old projects just can’
+Feb 3
+GameChange Solar Launches Distributed Generation (DG) Solar Division to Advance Commercial, Industrial, and Community Solar Solutions
+NORWALK, Conn. – January 26, 2026 – GameChange Solar (GCS), a leading global supplier of solar tracker and fixed-tilt racking solutions, announced the introduction of its Distributed Generation (DG) Solar Division. This strategic expansion enables GameChange Solar to provide customized, high-performance solutions for commercial, industrial, and community solar projects nationwide. The DG Division is supported by dedicated sales, engineering, and customer service teams, all f
+Jan 26
+9 Things Impacting Utility-Scale Solar in 2026 — and How EPCs and Developers Can Prepare for Them
+Key Takeaways from GameChange Solar’s SolarConnections 2025 “Solar became cost-effective faster than anyone expected. The challenge now isn’t cost — it’s how fast we can build and integrate at the scale that’s coming.” - Andrew Worden, Executive Chairman & Founder, GameChange Solar The age of AI, data centers, extreme weather, and policy uncertainty is colliding with an aging grid. So at our 2025 Global Solar Connections event in New York City, developers, investors, operato
+Jan 14
+Masters of Green: Andrew Worden on Building a Global Solar Leader & the Future of Clean Energy
+Watch the video on YouTube here: https://www.youtube.com/watch?v=z8awcx5APLo
+Jan 12
+GameChange Solar Leads Research Upending the Current Understanding of Hail Storm Mitigation Strategies for Trackers
+NORWALK, Conn. – January 8, 2026 – GameChange Solar (GCS), a leading global supplier of single axis solar trackers announced the release of an updated version of its white paper “Reliable Hail Mitigation: Technical and Economic Optimization for Solar Trackers”. The white paper provides a comprehensive overview of hail mitigation, including discussions on appropriate triggers for hail stow, hail stow tilt angles, wind coincident with hail, and a case study identifying the low
+Jan 8
+Structural flexibility in utility-scale solar to safeguard module supply risk - Webinar
+In this webinar, we will examine how global trends in module tariffs, supply chain disruptions, and price volatility are impacting utility-scale project planning. We will also review how tracker system design enables projects to adapt to a wide range of modules, freeing up flexibility in procurement. Watch the full webinar here: https://www.pv-magazine.com/webinars/structural-flexibility-in-utility-scale-solar-to-safeguard-module-supply-risk/#GameChangeSolar
+Dec 16, 2025
+GameChange Solar secures 1,200 MWp tracker order for Khulis Solar PV Plant in Saudi Arabia
+DUBAI, UAE – December 16, 2025 – GameChange Solar, a leading global supplier of solar tracker and fixed-tilt racking technology, announced that it has been selected to supply its Genius Tracker™ 1P system for the Khulis Solar PV Independent Power Plant, being developed by ACWA Power. The project is being executed by a joint venture of CEEC, GPEC and NWEPDI as the EPC partners. The Khulis Solar PV project will deploy GameChange Solar’s advanced Genius Tracker™ 1P platform feat
+Dec 15, 2025
+Engineering trackers for Australia’s challenging environments
+A mix of difficult terrains and an expensive labor market have challenged continuity in the solar tracker industry in Australia, but GameChange Solar International CEO Vikas Bansal says the company is tackling these challenges and has made the region a priority for the long-term. How do you view the Australian solar market today, and what is your long-term vision for this region? Bansal: Australia is one of the most forward-looking solar markets globally. The scale of renewab
+Dec 4, 2025
+pv magazine Webinar | Protecting Australian solar projects against extreme wind and hail risks
+To withstand the worsening weather extremes in Australia and the antipodean region, hail and highspeed wind resilience must be designed into solar tracker technology. In this pv magazine Webinar, Parsa Enshaei, Associate Principal from CPP Wind Engineering Consultants, and Jon Previtali, VP and Senior Principal Engineer from VDE Americas, will respectively discuss advanced techniques for evaluating wind and hail risks, while Scott Van Pelt, Chief Engineer at GameChange Solar,
+Nov 20, 2025
+Designing for Extreme Wind
+Understanding fatigue loading on purlins for single axis trackers Solar power plants are increasingly being designed and installed in hurricane-prone and otherwise high wind speed locations. The structure supporting PV modules on these plants must sustain significant levels of repeated wind loads. Over time the cycling of wind load accumulates as fatigue load. A study commissioned by GameChange Solar and performed by CPP Wind Engineering Consultants shows that fatigue loading
+Nov 15, 2025
+From Hurricanes to Desert Storms: How Genius Tracker™ Delivers When Conditions Get Tough
+As solar energy expands across the globe, EPCs and developers are challenged with building projects in some of the world’s most extreme environments: hurricane-prone coasts, snowy regions, and deserts with frequent sandstorms. These projects promise clean power at scale, but only if the systems deployed can reliably perform in the face of wind, snow, dust, hail, and rough terrain. At GameChange Solar, our Genius Tracker™ platform is engineered for high performance in any weat
+Nov 13, 2025
+“Next year, the solar tracker market will be much larger”: GameChange Solar CEO
+Vikas Bansal, President and CEO – International, GameChange Solar, expects that 55–60% of India’s new utility-scale solar capacity additions in FY 2027 will use trackers — a significant jump from the current 30–35% adoption rate. This growth, he said, will be primarily driven by FDRE (Firm and Dispatchable Renewable Energy) projects and higher module prices following the ALMM (Approved List of Models and Manufacturers) mandate for locally produced solar cells. “Till last year
+Nov 3, 2025
+Interview: Vikas Bansal - President & CEO - International at GameChange Solar
+Vikas Bansal, President and CEO - International, GameChange Solar, discusses GameChange Solar’s growth trajectory, India’s evolving solar ecosystem, and the company’s foray into transformer manufacturing, in an interview with Mrinmoy Dey, Associate Editor, Energetica India. Question: To begin with, could you tell us a bit about GameChange Solar and the recently introduced Balance of System (BoS) plant? How do these two businesses complement each other? Answer: GameChange So
+Oct 30, 2025
+US-Based GameChange Solar Accelerates Entry into Brazil Market to Meet Growing Demand
+SÃO PAULO, Brazil – October 28, 2025 — GameChange Solar, a US-based, top three global leader in tracker and fixed tilt racking systems, has accelerated its entry into the Brazilian market. Although the market has slowed due to curtailment challenges, industry growth is expected to resume as these issues are resolved. In the wake of execution difficulties and bankruptcies among major tracker suppliers, GameChange Solar sees a strong opportunity to deliver reliability and valu
+Oct 29, 2025
+Built for the Unexpected: A Smarter Approach to Wind-Driven PV Risks
+When solar tracker systems are engineered for high winds, most designs focus on strength, reinforcement, or control logic. But two of the most dangerous and unpredictable wind threats to tracker stability are often overlooked: directionality and uneven loading. Many systems still rely on flat or directional stow methods, which assume “ideal” storm conditions with predictable winds, reliable forecasting, and quick response times. However, no storm is ideal; in the field, thos
+Oct 27, 2025
+Why I Work at GameChange Solar: Because the Best Service Experience Matters Most
+Do you find yourself always returning to the same place, restaurant, store, or vacation destination? It’s because the experience is always top-notch, consistent and memorable. As the VP of Customer Fulfillment, I strive to make sure GameChange Solar customers receive the best experience in service. My role centers on the pre-contract phase. I work closely with customers during the early stages of a project to ensure requirements are clearly understood and realistically achi
+Oct 22, 2025
+GameChange Solar Introduces Rivet Solution for Faster, Lower-Maintenance PV Module Installation
+NORWALK, Conn. – October 7th, 2025 — GameChange Solar, a leading global provider of solar tracker and fixed-tilt racking solutions, is announcing the availability of a rivet connection option for module mounting on its Genius Tracker™ system. This solution provides EPCs and project owners with an alternative to traditional bolted module connections, offering benefits in both installation speed and long-term maintenance. “By integrating rivet-mounted modules into our Genius T
+Oct 7, 2025
+GameChanging Leadership: Q&A with Derick Botha, CCO
+October 2, 2025 How does GameChange Solar stand out in a competitive renewable energy market? Our success comes from our customer-focused approach and dedication to innovation. These qualities start at the top, with our fantastic leadership team. Today we're chatting with our CCO, Derick Botha ! What originally brought you to GameChange Solar? I knew Andrew Worden even before he started GameChange, and was intrigued by the market challenge when he shared his vision of makin
+Oct 1, 2025
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/news/gamechanging-leadership-q-a-with-derick-botha-cco
+
+GameChanging Leadership: Q&A with Derick Botha, CCO
+- GameChange Solar
+- Oct 1, 2025
+- 3 min read
+October 2, 2025
+How does GameChange Solar stand out in a competitive renewable energy market? Our success comes from our customer-focused approach and dedication to innovation. These qualities start at the top, with our fantastic leadership team.
+Today we're chatting with our CCO, Derick Botha!
+What originally brought you to GameChange Solar?
+I knew Andrew Worden even before he started GameChange, and was intrigued by the market challenge when he shared his vision of making solar energy more affordable and available.
+What’s it been like to help GameChange grow from a small company to a Top 3 global leader in the industry? What’s changed, and what’s stayed the same?
+Some words that spring to mind: challenging, fulfilling, and occasionally nerve-wracking!
+Building a major international company from scratch in under 12 years comes with many challenges, but our can-do attitude here at GameChange has stayed the same from the beginning. We’re always working to find new, innovative ways to solve our customers’ problems. And we’re always looking to the future and asking ourselves where we can go next. So every day is exciting!
+What's an accomplishment you're especially proud of?
+When we started scaling, our status as a brand-new company was a big challenge to building our reputation and name recognition. At the time, our largest project was 2 MW. Then we were suddenly awarded a 30 MW project, which was massive back in 2014 – 15 times bigger than anything we’d done before!
+I remember thinking, “How in the world are we going to deliver this?” But we did, and that 30 MW project gained us recognition and a foothold in the market. Now we deliver systems measured in GW, not MW, across the world.
+A few other breakthrough points that I’m also proud of are selling our first GeniusTracker™, and delivering our first international project. Both of these milestones kicked off amazing periods of growth for the company.
+What trends are you seeing in how owners and EPCs evaluate trackers?
+Right now, owners are primarily looking for long-term reliability and operational excellence, to maximize their ROI.
+EPCs are looking for ease: ease of doing business, ease of install, and also reliability of deliveries.
+So we combine all those priorities into creating sturdy, reliable systems that can be delivered quickly and installed easily.
+In a competitive global tracker market, what makes GameChange stand out?
+The larger the project and the longer customers own it, the more they look for a flexible, communicative partner who offers long-term support. At GameChange, we focus on being that partner.
+Our clients know they can rely on us to work with them closely, be transparent with them, change plans quickly if needed, and deliver on time. They know their investment is secure with us.
+How do customer pain points (installation time, terrain challenges, extreme weather, etc.) shape your sales strategy?
+We want to know what each customer is looking for, and what they value the most. Each project has specific, individual issues, so we don’t just offer one single solution. Instead, we work to determine which customized solution best meets their site requirements and situation.
+For instance, our specialized Product Delivery System (PDS) makes the process of working with the EPC and the delivery experience as simple as possible. We ensure ease of use with Genius Tracker's software applications and monitoring systems. And most of all, we make sure your system is generating the most energy possible; we’re always innovating how our trackers can better follow the sun and maximize power production.
+We’re always asking ourselves how our product can make our customers' lives easier both in the short term, during installation, and in the long term, by standing the test of time over 20-40 years. We’re there for our customers both today and tomorrow.
+What makes you most excited for GameChange’s future?
+What excites me most are all the areas we haven’t covered yet. We’re always developing newer products to increase our offerings and further improve the ones we already carry. For example, in the past year we’ve added transformers to our product offerings.
+We've also expanded across multiple continents — North and South America, Africa, and Asia. There’s so much potential in how we can add to both our product offerings, and the regions we serve.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/news/pv-magazine-webinar-protecting-australian-solar-projects-against-extreme-wind-and-hail-risks
+
+pv magazine Webinar | Protecting Australian solar projects against extreme wind and hail risks
+- GameChange Solar
+- Nov 20, 2025
+- 1 min read
+Updated: Jan 21
+To withstand the worsening weather extremes in Australia and the antipodean region, hail and highspeed wind resilience must be designed into solar tracker technology. In this pv magazine Webinar, Parsa Enshaei, Associate Principal from CPP Wind Engineering Consultants, and Jon Previtali, VP and Senior Principal Engineer from VDE Americas, will respectively discuss advanced techniques for evaluating wind and hail risks, while Scott Van Pelt, Chief Engineer at GameChange Solar, will discuss how risk assessments shape tracker design. Together, these three specialists will offer practical insights to help solar developers, engineers, asset owners, and managers design bankable projects that minimize climate vulnerability.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/in-the-news
+
+top of page
+Careers
+Contact
+Locations
+Technical Support
+Request a quote
+Home
+About Us
+Products & Services
+Genius Tracker
+Genius Tracker TF
+Fixed Tilt
+Maxspan
+Ultrafix
+Ballasted
+Pour-in-place
+Precast
+Landfill Solar Racking Leader
+Software & Controls
+Technical Services
+Training
+Transformers
+Who We Work With
+Project Portfolio
+ESG
+News & Insights
+Press Releases
+In the News
+Events
+Upcoming Events
+SolarConnections
+Media
+In the News
+Media
+Stay up to date with the latest press from GameChange Solar
+Read more
+January 26, 2026
+Solar Power World
+GameChange Solar creates division dedicated to distributed generation market
+Read more
+January 26, 2026
+pv magazine
+GameChange Solar launches distributed generation solar division
+Read more
+January 12, 2026
+Masters of Green Podcast
+Masters of Green: Andrew Worden on Building a Global Solar Leader & the Future of Clean Energy
+Read more
+December 16, 2025
+PVTECH
+GameChange Solar to supply 1.2GW trackers to Khulis solar PV project in Saudi Arabia
+Read more
+November 4, 2025
+Saur Energy International
+Why GameChange Solar is expanding its business in India
+Read more
+November 3, 2025
+pv magazine
+“Next year, the solar tracker market will be much larger”: GameChange Solar International CEO
+Read more
+October 30, 2025
+Energetica India
+By Mid-2026, GameChange Solar Intends to Achieve 100 Percent Localisation
+Read more
+October 28, 2025
+AltEnergyMag
+US-Based GameChange Solar Accelerates Entry into Brazil Market to Meet Growing Demand
+Read more
+October 20, 2025
+pv magazine
+Solar developers secure tax credit safe harbor by procuring transformers
+Read more
+October 17, 2025
+pv magazine
+Repowering trackers can extend profitability of solar arrays entering their golden years
+Read more
+October 7, 2025
+Solar Power World
+GameChange Solar introduces rivet mounting option for Genius Tracker
+Read more
+September 26, 2025
+Saur Energy International
+From America to India: How GameChange Solar Found Its 2nd Biggest Market
+Read more
+September 10, 2025
+The Wall Street Journal
+Oil Giant Saudi Arabia Is Emerging as a Solar Power
+Read more
+August 25, 2025
+pv magazine
+GameChange Solar assists with federal tax credit “start of construction” qualification
+Read more
+July 22, 2025
+Solar Power World
+Study validates GameChange Solar tracker hail damage prevention
+Read more
+July 16, 2025
+pv magazine
+GameChange Solar trackers deployed in India’s first project featuring First Solar’s Series 7 thin film PV modules
+Read more
+July 9, 2025
+North American Clean Energy
+GameChange Solar Highlights Module Flexibility as Key Advantage in Safe Harbor Strategy for Utility-Scale Solar Projects
+Read more
+July 1, 2025
+Solar Power World
+GameChange Solar updates Genius Tracker for uneven project sites
+Read more
+June 25, 2025
+PVTECH
+GameChange Solar to ship 715MW trackers to ‘challenging environments’ across LATAM
+Read more
+June 24, 2025
+Solar Power World
+Large-scale solar market starts shift to 2-kV projects
+Read more
+June 3, 2025
+pv magazine
+GameChange Solar Expands Saudi Arabia Manufacturing Capacity to 6 GW to Support Growing Solar Demand
+Read more
+May 13, 2025
+MESIA Middle East Solar Industry Association
+GameChange Solar in MENA: Innovation, Growth, and What’s Next!
+Read more
+May 8, 2025
+pv magazine
+GameChange Solar surpasses 3.6 GW of tracker projects across MENA, Central Asia
+Read more
+May 7, 2025
+pv magazine
+Tracking the Sun for a brighter tomorrow
+Read more
+May 5, 2025
+MERCOM Clean Energy Insights
+India's Geography Demands a Practical Approach to Solar Tracker Design: Interview
+Read more
+May 5, 2025
+ET EnergyWorld
+In conversation with Andrew Worden, CEO, GameChange Solar: From innovation to impact
+Read more
+April 22, 2025
+Solar Power World
+GameChange Solar tracker now compatible with APA A-Frame foundation
+Read more
+April 16, 2025
+North American Clean Energy
+GameChange Solar Celebrates 10 Years of Genius Tracker: A Decade of Innovation and Growth
+Read more
+April 14, 2025
+ET EnergyWorld
+GameChange Solar bags 7 GW orders in FY25; total India portfolio crosses 13 GW
+Read more
+April 3, 2025
+Energetica India
+GameChange Solar Secures Tracker Supply Order for 405 MWp Solar Project in Khavda from KP Group
+Read more
+April 3, 2025
+PV Magazine
+GameChange Solar trackers and racking meet Australian standards
+Read more
+March 5, 2025
+Good Energy Podcast
+Phillip Vyhanek Making the Case for Solar Energy to the US Congress
+Read more
+February 26, 2025
+Solar Power World
+GameChange Solar deploys trackers on 2-kV pilot PV project
+Read more
+January 24, 2025
+Solar Power World
+Lightsource bp completes 187-MW ground-mount solar project for Texas manufacturer
+Read more
+January 9, 2025
+North American Clean Energy
+GameChange Solar’s Genius Tracker Earns GridSecurity Endorsement for Compliance with NERC CIP Standards
+Read more
+January 3, 2025
+Energetica India
+GameChange Solar Hits 10 GW of Genius Tracker™ Deployments in Gulf of Mexico
+Read more
+December 3, 2024
+North American Clean Energy
+GameChange Solar Demonstrates Best in Class Availability of 99.6% for its Genius Tracker
+Read more
+December 3, 2024
+PV Magazine
+GameChange Solar releases solar tracker topography design tool
+Read more
+November 21, 2024
+Solar Power World
+GameChange Solar releases software for designing tracker projects on uneven land
+Read more
+October 3, 2024
+SolarQuarter
+GameChange Solar Surpasses 10 GW of Solar Tracker Projects in India, Solidifying Market Leadership
+Read more
+August 29, 2024
+PV Magazine
+GameChange Solar to supply trackers for 750 MWp solar plant in India
+Read more
+August 21, 2024
+North America Clean Energy
+GameChange Solar Secures 148 MW Solar Project in Colombia
+Read more
+August 9, 2024
+PV Magazine
+India GameChange Solar to supply trackers for NLC’s 780 MWp PV project in Gujarat
+Read more
+July 25, 2024
+WoodMac
+Global PV tracker shipments grew by 28% in 2023 to 92 GWdc
+Read more
+July 10, 2024
+Solar Power World
+GameChange Solar trackers to be 100% US-made in 2025
+Read more
+June 18, 2024
+Solar Power World
+GameChange Solar trackers selected for high-wind project site in Florida
+Read more
+May 2, 2024
+North American Clean Energy
+GameChange Solar's Terrain Following Tracker Deployed on Multiple Utility Scale Projects
+Read more
+April 24, 2024
+PV TECH
+GameChange solar to supply 500MW trackers to southern Africa
+Read more
+April 17, 2024
+solarquarter
+GameChange Solar and Jiangsu Zhenjiang New Energy Equipment Co. Ltd. Forge Strategic Partnership
+Read more
+March 8, 2024
+pv magazine
+GameChange validates 40-year maintenance-free design of Genius Tracker drive system
+Read more
+February 21, 2024
+pv magazine
+GameChange to expand U.S manufacturing of solar tracking to 35 GW
+Read more
+January 21, 2024
+scatec
+Scatec starts commercial operation of solar power plants in Pakistan
+Read more
+October 12, 2023
+Yahoo! Finance
+GameChange Solar Announces Landmark Deal For Supplying Solar Trackers To Support 560 MW Capacity In Egypt
+Read more
+September 29, 2023
+North American Clean Energy
+GameChange Solar Expanding Manufacturing Capacity in USA to 36 GW for 2024
+Read more
+April 19, 2023
+cision pr newswire
+GameChange Solar Supplying Electricity to Over 15 Million People in 5.8 Million Homes
+Read more
+February 1, 2023
+solar industry
+GameChange Solar Introduces Solar Project Management Solution
+Read more
+January 1, 2023
+saur energy international
+GameChange Solar bags 2.3GW Worth Solar Tracker Deals In Florida, US
+Read more
+January 1, 2023
+pv magazine
+GameChange Solar launches 1P-2Row Genius Tracker
+Read more
+Home
+About Us
+Products & Services
+Genius Tracker
+Genius Tracker TF
+Fixed Tilt
+Maxspan
+Ultrafix
+Ballasted
+Pour-in-place
+Precast
+Landfill Solar Racking Leader
+Software & Controls
+Technical Services
+Training
+Transformers
+Who We Work With
+Project Portfolio
+ESG
+News & Insights
+Press Releases
+In the News
+Events
+Upcoming Events
+SolarConnections
+Careers
+Contact
+Locations
+Technical Support
+Request a quote
+bottom of page
+
+--------------------------------------------------------------------------------
+
+URL: https://www.gamechangesolar.com/upcoming-events
+
+top of page
+Upcoming Events
+January 13-15, 2026
+WFES 2026
+Abu Dhabi, UAE
+The World Future Energy Summit is a global think tank, powered by global innovation, pioneering minds and groundbreaking insights. The Summit brings together the decision-makers shaping global energy transition pathways. GameChange Solar is proud to be the Clean Energy & Solar Conference Sponsor.
+January 20-22, 2026
+PowerGen International
+San Antonio, TX
+PowerGen is a premier networking and business hub for power generation professionals and solution providers. Bringing together power producers, utilities, EPCs, consultants, OEMs, and large-scale energy users, it serves as a platform to explore innovative solutions amid the shift towards cleaner and more sustainable energy sources. Visit the GameChange BOS team at Booth #2859.
+February 4-5, 2026
+Energyear Brazil
+São Paulo, Brazil
+Energyear Brazil is a prominent event focused on the renewable energy sector in Brazil, bringing together key stakeholders, including government officials, industry experts, and business leaders. It offers a platform to discuss the latest trends, challenges, and advancements in renewable energy, with an emphasis on solar, wind, and other sustainable energy solutions tailored for the Brazilian market. GameChange Solar is a Silver Partner and Everton Stein, Associate Director of Engineering, will join one of the panel discussions.
+February 12, 2026
+Future Energy Summit Iberia
+Madrid, Spain
+Future Energy Summit Spain is a major international energy sector event focused on accelerating the transition to renewable energy across the Iberian Peninsula. This summit brings together industry leaders, senior executives, regulators, investors, and policymakers to discuss the latest developments in renewable technologies, energy storage, grid integration, and business models shaping the future energy landscape. Visit GameChange’s stand and don’t miss Oscar Aira’s contribution to one of the key panel discussions.
+February 19, 2026
+Energyear Portugal
+Lisbon, Portugal
+Energyear Portugal is a premier B2B event focused on the renewable industry in Portugal. It gathers leaders and stakeholders across the energy sector, including developers, technology providers, financiers, regulators and ESG professionals, for high-level networking, innovation discussions, and business matchmaking. GameChange Solar is Silver Partner and is excited to contribute to one of the panel discussions.
+March 4-5, 2026
+Future Energy Summit Argentina
+Buenos Aires, Argentina
+Future Energy Summit Argentina is a premier international conference and networking platform focused on the energy transition and sustainable growth in Latin America. The summit brings together energy leaders, government officials, investors, project developers, and industry innovators to explore the latest trends in renewable energy, storage solutions, green hydrogen, grid modernization, financing, and distributed generation. Participants engage in high-level discussions, panels, and networking opportunities designed to foster collaboration, drive investment, and accelerate the adoption of clean energy technologies across the region. GameChange Solar is exhibiting and speaking on one of the panels.
+March 11-12, 2026
+Energyear Chile
+Santiago de Chile, Chile
+GameChange Solar is one of the Silver Partner and looking forward to speaking at Energyear Chile 2026. The event focuses on the renewable energy sector in Chile, bringing together key stakeholders, including government officials, industry experts, and business leaders. It offers a platform to discuss the latest trends, challenges, and advancements in renewable energy, with an emphasis on solar, wind, and other sustainable energy solutions tailored for the Chilian market.
+March 15-18, 2026
+Solar + Wind Finance & Investment
+Phoenix, AZ
+The Solar + Wind Finance & Investment Summit will gather a who’s who for phenomenal deal-making and strategizing opportunities to capitalize on today’s booming renewables market: with more space for meetings, expanded scope of topics, and the option to arrive early and take advantage of the luxury surroundings and amenities. GameChange Solar is a Premier Sponsor and excited to have Phillip Vyhanek, CEO, contribute to the panel discussion on Begun Construction Strategies: Hedging Your Bets on Compliance at 1:35 PM in the McArthur Ballroom on Tuesday, March 16, 2026.
+bottom of page
+
+--------------------------------------------------------------------------------

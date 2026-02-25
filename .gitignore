@@ -1,0 +1,58 @@
+# ========================
+# OS Files
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# VS Code
+# ========================
+.vscode/
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# ========================
+# Azure Functions
+# ========================
+.local.settings.json
+bin/
+obj/
+
+# ========================
+# Logs
+# ========================
+*.log
+
+# ========================
+# Text Files (Optional)
+# ========================
+# Uncomment if you want to ignore ALL txt files
+# *.txt
+
+# ========================
+# Excel Exports / Data Dumps (Optional)
+# ========================
+*.xlsx
+*.csv
+
+# ========================
+# Node (if ever used)
+# ========================
+node_modules/

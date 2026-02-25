@@ -1,0 +1,431 @@
+ROOT: https://alionenergy.com/
+SCRAPED_AT_UTC: 2026-02-11T19:47:51.666563Z
+PAGES_INCLUDED: 24
+
+================================================================================
+
+URL: https://alionenergy.com/
+
+Alion Energy provides the best tracker, kept clean to deliver the most energy and ballasted to perform in the most challenging sites.
+Reflective, ballasted foundations, paired with automated cleaning solutions, plus a durable, high wind capable tracker design, improve energy yield and protect against performance loss.
+Alion Energy builds local, utility scale projects faster and for lower cost, while producing more energy yield than standard pv tracker projects. Generate higher returns with the lowest cost of power in the industry.
+
+--------------------------------------------------------------------------------
+
+URL: http://www.alionenergy.com/about-alion/sitemap/
+
+Home
+About Alion
+Management and Board
+Why Alion
+Advantage
+O&M
+FAQ
+ProductsAlion Mounting System (AMS)Automated Cleaning
+Resources
+In the News
+Videos
+Events
+Careers
+Contact
+
+--------------------------------------------------------------------------------
+
+URL: http://www.alionenergy.com/about-alion/
+
+About Alion
+About Alion
+Founded in 2008, Alion Energy has fundamentally redesigned the way utility scale solar is built and maintained.
+As an innovative mounting technologies and O&M solutions provider, Alion Energy combines fixed tilt and single axis tracker technology with fully autonomous O&M robotics to guarantee maximum power generation at lowest possible overall cost from PV systems.
+This required rethinking the entire installation process and structure from the ground up, not simply making incremental improvements to existing racking systems, to develop utility scale solutions designed to extend system life and integrate fully autonomous O&M robotics.
+No other can use a single robot to perform dry or wet cleaning on 5MW+ systems autonomously, while using robust concrete mounting structures to extend system life to 50 years even in harsh environments.
+Alion Energy. The Most Power from PV.
+
+--------------------------------------------------------------------------------
+
+URL: http://www.alionenergy.com/about-alion/management-and-board/
+
+About Alion
+Our Management Team
+Our management team has deep expertise with every level of the solar value chain. Our experience begins with manufacturing, continues through project development and installation, and ends with quality operations and maintenance. Together, our team has produced over 4 GW of solar energy.
+Mark Kingsley, President & CEO: Mark joined Alion after leading Trina Solar’s rapid growth and global expansion as the Chief Commercial Officer. Prior to this, Mark led the turnaround of ABB’s >$1B Robotics business unit. While a Senior Executive at GE, Mark served as the Chief Marketing Officer of $1.8B GE Sensing & Inspection Technologies. Prior to his CMO role, Mark was an executive in GE’s $6B plastics business. He served as General Manager of automotive marketing in Tokyo, Japan; President of Latin America in Saõ Paulo, Brazil; and Product Manager in Selkirk, New York.
+Marc Zablatsky, CFO: Marc has a 25-year track record of financial leadership, fundraising and accelerating growth for early stage companies, turnarounds and international organizations ready to scale. He is a builder of businesses in B2C / B2BC technology-focused organizations in consumer goods & services, retail, SaaS and education and the emerging aging marketplace. Marc has extensive experience setting up and running teams in FP&A, Fundraising, Corporate Strategy, Operations, Business and Product Development, Quality Assurance, Customer Service and Marketing.
+Marc is also a strong supporter of social enterprise ventures. He was CEO of Fitness Forward, COO of Management Leadership for Tomorrow and was President of the Harvard Business School Alumni Club. To help startups with smarter finance, Marc is armed with an MBA from Harvard Business School and a B.S from Babson College where he triple major in Finance, Economics and Marketing and graduated Magna Cum Laude.
+Board Members
+President & CEO, Alion Energy, Mark Kingsley: Mark joined Alion after leading Trina Solar’s rapid growth and global expansion as the Chief Commercial Officer. Prior to this, Mark led the turnaround of ABB’s >$1B Robotics business unit. While a Senior Executive at GE, Mark served as the Chief Marketing Officer of $1.8B GE Sensing & Inspection Technologies. Prior to his CMO role, Mark was an executive in GE’s $6B plastics business. He served as General Manager of automotive marketing in Tokyo, Japan; President of Latin America in Saõ Paulo, Brazil; and Product Manager in Selkirk, New York.
+President, Cratus Energy, Board Member, Alion Energy, Jesse Atkinson: Jesse has over 10 years of experience in solar energy, including 5 years of utility scale PV project development and business development with Turner Renewable Energy and First Solar. He developed First Solar’s initial utility scale projects, including the 21 MW Blythe project and 30 MW Cimarron project, as well as a large portfolio acquisition of over 2GW. Additionally, Jesse helped establish First Solar’s office in China and led initial project development efforts there. With Alion Energy, he leads marketing and business development efforts globally. Jesse holds a B.S. in Mechanical Engineering from Duke University and an MBA from the University of Texas.
+Board Member, Alion Energy, Mark Austin: Mark is a Venture Partner with Bright Capital, a global venture capital firm focused on investments in clean and alternative energy, energy and resource efficiency, advanced materials, energy storage, agtech, water, and green chemistry. Prior to Bright Capital, as Managing Director of Chandler Reed LLC, Mr. Austin served as a strategic growth advisor to CEOs of microcap, growth stage, new ventures and startup technology based companies, and was a consultant at UNDP’s Sustainable Energy & Environment Division (SEED) in the area of sustainable technologies globally, as well as to other UN agencies. Earlier, Mr. Austin has been a serial tech entrepreneur in the fields of electrooptics, medical devices, and advanced materials manufacturing systems. As a startup entrepreneur, he has patents issued in 30 countries and has won international design awards. Mr. Austin serves on the Board of Directors of several VCfunded technology companies, and on the National Renewable Energy Lab’s (NREL) Investment Advisory Board. He has mentored entrepreneurs in Africa, is an advisor to tech startup incubators, and is an EntrepreneurinResidence (EIR) with NYSERDA (NYS Energy Research & Development Authority). He presents regularly at conferences in the US, and has spoken at conferences from Beijing to Bilbao, Kingston to Krasnoyarsk, on venture investing, entrepreneurship, strategy, innovation and sustainable technologies. Mr. Austin is a graduate of Williams College.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alionenergy.com/about-alion/management-and-board/
+
+About Alion
+Our Management Team
+Our management team has deep expertise with every level of the solar value chain. Our experience begins with manufacturing, continues through project development and installation, and ends with quality operations and maintenance. Together, our team has produced over 4 GW of solar energy.
+Mark Kingsley, President & CEO: Mark joined Alion after leading Trina Solar’s rapid growth and global expansion as the Chief Commercial Officer. Prior to this, Mark led the turnaround of ABB’s >$1B Robotics business unit. While a Senior Executive at GE, Mark served as the Chief Marketing Officer of $1.8B GE Sensing & Inspection Technologies. Prior to his CMO role, Mark was an executive in GE’s $6B plastics business. He served as General Manager of automotive marketing in Tokyo, Japan; President of Latin America in Saõ Paulo, Brazil; and Product Manager in Selkirk, New York.
+Marc Zablatsky, CFO: Marc has a 25-year track record of financial leadership, fundraising and accelerating growth for early stage companies, turnarounds and international organizations ready to scale. He is a builder of businesses in B2C / B2BC technology-focused organizations in consumer goods & services, retail, SaaS and education and the emerging aging marketplace. Marc has extensive experience setting up and running teams in FP&A, Fundraising, Corporate Strategy, Operations, Business and Product Development, Quality Assurance, Customer Service and Marketing.
+Marc is also a strong supporter of social enterprise ventures. He was CEO of Fitness Forward, COO of Management Leadership for Tomorrow and was President of the Harvard Business School Alumni Club. To help startups with smarter finance, Marc is armed with an MBA from Harvard Business School and a B.S from Babson College where he triple major in Finance, Economics and Marketing and graduated Magna Cum Laude.
+Board Members
+President & CEO, Alion Energy, Mark Kingsley: Mark joined Alion after leading Trina Solar’s rapid growth and global expansion as the Chief Commercial Officer. Prior to this, Mark led the turnaround of ABB’s >$1B Robotics business unit. While a Senior Executive at GE, Mark served as the Chief Marketing Officer of $1.8B GE Sensing & Inspection Technologies. Prior to his CMO role, Mark was an executive in GE’s $6B plastics business. He served as General Manager of automotive marketing in Tokyo, Japan; President of Latin America in Saõ Paulo, Brazil; and Product Manager in Selkirk, New York.
+President, Cratus Energy, Board Member, Alion Energy, Jesse Atkinson: Jesse has over 10 years of experience in solar energy, including 5 years of utility scale PV project development and business development with Turner Renewable Energy and First Solar. He developed First Solar’s initial utility scale projects, including the 21 MW Blythe project and 30 MW Cimarron project, as well as a large portfolio acquisition of over 2GW. Additionally, Jesse helped establish First Solar’s office in China and led initial project development efforts there. With Alion Energy, he leads marketing and business development efforts globally. Jesse holds a B.S. in Mechanical Engineering from Duke University and an MBA from the University of Texas.
+Board Member, Alion Energy, Mark Austin: Mark is a Venture Partner with Bright Capital, a global venture capital firm focused on investments in clean and alternative energy, energy and resource efficiency, advanced materials, energy storage, agtech, water, and green chemistry. Prior to Bright Capital, as Managing Director of Chandler Reed LLC, Mr. Austin served as a strategic growth advisor to CEOs of microcap, growth stage, new ventures and startup technology based companies, and was a consultant at UNDP’s Sustainable Energy & Environment Division (SEED) in the area of sustainable technologies globally, as well as to other UN agencies. Earlier, Mr. Austin has been a serial tech entrepreneur in the fields of electrooptics, medical devices, and advanced materials manufacturing systems. As a startup entrepreneur, he has patents issued in 30 countries and has won international design awards. Mr. Austin serves on the Board of Directors of several VCfunded technology companies, and on the National Renewable Energy Lab’s (NREL) Investment Advisory Board. He has mentored entrepreneurs in Africa, is an advisor to tech startup incubators, and is an EntrepreneurinResidence (EIR) with NYSERDA (NYS Energy Research & Development Authority). He presents regularly at conferences in the US, and has spoken at conferences from Beijing to Bilbao, Kingston to Krasnoyarsk, on venture investing, entrepreneurship, strategy, innovation and sustainable technologies. Mr. Austin is a graduate of Williams College.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alionenergy.com/about-alion/
+
+About Alion
+About Alion
+Founded in 2008, Alion Energy has fundamentally redesigned the way utility scale solar is built and maintained.
+As an innovative mounting technologies and O&M solutions provider, Alion Energy combines fixed tilt and single axis tracker technology with fully autonomous O&M robotics to guarantee maximum power generation at lowest possible overall cost from PV systems.
+This required rethinking the entire installation process and structure from the ground up, not simply making incremental improvements to existing racking systems, to develop utility scale solutions designed to extend system life and integrate fully autonomous O&M robotics.
+No other can use a single robot to perform dry or wet cleaning on 5MW+ systems autonomously, while using robust concrete mounting structures to extend system life to 50 years even in harsh environments.
+Alion Energy. The Most Power from PV.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alionenergy.com/
+
+Alion Energy provides the best tracker, kept clean to deliver the most energy and ballasted to perform in the most challenging sites.
+Reflective, ballasted foundations, paired with automated cleaning solutions, plus a durable, high wind capable tracker design, improve energy yield and protect against performance loss.
+Alion Energy builds local, utility scale projects faster and for lower cost, while producing more energy yield than standard pv tracker projects. Generate higher returns with the lowest cost of power in the industry.
+
+--------------------------------------------------------------------------------
+
+URL: https://alionenergy.com/contact/
+
+Alion Energy 2200 Central Street, Unit D Richmond, CA 94801, USA (510) 965-0868
+For general questions, media questions, sales opportunities or anything else, please fill out the form below or call Alion Energy at (510) 965-0868.
+Full Name*
+Company Name*
+Email*
+Phone*
+Inquiry*
+Enter code*
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alionenergy.com/why-alion/
+
+Why Alion
+Why Alion Energy
+Alion Energy’s technology suite delivers the most power from PV. Our evolved pv tracker designs, combined with a selection of extruded and reflective ballasted foundations enable clients to build local, utility scale projects faster and with significantly less labor. Further, energy output is maximized with simple, cost-effective cleaning & albedo control robots. The entire tracking structure and method was designed from the ground up to work with our robots, and the robots were designed to work with our mounting. The result is the lowest cost of electricity in the solar industry. As an innovative EPC and O&M service provider, we build local, utility scale projects faster and for up to 20% less, while producing more energy than standard projects.
+Higher Energy Yields
+We offer a holistic solution covering foundations, tracking structures and robotics. Our reflective foundations allow tracker heights to be optimized to maximize bifacial gains from both direct and diffuse sources of irradiance. Our foundations also help prevent vegetation blocking reflected light from reaching rear-side bifacial cells while improving site fire safety. To ensure higher performance, our O&M robotics platform can clean in dry and wet modes and will also measure and remediate site albedo levels.
+Lower Installed Costs
+Smaller crews, faster installations and fewer materials deliver higher profits and make local, utility-scale projects more affordable. Construction schedule may be more level-loaded as foundation installation may be completed while steel structural components are in transit by ship.
+Higher Panel Performance
+SPOT – the most asset efficient, cost-effective dry & wet robotic cleaning solution – provides automated solar hygiene to prevent performance loss due to soiling, especially in desert and dusty areas. />
+Ideal for Challenging Environments
+While we improve the LCOE for any project, our non-penetrating, concrete rail system and powerful adhesives are ideal for:
+- Brownfields and landfills where soil can’t be penetrated
+- Rocky, active clay, karst soils and high water tables
+- Environments that can corrode metal
+- High-wind environments
+Rocky and Sloping Ledges
+Rapid Vegetation Growth & Under-module Fire Prevention
+Corrosive Volcanic Soils with Ballasted Tracker Placed Above Tribal Subsurface Archeological Remains
+High Seismic over River Cobble
+Active Clays & High Water Tables
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alionenergy.com/why-alion/advantage/
+
+Why Alion
+Advantage
+Storm Tracker
+- Difficult terrain, high slope and high wind tolerant
+- Panel agnostic (framed of frameless, dual glass, cSi or thin film)
+- Storm Lock technology turns system into a fixed tilt for stow, eliminating galloping and increasing strength
+- Half the steel of market leading torque tube single axis trackers
+- Fully ballasted concrete base
+- No corrosion
+- Long life (50+ years)
+- Readily available / low cost materials and install tools
+SPOT – Fully Autonomous Cleaning
+-
+High quality cleaning with row to row capability
+-
+Dry and wet cleaning modes, with 75% less water than manual when in wet mode
+- 30 Year life time testing – proven to protect panels from degradation
+- Intelligent, remotely monitored and controlled O&M platform
+AMS 2.8
+-
+Fully Ballasted -> Eliminate geotech risk
+-
+Simplified Install, minimal parts and steps in the field -> Reduce labor cost and logistical issues in the field, improve quality
+-
+50+ Year System LIfe -> Corrosion resistant concrete and metal mounting with active SPOT maintenance extends life of projects
+-
+Low profile -> high wind strength and low visibility
+-
+Concrete ballast -> localized material sourcing
+-
+Automated O&M capable
+FUTURE PRODUCTS (COMING SOON)
+-
+SPOT
+-
+FLIR infrared imaging for hotspot detection
+- Pictures of panels, wiring and connectors, structure and combiner boxes, etc for remote data collection and troubleshooting
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alionenergy.com/why-alion/o-m/
+
+O&M
+- Lifetime fully automated cleaning
+- Robust and strong for 30+ years
+- Maximizes energy & ROI
+- Reduces water usage
+- Remotely controlled & monitored
+SPOT is the only fully automated cleaning system with capability to perform both wet and dry cleaning operations.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alionenergy.com/products/
+
+Products
+Products
+Alion Energy StormTracker® Single-Axis PV Tracker
+Alion Energy redesigned the single axis tracker to deliver a fundamentally lower lifecycle cost st
+ructure.
+- A better structural design substantially reduces steel use versus common torque-tube trackers while improve reliability in wind events
+- A slip-formed ballast enables easy construction on sites with difficult geotechnical conditions
+- The track ballast serves as part of the automated cleaning vehicle system, lowering the cost of panel cleaning and boosting bifacial gains
+Tracker install in Chile; Design eliminates need to roll heavy equipment to move torque-tubes and provides durable albedo boost for bifacial pv modules
+Alion Mounting System Fixed Tilt with integrated structures
+The Alion Mounting System uses an unfolding racking structure and slip-formed track ballast for fast field construction of fixed-tilt arrays on difficult sites.
+- Ballasted for easy construction on difficult ground
+- The track ballast enables low-cost, cleaning with water-carrying automated vehicles
+- The AMS is installed quickly and easily because of the unfolding racking system/>
+Fixed-tilt install in Mexico.
+Very fast install as structure comes pre-attached from the module factory & the legs fold out.
+Low profile aesthetic and high wind performance on clay.
+SPOT Automated Cleaning
+Alion Energy offers a robotic solar plant cleaning solution that makes cleaning reliable, low-cost, and easy.
+- The concrete ballast tracks built into the racking enable the autonomous, dry & wet-cleaning robotic vehicle
+- The robots can move row to row to minimize robot count per project using carts or rails
+Single Axis Tracker SPOT Robot
+Fixed-Tilt SPOT Robot and Row-to-Row Robotic Transfer plus Water Refill Cart
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alionenergy.com/products/alion-storm-tracker/
+
+Products
+Alion Storm Tracker®
+The Alion Storm Tracker is a ballasted single-axis tracker with optional automated cleaning robots for soiling & albedo control.
+- Fully ballasted for sites with challenging geotechnical conditions
+- Accommodates sites with uneven slopes with its articulated drive tube
+- Uses substantially less steel than leading torque tube trackers
+- Uses 30% more panels per drive than typical torque tube systems
+- Enables Alion’s automated SPOT panel cleaning system (see information for SPOT)
+- Compatible with framed or frameless modules, including thin film, and bifacial panels
+- High wind zone capable
+System Information
+The patent pending Alion Storm Tracker uses a continuous, jointed concrete track that supports a distributed structure for inherently high stiffness. A drive tube transmits torque from a row-based motor and slew drive to a series of gears that rotate each tracker section. The patent pending Storm Lock mechanism locks the tracker in a stow position, enabling a lower-cost drive and structure. Major parts are factory pre-assembled to reduce field labor and field construction time.
+Performance
+Single-axis rotation greater than +/- 60°
+Ballasted system can traverse up to 15% slope
+A single drive can operate up to 145 72-cell modules
+Strong A-Frame and Arc Structure
+Storm-Lock disengages drive system during high-wind events. Enables longer strings for 10% CAPEX savings.
+Geared design enables smaller drives to control longer rows
+Enhanced bifacial gains from 3-dimensional reflective foundations
+More stable and durable high albedo surfaces maintained at lower annual costs
+Lower bifacial rear-side pv cell shading loss than torque tube trackers
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alionenergy.com/products/alion-mounting-system-ams/
+
+Products
+Alion Mounting System (AMS)
+The patented Alion Mounting System uses an unfolding racking structure and slip-formed track ballast for fast field construction on difficult sites.
+- The system is ballasted to ease construction for sites with difficult geotechnical conditions, e.g. very hard or very soft ground
+- The track ballast enables the Alion SPOT cleaning system that delivers low-cost, cleaning with water-carrying automated vehicles
+- Panels arrive at site with racking attached onto their backs in a folded position. They are quickly unfolded and installed for fast and simple construction.
+Construction Method
+The AMS construction method is designed to simplify logistics and to make construction fast and simple.
+Construction Steps:
+- A slip-form paver is used to make the concrete track ballast. These machines are used all around the world to make curbs, highway barriers, and other similar concrete structures. Unreinforced concrete is used.
+- Metal leg structures are fastened to the backs of the solar panels with adhesive at the solar panel factory. Panels are shipped to site with most of the racking components attached in a folded position.
+- At the project site, workers unfold the legs on the back of each panel, attach a cross brace, and place them in position on the track. A second brace is attached between panels.
+- The metal feet are fastened to the concrete track with construction epoxy.
+Alion’s AMS technology is covered in U.S. patent #9,657,967 and by corresponding foreign patents in multiple countries.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alionenergy.com/products/automated-cleaning-1/
+
+Products
+Automated Cleaning
+Solar Panel Soiling
+Utility-scale solar plants are well suited for places with strong sunlight and large areas of land that are covered neither by farms nor forest. However, solar panel soiling from wind-driven dust can be a major issue in these places. In semi-arid locations such as the San Joaquin Valley, in California, USA, unaddressed seasonal soiling can be severe enough to significantly degrade a project’s rate of return. In dusty arid places like Saudi Arabia or Rajasthan, India, year-round soiling conditions can make solar projects unviable unless regular solar panel cleaning is employed.
+Alion Energy’s SPOT Panel Cleaning System
+Alion Energy has developed a robotic solar plant cleaning solution to make effective, frequent panel cleaning fit into a project’s tight Operations and Maintenance budget. The racking and vehicle system have been designed together to elegantly leverage automation in a cost-effective way.
+- The racking’s concrete ballast serves as a track for the vehicle. The vehicle neither drives dust into the air from driving on the ground nor puts weight on the panels or racking structure.
+- The robotic vehicle operates autonomously while cleaning a solar panel row and carries its own water, ensuring high quality, repeatable cleaning results with very low labor usage.
+- The vehicle moves from row to row, keeping robot count to a minimum. This reduces costs substantially, increases equipment flexibility, and reduces maintenance tasks versus solutions with one robot per row.
+SPOT Cleaning Vehicle Components
+The patent-pending SPOT Cleaning Vehicle is a track-based driving robot with a cleaning head, a water tank, a propulsion and energy system, and a control system. The cleaning head draws water from a water tank to deposit water on the solar panels and uses a spinning brush and a wiper to clean the panels. Alternatively, a dry-cleaning mode can be employed under certain soiling conditions to conserve water. The vehicle is driven by electric motors connected to the wheels. The vehicle is self-powered; a solar panel charges a battery system to provide power for the motors.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alionenergy.com/resources/
+
+Resources
+Resources
+Alion Energy Completes Black & Veatch Independent Assessment
+Black & Veatch, an industry leading independent Engineering firm has completed an independent assessment of Alion Energy’s core mounting systems and automated cleaning solutions. These detailed reports encompasses the Alion Energy StormTracker® single-axis tracker, our Alion Mounting System fixed-tilt solution and SPOT cleaning robots, including full engineering reviews of a wind study with CPP & RWDI Wind, corrosion analysis, long term lifecycle testing, and other qualifications. Additionally, the study covers the supply chain, project execution and quality management capabilities of Alion Energy.
+Overall, Black & Veatch found that Alion’s technology “provides benefits that typical post driven and other concentrated ballasted technologies cannot” including “installations where grounding penetrating or high pressure systems may not be applicable”. Further, the report finds that Alion’s system is “designed using industry best practices and standards” for mounting structure, testing and quality management.
+For more details and the full report please contact Alion Energy
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alionenergy.com/resources/videos/
+
+Resources
+Videos
+Alion Energy provides the best tracker, kept clean to deliver the most energy and ballasted to perform in the most challenging sites.
+Reflective, ballasted foundations, paired with automated cleaning solutions, plus a durable, high wind capable tracker design, improve energy yield and protect against performance loss.
+Alion Energy builds local, utility scale projects faster and for lower cost, while producing more energy yield than standard pv tracker projects. Generate higher returns with the lowest cost of power in the industry.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alionenergy.com/resources/faq/
+
+Resources
+Frequently Asked Questions
+How many acres per MW are required for this type of array?
+Typically 4-5 acres/MWp depending on row spacing.
+How much can we save over standard rack solutions?
+Minimizing labor and logistics on site reduces the costs of installed racking with modules attached, often over 30%. Alion eliminates the risk of rework from rejected piles and the cost of additional steel and coatings in corrosive & high wind environments.
+Will the concrete crack and break over time?
+Alion Energy works closely with concrete structural experts to ensure the optimal design will last for decades.
+Will the glue hold for 40 years?
+Yes. The 2-part epoxy is approved by US Dept. of Transportation for anchoring bolts in bridges.
+How long is the warranty?
+15 Year Limited Product Warranty
+- will be free from defects in design, material, workmanship or manufacture that materially impede their functioning, and
+- will conform to the specifications and the drawings applicable thereto.
+Most systems are at a minimum of 18” above ground. Will the output be reduced by shading from weeds?
+SPOT will automatically manage the vegetation for you keeping the site trimmed to 6”. The concrete ballast eliminates the growth under the modules removing the majority of growth and eliminating manual weed abatement.
+Does the solution require compaction and a gravel base for slab on grade construction?
+Ground preparation is site specific depending upon the geotechnical report. No gravel base is required as this is not a roadway and will not be exposed to heavy truck traffic loads. The four standard pieces of data we will use to optimize our foundation designs are: (1) soil bearing capacity, (2) soil coefficient of friction, (3) wind requirement, and (4) seismic loads.
+What is the maximum variability in grade and what site prep is required?
+Limited by heavy trucks ability to deliver both concrete and PV Modules. Maximum slope is 15% grade. Our flexible couplings between tracker tables allow our structures to follow the terrain sinusoidally. 5% change in call directions each 4 to 8 pv modules.
+What are the site water requirements per MW of construction?
+It’s in the cost of concrete already.
+340,000 liters (90,000 gallons) potable or well water if we have site batch plant.
+What are the impacts to site drainage and Storm Water Pollution Prevention Plan?
+We use site specific hydrological analysis to design for water flow considerations. We have segmented foundations and other solutions to successfully address SWPP Plans.
+What are the impacts on wildlife? Have you seen nesting under the panels?
+The space under the modules is inhospitable to wildlife. Rodents prefer enclosed spaces such as conduit to minimize exposure to predators.
+How is my Conditional Use Permit impacted by change from posts to continuous ballast rails? Will an on-site batch plant be a big impact?
+A simple change to a less intrusive, non-penetrating solution. On-site batch plants reduce the number of concrete trucks on the roads. Concrete maximizes use of local materials from local suppliers which typically enhances the value of the project for the community.
+Won’t the exposed wires be chewed by rodents?
+Every PV plant has exposed wires. Rodents tend to chew for nesting in tight spaces that do not exist in this design without conduits.
+Is it safe and within code to eliminate the grounding of the module and racking?
+IE evaluations are available. The concrete ballast and support structures are non-conductive.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alionenergy.com/resources/events/
+
+Resources
+Events
+Inter Solar North America
+More Info
+Intersolar and ees North America, the premier solar and energy storage exhibition and conference in North America, welcomed an expected 15,000 attendees to San Francisco’s Moscone Center.
+Inter Solar South America
+More Info
+With expected more than 12,500 visitors, the 6th Intersolar South America exhibition and conference - is the key platform for promoting solar technologies in South America in 2018. Over 240 international exhibitors will showcase their latest trends to industry specialists, investors, and project planers over the course of three days.
+SPI Anaheim
+More Info
+With 20,000+ attendees, 700+ exhibitors, and four days of power-packed ROI, there is no question why the largest and fastest growing solar + storage event is the only industry event you should attend this year.
+WFES in Abu Dhabi
+More Info
+WFES Solar is the essential marketplace for the global renewable energy community. With the UAE and KSA leading the way in solar and clean energy development, WFES Solar connects local stakeholders with solution providers from around the world to execute the massive solar investments in the region.
+Mirec Week
+More Info
+Once a year, a marketplace for Mexico’s clean energy sector is established for the entire value chain to meet, network and learn in one location over four days. That marketplace is MIREC WEEK, Mexico’s leading clean energy & mobility exhibition & congress.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alionenergy.com/resources/careers/
+
+Resources
+Careers
+Alion Energy is a new kind of renewable energy company with technology and products that will allow us to make a significant and cost effective contribution to solving the world’s energy issues. Our innovative engineering and technology teams coupled with our cost-effective approach to designing and building utility scale power plants, allow us to provide clean, inexpensive, renewable energy solutions that set us apart from the rest of the field. We are passionate about using renewable energy to make a real difference in our world.
+We provide a comprehensive benefits package including: PTO, Paid Holidays, Medical, Dental, Vision, 401(k) and Competitive Salary. At Alion, we operate in a casual teamwork environment.
+We are looking for talented people to join our team. If you are interested in joining our team, please send your resume to the email listed in the job descriptions.
+
+--------------------------------------------------------------------------------
+
+URL: https://www.alionenergy.com/resources/press-releases-1/
+
+Resources
+Press Releases
+Bifacial shines as PV power booster in cloudy conditions
+CROWS NEST, NSW, AUSTRALIA September 18, 2020 – Ecogeneration Magazine: US solar tracking company Alion Energy explains the results of research that shows how premium equipment can reap respectable yields from non-premium sites Read more
+PV Magazine - The long read: Bottom-optimization
+SYDNEY, NSW AUSTRALIA September 12, 2020 – Alion Energy featured in PV Magazine’s September issue discussing bifacial optimization. To drive the LCOE as low as possible, tracker manufacturers now also care about what is happening underneath the modules, and not just above. Read more
+PES Magazine - Yield is King
+BRISTOL, ENGLAND July 1, 2020 – Alion Energy featured in Power & Energy Solutions Magazine’s
+Ask the Experts – Trackers Read more
+Alion Energy’s Solar Energy Storm Tracker Chosen For 62MWp Vales Point Coal Ash Dam
+NEW YORK, USA & ADELAIDE, SA, AUSTRALIA November 5, 2019 - Enernet Global and Delta Electricity signed a power purchase agreement for the sale of 87GWh of energy to be generated from a 62 MW solar farm at the 52-year old, 1,320 MW Vales Point coal-fired power station. Alion Energy’s StormTracker® will be the exclusive single-axis solar tracker solution for the solar farm. Read more
+Fully Ballasted Solar Tracker and Cleaning Robots to be Implemented in Chile
+RICHMOND, CA June 15, 2018 – Alion Energy announces supply of its StormTracker® and SPOT robotic cleaning system for iEnergía’s 3.6MW Calle Larga project. Located approximately 75km north of Santiago, Chile.
+
+--------------------------------------------------------------------------------
+
+URL: http://www.alionenergy.com/
+
+Alion Energy provides the best tracker, kept clean to deliver the most energy and ballasted to perform in the most challenging sites.
+Reflective, ballasted foundations, paired with automated cleaning solutions, plus a durable, high wind capable tracker design, improve energy yield and protect against performance loss.
+Alion Energy builds local, utility scale projects faster and for lower cost, while producing more energy yield than standard pv tracker projects. Generate higher returns with the lowest cost of power in the industry.
+
+--------------------------------------------------------------------------------
+
+URL: http://www.alionenergy.com/contact/
+
+Alion Energy 2200 Central Street, Unit D Richmond, CA 94801, USA (510) 965-0868
+For general questions, media questions, sales opportunities or anything else, please fill out the form below or call Alion Energy at (510) 965-0868.
+Full Name*
+Company Name*
+Email*
+Phone*
+Inquiry*
+Enter code*
+
+--------------------------------------------------------------------------------
+
+URL: http://www.alionenergy.com/why-alion/
+
+Why Alion
+Why Alion Energy
+Alion Energy’s technology suite delivers the most power from PV. Our evolved pv tracker designs, combined with a selection of extruded and reflective ballasted foundations enable clients to build local, utility scale projects faster and with significantly less labor. Further, energy output is maximized with simple, cost-effective cleaning & albedo control robots. The entire tracking structure and method was designed from the ground up to work with our robots, and the robots were designed to work with our mounting. The result is the lowest cost of electricity in the solar industry. As an innovative EPC and O&M service provider, we build local, utility scale projects faster and for up to 20% less, while producing more energy than standard projects.
+Higher Energy Yields
+We offer a holistic solution covering foundations, tracking structures and robotics. Our reflective foundations allow tracker heights to be optimized to maximize bifacial gains from both direct and diffuse sources of irradiance. Our foundations also help prevent vegetation blocking reflected light from reaching rear-side bifacial cells while improving site fire safety. To ensure higher performance, our O&M robotics platform can clean in dry and wet modes and will also measure and remediate site albedo levels.
+Lower Installed Costs
+Smaller crews, faster installations and fewer materials deliver higher profits and make local, utility-scale projects more affordable. Construction schedule may be more level-loaded as foundation installation may be completed while steel structural components are in transit by ship.
+Higher Panel Performance
+SPOT – the most asset efficient, cost-effective dry & wet robotic cleaning solution – provides automated solar hygiene to prevent performance loss due to soiling, especially in desert and dusty areas. />
+Ideal for Challenging Environments
+While we improve the LCOE for any project, our non-penetrating, concrete rail system and powerful adhesives are ideal for:
+- Brownfields and landfills where soil can’t be penetrated
+- Rocky, active clay, karst soils and high water tables
+- Environments that can corrode metal
+- High-wind environments
+Rocky and Sloping Ledges
+Rapid Vegetation Growth & Under-module Fire Prevention
+Corrosive Volcanic Soils with Ballasted Tracker Placed Above Tribal Subsurface Archeological Remains
+High Seismic over River Cobble
+Active Clays & High Water Tables
+
+--------------------------------------------------------------------------------

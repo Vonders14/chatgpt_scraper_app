@@ -1,0 +1,699 @@
+ROOT: https://pmec.us/
+SCRAPED_AT_UTC: 2026-02-11T20:26:39.398547Z
+PAGES_INCLUDED: 25
+
+================================================================================
+
+URL: https://pmec.us/
+
+Connecting people to the power of the ocean.
+PMEC is a consortium of universities focused on the responsible advancement of marine renewable energy by expanding scientific understanding, engaging stakeholders, and educating students.
+Researchers from the University of Washington, Oregon State University, and University of Alaska Fairbanks work closely with marine energy technology developers, academic and National Laboratory researchers, coastal community members, ocean users, federal and state regulators, and other government officials to address key challenges in the sector and accelerate its emergence.
+PMEC serves as an objective voice regarding the opportunities, capabilities, and effects of marine energy, including wave, tidal, riverine, and offshore wind resources.
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/about
+
+Going back over a decade, PMEC has been dedicated to accelerating the responsible development of wave, tidal, in-river, and offshore wind energy technologies. The Center unites faculty, staff and students across three leading universities in their work with key stakeholders to investigate technical, environmental, and social dimensions of marine energy.
+Our vision
+Connecting people to the power of the ocean.
+Our Purpose
+To responsibly advance marine energy by expanding scientific understanding, engaging stakeholders, and educating students.
+our values
+Visionary:
+Accelerating the emergence of marine energy requires long-term, bold and innovative thinking. We take on critical marine energy challenges and we embrace all stages of the innovation process.
+High-Impact:
+We strive to make the strongest possible positive impacts to the environment, society, the nation, and the planet. Our research aims to make measurable progress towards a more sustainable and resilient future.
+Objective:
+We believe that rigorous, impartial, and evidence-based approaches are the only way to provide credible results regarding the opportunities, capabilities and effects of marine energy.
+COLLABORATIVE:
+Teamwork, mentorship and collaboration are fundamental to PMEC's success. Our greatest achievements are the result of interdisciplinary teams working collectively within a welcoming environment to solve meaningful problems.
+OUR Organization
+PMEC is an umbrella organization that unifies research & development, testing, and educational programs in marine energy across Oregon State University (lead), the University of Washington, and the University of Alaska Fairbanks. A chart of our leadership structure is available here. Individual projects typically cross-cut these capabilities and often involve collaborative teams drawn from multiple institutions. For example, a graduate student might conduct research towards their degree at one of the affiliated test facilities. Further our scope includes technology, the environment, and society, with projects often cross-cutting these areas.
+Projects are collaborative with partners in private industry and National Laboratories.
+Our History
+In 2008, as part of congressional action establishing the Department of Energy’s marine energy research program, DOE was directed to create and support a number of National Marine Renewable Energy Centers (NMRECs). Three of these centers were competitively selected and launched at U.S. universities in the Pacific Northwest, the Southeast, and in Hawaii, each with unique research and testing capabilities related to addressing the most pressing questions for new marine energy technology development.
+At its inception, the Northwest National Marine Renewable Energy Center (NNMREC) was funded by a single DOE grant. Oregon State University (OSU) served as the lead organization and the University of Washington (UW) as a supporting partner. In the years since, NNMREC evolved into an umbrella organization that coordinates marine energy activities supported by DOE, as well as the Department of Defense (DOD), National Science Foundation (NSF), and Bureau of Ocean Energy Management (BOEM). During this time, NNMREC also expanded to include the University of Alaska Fairbanks (UAF), signed Memorandums of Understanding with multiple international institutions, and solidified partnerships with the marine energy industry and the three DOE National Laboratories with active research programs in marine energy (NREL, PNNL, and Sandia).
+In 2018, NNMREC rebranded as the Pacific Marine Energy Center.
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/previous-projects
+
+About
+Purpose & Organization
+Testing
+Contact
+FAQs
+Capabilities
+Research & Development
+Projects
+Current Projects
+Previous Projects
+People
+Leadership Team
+Advisory Board
+People of PMEC
+Industry
+Sponsors
+Get Involved
+Collaborate with PMEC
+Work with PMEC
+Study with PMEC
+OSU Marine Renewable Energy Club
+Publications & Education
+K-12
+Theses & Dissertations
+News
+Announcements
+Blog
+About
+Purpose & Organization
+Testing
+Contact
+FAQs
+Capabilities
+Research & Development
+Projects
+Current Projects
+Previous Projects
+People
+Leadership Team
+Advisory Board
+People of PMEC
+Industry
+Sponsors
+Get Involved
+Collaborate with PMEC
+Work with PMEC
+Study with PMEC
+OSU Marine Renewable Energy Club
+Publications & Education
+K-12
+Theses & Dissertations
+News
+Announcements
+Blog
+previous Projects
+Projects
+Current Projects
+Previous Projects
+The Pacific Marine Energy Center - South Energy Test Site (PMEC-SETS)
+2015 - 2018
+The Pacific Marine Energy Center - South Energy Test Site (PMEC-SETS)
+2014 - 2015
+Wave Energy Research, Testing and Demonstration Center
+2010 - 2014
+Establish university-led National Marine Renewable Energy Centers
+2008 - 2016
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/current-projects
+
+About
+Purpose & Organization
+Testing
+Contact
+FAQs
+Capabilities
+Research & Development
+Projects
+Current Projects
+Previous Projects
+People
+Leadership Team
+Advisory Board
+People of PMEC
+Industry
+Sponsors
+Get Involved
+Collaborate with PMEC
+Work with PMEC
+Study with PMEC
+OSU Marine Renewable Energy Club
+Publications & Education
+K-12
+Theses & Dissertations
+News
+Announcements
+Blog
+About
+Purpose & Organization
+Testing
+Contact
+FAQs
+Capabilities
+Research & Development
+Projects
+Current Projects
+Previous Projects
+People
+Leadership Team
+Advisory Board
+People of PMEC
+Industry
+Sponsors
+Get Involved
+Collaborate with PMEC
+Work with PMEC
+Study with PMEC
+OSU Marine Renewable Energy Club
+Publications & Education
+K-12
+Theses & Dissertations
+News
+Announcements
+Blog
+Current Projects
+Projects
+Current Projects
+Previous Projects
+Education and Outreach for Offshore Wind in Oregon
+Community Benefits from Offshore Wind
+Co-Design of Marine Energy Converters for Autonomous Underwater Vehicle Docking and Recharging
+Modeling the Integration of Marine Energy into Microgrids
+A Unified Multiphysics Approach for Modeling, Control, and Optimization of Wave Energy Converters (WEC)
+RAFT: Reconfigurable Array of High-Efficiency Ducted Turbines for Hydrokinetic Energy Harvesting
+National Marine Renewable Energy Center Infrastructure Upgrades
+Coupled Aerodynamic and Hydrodynamic Hybrid Simulation of Floating Offshore Wind Turbines
+Advanced Laboratory and Field Arrays – Lab Collaboration Project (ALFA-LCP) for Marine Energy
+Applied Research and Development to Support Open-Water Testing at PacWave
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/purpose-organization
+
+Going back over a decade, PMEC has been dedicated to accelerating the responsible development of wave, tidal, in-river, and offshore wind energy technologies. The Center unites faculty, staff and students across three leading universities in their work with key stakeholders to investigate technical, environmental, and social dimensions of marine energy.
+Our vision
+Connecting people to the power of the ocean.
+Our Purpose
+To responsibly advance marine energy by expanding scientific understanding, engaging stakeholders, and educating students.
+our values
+Visionary:
+Accelerating the emergence of marine energy requires long-term, bold and innovative thinking. We take on critical marine energy challenges and we embrace all stages of the innovation process.
+High-Impact:
+We strive to make the strongest possible positive impacts to the environment, society, the nation, and the planet. Our research aims to make measurable progress towards a more sustainable and resilient future.
+Objective:
+We believe that rigorous, impartial, and evidence-based approaches are the only way to provide credible results regarding the opportunities, capabilities and effects of marine energy.
+COLLABORATIVE:
+Teamwork, mentorship and collaboration are fundamental to PMEC's success. Our greatest achievements are the result of interdisciplinary teams working collectively within a welcoming environment to solve meaningful problems.
+OUR Organization
+PMEC is an umbrella organization that unifies research & development, testing, and educational programs in marine energy across Oregon State University (lead), the University of Washington, and the University of Alaska Fairbanks. A chart of our leadership structure is available here. Individual projects typically cross-cut these capabilities and often involve collaborative teams drawn from multiple institutions. For example, a graduate student might conduct research towards their degree at one of the affiliated test facilities. Further our scope includes technology, the environment, and society, with projects often cross-cutting these areas.
+Projects are collaborative with partners in private industry and National Laboratories.
+Our History
+In 2008, as part of congressional action establishing the Department of Energy’s marine energy research program, DOE was directed to create and support a number of National Marine Renewable Energy Centers (NMRECs). Three of these centers were competitively selected and launched at U.S. universities in the Pacific Northwest, the Southeast, and in Hawaii, each with unique research and testing capabilities related to addressing the most pressing questions for new marine energy technology development.
+At its inception, the Northwest National Marine Renewable Energy Center (NNMREC) was funded by a single DOE grant. Oregon State University (OSU) served as the lead organization and the University of Washington (UW) as a supporting partner. In the years since, NNMREC evolved into an umbrella organization that coordinates marine energy activities supported by DOE, as well as the Department of Defense (DOD), National Science Foundation (NSF), and Bureau of Ocean Energy Management (BOEM). During this time, NNMREC also expanded to include the University of Alaska Fairbanks (UAF), signed Memorandums of Understanding with multiple international institutions, and solidified partnerships with the marine energy industry and the three DOE National Laboratories with active research programs in marine energy (NREL, PNNL, and Sandia).
+In 2018, NNMREC rebranded as the Pacific Marine Energy Center.
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/testing
+
+From the benchtop to the Pacific Ocean, PMEC leverages world-class testing capabilities in waves, currents and power systems.
+Though PMEC does not maintain any testing facilities as a Center, it does have access to the combined testing capabilities of UW, OSU, and UAF, including world-class riverine and wave energy test sites and a purpose-built marine energy research vessel.
+O.h. HINSDALE Wave research Laboratory
+The O.H. Hinsdale Wave Research Laboratory at OSU is the largest nearshore experimental facility at an academic institution in the U.S.
+PacWave
+OSU is partnering with the U.S. Department of Energy and other stakeholders to build the nation’s most ambitious wave energy test facility located 7 miles off the Pacific coast near Newport, Oregon.
+Tanana River Site
+The Tanana River Hydrokinetic Test Site is used to test hydrokinetic power generating devices, related technologies, and to characterize the river environment under realistic Alaska river conditions.
+Harris Hydraulics Laboratory
+The Harris Hydraulic Lab at UW is a fully equipped laboratory for both teaching and research in environmental fluid mechanics, featuring multiple recirculating flumes.
+R/V Russell Davis Light
+The R/V Russell Davis Light at UW-APL is a purpose-built vessel for current turbine testing in either self-propelled or moored modes of operation.
+Power Systems Integration Lab
+The Power Systems Integration Lab at UAF tests hardware and software components within an integrated grid system at the scale of an Alaskan village power system.
+Wallace Energy Systems & Renewables Facility
+The WESRF at OSU provides research, testing, and consulting services related to machines and drives, power electronics, hybrid electric vehicles, power systems, and renewables.
+Testing@pmec.us
+We encourage potential collaborators to reach out directly to the PMEC facilities of interest, or email testing@pmec.us with questions about access to our testing facilities.
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/contact
+
+We want to hear from you. Please don't hesitate to fill out the contact information below.
+Call or Visit PMEC
+at OREGON STATE UNIVERSITY
+Dr. Bryson Robertson, Director
+Owen Hall
+Corvallis, OR 97331
+(541) 737-8286
+at The UNIVERSITY of Washington
+Dr. Chris Basset, Co-Director
+Applied Physics Lab
+Seattle, WA 98195
+(206) 543-1263
+at the University of Alaska Fairbanks
+Ben Loeffler, co-Director
+Alaska Center for Energy and Power
+University of Alaska Fairbanks
+PO Box 755910
+Fairbanks, AK 99775
+(907) 474-5475
+banner photo provided by Brian Polagye
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/faqs
+
+What is marine energy?
+For general purposes the term marine energy, also called marine renewable energy (MRE) or marine hydrokinetic energy (MHK), most commonly applies to energy generated from waves, tides, and currents. These forms of energy generation could be used in oceans, rivers, tidal areas, and a number of other marine settings. Marine energy can also include energy generated from ocean temperature gradients (ocean thermal energy conversion, or OTEC) and salinity gradients.
+While offshore wind is not technically a form of marine energy, many PMEC members are active in offshore wind research and development due to overlapping concerns in topics like power integration and ocean engineering.
+Traditional hydropower, energy generated in dams, is not considered to be marine energy.
+More introductory information about marine energy can be found on web pages from PMEC collaborators such as the DOE's Water Power Technologies Office, PNNL's Tethys Knowledge Base, and David Hume's Liquid Grid website.
+How can industry collaborate with PMEC?
+There are multiple ways to collaborate. On one end of the spectrum are transactional contracts at affiliated testing facilities with varying levels of support by staff, students, and faculty. On the other are sustained research & development partnerships that collaboratively address challenges faced by industry. The latter often lead to joint publications and graduate student theses that disseminate results to the broader community, while protecting the Intellectual Property of industry partners.
+PMEC also has an Industry Partner Network (IPN) whose members are invited to participate in its annual All-Center Meeting and receive periodic updates about PMEC activities. There is no charge to join the IPN. Questions on the IPN can be directed to IPN@pmec.us.
+Does PMEC have the resources to independently support early stage research and testing requested by industry?
+In general, no. Within the partner universities, most activity is aligned with specific funding objectives of federal, state, or private sponsors and cannot be unilaterally re-directed. PMEC is in the process of identifying mechanisms to better support early-stage collaborations with industry, particularly through the DOE's upcoming Testing Expertise and Access for Marine Energy Research (TEAMER) program.
+What does it mean for faculty, staff, or student researchers to affiliate with PMEC?
+Affiliation indicates coordinated research, development, and/or education activities in marine energy, along with a good faith commitment to engage with organizational initiatives (such as the All-Center Meeting). Faculty and staff who are Principle Investigators communicate funded research to the leadership team, such that this information can be used build support for new initiatives. In exchange, PIs can use their PMEC affiliation in research proposals to demonstrate their institutional strength in marine energy.
+Can a student receive a degree from PMEC?
+No, PMEC is not a degree-granting organization. Graduate and undergraduate students involved in PMEC activities are pursuing degrees from departments/schools within their respective universities. Prospective students can learn more about how to get involved with PMEC on the Study with PMEC page.
+Who funds PMEC's activities?
+PMEC was established by a single grant from the U.S. Department of Energy’s Wind and Water Power Office (DOE WPTO). This unified and expanded activity at Oregon State University and catalyzed activity at the University of Washington. Consortium-level funding from DOE played a similarly important role in bringing the University of Alaska Fairbanks into the Center in 2014.
+Since inception, activity across institutions has diversified and now includes individual programs funded by the DOE WPTO, as well as investments by other federal agencies, states, industry, and foundations. This diversity has varied over time at partner institutions. A list of major sponsors can be found on the Collaborate with PMEC page.
+How can I support PMEC?
+Though PMEC has no central mechanism for direct support, we are always looking for new opportunities to advance marine energy and open to new partnerships. The diverse set of organizations affiliated with PMEC provides a number of mechanisms for collaboration and we encourage potential partners to reach out directly to the PMEC researchers of interest.
+Who leads PMEC?
+The PMEC leadership team consists of a lead Director that can rotate between institutions and co-Directors at each partner institution. Associate Directors support the lead Director and co-Directors as needed.
+Current leadership team:
+- Director: Bryson Robertson (OSU)
+- Co-Directors: Shana Hirsch (UW), Benjamin Loeffler (UAF)
+- Associate Directors: Christopher Bassett (UW), Michelle DiBenedetto (UW), Sarah Henkel (OSU), Ted Brekken (OSU)
+What does the leadership team do?
+The leadership team coordinates activities across the institutions in a manner that provides the greatest benefit for industry, students, and government agencies.
+Who advises the leadership team?
+An Advisory Board consisting of representatives from governmental and non-governmental organizations, the Industry Partner Network, and the DOE National Laboratories active in marine energy (NREL, PNNL, and Sandia), advises the leadership team. At present, the Advisory Board convenes in a face-to-face meeting with the leadership team following the annual All-Center Meeting.
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/research-and-development
+
+PMEC researchers are most active in six primary areas: Marine Energy Resource Characterization; Wave Energy Conversion Technology; Current Energy & Turbine Technology; Marine Operations; Environmental Effects; and Society & Policy.
+PMEC is structured to close key gaps in understanding through the support of baseline studies, on-going monitoring, and setting the technical, ecological, and human dimensions standards for marine energy projects.
+Marine Energy Resource Characterization
+Understanding marine energy resources is fundamental to their utilization. PMEC research has expanded our understanding of waves and currents, particularly the extremes that impose the highest structural loads on conversion technologies.
+The µFloat project (pronounced “microFloat”) is an underwater float - a trackable, drifting sensor package - that is inexpensive enough to be deployed in swarms to perform simultaneous, distributed measurements in energetic tidal currents.
+Wave energy Conversion Technology
+Wave energy is the least utilized form of renewable energy and a challenging systems engineering problem that encompasses hydromechanics, control, and advanced mathematics. Research at PMEC seeks to develop more cost-effective approaches to harnessing this resource through simulation, laboratory experiments, and field trials.
+PMEC researchers are modeling and analyzing farms of floating oscillating water column wave energy converters to better understand the best ways to deploy and operate them in ocean conditions.
+Because wave energy conditions are widely variable, a wave energy converter's (WEC) control system should ideally be able to instantaneously adjust to marine conditions to increase power capture and improve survivability. But non-linear WEC control approaches that integrate advanced logic and machine learning approaches need further development and testing to be viable for commercial use.
+Current Energy & Turbine Technology
+The technology to convert tidal, river, and ocean currents to electricity has heavily leveraged advances in wind energy, but significant challenges remain. PMEC research has led to breakthroughs in the performance of individual turbines and dense arrays.
+Just because it performs in the flume, doesn’t mean it’ll perform in open water. PMEC experiments are helping to accurately extrapolate lab data to commercial scale.
+A series of experiments in the Alice C. Tyler flume at the University of Washington assessed performance of a cross-flow turbine under speed- or torque-regulated flow.
+The team set out to evaluate changes in cross-flow turbine power output and structural loads at various stages of barnacle colonization on turbine blades.
+Marine operations
+Anyone who has spent time at sea understands the difficulty of working in the marine environment. PMEC researchers are working to develop new marine energy use cases and approaches to installation, operations, and maintenance that leverage advances in machine learning, analytics, robotics, autonomy and other emerging technologies.
+Floating offshore wind devices have great potential for energy generation in deep water. This PMEC project set out to optimize mooring and anchoring in an array of floating wind turbines by identifying which anchors in an array are most important to strengthen.
+Environmental Effects
+PMEC researchers are developing leading-edge methods and technologies to reduce uncertainty about the environmental effects of marine energy technologies. These can help to rapidly and cost-effectively identify risks that require mitigation and "retire" those that do not, assisting regulators in making evidence-based decisions regarding the potential impacts of marine energy projects.
+Drifting Acoustic Instrumentation SYstems (DAISYs) are purpose-built to accurately measure the sound generated by marine energy converters.
+3G-AMP prior to deployment at PNNL in 2019. The sensor packages are can be tailored to address specific environmental concerns and the deployment hardware is custom-designed for the application.
+PMEC researchers are synthesizing existing information and conducting additional field sampling on fish populations near Yakutat, Alaska, in preparation for a potential wave energy installation.
+Sound produced by marine energy converters may be audible to marine life, but measuring these sounds is difficult. DAISYs are our answer: low-cost, accurate instrumentation specifically built for marine energy sites.
+Society & Policy
+Without social acceptance, proving technical feasibility and environmental compatibility cannot enable broad adoption of marine energy conversion systems. PMEC research seeks to understand and quantify the many human dimensions of marine energy.
+A new survey of 2,000 California, Oregon, Washington, and British Columbia residents gives insights about west coast residents’ knowledge of, and attitudes towards, wave energy.
+This summer PMEC graduate students participated in the Project Blue@Summer program; virtually mentoring high school interns through the process of writing an ocean energy-related research paper.
+Video interviews discuss how PMEC researchers contribute to the larger social conversation about wave energy and social issues related to its use in coastal communities.
+PMEC social scientist Shana Hirsch studies the renewable energy industry in Scotland, where marine technologies dominate, as a lens for innovation ecosystems and energy transitions across Europe and around the globe.
+Want to collaborate with PMEC on a research project? Contact us at research@pmec.us.
+banner video provided by Benjamin Strom
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/research-projects/marine-renewable-energy-in-scotland
+
+Project Motivation:
+As societies around the globe explore the best ways to transition our energy needs toward carbon-free sources, Scotland has led the world in embracing the potential of marine renewable energy technologies. Despite having a total population slightly less than the state of Minnesota, Scotland has tested and demonstrated more wave and tidal energy devices than any other country in the world. As such, Scotland provides a unique case study for understanding the drivers of innovation, engineering during times of transition and the ways that policy influences research and development productivity.
+Summary:
+The field of Science & Technology Studies uses social scientific methods, including history, philosophy, sociology and others, to investigate various facets of STEM disciplines. Of particular interest are topics that tie STEM productivity to key social factors, such as governance and policy.
+University of Washington Human Centered Design & Engineering (HCDE) postdoctoral scholar Shana Hirsch has focused specifically on using Science & Technology Studies frameworks to research the renewable energy sector in Scotland, where marine renewables are the dominant technology. She has conducted numerous interviews and attended a series of workshops with key stakeholders in the marine energy industry.
+Her work will document and characterize the atmosphere and activities of the marine renewables industry during phases of relative greater or lesser social, political and economic support. Analysis of innovation indicators such as research publications and patent filings are used to support the qualitative characterizations.
+Current Results:
+Hirsch's research contributes to a growing body of work looking at renewable energy transitions and adaptations to climate change in Europe and around the globe. The research, still in early stages, will be used to provide recommendations to Scottish and UK policymakers on renewable energy innovation drivers and deterrents, as well as lessons learned that apply to the US marine energy sector.
+Research Team:
+More information:
+Shana Hirsch, Exploring Knowledge Infrastructures to Support Marine Renewables: the Case of Research Innovation in Scotland, presentation to the PMEC All-Center Meeting, September, 2019.
+University of Washington Data Ecologies Laboratory
+Sponsor:
+This work is supported by the National Science Foundation’s Science and Technology Studies program under award 1826737.
+Banner photo credit: Government of Scotland, http://gov.scot
+Last updated: January 17, 2020
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/research-projects/the-human-side-of-marine-energy
+
+Project Motivation:
+Energy is an important component of society that impacts nearly every sector. Because of the importance of this topic and its great influence on society and culture, professors from Oregon State University developed PPOL 441/541 Energy and Society to address increasing student interest from a wide variety of majors such as engineering, business, forestry, environmental science, and natural resources. The course explores the complex interrelationships between humans and energy, emphasizing the role of energy in critical social issues, including but not limited to: domestic and international conflict, poverty, social change, inter-generational equity, energy transitions and environmental justice.
+On campus, courses often include guest experts into the classroom and may even include field trips to the expert’s lab. In both cases the experience of the guest expert interview is live and located where the interview occurs. The synchronous live interview, a staple of on-campus courses, is a challenge for online instruction.
+Summary:
+Dr. Hilary Boudet moved beyond those limitations to leverage the instructional benefits of interviews for an online version of PPOL 441/541 Energy and Society offered through the School of Public Policy at Oregon State University. Through careful planning and with assistance from the ecampus video team, she re-imagined a traditional live field site visit to the O.H. Hinsdale Wave Research Lab.
+This interview with Flaxen Conway focused on the human dimensions of wave energy, is one in a series of video experiences the team created for this course.
+Team:
+More information:
+Boudet, H. S. (2019). Public perceptions of and community responses to new energy technologies. Nature Energy 4: 446-455.
+Giordono, L. S., H. S. Boudet, A. Karmazina, C. L. Taylor and B. Steel (2018). Opposition “overblown”? Community response to wind energy siting in the Western United States. Energy Research & Social Science 43: 119-131.
+Pierce, J. J., H. S. Boudet, C. Zanocco and M. Hillyard (2018). Analyzing the factors that influence U.S. public support for exporting natural gas. Energy Policy 120: 666-674.
+John Colton, Flaxen Conway, Bouke Wiersma, Jordan Carlson, and Patrick Devine-Wright. 2017. Consultation in Ocean Energy Development. IN Ocean Energy: Governance Challenges for Wave and Tidal Stream Technologies. Wright, Kerr, and Johnson, eds. Earthscan/Routledge.
+Jiska de Groot, Kieran Reilly, John Colton, and Flaxen Conway. 2017. A Sea of Troubles? Evaluating user conflicts in the development of ocean energy. IN Ocean Energy: Governance Challenges for Wave and Tidal Stream Technologies. Wright, Kerr, and Johnson, eds. Routledge.
+Colleen M. Sullivan, Flaxen Conway, Caroline Pomeroy, Madeleine Hall-Arber, and Dawn J. Wright. 2015. Combining geographic information systems and ethnography to better understand and plan ocean space use. Applied Geography 59:70-77.
+Caroline Pomeroy, Hall-Arber, M., Conway, F. 2015. Power and Perspective: Fisheries and the ocean commons beset by demands of development. Marine Policy, 61: 339-346.
+Kerr, S., Watts, L., Colton, J., Conway, F., Hull, A., Johnson, K., Jude, S., Kannen, A., MacDougall, S., McLachlan, C., Potts, T., and J. Vergunst. 2014. “Establishing an agenda for social studies research in marine renewable energy.” Energy Policy 67: 694-207.
+Henkel, S., F. Conway, and G. Boehlert. 2013. “Environmental and Human Dimensions of Ocean Renewable Energy Development.” Proceedings of Institute of Electrical & Electronics Engineers, 101(4): 991-998.
+Conway, F., J. Stevenson, D. Hunter, M. Stefanovich, H. Campbell, Z. Covell, and Y. Yin. 2010. “Ocean Space, Ocean Place: The Human Dimensions of Wave Energy in Oregon.” Oceanography 23(2): 82-91.
+Last updated: April 13, 2020
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/research-projects/2020/9/4/dedication-to-workforce-development-inspires-volunteerism-from-pmec-graduate-students
+
+Summary:
+AltaSea at the Port of Los Angeles and Oregon State University recently formed a partnership that creates the West Coast network for ocean innovation. This collaboration draws on AltaSea’s reputation, community, and location as a center for the blue economy and Oregon State’s internationally respected oceanography and marine science programs. Through this collective effort, high-quality educational content to teach young people about the sea is publicly available at Project Blue. This digital port of resources is designed to inform and inspire with the goal of advancing an emerging blue economy through business innovation and job creation.
+PMEC graduate students participated in the Project Blue@Summer program; virtually mentoring high school interns through the process of writing an ocean energy-related research paper. This volunteer effort resulted in valuable connections between the science-inclined students and their marine energy mentors, sparking curiosity and expanding knowledge about how the ocean can help us find solutions to today’s global pressing issues, including climate change.
+Science Mentors:
+More Information
+LA’s AltaSea and Oregon State University Launch West Coast Ocean Innovation Partnership
+Summer Volunteer Program – 2020 high school papers
+Sponsor:
+The science mentorships for Project Blue@Summer program (Summer HS Volunteer Program) were facilitated between PMEC and Oregon State University’s College of Earth, Ocean, and Atmospheric Sciences (CEOAS).
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/research-projects/2020/10/20/west-coast-perceptions-of-wave-energy
+
+Project Motivation:
+Toward the goal of updating and expanding information about the human dimension perspective on coastal energy development, PMEC collaborated with students from Oregon State University to review and analyze information pertaining to wave energy and the perceptions of Pacific Northwest coastal stakeholders. This work led to the development of a formal survey of California, Oregon, Washington, and British Columbia residents. Survey results provide valuable information to assist PMEC in effectively executing our mission of responsibly advancing marine energy.
+Summary:
+North America’s West Coast possesses some of the highest global potentials for wave energy output. PMEC has established two wave energy testing facilities in Oregon over the past decade: PacWave North, a non-grid connected test facility, and PacWave South, a pre-permitted grid-connected, open-ocean test facility. Past surveys on public perceptions of wave energy reveal low levels of familiarity with this emerging sector. Particularly salient topics include understanding views on its cost and reliability, potential impact on local economies, and risks to existing uses and ecosystems.
+Results:
+Our June 2020 survey of California, Oregon, Washington, and British Columbia residents revealed that most respondents (60%) held a positive attitude towards wave energy development in their coastal areas, despite limited familiarity with the technology. Among the three states and one province surveyed, Oregon respondents indicated the highest levels of familiarity with wave energy. However, high levels of familiarity were not linked to holding a positive attitude towards development. Attitudes instead varied by gender, race, education, and political ideology. In general, respondents who were male, white, college educated and politically liberal held more positive attitudes. Female respondents wanted more information.
+Respondents expressed more agreement with statements about the benefits of wave energy development (e.g., for renewable energy, energy independence, economy/jobs, etc.) than its risks (e.g., to marine life, fishing, recreation, etc.). Risks to marine life, fishing and recreation were of more concern to those who reported visiting the coast at least once a month.
+Compared to other energy sources, respondents strongly preferred increasing the use of renewable energy sources like solar, wind and wave energy, as opposed to more traditional energy sources like hydro, geothermal, natural gas, nuclear, and coal.
+Working with YouGov, PMEC surveyed 500 respondents from each state/province (N=2000) from June 15, 2020 to June 23, 2020, matched on gender, age, race, and education to the general population. The respondents were asked how much they had heard or read about wave energy; what first came to mind when they heard the term; their views of commonly cited risks and benefits; and their overall attitude toward wave energy development.
+Research Team:
+· Students from Oregon State University’s PPOL 524 Spring 2020 course developed the survey.
+· Shahinur Bashar, Diana Crespo, John Garrett, Ava Gentilcore, Bianca Llamas, and Fatuma Mohamed comprised the survey methods research team.
+· Faculty support from Oregon State University’s School of Public Policy: Flaxen Conway, Brent Steel, Ana Spalding, and Hilary Boudet
+· Faculty and staff support from the Pacific Marine Energy Center: Bryson Robertson and Brenda Langley
+More information:
+West Coast Perceptions of Wave Energy: a Survey of California, Oregon, Washington, and British Columbia Residents (full report)
+Sponsor:
+The study was funded by the Pacific Marine Energy Center.
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/research-projects/daisy-instrumentation
+
+Project Motivation:
+Sound produced by marine energy converters may be audible to marine life, but characterizing these sounds at marine energy sites is difficult for the same reason that these sites are attractive for marine energy: large waves or fast-moving currents. Low-cost, accurate instrumentation specifically built for marine energy sites can help to characterize acoustic emissions and identify or retire acoustic risks.
+Summary:
+The objective of this project is to develop a low-cost acoustic drifter well-suited to marine energy sites. By deploying groups of these drifters, it will be possible to “localize” the sound produced by marine energy converters, thereby attributing acoustic emissions to a specific source.
+To date, five drifters have been constructed and tested in a range of waves and currents.
+Current Results:
+Initial deployments focused on testing mechanisms to reduce flow-noise and self-noise in waves and currents. Flow-noise is acoustically similar to the “wind in your ears” that one hears when coasting downhill on a bicycle. This is produced by turbulent eddies shed by a hydrophone and natural turbulence passing over its surface. Self-noise is sound produced by the instrumentation system, such as metallic components tapping together. Results have been encouraging, with flow-shields minimizing flow-noise in currents approaching 2 m/s and heave plates damping hydrophone motion in wave heights greater than 2 m. In addition, prototype DAISYs have been used to characterize acoustic emissions from two wave energy converters at the US Navy’s Wave Energy Test Site (WETS) in Kaneohe, HI.
+Research Team:
+More information:
+Polagye et. al., Drifting Acoustic Instrumentation for Marine Energy, Poster. International Conference on the Environmental Interactions of Marine Energy Technologies, 2018, Kirkwall Orkney.
+Francis et. al., Marine Mammal Behavior Response to Tidal Turbine Sound, Technical Report. US DOE Office of Scientific and Technical Information, 2018.
+Sponsor:
+Core DAISY development is supported by the US Department of Energy’s Water Power Technologies Office under Award DE-EE0007823. Testing at WETS is supported by the US Department of Defense Naval Facilities Engineering Command. The project team gratefully acknowledges discussions with Chris Bassett, Joe Haxel, Ben Wilson, and Paul Lepper, as well as field support from multiple staff at PNNL MSL, Sea Engineering, and the University of Hawai’i.
+Last updated: July 29, 2019
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/research-projects/characterizing-fish-at-yakutat
+
+Motivation:
+To advance wave energy technology in an environmentally responsible manner, site-specific studies are needed to assess the potential interactions between fish and marine renewable energy devices. Yakutat, Alaska, is a potential site that is being considered for a major wave energy installation. The goal of this project is to synthesize existing information and conduct additional field sampling near Yakutat to comprehensively characterize the fish community prior to wave energy device deployment.
+Summary:
+The project uses new sampling methods to complement previous studies and increase the understanding of the fish community near Yakutat, AK.
+The results will be integrated with other lines of research to provide a comprehensive physical, biological and chemical description of this potential wave energy site prior to device deployments.
+Current Results:
+One field season of trawl sampling and one field season of rod and reel sampling have been conducted. Mid-water trawling captured very few fishes while bottom trawling produced substantially more fishes, consisting mostly of flatfishes. Rod and reel fishing in the spring and summer captured relatively few fishes consisting mostly of small Pacific halibut and big skates, while fall fishing captured relatively abundant Coho salmon.
+Research Team:
+More Information:
+Poster presentation: “Preliminary assessment of the nearshore marine fish assemblage near Cannon Beach, Yakutat, AK”, Annual Meeting of the Alaska Chapter of the American Fisheries Society in Sitka, AK
+Yakutat Wave Energy Resource Assessment, Alaska Center for Energy and Power website
+Pondering the power of the ocean, Valdez Star/UAF Geophysical Institute
+Sponsor:
+Funding for this research is provided by the United States Bureau of Ocean Energy Management.
+Last Updated: Nov. 27, 2019
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/research-projects/2021/8/18/amp-adaptable-monitoring-package
+
+Project Motivation:
+Marine energy converters will inherently modify the environment in which they operate and potential impacts of their presence and operation may be of environmental concerns. By building an understanding of these interactions during the early stages of technology development, mitigation of undesirable environmental impacts prior scale-up to large arrays of marine energy converters may be possible. One of PMEC’s solutions for studying the uncertainties around these potential environmental impacts is the Adaptable Monitoring Package (AMP).
+Summary:
+There are many challenges inherent to studying the potential environmental impacts of marine energy converters. First is the range of potential stressors that includes, but is not limited to, sound produced by marine energy converters, near-field physical effects on the environment (e.g., seabed, currents, waves), and collision or entanglement. Direct measurements of these stressors is challenging at sites suitable for marine energy development given that they are inherently energetic and some require observations in the immediate vicinity of marine energy converters. Furthermore, events of concern (e.g., collisions or entanglement) that are likely to be rare, if they occur at all, and will require high duty cycle sampling to observe all events of interest.
+The AMP was designed to take a customizable, integrated approach to environmental monitoring by supporting a broad range of instrumentation. The AMP itself consists of three primary components: the package of integrated sensors, an external power source, and a control computer. Some elements are deployment-agnostic (e.g., integration hub), while other elements (e.g., sensors) are specific to a deployment.
+The AMP can be configured to integrate almost any oceanographic sensor that operates on a voltage inputs of 3-48 VDC and uses common communications protocols (e.g., TCP/IP, UDP, RS-232/485). Sensors that have been integrated and deployed as part of an AMP package include hydrophone arrays, imagine sonars, acoustic Doppler profiles, an echosounder, stereo-optical cameras, and fish tag receivers. During extended deployments, these sensors are kept clear with biofouling mitigation hardware (e.g., UV lights, mechanical wipers for optical ports). AMPs have also been deployed with a rotator that allows the system to tilt and alter the field of view for a subset of the sensors. Back-end, near real-time processing of data streams allows for event-based triggering of instruments/data storage to record data of key events, while limiting the acquisition of massive volumes of data lacking signals or events of interest. Similarly, integrated control of the instrumentation mitigates cross-talk for all active acoustics.
+To date, the AMP has been deployed in numerous different configurations and in unique environments as summarized in Polagye et al. (2020). These have included autonomous and cabled packages deployed in the seabed in the absence of marine energy converters, an AMP integrated with the Fred.Olsen Livesaver at the Wave Energy Test Site (WETS) in Hawai’i, and a unit deployed near a small tidal turbine deployed from a moored vessel in Agate Pass, Washington. Different AMP configurations have been deployed at sea for over 360 days with system availability exceeding 90%.
+Current Results:
+Much of PMEC’s work to-date using AMP data streams has focused on the optical camera and imaging sonar data streams with an emphasis on target tracking and classification. In future deployments with marine energy converters processing of similar data streams and other covariates (e.g., time, currents, waves, or sound) will be used to quantify presence/absence of animals in the vicinity of marine energy converters, whether these environmental factors impact the distribution of animals near devices, and to identify direct devices interactions like collisions. Similar analysis of target presence and classification with environmental covariates has already been performed on data obtained in the absence of marine energy converters.
+ONGOING Work:
+During the AMP deployment on R/V Russell Davis light with a small tidal turbine optical imagery observed many jellyfish and forage fish (sand lance) in the vinicity of the rotor. We are currently analyzing data to better understand interactions between the turbine and these animals.
+Future Work:
+PMEC has two AMP deployments planned for late-2023 and 2024 that involve integration with marine energy converters. The first will be an AMP integrated with a tidal turbine lander in Sequim Bay, WA in partnership with Pacific Northwest National Laboratory. PMEC will use this deployment to study near-field interactions and collisions risks using the stereo cameras and imaging sonars. Second, an AMP will also be deployed at the Wave Energy Test Site in Hawai’i where it will be integrated with the reaction ring on a point-absorber wave energy converter (Oscilla Triton-C). PMEC researchers will investigate the presence/absence of biota in and around the hull, tethers, and heave ring of the device; confirm the hypotheses that marine animal entanglement with tethers is unlikely; and analyze hydrophone array data to identify noise radiated by the wave energy converter, site infrastructure, and other ambient noise sources.
+Commercialization:
+MarineSitu
+Software:
+The software to operate the AMP is open source. The full software package can be downloaded here. An additional link to the license, which is also included with the full package, is here. Note that there are third-party applications provided as a courtesy only, please check for third party licenses prior to use.
+Research Team:
+More Information:
+Polagye et al (2020). Adaptable Monitoring Package Development and Deployment: Lessons Learned for Integrated Instrumentation at Marine Energy Sites. J. Mar. Sci. Eng., 8, 553.
+Cotter, E., & Polagye, B. (2020). Automatic Classification of Biological Targets in a Tidal Channel Using a Multibeam Sonar, J. Atmos. Ocean. Techn., 37(8), 1437-1455.
+Cotter, E. and Polagye, B. (2020), Detection and classification capabilities of two multibeam sonars. Limnol Oceanogr Methods, 18: 673-680.
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/research-projects/daisy
+
+Project Contact: Dr. Brian Polagye (bpolagye@uw.edu) Marine Renewable Energy Laboratory (UW)
+Motivation
+Because sound is used by marine life for a wide range of biological functions (e.g., communication, foraging) the potential for noise radiated from marine energy converters to disrupt these processes has been a matter of regulatory concern for projects around the world. Contextualizing the environmental risks posed by radiated noise from marine energy converters requires accurate acoustic measurements. While measurement of underwater noise by hydrophones is relatively routine, conducting these measurements in energetic waves and currents poses unique challenges. Specifically, if there is relative motion between the hydrophone and surrounding water, this will produce high intensity “flow noise” at low frequencies. This non-propagating sound is analogous to the “wind in your ears” when riding a bicycle, in that it is not audible to a stationary observer. If flow noise is inadvertently attributed to a marine energy converter, this can substantially bias the implied risk posed by its radiated noise.
+SYSTEM OVERVIEW
+Drifting Acoustic Instrumentation SYstems (DAISYs) are hydrophone systems designed to minimize relative motion between hydrophones and the surrounding water. Each DAISY consists of a surface expression, hydrophone package, and a coupling between the two. DAISYs are instrumented to provide a rich stream of metadata accompanying the primary acoustic measurements.
+Surface Expression
+Position (GPS)
+Orientation (Inertial Measurement Unit)
+Wind speed and direction (Airmar WX200)
+Hydrophone Package
+Orientation (Inertial Measurement Unit)
+Depth (Blue Robotics pressure sensor - 20 m rating)
+Sound (HTI 99-UHF - up to 512 kHz sample rate)
+PPS synchronization at surface (GPS)
+These data streams are recorded by microcomputers in the surface expression and hydrophone package. The current systems have sufficient battery power and storage to operate for up to 12 hours between charges. When deployed in groups around a marine energy converter, DAISYs can also localize sources of radiated noise. DAISYs are relatively lightweight (12 kg in air for surface expression, 6 kg in air for hydrophone package) and can be easily deployed and recovered by a crew of two.
+DAISY Variants
++ C-DAISY
+- Use case: Tidal and river currents
+- Configuration: Surface expression connected to hydrophone package by rubber tether (1+ m length). Hydrophone surrounded by fabric flow shield to suppress flow noise.
+- Minimum clearance: 3.5 m (using 1 m tether)
+- Maximum depth: 20 m (limited by pressure sensor)
+- Maximum operating currents: > 3.5 m/s
+- Reserve buoyancy: ~10 kg
+C-DAISY: (left) surface expression, (middle) rubber tether, and (right) hydrophone package equipped with flow shield
++ Shallow DAISY
+- Use case: Tidal and river currents with limited clearance
+- Configuration: Surface expression rigidly connected to hydrophone package. This rigid connection can increase self noise and is not recommended for general use.
+- Clearance: 1 m
+- Maximum operating currents: > 3.5 m/s
+- Reserve buoyancy: ~10 kg Shallow DAISYs awaiting deployment in measurements around ORPC's Modular RivGen® turbines in Millinocket, ME
++ W-DAISY
+- Use case: Waves
+- Configuration: Surface expression connected to hydrophone package by rubber tethers (2+ m length) with intermediate heave plate for motion dampening.
+- Minimum clearance: ~6 m (using 2 m tethers)
+- Maximum depth: 20 m (limited by pressure sensor)
+- Maximum operational sea state: Hs ~ 3 m
+- Reserve buoyancy: ~20 kg
+W-DAISY: (left) surface expression, (middle) rubber tethers and heave plate, and (right) hydrophone package
+Noise Floor
+The measurement sensitivity of the DAISYs is frequency-dependent and has been evaluated through nighttime measurements in Sequim Bay, WA where there are few sources of ambient or anthropogenic noise. In tests to date, this sensitivity has been sufficient to resolve radiated noise of interest from marine energy converters.
+Results to date
+DAISYs have been used to survey WECs at WETS, complementing longer-term monitoring from fixed platforms, as well as river and tidal current turbines. The systems have also undergone significant benchmarking to evaluate flow shield (C-DAISY) and heave plate (W-DAISY) effectiveness at isolating the hydrophone from surrounding motion.
+ONGOING Work
+Groups of DAISYs will be deployed around wave energy converters at PacWave to help characterize radiated noise in conjunction with Integral Consulting’s NoiseSpotter® platform. As part of this work, UW is updating the DAISY electronics to reduce the high-frequency noise floor.
+Commercialization
+Manufacturing Information
+Want to build your own DAISYs? Here are the instructions to do it…
+Publications
+Polagye et al. (2025) Approaches to attributing underwater noise to a wave energy converter. JASA Express Letters, https://doi.org/10.1121/10.0036727
+Polagye et al. (2024) Performance of a Drifting Acoustic Instrumentation SYstem (DAISY) for characterizing radiated noise from marine energy converters. J. Ocean Eng. Mar. Energy, https://doi.org/10.1007/s40722-024-00358-6
+Haxel et al. (2022). Underwater Noise Measurements around a Tidal Turbine in a Busy Port Setting. J. Mar. Sci. Eng., 10(5), 632.
+Chang et al. (2021). Clearing a Path to Commercialization of Marine Renewable Energy Technologies Through Public-Private Collaboration. Frontiers in Marine Science, 8.
+Polagye, B., Murphy, P., Cross, P., and Vega, L. (2017) Acoustic Characteristics of the Lifesaver Wave Energy Converter, 12th European Wave and Tidal Energy Conference, Cork, Ireland, August 28-31.
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/research-projects/optimizing-shared-mooring-and-anchoring-strength-for-floating-offshore-wind-turbine-arrays
+
+Project Motivation:
+Floating offshore wind installations have great potential for energy generation in deep water where driven monopile turbines aren’t feasible. However, floating offshore wind’s financial viability remains tenuous and would benefit from design optimization. One way to decrease the cost is to connect mooring lines from multiple turbines to a single anchor, but the dynamics of this kind of system are complex and decrease the reliability of the components of the wind array. This project set out to analyze how strengthening a small number of important anchors significantly more than the rest might optimize floating wind systems by improving reliability while limiting installation costs.
+Summary:
+The project sought to identify the best anchors to strengthen in a specific shared anchoring scheme to maximize system reliability. An optimization algorithm was developed and optimal anchors were identified for systems with 3, 10, and 30 anchors with increased strength.
+Current Results:
+The project resulted in a small set of optimal anchors in the shared anchoring array, as well as information about the resulting system reliability. The results show the promise of competitive system reliabilities for increasing the strength of more than 30 anchors.
+Research Team:
+More information:
+Michael Devin, Optimizing Shared Mooring and Anchoring Strength for Floating Offshore Wind Turbine Arrays, Undergraduate Honors Thesis, 2019
+Last updated: June 27, 2019
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/research-projects/implications-of-biofouling-on-cross-flow-turbines
+
+Project Motivation:
+Marine current turbines offer a potential source of renewable energy, but the accumulation of organisms such as barnacles and algae on underwater surfaces, known as biofouling, degrades turbine performance and lifetimes. Biofouling on cross-flow turbines specifically hasn’t been experimentally studied and has extra motivation due to the upcoming installation of cross-flow turbines at Pacific Northwest National Laboratory’s Marine Sciences Laboratory.
+Summary:
+The team set out to evaluate changes in turbine power output and structural loads at various stages of barnacle colonization on turbine blades. A real barnacle, taken from the shores of Puget Sound, was 3-D scanned, modeled, and patterned on the surface of turbine blades at three different sizes and densities using 3-D printing techniques.
+The fouled turbines were then tested and measured in the Alice C. Tyler flume at the University of Washington’s Harris Hydraulics Laboratory.
+Current Results:
+The impact of barnacles on turbine power output was found to be substantial and, for the most severe cases of fouling, the turbine does not produce power at any rotation rate. Conversely, barnacle fouling was found to have minimal impact on structural loading. To maintain generation capacity over extended periods, these results highlight the importance of antifouling coatings and proactive blade cleaning.
+Research Team:
+More information:
+Carl Campbell Stringer, Implications of Biofouling on Cross-flow Turbine Performance, Masters Thesis, University of Washington, June 2019. - paper, presentation
+Sponsor:
+This project is supported by NAVFAC. The project team gratefully acknowledges discussions with Ben Maurer, Rob Cavagnaro, Andy Stewart, and Ramona Barber.
+Last updated: June 19, 2019
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/research-projects/comparing-torque-regulated-and-speed-regulated-cross-flow-turbine-performance
+
+Project Motivation:
+Unlike better-studied axial-flow, or horizontal-axis, turbines, cross-flow, or vertical-axis, turbines have inherently unsteady fluid dynamics. The way this hydrodynamic variation interacts with power generation schemes can be confusing. For example, during power generation, cross-flow turbines can be “torque-regulated,” controlled by a steady braking torque which causes the rotation rate to vary, versus “speed-regulated,” controlled by a steady rotation rate which causes the braking torque to vary. Previous studies have shown both versions can provide similar net energy generation, but the systematic forces and dynamics can be counter-intuitive and haven’t been described in detail.
+Summary:
+A series of experiments in the Alice C. Tyler flume at the University of Washington assessed performance of a cross-flow turbine under speed- or torque-regulated flow. The experiments characterized the power, torque and force coefficients of a cross-flow turbine operated by holding the rotation rate constant (speed-regulated control) as well as by holding the opposing torque constant (torque-regulated control).
+Current Results:
+The project showed that there are small, but measurable, differences in turbine power output and structural loads depending on speed- or torque-regulated control and systematically lays out the relevant forces and dynamics. The main differences can be explained by differences in the blade kinematics (i.e., the angle of attack as a function of location within a revolution).
+Understanding the role that control strategies can play on turbine hydrodynamics is an essential piece of maturing cross-flow turbines to the point that they can be applied to renewable power generation at larger scales.
+Research Team:
+More information:
+Different control strategies lead to similar performance for crossflow turbines
+AIP Scilight, 16 August 2019, doi: 10.1063/1.5123155
+Comparison of Cross-Flow Turbine Performance under Torque-Regulated and Speed-Regulated Control
+Polagye, B., Strom, B., Ross, H., Forbush, D., and Cavagnaro, R.
+Journal of Renewable and Sustainable Energy, 13 August 2019, doi: 10.1063/1.5087476
+Experimental data and processing code base
+Sponsor:
+Funding for this project was provided by the U.S. Department of Defense Naval Facilities Engineering Command. Hannah Ross is supported by the National Science Foundation Graduate Research Fellowship Program under Grant DGE-1256082.
+Last updated: September 9, 2019
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/research-projects/turbine-performance-in-confined-flows
+
+Project Motivation:
+The performance of a marine turbine designed to capture the energy of water currents, including tidal, in-river and ocean current devices, is largely dependent on the environment where the turbine is placed. While the relationship between the speed of currents and the associated energy output may seem straightforward, the detailed effects of flow confinement and blockage, in other words what happens when currents run through various sizes of bottlenecks and encounter various sizes of turbines, have not been well verified by experiments.
+Strengthening these models is important to ensure testing done in laboratory flumes is reflective of full-scale conditions, and moreover to give insight on designing devices that optimize the use of confined flows and different turbine sizes to maximize performance.
+Cross-flow (left) and axial-flow (right) turbines tested at low blockage in the Jere A. Chase Ocean Engineering Laboratory at the University of New Hampshire.
+Summary:
+Experiments characterizing the wake and performance of a cross-ﬂow (vertical axis) turbine and an axial-ﬂow (horizontal axis) turbine have been performed across multiple facilities that allow confinement to vary. Turbines have been tested under high blockage conditions in the Alice C. Tyler flume at the University of Washington, moderate blockage conditions in the Fluid Dynamics Lab flume at the Bamfield Marine Sciences Center in British Columbia, and negligible blockage conditions in the Jere A. Chase Ocean Engineering Lab tow tank at University of New Hampshire.
+A team of PMEC graduate students from University of Washington ran experiments in the flume at the Bamfield Marine Sciences Center.
+An analysis of the results has been used to test the effectiveness of several existing models for predicting the performance changes caused by blockage and to investigate how blockage and confinement affect turbine wake and water channel hydrodynamics.
+Rendering of the lab-scale turbine (D=51 cm, H=31 cm) and measurement grid used in experiments characterizing confined flow wakes (left). Wake data were collected at varying blockage ratios at two different facilities (right). The water temperature, inflow speed, and channel depth were fixed between tests.
+Current Results:
+Conﬁned and unconﬁned power and thrust coeﬃcients for the (a,b) cross-ﬂow and (c,d) axial-ﬂow turbines. Increasing blockage results in overall higher power and thrust coefficients.
+The experiments illustrated a number of interesting effects of blockage on ﬂow hydrodynamics and turbine performance. As shown in past experiments, increasing confinement and blockage overall improves turbine performance, but new details underlying the mechanisms should improve future studies.
+In looking at the accuracy of corrective models, the experiments indicated two models that yielded the best results, but also showed inherent limitations of the existing models. Overall, estimates for unconfined thrust were more accurate than estimates for unconfined power. The analysis suggests it would be valuable to produce a new blockage correction method that accounts for rotation and better describes highly loaded turbines.
+Overall this research has contributed to a better understanding of potential power gains from confined flows and will inform the extrapolation of laboratory data to commercial scale. See the resources linked below for more detailed information on the studies.
+Research Team:
+More information:
+Ross, H. and Polagye, B. “An experimental assessment of analytical blockage corrections for turbines”, Renewable Energy (1/31/2020)
+Ross, H. and Polagye, B. “Blockage Effects on the Wake of a Cross-Flow Turbine”, Poster presented at PMEC All-Center Meeting. September 2019. Portland, OR.
+Sponsor:
+This material is based upon work supported by the National Science Foundation Graduate Research Fellowship Program under Grant No. DGE-1256082 and the US Department of Defense Naval Facilities Engineering Command.
+Last updated: March 12, 2020
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/research-projects/non-linear-wave-energy-converter-control
+
+Project Motivation:
+Because wave energy conditions are widely variable, an optimized wave energy converter's (WEC) control system would be able to instantaneously adjust to marine conditions to increase power capture and improve survivability. But non-linear WEC control approaches that integrate advanced logic and machine learning approaches need further development and testing to be viable for commercial use.
+Summary:
+A PMEC team selected two main non-linear wave energy approaches for R&D effort: fuzzy control and reinforcement learning.
+A fuzzy logic control system improves on binary control systems, allowing partial values and a higher level of variability.
+A reinforcement learning system uses machine learning where the system trains and improves towards behaving optimally based on positive results in various conditions.
+Read more details on non-linear WEC control systems in the PMEC research highlights.
+Current Results:
+Both approaches are being coded and tested and will be added to the Department of Energy’s open source WEC modeling suite, WEC-Sim. From WEC-Sim they can be freely downloaded for testing on any device.
+Research Team:
+More information:
+L. Ghorban Zadeh, D. Glennon, T.K.A. Brekken, “Q-NN Learning Control Strategy for a Two Body Point Absorber Wave Energy Converter,” submitted to IEEE ECCE 2019
+D. Glennon, L. Ghorban Zadeh, T.K.A. Brekken, “Fuzzy Control for Over-Travel Protection of a Wave Energy Converter,” submitted to IEEE ECCE 2019
+Nonlinear Control for Wave Energy Converters: getting the power we want, when we want it - PMEC Research Blog
+Sponsor:
+This research is part of the Advanced Laboratory and Field Arrays (ALFA) for Marine Energy Project Task 11, a multi-year project with participating members at all institutions affiliated with PMEC as well as multiple U.S. Department of Energy national labs.
+Last updated: July 8, 2019
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/research-projects/optimizing-owc-arrays
+
+Project Motivation:
+For wave energy converters to generate enough electricity to meet significant energy demands they will most likely need to be deployed in arrays, similar to wind and solar farms. However, when dozens or more such devices are grouped together in the ocean, the interactions between them effect the energy they generate. As a result, it’s important to model and understand the potential tradeoffs that will lead to optimal layouts and controls for various kinds of wave energy farms.
+One promising wave energy technology is the oscillating water column (OWC) device where the relative motion between the water column and the surrounding floating device changes the air pressure and subsequently induces an air flow that spins a turbine at the top of the column to produce electricity. The associated hydrodynamics of an array of OWCs have not been fully analyzed however and present an important research challenge.
+Summary:
+To optimize arrays of floating OWCs, researchers started by modeling the interactions between a general set of spar-shaped devices and then applied the model to a specific kind of device in a full-scale, realistic scenario. Using linear water wave theory they developed a method for modeling a set of MARMOK-A-5 floating OWCs, taking all hydrodynamics between them into account. Oceantec’s MARMOK-A-5 devices provide a good example of a floating OWC because they’ve been deployed and tested in real ocean conditions.
+The resulting model hints at certain key factors to consider for array placement and provides a basis for development of advanced controls that maximize power development in a variety of conditions.
+Current Results:
+The initial modeling study has been published (see “more information” below). Future studies will look at control strategies for maximizing energy from OWC arrays in a variety of sizes and conditions.
+Research Team:
+More information:
+State space model of an array of oscillating water column wave energy converters with inter-body hydrodynamic coupling. Gaebele, D.T., Magaña, M.E., Brekken, T.K.A., Sawodny, O. - Ocean Engineering (11/8/2019)
+Sponsor:
+This research is supported by the National Science Foundation (Award Number: 1711859).
+Banner photo credit: Oceantec, http://www.oceantecenergy.com/
+Last updated: January 30, 2020
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/research-projects/microfloat
+
+Project Motivation:
+Coastal waters are of considerable scientific, environmental, social, and economic interest, but marine phenomena to be studied are often extremely variable and energetic. These environments have the combined forces of tides, waves, and winds, as well as the mixing of fresh river water with salty ocean water. With so much to consider, resolving the collective dynamics is an especially challenging task.
+In the context of marine energy, the performance of tidal current converters depends on the local water speed, with small differences in flow generating large differences in available power. For this reason, mapping currents in both space and time is of vital importance, allowing developers to confidently choose the best placement and assess the ultimate economic viability of a potential tidal power installation.
+The µFloat project (pronounced “microFloat”) seeks to develop an underwater ‘float’ - a trackable, drifting sensor package - that is inexpensive enough to be deployed in swarms and thus perform simultaneous, distributed measurements of water speed in energetic tidal currents.
+Summary:
+Floats are oceanographic sensors that move up and down through the water column by adjusting their buoyancy, but otherwise drift passively with the local water currents. The µFloat system localizes them using acoustic modems located on GPS-tracked surface drifters.
+While the driving application is measuring currents, the floats are designed for adaptability. With the integration of additional sensors, they could also be applied to other kinds of distributed measurements in coastal waterways, including acoustic monitoring, biogeochemical surveys or coordinated water sampling.
+Development:
+Development of the µFloat began in early 2016, when a senior undergraduate mechanical engineering team designed and built the first prototype (version 1) as a capstone project. Building on lessons learned from their work, we designed and built version 2 in late 2016 and early 2017. In summer 2017, we finished the first prototype and began testing. Also in 2017, we received funding to manufacture a swarm of 30 floats. In 2018, we overhauled the design once again to address prototype issues and improve manufacturability. Construction of the swarm began in summer 2018 and finished in early 2019.
+Field tests of the new floats began in May 2019 with deployments in Lake Washington and Sequim Bay. Lessons learned during those early tests prompted development of automatic swarm management software for faster reprogramming in the field, and provided initial data sets essential for building our data analysis techniques.
+Benchmarking Float Performance:
+Progress on the µFloats continued in 2020, working carefully within COVID-19 safety protocols.
+Quiescent Water - Lake Washington - July 2020
+In July, we tested the depth control and underwater localization in Lake Washington in July 2020. The floats held depth to within 10 cm, over a range of depths, and limiting the vertical float speed proved an effective way to manage overshoot and ensure consistent performance across floats. Localization was degraded by a strong sound speed gradient: summer weather heats the surface waters of the lake (top 10 m), while waters at depth stay quite cool. The resulting acoustic messages we rely on for localization are bent downwards, limiting range. Nonetheless, we were able to demonstrate localization accuracy within 5 m when messages connectivity was achieved. The design and results of benchmarking testing are in preparation for publication.
+Tidal Channel - Agate Pass - August 2020
+Confident from our success from all previous field tests, we performed our first full field test of the float swarm in Agate Pass, WA on August 18th and 20th, in an effort to map - in 3D - the tidal currents present there. Over those two days, we ran seventeen, 20-minute surveys, each with approximately twenty floats, covering both ebb and flood cycles, and totaling 340 individual float deployments. Data from a traditional instrument for measuring water currents (acoustic Doppler current profilers) were also collected and µFloat measurements were shown to match within 10% of the nominal site velocity. Full analysis of the results are in preparation for publication.
+Research Team:
+More information:
+Comparative evaluation of volumetric current measurements in a tidally-dominated, coastal setting: a virtual field experiment. T Harrison, KM Thyng, B Polagye - Journal of Atmospheric and Oceanic Technology (1/24/2020)
+Harrison, T. System Identification and Observer Design for the µFloat. Poster presented at PMEC All-Center Meeting. September 2019. Portland, OR.
+Harrison, T., Noe, J., Crisp, C., Murphy, P., Joslin, J., Stewart, A., Mundon, T., Polagye, B. Preliminary design and benchmarking of the µFloat: a buoyancy-actuated float for coastal waterways. Currents, Waves, and Turbulence Measurement Workshop and Applications 2019. March 2019. Sand Diego, CA.
+Harrison, T. Volumetric sensing for a swarm of underwater floats. General Examination for PhD Candidacy. University of Washington, Seattle, WA. January 2018.
+Harrison, T., Polagye, B. Modeling of subsurface Lagrangian sensor swarms for spatially distributed current measurements in high energy coastal environments. Poster presented at AGU Ocean Sciences 2016. February 2016. New Orleans, LA.
+Sponsors:
+Trevor Harrison was supported by National Science Foundation Graduate Research Fellowship under grant number DGE-1762114. Funding for construction of the float swarm was provided by ONR DURIP N00014-17-1-2336. Testing of floats as opportunistic targets and resource characterization sensors is supported by Naval Facilities Engineering Command under award N00024-10-D-6318, #0076.
+The project team gratefully acknowledges input from UW-APL staff: specifically, Paul Gibbs and Alex de Klerk for captaining vessels for field tests, Kevin Zach and Able Baca for electrical engineering and assembly, and Justin Burnett for mechanical design. Several UW undergraduate students have contributed time with a special thanks to Jack Ryan and Kira Smith who helped with swarm assembly. We are also thankful for conversations with Tim Mundon (Oscilla Power), Fritz Stahr (MRV Systems), Rick Rupan (UW-Oceanography), Jim Osse (NOAA-JISAO), and Eric D’Asaro (APL-UW).
+Last updated: November 4, 2019
+
+--------------------------------------------------------------------------------
+
+URL: https://pmec.us/people
+
+PMEC Leadership Team
+Want to join the PMEC team? Visit Work with PMEC (jobs) or Study with PMEC (prospective students) to learn more.
+People are the foundation of PMEC. With over a hundred students, staff and faculty across the three institutions, PMEC represents one of the largest clusters of marine energy expertise in the world.
+Want to join the PMEC team? Visit Work with PMEC (jobs) or Study with PMEC (prospective students) to learn more.
+
+--------------------------------------------------------------------------------

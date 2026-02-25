@@ -1,0 +1,11 @@
+flask
+requests
+beautifulsoup4
+lxml
+tldextract
+chardet
+tenacity
+pypdf
+pandas
+openpyxl
+trafilatura

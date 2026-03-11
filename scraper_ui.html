@@ -1,0 +1,936 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Domain Scraper</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:         #f0ede8;
+  --white:      #ffffff;
+  --surface:    #faf8f5;
+  --border:     #dcd8d0;
+  --border2:    #bfbab0;
+  --text:       #1c1a17;
+  --sub:        #6b6760;
+  --muted:      #a09c94;
+
+  --green:      #0d6e3a;
+  --green-mid:  #138a49;
+  --green-light:#e6f4ed;
+  --green-glow: rgba(13,110,58,.12);
+
+  --red:        #c0312b;
+  --red-light:  #fceeed;
+
+  --amber:      #a05c08;
+  --amber-light:#fef4e4;
+
+  --blue:       #1a46c0;
+  --blue-light: #eaeffc;
+
+  --indigo:     #3730a3;
+
+  --r:          8px;
+  --r-lg:       12px;
+}
+
+html { font-size: 15px; }
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+/* ─── Topbar ─────────────────────────────────────────── */
+.bar {
+  background: var(--text);
+  height: 62px;
+  display: flex;
+  align-items: center;
+  padding: 0 32px;
+  gap: 20px;
+  position: sticky;
+  top: 0;
+  z-index: 30;
+}
+
+.bar-logo {
+  font-family: 'Syne', sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  letter-spacing: -.3px;
+  flex-shrink: 0;
+}
+
+.dot {
+  width: 9px; height: 9px;
+  border-radius: 50%;
+  background: var(--muted);
+  flex-shrink: 0;
+  transition: background .4s;
+}
+.dot.live  { background: #3ddc84; box-shadow: 0 0 6px rgba(61,220,132,.5); }
+.dot.busy  { background: #fbbf24; animation: pulse .9s infinite; box-shadow: 0 0 6px rgba(251,191,36,.5); }
+.dot.error { background: #f87171; }
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.35} }
+
+.bar-sep { width: 1px; height: 20px; background: rgba(255,255,255,.15); flex-shrink: 0; }
+
+.bar-path {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.75rem;
+  color: rgba(255,255,255,.55);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 460px;
+}
+.bar-path b { color: #7dd3fc; font-weight: 500; }
+
+.bar-right { margin-left: auto; display: flex; align-items: center; gap: 16px; }
+
+.bar-pill {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.72rem;
+  color: rgba(255,255,255,.5);
+  background: rgba(255,255,255,.08);
+  border: 1px solid rgba(255,255,255,.12);
+  border-radius: 99px;
+  padding: 4px 12px;
+}
+
+/* ─── Page ───────────────────────────────────────────── */
+.page {
+  max-width: 1020px;
+  margin: 0 auto;
+  padding: 28px 20px 72px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+/* ─── Section heading ────────────────────────────────── */
+.section-heading {
+  font-family: 'Syne', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  color: var(--muted);
+  margin-bottom: -4px;
+}
+
+/* ─── Card ───────────────────────────────────────────── */
+.card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--r-lg);
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0,0,0,.06);
+}
+
+.card-head {
+  padding: 13px 20px;
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.card-title {
+  font-family: 'Syne', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text);
+  letter-spacing: -.1px;
+}
+
+.card-meta {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.75rem;
+  color: var(--muted);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 99px;
+  padding: 2px 10px;
+}
+
+/* ─── Two-col ────────────────────────────────────────── */
+.two-col { display: grid; grid-template-columns: 1fr 320px; gap: 18px; }
+
+/* ─── Input ──────────────────────────────────────────── */
+.input-body { padding: 16px; }
+
+#domainInput {
+  width: 100%;
+  min-height: 130px;
+  background: var(--bg);
+  border: 2px solid var(--border);
+  border-radius: var(--r);
+  color: var(--text);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.9rem;
+  padding: 13px 15px;
+  resize: vertical;
+  line-height: 1.85;
+  outline: none;
+  transition: border-color .15s, background .15s, box-shadow .15s;
+}
+#domainInput:focus {
+  border-color: var(--green-mid);
+  background: var(--white);
+  box-shadow: 0 0 0 3px var(--green-glow);
+}
+#domainInput::placeholder { color: var(--muted); }
+#domainInput.over {
+  border-color: var(--green-mid);
+  border-style: dashed;
+  background: var(--green-light);
+  box-shadow: 0 0 0 3px var(--green-glow);
+}
+
+.drop-hint {
+  margin-top: 9px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+/* ─── Progress bar ───────────────────────────────────── */
+.prog-wrap {
+  padding: 0 16px 4px;
+  display: none;
+}
+.prog-track {
+  height: 4px;
+  background: var(--border);
+  border-radius: 99px;
+  overflow: hidden;
+}
+.prog-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--green) 0%, #22c55e 100%);
+  width: 0%;
+  border-radius: 99px;
+  transition: width .3s ease;
+}
+
+/* ─── Toolbar ────────────────────────────────────────── */
+.toolbar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 16px;
+  border-top: 1px solid var(--border);
+  background: var(--surface);
+}
+
+.btn {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.88rem;
+  font-weight: 600;
+  padding: 9px 20px;
+  border-radius: var(--r);
+  cursor: pointer;
+  border: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  transition: all .12s;
+  white-space: nowrap;
+  line-height: 1;
+  letter-spacing: -.1px;
+}
+
+.btn-primary {
+  background: var(--green);
+  color: #fff;
+  box-shadow: 0 2px 6px rgba(13,110,58,.3);
+}
+.btn-primary:hover:not(:disabled) {
+  background: var(--green-mid);
+  box-shadow: 0 3px 10px rgba(13,110,58,.35);
+  transform: translateY(-1px);
+}
+.btn-primary:disabled { opacity: .4; cursor: not-allowed; transform: none; box-shadow: none; }
+
+.btn-ghost {
+  background: transparent;
+  color: var(--sub);
+  border: 1.5px solid var(--border);
+}
+.btn-ghost:hover { border-color: var(--border2); color: var(--text); background: var(--bg); }
+
+.spinner {
+  display: none;
+  width: 13px; height: 13px;
+  border: 2px solid rgba(255,255,255,.3);
+  border-top-color: white;
+  border-radius: 50%;
+  animation: spin .55s linear infinite;
+  flex-shrink: 0;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.kbd {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.67rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 2px 7px;
+  color: var(--muted);
+}
+
+.tbar-stat {
+  margin-left: auto;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.78rem;
+  color: var(--sub);
+  font-weight: 500;
+}
+
+/* ─── Settings ───────────────────────────────────────── */
+.settings-body {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+}
+
+.field { display: flex; flex-direction: column; gap: 5px; }
+
+.field label {
+  font-size: 0.72rem;
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 600;
+  color: var(--sub);
+  text-transform: uppercase;
+  letter-spacing: .6px;
+}
+
+.field input[type=number],
+.field input[type=text] {
+  background: var(--bg);
+  border: 1.5px solid var(--border);
+  border-radius: 6px;
+  padding: 8px 11px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.85rem;
+  color: var(--text);
+  outline: none;
+  transition: border-color .12s, box-shadow .12s;
+}
+.field input:focus {
+  border-color: var(--blue);
+  background: var(--white);
+  box-shadow: 0 0 0 3px rgba(26,70,192,.1);
+}
+
+.field-row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+
+.toggle-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 0;
+  border-top: 1px solid var(--border);
+}
+
+.toggle-label { font-size: 0.82rem; color: var(--sub); font-weight: 500; }
+
+.toggle { position: relative; width: 38px; height: 21px; flex-shrink: 0; }
+.toggle input { opacity: 0; width: 0; height: 0; }
+.toggle-track {
+  position: absolute;
+  inset: 0;
+  background: var(--border2);
+  border-radius: 99px;
+  cursor: pointer;
+  transition: background .2s;
+}
+.toggle input:checked + .toggle-track { background: var(--green); }
+.toggle-track::after {
+  content: '';
+  position: absolute;
+  top: 2.5px; left: 2.5px;
+  width: 16px; height: 16px;
+  background: white;
+  border-radius: 50%;
+  transition: transform .2s;
+  box-shadow: 0 1px 3px rgba(0,0,0,.2);
+}
+.toggle input:checked + .toggle-track::after { transform: translateX(17px); }
+
+/* ─── Stats row ──────────────────────────────────────── */
+.stats-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+}
+
+.stat-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  padding: 16px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,.05);
+}
+
+.stat-label {
+  font-size: 0.7rem;
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .7px;
+  color: var(--muted);
+}
+
+.stat-val {
+  font-family: 'Syne', sans-serif;
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--text);
+}
+
+.stat-card.green .stat-val { color: var(--green); }
+.stat-card.red   .stat-val { color: var(--red); }
+.stat-card.amber .stat-val { color: var(--amber); }
+.stat-card.blue  .stat-val { color: var(--blue); }
+
+/* ─── Log ────────────────────────────────────────────── */
+.log-body {
+  padding: 12px 18px;
+  height: 168px;
+  overflow-y: auto;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.78rem;
+  line-height: 2;
+  background: #faf9f6;
+}
+
+.ll { display: flex; gap: 14px; align-items: baseline; }
+.ll .ts { color: var(--muted); flex-shrink: 0; font-size: .68rem; }
+.ll .msg { word-break: break-word; }
+.ll.ok   .msg { color: var(--green); }
+.ll.err  .msg { color: var(--red); }
+.ll.warn .msg { color: var(--amber); }
+.ll.info .msg { color: var(--blue); }
+.ll.dim  .msg { color: var(--muted); }
+
+/* ─── Results table ──────────────────────────────────── */
+.results-body { max-height: 300px; overflow-y: auto; }
+
+table { width: 100%; border-collapse: collapse; }
+
+thead th {
+  position: sticky; top: 0;
+  background: var(--surface);
+  padding: 9px 18px;
+  text-align: left;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.67rem;
+  font-weight: 600;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: .7px;
+  border-bottom: 1px solid var(--border);
+}
+
+tbody tr { transition: background .08s; }
+tbody tr:hover { background: #faf8f5; }
+
+tbody td {
+  padding: 10px 18px;
+  border-bottom: 1px solid #f0ede7;
+  vertical-align: middle;
+}
+tbody tr:last-child td { border-bottom: none; }
+
+.td-domain {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.83rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.7rem;
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: 99px;
+}
+.b-ok    { background: var(--green-light); color: var(--green); }
+.b-err   { background: var(--red-light);   color: var(--red); }
+.b-pend  { background: var(--amber-light); color: var(--amber); }
+.b-skip  { background: var(--bg); color: var(--muted); border: 1px solid var(--border); }
+
+.td-num {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.78rem;
+  color: var(--sub);
+}
+.td-key { font-family: 'JetBrains Mono', monospace; font-size: 0.78rem; color: var(--blue); }
+.td-err-msg {
+  font-size: 0.72rem;
+  color: var(--red);
+  max-width: 200px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.empty-state {
+  padding: 44px;
+  text-align: center;
+  color: var(--muted);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.82rem;
+}
+
+/* ─── Scrollbars ─────────────────────────────────────── */
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 99px; }
+::-webkit-scrollbar-thumb:hover { background: var(--muted); }
+</style>
+</head>
+<body>
+
+<!-- Topbar -->
+<div class="bar">
+  <div class="bar-logo">
+    <div class="dot" id="dot"></div>
+    Domain Scraper
+  </div>
+  <div class="bar-sep"></div>
+  <div class="bar-path"><b>output →</b> <span id="barPath">connecting…</span></div>
+  <div class="bar-right">
+    <span class="bar-pill" id="barPill">— txt files</span>
+  </div>
+</div>
+
+<!-- Page -->
+<div class="page">
+
+  <!-- Stats row -->
+  <div class="stats-row">
+    <div class="stat-card green">
+      <span class="stat-label">Saved</span>
+      <span class="stat-val" id="statSaved">0</span>
+    </div>
+    <div class="stat-card red">
+      <span class="stat-label">Failed</span>
+      <span class="stat-val" id="statFailed">0</span>
+    </div>
+    <div class="stat-card amber">
+      <span class="stat-label">Skipped</span>
+      <span class="stat-val" id="statSkipped">0</span>
+    </div>
+    <div class="stat-card blue">
+      <span class="stat-label">Queued</span>
+      <span class="stat-val" id="statQueued">0</span>
+    </div>
+  </div>
+
+  <!-- Input + Settings -->
+  <div class="two-col">
+
+    <!-- Input card -->
+    <div class="card">
+      <div class="card-head">
+        <span class="card-title">Domains</span>
+        <span class="card-meta" id="domainCount">—</span>
+      </div>
+      <div class="input-body">
+        <textarea
+          id="domainInput"
+          placeholder="sonderenergy.com&#10;southerncurrentllc.com&#10;srenergy.com&#10;statensolar.com&#10;stellaess.com"
+          spellcheck="false"
+          oninput="updateCount()"
+        ></textarea>
+        <div class="drop-hint">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+          Drop a .txt file here, or paste domains one per line
+        </div>
+      </div>
+      <div class="prog-wrap" id="progWrap">
+        <div class="prog-track"><div class="prog-fill" id="progFill"></div></div>
+      </div>
+      <div class="toolbar">
+        <button class="btn btn-primary" id="runBtn" onclick="startRun()">
+          <span class="spinner" id="spinner"></span>
+          <span id="runLabel">Scrape &amp; Save</span>
+        </button>
+        <button class="btn btn-ghost" onclick="clearAll()">Clear</button>
+        <span class="kbd">⌘↵</span>
+        <span class="tbar-stat" id="tbarStat"></span>
+      </div>
+    </div>
+
+    <!-- Settings card -->
+    <div class="card">
+      <div class="card-head">
+        <span class="card-title">Settings</span>
+      </div>
+      <div class="settings-body">
+        <div class="field-row">
+          <div class="field">
+            <label>Max Pages</label>
+            <input type="number" id="maxPages" value="25" min="1" max="200">
+          </div>
+          <div class="field">
+            <label>Max Depth</label>
+            <input type="number" id="maxDepth" value="2" min="0" max="5">
+          </div>
+        </div>
+        <div class="field-row">
+          <div class="field">
+            <label>Timeout (s)</label>
+            <input type="number" id="maxSeconds" value="90" min="10" max="600">
+          </div>
+          <div class="field">
+            <label>Workers</label>
+            <input type="number" id="maxWorkers" value="6" min="1" max="20">
+          </div>
+        </div>
+        <div class="field">
+          <label>Output Directory</label>
+          <input type="text" id="outputDir" value="C:\Users\Temp\Documents\ChatGPTSc\scraped_text">
+        </div>
+        <div class="toggle-row">
+          <span class="toggle-label">Resume (skip existing)</span>
+          <label class="toggle">
+            <input type="checkbox" id="resume" checked>
+            <span class="toggle-track"></span>
+          </label>
+        </div>
+        <div class="toggle-row">
+          <span class="toggle-label">Save per-page files</span>
+          <label class="toggle">
+            <input type="checkbox" id="savePerPage">
+            <span class="toggle-track"></span>
+          </label>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Log -->
+  <div class="card">
+    <div class="card-head">
+      <span class="card-title">Activity Log</span>
+      <span class="card-meta" id="logMeta">—</span>
+    </div>
+    <div class="log-body" id="logBody">
+      <div class="ll dim"><span class="ts">--:--:--</span><span class="msg">ready — paste domains and hit Scrape &amp; Save</span></div>
+    </div>
+  </div>
+
+  <!-- Results table -->
+  <div class="card">
+    <div class="card-head">
+      <span class="card-title">Results</span>
+      <span class="card-meta" id="resultsMeta">—</span>
+    </div>
+    <div class="results-body" id="resultsBody">
+      <div class="empty-state">No results yet — start a scrape run above</div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+// ── State ─────────────────────────────────────────────────────────────────────
+const results  = {};
+let running    = false;
+let logLines   = 0;
+let doneCount  = 0;
+let totalCount = 0;
+let evtSource  = null;
+
+// ── Util ──────────────────────────────────────────────────────────────────────
+const esc = s => String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+const ts  = () => new Date().toTimeString().slice(0,8);
+
+function parseDomains(raw) {
+  return raw.split(/[\n\r,;\t ]+/)
+    .map(d => d.trim().toLowerCase().replace(/^https?:\/\//,'').replace(/\/.*/,''))
+    .filter(d => d && d.includes('.') && d.length > 3);
+}
+
+function updateCount() {
+  const n = parseDomains(document.getElementById('domainInput').value).length;
+  document.getElementById('domainCount').textContent = n ? `${n} domain${n!==1?'s':''}` : '—';
+  document.getElementById('statQueued').textContent = n || 0;
+}
+
+// ── Logging ───────────────────────────────────────────────────────────────────
+function log(msg, type='info') {
+  const body = document.getElementById('logBody');
+  const el = document.createElement('div');
+  el.className = `ll ${type}`;
+  el.innerHTML = `<span class="ts">${ts()}</span><span class="msg">${esc(msg)}</span>`;
+  body.appendChild(el);
+  body.scrollTop = body.scrollHeight;
+  logLines++;
+  document.getElementById('logMeta').textContent = `${logLines} entries`;
+}
+
+// ── Stats update ──────────────────────────────────────────────────────────────
+function updateStats() {
+  const vals = Object.values(results);
+  document.getElementById('statSaved').textContent   = vals.filter(r=>r._status==='ok').length;
+  document.getElementById('statFailed').textContent  = vals.filter(r=>r._status==='error').length;
+  document.getElementById('statSkipped').textContent = vals.filter(r=>r._status==='skipped').length;
+  const pend = vals.filter(r=>r._status==='pending').length;
+  document.getElementById('statQueued').textContent  = pend;
+}
+
+// ── Results table ─────────────────────────────────────────────────────────────
+function renderResults() {
+  const body = document.getElementById('resultsBody');
+  const keys = Object.keys(results);
+  const ok   = keys.filter(k=>results[k]._status==='ok').length;
+  const err  = keys.filter(k=>results[k]._status==='error').length;
+  const pend = keys.filter(k=>results[k]._status==='pending').length;
+  const skip = keys.filter(k=>results[k]._status==='skipped').length;
+
+  document.getElementById('resultsMeta').textContent = keys.length
+    ? `${ok} saved · ${err} failed · ${pend} pending · ${skip} skipped` : '—';
+
+  if (!keys.length) {
+    body.innerHTML = '<div class="empty-state">No results yet — start a scrape run above</div>';
+    return;
+  }
+
+  const rows = keys.map(key => {
+    const r = results[key];
+    const badge =
+      r._status==='ok'      ? `<span class="badge b-ok">✓ saved</span>` :
+      r._status==='error'   ? `<span class="badge b-err">✗ failed</span>` :
+      r._status==='skipped' ? `<span class="badge b-skip">↩ skipped</span>` :
+                               `<span class="badge b-pend">… scraping</span>`;
+
+    const pages = r.pages_saved != null ? `<td class="td-num">${r.pages_saved}/${r.pages_attempted}</td>` : `<td>—</td>`;
+    const chars = r.total_chars != null ? `<td class="td-num">${Number(r.total_chars).toLocaleString()}</td>` : `<td>—</td>`;
+    const sec   = r.duration_sec != null ? `<td class="td-num">${r.duration_sec}s</td>` : `<td>—</td>`;
+    const errTd = r._error
+      ? `<td class="td-err-msg" title="${esc(r._error)}">${esc(r._error.slice(0,60))}</td>`
+      : `<td></td>`;
+
+    return `<tr>
+      <td class="td-domain">${esc(r.root_url || key)}</td>
+      <td>${badge}</td>
+      ${pages}${chars}${sec}${errTd}
+    </tr>`;
+  }).join('');
+
+  body.innerHTML = `<table>
+    <thead><tr>
+      <th>Domain</th><th>Status</th><th>Pages</th><th>Chars</th><th>Time</th><th>Error</th>
+    </tr></thead>
+    <tbody>${rows}</tbody>
+  </table>`;
+
+  updateStats();
+}
+
+// ── SSE ───────────────────────────────────────────────────────────────────────
+function listenSSE() {
+  if (evtSource) { evtSource.close(); evtSource = null; }
+  evtSource = new EventSource('/events');
+
+  evtSource.addEventListener('run_start', e => {
+    const d = JSON.parse(e.data);
+    totalCount = d.total; doneCount = 0;
+    log(`run started — ${d.total} domain(s)`, 'info');
+    setDot('busy');
+  });
+
+  evtSource.addEventListener('site_done', e => {
+    const d = JSON.parse(e.data);
+    doneCount++;
+    const key  = d.site_key || d.root_url;
+    const skip = d.status === 'skipped_existing';
+    const fail = d.status === 'no_output' || d.status === 'invalid_url';
+    results[key] = {
+      ...d,
+      _status: skip ? 'skipped' : fail ? 'error' : 'ok',
+      _error:  d.errors?.length ? d.errors[0] : null,
+    };
+    document.getElementById('progFill').style.width =
+      totalCount ? Math.round((doneCount/totalCount)*100)+'%' : '0%';
+
+    if (skip)      log(`↩ ${d.root_url} — skipped (already exists)`, 'dim');
+    else if (fail) log(`✗ ${d.root_url} — ${d.status}${d.errors?.length?': '+d.errors[0]:''}`, 'err');
+    else           log(`✓ ${d.root_url} — ${d.pages_saved} pages · ${Number(d.total_chars).toLocaleString()} chars · ${d.duration_sec}s`, 'ok');
+
+    renderResults();
+    document.getElementById('tbarStat').textContent = `${doneCount} / ${totalCount}`;
+  });
+
+  evtSource.addEventListener('site_error', e => {
+    const d = JSON.parse(e.data);
+    doneCount++;
+    results[d.root_url] = { root_url: d.root_url, _status: 'error', _error: d.error };
+    log(`✗ ${d.root_url} — ${d.error}`, 'err');
+    renderResults();
+  });
+
+  evtSource.addEventListener('run_done', () => {
+    const ok   = Object.values(results).filter(r=>r._status==='ok').length;
+    const err  = Object.values(results).filter(r=>r._status==='error').length;
+    const skip = Object.values(results).filter(r=>r._status==='skipped').length;
+    log(`run complete — ${ok} saved, ${err} failed, ${skip} skipped`, ok>0?'ok':'warn');
+    document.getElementById('tbarStat').textContent = `${ok} saved · ${err} failed · ${skip} skipped`;
+    finishRun();
+    evtSource.close(); evtSource = null;
+  });
+
+  evtSource.onerror = () => {
+    if (running) { log('connection lost', 'warn'); finishRun(); }
+  };
+}
+
+// ── Run ───────────────────────────────────────────────────────────────────────
+async function startRun() {
+  if (running) return;
+  const raw     = document.getElementById('domainInput').value;
+  const domains = parseDomains(raw);
+  if (!domains.length) { log('no valid domains found', 'warn'); return; }
+
+  running = true;
+  document.getElementById('runBtn').disabled = true;
+  document.getElementById('spinner').style.display = 'inline-block';
+  document.getElementById('runLabel').textContent = 'Running…';
+  document.getElementById('progWrap').style.display = 'block';
+  document.getElementById('progFill').style.width = '0%';
+
+  for (const d of domains) {
+    const key = d.replace(/^https?:\/\//,'').replace(/\/.*/,'');
+    results[key] = { root_url: 'https://'+key, _status: 'pending' };
+  }
+  renderResults();
+  listenSSE();
+
+  try {
+    const resp = await fetch('/start', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        domains:      domains.join('\n'),
+        output_dir:   document.getElementById('outputDir').value,
+        max_pages:    +document.getElementById('maxPages').value,
+        max_depth:    +document.getElementById('maxDepth').value,
+        max_seconds:  +document.getElementById('maxSeconds').value,
+        max_workers:  +document.getElementById('maxWorkers').value,
+        resume:        document.getElementById('resume').checked,
+        save_per_page: document.getElementById('savePerPage').checked,
+      }),
+    });
+    const json = await resp.json();
+    if (!json.ok) { log(`error: ${json.error}`, 'err'); finishRun(); }
+  } catch(e) {
+    log('could not reach server', 'err');
+    finishRun();
+  }
+}
+
+function finishRun() {
+  running = false;
+  document.getElementById('runBtn').disabled = false;
+  document.getElementById('spinner').style.display = 'none';
+  document.getElementById('runLabel').textContent = 'Scrape & Save';
+  setTimeout(() => {
+    document.getElementById('progWrap').style.display = 'none';
+    document.getElementById('progFill').style.width = '0%';
+  }, 1000);
+  setDot('live');
+  refreshBarPill();
+}
+
+function clearAll() {
+  Object.keys(results).forEach(k => delete results[k]);
+  renderResults();
+  document.getElementById('domainInput').value = '';
+  updateCount();
+  document.getElementById('tbarStat').textContent = '';
+  document.getElementById('logBody').innerHTML =
+    '<div class="ll dim"><span class="ts">--:--:--</span><span class="msg">cleared.</span></div>';
+  logLines = 1;
+  document.getElementById('logMeta').textContent = '1 entry';
+}
+
+function setDot(state) {
+  document.getElementById('dot').className = `dot ${state}`;
+}
+
+function refreshBarPill() {
+  fetch('/status').then(r=>r.json()).then(d => {
+    document.getElementById('barPill').textContent = `${d.txt_count} txt files`;
+  }).catch(()=>{});
+}
+
+// ── Drag & drop ───────────────────────────────────────────────────────────────
+const inp = document.getElementById('domainInput');
+inp.addEventListener('dragover',  e => { e.preventDefault(); inp.classList.add('over'); });
+inp.addEventListener('dragleave', () => inp.classList.remove('over'));
+inp.addEventListener('drop', e => {
+  e.preventDefault(); inp.classList.remove('over');
+  const text = e.dataTransfer.getData('text/plain');
+  if (text) {
+    inp.value = inp.value.trim() ? inp.value.trim()+'\n'+text : text;
+    updateCount(); return;
+  }
+  const file = e.dataTransfer.files[0];
+  if (file) {
+    const r = new FileReader();
+    r.onload = ev => {
+      inp.value = inp.value.trim() ? inp.value.trim()+'\n'+ev.target.result.trim() : ev.target.result.trim();
+      updateCount();
+    };
+    r.readAsText(file);
+  }
+});
+
+document.addEventListener('keydown', e => {
+  if ((e.ctrlKey||e.metaKey) && e.key==='Enter') startRun();
+});
+
+// ── Init ──────────────────────────────────────────────────────────────────────
+fetch('/status').then(r=>r.json()).then(d => {
+  document.getElementById('barPath').textContent = d.output_dir;
+  document.getElementById('outputDir').value = d.output_dir;
+  document.getElementById('barPill').textContent = `${d.txt_count} txt files`;
+  setDot(d.running ? 'busy' : 'live');
+}).catch(() => {
+  document.getElementById('barPath').textContent = 'server not connected';
+  setDot('error');
+});
+</script>
+</body>
+</html>

@@ -41,10 +41,11 @@ obj/
 *.log
 
 # ========================
-# Text Files (Optional)
+# Scraped Output (don't push data files)
 # ========================
-# Uncomment if you want to ignore ALL txt files
-# *.txt
+ALL_TEXT_FILES/
+scraped_text/
+scraped_text_work/
 
 # ========================
 # Excel Exports / Data Dumps (Optional)

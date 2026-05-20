@@ -2,6 +2,14 @@
   Website Scraper - Wisnia Capital
 ================================================================================
 
+scraper_server.py
+That's it. It auto-opens your browser to http://localhost:5000. From there, paste domains into the textarea (one per line, or drop a .txt file), adjust settings if needed, and hit Scrape & Save.
+The defaults it ships with:
+
+Max 25 pages per site, depth 2, 90s timeout, 6 workers
+Output goes to C:\Users\Temp\Documents\ChatGPTSc\ALL_TEXT_FILES
+Resume is on by default (skips sites that already have a .txt file)
+
 WHAT DOES THIS DO?
 ------------------
 This program visits a list of renewable energy company websites, reads all

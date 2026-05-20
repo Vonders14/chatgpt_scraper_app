@@ -1,3 +1,5 @@
+
+
 import os
 import re
 import json
@@ -16,12 +18,22 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
-import tldextract
+try:
+    import tldextract
+    HAS_TLDEXTRACT = True
+except Exception:
+    tldextract = None
+    HAS_TLDEXTRACT = False
 import chardet
 from tenacity import retry, stop_after_attempt, wait_exponential_jitter, retry_if_exception_type
 
 # PDF parsing
-from pypdf import PdfReader
+try:
+    from pypdf import PdfReader
+    HAS_PYPDF = True
+except Exception:
+    PdfReader = None
+    HAS_PYPDF = False
 
 # Optional: best-in-class text extraction for messy HTML
 try:
@@ -148,6 +160,13 @@ def normalize_url(url: str) -> str | None:
         return None
 
 def get_registered_domain(url: str) -> str:
+    if not HAS_TLDEXTRACT:
+        host = get_hostname(url)
+        parts = [part for part in host.split(".") if part]
+        if len(parts) >= 2:
+            return ".".join(parts[-2:]).lower()
+        return host.lower()
+
     ext = tldextract.extract(url)
     if ext.suffix:
         return f"{ext.domain}.{ext.suffix}".lower()
@@ -182,6 +201,20 @@ def should_skip_url(url: str, patterns: tuple[str, ...]) -> bool:
         if re.search(pat, url, flags=re.I):
             return True
     return False
+
+# ISO 639-1 codes for the most common non-English languages on corporate sites.
+# Matches /xx/ at start of path or as a path segment (e.g. /ar/, /fr/, /es/, /de/, /zh/).
+_NON_ENGLISH_LANG_RE = re.compile(
+    r"/(ar|fr|es|de|it|pt|nl|pl|ru|tr|zh|zh-cn|zh-tw|ja|ko|hi|sv|no|da|fi|cs|el|he|th|vi|id|ms|ro|hu|uk|bg|hr|sk|sl|et|lv|lt|sr|ca|eu|gl)(/|$)",
+    re.I,
+)
+
+def is_non_english_path(url: str) -> bool:
+    try:
+        path = urlparse(url).path or "/"
+    except Exception:
+        return False
+    return bool(_NON_ENGLISH_LANG_RE.search(path))
 
 def detect_website_column(df: pd.DataFrame) -> str:
     # Strong guesses first
@@ -246,13 +279,27 @@ class SessionFactory:
 )
 def fetch_url(session: requests.Session, url: str, cfg: ScrapeConfig) -> requests.Response:
     # stream=True so we can enforce max_bytes
-    resp = session.get(
-        url,
-        timeout=(cfg.timeout_connect, cfg.timeout_read),
-        allow_redirects=True,
-        verify=cfg.verify_tls,
-        stream=True
-    )
+    try:
+        resp = session.get(
+            url,
+            timeout=(cfg.timeout_connect, cfg.timeout_read),
+            allow_redirects=True,
+            verify=cfg.verify_tls,
+            stream=True
+        )
+    except requests.exceptions.SSLError:
+        # Some sites have broken/incomplete cert chains that browsers tolerate.
+        # Retry once with verification disabled so we don't lose the page entirely.
+        import urllib3
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+        logging.warning("SSL verify failed for %s — retrying with verify=False", url)
+        resp = session.get(
+            url,
+            timeout=(cfg.timeout_connect, cfg.timeout_read),
+            allow_redirects=True,
+            verify=False,
+            stream=True
+        )
     resp.raise_for_status()
     # enforce max bytes
     content = b""
@@ -313,6 +360,9 @@ def extract_text_from_html(html_bytes: bytes, base_url: str) -> tuple[str, list[
     return clean_text(text), discovered
 
 def extract_text_from_pdf(pdf_bytes: bytes) -> str:
+    if not HAS_PYPDF:
+        return ""
+
     try:
         reader = PdfReader(io_bytes_to_filelike(pdf_bytes))
         parts = []
@@ -419,6 +469,9 @@ def crawl_site(root_url: str, cfg: ScrapeConfig, session_factory: SessionFactory
         if should_skip_url(url, cfg.skip_url_patterns):
             continue
 
+        if is_non_english_path(url):
+            continue
+
         if not is_same_site(url, root_url, cfg.allow_subdomains):
             continue
 
@@ -471,6 +524,8 @@ def crawl_site(root_url: str, cfg: ScrapeConfig, session_factory: SessionFactory
                     continue
                 # skip anchors / mailto already stripped
                 if should_skip_url(n, cfg.skip_url_patterns):
+                    continue
+                if is_non_english_path(n):
                     continue
                 if n not in seen and is_same_site(n, root_url, cfg.allow_subdomains):
                     # prefer "about", "projects", "portfolio", "team", "services"

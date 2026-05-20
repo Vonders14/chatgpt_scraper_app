@@ -16,12 +16,22 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
-import tldextract
+try:
+    import tldextract
+    HAS_TLDEXTRACT = True
+except Exception:
+    tldextract = None
+    HAS_TLDEXTRACT = False
 import chardet
 from tenacity import retry, stop_after_attempt, wait_exponential_jitter, retry_if_exception_type
 
 # PDF parsing
-from pypdf import PdfReader
+try:
+    from pypdf import PdfReader
+    HAS_PYPDF = True
+except Exception:
+    PdfReader = None
+    HAS_PYPDF = False
 
 # Optional: best-in-class text extraction for messy HTML
 try:
@@ -148,6 +158,13 @@ def normalize_url(url: str) -> str | None:
         return None
 
 def get_registered_domain(url: str) -> str:
+    if not HAS_TLDEXTRACT:
+        host = get_hostname(url)
+        parts = [part for part in host.split(".") if part]
+        if len(parts) >= 2:
+            return ".".join(parts[-2:]).lower()
+        return host.lower()
+
     ext = tldextract.extract(url)
     if ext.suffix:
         return f"{ext.domain}.{ext.suffix}".lower()
@@ -313,6 +330,9 @@ def extract_text_from_html(html_bytes: bytes, base_url: str) -> tuple[str, list[
     return clean_text(text), discovered
 
 def extract_text_from_pdf(pdf_bytes: bytes) -> str:
+    if not HAS_PYPDF:
+        return ""
+
     try:
         reader = PdfReader(io_bytes_to_filelike(pdf_bytes))
         parts = []

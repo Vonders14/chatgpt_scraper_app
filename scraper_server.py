@@ -1,38 +1,40 @@
 """
 scraper_server.py
 -----------------
-Flask web server that wraps scraper_core.py entirely untouched.
-Receives domain lists from the HTML UI, runs crawl_site() per domain,
-and streams live progress back via Server-Sent Events.
+Flask web server wrapping scraper_core.py (untouched).
 
-After each site crawl completes, the merged .txt file produced by
-scraper_core is copied into FLAT_OUTPUT_DIR as a single flat file:
-    ALL_TEXT_FILES/<domain>.txt
+scraper_core always writes nested output:
+    WORK_DIR/<site_key>/merged/<site_key>.txt
 
-scraper_core.py is NOT modified in any way.
+After each site finishes, copy_to_flat() copies that .txt to:
+    ALL_TEXT_FILES/<site_key>.txt
+
+ALL_TEXT_FILES ends up with only flat .txt files + a logs/ subfolder.
+WORK_DIR is a temp area and can be deleted any time.
 
 Run:
     pip install flask
     python scraper_server.py
-
-Then open:  http://localhost:5000
 """
 
+import csv
 import json
+import logging
 import os
 import queue
 import re
 import shutil
 import threading
 import time
+import uuid
 import webbrowser
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import asdict
+from datetime import datetime, timezone
 from pathlib import Path
 
 from flask import Flask, Response, jsonify, request, send_from_directory
 
-# Import everything from the original script — nothing is changed there
 from scraper_core import (
     ScrapeConfig,
     SessionFactory,
@@ -43,31 +45,29 @@ from scraper_core import (
     safe_filename,
 )
 
-# ── Config ────────────────────────────────────────────────────────────────────
+# ── Config ─────────────────────────────────────────────────────────────────────
 
-# Temp working dir — scraper_core writes its nested structure here
 WORK_DIR = r"C:\Users\Temp\Documents\ChatGPTSc\scraped_text_work"
-
-# Final flat output dir — one .txt per domain lands here
-FLAT_OUTPUT_DIR = r"C:\Users\Temp\Documents\ChatGPTSc\ALL_TEXT_FILES"
-
+DEFAULT_FLAT_DIR = r"C:\Users\Temp\Documents\ChatGPTSc\ALL_TEXT_FILES"
 PORT = 5000
 
-# ── App ───────────────────────────────────────────────────────────────────────
+# ── App ────────────────────────────────────────────────────────────────────────
+
 app = Flask(__name__, static_folder=".", static_url_path="")
 
-_job_lock    = threading.Lock()
-_job_running = False
-_job_queue: queue.Queue = queue.Queue()
+_runs: dict = {}
+_runs_lock = threading.Lock()
 
 
-# ── Helpers ───────────────────────────────────────────────────────────────────
+# ── Helpers ────────────────────────────────────────────────────────────────────
+
+def utcnow() -> str:
+    return datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
+
 
 def parse_domain_list(raw: str) -> list[str]:
-    """Parse newline / comma / space separated domain list into normalised URLs."""
     tokens = re.split(r"[\n\r,;\t ]+", raw.strip())
-    urls = []
-    seen_keys = set()
+    urls, seen = [], set()
     for t in tokens:
         t = t.strip()
         if not t:
@@ -76,88 +76,155 @@ def parse_domain_list(raw: str) -> list[str]:
         if not u:
             continue
         key = get_registered_domain(u) or get_hostname(u) or u
-        if key not in seen_keys:
-            seen_keys.add(key)
+        if key not in seen:
+            seen.add(key)
             urls.append(u)
     return urls
 
 
-def push_event(event_type: str, data: dict):
-    _job_queue.put({"event": event_type, "data": data})
+def write_jsonl(path: Path, record: dict):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "a", encoding="utf-8") as f:
+        f.write(json.dumps(record, ensure_ascii=False) + "\n")
 
 
-def copy_to_flat(site_result, cfg: ScrapeConfig) -> str | None:
+def write_summary_csv(results: list[dict], run_id: str, flat_dir: str):
+    logs_dir = Path(flat_dir) / "logs"
+    logs_dir.mkdir(parents=True, exist_ok=True)
+    path = logs_dir / f"summary_{run_id}.csv"
+    if not results:
+        return
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=list(results[0].keys()), extrasaction="ignore")
+        writer.writeheader()
+        writer.writerows(results)
+
+
+def setup_logging(run_id: str, flat_dir: str):
+    logs_dir = Path(flat_dir) / "logs"
+    logs_dir.mkdir(parents=True, exist_ok=True)
+
+    log_path    = logs_dir / f"run_{run_id}.log"
+    jsonl_path  = logs_dir / f"run_{run_id}.jsonl"
+    master_path = logs_dir / "scrape_master_log.jsonl"
+
+    logger = logging.getLogger(f"scraper.{run_id}")
+    logger.setLevel(logging.INFO)
+    if not logger.handlers:
+        fh = logging.FileHandler(log_path, encoding="utf-8")
+        fh.setFormatter(logging.Formatter("%(asctime)s | %(levelname)s | %(message)s"))
+        logger.addHandler(fh)
+
+    return logger, jsonl_path, master_path
+
+
+def copy_to_flat(site_result, work_cfg: ScrapeConfig, flat_dir: str) -> str | None:
     """
-    After scraper_core writes  WORK_DIR/<site_key>/merged/<site_key>.txt
-    copy it to                 FLAT_OUTPUT_DIR/<site_key>.txt
-
-    Handles duplicates the same way the original flatten script did:
-    if <site_key>.txt already exists, try <site_key>_1.txt, _2.txt, ...
-
-    Returns the final filename used, or None if no source file found.
+    scraper_core writes:  WORK_DIR/<site_key>/merged/<site_key>.txt
+    Copy that to:         flat_dir/<site_key>.txt
+    Returns filename or None.
     """
-    site_key    = site_result.site_key
-    merged_path = Path(cfg.output_dir) / site_key / cfg.merged_txt_dirname / f"{site_key}.txt"
+    site_key = site_result.site_key
+    src = Path(work_cfg.output_dir) / site_key / work_cfg.merged_txt_dirname / f"{site_key}.txt"
 
-    if not merged_path.exists() or merged_path.stat().st_size == 0:
+    if not src.exists() or src.stat().st_size == 0:
         return None
 
-    flat_dir = Path(FLAT_OUTPUT_DIR)
-    flat_dir.mkdir(parents=True, exist_ok=True)
+    flat = Path(flat_dir)
+    flat.mkdir(parents=True, exist_ok=True)
 
-    dest = flat_dir / f"{site_key}.txt"
+    dest = flat / f"{site_key}.txt"
     if dest.exists():
         counter = 1
-        while (flat_dir / f"{site_key}_{counter}.txt").exists():
+        while (flat / f"{site_key}_{counter}.txt").exists():
             counter += 1
-        dest = flat_dir / f"{site_key}_{counter}.txt"
+        dest = flat / f"{site_key}_{counter}.txt"
 
-    shutil.copy2(merged_path, dest)
+    shutil.copy2(src, dest)
     return dest.name
 
 
-def run_job(urls: list[str], cfg: ScrapeConfig):
-    """Run the crawl in a background thread, pushing SSE events."""
-    global _job_running
+# ── Job runner ─────────────────────────────────────────────────────────────────
 
-    push_event("run_start", {
-        "total":      len(urls),
-        "output_dir": FLAT_OUTPUT_DIR,
+def run_job(run_id: str, urls: list[str], work_cfg: ScrapeConfig, flat_dir: str):
+    event_q = _runs[run_id]["queue"]
+
+    def push(event_type: str, data: dict):
+        event_q.put({"event": event_type, "data": data})
+
+    logger, jsonl_path, master_path = setup_logging(run_id, flat_dir)
+    logger.info("Run started. run_id=%s sites=%d flat_dir=%s", run_id, len(urls), flat_dir)
+
+    push("run_start", {"run_id": run_id, "total": len(urls), "output_dir": flat_dir})
+    write_jsonl(master_path, {
+        "type": "run_start", "run_id": run_id,
+        "timestamp": utcnow(), "sites": len(urls),
     })
 
-    session_factory = SessionFactory(cfg)
+    session_factory = SessionFactory(work_cfg)
+    site_results = []
 
-    with ThreadPoolExecutor(max_workers=cfg.max_workers) as ex:
-        futures = {ex.submit(crawl_site, u, cfg, session_factory): u for u in urls}
+    with ThreadPoolExecutor(max_workers=work_cfg.max_workers) as ex:
+        futures = {ex.submit(crawl_site, u, work_cfg, session_factory): u for u in urls}
         for fut in as_completed(futures):
             root = futures[fut]
             try:
                 site_result, page_results = fut.result()
+                result_dict = asdict(site_result)
+                site_results.append(result_dict)
 
-                # Copy the merged file into the flat output folder
+                # Copy .txt from nested WORK_DIR into flat output
                 flat_filename = None
-                if site_result.status not in ("skipped_existing", "invalid_url", "no_output"):
-                    flat_filename = copy_to_flat(site_result, cfg)
-                elif site_result.status == "skipped_existing":
-                    # File was already scraped — check if it's already in flat dir too
-                    existing = Path(FLAT_OUTPUT_DIR) / f"{site_result.site_key}.txt"
+                if site_result.status == "skipped_existing":
+                    existing = Path(flat_dir) / f"{site_result.site_key}.txt"
                     flat_filename = existing.name if existing.exists() else None
+                elif site_result.status not in ("invalid_url", "no_output"):
+                    flat_filename = copy_to_flat(site_result, work_cfg, flat_dir)
 
-                d = asdict(site_result)
-                d["page_results"]  = [asdict(p) for p in page_results]
+                logger.info(
+                    "DONE %s | status=%s | saved=%d | chars=%d | sec=%.2f | flat=%s",
+                    site_result.site_key, site_result.status,
+                    site_result.pages_saved, site_result.total_chars,
+                    site_result.duration_sec, flat_filename or "none",
+                )
+
+                write_jsonl(jsonl_path, {
+                    "type": "site_result", "run_id": run_id, "site": result_dict,
+                })
+                write_jsonl(master_path, {
+                    "type": "site_result", "run_id": run_id,
+                    "timestamp": utcnow(), "site": result_dict,
+                })
+
+                d = result_dict.copy()
                 d["flat_filename"] = flat_filename
-                push_event("site_done", d)
+                push("site_done", d)
 
             except Exception as e:
-                push_event("site_error", {"root_url": root, "error": str(e)[:300]})
+                msg = str(e)[:300]
+                logger.exception("Fatal error for %s: %s", root, msg)
+                write_jsonl(jsonl_path, {
+                    "type": "fatal_error", "run_id": run_id,
+                    "root": root, "error": msg,
+                })
+                push("site_error", {"root_url": root, "error": msg})
 
-    push_event("run_done", {"total": len(urls)})
+    write_summary_csv(site_results, run_id, flat_dir)
+    write_jsonl(master_path, {
+        "type": "run_complete", "run_id": run_id, "timestamp": utcnow(),
+        "total_sites": len(site_results),
+        "total_pages_saved": sum(r.get("pages_saved", 0) for r in site_results),
+        "total_chars": sum(r.get("total_chars", 0) for r in site_results),
+    })
+    logger.info("Run complete. %d sites processed.", len(site_results))
 
-    with _job_lock:
-        _job_running = False
+    push("run_done", {"run_id": run_id, "total": len(urls)})
+    with _runs_lock:
+        if run_id in _runs:
+            _runs[run_id]["running"] = False
 
 
-# ── Routes ────────────────────────────────────────────────────────────────────
+# ── Routes ─────────────────────────────────────────────────────────────────────
 
 @app.route("/")
 def index():
@@ -166,52 +233,49 @@ def index():
 
 @app.route("/start", methods=["POST"])
 def start():
-    global _job_running
-
-    with _job_lock:
-        if _job_running:
-            return jsonify({"ok": False, "error": "A run is already in progress."}), 409
-
-    data       = request.get_json(force=True)
-    raw        = data.get("domains", "")
-    urls       = parse_domain_list(raw)
-
+    data = request.get_json(force=True)
+    urls = parse_domain_list(data.get("domains", ""))
     if not urls:
         return jsonify({"ok": False, "error": "No valid domains found."}), 400
 
-    # scraper_core writes its nested structure into WORK_DIR
-    cfg = ScrapeConfig(
-        input_path         = "__ui__",
-        output_dir         = WORK_DIR,
-        max_pages_per_site = int(data.get("max_pages",   25)),
-        max_depth          = int(data.get("max_depth",    2)),
+    flat_dir = (data.get("output_dir") or "").strip() or DEFAULT_FLAT_DIR
+    Path(flat_dir).mkdir(parents=True, exist_ok=True)
+    Path(WORK_DIR).mkdir(parents=True, exist_ok=True)
+
+    run_id = str(uuid.uuid4())[:8]
+
+    work_cfg = ScrapeConfig(
+        input_path           = "__ui__",
+        output_dir           = WORK_DIR,
+        max_pages_per_site   = int(data.get("max_pages",   25)),
+        max_depth            = int(data.get("max_depth",    2)),
         max_seconds_per_site = int(data.get("max_seconds", 90)),
-        max_workers        = int(data.get("max_workers",  6)),
-        save_per_page_files = bool(data.get("save_per_page", False)),
-        resume             = bool(data.get("resume", True)),
+        max_workers          = int(data.get("max_workers",  6)),
+        save_per_page_files  = False,
+        resume               = bool(data.get("resume", True)),
     )
 
-    # Drain leftover SSE events from prior run
-    while not _job_queue.empty():
-        try:
-            _job_queue.get_nowait()
-        except queue.Empty:
-            break
+    with _runs_lock:
+        _runs[run_id] = {"queue": queue.Queue(), "running": True}
 
-    with _job_lock:
-        _job_running = True
+    threading.Thread(
+        target=run_job, args=(run_id, urls, work_cfg, flat_dir), daemon=True
+    ).start()
 
-    threading.Thread(target=run_job, args=(urls, cfg), daemon=True).start()
-    return jsonify({"ok": True, "queued": len(urls)})
+    return jsonify({"ok": True, "run_id": run_id, "queued": len(urls)})
 
 
-@app.route("/events")
-def events():
-    """Server-Sent Events stream."""
+@app.route("/events/<run_id>")
+def events(run_id: str):
+    run = _runs.get(run_id)
+    if not run:
+        return jsonify({"error": "Unknown run_id"}), 404
+
     def generate():
+        event_q = run["queue"]
         while True:
             try:
-                item = _job_queue.get(timeout=25)
+                item = event_q.get(timeout=25)
                 yield f"event: {item['event']}\ndata: {json.dumps(item['data'])}\n\n"
                 if item["event"] == "run_done":
                     break
@@ -219,37 +283,46 @@ def events():
                 yield ": heartbeat\n\n"
 
     return Response(
-        generate(),
-        mimetype="text/event-stream",
+        generate(), mimetype="text/event-stream",
         headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"},
     )
+
+
+@app.route("/events")
+def events_legacy():
+    with _runs_lock:
+        running_ids = [rid for rid, r in _runs.items() if r.get("running")]
+    if not running_ids:
+        return Response(
+            'event: run_done\ndata: {"run_id":"none","total":0}\n\n',
+            mimetype="text/event-stream",
+        )
+    return events(running_ids[-1])
 
 
 @app.route("/status")
 def status():
     try:
-        txt_count = sum(
-            1 for f in Path(FLAT_OUTPUT_DIR).glob("*.txt")
-        )
+        txt_count = sum(1 for _ in Path(DEFAULT_FLAT_DIR).glob("*.txt"))
     except Exception:
         txt_count = 0
+    with _runs_lock:
+        is_running = any(r.get("running") for r in _runs.values())
     return jsonify({
-        "running":    _job_running,
-        "output_dir": FLAT_OUTPUT_DIR,
+        "running":    is_running,
+        "output_dir": DEFAULT_FLAT_DIR,
         "txt_count":  txt_count,
     })
 
 
-# ── Boot ──────────────────────────────────────────────────────────────────────
-
-def open_browser():
-    time.sleep(1.2)
-    webbrowser.open(f"http://localhost:{PORT}")
-
+# ── Boot ───────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
-    print(f"✅  Scraper UI    →  http://localhost:{PORT}")
-    print(f"📁  Flat output   →  {FLAT_OUTPUT_DIR}")
-    print(f"🔧  Work dir      →  {WORK_DIR}")
-    threading.Thread(target=open_browser, daemon=True).start()
+    print(f"  Scraper UI  ->  http://localhost:{PORT}")
+    print(f"  Flat output ->  {DEFAULT_FLAT_DIR}")
+    print(f"  Work dir    ->  {WORK_DIR}")
+    threading.Thread(
+        target=lambda: (time.sleep(1.2), webbrowser.open(f"http://localhost:{PORT}")),
+        daemon=True,
+    ).start()
     app.run(port=PORT, debug=False, threaded=True)

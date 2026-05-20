@@ -17,12 +17,22 @@ import queue
 import requests
 from bs4 import BeautifulSoup
 
-import tldextract
+try:
+    import tldextract
+    HAS_TLDEXTRACT = True
+except Exception:
+    tldextract = None
+    HAS_TLDEXTRACT = False
 import chardet
 from tenacity import retry, stop_after_attempt, wait_exponential_jitter, retry_if_exception_type
 
 # PDF parsing
-from pypdf import PdfReader
+try:
+    from pypdf import PdfReader
+    HAS_PYPDF = True
+except Exception:
+    PdfReader = None
+    HAS_PYPDF = False
 
 # Optional: best-in-class text extraction for messy HTML
 try:
@@ -35,8 +45,9 @@ except Exception:
 app = Flask(__name__)
 
 # Global state for tracking runs
-active_runs = {}  # run_id -> run info
+active_runs = {}  # run_id -> run info dict (includes 'stop_flag' threading.Event)
 event_queues = {}  # run_id -> queue of SSE events
+run_history = []  # list of completed run summaries (newest first), capped at 50
 
 
 # -----------------------------
@@ -54,7 +65,7 @@ class ScrapeConfig:
     max_depth: int = 3
     max_seconds_per_site: int = 180
     max_bytes_per_response: int = 7_000_000
-    allow_subdomains: bool = True
+    allow_subdomains: bool = True 
 
     skip_url_patterns: tuple = (
         r"/wp-json",
@@ -116,6 +127,13 @@ def normalize_url(url: str):
         return None
 
 def get_registered_domain(url: str) -> str:
+    if not HAS_TLDEXTRACT:
+        host = get_hostname(url)
+        parts = [part for part in host.split(".") if part]
+        if len(parts) >= 2:
+            return ".".join(parts[-2:]).lower()
+        return host.lower()
+
     ext = tldextract.extract(url)
     if ext.suffix:
         return f"{ext.domain}.{ext.suffix}".lower()
@@ -147,6 +165,20 @@ def should_skip_url(url: str, patterns: tuple) -> bool:
             return True
     return False
 
+# ISO 639-1 codes for the most common non-English languages on corporate sites.
+# Matches /xx/ at start of path or as a path segment (e.g. /ar/, /fr/, /es/, /de/, /zh/).
+_NON_ENGLISH_LANG_RE = re.compile(
+    r"/(ar|fr|es|de|it|pt|nl|pl|ru|tr|zh|zh-cn|zh-tw|ja|ko|hi|sv|no|da|fi|cs|el|he|th|vi|id|ms|ro|hu|uk|bg|hr|sk|sl|et|lv|lt|sr|ca|eu|gl)(/|$)",
+    re.I,
+)
+
+def is_non_english_path(url: str) -> bool:
+    try:
+        path = urlparse(url).path or "/"
+    except Exception:
+        return False
+    return bool(_NON_ENGLISH_LANG_RE.search(path))
+
 
 # -----------------------------
 # HTTP session with retries
@@ -175,13 +207,27 @@ class SessionFactory:
     reraise=True,
 )
 def fetch_url(session: requests.Session, url: str, cfg: ScrapeConfig) -> requests.Response:
-    resp = session.get(
-        url,
-        timeout=(cfg.timeout_connect, cfg.timeout_read),
-        allow_redirects=True,
-        verify=cfg.verify_tls,
-        stream=True
-    )
+    try:
+        resp = session.get(
+            url,
+            timeout=(cfg.timeout_connect, cfg.timeout_read),
+            allow_redirects=True,
+            verify=cfg.verify_tls,
+            stream=True
+        )
+    except requests.exceptions.SSLError:
+        # Some sites have broken/incomplete cert chains that browsers tolerate.
+        # Retry once with verification disabled so we don't lose the page entirely.
+        import urllib3
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+        logging.warning("SSL verify failed for %s — retrying with verify=False", url)
+        resp = session.get(
+            url,
+            timeout=(cfg.timeout_connect, cfg.timeout_read),
+            allow_redirects=True,
+            verify=False,
+            stream=True
+        )
     resp.raise_for_status()
     content = b""
     total = 0
@@ -229,6 +275,9 @@ def extract_text_from_html(html_bytes: bytes, base_url: str):
     return clean_text(text), discovered
 
 def extract_text_from_pdf(pdf_bytes: bytes) -> str:
+    if not HAS_PYPDF:
+        return ""
+
     try:
         import io
         reader = PdfReader(io.BytesIO(pdf_bytes))
@@ -274,10 +323,13 @@ class SiteResult:
     errors: list
 
 
-def crawl_site(root_url: str, cfg: ScrapeConfig, session_factory: SessionFactory, event_q: queue.Queue = None):
+def crawl_site(root_url: str, cfg: ScrapeConfig, session_factory: SessionFactory, event_q: queue.Queue = None, stop_event: threading.Event = None):
     def emit(event_type, data):
         if event_q:
             event_q.put({"type": event_type, "data": data})
+
+    def stopped() -> bool:
+        return stop_event is not None and stop_event.is_set()
 
     t0 = time.time()
     errors = []
@@ -312,6 +364,9 @@ def crawl_site(root_url: str, cfg: ScrapeConfig, session_factory: SessionFactory
         time.sleep(random.uniform(lo, hi))
 
     while bfs_queue:
+        if stopped():
+            errors.append("Stopped by user")
+            break
         if time.time() - t0 > cfg.max_seconds_per_site:
             errors.append("Site time limit exceeded")
             break
@@ -326,6 +381,8 @@ def crawl_site(root_url: str, cfg: ScrapeConfig, session_factory: SessionFactory
         seen.add(url)
 
         if should_skip_url(url, cfg.skip_url_patterns):
+            continue
+        if is_non_english_path(url):
             continue
         if not is_same_site(url, root_url, cfg.allow_subdomains):
             continue
@@ -368,6 +425,8 @@ def crawl_site(root_url: str, cfg: ScrapeConfig, session_factory: SessionFactory
                     continue
                 if should_skip_url(n, cfg.skip_url_patterns):
                     continue
+                if is_non_english_path(n):
+                    continue
                 if n not in seen and is_same_site(n, root_url, cfg.allow_subdomains):
                     boost = 0
                     path = (urlparse(n).path or "").lower()
@@ -403,6 +462,12 @@ def crawl_site(root_url: str, cfg: ScrapeConfig, session_factory: SessionFactory
             f.write(merged_text)
 
     duration = time.time() - t0
+    if stopped():
+        final_status = "stopped"
+    elif merged_text:
+        final_status = "ok"
+    else:
+        final_status = "no_output"
     sr = SiteResult(
         root_url=root_url,
         site_key=site_key,
@@ -410,7 +475,7 @@ def crawl_site(root_url: str, cfg: ScrapeConfig, session_factory: SessionFactory
         pages_saved=sum(1 for pr in page_results if pr.status == "ok"),
         total_chars=len(merged_text),
         duration_sec=round(duration, 2),
-        status="ok" if merged_text else "no_output",
+        status=final_status,
         errors=errors[:20],
     )
     emit("site_done", asdict(sr))
@@ -447,6 +512,7 @@ def setup_run_logging(cfg: ScrapeConfig):
 # -----------------------------
 def run_scrape_job(run_id: str, sites: list, cfg: ScrapeConfig):
     event_q = event_queues[run_id]
+    stop_event = active_runs[run_id]["stop_flag"]
     session_factory = SessionFactory(cfg)
 
     log_path, jsonl_path, master_jsonl_path, logger = setup_run_logging(cfg)
@@ -478,8 +544,13 @@ def run_scrape_job(run_id: str, sites: list, cfg: ScrapeConfig):
 
     results = []
     with ThreadPoolExecutor(max_workers=cfg.max_workers) as ex:
-        futures = {ex.submit(crawl_site, u, cfg, session_factory, event_q): u for u in target_urls}
+        futures = {ex.submit(crawl_site, u, cfg, session_factory, event_q, stop_event): u for u in target_urls}
         for fut in as_completed(futures):
+            if stop_event.is_set():
+                # Cancel anything not yet started; in-flight tasks will see the flag and exit early.
+                for f in futures:
+                    if not f.done():
+                        f.cancel()
             root = futures[fut]
             try:
                 site_result, page_results = fut.result()
@@ -538,7 +609,34 @@ def run_scrape_job(run_id: str, sites: list, cfg: ScrapeConfig):
     logger.info("Run JSONL: %s", jsonl_path)
     logger.info("Master log: %s", master_jsonl_path)
 
-    event_q.put({"type": "run_complete", "data": {"total": len(results), "results": results}})
+    # Build history summary
+    ok_count   = sum(1 for r in results if r.get("status") == "ok")
+    err_count  = sum(1 for r in results if r.get("status") in ("error", "no_output", "invalid_url"))
+    skip_count = sum(1 for r in results if r.get("status") == "skipped_existing")
+    stop_count = sum(1 for r in results if r.get("status") == "stopped")
+    was_stopped = active_runs.get(run_id, {}).get("stop_flag") and active_runs[run_id]["stop_flag"].is_set()
+
+    history_entry = {
+        "run_id": run_id,
+        "started": active_runs.get(run_id, {}).get("started"),
+        "finished": datetime.utcnow().isoformat() + "Z",
+        "status": "stopped" if was_stopped else "complete",
+        "total_sites": len(results),
+        "saved": ok_count,
+        "failed": err_count,
+        "skipped": skip_count,
+        "stopped": stop_count,
+        "total_chars": sum(r.get("total_chars", 0) for r in results),
+        "output_dir": cfg.output_dir,
+    }
+    run_history.insert(0, history_entry)
+    del run_history[50:]
+
+    if run_id in active_runs:
+        active_runs[run_id]["status"] = "stopped" if was_stopped else "complete"
+        # Keep entry around briefly so the UI can fetch final status; trim on next run.
+
+    event_q.put({"type": "run_complete", "data": {"total": len(results), "results": results, "stopped": bool(was_stopped)}})
     event_q.put(None)  # sentinel
 
 
@@ -575,12 +673,63 @@ def start_scrape():
 
     event_q = queue.Queue()
     event_queues[run_id] = event_q
-    active_runs[run_id] = {"status": "running", "sites": sites, "started": datetime.utcnow().isoformat()}
+    active_runs[run_id] = {
+        "status": "running",
+        "sites": sites,
+        "started": datetime.utcnow().isoformat(),
+        "stop_flag": threading.Event(),
+        "output_dir": cfg.output_dir,
+    }
 
     t = threading.Thread(target=run_scrape_job, args=(run_id, sites, cfg), daemon=True)
     t.start()
 
     return jsonify({"run_id": run_id, "sites_count": len(sites)})
+
+
+@app.route("/api/stop/<run_id>", methods=["POST"])
+def stop_run(run_id):
+    run = active_runs.get(run_id)
+    if not run:
+        return jsonify({"error": "Unknown run_id"}), 404
+    run["stop_flag"].set()
+    run["status"] = "stopping"
+    return jsonify({"ok": True, "run_id": run_id})
+
+
+@app.route("/api/runs")
+def list_runs():
+    # Active + historical (newest first)
+    active = [
+        {
+            "run_id": rid,
+            "status": r.get("status"),
+            "started": r.get("started"),
+            "sites_requested": len(r.get("sites", [])),
+            "output_dir": r.get("output_dir"),
+            "active": True,
+        }
+        for rid, r in active_runs.items()
+    ]
+    return jsonify({"active": active, "history": run_history[:50]})
+
+
+@app.route("/api/open_file", methods=["POST"])
+def open_file():
+    """Open a scraped .txt file in the OS default viewer."""
+    data = request.json or {}
+    path = data.get("path", "")
+    if not path or not os.path.exists(path):
+        return jsonify({"error": "File not found"}), 404
+    try:
+        if os.name == "nt":
+            os.startfile(path)  # type: ignore[attr-defined]
+        else:
+            import subprocess
+            subprocess.Popen(["xdg-open", path])
+        return jsonify({"ok": True})
+    except Exception as e:
+        return jsonify({"error": str(e)[:200]}), 500
 
 
 @app.route("/api/events/<run_id>")
@@ -609,5 +758,5 @@ def stream_events(run_id):
 if __name__ == "__main__":
     import webbrowser
     os.makedirs("templates", exist_ok=True)
-    threading.Timer(1.2, lambda: webbrowser.open("http://localhost:5000")).start()
-    app.run(host="0.0.0.0", port=5000, debug=False, threaded=True)
+    threading.Timer(1.2, lambda: webbrowser.open("http://localhost:5001")).start()
+    app.run(host="0.0.0.0", port=5001, debug=False, threaded=True)

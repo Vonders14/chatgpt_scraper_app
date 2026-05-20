@@ -3,591 +3,1066 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Site Scraper</title>
-<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<title>Wisnia Scraper</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-  :root {
-    --bg: #0a0a0c;
-    --surface: #111114;
-    --surface2: #18181c;
-    --border: #2a2a30;
-    --border-focus: #3d5afe;
-    --text: #e8e8ec;
-    --text-dim: #6e6e78;
-    --accent: #3d5afe;
-    --accent-glow: rgba(61,90,254,0.15);
-    --green: #00c853;
-    --green-dim: rgba(0,200,83,0.12);
-    --red: #ff1744;
-    --red-dim: rgba(255,23,68,0.12);
-    --yellow: #ffd600;
-    --yellow-dim: rgba(255,214,0,0.1);
-    --mono: 'JetBrains Mono', monospace;
-    --sans: 'DM Sans', sans-serif;
-  }
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-  * { margin:0; padding:0; box-sizing:border-box; }
+:root {
+  --bg:        #0a0a0b;
+  --surface:   #131316;
+  --surface-2: #1a1a1f;
+  --surface-3: #22222a;
+  --border:    #26262c;
+  --border-2:  #34343c;
+  --text:      #f4f4f5;
+  --sub:       #a1a1aa;
+  --muted:     #71717a;
 
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: var(--sans);
-    min-height: 100vh;
-    overflow-x: hidden;
-  }
+  --green:     #22c55e;
+  --green-bg:  rgba(34,197,94,.12);
+  --red:       #ef4444;
+  --red-bg:    rgba(239,68,68,.12);
+  --amber:     #f59e0b;
+  --amber-bg:  rgba(245,158,11,.12);
+  --blue:      #3b82f6;
+  --blue-bg:   rgba(59,130,246,.12);
+  --violet:    #8b5cf6;
+  --violet-bg: rgba(139,92,246,.12);
+}
 
-  .app {
-    max-width: 960px;
-    margin: 0 auto;
-    padding: 48px 24px 80px;
-  }
+html, body { height: 100%; }
+body {
+  font-family: 'Inter', -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  font-size: 14px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
 
-  header {
-    margin-bottom: 40px;
-  }
-  header h1 {
-    font-family: var(--mono);
-    font-size: 28px;
-    font-weight: 700;
-    letter-spacing: -0.5px;
-    color: var(--text);
-  }
-  header h1 span { color: var(--accent); }
-  header p {
-    color: var(--text-dim);
-    font-size: 14px;
-    margin-top: 6px;
-  }
+/* ── Topbar ─────────────────────────────── */
+.topbar {
+  height: 56px;
+  border-bottom: 1px solid var(--border);
+  display: flex; align-items: center;
+  padding: 0 22px; gap: 16px;
+  background: var(--surface);
+  position: sticky; top: 0; z-index: 50;
+}
+.brand { display:flex; align-items:center; gap:10px; font-weight:700; font-size:15px; }
+.brand-mark { width:26px; height:26px; border-radius:7px; background:linear-gradient(135deg,var(--violet),var(--blue)); display:grid; place-items:center; font-size:13px; font-weight:800; color:#fff; }
+.status-pill { display:inline-flex; align-items:center; gap:7px; padding:5px 11px; border-radius:99px; background:var(--surface-2); border:1px solid var(--border); font-family:'JetBrains Mono',monospace; font-size:11.5px; color:var(--sub); }
+.dot { width:7px; height:7px; border-radius:50%; background:var(--muted); flex-shrink:0; }
+.dot.live  { background:var(--green); box-shadow:0 0 8px rgba(34,197,94,.6); }
+.dot.busy  { background:var(--amber); animation:pulse 1s infinite; }
+.dot.error { background:var(--red); }
+.dot.stop  { background:var(--red); animation:pulse 1s infinite; }
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.4} }
+.top-right { margin-left:auto; display:flex; align-items:center; gap:10px; }
+.tag { font-family:'JetBrains Mono',monospace; font-size:11px; color:var(--muted); padding:4px 10px; border-radius:6px; background:var(--surface-2); border:1px solid var(--border); }
+.tag b { color:var(--text); font-weight:600; }
 
-  /* Drop zone */
-  .drop-zone {
-    position: relative;
-    border: 2px dashed var(--border);
-    border-radius: 12px;
-    padding: 32px 24px;
-    min-height: 200px;
-    transition: all 0.2s ease;
-    background: var(--surface);
-    cursor: text;
-  }
-  .drop-zone:focus-within,
-  .drop-zone.drag-over {
-    border-color: var(--accent);
-    background: var(--accent-glow);
-    box-shadow: 0 0 40px rgba(61,90,254,0.08);
-  }
-  .drop-zone-label {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    text-align: center;
-    pointer-events: none;
-    transition: opacity 0.2s;
-    color: var(--text-dim);
-    font-size: 14px;
-    line-height: 1.8;
-  }
-  .drop-zone-label .icon {
-    font-size: 32px;
-    display: block;
-    margin-bottom: 8px;
-    opacity: 0.4;
-  }
-  .drop-zone-label kbd {
-    font-family: var(--mono);
-    font-size: 12px;
-    background: var(--surface2);
-    border: 1px solid var(--border);
-    border-radius: 4px;
-    padding: 2px 8px;
-  }
-  .drop-zone.has-content .drop-zone-label { opacity: 0; }
+/* ── Layout ──────────────────────────────── */
+.wrap {
+  max-width: 1500px; margin:0 auto;
+  padding: 20px;
+  display: grid;
+  grid-template-columns: 1fr 340px;
+  gap: 20px;
+}
+@media (max-width: 1100px) { .wrap { grid-template-columns: 1fr; } }
+.col-left { display:flex; flex-direction:column; gap:16px; min-width:0; }
+.col-right { display:flex; flex-direction:column; gap:16px; }
 
-  #site-input {
-    width: 100%;
-    min-height: 160px;
-    background: transparent;
-    border: none;
-    outline: none;
-    color: var(--text);
-    font-family: var(--mono);
-    font-size: 14px;
-    line-height: 1.7;
-    resize: vertical;
-    position: relative;
-    z-index: 1;
-  }
-  #site-input::placeholder { color: transparent; }
+/* ── Stats ──────────────────────────────── */
+.stats { display:grid; grid-template-columns:repeat(5,1fr); gap:10px; }
+.stat {
+  background:var(--surface); border:1px solid var(--border);
+  border-radius:10px; padding:14px 16px;
+  transition:border-color .15s;
+}
+.stat:hover { border-color:var(--border-2); }
+.stat-label { font-family:'JetBrains Mono',monospace; font-size:10px; text-transform:uppercase; letter-spacing:1px; color:var(--muted); margin-bottom:5px; font-weight:600; }
+.stat-val   { font-size:26px; font-weight:700; line-height:1; font-variant-numeric:tabular-nums; letter-spacing:-.6px; }
+.stat-sub   { margin-top:4px; font-size:11px; color:var(--muted); font-family:'JetBrains Mono',monospace; }
+.stat.saved   .stat-val { color:var(--green); }
+.stat.failed  .stat-val { color:var(--red); }
+.stat.skip    .stat-val { color:var(--amber); }
+.stat.queue   .stat-val { color:var(--blue); }
+.stat.active  .stat-val { color:var(--violet); }
 
-  /* Controls row */
-  .controls {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    margin-top: 16px;
-    flex-wrap: wrap;
-  }
-  .controls label {
-    font-size: 12px;
-    color: var(--text-dim);
-    font-family: var(--mono);
-  }
-  .controls input[type="number"] {
-    width: 60px;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    color: var(--text);
-    font-family: var(--mono);
-    font-size: 13px;
-    padding: 6px 8px;
-    text-align: center;
-  }
-  .controls input[type="number"]:focus {
-    outline: none;
-    border-color: var(--accent);
-  }
+/* ── Card ──────────────────────────────── */
+.card { background:var(--surface); border:1px solid var(--border); border-radius:12px; overflow:hidden; }
+.card-head { padding:12px 16px; border-bottom:1px solid var(--border); display:flex; align-items:center; justify-content:space-between; gap:10px; background:linear-gradient(180deg,var(--surface) 0%,var(--surface-2) 100%); }
+.card-title { font-weight:600; font-size:13px; }
+.card-meta { font-family:'JetBrains Mono',monospace; font-size:11px; color:var(--muted); }
+.head-actions { display:flex; gap:6px; }
 
-  .btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 10px 24px;
-    font-family: var(--mono);
-    font-size: 13px;
-    font-weight: 600;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    transition: all 0.15s ease;
-    letter-spacing: 0.3px;
-  }
-  .btn-primary {
-    background: var(--accent);
-    color: #fff;
-    margin-left: auto;
-  }
-  .btn-primary:hover { background: #536dfe; transform: translateY(-1px); }
-  .btn-primary:active { transform: translateY(0); }
-  .btn-primary:disabled {
-    opacity: 0.4;
-    cursor: not-allowed;
-    transform: none;
-  }
+/* ── Input ──────────────────────────────── */
+.input-body { padding: 14px 16px; }
+#domains {
+  width:100%; min-height:120px;
+  background:var(--bg); border:1.5px solid var(--border); border-radius:10px;
+  color:var(--text); font-family:'JetBrains Mono',monospace; font-size:13px;
+  padding:12px 14px; resize:vertical; line-height:1.7;
+  outline:none; transition:border-color .15s, background .15s;
+}
+#domains:focus { border-color:var(--violet); background:#0d0d10; box-shadow:0 0 0 3px rgba(139,92,246,.15); }
+#domains::placeholder { color:var(--muted); }
+#domains.drop { border-color:var(--violet); border-style:dashed; background:rgba(139,92,246,.06); }
+.input-foot { display:flex; align-items:center; gap:8px; margin-top:9px; font-size:11.5px; color:var(--muted); }
+.file-input { display:none; }
+.file-label { display:inline-flex; align-items:center; gap:6px; padding:5px 10px; border:1px solid var(--border); border-radius:6px; cursor:pointer; color:var(--sub); background:var(--surface-2); transition:all .12s; font-size:11px; }
+.file-label:hover { border-color:var(--violet); color:var(--text); }
 
-  .btn-clear {
-    background: var(--surface2);
-    color: var(--text-dim);
-    border: 1px solid var(--border);
-  }
-  .btn-clear:hover { color: var(--text); border-color: var(--text-dim); }
+/* ── Progress ──────────────────────────── */
+.progress { padding:0 16px 4px; display:none; }
+.progress.show { display:block; }
+.progress-track { height:5px; background:var(--border); border-radius:99px; overflow:hidden; }
+.progress-fill { height:100%; width:0%; background:linear-gradient(90deg,var(--violet),var(--blue)); transition:width .3s ease; border-radius:99px; }
+.progress-meta { display:flex; justify-content:space-between; margin-top:6px; font-family:'JetBrains Mono',monospace; font-size:11px; color:var(--muted); }
 
-  /* Results panel */
-  .results {
-    margin-top: 32px;
-  }
-  .results-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 16px;
-  }
-  .results-header h2 {
-    font-family: var(--mono);
-    font-size: 16px;
-    font-weight: 600;
-  }
-  .run-badge {
-    font-family: var(--mono);
-    font-size: 11px;
-    color: var(--text-dim);
-    background: var(--surface2);
-    border: 1px solid var(--border);
-    border-radius: 20px;
-    padding: 4px 12px;
-  }
+/* ── Action bar ─────────────────────────── */
+.actions { display:flex; align-items:center; gap:8px; padding:12px 16px; border-top:1px solid var(--border); background:var(--surface-2); flex-wrap:wrap; }
 
-  .progress-bar-wrap {
-    height: 3px;
-    background: var(--surface2);
-    border-radius: 2px;
-    margin-bottom: 20px;
-    overflow: hidden;
-  }
-  .progress-bar {
-    height: 100%;
-    background: var(--accent);
-    border-radius: 2px;
-    width: 0%;
-    transition: width 0.4s ease;
-  }
+.btn { display:inline-flex; align-items:center; gap:7px; padding:8px 14px; border-radius:8px; border:1.5px solid transparent; font-family:'Inter',sans-serif; font-size:12.5px; font-weight:600; cursor:pointer; transition:all .12s; white-space:nowrap; letter-spacing:-.1px; }
+.btn-primary { background:linear-gradient(180deg,var(--violet) 0%,#7c3aed 100%); color:#fff; box-shadow:0 1px 0 rgba(255,255,255,.15) inset, 0 4px 14px rgba(139,92,246,.35); }
+.btn-primary:hover:not(:disabled) { transform:translateY(-1px); box-shadow:0 1px 0 rgba(255,255,255,.15) inset, 0 6px 20px rgba(139,92,246,.45); }
+.btn-primary:disabled { opacity:.4; cursor:not-allowed; transform:none; box-shadow:none; }
+.btn-stop { background:linear-gradient(180deg,var(--red) 0%,#dc2626 100%); color:#fff; box-shadow:0 1px 0 rgba(255,255,255,.15) inset, 0 4px 14px rgba(239,68,68,.35); }
+.btn-stop:hover:not(:disabled) { transform:translateY(-1px); }
+.btn-stop:disabled { opacity:.4; cursor:not-allowed; transform:none; box-shadow:none; }
+.btn-ghost { background:transparent; color:var(--sub); border-color:var(--border); }
+.btn-ghost:hover { color:var(--text); border-color:var(--border-2); background:var(--surface-2); }
+.btn-mini { padding:5px 10px; font-size:11px; border-radius:6px; background:transparent; color:var(--sub); border:1px solid var(--border); font-family:'JetBrains Mono',monospace; cursor:pointer; transition:all .12s; }
+.btn-mini:hover { color:var(--text); border-color:var(--border-2); background:var(--surface-2); }
 
-  /* Site cards */
-  .site-card {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    padding: 14px 18px;
-    margin-bottom: 8px;
-    display: grid;
-    grid-template-columns: auto 1fr auto;
-    gap: 14px;
-    align-items: center;
-    font-size: 13px;
-    transition: border-color 0.2s;
-  }
-  .site-card.status-ok { border-left: 3px solid var(--green); }
-  .site-card.status-error { border-left: 3px solid var(--red); }
-  .site-card.status-running { border-left: 3px solid var(--yellow); }
-  .site-card.status-skipped { border-left: 3px solid var(--text-dim); }
+.spinner { display:none; width:12px; height:12px; border:2px solid rgba(255,255,255,.25); border-top-color:#fff; border-radius:50%; animation:spin .6s linear infinite; }
+@keyframes spin { to { transform:rotate(360deg); } }
+.kbd { font-family:'JetBrains Mono',monospace; font-size:10.5px; background:var(--bg); border:1px solid var(--border); border-radius:5px; padding:2px 7px; color:var(--muted); }
+.tbar-stat { margin-left:auto; font-family:'JetBrains Mono',monospace; font-size:11.5px; color:var(--sub); font-variant-numeric:tabular-nums; }
 
-  .site-status-dot {
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background: var(--text-dim);
-  }
-  .status-ok .site-status-dot { background: var(--green); box-shadow: 0 0 8px rgba(0,200,83,0.4); }
-  .status-error .site-status-dot { background: var(--red); }
-  .status-running .site-status-dot {
-    background: var(--yellow);
-    animation: pulse 1s ease-in-out infinite;
-  }
+/* ── Settings ──────────────────────────── */
+.settings { padding:14px 16px; display:flex; flex-direction:column; gap:12px; }
+.field { display:flex; flex-direction:column; gap:5px; }
+.field label { font-family:'JetBrains Mono',monospace; font-size:10.5px; font-weight:600; color:var(--muted); text-transform:uppercase; letter-spacing:.8px; }
+.field input[type=number], .field input[type=text] {
+  background:var(--bg); border:1.5px solid var(--border); border-radius:7px;
+  padding:8px 11px; font-family:'JetBrains Mono',monospace; font-size:12.5px;
+  color:var(--text); outline:none; transition:border-color .12s; font-variant-numeric:tabular-nums;
+}
+.field input:focus { border-color:var(--violet); box-shadow:0 0 0 3px rgba(139,92,246,.12); }
+.field-row { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+.toggle-row { display:flex; align-items:center; justify-content:space-between; padding:8px 0; border-top:1px solid var(--border); }
+.toggle-label { font-size:12.5px; color:var(--sub); font-weight:500; }
+.toggle { position:relative; width:34px; height:19px; flex-shrink:0; }
+.toggle input { opacity:0; width:0; height:0; }
+.toggle-track { position:absolute; inset:0; background:var(--border-2); border-radius:99px; cursor:pointer; transition:background .2s; }
+.toggle input:checked + .toggle-track { background:var(--violet); }
+.toggle-track::after { content:''; position:absolute; top:2px; left:2px; width:15px; height:15px; background:#fff; border-radius:50%; transition:transform .2s; box-shadow:0 1px 3px rgba(0,0,0,.3); }
+.toggle input:checked + .toggle-track::after { transform:translateX(15px); }
 
-  @keyframes pulse {
-    0%,100% { opacity: 1; }
-    50% { opacity: 0.3; }
-  }
+/* ── Tabs ──────────────────────────────── */
+.tabs { display:flex; gap:2px; background:var(--surface-2); padding:3px; border-radius:8px; }
+.tab { padding:5px 11px; font-size:11.5px; font-weight:500; color:var(--sub); border-radius:5px; cursor:pointer; transition:all .12s; border:none; background:transparent; font-family:'Inter',sans-serif; }
+.tab:hover { color:var(--text); }
+.tab.active { background:var(--surface-3); color:var(--text); }
+.tab-badge { font-family:'JetBrains Mono',monospace; font-size:10px; padding:1px 5px; border-radius:3px; margin-left:5px; background:var(--surface-3); color:var(--muted); }
+.tab.active .tab-badge { background:var(--violet-bg); color:var(--violet); }
 
-  .site-info {
-    min-width: 0;
-  }
-  .site-domain {
-    font-family: var(--mono);
-    font-weight: 600;
-    font-size: 13px;
-    color: var(--text);
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-  .site-meta {
-    font-size: 11px;
-    color: var(--text-dim);
-    font-family: var(--mono);
-    margin-top: 2px;
-  }
-  .site-stats {
-    text-align: right;
-    font-family: var(--mono);
-    font-size: 12px;
-    color: var(--text-dim);
-    white-space: nowrap;
-  }
-  .site-stats .chars {
-    color: var(--green);
-    font-weight: 600;
-  }
+.filter-input {
+  background:var(--bg); border:1px solid var(--border); border-radius:6px;
+  padding:5px 9px; font-family:'JetBrains Mono',monospace; font-size:11px;
+  color:var(--text); outline:none; width:200px;
+}
+.filter-input:focus { border-color:var(--violet); }
 
-  /* Log feed */
-  .log-feed {
-    margin-top: 24px;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    max-height: 240px;
-    overflow-y: auto;
-    padding: 12px 16px;
-    font-family: var(--mono);
-    font-size: 11px;
-    line-height: 1.8;
-    color: var(--text-dim);
-  }
-  .log-feed::-webkit-scrollbar { width: 6px; }
-  .log-feed::-webkit-scrollbar-track { background: transparent; }
-  .log-feed::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+/* ── Results table ─────────────────────── */
+.results { max-height:480px; overflow-y:auto; }
+table { width:100%; border-collapse:collapse; }
+thead th {
+  position:sticky; top:0; z-index:1; background:var(--surface-2);
+  padding:9px 14px; text-align:left;
+  font-family:'JetBrains Mono',monospace; font-size:10px;
+  font-weight:600; color:var(--muted); text-transform:uppercase;
+  letter-spacing:.8px; border-bottom:1px solid var(--border);
+}
+tbody td { padding:9px 14px; border-bottom:1px solid rgba(38,38,44,.6); font-size:12.5px; vertical-align:middle; }
+tbody tr { transition:background .08s; }
+tbody tr:hover { background:rgba(255,255,255,.02); }
+tbody tr.is-active { background:rgba(139,92,246,.06); }
+tbody tr:last-child td { border-bottom:none; }
+.td-domain { font-family:'JetBrains Mono',monospace; font-size:12px; font-weight:500; color:var(--text); }
+.td-num { font-family:'JetBrains Mono',monospace; font-size:11.5px; color:var(--sub); font-variant-numeric:tabular-nums; }
+.td-err { font-family:'JetBrains Mono',monospace; font-size:11px; color:#fca5a5; max-width:280px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.td-actions { display:flex; gap:4px; }
 
-  .log-entry { display: flex; gap: 10px; }
-  .log-time { color: var(--text-dim); opacity: 0.5; flex-shrink:0; }
-  .log-msg .ok { color: var(--green); }
-  .log-msg .err { color: var(--red); }
-  .log-msg .warn { color: var(--yellow); }
+.badge {
+  display:inline-flex; align-items:center; gap:5px;
+  font-family:'JetBrains Mono',monospace; font-size:10.5px; font-weight:600;
+  padding:3px 8px; border-radius:99px;
+}
+.b-ok    { background:var(--green-bg); color:var(--green); }
+.b-err   { background:var(--red-bg);   color:var(--red); }
+.b-pend  { background:var(--amber-bg); color:var(--amber); }
+.b-skip  { background:var(--surface-2); color:var(--muted); border:1px solid var(--border); }
+.b-active{ background:var(--violet-bg); color:var(--violet); }
+.b-stop  { background:var(--red-bg); color:var(--red); }
+.b-queued{ background:var(--blue-bg); color:var(--blue); }
 
-  /* Summary */
-  .summary-bar {
-    display: flex;
-    gap: 24px;
-    margin-top: 16px;
-    padding: 16px 20px;
-    background: var(--surface2);
-    border-radius: 10px;
-    font-family: var(--mono);
-    font-size: 13px;
-  }
-  .summary-stat { text-align: center; }
-  .summary-stat .val {
-    font-size: 22px;
-    font-weight: 700;
-    color: var(--text);
-  }
-  .summary-stat .label {
-    font-size: 11px;
-    color: var(--text-dim);
-    margin-top: 2px;
-  }
+.empty { padding:48px 20px; text-align:center; color:var(--muted); font-family:'JetBrains Mono',monospace; font-size:12px; }
 
-  .hidden { display: none !important; }
+/* ── Activity log ──────────────────────── */
+.log { padding:4px 0; max-height:240px; overflow-y:auto; }
+.log-row { display:grid; grid-template-columns:60px 16px 1fr auto; align-items:center; gap:10px; padding:5px 16px; font-size:12px; border-bottom:1px solid rgba(38,38,44,.4); }
+.log-row:last-child { border-bottom:none; }
+.log-time { font-family:'JetBrains Mono',monospace; font-size:10.5px; color:var(--muted); }
+.log-icon { font-family:'JetBrains Mono',monospace; font-size:13px; text-align:center; font-weight:700; }
+.log-msg { font-family:'JetBrains Mono',monospace; font-size:11.5px; color:var(--sub); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.log-tag { font-family:'JetBrains Mono',monospace; font-size:10.5px; color:var(--muted); flex-shrink:0; }
+.log-row.ok   .log-icon { color:var(--green); }
+.log-row.err  .log-icon { color:var(--red); }
+.log-row.warn .log-icon { color:var(--amber); }
+.log-row.info .log-icon { color:var(--blue); }
+.log-row.ok   .log-msg  { color:#d4d4d8; }
+.log-row.err  .log-msg  { color:#fca5a5; }
+.log-row.warn .log-msg  { color:#fcd34d; }
+
+/* ── Currently scraping panel ──────────── */
+.live-list { padding:12px 16px; max-height:340px; overflow-y:auto; }
+.live-site { margin-bottom:14px; padding-bottom:10px; border-bottom:1px solid var(--border); }
+.live-site:last-child { border-bottom:none; margin-bottom:0; padding-bottom:0; }
+.live-head { display:flex; align-items:center; gap:8px; margin-bottom:7px; }
+.live-name { font-family:'JetBrains Mono',monospace; font-size:12.5px; font-weight:600; color:var(--text); }
+.live-count { margin-left:auto; font-family:'JetBrains Mono',monospace; font-size:10.5px; color:var(--muted); }
+.live-page { display:flex; gap:8px; align-items:center; font-family:'JetBrains Mono',monospace; font-size:10.5px; color:var(--muted); padding:2px 0; }
+.live-page .ok { color:var(--green); }
+.live-page .err { color:var(--red); }
+.live-page .path { overflow:hidden; text-overflow:ellipsis; white-space:nowrap; flex:1; }
+
+/* ── History list ──────────────────────── */
+.history-list { padding:12px 16px; max-height:300px; overflow-y:auto; }
+.history-row { display:flex; align-items:center; gap:10px; padding:8px 0; border-bottom:1px solid var(--border); font-size:12px; }
+.history-row:last-child { border-bottom:none; }
+.history-id { font-family:'JetBrains Mono',monospace; color:var(--violet); font-weight:600; font-size:11px; }
+.history-stats { font-family:'JetBrains Mono',monospace; color:var(--muted); font-size:10.5px; margin-left:auto; text-align:right; }
+
+/* ── Scrollbars ────────────────────────── */
+::-webkit-scrollbar { width:6px; height:6px; }
+::-webkit-scrollbar-track { background:transparent; }
+::-webkit-scrollbar-thumb { background:var(--border-2); border-radius:99px; }
+::-webkit-scrollbar-thumb:hover { background:var(--muted); }
+
+/* ── Toast ─────────────────────────────── */
+.toast { position:fixed; bottom:20px; right:20px; background:var(--surface); border:1px solid var(--border-2); border-radius:8px; padding:10px 14px; font-size:12.5px; color:var(--text); box-shadow:0 8px 24px rgba(0,0,0,.4); opacity:0; transform:translateY(10px); transition:all .2s; z-index:100; pointer-events:none; }
+.toast.show { opacity:1; transform:translateY(0); }
+.toast.err  { border-color:var(--red); }
+.toast.ok   { border-color:var(--green); }
 </style>
 </head>
 <body>
-<div class="app">
-  <header>
-    <h1><span>▸</span> site_scraper</h1>
-    <p>Drop domains below, hit scrape. Output lands in <code style="font-family:var(--mono);color:var(--accent)">ALL_TEXT_FILES/</code></p>
-  </header>
 
-  <div class="drop-zone" id="drop-zone">
-    <div class="drop-zone-label" id="drop-label">
-      <span class="icon">⬇</span>
-      Paste or type site domains here<br>
-      <span style="font-size:12px">One per line, or space/comma separated</span>
-    </div>
-    <textarea id="site-input" placeholder="sonderenergy.com&#10;southerncurrentllc.com&#10;srenergy.com"></textarea>
+<!-- Topbar -->
+<div class="topbar">
+  <div class="brand">
+    <div class="brand-mark">W</div>
+    Wisnia Scraper
   </div>
-
-  <div class="controls">
-    <label>pages/site <input type="number" id="max-pages" value="25" min="1" max="200"></label>
-    <label>depth <input type="number" id="max-depth" value="2" min="1" max="5"></label>
-    <label>timeout(s) <input type="number" id="max-seconds" value="90" min="10" max="600"></label>
-    <label>workers <input type="number" id="max-workers" value="6" min="1" max="20"></label>
-    <button class="btn btn-clear" onclick="clearAll()">Clear</button>
-    <button class="btn btn-primary" id="scrape-btn" onclick="startScrape()">▶ Scrape</button>
+  <div class="status-pill">
+    <span class="dot" id="dot"></span>
+    <span id="statusText">idle</span>
   </div>
-
-  <div class="results hidden" id="results-panel">
-    <div class="results-header">
-      <h2 id="results-title">Running…</h2>
-      <span class="run-badge" id="run-badge"></span>
-    </div>
-    <div class="progress-bar-wrap"><div class="progress-bar" id="progress-bar"></div></div>
-
-    <div id="site-cards"></div>
-
-    <div class="summary-bar hidden" id="summary-bar">
-      <div class="summary-stat"><div class="val" id="sum-sites">0</div><div class="label">Sites</div></div>
-      <div class="summary-stat"><div class="val" id="sum-pages">0</div><div class="label">Pages</div></div>
-      <div class="summary-stat"><div class="val" id="sum-chars">0</div><div class="label">Chars</div></div>
-      <div class="summary-stat"><div class="val" id="sum-time">0s</div><div class="label">Time</div></div>
-    </div>
-
-    <div class="log-feed" id="log-feed"></div>
+  <div class="top-right">
+    <div class="tag" id="runTag">run <b>—</b></div>
+    <div class="tag">output → <b id="outTag">—</b></div>
   </div>
 </div>
 
+<div class="wrap">
+
+  <!-- LEFT COLUMN -->
+  <div class="col-left">
+
+    <!-- Stats -->
+    <div class="stats">
+      <div class="stat queue">
+        <div class="stat-label">Queued</div>
+        <div class="stat-val" id="stQueued">0</div>
+        <div class="stat-sub" id="stQueuedSub">awaiting input</div>
+      </div>
+      <div class="stat active">
+        <div class="stat-label">Active</div>
+        <div class="stat-val" id="stActive">0</div>
+        <div class="stat-sub" id="stActiveSub">in flight</div>
+      </div>
+      <div class="stat saved">
+        <div class="stat-label">Saved</div>
+        <div class="stat-val" id="stSaved">0</div>
+        <div class="stat-sub" id="stSavedSub">no sites yet</div>
+      </div>
+      <div class="stat failed">
+        <div class="stat-label">Failed</div>
+        <div class="stat-val" id="stFailed">0</div>
+        <div class="stat-sub" id="stFailedSub">0% error rate</div>
+      </div>
+      <div class="stat skip">
+        <div class="stat-label">Skipped</div>
+        <div class="stat-val" id="stSkipped">0</div>
+        <div class="stat-sub">resume cache</div>
+      </div>
+    </div>
+
+    <!-- Input -->
+    <div class="card">
+      <div class="card-head">
+        <span class="card-title">Domains</span>
+        <span class="card-meta" id="domainMeta">—</span>
+      </div>
+      <div class="input-body">
+        <textarea
+          id="domains"
+          spellcheck="false"
+          placeholder="sonderenergy.com&#10;southerncurrentllc.com&#10;srenergy.com"
+          oninput="onDomainsInput()"
+        ></textarea>
+        <div class="input-foot">
+          <label class="file-label">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+            Upload .txt
+            <input type="file" class="file-input" id="fileInput" accept=".txt,.csv" multiple>
+          </label>
+          <span>or drop a file / paste domains, one per line</span>
+        </div>
+      </div>
+      <div class="progress" id="progress">
+        <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+        <div class="progress-meta">
+          <span id="progressLabel">0 / 0 sites</span>
+          <span id="progressPct">0%</span>
+        </div>
+      </div>
+      <div class="actions">
+        <button class="btn btn-primary" id="runBtn" onclick="startRun()">
+          <span class="spinner" id="spinner"></span>
+          <span id="runLabel">Start Scrape</span>
+        </button>
+        <button class="btn btn-stop" id="stopBtn" onclick="stopRun()" disabled>Stop</button>
+        <button class="btn btn-ghost" onclick="clearAll()">Clear</button>
+        <button class="btn btn-ghost" onclick="exportResultsCsv()" id="exportBtn" disabled>Export CSV</button>
+        <span class="kbd">⌘↵</span>
+        <span class="tbar-stat" id="tbarStat"></span>
+      </div>
+    </div>
+
+    <!-- Results -->
+    <div class="card">
+      <div class="card-head">
+        <span class="card-title">Results</span>
+        <div class="head-actions">
+          <input type="text" id="filterText" class="filter-input" placeholder="filter domain or error…" oninput="renderResults()">
+          <div class="tabs">
+            <button class="tab active" data-filter="all" onclick="setFilter('all')">All <span class="tab-badge" id="cAll">0</span></button>
+            <button class="tab" data-filter="active" onclick="setFilter('active')">Active <span class="tab-badge" id="cActive">0</span></button>
+            <button class="tab" data-filter="ok" onclick="setFilter('ok')">Saved <span class="tab-badge" id="cOk">0</span></button>
+            <button class="tab" data-filter="error" onclick="setFilter('error')">Failed <span class="tab-badge" id="cErr">0</span></button>
+            <button class="tab" data-filter="skipped" onclick="setFilter('skipped')">Skipped <span class="tab-badge" id="cSkip">0</span></button>
+          </div>
+        </div>
+      </div>
+      <div class="results" id="results">
+        <div class="empty">no domains yet — upload a .txt file or paste domains above</div>
+      </div>
+    </div>
+
+    <!-- Activity log -->
+    <div class="card">
+      <div class="card-head">
+        <span class="card-title">Activity</span>
+        <div class="head-actions">
+          <button class="btn-mini" onclick="exportLog()">Export</button>
+          <button class="btn-mini" onclick="clearLog()">Clear</button>
+        </div>
+      </div>
+      <div class="log" id="log">
+        <div class="log-row info">
+          <span class="log-time">--:--:--</span>
+          <span class="log-icon">›</span>
+          <span class="log-msg">ready — paste domains or upload a .txt file</span>
+          <span class="log-tag"></span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div class="col-right">
+
+    <!-- Settings -->
+    <div class="card">
+      <div class="card-head"><span class="card-title">Settings</span></div>
+      <div class="settings">
+        <div class="field-row">
+          <div class="field"><label>Max Pages</label><input type="number" id="maxPages" value="25" min="1" max="200"></div>
+          <div class="field"><label>Max Depth</label><input type="number" id="maxDepth" value="2" min="0" max="5"></div>
+        </div>
+        <div class="field-row">
+          <div class="field"><label>Timeout (s)</label><input type="number" id="maxSeconds" value="90" min="10" max="600"></div>
+          <div class="field"><label>Workers</label><input type="number" id="maxWorkers" value="6" min="1" max="20"></div>
+        </div>
+        <div class="field">
+          <label>Output Directory</label>
+          <input type="text" id="outputDir" value="C:\Users\Temp\Documents\ChatGPTSc\ALL_TEXT_FILES">
+        </div>
+        <div class="toggle-row">
+          <span class="toggle-label">Resume (skip existing)</span>
+          <label class="toggle"><input type="checkbox" id="resume" checked><span class="toggle-track"></span></label>
+        </div>
+        <div class="toggle-row">
+          <span class="toggle-label">Save per-page files</span>
+          <label class="toggle"><input type="checkbox" id="savePerPage"><span class="toggle-track"></span></label>
+        </div>
+      </div>
+    </div>
+
+    <!-- Currently scraping -->
+    <div class="card">
+      <div class="card-head">
+        <span class="card-title">Currently Scraping</span>
+        <span class="card-meta" id="liveMeta">—</span>
+      </div>
+      <div class="live-list" id="liveBody">
+        <div class="empty" style="padding:24px 0;">idle</div>
+      </div>
+    </div>
+
+    <!-- Run history -->
+    <div class="card">
+      <div class="card-head">
+        <span class="card-title">Run History</span>
+        <span class="card-meta" id="histMeta">—</span>
+      </div>
+      <div class="history-list" id="histBody">
+        <div class="empty" style="padding:24px 0;">no past runs</div>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+
+<div class="toast" id="toast"></div>
+
 <script>
-const siteInput = document.getElementById('site-input');
-const dropZone = document.getElementById('drop-zone');
-const dropLabel = document.getElementById('drop-label');
-
-// Track content for label visibility
-siteInput.addEventListener('input', () => {
-  dropZone.classList.toggle('has-content', siteInput.value.trim().length > 0);
-});
-
-// Drag & drop text files
-dropZone.addEventListener('dragover', (e) => { e.preventDefault(); dropZone.classList.add('drag-over'); });
-dropZone.addEventListener('dragleave', () => { dropZone.classList.remove('drag-over'); });
-dropZone.addEventListener('drop', (e) => {
-  e.preventDefault();
-  dropZone.classList.remove('drag-over');
-  const text = e.dataTransfer.getData('text/plain');
-  if (text) {
-    siteInput.value = (siteInput.value ? siteInput.value + '\n' : '') + text;
-    dropZone.classList.add('has-content');
-    return;
-  }
-  // File drop
-  for (const file of e.dataTransfer.files) {
-    const reader = new FileReader();
-    reader.onload = (ev) => {
-      siteInput.value = (siteInput.value ? siteInput.value + '\n' : '') + ev.target.result;
-      dropZone.classList.add('has-content');
-    };
-    reader.readAsText(file);
-  }
-});
-
-function clearAll() {
-  siteInput.value = '';
-  dropZone.classList.remove('has-content');
-  siteInput.focus();
-}
-
-// State
+// ── State ───────────────────────────────────────────
+const results = {};        // domain key -> row { root_url, _status, pages_saved, ... , _flat_filename }
+const liveSites = {};      // site_key -> { url, pages:[{url,chars,status}], t0 }
+let running = false;
 let totalSites = 0;
 let doneSites = 0;
-let allResults = [];
+let logCount = 0;
+let evtSrc = null;
+let currentRunId = '';
+let filterMode = 'all';
 
-function addLog(msg, cls='') {
-  const feed = document.getElementById('log-feed');
-  const now = new Date().toLocaleTimeString();
-  const div = document.createElement('div');
-  div.className = 'log-entry';
-  div.innerHTML = `<span class="log-time">${now}</span><span class="log-msg">${cls ? `<span class="${cls}">${msg}</span>` : msg}</span>`;
-  feed.appendChild(div);
-  feed.scrollTop = feed.scrollHeight;
+// ── Util ────────────────────────────────────────────
+const esc = s => String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+const tsNow = () => new Date().toTimeString().slice(0,8);
+const fmt = n => (n == null ? '—' : Number(n).toLocaleString());
+
+function parseDomains(raw) {
+  return raw.split(/[\n\r,;\t ]+/)
+    .map(d => d.trim().toLowerCase().replace(/^https?:\/\//,'').replace(/\/.*/,''))
+    .filter(d => d && d.includes('.') && d.length > 3);
+}
+
+function domainKey(d) {
+  return d.replace(/^https?:\/\//,'').replace(/\/.*/,'').toLowerCase();
+}
+
+function toast(msg, type='info') {
+  const t = document.getElementById('toast');
+  t.className = 'toast show ' + type;
+  t.textContent = msg;
+  clearTimeout(toast._timer);
+  toast._timer = setTimeout(() => { t.classList.remove('show'); }, 2500);
+}
+
+function setStatus(state, text) {
+  document.getElementById('dot').className = `dot ${state}`;
+  document.getElementById('statusText').textContent = text;
+}
+
+// ── Domain input → row creation ────────────────────
+function onDomainsInput() {
+  const raw = document.getElementById('domains').value;
+  const domains = parseDomains(raw);
+
+  // For domains in the textarea that don't have a row yet, queue them
+  for (const d of domains) {
+    const k = domainKey(d);
+    if (!results[k]) {
+      results[k] = { root_url: 'https://' + k + '/', _status: 'queued' };
+    }
+  }
+  // Remove queued rows that were deleted from textarea (but keep finished ones)
+  const inputSet = new Set(domains.map(domainKey));
+  for (const k of Object.keys(results)) {
+    if (results[k]._status === 'queued' && !inputSet.has(k)) {
+      delete results[k];
+    }
+  }
+  document.getElementById('domainMeta').textContent = domains.length ? `${domains.length} domain${domains.length!==1?'s':''}` : '—';
+  renderResults();
+  updateStatsBar();
+}
+
+// ── Logging ────────────────────────────────────────
+function log(msg, type='info', tag='') {
+  const log = document.getElementById('log');
+  if (logCount === 0) log.innerHTML = '';
+  const icons = { ok:'✓', err:'✗', warn:'!', info:'›' };
+  const el = document.createElement('div');
+  el.className = `log-row ${type}`;
+  el.dataset.type = type;
+  el.dataset.text = msg;
+  el.innerHTML = `
+    <span class="log-time">${tsNow()}</span>
+    <span class="log-icon">${icons[type] || '·'}</span>
+    <span class="log-msg" title="${esc(msg)}">${esc(msg)}</span>
+    <span class="log-tag">${esc(tag)}</span>`;
+  log.appendChild(el);
+  log.scrollTop = log.scrollHeight;
+  logCount++;
+  document.getElementById('logMeta')?.replaceWith();
+  if (logCount > 1000) { log.removeChild(log.firstChild); logCount--; }
+}
+
+function clearLog() {
+  document.getElementById('log').innerHTML = '';
+  logCount = 0;
+  log('cleared', 'info');
+}
+
+function exportLog() {
+  const rows = [...document.querySelectorAll('#log .log-row')].map(r => ({
+    time: r.querySelector('.log-time').textContent,
+    type: r.dataset.type || 'info',
+    msg: r.dataset.text || r.querySelector('.log-msg').textContent,
+    tag: r.querySelector('.log-tag').textContent,
+  }));
+  const txt = rows.map(r => `[${r.time}] ${r.type.toUpperCase().padEnd(4)} ${r.msg}${r.tag?' ('+r.tag+')':''}`).join('\n');
+  downloadBlob(txt, `scraper_log_${Date.now()}.txt`, 'text/plain');
+  toast('log exported', 'ok');
+}
+
+function downloadBlob(content, filename, type) {
+  const blob = new Blob([content], { type });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url; a.download = filename;
+  document.body.appendChild(a); a.click();
+  document.body.removeChild(a);
+  setTimeout(() => URL.revokeObjectURL(url), 1000);
+}
+
+// ── Stats ──────────────────────────────────────────
+function updateStatsBar() {
+  const vals = Object.values(results);
+  const q  = vals.filter(r => r._status === 'queued').length;
+  const a  = vals.filter(r => r._status === 'pending' || r._status === 'active').length;
+  const ok = vals.filter(r => r._status === 'ok').length;
+  const err= vals.filter(r => r._status === 'error' || r._status === 'stopped').length;
+  const sk = vals.filter(r => r._status === 'skipped').length;
+  const total = vals.length;
+
+  document.getElementById('stQueued').textContent  = q;
+  document.getElementById('stActive').textContent  = a;
+  document.getElementById('stSaved').textContent   = ok;
+  document.getElementById('stFailed').textContent  = err;
+  document.getElementById('stSkipped').textContent = sk;
+
+  document.getElementById('stQueuedSub').textContent  = q ? 'ready to scrape' : (total ? 'all dispatched' : 'awaiting input');
+  document.getElementById('stActiveSub').textContent  = a ? 'in flight' : 'idle';
+  document.getElementById('stSavedSub').textContent   = total ? `${ok} of ${total} sites` : 'no sites yet';
+  document.getElementById('stFailedSub').textContent  = total ? `${Math.round((err/Math.max(total,1))*100)}% error rate` : '0% error rate';
+
+  // Tab counts
+  document.getElementById('cAll').textContent    = total;
+  document.getElementById('cActive').textContent = a;
+  document.getElementById('cOk').textContent     = ok;
+  document.getElementById('cErr').textContent    = err;
+  document.getElementById('cSkip').textContent   = sk;
+
+  document.getElementById('exportBtn').disabled = total === 0;
+}
+
+// ── Live panel ─────────────────────────────────────
+function renderLive() {
+  const body = document.getElementById('liveBody');
+  const meta = document.getElementById('liveMeta');
+  const active = Object.entries(liveSites);
+  if (!active.length) {
+    body.innerHTML = '<div class="empty" style="padding:24px 0;">idle</div>';
+    meta.textContent = '—';
+    return;
+  }
+  meta.textContent = `${active.length} active`;
+  body.innerHTML = active.map(([key, site]) => {
+    const elapsed = ((Date.now() - site.t0)/1000).toFixed(1);
+    const pages = site.pages.slice(-4).reverse().map(p => `
+      <div class="live-page">
+        <span class="${p.status==='ok'?'ok':'err'}">${p.status==='ok'?'✓':'✗'}</span>
+        <span class="path">${esc((p.url||'').replace(site.url||'', '').slice(0,48) || '/')}</span>
+        ${p.chars ? `<span>${fmt(p.chars)}</span>` : ''}
+      </div>`).join('');
+    return `
+      <div class="live-site">
+        <div class="live-head">
+          <span class="dot busy"></span>
+          <span class="live-name">${esc(key)}</span>
+          <span class="live-count">${site.pages.length} pg · ${elapsed}s</span>
+        </div>
+        ${pages || '<div class="live-page" style="color:var(--muted);">starting…</div>'}
+      </div>`;
+  }).join('');
+}
+
+// keep elapsed time fresh
+setInterval(() => { if (Object.keys(liveSites).length) renderLive(); }, 1000);
+
+// ── Results table ──────────────────────────────────
+function setFilter(f) {
+  filterMode = f;
+  document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.filter === f));
+  renderResults();
+}
+
+function matchesFilter(r) {
+  if (filterMode === 'all') return true;
+  if (filterMode === 'active') return r._status === 'pending' || r._status === 'active' || r._status === 'queued';
+  if (filterMode === 'ok')      return r._status === 'ok';
+  if (filterMode === 'error')   return r._status === 'error' || r._status === 'stopped';
+  if (filterMode === 'skipped') return r._status === 'skipped';
+  return true;
+}
+
+function renderResults() {
+  const body = document.getElementById('results');
+  const text = (document.getElementById('filterText')?.value || '').toLowerCase();
+  let keys = Object.keys(results);
+
+  if (text) {
+    keys = keys.filter(k => {
+      const r = results[k];
+      return k.includes(text) || (r._error || '').toLowerCase().includes(text);
+    });
+  }
+  keys = keys.filter(k => matchesFilter(results[k]));
+
+  const order = { active:0, pending:0, queued:1, error:2, stopped:2, skipped:3, ok:4 };
+  keys.sort((a,b) => {
+    const oa = order[results[a]._status] ?? 9;
+    const ob = order[results[b]._status] ?? 9;
+    if (oa !== ob) return oa - ob;
+    return a.localeCompare(b);
+  });
+
+  if (!keys.length) {
+    body.innerHTML = '<div class="empty">no rows match — try a different filter</div>';
+    updateStatsBar();
+    return;
+  }
+
+  const rows = keys.map(key => {
+    const r = results[key];
+    const isActive = r._status === 'active' || r._status === 'pending';
+    const badge =
+      r._status === 'ok'      ? `<span class="badge b-ok">✓ saved</span>` :
+      r._status === 'error'   ? `<span class="badge b-err">✗ failed</span>` :
+      r._status === 'stopped' ? `<span class="badge b-stop">⏹ stopped</span>` :
+      r._status === 'skipped' ? `<span class="badge b-skip">↩ skip</span>` :
+      isActive                ? `<span class="badge b-active">⟳ scraping</span>` :
+      r._status === 'queued'  ? `<span class="badge b-queued">⋯ queued</span>` :
+                                `<span class="badge b-pend">⋯ pending</span>`;
+    const pages = r.pages_saved != null ? `${r.pages_saved}/${r.pages_attempted ?? r.pages_saved}` : (r._live_pages != null ? `${r._live_pages}/—` : '—');
+    const chars = r.total_chars != null ? fmt(r.total_chars) : '—';
+    const sec   = r.duration_sec != null ? `${r.duration_sec}s` : (r._t0 ? `${((Date.now()-r._t0)/1000).toFixed(1)}s` : '—');
+    const errMsg = r._error ? `<td class="td-err" title="${esc(r._error)}">${esc(r._error.slice(0,80))}</td>` : '<td></td>';
+
+    let actions = '';
+    if (r._status === 'error' || r._status === 'stopped') {
+      actions = `<button class="btn-mini" onclick="retryDomain('${esc(key)}')" title="retry">↻</button>`;
+    } else if (r._status === 'ok' && r.site_key) {
+      actions = `<button class="btn-mini" onclick="openFile('${esc(key)}')" title="open .txt">↗</button>`;
+    }
+    if (r._error) {
+      actions += `<button class="btn-mini" onclick="copyError('${esc(key)}')" title="copy error">⎘</button>`;
+    }
+
+    return `<tr class="${isActive?'is-active':''}">
+      <td class="td-domain">${esc(key)}</td>
+      <td>${badge}</td>
+      <td class="td-num">${pages}</td>
+      <td class="td-num">${chars}</td>
+      <td class="td-num">${sec}</td>
+      ${errMsg}
+      <td class="td-actions">${actions}</td>
+    </tr>`;
+  }).join('');
+
+  body.innerHTML = `<table>
+    <thead><tr>
+      <th>Domain</th><th>Status</th><th>Pages</th><th>Chars</th><th>Time</th><th>Error</th><th></th>
+    </tr></thead>
+    <tbody>${rows}</tbody>
+  </table>`;
+
+  updateStatsBar();
+}
+
+// keep elapsed fresh for active rows
+setInterval(() => {
+  if (Object.values(results).some(r => r._t0 && (r._status === 'active' || r._status === 'pending'))) {
+    renderResults();
+  }
+}, 1000);
+
+function retryDomain(key) {
+  if (running) { toast('finish current run first', 'err'); return; }
+  results[key] = { root_url: 'https://' + key + '/', _status: 'queued' };
+  const ta = document.getElementById('domains');
+  ta.value = (ta.value.trim() ? ta.value.trim() + '\n' : '') + key;
+  renderResults();
+  toast('queued — press Start', 'ok');
+}
+
+function openFile(key) {
+  const r = results[key];
+  const outDir = document.getElementById('outputDir').value;
+  const path = outDir + (outDir.includes('\\') ? '\\' : '/') + (r.site_key || key) + '.txt';
+  fetch('/api/open_file', {
+    method: 'POST', headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ path })
+  }).then(r => r.json()).then(j => {
+    if (j.error) toast(j.error, 'err'); else toast('opened', 'ok');
+  });
+}
+
+function copyError(key) {
+  const err = results[key]?._error || '';
+  navigator.clipboard.writeText(err).then(() => toast('error copied', 'ok'));
+}
+
+function exportResultsCsv() {
+  const keys = Object.keys(results);
+  if (!keys.length) return;
+  const header = ['domain','status','pages_saved','pages_attempted','total_chars','duration_sec','error'];
+  const lines = [header.join(',')];
+  for (const k of keys) {
+    const r = results[k];
+    const row = [
+      k, r._status || '',
+      r.pages_saved ?? '', r.pages_attempted ?? '',
+      r.total_chars ?? '', r.duration_sec ?? '',
+      JSON.stringify(r._error || '').replace(/^"|"$/g,'')
+    ];
+    lines.push(row.map(v => {
+      const s = String(v);
+      return /[",\n]/.test(s) ? `"${s.replace(/"/g,'""')}"` : s;
+    }).join(','));
+  }
+  downloadBlob(lines.join('\n'), `scraper_results_${Date.now()}.csv`, 'text/csv');
+  toast('CSV exported', 'ok');
+}
+
+// ── SSE ────────────────────────────────────────────
+function listen(runId) {
+  if (evtSrc) { evtSrc.close(); evtSrc = null; }
+  evtSrc = new EventSource(`/api/events/${runId}`);
+  evtSrc.onmessage = ev => { try { handleEvent(JSON.parse(ev.data)); } catch {} };
+  evtSrc.onerror = () => { if (running) { log('connection lost', 'err'); finishRun(); } };
+}
+
+function handleEvent(msg) {
+  const { type, data } = msg;
+  if (!type || type === 'heartbeat') return;
+
+  if (type === 'run_info') {
+    totalSites = data.total_sites || 0;
+    doneSites = 0;
+    currentRunId = data.run_id || '';
+    document.getElementById('runTag').innerHTML = `run <b>${esc(currentRunId)}</b>`;
+    log(`run started — ${totalSites} unique site${totalSites!==1?'s':''}`, 'info');
+    updateProgress();
+    return;
+  }
+
+  if (type === 'site_start') {
+    const key = data.site_key;
+    liveSites[key] = { url: data.root_url, pages: [], t0: Date.now() };
+    if (results[key]) {
+      results[key]._status = 'active';
+      results[key]._t0 = Date.now();
+      results[key]._live_pages = 0;
+      results[key].root_url = data.root_url;
+    } else {
+      results[key] = { root_url: data.root_url, _status: 'active', _t0: Date.now(), _live_pages: 0 };
+    }
+    log(`→ ${key}`, 'info', 'start');
+    renderLive(); renderResults();
+    return;
+  }
+
+  if (type === 'page_done') {
+    const key = data.site_key;
+    if (liveSites[key]) {
+      liveSites[key].pages.push({ url: data.url, chars: data.chars, status: data.status === 'ok' ? 'ok' : 'err' });
+      renderLive();
+    }
+    if (results[key]) {
+      results[key]._live_pages = (results[key]._live_pages || 0) + 1;
+    }
+    return;
+  }
+
+  if (type === 'site_done') {
+    const key = data.site_key || data.root_url;
+    doneSites++;
+    const skipped = data.status === 'skipped_existing';
+    const stopped = data.status === 'stopped';
+    const failed  = data.status === 'invalid_url' || data.status === 'no_output' || data.status === 'error';
+
+    results[key] = {
+      ...(results[key] || {}),
+      ...data,
+      _status: skipped ? 'skipped' : stopped ? 'stopped' : failed ? 'error' : 'ok',
+      _error: (data.errors && data.errors.length) ? data.errors[0] : null,
+      _t0: null,
+    };
+
+    if (skipped)      log(`↩ ${data.root_url} — already exists`, 'warn');
+    else if (stopped) log(`⏹ ${data.root_url} — stopped by user`, 'warn', `${data.duration_sec ?? '?'}s`);
+    else if (failed)  log(`✗ ${data.root_url} — ${data.status}`, 'err', `${data.duration_sec ?? '?'}s`);
+    else              log(`✓ ${data.root_url} — ${data.pages_saved} pages · ${fmt(data.total_chars)} chars`, 'ok', `${data.duration_sec}s`);
+
+    delete liveSites[key];
+    renderLive(); renderResults();
+    updateProgress();
+    document.getElementById('tbarStat').textContent = `${doneSites} / ${totalSites}`;
+    return;
+  }
+
+  if (type === 'error') { log(`error: ${data.error || 'unknown'}`, 'err'); return; }
+
+  if (type === 'run_complete') {
+    const ok   = Object.values(results).filter(r => r._status === 'ok').length;
+    const err  = Object.values(results).filter(r => r._status === 'error').length;
+    const skip = Object.values(results).filter(r => r._status === 'skipped').length;
+    const stop = Object.values(results).filter(r => r._status === 'stopped').length;
+    const tail = data.stopped ? ' (stopped)' : '';
+    log(`run complete${tail} — ${ok} saved · ${err} failed · ${stop} stopped · ${skip} skipped`, ok > 0 ? 'ok' : 'warn');
+    document.getElementById('tbarStat').textContent = `${ok} saved · ${err} failed · ${stop} stopped · ${skip} skipped`;
+    finishRun();
+    refreshHistory();
+    return;
+  }
+
+  if (type === 'done') { finishRun(); return; }
 }
 
 function updateProgress() {
-  const pct = totalSites > 0 ? Math.round((doneSites / totalSites) * 100) : 0;
-  document.getElementById('progress-bar').style.width = pct + '%';
+  const pct = totalSites ? Math.round((doneSites / totalSites) * 100) : 0;
+  document.getElementById('progressFill').style.width = pct + '%';
+  document.getElementById('progressLabel').textContent = `${doneSites} / ${totalSites} sites`;
+  document.getElementById('progressPct').textContent = pct + '%';
 }
 
-function addSiteCard(siteKey, rootUrl, status) {
-  const container = document.getElementById('site-cards');
-  const id = 'card-' + siteKey.replace(/[^a-z0-9]/gi, '_');
-  let card = document.getElementById(id);
-  if (!card) {
-    card = document.createElement('div');
-    card.id = id;
-    card.className = 'site-card status-running';
-    card.innerHTML = `
-      <div class="site-status-dot"></div>
-      <div class="site-info">
-        <div class="site-domain">${siteKey}</div>
-        <div class="site-meta">${rootUrl}</div>
-      </div>
-      <div class="site-stats">crawling…</div>
-    `;
-    container.appendChild(card);
+// ── Run lifecycle ──────────────────────────────────
+async function startRun() {
+  if (running) return;
+  const raw = document.getElementById('domains').value;
+  const domains = parseDomains(raw);
+  if (!domains.length) { toast('no valid domains', 'err'); return; }
+
+  running = true;
+  Object.keys(liveSites).forEach(k => delete liveSites[k]);
+  renderLive();
+  setStatus('busy', 'running');
+  document.getElementById('runBtn').disabled = true;
+  document.getElementById('stopBtn').disabled = false;
+  document.getElementById('spinner').style.display = 'inline-block';
+  document.getElementById('runLabel').textContent = 'Running…';
+  document.getElementById('progress').classList.add('show');
+
+  // Make sure rows exist + mark them pending
+  for (const d of domains) {
+    const k = domainKey(d);
+    results[k] = { ...(results[k] || {}), root_url:'https://'+k+'/', _status:'pending' };
   }
-  return card;
-}
+  renderResults();
 
-function updateSiteCard(result) {
-  const siteKey = result.site_key;
-  const id = 'card-' + siteKey.replace(/[^a-z0-9]/gi, '_');
-  let card = document.getElementById(id);
-  if (!card) {
-    card = addSiteCard(siteKey, result.root_url, result.status);
-  }
-
-  const isOk = result.status === 'ok' || result.status === 'skipped_existing';
-  const isError = result.status === 'no_output' || result.status === 'invalid_url';
-
-  card.className = 'site-card ' + (isOk ? 'status-ok' : isError ? 'status-error' : 'status-skipped');
-
-  const charsStr = result.total_chars > 0 ? `<span class="chars">${(result.total_chars/1000).toFixed(1)}k</span> chars` : '—';
-  card.querySelector('.site-stats').innerHTML = `${result.pages_saved}pg · ${charsStr} · ${result.duration_sec}s`;
-
-  if (result.status === 'skipped_existing') {
-    card.querySelector('.site-meta').textContent = result.root_url + '  (cached)';
-  }
-}
-
-async function startScrape() {
-  const sitesText = siteInput.value.trim();
-  if (!sitesText) return;
-
-  const btn = document.getElementById('scrape-btn');
-  btn.disabled = true;
-  btn.textContent = '⏳ Running…';
-
-  document.getElementById('results-panel').classList.remove('hidden');
-  document.getElementById('summary-bar').classList.add('hidden');
-  document.getElementById('site-cards').innerHTML = '';
-  document.getElementById('log-feed').innerHTML = '';
-  document.getElementById('results-title').textContent = 'Running…';
-  document.getElementById('progress-bar').style.width = '0%';
-  totalSites = 0;
-  doneSites = 0;
-  allResults = [];
-
-  const body = {
-    sites: sitesText,
-    max_pages: document.getElementById('max-pages').value,
-    max_depth: document.getElementById('max-depth').value,
-    max_seconds: document.getElementById('max-seconds').value,
-    max_workers: document.getElementById('max-workers').value,
-  };
+  const outDir = document.getElementById('outputDir').value;
+  document.getElementById('outTag').textContent = outDir.split(/[\\\/]/).pop() || outDir;
 
   try {
-    const res = await fetch('/api/scrape', {
-      method: 'POST',
-      headers: {'Content-Type': 'application/json'},
-      body: JSON.stringify(body),
+    const resp = await fetch('/api/scrape', {
+      method:'POST',
+      headers:{ 'Content-Type':'application/json' },
+      body: JSON.stringify({
+        sites: domains.join('\n'),
+        output_dir: outDir,
+        max_pages: +document.getElementById('maxPages').value,
+        max_depth: +document.getElementById('maxDepth').value,
+        max_seconds: +document.getElementById('maxSeconds').value,
+        max_workers: +document.getElementById('maxWorkers').value,
+        resume: document.getElementById('resume').checked,
+        save_per_page: document.getElementById('savePerPage').checked,
+      })
     });
-    const data = await res.json();
-    if (data.error) { addLog(data.error, 'err'); btn.disabled = false; btn.textContent = '▶ Scrape'; return; }
-
-    document.getElementById('run-badge').textContent = 'run:' + data.run_id;
-    addLog(`Scrape started — ${data.sites_count} sites queued`);
-
-    // SSE
-    const evtSource = new EventSource(`/api/events/${data.run_id}`);
-    evtSource.onmessage = (e) => {
-      const msg = JSON.parse(e.data);
-
-      if (msg.type === 'run_info') {
-        totalSites = msg.data.total_sites;
-        addLog(`${totalSites} unique sites to crawl`);
-      }
-      else if (msg.type === 'site_start') {
-        addSiteCard(msg.data.site_key, msg.data.root_url, 'running');
-        addLog(`→ ${msg.data.site_key}`);
-      }
-      else if (msg.type === 'page_done') {
-        const s = msg.data.status === 'ok' ? 'ok' : 'warn';
-        if (msg.data.status === 'ok') {
-          addLog(`  ✓ ${msg.data.url.substring(0,80)} — ${msg.data.chars} chars`, 'ok');
-        }
-      }
-      else if (msg.type === 'site_done') {
-        doneSites++;
-        updateProgress();
-        updateSiteCard(msg.data);
-        allResults.push(msg.data);
-        const st = msg.data.status === 'ok' ? 'ok' : (msg.data.status === 'skipped_existing' ? '' : 'err');
-        addLog(`✔ ${msg.data.site_key} — ${msg.data.pages_saved} pages, ${msg.data.total_chars} chars`, st);
-      }
-      else if (msg.type === 'error') {
-        addLog(msg.data.error, 'err');
-      }
-      else if (msg.type === 'run_complete' || msg.type === 'done') {
-        evtSource.close();
-        btn.disabled = false;
-        btn.textContent = '▶ Scrape';
-        document.getElementById('results-title').textContent = 'Complete';
-        document.getElementById('progress-bar').style.width = '100%';
-        showSummary();
-      }
-    };
-    evtSource.onerror = () => {
-      evtSource.close();
-      btn.disabled = false;
-      btn.textContent = '▶ Scrape';
-    };
-
-  } catch (err) {
-    addLog('Failed to start: ' + err, 'err');
-    btn.disabled = false;
-    btn.textContent = '▶ Scrape';
+    const json = await resp.json();
+    if (!resp.ok || json.error) {
+      log(`error: ${json.error || 'request failed'}`, 'err');
+      finishRun();
+      return;
+    }
+    currentRunId = json.run_id;
+    totalSites = json.sites_count || domains.length;
+    doneSites = 0;
+    document.getElementById('runTag').innerHTML = `run <b>${esc(currentRunId)}</b>`;
+    updateProgress();
+    listen(currentRunId);
+  } catch (e) {
+    log('could not reach server', 'err');
+    finishRun();
   }
 }
 
-function showSummary() {
-  const bar = document.getElementById('summary-bar');
-  bar.classList.remove('hidden');
-  const sites = allResults.length;
-  const pages = allResults.reduce((a,r) => a + (r.pages_saved||0), 0);
-  const chars = allResults.reduce((a,r) => a + (r.total_chars||0), 0);
-  const secs = allResults.reduce((a,r) => a + (r.duration_sec||0), 0);
-  document.getElementById('sum-sites').textContent = sites;
-  document.getElementById('sum-pages').textContent = pages;
-  document.getElementById('sum-chars').textContent = chars > 1000 ? (chars/1000).toFixed(0) + 'k' : chars;
-  document.getElementById('sum-time').textContent = secs.toFixed(0) + 's';
+async function stopRun() {
+  if (!running || !currentRunId) return;
+  document.getElementById('stopBtn').disabled = true;
+  setStatus('stop', 'stopping…');
+  log('stop requested — finishing in-flight pages', 'warn');
+  try {
+    await fetch(`/api/stop/${currentRunId}`, { method:'POST' });
+    toast('stop signal sent', 'ok');
+  } catch (e) {
+    log('failed to send stop signal', 'err');
+    document.getElementById('stopBtn').disabled = false;
+  }
 }
+
+function finishRun() {
+  running = false;
+  setStatus('live', 'idle');
+  document.getElementById('runBtn').disabled = false;
+  document.getElementById('stopBtn').disabled = true;
+  document.getElementById('spinner').style.display = 'none';
+  document.getElementById('runLabel').textContent = 'Start Scrape';
+  Object.keys(liveSites).forEach(k => delete liveSites[k]);
+  renderLive();
+  setTimeout(() => {
+    document.getElementById('progress').classList.remove('show');
+    document.getElementById('progressFill').style.width = '0%';
+  }, 1500);
+}
+
+function clearAll() {
+  Object.keys(results).forEach(k => delete results[k]);
+  Object.keys(liveSites).forEach(k => delete liveSites[k]);
+  renderResults(); renderLive();
+  document.getElementById('domains').value = '';
+  document.getElementById('domainMeta').textContent = '—';
+  document.getElementById('log').innerHTML = '';
+  logCount = 0;
+  document.getElementById('tbarStat').textContent = '';
+  document.getElementById('runTag').innerHTML = 'run <b>—</b>';
+  log('cleared', 'info');
+}
+
+// ── File upload / drop ────────────────────────────
+async function ingestFiles(files) {
+  let added = 0;
+  for (const f of files) {
+    const text = await f.text();
+    const ta = document.getElementById('domains');
+    const newDomains = parseDomains(text);
+    if (!newDomains.length) continue;
+    const existing = new Set(parseDomains(ta.value));
+    const merged = [...existing, ...newDomains.filter(d => !existing.has(d))];
+    ta.value = merged.join('\n');
+    added += newDomains.length;
+  }
+  if (added) {
+    onDomainsInput();
+    log(`uploaded ${added} domain${added!==1?'s':''} from ${files.length} file${files.length!==1?'s':''}`, 'info');
+    toast(`added ${added} domain${added!==1?'s':''}`, 'ok');
+  } else {
+    toast('no valid domains found', 'err');
+  }
+}
+
+document.getElementById('fileInput').addEventListener('change', e => {
+  if (e.target.files.length) ingestFiles(e.target.files);
+  e.target.value = '';
+});
+
+const ta = document.getElementById('domains');
+ta.addEventListener('dragover',  e => { e.preventDefault(); ta.classList.add('drop'); });
+ta.addEventListener('dragleave', () => ta.classList.remove('drop'));
+ta.addEventListener('drop', e => {
+  e.preventDefault();
+  ta.classList.remove('drop');
+  if (e.dataTransfer.files.length) {
+    ingestFiles(e.dataTransfer.files);
+    return;
+  }
+  const text = e.dataTransfer.getData('text/plain');
+  if (text) {
+    ta.value = ta.value.trim() ? ta.value.trim() + '\n' + text : text;
+    onDomainsInput();
+  }
+});
+
+document.addEventListener('keydown', e => {
+  if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') startRun();
+  if (e.key === 'Escape' && running) stopRun();
+});
+
+// ── Run history ───────────────────────────────────
+async function refreshHistory() {
+  try {
+    const r = await fetch('/api/runs');
+    const j = await r.json();
+    const list = j.history || [];
+    const body = document.getElementById('histBody');
+    document.getElementById('histMeta').textContent = list.length ? `${list.length} run${list.length!==1?'s':''}` : '—';
+    if (!list.length) {
+      body.innerHTML = '<div class="empty" style="padding:24px 0;">no past runs</div>';
+      return;
+    }
+    body.innerHTML = list.map(h => {
+      const when = (h.finished || '').slice(11,19);
+      return `<div class="history-row">
+        <span class="history-id">${esc(h.run_id)}</span>
+        <span style="color:var(--sub);">${esc(when)}</span>
+        <span class="history-stats">
+          ${h.saved}✓ · ${h.failed}✗ · ${h.skipped}↩ · ${h.total_sites} sites
+        </span>
+      </div>`;
+    }).join('');
+  } catch {}
+}
+
+setStatus('live', 'idle');
+updateStatsBar();
+document.getElementById('outTag').textContent =
+  (document.getElementById('outputDir').value.split(/[\\\/]/).pop()) || '—';
+refreshHistory();
 </script>
+
 </body>
 </html>

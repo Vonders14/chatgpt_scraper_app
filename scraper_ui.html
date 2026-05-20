@@ -760,9 +760,9 @@ function renderResults() {
 }
 
 // ── SSE ───────────────────────────────────────────────────────────────────────
-function listenSSE() {
+function listenSSE(runId) {
   if (evtSource) { evtSource.close(); evtSource = null; }
-  evtSource = new EventSource('/events');
+  evtSource = new EventSource(`/events/${runId}`);
 
   evtSource.addEventListener('run_start', e => {
     const d = JSON.parse(e.data);
@@ -835,8 +835,6 @@ async function startRun() {
     results[key] = { root_url: 'https://'+key, _status: 'pending' };
   }
   renderResults();
-  listenSSE();
-
   try {
     const resp = await fetch('/start', {
       method: 'POST',
@@ -853,7 +851,8 @@ async function startRun() {
       }),
     });
     const json = await resp.json();
-    if (!json.ok) { log(`error: ${json.error}`, 'err'); finishRun(); }
+    if (!json.ok) { log(`error: ${json.error}`, 'err'); finishRun(); return; }
+    listenSSE(json.run_id);
   } catch(e) {
     log('could not reach server', 'err');
     finishRun();
